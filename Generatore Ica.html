@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KIRA ACCESS GATE ACESTREAM</title>
+    <style>
+        body { background-color: #000; color: #00ff41; font-family: monospace; padding: 20px; }
+        .box { max-width: 900px; margin: 0 auto; border: 2px solid #00ff41; padding: 20px; box-shadow: 0 0 15px #00ff41; }
+        h2 { text-align: center; color: #ff00ff; text-transform: uppercase; border-bottom: 1px solid #00ff41; padding-bottom: 10px; }
+        .input-group { margin-bottom: 15px; }
+        label { display: block; color: #ff00ff; margin-bottom: 5px; font-weight: bold; }
+        input[type="text"], input[type="file"], textarea { 
+            width: 100%; background: #111; border: 1px solid #00ff41; color: #00ff41; padding: 10px; box-sizing: border-box; 
+        }
+        .controls { display: flex; gap: 10px; margin: 20px 0; flex-wrap: wrap; }
+        button { 
+            flex: 1; padding: 12px; cursor: pointer; background: #000; color: #00ff41; border: 2px solid #00ff41; 
+            font-weight: bold; text-transform: uppercase; transition: 0.3s;
+        }
+        button:hover { background: #00ff41; color: #000; box-shadow: 0 0 10px #00ff41; }
+        #preview-label { display: none; margin-top: 20px; }
+        #htmlOutput { display: none; height: 300px; margin-top: 10px; font-size: 12px; }
+        #preview-frame { 
+            display: none; width: 100%; height: 600px; background: #fff; margin-top: 20px; border: 3px solid #ff00ff; 
+        }
+    </style>
+</head>
+<body>
+
+<div class="box">
+    <h2>KIRA GSI ACESTREAM</h2>
+    
+    <div class="input-group">
+        <label>1. Carica il file ica.txt:</label>
+        <input type="file" id="fileInput" accept=".txt">
+    </div>
+
+    <div class="input-group">
+        <label>2. Titolo Intestazione (H1):</label>
+        <input type="text" id="eventTitle" placeholder="Esempio: ULTIMATE LIVE EVENTS 28/02/2026">
+    </div>
+
+    <div class="controls">
+        <button onclick="processData('code')">Visualizza Codice</button>
+        <button onclick="processData('preview')">Anteprima Grafica</button>
+        <button onclick="downloadFile()">Scarica HTML</button>
+    </div>
+
+    <label id="preview-label">Risultato Generato:</label>
+    <textarea id="htmlOutput" readonly></textarea>
+    <iframe id="preview-frame"></iframe>
+</div>
+
+<script>
+    let rawText = "";
+
+    // Legge il file TXT
+    document.getElementById('fileInput').addEventListener('change', function(e) {
+        const file = e.target.files[0];
+        if (!file) return;
+        const reader = new FileReader();
+        reader.onload = (e) => { rawText = e.target.result; };
+        reader.readAsText(file);
+    });
+
+    function generateFinalHTML() {
+        const title = document.getElementById('eventTitle').value || "ULTIMATE LIVE EVENTS";
+        
+        // Costruzione del template stringa per evitare conflitti di backtick
+        const template = `<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, nofollow">
+    <title>KIRA ACCESS GATE</title>
+    <style>
+        body { background-color: #000; color: #00ff41; font-family: 'Consolas', monospace; margin: 0; padding: 0; display: flex; flex-direction: column; min-height: 100vh; text-shadow: 0 0 5px rgba(0, 255, 65, 0.8); }
+        header { text-align: center; padding: 20px 0; background-color: rgba(0, 255, 65, 0.05); border-bottom: 2px solid #00ff41; margin-bottom: 20px; }
+        header h2 { margin: 0; letter-spacing: 5px; color: #00ff41; }
+        .container { max-width: 950px; margin: 0 auto 40px auto; border: 2px solid #00ff41; box-shadow: 0 0 20px #00ff41; padding: 10px; background: #000; flex: 1; }
+        h1 { color: #ff00ff; text-align: center; text-shadow: 0 0 10px #ff00ff; border-bottom: 2px dashed #00ff41; padding-bottom: 10px; }
+        .event-group { margin-bottom: 10px; border-left: 3px solid #00ff41; }
+        .event-header { background: rgba(0, 255, 65, 0.1); color: #00ff41; padding: 12px; cursor: pointer; display: flex; justify-content: space-between; align-items: center; border: 1px solid #00ff41; font-weight: bold; }
+        .event-header.active { background: #00ff41; color: #000; }
+        .event-info { display: flex; align-items: center; gap: 10px; }
+        .event-logo { width: 30px; height: 30px; object-fit: contain; }
+        .stream-links { list-style: none; padding: 0; margin: 0; overflow: hidden; max-height: 0; transition: max-height 0.3s ease; background: #111; }
+        .stream-links li { padding: 10px; border-bottom: 1px solid #333; display: flex; justify-content: space-between; font-size: 14px; }
+        .channel-desc { color: #ffcc00; }
+        .acestream-link { color: #00ffff; text-decoration: none; font-size: 0.8em; }
+        footer { text-align: center; padding: 15px; border-top: 2px solid #00ff41; font-size: 0.8em; }
+    </style>
+</head>
+<body>
+<header><h2>KIRA ACCESS GATE</h2></header>
+<div class="container">
+    <h1>${title}</h1>
+    <div id="events-list"></div>
+</div>
+<footer>RE-MOD BY KIRA GSI 2026</footer>
+
+<script>
+    const data = \`${rawText.replace(/`/g, '\\`').replace(/\$/g, '\\$')}\`;
+    const list = document.getElementById('events-list');
+    const events = {};
+    
+    data.split('\\n').forEach(line => {
+        if(line.startsWith('#EXTINF')) {
+            const logo = line.match(/tvg-logo="([^"]+)"/)?.[1] || "";
+            const name = line.split(',')[1]?.trim() || "Evento";
+            this.lastEvent = name;
+            if(!events[name]) events[name] = { logo, links: [] };
+        } else if(line.startsWith('acestream://')) {
+            events[this.lastEvent].links.push(line.trim());
+        }
+    });
+
+    for(let name in events) {
+        const div = document.createElement('div');
+        div.className = 'event-group';
+        div.innerHTML = \`
+            <div class="event-header">
+                <div class="event-info">
+                    \${events[name].logo ? '<img src="'+events[name].logo+'" class="event-logo">' : ''}
+                    <span>\${name}</span>
+                </div>
+                <span>▶</span>
+            </div>
+            <ul class="stream-links">
+                \${events[name].links.map((link, i) => \`
+                    <li>
+                        <span class="channel-desc">Link \${i+1}</span>
+                        <a href="\${link}" class="acestream-link">\${link}</a>
+                    </li>
+                \`).join('')}
+            </ul>\`;
+        list.appendChild(div);
+        div.querySelector('.event-header').onclick = function() {
+            this.classList.toggle('active');
+            const content = this.nextElementSibling;
+            content.style.maxHeight = content.style.maxHeight ? null : content.scrollHeight + "px";
+        };
+    }
+<\/script>
+</body>
+</html>`;
+        return template;
+    }
+
+    function processData(mode) {
+        if(!rawText) { alert("Carica prima il file ica.txt!"); return; }
+        const finalHTML = generateFinalHTML();
+        
+        if(mode === 'code') {
+            document.getElementById('htmlOutput').value = finalHTML;
+            document.getElementById('htmlOutput').style.display = 'block';
+            document.getElementById('preview-frame').style.display = 'none';
+            document.getElementById('preview-label').style.display = 'block';
+        } else {
+            const frame = document.getElementById('preview-frame');
+            frame.style.display = 'block';
+            document.getElementById('htmlOutput').style.display = 'none';
+            document.getElementById('preview-label').style.display = 'none';
+            const doc = frame.contentWindow.document;
+            doc.open();
+            doc.write(finalHTML);
+            doc.close();
+        }
+    }
+
+    function downloadFile() {
+        if(!rawText) { alert("Carica il file!"); return; }
+        const blob = new Blob([generateFinalHTML()], {type: 'text/html'});
+        const a = document.createElement('a');
+        a.href = URL.createObjectURL(blob);
+        a.download = 'Kira_Ica_Acestream.html';
+        a.click();
+    }
+</script>
+</body>
+</html>

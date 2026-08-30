@@ -1,0 +1,577 @@
+
+import requests
+from bs4 import BeautifulSoup
+import re
+from datetime import datetime
+
+def extract_events():
+    """Estrae eventi e canali dal HTML"""
+    
+    url = "https://www.rojadirecta.st/"
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Language': 'it-IT,it;q=0.9,en;q=0.8',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Connection': 'keep-alive',
+        'Cache-Control': 'max-age=0'
+    }
+    
+    try:
+        print("🌐 Scaricamento pagina...")
+        response = requests.get(url, headers=headers, timeout=15)
+        response.raise_for_status()
+        
+        soup = BeautifulSoup(response.text, 'html.parser')
+        events = []
+        
+        # Cerca tutti i div con classe 'match'
+        match_divs = soup.find_all('div', class_='match')
+        print(f"🔍 Trovati {len(match_divs)} eventi")
+        
+        for match in match_divs:
+            try:
+                # Riga principale
+                row = match.find('div', class_='row')
+                if not row:
+                    continue
+                
+                # Orario
+                time_span = row.find('span', class_='time')
+                time = time_span.get_text(strip=True) if time_span else '??:??'
+                
+                # Nome evento
+                name_span = row.find('span', class_='name')
+                if not name_span:
+                    continue
+                
+                event_text = name_span.get_text(strip=True)
+                # Rimuovi eventuali frecce
+                event_text = re.sub(r'[▸▼›]', '', event_text).strip()
+                
+                # Separa competizione e squadre
+                competition = ''
+                teams = event_text
+                if ':' in event_text:
+                    parts = event_text.split(':', 1)
+                    competition = parts[0].strip()
+                    teams = parts[1].strip()
+                elif ' - ' in event_text:
+                    parts = event_text.split(' - ', 1)
+                    competition = parts[0].strip()
+                    teams = parts[1].strip() if len(parts) > 1 else ''
+                
+                # Estrai canali dal div 'chans'
+                channels = []
+                channels_div = match.find('div', class_='chans')
+                if channels_div:
+                    channel_links = channels_div.find_all('a')
+                    for link in channel_links:
+                        href = link.get('href', '')
+                        name = link.get_text(strip=True)
+                        if href and not href.startswith('#'):
+                            channels.append({
+                                'name': name or f"Canal {len(channels)+1}",
+                                'url': href
+                            })
+                
+                events.append({
+                    'time': time,
+                    'competition': competition,
+                    'teams': teams,
+                    'full_title': event_text,
+                    'channels': channels,
+                    'has_channels': bool(channels)
+                })
+                
+            except Exception as e:
+                continue
+        
+        return events
+        
+    except Exception as e:
+        print(f"❌ Errore: {e}")
+        return []
+
+def generate_html(events):
+    """Genera l'HTML finale cyberpunk"""
+    today = datetime.now().strftime("%d-%m-%Y")
+    filename = f"Agenda Sportiva ({today}).html"
+    
+    # Filtra eventi con canali
+    events_with_channels = [e for e in events if e.get('channels')]
+    
+    # Raggruppa per orario
+    by_time = {}
+    for event in events_with_channels:
+        time = event.get('time', '99:99')
+        if time not in by_time:
+            by_time[time] = []
+        by_time[time].append(event)
+    
+    # Genera HTML eventi
+    events_html = ""
+    for time in sorted(by_time.keys()):
+        events_html += f"""
+                <div class="time-slot">
+                    <div class="time-header">⏰ {time}</div>
+                    <div class="events-list">"""
+        
+        for event in by_time[time]:
+            channels_html = '<div class="channels-grid">'
+            for ch in event['channels']:
+                channels_html += f'''
+                    <a href="{ch['url']}" target="_blank" class="channel-btn">
+                        ▶ {ch['name']}
+                    </a>'''
+            channels_html += '</div>'
+            
+            events_html += f"""
+                        <div class="event-card">
+                            <div class="event-header">
+                                <span class="competition">{event['competition']}</span>
+                                <span class="teams">{event['teams']}</span>
+                            </div>
+                            {channels_html}
+                        </div>"""
+        
+        events_html += """
+                    </div>
+                </div>"""
+    
+    # HTML completo con stile cyberpunk
+    html_content = f'''<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KIRA GSI AGENDA SPORTIVA</title>
+    <link href="https://fonts.googleapis.com/css2?family=Audiowide&family=Orbitron:wght@400;700;900&family=Space+Grotesk:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        * {{ margin: 0; padding: 0; box-sizing: border-box; }}
+        
+        body {{
+            font-family: 'Space Grotesk', sans-serif;
+            background: #0a0a0a;
+            color: #00ff41;
+            min-height: 100vh;
+            padding: 20px;
+            position: relative;
+            overflow-x: hidden;
+        }}
+
+        /* Matrix Background */
+        #matrix-bg {{
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+            pointer-events: none;
+            opacity: 0.06;
+            overflow: hidden;
+            background: #000;
+        }}
+
+        .matrix-col {{
+            position: absolute;
+            top: -100%;
+            animation: fall linear infinite;
+            color: #00ff41;
+            font-family: 'Courier New', monospace;
+            font-size: 14px;
+            white-space: nowrap;
+            opacity: 0.3;
+            text-shadow: 0 0 5px #00ff41;
+        }}
+
+        @keyframes fall {{
+            0% {{ transform: translateY(0); opacity: 0.3; }}
+            100% {{ transform: translateY(100vh); opacity: 0.05; }}
+        }}
+
+        .container {{
+            position: relative;
+            z-index: 1;
+            max-width: 1200px;
+            margin: 0 auto;
+        }}
+
+        /* Header Cyberpunk */
+        .header {{
+            text-align: center;
+            padding: 40px 20px 30px;
+            border-bottom: 2px solid #00ff41;
+            margin-bottom: 40px;
+            background: rgba(0,0,0,0.9);
+            border-radius: 10px;
+            box-shadow: 0 0 60px rgba(0,255,65,0.1);
+            position: relative;
+            overflow: hidden;
+        }}
+
+        .header::before {{
+            content: '';
+            position: absolute;
+            top: -2px;
+            left: -100%;
+            width: 200%;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, #00ff41, transparent);
+            animation: scan 4s linear infinite;
+        }}
+
+        @keyframes scan {{
+            0% {{ transform: translateX(-50%); }}
+            100% {{ transform: translateX(50%); }}
+        }}
+
+        .header h1 {{
+            font-family: 'Orbitron', sans-serif;
+            font-weight: 900;
+            font-size: 3.5em;
+            color: #00ff41;
+            text-shadow: 0 0 30px #00ff41, 0 0 60px rgba(0,255,65,0.3);
+            letter-spacing: 4px;
+            animation: glitch 3s infinite;
+        }}
+
+        @keyframes glitch {{
+            0%,100% {{ transform: translate(0); }}
+            20% {{ transform: translate(-1px, 1px); }}
+            40% {{ transform: translate(1px, -1px); }}
+            60% {{ transform: translate(-1px, -1px); }}
+            80% {{ transform: translate(1px, 1px); }}
+        }}
+
+        .header .subtitle {{
+            font-family: 'Audiowide', cursive;
+            font-size: 1.3em;
+            color: #00cc33;
+            margin-top: 10px;
+            letter-spacing: 10px;
+            text-shadow: 0 0 20px rgba(0,255,65,0.3);
+        }}
+
+        .header .date {{
+            font-family: 'Orbitron', sans-serif;
+            font-weight: 400;
+            font-size: 1em;
+            color: #00ff41;
+            margin-top: 15px;
+            padding: 8px 25px;
+            border: 1px solid #00ff41;
+            display: inline-block;
+            border-radius: 5px;
+            background: rgba(0,255,65,0.05);
+            letter-spacing: 2px;
+        }}
+
+        /* Stats */
+        .stats {{
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            padding: 20px;
+            margin-bottom: 30px;
+            background: rgba(0,0,0,0.9);
+            border: 1px solid #00ff41;
+            border-radius: 10px;
+        }}
+
+        .stat-item {{
+            text-align: center;
+            font-family: 'Orbitron', sans-serif;
+        }}
+
+        .stat-item .num {{
+            font-size: 2.2em;
+            font-weight: 900;
+            color: #00ff41;
+            text-shadow: 0 0 20px rgba(0,255,65,0.5);
+        }}
+
+        .stat-item .label {{
+            font-size: 0.7em;
+            color: #00cc33;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-top: 5px;
+        }}
+
+        /* Time Slots */
+        .time-slot {{
+            background: rgba(0,0,0,0.9);
+            border: 1px solid #00ff41;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            overflow: hidden;
+            box-shadow: 0 0 30px rgba(0,255,65,0.05);
+            transition: all 0.3s ease;
+        }}
+
+        .time-slot:hover {{
+            box-shadow: 0 0 50px rgba(0,255,65,0.15);
+        }}
+
+        .time-header {{
+            font-family: 'Orbitron', sans-serif;
+            font-weight: 700;
+            font-size: 1.6em;
+            padding: 15px 20px;
+            background: rgba(0,255,65,0.05);
+            border-bottom: 1px solid #00ff41;
+            color: #00ff41;
+            text-shadow: 0 0 20px rgba(0,255,65,0.3);
+            letter-spacing: 2px;
+        }}
+
+        .events-list {{
+            padding: 15px;
+        }}
+
+        /* Event Cards */
+        .event-card {{
+            padding: 15px;
+            margin: 10px 0;
+            background: rgba(0,255,65,0.02);
+            border-left: 3px solid #00ff41;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+        }}
+
+        .event-card:hover {{
+            background: rgba(0,255,65,0.06);
+            transform: translateX(5px);
+        }}
+
+        .event-header {{
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            align-items: center;
+            margin-bottom: 10px;
+        }}
+
+        .competition {{
+            font-family: 'Audiowide', cursive;
+            font-size: 0.8em;
+            color: #00cc33;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            padding: 3px 12px;
+            border: 1px solid #00cc33;
+            border-radius: 3px;
+            background: rgba(0,204,51,0.05);
+        }}
+
+        .teams {{
+            font-family: 'Space Grotesk', sans-serif;
+            font-weight: 600;
+            font-size: 1.1em;
+            color: #00ff41;
+            text-shadow: 0 0 10px rgba(0,255,65,0.1);
+        }}
+
+        /* Channels */
+        .channels-grid {{
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 5px;
+            padding-left: 5px;
+        }}
+
+        .channel-btn {{
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 0.75em;
+            font-weight: 600;
+            color: #000;
+            background: #00ff41;
+            padding: 5px 14px;
+            border-radius: 4px;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            border: none;
+            cursor: pointer;
+            letter-spacing: 0.5px;
+        }}
+
+        .channel-btn:hover {{
+            background: #ffffff;
+            color: #000;
+            box-shadow: 0 0 30px #00ff41, 0 0 60px rgba(0,255,65,0.3);
+            transform: scale(1.05) translateY(-2px);
+        }}
+
+        .channel-btn:active {{
+            transform: scale(0.95);
+        }}
+
+        /* Footer */
+        .footer {{
+            margin-top: 50px;
+            padding: 30px 20px;
+            text-align: center;
+            border-top: 2px solid #00ff41;
+            font-family: 'Orbitron', sans-serif;
+            font-size: 0.9em;
+            color: #00cc33;
+            letter-spacing: 4px;
+            background: rgba(0,0,0,0.9);
+            border-radius: 10px;
+        }}
+
+        .footer .glitch {{
+            animation: glitch 4s infinite;
+            display: inline-block;
+        }}
+
+        .footer .source {{
+            font-size: 0.6em;
+            opacity: 0.4;
+            margin-top: 10px;
+            letter-spacing: 2px;
+        }}
+
+        /* Responsive */
+        @media (max-width: 768px) {{
+            body {{ padding: 10px; }}
+            .header h1 {{ font-size: 2em; }}
+            .header .subtitle {{ font-size: 0.9em; letter-spacing: 5px; }}
+            .stat-item .num {{ font-size: 1.6em; }}
+            .time-header {{ font-size: 1.2em; }}
+            .teams {{ font-size: 0.95em; }}
+            .competition {{ font-size: 0.7em; }}
+            .channel-btn {{ font-size: 0.7em; padding: 4px 10px; }}
+        }}
+
+        @media (max-width: 480px) {{
+            .header h1 {{ font-size: 1.4em; }}
+            .stats {{ grid-template-columns: repeat(2, 1fr); }}
+            .channel-btn {{ font-size: 0.65em; padding: 3px 8px; }}
+        }}
+    </style>
+</head>
+<body>
+    <!-- Matrix Background -->
+    <div id="matrix-bg"></div>
+
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <h1>KIRA GSI</h1>
+            <div class="subtitle">AGENDA SPORTIVA</div>
+            <div class="date">📅 {datetime.now().strftime("%A, %d %B %Y").upper()}</div>
+        </header>
+
+        <!-- Stats -->
+        <div class="stats">
+            <div class="stat-item">
+                <div class="num">{len(events_with_channels)}</div>
+                <div class="label">Eventi Totali</div>
+            </div>
+            <div class="stat-item">
+                <div class="num">{len(by_time)}</div>
+                <div class="label">Fasce Orarie</div>
+            </div>
+            <div class="stat-item">
+                <div class="num">{sum(len(e['channels']) for e in events_with_channels)}</div>
+                <div class="label">Canali Totali</div>
+            </div>
+            <div class="stat-item">
+                <div class="num">{len([e for e in events_with_channels if len(e['channels']) > 1])}</div>
+                <div class="label">Multi Canale</div>
+            </div>
+        </div>
+
+        <!-- Events -->
+        <div class="events-grid">
+            {events_html}
+        </div>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="glitch">DEVELOPED BY GSI GROUP 2026</div>
+            <div class="source">⚡ DATA SOURCE: ROJADIRECTA.ST ⚡</div>
+        </footer>
+    </div>
+
+    <script>
+        // Matrix Rain Effect
+        (function() {{
+            const container = document.getElementById('matrix-bg');
+            const cols = Math.floor(window.innerWidth / 20);
+            const chars = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+            
+            for (let i = 0; i < cols; i++) {{
+                const col = document.createElement('div');
+                col.className = 'matrix-col';
+                const x = i * 20 + Math.random() * 10;
+                const dur = 8 + Math.random() * 15;
+                const delay = Math.random() * 20;
+                const len = 10 + Math.floor(Math.random() * 25);
+                
+                let text = '';
+                for (let j = 0; j < len; j++) {{
+                    text += chars[Math.floor(Math.random() * chars.length)] + ' ';
+                }}
+                
+                col.textContent = text;
+                col.style.left = x + 'px';
+                col.style.animationDuration = dur + 's';
+                col.style.animationDelay = delay + 's';
+                col.style.fontSize = (10 + Math.random() * 12) + 'px';
+                col.style.opacity = 0.1 + Math.random() * 0.2;
+                
+                container.appendChild(col);
+            }}
+        }})();
+
+        // Random glitch effect
+        setInterval(() => {{
+            const h1 = document.querySelector('.header h1');
+            if (Math.random() < 0.03) {{
+                h1.style.textShadow = '0 0 20px #ff00ff, 0 0 40px #00ffff';
+                setTimeout(() => {{
+                    h1.style.textShadow = '0 0 30px #00ff41, 0 0 60px rgba(0,255,65,0.3)';
+                }}, 150);
+            }}
+        }}, 2000);
+    </script>
+</body>
+</html>'''
+    
+    with open(filename, 'w', encoding='utf-8') as f:
+        f.write(html_content)
+    
+    return filename
+
+if __name__ == "__main__":
+    print("="*60)
+    print("🔍 KIRA GSI - Agenda Sportiva Extractor")
+    print("="*60)
+    print("\n⏳ Estrazione eventi in corso...\n")
+    
+    events = extract_events()
+    
+    if events:
+        print(f"\n✅ Estratti {len(events)} eventi")
+        
+        with_channels = [e for e in events if e.get('channels')]
+        print(f"📺 {len(with_channels)} eventi hanno canali disponibili")
+        
+        if with_channels:
+            html_file = generate_html(events)
+            print(f"\n📄 HTML generato: {html_file}")
+            print(f"📊 Totale eventi: {len(with_channels)}")
+            print(f"📺 Totale canali: {sum(len(e['channels']) for e in with_channels)}")
+            print("\n✨ Apri il file HTML nel browser!")
+        else:
+            print("\n❌ Nessun canale trovato")
+    else:
+        print("\n❌ Nessun evento trovato")

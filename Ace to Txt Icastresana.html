@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Generatore Lista M3U Acestream Pro</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 20px; line-height: 1.6; background-color: #f4f4f9; }
+        .container { max-width: 900px; margin: auto; border: 1px solid #ccc; padding: 25px; border-radius: 12px; background: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        h2 { color: #333; border-bottom: 2px solid #28a745; padding-bottom: 10px; }
+        textarea { width: 100%; height: 300px; margin-top: 15px; border-radius: 5px; border: 1px solid #ddd; padding: 10px; font-family: monospace; }
+        .controls { margin-bottom: 20px; display: flex; flex-direction: column; gap: 15px; }
+        .filter-section { background: #e9ecef; padding: 15px; border-radius: 8px; }
+        input[type="text"] { width: 100%; padding: 10px; margin-top: 5px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; }
+        .btn-group { display: flex; gap: 10px; }
+        button { padding: 10px 20px; cursor: pointer; background: #28a745; color: white; border: none; border-radius: 4px; font-weight: bold; transition: 0.3s; }
+        button:hover { background: #218838; }
+        #downloadBtn { background: #007bff; }
+        #downloadBtn:hover { background: #0069d9; }
+        small { color: #666; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Convertitore Multifiltro M3U -> Acestream</h2>
+    
+    <div class="controls">
+        <div>
+            <label><strong>1. Seleziona il file .m3u:</strong></label><br>
+            <input type="file" id="fileInput" accept=".m3u">
+        </div>
+
+        <div class="filter-section">
+            <label><strong>2. Multifiltro (Termini di ricerca):</strong></label><br>
+            <input type="text" id="filterInput" placeholder="Esempio: Calcio, Sky, DAZN, Eurosport">
+            <small>Inserisci i termini separati da una virgola. Lascia vuoto per vedere tutto.</small>
+        </div>
+        
+        <div class="btn-group">
+            <button onclick="processFile()">Applica Filtro e Genera</button>
+            <button id="downloadBtn" style="display:none;" onclick="downloadTxt()">Scarica File .txt</button>
+        </div>
+    </div>
+
+    <textarea id="outputArea" readonly placeholder="Il risultato filtrato apparirà qui..."></textarea>
+</div>
+
+<script>
+    function processFile() {
+        const fileInput = document.getElementById('fileInput');
+        const filterInput = document.getElementById('filterInput').value.toLowerCase();
+        const outputArea = document.getElementById('outputArea');
+        const downloadBtn = document.getElementById('downloadBtn');
+
+        if (fileInput.files.length === 0) {
+            alert("Per favore, seleziona un file prima.");
+            return;
+        }
+
+        // Crea un array di filtri (rimuovendo spazi bianchi)
+        const filters = filterInput.split(',').map(item => item.trim()).filter(item => item !== "");
+
+        const file = fileInput.files[0];
+        const reader = new FileReader();
+
+        reader.onload = function(e) {
+            const content = e.target.result;
+            const lines = content.split(/\r?\n/);
+            let result = "#EXTM3U\n";
+            let count = 0;
+            
+            for (let i = 0; i < lines.length; i++) {
+                let line = lines[i].trim();
+                
+                if (line.startsWith("#EXTINF:")) {
+                    let infoLine = line;
+                    let nextLine = (i + 1 < lines.length) ? lines[i + 1].trim() : "";
+                    
+                    // Controllo se la riga contiene un link acestream id
+                    if (nextLine.includes("id=")) {
+                        let parts = nextLine.split("id=");
+                        let aceId = parts[1];
+                        let channelName = infoLine.toLowerCase();
+
+                        // Logica di filtraggio:
+                        // Se non ci sono filtri, aggiungi tutto.
+                        // Se ci sono filtri, aggiungi solo se il nome del canale contiene uno dei termini.
+                        let shouldInclude = (filters.length === 0) || filters.some(f => channelName.includes(f));
+
+                        if (shouldInclude) {
+                            result += infoLine + "\n";
+                            result += "acestream://" + aceId + "\n";
+                            count++;
+                        }
+                        i++; 
+                    }
+                }
+            }
+            
+            outputArea.value = result;
+            if(count > 0) {
+                downloadBtn.style.display = "inline-block";
+            } else {
+                alert("Nessun risultato trovato con i filtri inseriti.");
+                downloadBtn.style.display = "none";
+            }
+        };
+
+        reader.readAsText(file);
+    }
+
+    function downloadTxt() {
+        const text = document.getElementById('outputArea').value;
+        const blob = new Blob([text], { type: 'text/plain' });
+        const anchor = document.createElement('a');
+        anchor.download = "lista_acestream_filtrata.txt";
+        anchor.href = window.URL.createObjectURL(blob);
+        anchor.click();
+    }
+</script>
+
+</body>
+</html>

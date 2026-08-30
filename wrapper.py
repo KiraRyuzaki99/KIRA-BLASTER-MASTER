@@ -36,6 +36,7 @@ TUOI_SCRIPTS = [
     "HatOggiDomani.py",
     "PydroidRojaStV1.py",
     "PyGenHtmlM3U.py",
+    "genera_livetv.py",          # ← AGGIUNTO
 ]
 
 def log(msg: str):

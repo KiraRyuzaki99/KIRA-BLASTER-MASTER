@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>KIRA GENERATOR</title>
+    <style>
+        body { background: #1a1a1a; color: #00ff41; font-family: 'Consolas', monospace; padding: 20px; line-height: 1.6; }
+        .container { max-width: 900px; margin: 0 auto; border: 1px solid #00ff41; padding: 20px; box-shadow: 0 0 15px rgba(0, 255, 65, 0.2); }
+        h2 { color: #ff00ff; text-transform: uppercase; border-bottom: 1px solid #ff00ff; padding-bottom: 5px; }
+        
+        textarea { 
+            width: 100%; height: 200px; 
+            background: #000; color: #00ff41; 
+            border: 1px solid #00ff41; padding: 10px;
+            margin-bottom: 15px; resize: vertical;
+        }
+
+        .controls { display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; }
+        
+        button, .file-label { 
+            background: transparent; color: #00ff41; 
+            border: 1px solid #00ff41; padding: 10px 20px; 
+            cursor: pointer; font-weight: bold; text-transform: uppercase;
+            transition: all 0.3s;
+        }
+        button:hover, .file-label:hover { background: #00ff41; color: #000; box-shadow: 0 0 10px #00ff41; }
+        
+        #fileInput { display: none; }
+        .download-btn { border-color: #ff00ff; color: #ff00ff; }
+        .download-btn:hover { background: #ff00ff; color: #fff; box-shadow: 0 0 10px #ff00ff; }
+        
+        .status { font-size: 0.9em; color: #888; margin-top: -10px; margin-bottom: 10px; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>1. Input XML</h2>
+    <div class="controls">
+        <label for="fileInput" class="file-label">📂 Carica File XML</label>
+        <input type="file" id="fileInput" accept=".xml">
+        <button onclick="processXml()">⚡ Elabora Dati</button>
+    </div>
+    <textarea id="xmlInput" placeholder="Incolla l'XML qui..."></textarea>
+    
+    <h2>2. Genera Pagina Finale</h2>
+    <div class="controls">
+        <button class="download-btn" onclick="downloadFinalHtml()">💾 Scarica File SPO.html</button>
+    </div>
+    <div id="statusUpdate" class="status"></div>
+</div>
+
+<script>
+    let lastConvertedData = "";
+
+    // Caricamento file
+    document.getElementById('fileInput').addEventListener('change', function(e) {
+        const file = e.target.files[0];
+        if (!file) return;
+        const reader = new FileReader();
+        reader.onload = (e) => {
+            document.getElementById('xmlInput').value = e.target.result;
+            processXml();
+        };
+        reader.readAsText(file);
+    });
+
+    function processXml() {
+        const xmlText = document.getElementById('xmlInput').value;
+        if (!xmlText.trim()) return alert("Inserisci XML!");
+
+        const parser = new DOMParser();
+        const xmlDoc = parser.parseFromString(xmlText, "text/xml");
+        const tracks = xmlDoc.getElementsByTagName("track");
+        let result = "";
+
+        for (let i = 0; i < tracks.length; i++) {
+            const title = tracks[i].getElementsByTagName("title")[0]?.textContent || "";
+            const urls = tracks[i].getElementsByTagName("url");
+            
+            let time = title.substring(0, 5);
+            let eventName = title.substring(6).trim();
+
+            if (!/^\d{2}:\d{2}$/.test(time)) {
+                time = "00:00";
+                eventName = title;
+            }
+
+            for (let j = 0; j < urls.length; j++) {
+                result += `${time}   ${eventName} | ${urls[j].textContent}\n`;
+            }
+        }
+        lastConvertedData = result.trim();
+        document.getElementById('statusUpdate').innerText = "Dati pronti per il download!";
+    }
+
+    function downloadFinalHtml() {
+        if (!lastConvertedData) {
+            alert("Prima elabora un file XML!");
+            return;
+        }
+
+        const today = new Date().toLocaleDateString('it-IT');
+        
+        // Template identico a SPO.html
+        const finalHtml = `<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, nofollow">	
+    <title>KIRA GSI</title>
+    <style>
+        body { background-color: #000; color: #00ff41; font-family: 'Consolas', monospace; margin: 0; padding: 20px; text-shadow: 0 0 5px rgba(0, 255, 65, 0.8); }
+        .container { max-width: 800px; margin: 0 auto; border: 2px solid #00ff41; box-shadow: 0 0 20px #00ff41; padding: 10px; background-color: rgba(0, 0, 0, 0.85); }
+        h1 { color: #ff00ff; text-align: center; text-shadow: 0 0 10px #ff00ff; border-bottom: 2px dashed #00ff41; padding-bottom: 10px; margin-bottom: 20px; }
+        .event-group { margin-bottom: 5px; border-left: 3px solid #00ff41; padding-left: 10px; }
+        .event-header { background-color: rgba(0, 255, 65, 0.1); color: #00ff41; padding: 10px; cursor: pointer; font-weight: bold; display: flex; justify-content: space-between; border: 1px solid #00ff41; margin-top: 5px; }
+        .event-header.active { background-color: #00ff41; color: #000; }
+        .arrow { transition: transform 0.3s; }
+        .event-header.active .arrow { transform: rotate(90deg); }
+        .stream-links { padding: 0; margin: 0; list-style: none; background-color: rgba(0, 0, 0, 0.95); border: 1px solid #00ff41; border-top: none; max-height: 0; overflow: hidden; transition: max-height 0.4s ease-out; }
+        .channel-link { display: block; padding: 8px 15px; color: #ffcc00; text-decoration: none; font-weight: bold; }
+        .channel-link:hover { color: #fff; background-color: rgba(0, 255, 255, 0.1); }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>KIRA ACCESS GATE</h1>
+    <h1>${today} ORARIO GMT +1</h1>
+    <div id="events-list"></div>
+</div>
+<script>
+    const streamList = \`${lastConvertedData}\`;
+
+    function parseStreamList(content) {
+        const lines = content.trim().split('\\n');
+        const groupedEvents = {};
+        lines.forEach(line => {
+            const timeMatch = line.match(/^(\\d{2}:\\d{2})\\s{3}(.*)/);
+            if (!timeMatch) return;
+            const time = timeMatch[1];
+            const parts = timeMatch[2].split(' | ');
+            const eventName = \`\${time} - \${parts[0].trim()}\`;
+            const link = parts[1].trim();
+            const linkParts = link.split('/');
+            const channelInfo = linkParts.slice(-2).join('/').replace('.php', '').toUpperCase();
+            if (!groupedEvents[eventName]) groupedEvents[eventName] = [];
+            groupedEvents[eventName].push({ description: channelInfo, link: link });
+        });
+        return groupedEvents;
+    }
+
+    function renderEvents(events) {
+        const listContainer = document.getElementById('events-list');
+        for (const eventName in events) {
+            const group = document.createElement('div');
+            group.className = 'event-group';
+            group.innerHTML = \`<div class="event-header">\${eventName} <span class="arrow">▶</span></div>\`;
+            const ul = document.createElement('ul');
+            ul.className = 'stream-links';
+            events[eventName].forEach(s => {
+                ul.innerHTML += \`<li><a href="\${s.link}" class="channel-link" target="_blank">\${s.description}</a></li>\`;
+            });
+            group.appendChild(ul);
+            listContainer.appendChild(group);
+            group.querySelector('.event-header').onclick = function() {
+                this.classList.toggle('active');
+                const content = this.nextElementSibling;
+                content.style.maxHeight = this.classList.contains('active') ? content.scrollHeight + "px" : "0";
+            };
+        }
+    }
+    renderEvents(parseStreamList(streamList));
+<\/script>
+</body>
+</html>`;
+
+        const blob = new Blob([finalHtml], { type: 'text/html' });
+        const a = document.createElement('a');
+        a.href = URL.createObjectURL(blob);
+        a.download = 'Kira_Spo.html';
+        a.click();
+    }
+</script>
+
+</body>
+</html>

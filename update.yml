@@ -2,8 +2,8 @@ name: Aggiornamento Automatico KIRA-BLASTER-MASTER
 
 on:
   schedule:
-    - cron: '0 */2 * * *'   # Ogni 2 ore
-  workflow_dispatch:         # Avvio manuale
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
 
 jobs:
   run-scrapers:

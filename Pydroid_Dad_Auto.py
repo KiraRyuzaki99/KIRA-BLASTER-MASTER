@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-DADDYLIVE AUTO - Sistema di apprendimento automatico per le parole chiave
+DADDYLIVE AUTO - Cattura TUTTE le categorie (generiche + specifiche per TUTTI gli sport)
 """
 
 import requests
@@ -9,7 +9,7 @@ import json
 import os
 import re
 from datetime import datetime
-from collections import defaultdict, Counter
+from collections import defaultdict
 from html import escape
 
 # ============================================================
@@ -18,31 +18,326 @@ from html import escape
 
 ENDPOINT_BASE = "https://daddylive.li/player/"
 OUTPUT_DIR = "daddy_output"
-KEYWORDS_FILE = "daddy_keywords.json"  #  File di memoria
 
-# Parole chiave di BASE (solo per avviare il sistema)
-BASE_KEYWORDS = {
-    "Calcio": ["soccer", "football", "serie a", "premier league", "bundesliga", "la liga", "ligue 1", "calcio", "champions league", "europa league"],
-    "Tennis": ["tennis", "atp", "wta", "us open", "wimbledon", "roland garros", "australian open"],
-    "Basket": ["basketball", "nba", "euroleague", "basket", "baloncesto", "liga acb"],
-    "Hockey": ["hockey", "nhl", "liiga", "shl", "extraliga"],
-    "Motori": ["formula", "motogp", "superbike", "rally", "f1", "nascar", "indycar"],
-    "Baseball": ["baseball", "mlb", "kbo", "npb"],
-    "Rugby": ["rugby", "super league", "nrl", "six nations"],
-    "Voleibol": ["volleyball", "voley", "volley"],
-    "Balonmano": ["handball", "balonmano"],
-    "Pugilato": ["boxing", "ufc", "mma", "pugilato"],
-    "Golf": ["golf", "pga"],
-    "Ciclismo": ["cycling", "ciclismo", "tour de france"],
-    "Altri": []
+# ============================================================
+#  CATEGORIE REALI - TUTTI GLI SPORT
+#  Ogni sport ha: nomi generici + nomi specifici delle competizioni
+# ============================================================
+
+SPORT_CATEGORIES = {
+
+    # ===================== CALCIO =====================
+    "Calcio": [
+        # Nomi generici
+        "soccer", "football", "all soccer events", "calcio",
+        # Competizioni mondiali
+        "world cup", "mondiali", "coppa del mondo",
+        "champions league", "uefa champions league", "europa league", "conference league",
+        # Inghilterra
+        "premier league", "english premier league", "championship", "league one", "league two", "fa cup",
+        # Italia
+        "serie a", "serie b", "serie c", "coppa italia", "supercoppa italiana",
+        # Spagna
+        "la liga", "spain - la liga", "segunda division", "copa del rey",
+        # Germania
+        "bundesliga", "2. bundesliga", "3. liga", "dfb pokal",
+        # Francia
+        "ligue 1", "ligue 2", "coupe de france",
+        # Portogallo
+        "primeira liga", "portuguese primeira liga", "taça de portugal",
+        # Olanda
+        "eredivisie", "keuken kampioen divisie", "knvb beker",
+        # Turchia
+        "super lig", "turkish super lig", "1. lig",
+        # Svezia
+        "allsvenskan", "superettan",
+        # Finlandia
+        "veikkausliiga", "ykkönen",
+        # Polonia
+        "ekstraklasa", "i liga",
+        # Repubblica Ceca
+        "nike liga", "fortuna liga",
+        # Svizzera
+        "super league", "challenge league",
+        # Belgio
+        "pro league", "jupiler pro league",
+        # Grecia
+        "super league greece", "super league 2",
+        # Russia
+        "premier league russia", "russian premier league",
+        # Ucraina
+        "premier league ukraine", "ukrainian premier league",
+        # Scozia
+        "scottish premiership", "scottish championship",
+        # Altri campionati
+        "eredivisie", "liga nos", "liga mx", "mls", "a-league",
+        "j league", "k league", "csl", "ligue",
+        "coppa", "cup", "pokal", "trophy", "league", "liga", "serie", "bundes"
+    ],
+
+    # ===================== TENNIS =====================
+    "Tennis": [
+        # Nomi generici
+        "tennis", "all tennis",
+        # Grand Slam
+        "us open", "wimbledon", "roland garros", "french open", "australian open",
+        # Circuiti ATP/WTA
+        "atp", "wta", "atp tour", "wta tour",
+        "masters 1000", "masters", "grand slam",
+        "challenger", "challenger tour", "futures",
+        "davis cup", "billie jean king cup", "laver cup",
+        "abierto de", "open de", "open"
+    ],
+
+    # ===================== BASKET =====================
+    "Basket": [
+        # Nomi generici
+        "basketball", "basket", "baloncesto", "all basketball",
+        # NBA
+        "nba", "national basketball association",
+        "euroleague", "eurocup", "basketball champions league",
+        # Spagna
+        "liga acb", "spain basketball league",
+        # Italia
+        "serie a basket", "italian basketball league",
+        # Germania
+        "bbl", "german basketball league",
+        # Francia
+        "lnb", "french basketball league",
+        # NCAA
+        "ncaa", "college basketball", "march madness",
+        # Altri
+        "liga endesa", "leb oro", "ligue nationale", 
+        "world cup basketball", "olympics basketball"
+    ],
+
+    # ===================== HOCKEY =====================
+    "Hockey": [
+        # Nomi generici
+        "hockey", "ice hockey", "all hockey",
+        # NHL
+        "nhl", "national hockey league",
+        # Europa
+        "liiga", "shl", "extraliga", "czech extraliga",
+        "del", "german ice hockey league",
+        "national league", "swiss ice hockey",
+        "khl", "russian hockey league",
+        # Canada/USA
+        "ohl", "whl", "qmjhl", "ahl",
+        # Champions
+        "champions hockey league",
+        # Altri
+        "world championship hockey", "olympics hockey"
+    ],
+
+    # ===================== BASEBALL =====================
+    "Baseball": [
+        # Nomi generici
+        "baseball", "all baseball",
+        # MLB
+        "mlb", "major league baseball",
+        # Giappone
+        "npb", "nippon professional baseball",
+        # Corea
+        "kbo", "korean baseball organization",
+        # Taiwan
+        "cpbl", "chinese professional baseball league",
+        # Altri
+        "world series", "little league",
+        "college baseball", "world baseball classic"
+    ],
+
+    # ===================== RUGBY =====================
+    "Rugby": [
+        # Nomi generici
+        "rugby", "all rugby",
+        # Internazionali
+        "six nations", "6 nazioni",
+        "champions cup", "challenge cup",
+        "world cup rugby",
+        # Inghilterra
+        "super league", "rugby super league",
+        # Australia
+        "nrl", "national rugby league",
+        # Francia
+        "top 14", "pro d2",
+        # Sudafrica/NZ/Australia
+        "united rugby championship", "super rugby",
+        "currie cup", "mitre 10 cup"
+    ],
+
+    # ===================== SURF =====================
+    "Surf": [
+        # Nomi generici
+        "surf", "surfing", "all surf",
+        # WSL
+        "world surf league", "wsl",
+        # Eventi
+        "fiji pro", "j-bay", "tahiti pro", "pipe masters",
+        "gold coast", "bells beach", "margaret river",
+        "championship tour", "wsl championship tour",
+        "big wave", "big wave tour"
+    ],
+
+    # ===================== NUOTO =====================
+    "Nuoto": [
+        # Nomi generici
+        "swimming", "nuoto", "all swimming",
+        # Internazionali
+        "fina world cup", "world swimming championships",
+        "world aquatics championships",
+        # Olimpiadi
+        "olympics swimming", "olympic swimming",
+        # Eventi
+        "marathon swimming", "open water swimming",
+        "world junior championships", "world masters"
+    ],
+
+    # ===================== VOLLEY / PALL. VOLO =====================
+    "Voleibol": [
+        # Nomi generici
+        "volleyball", "voley", "volley", "all volleyball",
+        # World League
+        "fivb world league", "world league",
+        "national league volleyball",
+        # Internazionali
+        "world cup volleyball",
+        "olympics volleyball", "olympics volleyball",
+        # Leghe europee
+        "champions league volleyball",
+        "cev champions league", "cev cup",
+        # Nazionali
+        "serie a volleyball", "italian volleyball",
+        "plusliga", "polish volleyball",
+        "superliga", "russian volleyball",
+        "liga de voleibol", "spanish volleyball"
+    ],
+
+    # ===================== BALONMANO =====================
+    "Balonmano": [
+        # Nomi generici
+        "handball", "balonmano", "all handball",
+        # EHF
+        "ehf champions league", "ehf cup", "european handball",
+        # World
+        "world handball championship", "world cup handball",
+        # Leghe
+        "hbl", "handball bundesliga",
+        "liga asobal", "spanish handball",
+        "liga de handball", "french handball",
+        "olympics handball"
+    ],
+
+    # ===================== PUGILATO / MMA =====================
+    "Pugilato": [
+        # Nomi generici
+        "boxing", "pugilato", "all boxing",
+        "ufc", "mma", "mixed martial arts",
+        "bellator", "one championship",
+        # Eventi
+        "heavyweight", "lightweight", "welterweight",
+        "world championship boxing",
+        "fight night", "main event"
+    ],
+
+    # ===================== GOLF =====================
+    "Golf": [
+        # Nomi generici
+        "golf", "all golf",
+        # PGA
+        "pga", "pga tour",
+        # Europe
+        "european tour", "dp world tour",
+        # Major
+        "masters", "the masters",
+        "ryder cup", "presidents cup",
+        "the open", "open championship",
+        "pga championship", "us open golf",
+        # Altri
+        "lpga", "ladies pga tour",
+        "champions tour", "senior tour",
+        "ryder cup", "solheim cup"
+    ],
+
+    # ===================== CICLISMO =====================
+    "Ciclismo": [
+        # Nomi generici
+        "cycling", "ciclismo", "all cycling",
+        # Grandi giri
+        "tour de france", "tour de france",
+        "giro d'italia", "la vuelta", "vuelta a españa",
+        # World Tour
+        "world tour cycling",
+        # Classiche
+        "monument", "classics",
+        # Altri
+        "world championships cycling",
+        "olympics cycling", "track cycling",
+        "mountain bike", "cyclocross"
+    ],
+
+    # ===================== ATLETICA =====================
+    "Atletica": [
+        # Nomi generici
+        "athletics", "atletica", "track and field",
+        # Diamond League
+        "diamond league", "golden league",
+        # World
+        "world championships athletics",
+        "world athletics",
+        # Olimpiadi
+        "olympics athletics",
+        # Eventi
+        "marathon", "half marathon",
+        "100m", "200m", "400m", "800m", "1500m",
+        "relay", "hurdles", "steeplechase",
+        "long jump", "high jump", "pole vault",
+        "shot put", "discus", "javelin"
+    ],
+
+    # ===================== SPORT INVERNALI =====================
+    "Invernali": [
+        # Nomi generici
+        "winter sports", "sport invernali",
+        "ski", "snowboard", "biathlon",
+        # World Cup
+        "world cup skiing", "alpine skiing",
+        "fis world cup",
+        # Figure skating
+        "figure skating", "speed skating",
+        "short track", "ice skating",
+        # Altri
+        "winter olympics", "olympics winter",
+        "cross-country skiing", "ski jumping",
+        "nordic combined", "bobsleigh", "luge", "skeleton"
+    ],
+
+    # ===================== MOTORI / AUTO =====================
+    "Motori": [
+        # Nomi generici
+        "motorsport", "motorsport",
+        # Formula
+        "formula 1", "f1", "formula 2", "f2", "formula 3", "f3",
+        "formula e", "formula e",
+        # Moto
+        "motogp", "superbike", "world superbike",
+        # Rally
+        "rally", "wrc", "world rally championship",
+        # Altri
+        "nascar", "indycar", "indy 500",
+        "wec", "imsa", "btcc", "dtm",
+        "touring car", "gt racing", "endurance"
+    ],
+
+    # ===================== SPORT ESCLUSI =====================
+    "Esclusi": [
+        "advertisement", "sponsor", "promo", "bonus",
+        "casino", "betting", "slot", "live chat",
+        "no event", "coming soon", "off air",
+        "banner", "ad", "partners", "affiliate",
+        "stream", "watch", "link", "click"
+    ]
 }
-
-EXCLUDE_WORDS = [
-    "advertisement", "sponsor", "promo", "bonus",
-    "casino", "betting", "slot", "live chat",
-    "no event", "coming soon", "off air",
-    "banner", "ad", "partners", "affiliate"
-]
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0.0.0',
@@ -52,110 +347,7 @@ HEADERS = {
 }
 
 # ============================================================
-#  FUNZIONI PER LA GESTIONE DELLE PAROLE CHIAVE
-# ============================================================
-
-def load_keywords():
-    """Carica il dizionario delle parole chiave dal file."""
-    if os.path.exists(KEYWORDS_FILE):
-        try:
-            with open(KEYWORDS_FILE, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                print(f" Caricate {len(data.get('keywords', {}))} parole chiave dal file")
-                return data
-        except:
-            pass
-    
-    # Se il file non esiste, usa le parole base
-    print(" Nessun file di parole chiave trovato. Uso parole base.")
-    return {
-        "keywords": BASE_KEYWORDS,
-        "last_update": None,
-        "history": []
-    }
-
-def save_keywords(keywords_data):
-    """Salva il dizionario delle parole chiave nel file."""
-    keywords_data["last_update"] = datetime.now().isoformat()
-    with open(KEYWORDS_FILE, 'w', encoding='utf-8') as f:
-        json.dump(keywords_data, f, indent=2, ensure_ascii=False)
-    print(f" Parole chiave salvate ({sum(len(v) for v in keywords_data['keywords'].values())} totali)")
-
-def extract_new_keywords(categories, current_keywords):
-    """Estrae nuove parole chiave dalle categorie."""
-    # Costruisci un set di tutte le parole già note
-    known_words = set()
-    for words in current_keywords.values():
-        for w in words:
-            known_words.add(w.lower())
-    
-    # Estrai tutte le parole dalle categorie
-    all_words = set()
-    for cat in categories:
-        if not cat:
-            continue
-        # Pulisci e dividi
-        clean = re.sub(r'[^\w\s]', ' ', cat.lower())
-        words = set(clean.split())
-        for w in words:
-            if len(w) > 2 and w not in EXCLUDE_WORDS:
-                all_words.add(w)
-    
-    # Trova le parole già associate a uno sport
-    new_words = {}
-    
-    # Per ogni parola nuova, cerca di associarla a uno sport
-    for word in all_words:
-        if word in known_words:
-            continue
-        
-        # Cerca lo sport più probabile
-        best_sport = None
-        best_score = 0
-        
-        for sport, known_list in current_keywords.items():
-            for known in known_list:
-                # Controlla se la parola è contenuta in una parola nota o viceversa
-                if word in known or known in word:
-                    score = 1 + (len(known) / 100)  # Leggero bonus per parole più lunghe
-                    if score > best_score:
-                        best_score = score
-                        best_sport = sport
-        
-        if best_sport and best_score > 0.5:
-            if best_sport not in new_words:
-                new_words[best_sport] = []
-            new_words[best_sport].append(word)
-    
-    return new_words
-
-def update_keywords(keywords_data, new_words):
-    """Aggiorna il dizionario con le nuove parole."""
-    updated = False
-    
-    for sport, words in new_words.items():
-        if sport not in keywords_data["keywords"]:
-            keywords_data["keywords"][sport] = []
-        
-        for w in words:
-            if w not in keywords_data["keywords"][sport]:
-                keywords_data["keywords"][sport].append(w)
-                updated = True
-    
-    if updated:
-        # Registra l'aggiornamento nella storia
-        keywords_data["history"].append({
-            "date": datetime.now().isoformat(),
-            "new_words": new_words
-        })
-        # Mantieni solo gli ultimi 10 aggiornamenti
-        if len(keywords_data["history"]) > 10:
-            keywords_data["history"] = keywords_data["history"][-10:]
-    
-    return updated
-
-# ============================================================
-#  FUNZIONI PRINCIPALI
+#  FUNZIONI
 # ============================================================
 
 def fetch_json(url):
@@ -167,112 +359,30 @@ def fetch_json(url):
     except:
         return None
 
-def extract_all_categories():
-    """Estrae TUTTE le categorie da tutti i file JSON."""
-    all_categories = set()
-    all_events_data = []
+def detect_sport(category, event_title=""):
+    """Rileva lo sport usando TUTTE le categorie (generiche + specifiche)."""
+    text = f"{category} {event_title}".lower()
     
-    print(" Scansione macro cartelle per estrarre categorie...")
+    # Prima controlla se è escluso
+    for word in SPORT_CATEGORIES["Esclusi"]:
+        if word in text:
+            return "Esclusi"
     
-    for i in range(1, 10):
-        filename = f"tv{i}.json"
-        url = ENDPOINT_BASE + filename
-        print(f"    {filename}...", end=" ")
-        
-        data = fetch_json(url)
-        if not data:
-            print("")
+    # Controlla ogni sport
+    for sport, keywords in SPORT_CATEGORIES.items():
+        if sport == "Esclusi":
             continue
-        
-        print("")
-        
-        for data_corrente, contenuto in data.items():
-            if isinstance(contenuto, list):
-                items = [("Eventi", contenuto)]
-            elif isinstance(contenuto, dict):
-                items = contenuto.items()
-            else:
-                continue
-            
-            for categoria_o_chiave, eventi in items:
-                blocks = eventi if isinstance(eventi, list) else ([eventi] if isinstance(eventi, dict) else [])
-                
-                for block in blocks:
-                    if not isinstance(block, dict):
-                        continue
-                    
-                    categoria = block.get('Category', block.get('category', categoria_o_chiave))
-                    if not isinstance(categoria, str) or not categoria.strip():
-                        continue
-                    
-                    all_categories.add(categoria.strip())
-                    
-                    lista_eventi = block.get('events', [])
-                    if isinstance(lista_eventi, list):
-                        for evento in lista_eventi:
-                            if isinstance(evento, dict):
-                                evento['_categoria'] = categoria.strip()
-                                all_events_data.append(evento)
-    
-    print(f"\n    Trovate {len(all_categories)} categorie uniche")
-    return list(all_categories), all_events_data
-
-def detect_sport(category, keywords_data):
-    """Rileva lo sport usando il dizionario aggiornato."""
-    if not category:
-        return "Altri"
-    
-    cat_lower = category.lower()
-    
-    # Escludi categorie indesiderate
-    for word in EXCLUDE_WORDS:
-        if word in cat_lower:
-            return "Escluso"
-    
-    # Cerca nello sport "Altri" prima
-    for word in keywords_data.get("Altri", []):
-        if word in cat_lower:
-            return "Altri"
-    
-    # Cerca in tutti gli sport
-    best_sport = "Altri"
-    best_score = 0
-    
-    for sport, keywords in keywords_data.items():
-        if sport == "Altri":
-            continue
-        
-        score = 0
         for kw in keywords:
-            if kw in cat_lower:
-                score += 1
-            # Controlla anche se le parole sono simili
-            if len(kw) > 3:
-                words = set(re.findall(r'[a-zA-ZÀ-ÿ]+', cat_lower))
-                for w in words:
-                    if kw in w or w in kw:
-                        score += 0.3
-        
-        if score > best_score:
-            best_score = score
-            best_sport = sport
+            if kw in text:
+                return sport
     
-    # Se il punteggio è troppo basso, verifica se qualche parola chiave è contenuta
-    if best_score < 1:
-        for sport, keywords in keywords_data.items():
-            if sport == "Altri":
-                continue
-            for kw in keywords:
-                if len(kw) > 3 and kw in cat_lower:
-                    return sport
-    
-    return best_sport
+    return "Altri"
 
-def fetch_all_matches(keywords_data):
-    """Scarica tutti gli eventi usando il dizionario."""
+def fetch_all_matches():
+    """Scarica tutti gli eventi."""
     all_events = []
     
-    print("\n Scaricamento eventi...")
+    print(" Scaricamento eventi da DaddyLive...")
     
     for i in range(1, 10):
         filename = f"tv{i}.json"
@@ -303,10 +413,6 @@ def fetch_all_matches(keywords_data):
                     
                     categoria = block.get('Category', block.get('category', categoria_o_chiave))
                     if not isinstance(categoria, str) or not categoria.strip():
-                        continue
-                    
-                    sport = detect_sport(categoria, keywords_data["keywords"])
-                    if sport == "Escluso":
                         continue
                     
                     lista_eventi = block.get('events', [])
@@ -335,6 +441,10 @@ def fetch_all_matches(keywords_data):
                                     links.append(v)
                         
                         if not links:
+                            continue
+                        
+                        sport = detect_sport(categoria, titolo)
+                        if sport == "Esclusi":
                             continue
                         
                         all_events.append({
@@ -366,7 +476,7 @@ def group_and_generate(events):
     total_events = 0
     for sport, evs in grouped.items():
         evs.sort(key=lambda x: f"{x['date']}_{x['time']}")
-        filename = f"KIRA_GSI_{sport}.html".replace(" ", "_")
+        filename = f"KIRA_GSI_{sport}.html".replace(" ", "_").replace("/", "_")
         filepath = os.path.join(OUTPUT_DIR, filename)
         count = generate_html_for_sport(sport, evs, filepath)
         total_events += count
@@ -639,58 +749,20 @@ def generate_html_for_sport(sport, events, output_file):
 
 def main():
     print("="*70)
-    print(" KIRA GSI - DaddyLive Auto (Con apprendimento)")
+    print(" KIRA GSI - DaddyLive Auto (TUTTI gli sport)")
     print("="*70)
     
-    # FASE 1: Carica le parole chiave esistenti
-    keywords_data = load_keywords()
-    
-    # FASE 2: Estrai tutte le categorie
-    categories, all_events_data = extract_all_categories()
-    
-    if not categories:
-        print(" Nessuna categoria trovata!")
-        return
-    
-    # FASE 3: Estrai nuove parole chiave
-    print("\n Analisi di nuove parole chiave...")
-    new_words = extract_new_keywords(categories, keywords_data["keywords"])
-    
-    if new_words:
-        print("   Nuove parole trovate:")
-        for sport, words in new_words.items():
-            print(f"      {sport}: {', '.join(words[:5])}")
-            if len(words) > 5:
-                print(f"         ... e altre {len(words)-5} parole")
-    else:
-        print("    Nessuna nuova parola trovata")
-    
-    # FASE 4: Aggiorna il dizionario se necessario
-    updated = update_keywords(keywords_data, new_words)
-    if updated:
-        save_keywords(keywords_data)
-        print("\n Dizionario aggiornato!")
-    
-    # Mostra il dizionario attuale
-    print(f"\n Dizionario attuale ({sum(len(v) for v in keywords_data['keywords'].values())} parole):")
-    for sport, words in sorted(keywords_data["keywords"].items()):
-        if words:
-            print(f"   {sport}: {len(words)} parole")
-    
-    # FASE 5: Scarica tutti gli eventi usando il dizionario
-    events = fetch_all_matches(keywords_data)
+    events = fetch_all_matches()
     
     if not events:
         print(" Nessun evento trovato!")
         return
     
-    # FASE 6: Raggruppa e genera HTML
     total = group_and_generate(events)
     
     print("\n" + "="*70)
     print(f" OPERAZIONE COMPLETATA! {total} eventi totali")
     print(f" File generati in: {OUTPUT_DIR}/")
-    print(f" Dizionario salvato in: {KEYWORDS_FILE}")
     print("="*70)
 
 if __name__ == "__main__":

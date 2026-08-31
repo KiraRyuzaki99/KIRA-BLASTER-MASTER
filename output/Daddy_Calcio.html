@@ -1,0 +1,1182 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KIRA - Calcio</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0a0e17;
+            color: #e0e0e0;
+            margin: 0;
+            padding: 20px;
+        }
+        .container { max-width: 900px; margin: 0 auto; }
+        
+        .header {
+            text-align: center;
+            padding: 30px 0;
+            border-bottom: 2px solid #00ffcc;
+            margin-bottom: 30px;
+        }
+        .header h1 {
+            font-size: 2.5rem;
+            background: linear-gradient(135deg, #00ffcc, #00aaff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .header .subtitle {
+            color: #8899bb;
+            font-size: 1rem;
+        }
+        .header .stats {
+            color: #556688;
+            font-size: 0.85rem;
+            margin-top: 10px;
+        }
+        
+        .evento-card {
+            background: rgba(0, 30, 30, 0.7);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(0, 255, 204, 0.15);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 15px;
+            transition: all 0.3s ease;
+        }
+        .evento-card:hover {
+            transform: translateY(-3px);
+            border-color: rgba(0, 255, 204, 0.4);
+            box-shadow: 0 0 30px rgba(0, 255, 204, 0.05);
+        }
+        .evento-meta {
+            font-size: 0.75rem;
+            color: #88ddff;
+            opacity: 0.7;
+            margin-bottom: 5px;
+            font-family: 'Courier New', monospace;
+        }
+        .evento-titolo {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #00ffcc;
+            margin-bottom: 5px;
+        }
+        .categoria-tag {
+            display: inline-block;
+            font-size: 0.7rem;
+            background: rgba(0, 255, 204, 0.1);
+            color: #88ddff;
+            padding: 2px 12px;
+            border-radius: 12px;
+            margin-bottom: 12px;
+            border: 1px solid rgba(0, 255, 204, 0.15);
+        }
+        .canali-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        .channel-btn {
+            background: #00ffcc;
+            color: #0a0a0a;
+            text-decoration: none;
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            display: inline-block;
+        }
+        .channel-btn:hover {
+            background: #00ddbb;
+            box-shadow: 0 0 20px rgba(0, 255, 204, 0.3);
+            transform: scale(1.02);
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 30px 0;
+            margin-top: 30px;
+            border-top: 1px solid rgba(0, 255, 204, 0.1);
+            color: #556688;
+            font-size: 0.8rem;
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 { font-size: 1.8rem; }
+            .evento-titolo { font-size: 0.95rem; }
+            .channel-btn { font-size: 0.7rem; padding: 6px 12px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>⚡ Calcio ⚡</h1>
+            <p class="subtitle">Eventi in diretta da DaddyLive</p>
+            <p class="stats">📅 31/08/2026 13:04 • 117 eventi</p>
+        </header>
+        
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 00:00</div>
+            <div class="evento-titolo">⚽ 🇺🇸 United States - NWSL : Boston Legacy 🇺🇸 vs Angel City 🇺🇸</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=308" target="_blank" class="channel-btn">▶ 308</a><a href="https://www.nontongo.win/livetv/308" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-308.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-308.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-308.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 00:05</div>
+            <div class="evento-titolo">Athletics Athletics vs Texas Rangers</div>
+            <div class="categoria-tag">🏷️ ⚾ Baseball — Major League Baseball</div>
+            <div class="canali-container">
+                <a href="https://streame.center/embed/ch22.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 00:10</div>
+            <div class="evento-titolo">Chicago White Sox vs Houston Astros</div>
+            <div class="categoria-tag">🏷️ ⚾ Baseball — Major League Baseball</div>
+            <div class="canali-container">
+                <a href="https://streame.center/embed/ch23.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 00:14</div>
+            <div class="evento-titolo">🏄 🌊 Surf : Fiji Pro - World Surf League</div>
+            <div class="categoria-tag">🏷️ World Surf League 🏄</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=291" target="_blank" class="channel-btn">▶ 291</a><a href="https://www.nontongo.win/livetv/291" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-291.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-291.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-291.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 00:15</div>
+            <div class="evento-titolo">⚽ 🇦🇷 Argentina - Primera División : Instituto 🇦🇷 vs San Lorenzo 🇦🇷</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=388" target="_blank" class="channel-btn">▶ 388</a><a href="https://www.nontongo.win/livetv/388" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-388.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-388.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-388.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 00:15</div>
+            <div class="evento-titolo">⚽ 🇦🇷 Argentina - Primera División : Tigre 🇦🇷 vs Barracas Central 🇦🇷</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=387" target="_blank" class="channel-btn">▶ 387</a><a href="https://www.nontongo.win/livetv/387" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-387.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-387.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-387.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 00:40</div>
+            <div class="evento-titolo">Baltimore Orioles vs Colorado Rockies</div>
+            <div class="categoria-tag">🏷️ ⚾ Baseball — Major League Baseball</div>
+            <div class="canali-container">
+                <a href="https://streame.center/embed/ch24.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 00:45</div>
+            <div class="evento-titolo">⚽ 🇨🇱 Chile - Primera Division : Universidad Católica 🇨🇱 vs O'Higgins 🇨🇱</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=642" target="_blank" class="channel-btn">▶ 642</a><a href="https://www.nontongo.win/livetv/642" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-642.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-642.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-642.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 01:05</div>
+            <div class="evento-titolo">⚽ 🇨🇴 Colombia - Primera A : Deportes Tolima 🇨🇴 vs Cúcuta Deportivo 🇨🇴</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=392" target="_blank" class="channel-btn">▶ 392</a><a href="https://www.nontongo.win/livetv/392" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-392.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-392.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-392.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 01:38</div>
+            <div class="evento-titolo">New York Yankees vs Los Angeles Angels</div>
+            <div class="categoria-tag">🏷️ ⚾ Baseball — Major League Baseball</div>
+            <div class="canali-container">
+                <a href="https://streame.center/embed/ch25.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 01:40</div>
+            <div class="evento-titolo">Philadelphia Phillies vs Arizona Diamondbacks</div>
+            <div class="categoria-tag">🏷️ ⚾ Baseball — Major League Baseball</div>
+            <div class="canali-container">
+                <a href="https://streame.center/embed/ch26.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 13:00</div>
+            <div class="evento-titolo">⚽ 🇬🇧 England Amateur U21 Premier League 2 : Manchester United U21 🇬🇧 vs Leicester City U21 🇬🇧</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=377" target="_blank" class="channel-btn">▶ 377</a><a href="https://www.nontongo.win/livetv/377" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-377.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-377.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-377.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 14:00</div>
+            <div class="evento-titolo">⚽ 🇬🇧 England - National League : Carlisle United 🇬🇧 vs Scunthorpe United 🇬🇧</div>
+            <div class="categoria-tag">🏷️ England - National League ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=76" target="_blank" class="channel-btn">▶ 76</a><a href="https://www.nontongo.win/livetv/76" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-76.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-76.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-76.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 14:00</div>
+            <div class="evento-titolo">⚽ 🇬🇧 England - National League : Boston United 🇬🇧 vs AFC Hornchurch 🇬🇧</div>
+            <div class="categoria-tag">🏷️ England - National League ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=77" target="_blank" class="channel-btn">▶ 77</a><a href="https://www.nontongo.win/livetv/77" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-77.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-77.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-77.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 14:00</div>
+            <div class="evento-titolo">⚽ 🇬🇧 England - National League : Yeovil Town 🇬🇧 vs Tamworth 🇬🇧</div>
+            <div class="categoria-tag">🏷️ England - National League ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=86" target="_blank" class="channel-btn">▶ 86</a><a href="https://www.nontongo.win/livetv/86" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-86.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-86.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-86.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 14:00</div>
+            <div class="evento-titolo">⚽ 🇬🇧 England - National League : Worthing 🇬🇧 vs Boreham Wood 🇬🇧</div>
+            <div class="categoria-tag">🏷️ England - National League ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=105" target="_blank" class="channel-btn">▶ 105</a><a href="https://www.nontongo.win/livetv/105" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-105.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-105.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-105.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 14:00</div>
+            <div class="evento-titolo">⚽ 🇬🇧 England - National League : Woking 🇬🇧 vs Southend United 🇬🇧</div>
+            <div class="categoria-tag">🏷️ England - National League ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=106" target="_blank" class="channel-btn">▶ 106</a><a href="https://www.nontongo.win/livetv/106" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-106.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-106.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-106.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 14:00</div>
+            <div class="evento-titolo">⚽ 🇬🇧 England - National League : Sutton United 🇬🇧 vs Wealdstone 🇬🇧</div>
+            <div class="categoria-tag">🏷️ England - National League ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=107" target="_blank" class="channel-btn">▶ 107</a><a href="https://www.nontongo.win/livetv/107" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-107.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-107.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-107.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 14:00</div>
+            <div class="evento-titolo">⚽ 🇬🇧 England - National League : Solihull Moors 🇬🇧 vs Fylde 🇬🇧</div>
+            <div class="categoria-tag">🏷️ England - National League ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=108" target="_blank" class="channel-btn">▶ 108</a><a href="https://www.nontongo.win/livetv/108" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-108.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-108.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-108.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 14:00</div>
+            <div class="evento-titolo">⚽ 🇬🇧 England - National League : Kidderminster Harriers 🇬🇧 vs Barrow 🇬🇧</div>
+            <div class="categoria-tag">🏷️ England - National League ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=109" target="_blank" class="channel-btn">▶ 109</a><a href="https://www.nontongo.win/livetv/109" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-109.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-109.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-109.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 14:00</div>
+            <div class="evento-titolo">⚽ 🇬🇧 England - National League : Harrogate Town 🇬🇧 vs Gateshead 🇬🇧</div>
+            <div class="categoria-tag">🏷️ England - National League ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=110" target="_blank" class="channel-btn">▶ 110</a><a href="https://www.nontongo.win/livetv/110" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-110.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-110.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-110.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 14:00</div>
+            <div class="evento-titolo">⚽ 🇬🇧 England - National League : Forest Green Rovers 🇬🇧 vs Altrincham 🇬🇧</div>
+            <div class="categoria-tag">🏷️ England - National League ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=151" target="_blank" class="channel-btn">▶ 151</a><a href="https://www.nontongo.win/livetv/151" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-151.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-151.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-151.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 14:00</div>
+            <div class="evento-titolo">⚽ 🇬🇧 England - National League : Eastleigh 🇬🇧 vs Aldershot Town 🇬🇧</div>
+            <div class="categoria-tag">🏷️ England - National League ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=152" target="_blank" class="channel-btn">▶ 152</a><a href="https://www.nontongo.win/livetv/152" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-152.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-152.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-152.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 14:00</div>
+            <div class="evento-titolo">⚽ 🇵🇹 Portugal - Liga Revelação : Torreense U23 🇵🇹 vs Sporting Braga U23 🇵🇹</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=540" target="_blank" class="channel-btn">▶ 540</a><a href="https://www.nontongo.win/livetv/540" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-540.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-540.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-540.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 14:30</div>
+            <div class="evento-titolo">⚽ 🇱🇻 Latvia - Virsliga : Liepāja 🇱🇻 vs Riga 🇱🇻</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=5" target="_blank" class="channel-btn">▶ 5</a><a href="https://www.nontongo.win/livetv/5" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-5.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-5.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-5.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 14:30</div>
+            <div class="evento-titolo">⚽ 🇷🇴 Romania - Liga II : FC Bacău 🇷🇴 vs Slatina 🇷🇴</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=400" target="_blank" class="channel-btn">▶ 400</a><a href="https://www.nontongo.win/livetv/400" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-400.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-400.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-400.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 15:00</div>
+            <div class="evento-titolo">⚽ Finland Veikkausliiga : Gnistan vs TPS</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=3075" target="_blank" class="channel-btn">▶ 3075</a><a href="https://www.nontongo.win/livetv/3075" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-3075.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-3075.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-3075.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 15:00</div>
+            <div class="evento-titolo">⚽ Finland Veikkausliiga : Ilves vs HJK</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=3076" target="_blank" class="channel-btn">▶ 3076</a><a href="https://www.nontongo.win/livetv/3076" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-3076.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-3076.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-3076.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 15:00</div>
+            <div class="evento-titolo">⚽ Finland Veikkausliiga : Inter Turku vs KuPS</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=3077" target="_blank" class="channel-btn">▶ 3077</a><a href="https://www.nontongo.win/livetv/3077" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-3077.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-3077.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-3077.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 15:00</div>
+            <div class="evento-titolo">⚽ Finland Veikkausliiga : Mariehamn vs Jaro</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=3078" target="_blank" class="channel-btn">▶ 3078</a><a href="https://www.nontongo.win/livetv/3078" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-3078.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-3078.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-3078.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 15:00</div>
+            <div class="evento-titolo">⚽ Finland Veikkausliiga : Oulu vs SJK</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=3074" target="_blank" class="channel-btn">▶ 3074</a><a href="https://www.nontongo.win/livetv/3074" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-3074.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-3074.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-3074.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 15:00</div>
+            <div class="evento-titolo">⚽ Finland Veikkausliiga : VPS vs Lahti</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=3079" target="_blank" class="channel-btn">▶ 3079</a><a href="https://www.nontongo.win/livetv/3079" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-3079.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-3079.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-3079.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 15:00</div>
+            <div class="evento-titolo">⚽ 🇸🇮 Football: Slovenian Youth League : Maribor 🇸🇮 vs Bravo 🇸🇮</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=103" target="_blank" class="channel-btn">▶ 103</a><a href="https://www.nontongo.win/livetv/103" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-103.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-103.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-103.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 15:00</div>
+            <div class="evento-titolo">⚽ 🇸🇰 Slovakia - 2. Futbalová Liga : Malženice 🇸🇰 vs MFK Bytča 🇸🇰</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=1" target="_blank" class="channel-btn">▶ 1</a><a href="https://www.nontongo.win/livetv/1" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-1.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-1.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-1.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 16:00</div>
+            <div class="evento-titolo">⚽ 🇮🇱 Israel National League : Maccabi Bney Reine 🇮🇱 vs Ashdod S 🇮🇱</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=145" target="_blank" class="channel-btn">▶ 145</a><a href="https://www.nontongo.win/livetv/145" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-145.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-145.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-145.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 16:00</div>
+            <div class="evento-titolo">⚽ 🇮🇱 Israel National League : Hapoel Afula 🇮🇱 vs Hapoel Raanana 🇮🇱</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=146" target="_blank" class="channel-btn">▶ 146</a><a href="https://www.nontongo.win/livetv/146" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-146.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-146.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-146.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 16:00</div>
+            <div class="evento-titolo">⚽ 🇮🇱 Israel National League : Hapoel Acre 🇮🇱 vs Bnei Yehuda Tel Aviv 🇮🇱</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=147" target="_blank" class="channel-btn">▶ 147</a><a href="https://www.nontongo.win/livetv/147" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-147.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-147.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-147.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 16:00</div>
+            <div class="evento-titolo">⚽ 🇧🇬 Bulgaria - Parva Liga : Dunav 2010 🇧🇬 vs Lokomotiv Sofia 1929 🇧🇬</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=465" target="_blank" class="channel-btn">▶ 465</a><a href="https://www.nontongo.win/livetv/465" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-465.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-465.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-465.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 16:00</div>
+            <div class="evento-titolo">⚽ 🇩🇪 Frauen-Bundesliga : Bayern 🇩🇪 vs Mainz 🇩🇪</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=2" target="_blank" class="channel-btn">▶ 2</a><a href="https://www.nontongo.win/livetv/2" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-2.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-2.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-2.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 16:00</div>
+            <div class="evento-titolo">⚽ 🇳🇴 Norway Toppserien, Women : Røa 🇳🇴 vs Lyn 🇳🇴</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=812" target="_blank" class="channel-btn">▶ 812</a><a href="https://www.nontongo.win/livetv/812" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-812.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-812.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-812.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 16:30</div>
+            <div class="evento-titolo">⚽ 🇷🇺 Russia - FNL : Spartak Kostroma 🇷🇺 vs Rotor Volgograd 🇷🇺</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=573" target="_blank" class="channel-btn">▶ 573</a><a href="https://www.nontongo.win/livetv/573" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-573.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-573.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-573.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 16:30</div>
+            <div class="evento-titolo">⚽ 🇮🇹 Italy - Serie A : Lecce 🇮🇹 vs Roma 🇮🇹</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=55" target="_blank" class="channel-btn">▶ 55</a><a href="https://www.nontongo.win/livetv/55" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-55.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-55.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-55.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 16:30</div>
+            <div class="evento-titolo">⚽ 🇬🇷 Greece - Super League : Levadiakos 🇬🇷 vs Panathinaikos 🇬🇷</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=632" target="_blank" class="channel-btn">▶ 632</a><a href="https://www.nontongo.win/livetv/632" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-632.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-632.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-632.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 16:30</div>
+            <div class="evento-titolo">⚽ 🇭🇷 Croatia - 1. HNL : Hajduk Split 🇭🇷 vs Lokomotiva Zagreb 🇭🇷</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=779" target="_blank" class="channel-btn">▶ 779</a><a href="https://www.nontongo.win/livetv/779" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-779.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-779.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-779.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 16:30</div>
+            <div class="evento-titolo">Italian Serie A : Lecce vs Roma</div>
+            <div class="categoria-tag">🏷️ Italian Serie A</div>
+            <div class="canali-container">
+                <a href="https://flyembed.click/embed/8.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 16:30</div>
+            <div class="evento-titolo">Levadiakos - Panathinaikos</div>
+            <div class="categoria-tag">🏷️ Betfred Super League</div>
+            <div class="canali-container">
+                <a href="https://bolaloca.my/player/1/148" target="_blank" class="channel-btn">▶ Canale</a><a href="https://bolaloca.my/player/2/148" target="_blank" class="channel-btn">▶ Canale</a><a href="https://bolaloca.my/player/3/148" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 16:30</div>
+            <div class="evento-titolo">Lecce - AS Roma</div>
+            <div class="categoria-tag">🏷️ Serie A</div>
+            <div class="canali-container">
+                <a href="https://bolaloca.my/player/1/46" target="_blank" class="channel-btn">▶ Canale</a><a href="https://bolaloca.my/player/2/46" target="_blank" class="channel-btn">▶ Canale</a><a href="https://bolaloca.my/player/3/46" target="_blank" class="channel-btn">▶ Canale</a><a href="https://bolaloca.my/player/1/138" target="_blank" class="channel-btn">▶ Canale</a><a href="https://bolaloca.my/player/2/138" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 16:30</div>
+            <div class="evento-titolo">AS Roma vs Lecce</div>
+            <div class="categoria-tag">🏷️ ⚽ Football</div>
+            <div class="canali-container">
+                <a href="https://streame.center/embed/ch9.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 17:00</div>
+            <div class="evento-titolo">⚽ 🇨🇾 Cyprus - First Division : Omonia Nicosia 🇨🇾 vs Omonia Aradippou 🇨🇾</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=911" target="_blank" class="channel-btn">▶ 911</a><a href="https://www.nontongo.win/livetv/911" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-911.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-911.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-911.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 17:00</div>
+            <div class="evento-titolo">⚽ 🇩🇰 Denmark - Super Liga : København 🇩🇰 vs SønderjyskE 🇩🇰</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=808" target="_blank" class="channel-btn">▶ 808</a><a href="https://www.nontongo.win/livetv/808" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-808.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-808.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-808.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 17:00</div>
+            <div class="evento-titolo">⚽ 🇷🇸 Serbia - Super Liga : Partizan 🇷🇸 vs OFK Beograd 🇷🇸</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=135" target="_blank" class="channel-btn">▶ 135</a><a href="https://www.nontongo.win/livetv/135" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-135.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-135.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-135.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 17:00</div>
+            <div class="evento-titolo">⚽ 🇪🇸 Spain - Segunda Division : Burgos 🇪🇸 vs Real Sociedad II 🇪🇸</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=539" target="_blank" class="channel-btn">▶ 539</a><a href="https://www.nontongo.win/livetv/539" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-539.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-539.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-539.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 17:00</div>
+            <div class="evento-titolo">⚽ 🇸🇪 Sweden - Allsvenskan : Djurgården 🇸🇪 vs Mjällby 🇸🇪</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=707" target="_blank" class="channel-btn">▶ 707</a><a href="https://www.nontongo.win/livetv/707" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-707.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-707.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-707.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 17:00</div>
+            <div class="evento-titolo">⚽ 🇸🇪 Sweden - Allsvenskan : GAIS 🇸🇪 vs Brommapojkarna 🇸🇪</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=703" target="_blank" class="channel-btn">▶ 703</a><a href="https://www.nontongo.win/livetv/703" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-703.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-703.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-703.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 17:00</div>
+            <div class="evento-titolo">⚽ 🇸🇪 Sweden - Allsvenskan : Sirius 🇸🇪 vs Malmö FF 🇸🇪</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=747" target="_blank" class="channel-btn">▶ 747</a><a href="https://www.nontongo.win/livetv/747" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-747.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-747.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-747.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 17:30</div>
+            <div class="evento-titolo">⚽ 🇪🇸 Spain - La Liga : Osasuna 🇪🇸 vs Getafe 🇪🇸</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=84" target="_blank" class="channel-btn">▶ 84</a><a href="https://www.nontongo.win/livetv/84" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-84.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-84.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-84.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 17:30</div>
+            <div class="evento-titolo">⚽ 🇷🇴 Romania - Liga I : Rapid Bucureşti 🇷🇴 vs CSU Craiova 🇷🇴</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=400" target="_blank" class="channel-btn">▶ 400</a><a href="https://www.nontongo.win/livetv/400" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-400.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-400.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-400.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 17:30</div>
+            <div class="evento-titolo">⚽ 🇮🇱 Israel - Ligat Ha'Al : Maccabi Tel Aviv 🇮🇱 vs Maccabi Haifa 🇮🇱</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=144" target="_blank" class="channel-btn">▶ 144</a><a href="https://www.nontongo.win/livetv/144" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-144.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-144.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-144.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 17:30</div>
+            <div class="evento-titolo">🤾 🇩🇪 2. Bundesliga : Leipzig 🇩🇪 vs Minden 🇩🇪</div>
+            <div class="categoria-tag">🏷️ Handball 🤾</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=16" target="_blank" class="channel-btn">▶ 16</a><a href="https://www.nontongo.win/livetv/16" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-16.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-16.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-16.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 17:30</div>
+            <div class="evento-titolo">Spain - La Liga : Osasuna vs Getafe (espn deportes)</div>
+            <div class="categoria-tag">🏷️ Spain - La Liga</div>
+            <div class="canali-container">
+                <a href="https://flyembed.click/embed/4.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 17:30</div>
+            <div class="evento-titolo">Spain - La Liga : Osasuna vs Getafe (premier 1 eng)</div>
+            <div class="categoria-tag">🏷️ Spain - La Liga</div>
+            <div class="canali-container">
+                <a href="https://flyembed.click/embed/5.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 17:30</div>
+            <div class="evento-titolo">Getafe vs Osasuna</div>
+            <div class="categoria-tag">🏷️ ⚽ Football</div>
+            <div class="canali-container">
+                <a href="https://streame.center/embed/ch6.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://streame.center/embed/ch4.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 18:00</div>
+            <div class="evento-titolo">⚽ 🇳🇱 Netherlands - Eerste Divisie : AZ II 🇳🇱 vs Utrecht II 🇳🇱</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=386" target="_blank" class="channel-btn">▶ 386</a><a href="https://www.nontongo.win/livetv/386" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-386.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-386.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-386.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 18:00</div>
+            <div class="evento-titolo">⚽ 🇳🇱 Netherlands - Eerste Divisie : PSV II 🇳🇱 vs Ajax II 🇳🇱</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=379" target="_blank" class="channel-btn">▶ 379</a><a href="https://www.nontongo.win/livetv/379" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-379.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-379.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-379.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 18:15</div>
+            <div class="evento-titolo">⚽ 🇧🇬 Bulgaria - Parva Liga : Arda 🇧🇬 vs Botev Vratsa 🇧🇬</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=465" target="_blank" class="channel-btn">▶ 465</a><a href="https://www.nontongo.win/livetv/465" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-465.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-465.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-465.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 18:15</div>
+            <div class="evento-titolo">⚽ 🇨🇭 Switzerland - Challenge League : Wil 🇨🇭 vs Aarau 🇨🇭</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=7" target="_blank" class="channel-btn">▶ 7</a><a href="https://www.nontongo.win/livetv/7" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-7.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-7.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-7.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 18:30</div>
+            <div class="evento-titolo">⚽ 🇹🇷 Turkey - Super Lig : Amed SK 🇹🇷 vs Trabzonspor 🇹🇷</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=63" target="_blank" class="channel-btn">▶ 63</a><a href="https://www.nontongo.win/livetv/63" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-63.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-63.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-63.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 18:30</div>
+            <div class="evento-titolo">⚽ 🇹🇷 Turkey - Super Lig : Beşiktaş 🇹🇷 vs Çorum Belediyespor 🇹🇷</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=62" target="_blank" class="channel-btn">▶ 62</a><a href="https://www.nontongo.win/livetv/62" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-62.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-62.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-62.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 18:30</div>
+            <div class="evento-titolo">⚽ 🇮🇹 Italy - Serie C : Novara 🇮🇹 vs Folgore Caratese 🇮🇹</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=22" target="_blank" class="channel-btn">▶ 22</a><a href="https://www.nontongo.win/livetv/22" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-22.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-22.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-22.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 18:45</div>
+            <div class="evento-titolo">⚽ 🇮🇹 Italy - Serie A : Atalanta 🇮🇹 vs Bologna 🇮🇹</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=68" target="_blank" class="channel-btn">▶ 68</a><a href="https://www.nontongo.win/livetv/68" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-68.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-68.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-68.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 18:45</div>
+            <div class="evento-titolo">⚽ 🇫🇷 France - Ligue 2 : Dijon 🇫🇷 vs Saint-Étienne 🇫🇷</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=116" target="_blank" class="channel-btn">▶ 116</a><a href="https://www.nontongo.win/livetv/116" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-116.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-116.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-116.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 18:45</div>
+            <div class="evento-titolo">Italian Serie A : Atalanta vs Bologna</div>
+            <div class="categoria-tag">🏷️ Italian Serie A</div>
+            <div class="canali-container">
+                <a href="https://flyembed.click/embed/9.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 18:45</div>
+            <div class="evento-titolo">Dijon - St Etienne</div>
+            <div class="categoria-tag">🏷️ Ligue 2</div>
+            <div class="canali-container">
+                <a href="https://bolaloca.my/player/1/1" target="_blank" class="channel-btn">▶ Canale</a><a href="https://bolaloca.my/player/2/1" target="_blank" class="channel-btn">▶ Canale</a><a href="https://bolaloca.my/player/3/1" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 18:45</div>
+            <div class="evento-titolo">Atalanta - Bologna</div>
+            <div class="categoria-tag">🏷️ Serie A</div>
+            <div class="canali-container">
+                <a href="https://bolaloca.my/player/1/46" target="_blank" class="channel-btn">▶ Canale</a><a href="https://bolaloca.my/player/2/46" target="_blank" class="channel-btn">▶ Canale</a><a href="https://bolaloca.my/player/3/46" target="_blank" class="channel-btn">▶ Canale</a><a href="https://bolaloca.my/player/1/138" target="_blank" class="channel-btn">▶ Canale</a><a href="https://bolaloca.my/player/2/138" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 18:45</div>
+            <div class="evento-titolo">Bologna vs Atalanta</div>
+            <div class="categoria-tag">🏷️ ⚽ Football</div>
+            <div class="canali-container">
+                <a href="https://streame.center/embed/ch9.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:00</div>
+            <div class="evento-titolo">⚽ 🇮🇹 Italy - Serie C : AlbinoLeffe 🇮🇹 vs Ospitaletto 🇮🇹</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=23" target="_blank" class="channel-btn">▶ 23</a><a href="https://www.nontongo.win/livetv/23" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-23.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-23.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-23.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:00</div>
+            <div class="evento-titolo">⚽ 🇮🇹 Italy - Serie C : Desenzano Calvina 🇮🇹 vs Trento 🇮🇹</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=24" target="_blank" class="channel-btn">▶ 24</a><a href="https://www.nontongo.win/livetv/24" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-24.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-24.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-24.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:00</div>
+            <div class="evento-titolo">⚽ 🇮🇹 Italy - Serie C : Renate 🇮🇹 vs Cittadella 🇮🇹</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=25" target="_blank" class="channel-btn">▶ 25</a><a href="https://www.nontongo.win/livetv/25" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-25.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-25.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-25.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:00</div>
+            <div class="evento-titolo">⚽ 🇮🇹 Italy - Serie C : Treviso 🇮🇹 vs Lecco 🇮🇹</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=3" target="_blank" class="channel-btn">▶ 3</a><a href="https://www.nontongo.win/livetv/3" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-3.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-3.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-3.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:00</div>
+            <div class="evento-titolo">⚽ 🇧🇷 Brazil U17 Brasileiro : Grêmio U17 🇧🇷 vs Internacional U17 🇧🇷</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=78" target="_blank" class="channel-btn">▶ 78</a><a href="https://www.nontongo.win/livetv/78" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-78.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-78.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-78.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:00</div>
+            <div class="evento-titolo">⚽ 🇭🇷 Croatia - 1. HNL : Gorica 🇭🇷 vs Rijeka 🇭🇷</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=779" target="_blank" class="channel-btn">▶ 779</a><a href="https://www.nontongo.win/livetv/779" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-779.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-779.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-779.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:00</div>
+            <div class="evento-titolo">⚽ 🇬🇧 England - Premier League : Aston Villa 🇬🇧 vs Arsenal 🇬🇧</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=10" target="_blank" class="channel-btn">▶ 10</a><a href="https://www.nontongo.win/livetv/10" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-10.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-10.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-10.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:00</div>
+            <div class="evento-titolo">English Premier League : Arsenal vs Aston Villa (USA Network)</div>
+            <div class="categoria-tag">🏷️ English Premier League</div>
+            <div class="canali-container">
+                <a href="https://flyembed.click/embed/1.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:00</div>
+            <div class="evento-titolo">English Premier League : Arsenal vs Aston Villa (sky main event)</div>
+            <div class="categoria-tag">🏷️ English Premier League</div>
+            <div class="canali-container">
+                <a href="https://flyembed.click/embed/2.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:00</div>
+            <div class="evento-titolo">English Premier League : Arsenal vs Aston Villa (sky 8 nz)</div>
+            <div class="categoria-tag">🏷️ English Premier League</div>
+            <div class="canali-container">
+                <a href="https://flyembed.click/embed/3.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:00</div>
+            <div class="evento-titolo">Aston Villa - Arsenal</div>
+            <div class="categoria-tag">🏷️ Premier League</div>
+            <div class="canali-container">
+                <a href="https://bolaloca.my/player/1/12" target="_blank" class="channel-btn">▶ Canale</a><a href="https://bolaloca.my/player/2/12" target="_blank" class="channel-btn">▶ Canale</a><a href="https://bolaloca.my/player/3/12" target="_blank" class="channel-btn">▶ Canale</a><a href="https://bolaloca.my/player/1/127" target="_blank" class="channel-btn">▶ Canale</a><a href="https://bolaloca.my/player/2/127" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:00</div>
+            <div class="evento-titolo">Arsenal vs Aston Villa</div>
+            <div class="categoria-tag">🏷️ ⚽ Football</div>
+            <div class="canali-container">
+                <a href="https://streame.center/embed/ch1.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://streame.center/embed/ch7.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:15</div>
+            <div class="evento-titolo">⚽ 🇵🇹 Portugal - Primeira Liga : Benfica 🇵🇹 vs Estoril 🇵🇹</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=380" target="_blank" class="channel-btn">▶ 380</a><a href="https://www.nontongo.win/livetv/380" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-380.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-380.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-380.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:15</div>
+            <div class="evento-titolo">⚽ 🇵🇹 Portugal - Primeira Liga : Sporting Braga 🇵🇹 vs Vitória Guimarães 🇵🇹</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=49" target="_blank" class="channel-btn">▶ 49</a><a href="https://www.nontongo.win/livetv/49" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-49.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-49.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-49.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:15</div>
+            <div class="evento-titolo">Portuguese Primeira Liga : Benfica vs Estoril</div>
+            <div class="categoria-tag">🏷️ Portuguese Primeira Liga</div>
+            <div class="canali-container">
+                <a href="https://flyembed.click/embed/10.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:15</div>
+            <div class="evento-titolo">Portuguese Primeira Liga : Sporting Braga vs Vitória Guimarães</div>
+            <div class="categoria-tag">🏷️ Portuguese Primeira Liga</div>
+            <div class="canali-container">
+                <a href="https://flyembed.click/embed/11.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:30</div>
+            <div class="evento-titolo">⚽ 🇪🇸 Spain - Segunda Division : Celta de Vigo II 🇪🇸 vs CD Castellon 🇪🇸</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=539" target="_blank" class="channel-btn">▶ 539</a><a href="https://www.nontongo.win/livetv/539" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-539.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-539.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-539.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:30</div>
+            <div class="evento-titolo">⚽ 🇪🇸 Spain - La Liga : Barcelona 🇪🇸 vs Rayo Vallecano 🇪🇸</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=538" target="_blank" class="channel-btn">▶ 538</a><a href="https://www.nontongo.win/livetv/538" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-538.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-538.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-538.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:30</div>
+            <div class="evento-titolo">🏄 🌊 World Surf League : 2026 WSL Championship Tour: Fiji Pro</div>
+            <div class="categoria-tag">🏷️ World Surf League 🏄</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=291" target="_blank" class="channel-btn">▶ 291</a><a href="https://www.nontongo.win/livetv/291" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-291.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-291.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-291.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:30</div>
+            <div class="evento-titolo">Spain - La Liga : Barcelona vs Rayo Vallecano (dazn laliga)</div>
+            <div class="categoria-tag">🏷️ Spain - La Liga</div>
+            <div class="canali-container">
+                <a href="https://flyembed.click/embed/6.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:30</div>
+            <div class="evento-titolo">Spain - La Liga : Barcelona vs Rayo Vallecano (premier 1 eng)</div>
+            <div class="categoria-tag">🏷️ Spain - La Liga</div>
+            <div class="canali-container">
+                <a href="https://flyembed.click/embed/7.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 19:30</div>
+            <div class="evento-titolo">Rayo Vallecano vs Barcelona</div>
+            <div class="categoria-tag">🏷️ ⚽ Football</div>
+            <div class="canali-container">
+                <a href="https://streame.center/embed/ch6.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://streame.center/embed/ch4.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 20:00</div>
+            <div class="evento-titolo">⚽ 🇵🇪 Peru - Primera Division : Atlético Grau 🇵🇪 vs Melgar 🇵🇪</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=2" target="_blank" class="channel-btn">▶ 2</a><a href="https://www.nontongo.win/livetv/2" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-2.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-2.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-2.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 21:00</div>
+            <div class="evento-titolo">⚽ Premier League Goal Zone Live</div>
+            <div class="categoria-tag">🏷️ TV Shows 📺</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=343" target="_blank" class="channel-btn">▶ 343</a><a href="https://www.nontongo.win/livetv/343" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-343.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-343.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-343.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 21:00</div>
+            <div class="evento-titolo">⚽ 🇺🇸 College Soccer : Louisville 🇺🇸 vs Indiana 🇺🇸</div>
+            <div class="categoria-tag">🏷️ Men's College Soccer ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=664" target="_blank" class="channel-btn">▶ 664</a><a href="https://www.nontongo.win/livetv/664" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-664.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-664.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-664.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 21:00</div>
+            <div class="evento-titolo">🏏 🌴 Caribbean Premier League : Trinbago Knight Riders 🇹🇹 vs Guyana Amazon Warriors 🇬🇾</div>
+            <div class="categoria-tag">🏷️ Cricket 🏏</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=346" target="_blank" class="channel-btn">▶ 346</a><a href="https://www.nontongo.win/livetv/346" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-346.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-346.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-346.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 21:37</div>
+            <div class="evento-titolo">🏄 🌊 Surf : Fiji Pro - World Surf League</div>
+            <div class="categoria-tag">🏷️ World Surf League 🏄</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=291" target="_blank" class="channel-btn">▶ 291</a><a href="https://www.nontongo.win/livetv/291" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-291.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-291.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-291.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 22:00</div>
+            <div class="evento-titolo">⚽ 🇦🇷 Argentina - Primera División : Defensa y Justicia 🇦🇷 vs Platense 🇦🇷</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=387" target="_blank" class="channel-btn">▶ 387</a><a href="https://www.nontongo.win/livetv/387" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-387.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-387.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-387.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 22:00</div>
+            <div class="evento-titolo">⚽ 🇦🇷 Argentina - Primera División : Estudiantes 🇦🇷 vs Newell's Old Boys 🇦🇷</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=388" target="_blank" class="channel-btn">▶ 388</a><a href="https://www.nontongo.win/livetv/388" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-388.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-388.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-388.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 22:00</div>
+            <div class="evento-titolo">⚽ 🇺🇸 Women's College Soccer : St. Bonaventure 🇺🇸 vs Niagara 🇺🇸</div>
+            <div class="categoria-tag">🏷️ Women's College Soccer ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=59" target="_blank" class="channel-btn">▶ 59</a><a href="https://www.nontongo.win/livetv/59" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-59.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-59.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-59.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 22:05</div>
+            <div class="evento-titolo">San Francisco Giants vs Atlanta Braves</div>
+            <div class="categoria-tag">🏷️ ⚾ Baseball — Major League Baseball</div>
+            <div class="canali-container">
+                <a href="https://streame.center/embed/ch15.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 22:15</div>
+            <div class="evento-titolo">⚽ 🇨🇱 Chile - Primera Division : Unión La Calera 🇨🇱 vs La Serena 🇨🇱</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=642" target="_blank" class="channel-btn">▶ 642</a><a href="https://www.nontongo.win/livetv/642" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-642.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-642.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-642.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 22:30</div>
+            <div class="evento-titolo">⚽ 🇧🇷 Brazil - Serie B : Fortaleza 🇧🇷 vs Operário PR 🇧🇷</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=81" target="_blank" class="channel-btn">▶ 81</a><a href="https://www.nontongo.win/livetv/81" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-81.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-81.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-81.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 22:40</div>
+            <div class="evento-titolo">New York Mets vs Tampa Bay Rays</div>
+            <div class="categoria-tag">🏷️ ⚾ Baseball — Major League Baseball</div>
+            <div class="canali-container">
+                <a href="https://streame.center/embed/ch16.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 22:40</div>
+            <div class="evento-titolo">San Diego Padres vs Cincinnati Reds</div>
+            <div class="categoria-tag">🏷️ ⚾ Baseball — Major League Baseball</div>
+            <div class="canali-container">
+                <a href="https://streame.center/embed/ch17.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 22:45</div>
+            <div class="evento-titolo">Miami Marlins vs Washington Nationals</div>
+            <div class="categoria-tag">🏷️ ⚾ Baseball — Major League Baseball</div>
+            <div class="canali-container">
+                <a href="https://streame.center/embed/ch18.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 22:45</div>
+            <div class="evento-titolo">Seattle Mariners vs Boston Red Sox</div>
+            <div class="categoria-tag">🏷️ ⚾ Baseball — Major League Baseball</div>
+            <div class="canali-container">
+                <a href="https://streame.center/embed/ch19.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 23:00</div>
+            <div class="evento-titolo">🏈 🇺🇸 NCAA Men's Soccer : Louisville 🇺🇸 vs Indiana 🇺🇸</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=664" target="_blank" class="channel-btn">▶ 664</a><a href="https://www.nontongo.win/livetv/664" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-664.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-664.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-664.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 23:00</div>
+            <div class="evento-titolo">⚽ 🇧🇷 Brazil - Brasileirão : Remo 🇧🇷 vs Coritiba 🇧🇷</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=88" target="_blank" class="channel-btn">▶ 88</a><a href="https://www.nontongo.win/livetv/88" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-88.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-88.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-88.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 23:00</div>
+            <div class="evento-titolo">⚽ 🇨🇴 Colombia - Primera A : Deportivo Pasto 🇨🇴 vs Deportivo Pereira 🇨🇴</div>
+            <div class="categoria-tag">🏷️ All Soccer Events ⚽</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=392" target="_blank" class="channel-btn">▶ 392</a><a href="https://www.nontongo.win/livetv/392" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-392.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-392.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-392.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 23:40</div>
+            <div class="evento-titolo">Detroit Tigers vs Minnesota Twins</div>
+            <div class="categoria-tag">🏷️ ⚾ Baseball — Major League Baseball</div>
+            <div class="canali-container">
+                <a href="https://streame.center/embed/ch20.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 23:40</div>
+            <div class="evento-titolo">Milwaukee Brewers vs Chicago Cubs</div>
+            <div class="categoria-tag">🏷️ ⚾ Baseball — Major League Baseball</div>
+            <div class="canali-container">
+                <a href="https://streame.center/embed/ch21.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        
+        <footer class="footer">
+            <p>KIRA • DaddyLive • 2026</p>
+        </footer>
+    </div>
+</body>
+</html>

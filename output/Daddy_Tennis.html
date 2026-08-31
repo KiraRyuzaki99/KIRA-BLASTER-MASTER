@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KIRA - Tennis</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0a0e17;
+            color: #e0e0e0;
+            margin: 0;
+            padding: 20px;
+        }
+        .container { max-width: 900px; margin: 0 auto; }
+        
+        .header {
+            text-align: center;
+            padding: 30px 0;
+            border-bottom: 2px solid #00ffcc;
+            margin-bottom: 30px;
+        }
+        .header h1 {
+            font-size: 2.5rem;
+            background: linear-gradient(135deg, #00ffcc, #00aaff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .header .subtitle {
+            color: #8899bb;
+            font-size: 1rem;
+        }
+        .header .stats {
+            color: #556688;
+            font-size: 0.85rem;
+            margin-top: 10px;
+        }
+        
+        .evento-card {
+            background: rgba(0, 30, 30, 0.7);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(0, 255, 204, 0.15);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 15px;
+            transition: all 0.3s ease;
+        }
+        .evento-card:hover {
+            transform: translateY(-3px);
+            border-color: rgba(0, 255, 204, 0.4);
+            box-shadow: 0 0 30px rgba(0, 255, 204, 0.05);
+        }
+        .evento-meta {
+            font-size: 0.75rem;
+            color: #88ddff;
+            opacity: 0.7;
+            margin-bottom: 5px;
+            font-family: 'Courier New', monospace;
+        }
+        .evento-titolo {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #00ffcc;
+            margin-bottom: 5px;
+        }
+        .categoria-tag {
+            display: inline-block;
+            font-size: 0.7rem;
+            background: rgba(0, 255, 204, 0.1);
+            color: #88ddff;
+            padding: 2px 12px;
+            border-radius: 12px;
+            margin-bottom: 12px;
+            border: 1px solid rgba(0, 255, 204, 0.15);
+        }
+        .canali-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        .channel-btn {
+            background: #00ffcc;
+            color: #0a0a0a;
+            text-decoration: none;
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            display: inline-block;
+        }
+        .channel-btn:hover {
+            background: #00ddbb;
+            box-shadow: 0 0 20px rgba(0, 255, 204, 0.3);
+            transform: scale(1.02);
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 30px 0;
+            margin-top: 30px;
+            border-top: 1px solid rgba(0, 255, 204, 0.1);
+            color: #556688;
+            font-size: 0.8rem;
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 { font-size: 1.8rem; }
+            .evento-titolo { font-size: 0.95rem; }
+            .channel-btn { font-size: 0.7rem; padding: 6px 12px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>⚡ Tennis ⚡</h1>
+            <p class="subtitle">Eventi in diretta da DaddyLive</p>
+            <p class="stats">📅 31/08/2026 13:04 • 13 eventi</p>
+        </header>
+        
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 05:50</div>
+            <div class="evento-titolo">🎾🏆 US Open : 🏟️ RED Zone | Multi Feed</div>
+            <div class="categoria-tag">🏷️ Tennis US OPEN [All Court 🏟️] 🎾</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=1067" target="_blank" class="channel-btn">▶ 1067</a><a href="https://www.nontongo.win/livetv/1067" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-1067.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-1067.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-1067.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 05:50</div>
+            <div class="evento-titolo">🎾🏆 US Open : 🏟️ Arthur Ashe Stadium</div>
+            <div class="categoria-tag">🏷️ Tennis US OPEN [All Court 🏟️] 🎾</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=1068" target="_blank" class="channel-btn">▶ 1068</a><a href="https://www.nontongo.win/livetv/1068" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-1068.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-1068.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-1068.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 05:50</div>
+            <div class="evento-titolo">🎾🏆 US Open : 🏟️ Louis Armstrong Stadium</div>
+            <div class="categoria-tag">🏷️ Tennis US OPEN [All Court 🏟️] 🎾</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=1069" target="_blank" class="channel-btn">▶ 1069</a><a href="https://www.nontongo.win/livetv/1069" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-1069.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-1069.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-1069.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 05:50</div>
+            <div class="evento-titolo">🎾🏆 US Open : 🏟️ Grandstand</div>
+            <div class="categoria-tag">🏷️ Tennis US OPEN [All Court 🏟️] 🎾</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=1070" target="_blank" class="channel-btn">▶ 1070</a><a href="https://www.nontongo.win/livetv/1070" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-1070.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-1070.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-1070.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 05:50</div>
+            <div class="evento-titolo">🎾🏆 US Open : 🏟️ Stadium 17</div>
+            <div class="categoria-tag">🏷️ Tennis US OPEN [All Court 🏟️] 🎾</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=1071" target="_blank" class="channel-btn">▶ 1071</a><a href="https://www.nontongo.win/livetv/1071" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-1071.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-1071.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-1071.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 05:50</div>
+            <div class="evento-titolo">🎾🏆 US Open : 🎾 Court 5</div>
+            <div class="categoria-tag">🏷️ Tennis US OPEN [All Court 🏟️] 🎾</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=1072" target="_blank" class="channel-btn">▶ 1072</a><a href="https://www.nontongo.win/livetv/1072" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-1072.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-1072.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-1072.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 05:50</div>
+            <div class="evento-titolo">🎾🏆 US Open : 🎾 Court 6</div>
+            <div class="categoria-tag">🏷️ Tennis US OPEN [All Court 🏟️] 🎾</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=1073" target="_blank" class="channel-btn">▶ 1073</a><a href="https://www.nontongo.win/livetv/1073" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-1073.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-1073.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-1073.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 05:50</div>
+            <div class="evento-titolo">🎾🏆 US Open : 🎾 Court 7</div>
+            <div class="categoria-tag">🏷️ Tennis US OPEN [All Court 🏟️] 🎾</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=1074" target="_blank" class="channel-btn">▶ 1074</a><a href="https://www.nontongo.win/livetv/1074" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-1074.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-1074.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-1074.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 05:50</div>
+            <div class="evento-titolo">🎾🏆 US Open : 🎾 Court 10</div>
+            <div class="categoria-tag">🏷️ Tennis US OPEN [All Court 🏟️] 🎾</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=1075" target="_blank" class="channel-btn">▶ 1075</a><a href="https://www.nontongo.win/livetv/1075" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-1075.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-1075.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-1075.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 05:50</div>
+            <div class="evento-titolo">🎾🏆 US Open : 🎾 Court 11</div>
+            <div class="categoria-tag">🏷️ Tennis US OPEN [All Court 🏟️] 🎾</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=1076" target="_blank" class="channel-btn">▶ 1076</a><a href="https://www.nontongo.win/livetv/1076" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-1076.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-1076.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-1076.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 05:50</div>
+            <div class="evento-titolo">🎾🏆 US Open : 🎾 Court 12</div>
+            <div class="categoria-tag">🏷️ Tennis US OPEN [All Court 🏟️] 🎾</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=1077" target="_blank" class="channel-btn">▶ 1077</a><a href="https://www.nontongo.win/livetv/1077" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-1077.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-1077.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-1077.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 05:50</div>
+            <div class="evento-titolo">🎾🏆 US Open : 🎾 Court 13</div>
+            <div class="categoria-tag">🏷️ Tennis US OPEN [All Court 🏟️] 🎾</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=1078" target="_blank" class="channel-btn">▶ 1078</a><a href="https://www.nontongo.win/livetv/1078" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-1078.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-1078.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-1078.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        <div class="evento-card">
+            <div class="evento-meta">📅 Monday, 31st August 2026 – Schedule Time (UK GMT) | 🕒 15:00</div>
+            <div class="evento-titolo">🎾 US Open Grand Slam Tennis : Mens & Womens Singles 1st Round</div>
+            <div class="categoria-tag">🏷️ Tennis 🎾</div>
+            <div class="canali-container">
+                <a href="https://daddylive.eu/embed/embed.php?id=40" target="_blank" class="channel-btn">▶ 40</a><a href="https://www.nontongo.win/livetv/40" target="_blank" class="channel-btn">▶ Canale</a><a href="https://cricsfree.cfd/live/stream-40.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://daddylive1.cx/new/stream-40.php" target="_blank" class="channel-btn">▶ Canale</a><a href="https://apexstreams.cfd/live/stream-40.php" target="_blank" class="channel-btn">▶ Canale</a>
+            </div>
+        </div>
+        
+        
+        <footer class="footer">
+            <p>KIRA • DaddyLive • 2026</p>
+        </footer>
+    </div>
+</body>
+</html>

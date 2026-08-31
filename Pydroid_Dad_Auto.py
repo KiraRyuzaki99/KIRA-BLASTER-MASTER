@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-DADDYLIVE AUTO - Genera HTML automatici per ogni sport
+DADDYLIVE AUTO - Genera HTML per ogni sport con stile KIRA GSI
 """
 
 import requests
@@ -10,31 +10,102 @@ import os
 import re
 from datetime import datetime
 from collections import defaultdict
+from html import escape
 
 # ============================================================
 #  CONFIGURAZIONE
 # ============================================================
 
 ENDPOINT_BASE = "https://daddylive.li/player/"
-OUTPUT_DIR = "output"
+OUTPUT_DIR = "output/Daddy"  # <- Cartella dedicata
 
-# Mappatura sport e parole chiave
-SPORT_KEYWORDS = {
-    "Calcio": ["soccer", "football", "serie a", "premier league", "bundesliga", "la liga", 
-               "ligue 1", "eredivisie", "primeira liga", "champions league", "europa league",
-               "ligue", "league", "serie", "bundes", "calcio", "football"],
-    "Tennis": ["tennis", "atp", "wta", "us open", "wimbledon", "australian open", "roland garros"],
-    "Basket": ["basketball", "nba", "euroleague", "liga acb", "ncaa", "basket"],
-    "Hockey": ["hockey", "nhl", "liiga", "shl", "extraliga"],
-    "Motori": ["formula", "f1", "motogp", "superbike", "rally", "nascar", "automobilismo"],
-    "Ciclismo": ["cycling", "tour de france", "giro d'italia", "la vuelta", "ciclismo"],
-    "Rugby": ["rugby", "super league", "nrl", "6 nazioni"],
-    "Voleibol": ["volleyball", "voley", "volley"],
-    "Balonmano": ["handball", "balonmano"],
-    "Pugilato": ["boxing", "pugilato", "ufc", "mma"],
-    "Golf": ["golf", "pga", "the open"],
-    "Altri": ["sport", "event"]
+# Mappatura sport - Pattern PRECISI
+SPORT_PATTERNS = {
+    "Calcio": [
+        r"soccer", r"football", r"serie a", r"premier league", r"bundesliga", 
+        r"la liga", r"ligue 1", r"eredivisie", r"primeira liga", 
+        r"champions league", r"europa league", r"conference league",
+        r"calcio", r"coppa italia", r"fa cup", r"dfb pokal", 
+        r"copa del rey", r"super lig", r"eredivisie",
+        r"serie a", r"serie b", r"serie c",
+        r"premier league", r"championship", r"league one", r"league two",
+        r"bundesliga", r"2\. bundesliga", r"3\. liga",
+        r"la liga", r"segunda division",
+        r"ligue 1", r"ligue 2",
+        r"primeira liga", r"liga portugal",
+        r"eredivisie", r"keuken kampioen divisie",
+        r"pro league", r"jupiler pro league",
+        r"super lig", r"1\. lig",
+        r"allsvenskan", r"superettan",
+        r"superliga", r"1\. division",
+        r"veikkausliiga", r"ykkönen",
+        r"ekstraklasa", r"i liga",
+        r"nike liga", r"fortuna liga",
+        r"ligue", r"league", r"liga", r"serie", r"bundes", r"calcio",
+        r"coppa", r"cup", r"pokal", r"trophy"
+    ],
+    "Tennis": [
+        r"tennis", r"atp", r"wta", r"us open", r"wimbledon", 
+        r"australian open", r"roland garros", r"french open",
+        r"challenger", r"masters 1000", r"grand slam",
+        r"davis cup", r"billie jean king cup",
+        r"tennis", r"abierto de", r"open de"
+    ],
+    "Basket": [
+        r"basketball", r"nba", r"euroleague", r"liga acb", 
+        r"ncaa", r"basket", r"baloncesto",
+        r"eurocup", r"basketball champions league",
+        r"liga endesa", r"serie a basket", r"bbl",
+        r"lnb", r"basketball bundesliga"
+    ],
+    "Hockey": [
+        r"hockey", r"nhl", r"liiga", r"shl", r"extraliga",
+        r"ahl", r"khl", r"del", r"national league",
+        r"champions hockey league", r"ohl", r"whl", r"qmjhl"
+    ],
+    "Motori": [
+        r"formula", r"f1", r"f2", r"f3", r"motogp", 
+        r"superbike", r"rally", r"nascar", r"indycar",
+        r"wec", r"imsa", r"btcc", r"dtm",
+        r"automobilismo", r"motorsport", r"racing"
+    ],
+    "Baseball": [
+        r"baseball", r"mlb", r"kbo", r"npb", r"world series",
+        r"little league", r"college baseball"
+    ],
+    "Rugby": [
+        r"rugby", r"super league", r"nrl", r"6 nazioni",
+        r"six nations", r"champions cup", r"challenge cup",
+        r"top 14", r"united rugby championship"
+    ],
+    "Voleibol": [
+        r"volleyball", r"voley", r"volley", r"liga de voleibol",
+        r"fivb", r"world league", r"national league"
+    ],
+    "Balonmano": [
+        r"handball", r"balonmano", r"hbl", r"liga asobal",
+        r"ehf", r"champions league handball"
+    ],
+    "Pugilato": [
+        r"boxing", r"pugilato", r"ufc", r"mma", r"bellator",
+        r"heavyweight", r"fight", r"combat"
+    ],
+    "Golf": [
+        r"golf", r"pga", r"the open", r"masters", r"ryder cup",
+        r"lpga", r"european tour", r"dp world tour"
+    ],
+    "Ciclismo": [
+        r"cycling", r"tour de france", r"giro d'italia", 
+        r"la vuelta", r"ciclismo", r"world championships",
+        r"classics", r"monument"
+    ]
 }
+
+EXCLUDE_PATTERNS = [
+    r"advertisement", r"sponsor", r"promo", r"bonus",
+    r"casino", r"betting", r"slot", r"live chat",
+    r"no event", r"coming soon", r"off air"
+]
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0.0.0',
@@ -48,7 +119,6 @@ HEADERS = {
 # ============================================================
 
 def fetch_json(url):
-    """Scarica un file JSON."""
     try:
         response = requests.get(url, headers=HEADERS, timeout=15)
         if response.status_code == 200:
@@ -61,20 +131,21 @@ def fetch_json(url):
         return None
 
 def detect_sport(category_name, event_name=""):
-    """Rileva lo sport in base alle parole chiave."""
     text = f"{category_name} {event_name}".lower()
     
-    for sport, keywords in SPORT_KEYWORDS.items():
-        for keyword in keywords:
-            if keyword.lower() in text:
+    for pattern in EXCLUDE_PATTERNS:
+        if re.search(pattern, text, re.IGNORECASE):
+            return "Escluso"
+    
+    for sport, patterns in SPORT_PATTERNS.items():
+        for pattern in patterns:
+            if re.search(pattern, text, re.IGNORECASE):
                 return sport
     
     return "Altri"
 
 def fetch_all_matches():
-    """Scarica tutti i file JSON e restituisce gli eventi."""
     all_events = []
-    
     print("📡 Scaricamento dati da DaddyLive...")
     
     for i in range(1, 10):
@@ -89,7 +160,6 @@ def fetch_all_matches():
         
         print("✅")
         
-        # Estrai eventi
         for data_corrente, contenuto in data.items():
             if isinstance(contenuto, list):
                 items = [("Eventi", contenuto)]
@@ -106,8 +176,8 @@ def fetch_all_matches():
                         continue
                     
                     categoria = block.get('Category', block.get('category', categoria_o_chiave))
-                    if not isinstance(categoria, str):
-                        categoria = "Generale"
+                    if not isinstance(categoria, str) or not categoria.strip():
+                        continue
                     
                     lista_eventi = block.get('events', [])
                     if not isinstance(lista_eventi, list):
@@ -121,7 +191,6 @@ def fetch_all_matches():
                         orario = evento.get('time', 'N/A')
                         canali = evento.get('channels', [])
                         
-                        # Estrai link
                         links = []
                         for channel in canali:
                             if not isinstance(channel, dict):
@@ -135,237 +204,353 @@ def fetch_all_matches():
                                 if k.startswith('embed_') and v:
                                     links.append(v)
                         
-                        if links:
-                            sport = detect_sport(categoria, titolo)
-                            all_events.append({
-                                'title': titolo,
-                                'time': orario,
-                                'date': data_corrente,
-                                'category': categoria,
-                                'sport': sport,
-                                'links': links,
-                                'source': filename
-                            })
+                        if not links:
+                            continue
+                        
+                        sport = detect_sport(categoria, titolo)
+                        if sport == "Escluso":
+                            continue
+                        
+                        all_events.append({
+                            'title': titolo,
+                            'time': orario,
+                            'date': data_corrente,
+                            'category': categoria,
+                            'sport': sport,
+                            'links': links,
+                            'source': filename
+                        })
     
     print(f"\n   ✅ Trovati {len(all_events)} eventi totali")
     return all_events
 
 def group_by_sport(events):
-    """Raggruppa gli eventi per sport."""
     grouped = defaultdict(list)
     for event in events:
         grouped[event['sport']].append(event)
     return grouped
 
-def generate_html_for_sport(sport, events, output_file):
-    """Genera un file HTML per uno sport specifico."""
+def generate_kira_html(sport, events, output_file):
+    """Genera HTML con lo stile KIRA GSI (identico a PyGenHtmlM3U.py)"""
     
-    # Ordina per data/ora
     events.sort(key=lambda x: f"{x['date']}_{x['time']}")
     
-    # Costruisci HTML
-    events_html = ""
+    # Costruisci le card
+    event_items = ""
     for event in events:
-        # Crea i bottoni per i canali
-        buttons_html = ""
-        for link in event['links'][:5]:  # Max 5 canali
-            channel_name = link.split('id=')[-1] if 'id=' in link else 'Canale'
-            buttons_html += f'<a href="{link}" target="_blank" class="channel-btn">▶ {channel_name}</a>'
+        valid_links = [l for l in event['links'] if l != '#']
         
-        events_html += f'''
-        <div class="evento-card">
-            <div class="evento-meta">📅 {event['date']} | 🕒 {event['time']}</div>
-            <div class="evento-titolo">{event['title']}</div>
-            <div class="categoria-tag">🏷️ {event['category']}</div>
-            <div class="canali-container">
-                {buttons_html}
+        # Badge stato (sempre "prossimo" come stile KIRA)
+        status_badge = '<span class="status-next">⏳ PROSSIMO</span>'
+        
+        # Links HTML (dropdown se multipli, altrimenti bottone singolo)
+        if len(valid_links) > 1:
+            options = "\n".join([f'<option value="{l}">{l.split("/")[-1][:30]}</option>' for l in valid_links[:10]])
+            links_html = f'''
+            <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il canale...</option>
+                    {options}
+                </select>
+            </div>
+            '''
+        elif len(valid_links) == 1:
+            link = valid_links[0]
+            channel_name = link.split('id=')[-1][:30] if 'id=' in link else '▶ GUARDA IN DIRETTA'
+            links_html = f'<a href="{link}" target="_blank" class="server-link">{channel_name}</a>'
+        else:
+            links_html = '<span class="no-link">🔗 Link non disponibile</span>'
+        
+        fonte_badge = f'<span class="fonte-badge">📡 {event.get("source", "DaddyLive")}</span>'
+        
+        event_items += f'''
+        <div class="event-card">
+            <div class="event-info">
+                <h3>{escape(event['title'])} {status_badge}</h3>
+                <p class="competition">🏆 {escape(event['category'])}</p>
+                <p class="datetime">🕒 {escape(event['time'])} • 📅 {escape(event['date'])}</p>
+                {fonte_badge}
+            </div>
+            <div class="event-links">
+                {links_html}
             </div>
         </div>
         '''
     
-    # Se non ci sono eventi, genera un messaggio
-    if not events_html:
-        events_html = '<p style="text-align:center;color:#666;">Nessun evento trovato per questo sport.</p>'
+    # Se non ci sono eventi
+    if not event_items:
+        event_items = '<p style="text-align:center;color:#666;padding:40px;">Nessun evento disponibile</p>'
     
-    # Template HTML
-    html = f'''<!DOCTYPE html>
+    # STILE IDENTICO A PyGenHtmlM3U.py
+    html_content = f'''<!DOCTYPE html>
 <html lang="it">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KIRA - {sport}</title>
+    <title>KIRA GSI - {sport}</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Audiowide&family=Grotesk:wght@400;700&display=swap" rel="stylesheet">
     <style>
+        * {{ margin: 0; padding: 0; box-sizing: border-box; }}
         body {{
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: #0a0e17;
-            color: #e0e0e0;
-            margin: 0;
-            padding: 20px;
+            font-family: 'Grotesk', sans-serif;
+            background: #0a0a0a;
+            color: #00ffcc;
+            min-height: 100vh;
+            overflow-x: hidden;
+            position: relative;
         }}
-        .container {{ max-width: 900px; margin: 0 auto; }}
+        .matrix-bg {{
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; background: #0a0a0a; overflow: hidden;
+        }}
+        .matrix-bg::before {{
+            content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0, 255, 204, 0.03) 2px, rgba(0, 255, 204, 0.03) 4px);
+            animation: matrixScroll 15s linear infinite;
+        }}
+        @keyframes matrixScroll {{ 0% {{ transform: translateY(0); }} 100% {{ transform: translateY(100%); }} }}
+        .container {{ max-width: 1200px; margin: 0 auto; padding: 20px; position: relative; z-index: 1; }}
         
         .header {{
             text-align: center;
-            padding: 30px 0;
-            border-bottom: 2px solid #00ffcc;
-            margin-bottom: 30px;
+            padding: 30px 0 40px;
+            border-bottom: 2px solid rgba(0, 255, 204, 0.3);
+            margin-bottom: 40px;
         }}
         .header h1 {{
-            font-size: 2.5rem;
-            background: linear-gradient(135deg, #00ffcc, #00aaff);
+            font-family: 'Orbitron', sans-serif;
+            font-weight: 900;
+            font-size: 3.5rem;
+            text-shadow: 0 0 20px rgba(0, 255, 204, 0.5);
+            background: linear-gradient(135deg, #00ffcc, #00ccff);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
+            letter-spacing: 4px;
         }}
         .header .subtitle {{
-            color: #8899bb;
-            font-size: 1rem;
-        }}
-        .header .stats {{
-            color: #556688;
-            font-size: 0.85rem;
+            font-family: 'Audiowide', cursive;
+            color: #88ffdd;
+            font-size: 1.2rem;
             margin-top: 10px;
         }}
         
-        .evento-card {{
+        .event-counter {{
+            text-align: center;
+            font-family: 'Orbitron', monospace;
+            font-size: 1.2rem;
+            color: #00ffcc;
+            background: rgba(0, 255, 204, 0.08);
+            border: 1px solid rgba(0, 255, 204, 0.2);
+            padding: 12px 20px;
+            border-radius: 30px;
+            display: inline-block;
+            margin: 0 auto 30px;
+        }}
+        .event-counter span {{ font-weight: 900; font-size: 1.5rem; }}
+        
+        .events-grid {{
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 20px;
+        }}
+        
+        .event-card {{
             background: rgba(0, 30, 30, 0.7);
             backdrop-filter: blur(10px);
-            border: 1px solid rgba(0, 255, 204, 0.15);
-            border-radius: 12px;
+            border: 1px solid rgba(0, 255, 204, 0.2);
+            border-radius: 15px;
             padding: 20px;
-            margin-bottom: 15px;
             transition: all 0.3s ease;
-        }}
-        .evento-card:hover {{
-            transform: translateY(-3px);
-            border-color: rgba(0, 255, 204, 0.4);
-            box-shadow: 0 0 30px rgba(0, 255, 204, 0.05);
-        }}
-        .evento-meta {{
-            font-size: 0.75rem;
-            color: #88ddff;
-            opacity: 0.7;
-            margin-bottom: 5px;
-            font-family: 'Courier New', monospace;
-        }}
-        .evento-titolo {{
-            font-size: 1.1rem;
-            font-weight: 600;
-            color: #00ffcc;
-            margin-bottom: 5px;
-        }}
-        .categoria-tag {{
-            display: inline-block;
-            font-size: 0.7rem;
-            background: rgba(0, 255, 204, 0.1);
-            color: #88ddff;
-            padding: 2px 12px;
-            border-radius: 12px;
-            margin-bottom: 12px;
-            border: 1px solid rgba(0, 255, 204, 0.15);
-        }}
-        .canali-container {{
             display: flex;
+            flex-direction: column;
+        }}
+        .event-card:hover {{
+            transform: translateY(-5px);
+            border-color: rgba(0, 255, 204, 0.6);
+            box-shadow: 0 0 40px rgba(0, 255, 204, 0.15);
+        }}
+        .event-info h3 {{
+            font-family: 'Orbitron', sans-serif;
+            font-weight: 700;
+            font-size: 1.1rem;
+            color: #00ffcc;
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
             flex-wrap: wrap;
             gap: 8px;
         }}
-        .channel-btn {{
-            background: #00ffcc;
-            color: #0a0a0a;
-            text-decoration: none;
-            padding: 8px 16px;
-            border-radius: 8px;
+        .event-info .competition {{
+            font-family: 'Audiowide', cursive;
+            color: #88ddff;
             font-size: 0.8rem;
-            font-weight: 600;
-            transition: all 0.3s ease;
+            background: rgba(0, 255, 204, 0.1);
+            padding: 3px 12px;
+            border-radius: 20px;
             display: inline-block;
+            margin-bottom: 8px;
         }}
-        .channel-btn:hover {{
+        .event-info .datetime {{
+            color: #88ddff;
+            font-size: 0.85rem;
+            opacity: 0.8;
+        }}
+        .fonte-badge {{
+            display: inline-block;
+            font-size: 0.7rem;
+            background: rgba(0, 255, 204, 0.15);
+            color: #88ffdd;
+            padding: 2px 12px;
+            border-radius: 12px;
+            margin-top: 5px;
+            border: 1px solid rgba(0, 255, 204, 0.2);
+        }}
+        .status-next {{
+            display: inline-block;
+            font-size: 0.65rem;
+            background: rgba(0, 100, 255, 0.3);
+            color: #4488ff;
+            padding: 2px 10px;
+            border-radius: 12px;
+        }}
+        .event-links {{
+            margin-top: 12px;
+            padding-top: 12px;
+            border-top: 1px solid rgba(0, 255, 204, 0.15);
+        }}
+        .server-link {{
+            display: inline-block;
+            font-family: 'Orbitron', monospace;
+            font-weight: 700;
+            color: #0a0a0a;
+            background: #00ffcc;
+            padding: 10px 20px;
+            border-radius: 8px;
+            text-decoration: none;
+            text-align: center;
+            width: 100%;
+            transition: all 0.3s ease;
+            font-size: 0.8rem;
+        }}
+        .server-link:hover {{
             background: #00ddbb;
-            box-shadow: 0 0 20px rgba(0, 255, 204, 0.3);
-            transform: scale(1.02);
+            box-shadow: 0 0 40px rgba(0, 255, 204, 0.5);
+        }}
+        .dropdown select {{
+            width: 100%;
+            padding: 10px 15px;
+            background: rgba(0, 20, 20, 0.9);
+            color: #00ffcc;
+            border: 1px solid rgba(0, 255, 204, 0.4);
+            border-radius: 10px;
+            font-family: 'Orbitron', monospace;
+            font-size: 0.75rem;
+            cursor: pointer;
+            outline: none;
+        }}
+        .dropdown select option {{
+            background: #0a1a1a;
+            color: #88ffdd;
+            padding: 8px;
+        }}
+        .no-link {{
+            display: inline-block;
+            font-family: 'Orbitron', monospace;
+            color: #666;
+            text-align: center;
+            width: 100%;
+            padding: 10px;
         }}
         
         .footer {{
             text-align: center;
-            padding: 30px 0;
-            margin-top: 30px;
-            border-top: 1px solid rgba(0, 255, 204, 0.1);
-            color: #556688;
-            font-size: 0.8rem;
+            padding: 40px 0 20px;
+            margin-top: 40px;
+            border-top: 1px solid rgba(0, 255, 204, 0.2);
+            color: #88ddff;
+            opacity: 0.7;
+        }}
+        .footer .neon-text {{
+            font-family: 'Orbitron', monospace;
+            color: #00ffcc;
+            font-size: 1rem;
         }}
         
         @media (max-width: 768px) {{
-            .header h1 {{ font-size: 1.8rem; }}
-            .evento-titolo {{ font-size: 0.95rem; }}
-            .channel-btn {{ font-size: 0.7rem; padding: 6px 12px; }}
+            .header h1 {{ font-size: 2rem; }}
+            .events-grid {{ grid-template-columns: 1fr; }}
+            .container {{ padding: 15px; }}
+            .event-card {{ padding: 18px; }}
         }}
     </style>
 </head>
 <body>
+    <div class="matrix-bg"></div>
     <div class="container">
         <header class="header">
-            <h1>⚡ {sport} ⚡</h1>
-            <p class="subtitle">Eventi in diretta da DaddyLive</p>
-            <p class="stats">📅 {datetime.now().strftime('%d/%m/%Y %H:%M')} • {len(events)} eventi</p>
+            <h1>⚡ KIRA GSI - {sport} ⚡</h1>
+            <p class="subtitle">• Eventi in diretta •</p>
         </header>
         
-        {events_html}
+        <div style="text-align: center;">
+            <div class="event-counter">
+                🎯 <span>{len(events)}</span> eventi disponibili
+            </div>
+        </div>
+        
+        <div class="events-grid">
+            {event_items}
+        </div>
         
         <footer class="footer">
-            <p>KIRA • DaddyLive • {datetime.now().year}</p>
+            <p class="neon-text">🔮 KIRA GSI • {datetime.now().year} • Powered by KIRA</p>
         </footer>
     </div>
 </body>
 </html>'''
     
     with open(output_file, "w", encoding="utf-8") as f:
-        f.write(html)
+        f.write(html_content)
     
     return len(events)
 
 def main():
     print("="*60)
-    print("📡 DADDYLIVE AUTO - Generazione automatica per sport")
+    print("📡 KIRA GSI - DaddyLive Auto")
     print("="*60)
     
-    # 1. Scarica tutti i dati
-    events = fetch_all_matches()
+    # Crea cartella output/Daddy
+    if not os.path.exists(OUTPUT_DIR):
+        os.makedirs(OUTPUT_DIR)
     
+    events = fetch_all_matches()
     if not events:
         print("❌ Nessun evento trovato!")
         return
     
-    # 2. Raggruppa per sport
     grouped = group_by_sport(events)
     
     print("\n📊 Statistiche per sport:")
     for sport, evs in sorted(grouped.items(), key=lambda x: len(x[1]), reverse=True):
         print(f"   🏆 {sport}: {len(evs)} eventi")
     
-    # 3. Genera HTML per ogni sport
     print("\n📄 Generazione HTML...")
-    
-    # Crea la cartella output se non esiste
-    if not os.path.exists(OUTPUT_DIR):
-        os.makedirs(OUTPUT_DIR)
     
     total_events = 0
     for sport, evs in grouped.items():
-        # Sanitizza il nome per il file
-        filename = f"Daddy_{sport}.html".replace(" ", "_")
+        filename = f"KIRA_GSI_{sport}.html".replace(" ", "_")
         filepath = os.path.join(OUTPUT_DIR, filename)
         
-        count = generate_html_for_sport(sport, evs, filepath)
+        count = generate_kira_html(sport, evs, filepath)
         total_events += count
         print(f"   ✅ {filename} ({count} eventi)")
     
-    # 4. Genera anche un file "Tutti" con tutto insieme
+    # File "Tutti"
     all_events = []
     for evs in grouped.values():
         all_events.extend(evs)
     
-    generate_html_for_sport("Tutti", all_events, os.path.join(OUTPUT_DIR, "Daddy_Tutti.html"))
-    print(f"   ✅ Daddy_Tutti.html ({len(all_events)} eventi)")
+    generate_kira_html("Tutti", all_events, os.path.join(OUTPUT_DIR, "KIRA_GSI_Tutti.html"))
+    print(f"   ✅ KIRA_GSI_Tutti.html ({len(all_events)} eventi)")
     
     print("\n" + "="*60)
     print(f"✅ OPERAZIONE COMPLETATA! {total_events} eventi totali")

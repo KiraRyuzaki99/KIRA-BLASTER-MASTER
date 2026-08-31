@@ -1,180 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-08-31 16:07:46" total="1013">
+<eventos generado="2026-08-31 18:07:52" total="1018">
   <evento>
-    <nombre>Valentin Vacherot –  Aleksandar Kovacevic</nombre>
+    <nombre>Lecce –  Roma</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie A</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/396973137_lecce_roma/</url>
+  </evento>
+  <evento>
+    <nombre>Burgos –  Real Sociedad B</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Segunda División</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/396973051_burgos_real_sociedad_b/</url>
+  </evento>
+  <evento>
+    <nombre>Matteo Arnaldi –  James Duckworth</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Abierto de EU. Masculinos</competicion>
     <fecha>31 de agosto</fecha>
-    <hora>17:05</hora>
-    <url>https://livetv.sx/es/eventinfo/399041964_valentin_vacherot_aleksandar_kovacevic/</url>
+    <hora>19:15</hora>
+    <url>https://livetv.sx/es/eventinfo/399041935_matteo_arnaldi_james_duckworth/</url>
   </evento>
   <evento>
-    <nombre>Stefanos Tsitsipas –  Arthur Fils</nombre>
+    <nombre>Osasuna –  Getafe</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Primera División</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/396973003_osasuna_getafe/</url>
+  </evento>
+  <evento>
+    <nombre>Roman Safiullin –  Carlos Alcaraz</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Abierto de EU. Masculinos</competicion>
     <fecha>31 de agosto</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/399041943_stefanos_tsitsipas_arthur_fils/</url>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399041929_roman_safiullin_carlos_alcaraz/</url>
   </evento>
   <evento>
-    <nombre>Otto Virtanen –  Andréi Rubliov</nombre>
+    <nombre>Jurij Rodionov –  Giovanni Mpetshi Perricard</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Abierto de EU. Masculinos</competicion>
     <fecha>31 de agosto</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/399651148_otto_virtanen_andr__i_rubliov/</url>
-  </evento>
-  <evento>
-    <nombre>British Superbikes</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Reino Unido. BSB</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399618656_british_superbikes/</url>
-  </evento>
-  <evento>
-    <nombre>Araz-Najicheván –  Sabah</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Azerbaiyán. Premier League</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/396447041_araz_najichev__n_sabah/</url>
-  </evento>
-  <evento>
-    <nombre>Asyut Petroleum –  National Bank</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Egipto. Premier League</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/396945994_asyut_petroleum_national_bank/</url>
-  </evento>
-  <evento>
-    <nombre>Elimai –  Kairat</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Kazajistán. Liga Premier</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/396820007_elimai_kairat/</url>
-  </evento>
-  <evento>
-    <nombre>Sri Lanka –  Kazajstán</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa Asiática</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/398399251_sri_lanka_kazajstandaacute_n/</url>
-  </evento>
-  <evento>
-    <nombre>Italia (M) –   Bulgaria (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Campeonato de Europa</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399040360__italia_m__bulgaria_m/</url>
-  </evento>
-  <evento>
-    <nombre>Torreense Sub-23 –   Braga Sub-23</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Portugal. Liga U23</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399621746__torreense_sub_23__braga_sub_23/</url>
-  </evento>
-  <evento>
-    <nombre>Jordania U20 –  Afganistán U20</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Clasificatoria</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399614063_jordania_u20_afganistand225_n_u20/</url>
-  </evento>
-  <evento>
-    <nombre>Uzbekistán U20 –  Bangladesh U20</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Clasificatoria</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399614064_uzbekistand225_n_u20_bangladesh_u20/</url>
-  </evento>
-  <evento>
-    <nombre>Kosovo –  Chile</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa del Mundo de Socca</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399142244_kosovo_chile/</url>
-  </evento>
-  <evento>
-    <nombre>Liepaja –  Riga</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Letonia. Virsliga</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/396820209_liepaja_riga/</url>
-  </evento>
-  <evento>
-    <nombre>Bacau –  Slatina</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rumania. Liga 2</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/399703620_bacau_slatina/</url>
-  </evento>
-  <evento>
-    <nombre>Bangladesh (M) –  Indonesia (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Copa Asiática T20</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/399615313_bangladesh_m_indonesia_m/</url>
-  </evento>
-  <evento>
-    <nombre>Bukovyna –  Dinamo de Kiev</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Ucrania. Liga Premier</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/396954057_bukovyna_dinamo_de_kiev/</url>
-  </evento>
-  <evento>
-    <nombre>Gagra –  Iberia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Georgia. Erovnuli Liga</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/396819592_gagra_iberia/</url>
-  </evento>
-  <evento>
-    <nombre>Torpedo Kt –  FC Meshakhte Tkibuli</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Georgia. Erovnuli Liga</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/396972433_torpedo_kt_fc_meshakhte_tkibuli/</url>
-  </evento>
-  <evento>
-    <nombre>Craiova –  Buzau</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rumania. Liga 1</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399612429_craiova_buzau/</url>
-  </evento>
-  <evento>
-    <nombre>Graficar –  Dubocica</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Serbia. Prva Liga</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399675177_graficar_dubocica/</url>
-  </evento>
-  <evento>
-    <nombre>Maribor Sub-19 –   Bravo Sub-19</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Eslovenia. Junior League</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399707120__maribor_sub_19__bravo_sub_19/</url>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399241246_jurij_rodionov_giovanni_mpetshi_perricard/</url>
   </evento>
   <evento>
     <nombre>US Open</nombre>
@@ -185,91 +57,11 @@
     <url>https://livetv.sx/es/eventinfo/399535705_us_open/</url>
   </evento>
   <evento>
-    <nombre>Siria –  Irlanda</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa del Mundo de Socca</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399142245_siria_irlanda/</url>
-  </evento>
-  <evento>
-    <nombre>Mananchaya Sawangkaew (M) –   Panna Udvardy (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/399041880__mananchaya_sawangkaew_m__panna_udvardy_m/</url>
-  </evento>
-  <evento>
-    <nombre>Elsa Jacquemot (M) –   Marie Bouzkova (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/399041894__elsa_jacquemot_m__marie_bouzkova_m/</url>
-  </evento>
-  <evento>
-    <nombre>Sara Bejlek (M) –   Cristina Bucsa (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/399041904__sara_bejlek_m__cristina_bucsa_m/</url>
-  </evento>
-  <evento>
-    <nombre>Lilli Tagger (M) –   Tamara Korpatsch (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/399041911__lilli_tagger_m__tamara_korpatsch_m/</url>
-  </evento>
-  <evento>
-    <nombre>Sinja Kraus (M) –   Karolina Muchova (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/399041916__sinja_kraus_m__karolina_muchova_m/</url>
-  </evento>
-  <evento>
-    <nombre>Qinwen Zheng (M) –   Kristina Liutova (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/399296641__qinwen_zheng_m__kristina_liutova_m/</url>
-  </evento>
-  <evento>
-    <nombre>Harriet Dart (M) –   Peyton Stearns (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/399296645__harriet_dart_m__peyton_stearns_m/</url>
-  </evento>
-  <evento>
-    <nombre>Anhelina Kalinina (M) –   Himeno Sakatsume (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/399296647__anhelina_kalinina_m__himeno_sakatsume_m/</url>
-  </evento>
-  <evento>
-    <nombre>Lituania –  Bosnia y Herzegovina</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Europa</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>31:32</hora>
-    <url>https://livetv.sx/es/eventinfo/396925074_lituania_bosnia_y_herzegovina/</url>
-  </evento>
-  <evento>
     <nombre>Aryna Sabalenka (M) –   Camila Osorio (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Abierto de EU. Mujeres</competicion>
     <fecha>31 de agosto</fecha>
-    <hora>17:30</hora>
+    <hora>17:40</hora>
     <url>https://livetv.sx/es/eventinfo/399041909__aryna_sabalenka_m__camila_osorio_m/</url>
   </evento>
   <evento>
@@ -409,14 +201,6 @@
     <url>https://livetv.sx/es/eventinfo/399715272__honefoss_m__aalesund_m/</url>
   </evento>
   <evento>
-    <nombre>Nyiregyhaza –  TFSE</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Hungría. NB I</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/398768247_nyiregyhaza_tfse/</url>
-  </evento>
-  <evento>
     <nombre>Burundi (M) –  Malí (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Mujeres. Campeonato Africano</competicion>
@@ -429,7 +213,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Europa</competicion>
     <fecha>31 de agosto</fecha>
-    <hora>18:00</hora>
+    <hora>86:86</hora>
     <url>https://livetv.sx/es/eventinfo/396925072_grecia_espa__a/</url>
   </evento>
   <evento>
@@ -463,6 +247,334 @@
     <fecha>31 de agosto</fecha>
     <hora>18:15</hora>
     <url>https://livetv.sx/es/eventinfo/399635199_colwyn_bay_llandudno/</url>
+  </evento>
+  <evento>
+    <nombre>Sumqayit –  Qarabag</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Azerbaiyán. Premier League</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>18:15</hora>
+    <url>https://livetv.sx/es/eventinfo/396447045_sumqayit_qarabag/</url>
+  </evento>
+  <evento>
+    <nombre>Levadiakos –  Panathinaikos</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Grecia. Super League</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/396448361_levadiakos_panathinaikos/</url>
+  </evento>
+  <evento>
+    <nombre>Spartak Kostroma –  Rotor</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. FNL</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399672524_spartak_kostroma_rotor/</url>
+  </evento>
+  <evento>
+    <nombre>Hajduk –  Lokomotiva</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Croacia. HNL</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/396451692_hajduk_lokomotiva/</url>
+  </evento>
+  <evento>
+    <nombre>Partizan –  OFK Belgrado</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Serbia. Superliga</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/396450991_partizan_ofk_belgrado/</url>
+  </evento>
+  <evento>
+    <nombre>Copenhague –  Soenderjyske</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Dinamarca. Superliga</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/396972493_copenhague_soenderjyske/</url>
+  </evento>
+  <evento>
+    <nombre>Sirius –  Malmoe</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. Allsvenskan</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/396976146_sirius_malmoe/</url>
+  </evento>
+  <evento>
+    <nombre>GAIS –  Brommapojkarna</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. Allsvenskan</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/396976148_gais_brommapojkarna/</url>
+  </evento>
+  <evento>
+    <nombre>Djurgarden –  Mjaellby</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. Allsvenskan</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/396976150_djurgarden_mjaellby/</url>
+  </evento>
+  <evento>
+    <nombre>Sundsvall –  Norrby</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. Superettan</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/396976182_sundsvall_norrby/</url>
+  </evento>
+  <evento>
+    <nombre>Zamalek –  Petrojet</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Egipto. Premier League</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/396972537_zamalek_petrojet/</url>
+  </evento>
+  <evento>
+    <nombre>Al Masry –  Pyramids</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Egipto. Premier League</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/396972539_al_masry_pyramids/</url>
+  </evento>
+  <evento>
+    <nombre>Omonia –  Omonia Aradippou</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Chipre. 1 División</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/396449281_omonia_omonia_aradippou/</url>
+  </evento>
+  <evento>
+    <nombre>Ultimate Pool</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Pool</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399618820_ultimate_pool/</url>
+  </evento>
+  <evento>
+    <nombre>Dinamo Tiflis –  Dila</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Georgia. Erovnuli Liga</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/396952438_dinamo_tiflis_dila/</url>
+  </evento>
+  <evento>
+    <nombre>República Checa (M) –   Suecia (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Mujeres. Campeonato de Europa</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399040359__rep__blica_checa_m__suecia_m/</url>
+  </evento>
+  <evento>
+    <nombre>Hammarby Talang –  Karlberg</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. División 1. Norte</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399715343_hammarby_talang_karlberg/</url>
+  </evento>
+  <evento>
+    <nombre>Aoi Ito (M) –   Oksana Selekhmeteva (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Abierto de EU. Mujeres</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399041907__aoi_ito_m__oksana_selekhmeteva_m/</url>
+  </evento>
+  <evento>
+    <nombre>Lovcen –  Alkaloid</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Europa. LRMB</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398607790_lovcen_alkaloid/</url>
+  </evento>
+  <evento>
+    <nombre>Costa Rica –  India</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa del Mundo de Socca</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399142246_costa_rica_india/</url>
+  </evento>
+  <evento>
+    <nombre>Tamara Zidansek (M) –   Maria Timofeeva (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Abierto de EU. Mujeres</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:10</hora>
+    <url>https://livetv.sx/es/eventinfo/399296639__tamara_zidansek_m__maria_timofeeva_m/</url>
+  </evento>
+  <evento>
+    <nombre>Rapid Bucarest –  U Craiova</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rumania. Liga 1</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/396450855_rapid_bucarest_u_craiova/</url>
+  </evento>
+  <evento>
+    <nombre>Maccabi Tel Aviv –  Maccabi Haifa</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Israel. Liga Premier</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/396604865_maccabi_tel_aviv_maccabi_haifa/</url>
+  </evento>
+  <evento>
+    <nombre>KI Klaksvik –  EB/Streymur</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Islas Feroe. Liga Premier</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/396975784_ki_klaksvik_ebstreymur/</url>
+  </evento>
+  <evento>
+    <nombre>Leipzig –  GWD Minden</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 2 Bundesliga</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>11:12</hora>
+    <url>https://livetv.sx/es/eventinfo/399510451_leipzig_gwd_minden/</url>
+  </evento>
+  <evento>
+    <nombre>Italia –  Serbia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Europa</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>24:25</hora>
+    <url>https://livetv.sx/es/eventinfo/396925076_italia_serbia/</url>
+  </evento>
+  <evento>
+    <nombre>Anna Blinkova (M) –   Anna Kalinskaya (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Abierto de EU. Mujeres</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399041919__anna_blinkova_m__anna_kalinskaya_m/</url>
+  </evento>
+  <evento>
+    <nombre>Tayikistán U20 –  Bahréin U20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificatoria</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399614067_tayikistand225_n_u20_bahrand233_in_u20/</url>
+  </evento>
+  <evento>
+    <nombre>Jong PSV –  Jong Ajax</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. Eerste Divisie</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/396974549_jong_psv_jong_ajax/</url>
+  </evento>
+  <evento>
+    <nombre>Jong AZ –  Jong Utrecht</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. Eerste Divisie</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/396974551_jong_az_jong_utrecht/</url>
+  </evento>
+  <evento>
+    <nombre>British Open</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Snooker</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399715351_british_open/</url>
+  </evento>
+  <evento>
+    <nombre>Campeonato Mundial</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Campeonato mundial</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399644389_campeonato_mundial/</url>
+  </evento>
+  <evento>
+    <nombre>Portugal –  Georgia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Europa</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/396925068_portugal_georgia/</url>
+  </evento>
+  <evento>
+    <nombre>Brasil –  Cuba</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso. Selecciones</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399719421_brasil_cuba/</url>
+  </evento>
+  <evento>
+    <nombre>Marruecos –  Polonia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa del Mundo de Socca</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399142247_marruecos_polonia/</url>
+  </evento>
+  <evento>
+    <nombre>Maja Chwalinska (M) –   Taylor Townsend (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Abierto de EU. Mujeres</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>20:10</hora>
+    <url>https://livetv.sx/es/eventinfo/399041903__maja_chwalinska_m__taylor_townsend_m/</url>
+  </evento>
+  <evento>
+    <nombre>Arda –  Botev Vratsa</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bulgaria. Parva Liga</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>20:15</hora>
+    <url>https://livetv.sx/es/eventinfo/396971889_arda_botev_vratsa/</url>
+  </evento>
+  <evento>
+    <nombre>Wil –  Aarau</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suiza. Challenge League</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>20:15</hora>
+    <url>https://livetv.sx/es/eventinfo/396976118_wil_aarau/</url>
+  </evento>
+  <evento>
+    <nombre>Amed –  Trabzonspor</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Turquía. Superliga</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/396975694_amed_trabzonspor/</url>
+  </evento>
+  <evento>
+    <nombre>Besiktas –  Corum</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Turquía. Superliga</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/396975696_besiktas_corum/</url>
+  </evento>
+  <evento>
+    <nombre>Racing de Montevideo –  Albion</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Uruguay. Primera División</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397099102_racing_de_montevideo_albion/</url>
   </evento>
   <evento>
     <nombre>Lecce – Roma</nombre>
@@ -543,126 +655,6 @@
     <fecha>1 de septiembre</fecha>
     <hora>01:00</hora>
     <url>https://livetv.sx/es/eventinfo/396819354__/</url>
-  </evento>
-  <evento>
-    <nombre>Elimai – Kairat</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Kazajistán. Liga Premier</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/396820007__/</url>
-  </evento>
-  <evento>
-    <nombre>Araz-Najicheván – Sabah</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Azerbaiyán. Premier League</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/396447041__/</url>
-  </evento>
-  <evento>
-    <nombre>Asyut Petroleum – National Bank</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Egipto. Premier League</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/396945994__/</url>
-  </evento>
-  <evento>
-    <nombre>Jordania U20 – Afganistán U20</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa Asiática Sub-20. Clasificatoria</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399614063_jordan_u20_afghanistan_u20/</url>
-  </evento>
-  <evento>
-    <nombre>Uzbekistán U20 – Bangladesh U20</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa Asiática Sub-20. Clasificatoria</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399614064_uzbekistan_u20_bangladesh_u20/</url>
-  </evento>
-  <evento>
-    <nombre>Torreense Sub-23 –  Braga Sub-23</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Portugal. Liga U23</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399621746__/</url>
-  </evento>
-  <evento>
-    <nombre>Bacau – Slatina</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rumania. Liga 2</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/399703620__/</url>
-  </evento>
-  <evento>
-    <nombre>Liepaja – Riga</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Letonia. Virsliga</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/396820209__/</url>
-  </evento>
-  <evento>
-    <nombre>Graficar – Dubocica</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Serbia. Prva Liga</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399675177__/</url>
-  </evento>
-  <evento>
-    <nombre>Siria – Irlanda</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa del Mundo de Socca</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399142245_syria_ireland/</url>
-  </evento>
-  <evento>
-    <nombre>Gagra – Iberia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Georgia. Erovnuli Liga</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/396819592__/</url>
-  </evento>
-  <evento>
-    <nombre>Torpedo Kt – FC Meshakhte Tkibuli</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Georgia. Erovnuli Liga</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/396972433__/</url>
-  </evento>
-  <evento>
-    <nombre>Bukovyna – Dinamo de Kiev</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Ucrania. Liga Premier</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/396954057__/</url>
-  </evento>
-  <evento>
-    <nombre>Maribor Sub-19 –  Bravo Sub-19</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Eslovenia. Junior League</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399707120__/</url>
-  </evento>
-  <evento>
-    <nombre>Dziugas – Hegelmann</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Lituania. A Lyga</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:45</hora>
-    <url>https://livetv.sx/es/eventinfo/396973863__/</url>
   </evento>
   <evento>
     <nombre>Maccabi Bnei Raina – Asdod</nombre>
@@ -879,14 +871,6 @@
     <fecha>31 de agosto</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/396976182__/</url>
-  </evento>
-  <evento>
-    <nombre>Costa Rica – India</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa del Mundo de Socca</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399142246_costa_rica_india/</url>
   </evento>
   <evento>
     <nombre>Dinamo Tiflis – Dila</nombre>
@@ -1233,14 +1217,6 @@
     <url>https://livetv.sx/es/eventinfo/399665749__/</url>
   </evento>
   <evento>
-    <nombre>Comercial-SP – EC Sao Bernardo</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Copa Paulista</competicion>
-    <fecha>1 de septiembre</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399613039_comercial_sp_ec_sao_bernardo/</url>
-  </evento>
-  <evento>
     <nombre>Puerto Cabello – Anzoátegui</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Venezuela. Primera División</competicion>
@@ -1263,6 +1239,14 @@
     <fecha>1 de septiembre</fecha>
     <hora>02:00</hora>
     <url>https://livetv.sx/es/eventinfo/396604209__/</url>
+  </evento>
+  <evento>
+    <nombre>Tomayapo – Independiente SE</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bolivia. Copa de la Liga</competicion>
+    <fecha>1 de septiembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399716285_tomayapo_independiente_se/</url>
   </evento>
   <evento>
     <nombre>Tigre – Barracas Central</nombre>
@@ -1873,6 +1857,14 @@
     <url>https://livetv.sx/es/eventinfo/397136424__/</url>
   </evento>
   <evento>
+    <nombre>Cruzeiro U17 – Flamengo U17</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Brasileiro Sub 17</competicion>
+    <fecha>1 de septiembre</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399718585_cruzeiro_u17_flamengo_u17/</url>
+  </evento>
+  <evento>
     <nombre>Motor – Legia de Varsovia</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Polonia. Copa</competicion>
@@ -2215,6 +2207,14 @@
     <fecha>2 de septiembre</fecha>
     <hora>00:30</hora>
     <url>https://livetv.sx/es/eventinfo/397154706__/</url>
+  </evento>
+  <evento>
+    <nombre>Universitario de VintoUniversitario de Vinto – Aurora</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bolivia. Copa de la Liga</competicion>
+    <fecha>2 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399716286_universitario_de_vinto_aurora/</url>
   </evento>
   <evento>
     <nombre>Defence Force – Sando Moruga</nombre>
@@ -3361,6 +3361,14 @@
     <url>https://livetv.sx/es/eventinfo/397292708__/</url>
   </evento>
   <evento>
+    <nombre>GV San Jose – Bolívar</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bolivia. Copa de la Liga</competicion>
+    <fecha>2 de septiembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399716287_gv_san_jose_bolivar/</url>
+  </evento>
+  <evento>
     <nombre>Nacional As – Libertad</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Paraguay. Primera División</competicion>
@@ -4465,12 +4473,100 @@
     <url>https://livetv.sx/es/eventinfo/397659521__/</url>
   </evento>
   <evento>
-    <nombre>Newfoundland Regiment – Saginaw Spirit</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Canadá. OHL</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/398943471__/</url>
+    <nombre>Lusail – Al-Wakrah</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Qatar. Stars League</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:15</hora>
+    <url>https://livetv.sx/es/eventinfo/397661211__/</url>
+  </evento>
+  <evento>
+    <nombre>Al Wasl – Khor Fakkan</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EÁU. Pro League</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:15</hora>
+    <url>https://livetv.sx/es/eventinfo/397662343__/</url>
+  </evento>
+  <evento>
+    <nombre>Tekstilshchik – Torpedo M</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. FNL</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399683080__/</url>
+  </evento>
+  <evento>
+    <nombre>Vasas – Nyíregyhaza Spartacus</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Hungría. NB I</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398030363__/</url>
+  </evento>
+  <evento>
+    <nombre>Hoffenheim (M) –  Leverkusen (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Mujeres. Bundesliga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397660004__/</url>
+  </evento>
+  <evento>
+    <nombre>Hannover 96 – Karlsruhe</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 2 Bundesliga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397659892__/</url>
+  </evento>
+  <evento>
+    <nombre>Arminia – St Pauli</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 2 Bundesliga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397659894__/</url>
+  </evento>
+  <evento>
+    <nombre>Ingolstadt – Alemannia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 3 Bundesliga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397659916__/</url>
+  </evento>
+  <evento>
+    <nombre>Basaksehir – Galatasaray</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Turquía. Superliga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398236189__/</url>
+  </evento>
+  <evento>
+    <nombre>HB Koege – Hillerod</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Dinamarca. 1 División</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397660196__/</url>
+  </evento>
+  <evento>
+    <nombre>Viborg – Lyngby</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Dinamarca. Superliga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397660244__/</url>
+  </evento>
+  <evento>
+    <nombre>Aalesund – Start</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Noruega. Eliteserien</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397662307__/</url>
   </evento>
   <evento>
     <nombre>Wenatchee Wild – Tri-City Americans</nombre>
@@ -4487,6 +4583,14 @@
     <fecha>31 de agosto</fecha>
     <hora>23:30</hora>
     <url>https://livetv.sx/es/eventinfo/396983058__/</url>
+  </evento>
+  <evento>
+    <nombre>Newfoundland Regiment – Saginaw Spirit</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Canadá. OHL</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>23:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398943471__/</url>
   </evento>
   <evento>
     <nombre>Sudbury Wolves – Barrie Colts</nombre>
@@ -5369,28 +5473,44 @@
     <url>https://livetv.sx/es/eventinfo/398032048__/</url>
   </evento>
   <evento>
+    <nombre>Graz – Burdeos</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Liga de Campeones</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398032050__/</url>
+  </evento>
+  <evento>
+    <nombre>Salzburgo – Bili Tygri Liberec</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Liga de Campeones</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>19:15</hora>
+    <url>https://livetv.sx/es/eventinfo/398032052__/</url>
+  </evento>
+  <evento>
+    <nombre>Klagenfurt – Fribourg</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Liga de Campeones</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>19:15</hora>
+    <url>https://livetv.sx/es/eventinfo/398032054__/</url>
+  </evento>
+  <evento>
+    <nombre>Owen Sound Attack – Barrie Colts</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Canadá. OHL</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398943482__/</url>
+  </evento>
+  <evento>
     <nombre>Fráncfort – Rostock</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Alemania. Bundesliga</competicion>
     <fecha>1 de septiembre</fecha>
     <hora>00:00</hora>
     <url>https://livetv.sx/es/eventinfo/396991995__/</url>
-  </evento>
-  <evento>
-    <nombre>Sri Lanka – Kazajstán</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Copa Asiática</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/398399251_sri_lanka_kazakhstan/</url>
-  </evento>
-  <evento>
-    <nombre>Lituania – Bosnia y Herzegovina</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Clasificación para la Copa Mundial. Europa</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:30</hora>
-    <url>https://livetv.sx/es/eventinfo/396925074__/</url>
   </evento>
   <evento>
     <nombre>Kuwait – Bahréin</nombre>
@@ -5569,44 +5689,28 @@
     <url>https://livetv.sx/es/eventinfo/399686506_all_russian_spartakiad/</url>
   </evento>
   <evento>
-    <nombre>Otto Virtanen – Andréi Rubliov</nombre>
+    <nombre>Matteo Arnaldi – James Duckworth</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de EU. Masculinos</competicion>
     <fecha>31 de agosto</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/399651148__/</url>
-  </evento>
-  <evento>
-    <nombre>Stefanos Tsitsipas – Arthur Fils</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Masculinos</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/399041943__/</url>
-  </evento>
-  <evento>
-    <nombre>Thiago Tirante – Adrian Mannarino</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Masculinos</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/399041939__/</url>
+    <hora>19:15</hora>
+    <url>https://livetv.sx/es/eventinfo/399041935__/</url>
   </evento>
   <evento>
     <nombre>Roman Safiullin – Carlos Alcaraz</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de EU. Masculinos</competicion>
     <fecha>31 de agosto</fecha>
-    <hora>19:00</hora>
+    <hora>19:30</hora>
     <url>https://livetv.sx/es/eventinfo/399041929__/</url>
   </evento>
   <evento>
-    <nombre>Matteo Arnaldi – James Duckworth</nombre>
+    <nombre>Damir Dzumhur – Hubert Hurkacz</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de EU. Masculinos</competicion>
     <fecha>31 de agosto</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399041935__/</url>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399041951__/</url>
   </evento>
   <evento>
     <nombre>Yannick Hanfmann – Alejandro Tabilo</nombre>
@@ -5615,6 +5719,22 @@
     <fecha>31 de agosto</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/399041952__/</url>
+  </evento>
+  <evento>
+    <nombre>Matteo Berrettini – Stanislas Wawrinka</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Abierto de EU. Masculinos</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399041957__/</url>
+  </evento>
+  <evento>
+    <nombre>Quentin Halys – Facundo Diaz Acosta</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Abierto de EU. Masculinos</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399041954__/</url>
   </evento>
   <evento>
     <nombre>Felix Auger-Aliassime – Rinky Hijikata</nombre>
@@ -5649,108 +5769,12 @@
     <url>https://livetv.sx/es/eventinfo/399041953__/</url>
   </evento>
   <evento>
-    <nombre>Valentin Vacherot – Aleksandar Kovacevic</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Masculinos</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:05</hora>
-    <url>https://livetv.sx/es/eventinfo/399041964__/</url>
-  </evento>
-  <evento>
-    <nombre>Mananchaya Sawangkaew (M) –  Panna Udvardy (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/399041880__/</url>
-  </evento>
-  <evento>
-    <nombre>Elsa Jacquemot (M) –  Marie Bouzkova (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/399041894__/</url>
-  </evento>
-  <evento>
-    <nombre>Sara Bejlek (M) –  Cristina Bucsa (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/399041904__/</url>
-  </evento>
-  <evento>
-    <nombre>Lilli Tagger (M) –  Tamara Korpatsch (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/399041911__/</url>
-  </evento>
-  <evento>
-    <nombre>Sinja Kraus (M) –  Karolina Muchova (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/399041916__/</url>
-  </evento>
-  <evento>
-    <nombre>Qinwen Zheng (M) –  Kristina Liutova (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/399296641__/</url>
-  </evento>
-  <evento>
-    <nombre>Harriet Dart (M) –  Peyton Stearns (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/399296645__/</url>
-  </evento>
-  <evento>
-    <nombre>Anhelina Kalinina (M) –  Himeno Sakatsume (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/399296647__/</url>
-  </evento>
-  <evento>
     <nombre>Aryna Sabalenka (M) –  Camila Osorio (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de EU. Mujeres</competicion>
     <fecha>31 de agosto</fecha>
-    <hora>17:30</hora>
+    <hora>17:40</hora>
     <url>https://livetv.sx/es/eventinfo/399041909__/</url>
-  </evento>
-  <evento>
-    <nombre>Alex Michelsen – Federico Cina</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Masculinos</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/399241217__/</url>
-  </evento>
-  <evento>
-    <nombre>Kimberly Birrell (M) –  Petra Marcinko (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/399041893__/</url>
-  </evento>
-  <evento>
-    <nombre>Aoi Ito (M) –  Oksana Selekhmeteva (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/399041907__/</url>
   </evento>
   <evento>
     <nombre>Emma Navarro (M) –  Lois Boisson (M)</nombre>
@@ -5761,60 +5785,12 @@
     <url>https://livetv.sx/es/eventinfo/399041918__/</url>
   </evento>
   <evento>
-    <nombre>Anna Blinkova (M) –  Anna Kalinskaya (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/399041919__/</url>
-  </evento>
-  <evento>
-    <nombre>Martin Landaluce – Jacob Fearnley</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Masculinos</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/399241212__/</url>
-  </evento>
-  <evento>
-    <nombre>Aleksandar Vukic – Rei Sakamoto</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Masculinos</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399241222__/</url>
-  </evento>
-  <evento>
-    <nombre>Jurij Rodionov – Giovanni Mpetshi Perricard</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Masculinos</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399241246__/</url>
-  </evento>
-  <evento>
-    <nombre>Nadia Podoroska (M) –  Simona Waltert (M)</nombre>
+    <nombre>Aoi Ito (M) –  Oksana Selekhmeteva (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de EU. Mujeres</competicion>
     <fecha>31 de agosto</fecha>
     <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399041896__/</url>
-  </evento>
-  <evento>
-    <nombre>Ashlyn Krueger (M) –  Amanda Anisimova (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399041910__/</url>
-  </evento>
-  <evento>
-    <nombre>Tamara Zidansek (M) –  Maria Timofeeva (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399296639__/</url>
+    <url>https://livetv.sx/es/eventinfo/399041907__/</url>
   </evento>
   <evento>
     <nombre>Sebastian Gorzny – Raphael Collignon</nombre>
@@ -5825,44 +5801,92 @@
     <url>https://livetv.sx/es/eventinfo/399041967__/</url>
   </evento>
   <evento>
-    <nombre>Daria Snigur (M) –  Diana Shnaider (M)</nombre>
+    <nombre>Tamara Zidansek (M) –  Maria Timofeeva (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Abierto de EU. Mujeres</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:10</hora>
+    <url>https://livetv.sx/es/eventinfo/399296639__/</url>
+  </evento>
+  <evento>
+    <nombre>Jurij Rodionov – Giovanni Mpetshi Perricard</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Abierto de EU. Masculinos</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399241246__/</url>
+  </evento>
+  <evento>
+    <nombre>Kimberly Birrell (M) –  Petra Marcinko (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de EU. Mujeres</competicion>
     <fecha>31 de agosto</fecha>
     <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/399041897__/</url>
+    <url>https://livetv.sx/es/eventinfo/399041893__/</url>
+  </evento>
+  <evento>
+    <nombre>Anna Blinkova (M) –  Anna Kalinskaya (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Abierto de EU. Mujeres</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399041919__/</url>
+  </evento>
+  <evento>
+    <nombre>Alex Michelsen – Federico Cina</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Abierto de EU. Masculinos</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399241217__/</url>
+  </evento>
+  <evento>
+    <nombre>Martin Landaluce – Jacob Fearnley</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Abierto de EU. Masculinos</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399241212__/</url>
   </evento>
   <evento>
     <nombre>Maja Chwalinska (M) –  Taylor Townsend (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de EU. Mujeres</competicion>
     <fecha>31 de agosto</fecha>
-    <hora>19:30</hora>
+    <hora>20:10</hora>
     <url>https://livetv.sx/es/eventinfo/399041903__/</url>
+  </evento>
+  <evento>
+    <nombre>Aleksandar Vukic – Rei Sakamoto</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Abierto de EU. Masculinos</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399241222__/</url>
   </evento>
   <evento>
     <nombre>Dalibor Svrcina – Valentin Royer</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de EU. Masculinos</competicion>
     <fecha>31 de agosto</fecha>
-    <hora>20:00</hora>
+    <hora>20:30</hora>
     <url>https://livetv.sx/es/eventinfo/399241260__/</url>
   </evento>
   <evento>
-    <nombre>Luciano Darderi – Harry Wendelken</nombre>
+    <nombre>Nadia Podoroska (M) –  Simona Waltert (M)</nombre>
     <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Masculinos</competicion>
+    <competicion>Abierto de EU. Mujeres</competicion>
     <fecha>31 de agosto</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399241263__/</url>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399041896__/</url>
   </evento>
   <evento>
-    <nombre>Brandon Nakashima – Sebastian Baez</nombre>
+    <nombre>Ashlyn Krueger (M) –  Amanda Anisimova (M)</nombre>
     <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Masculinos</competicion>
+    <competicion>Abierto de EU. Mujeres</competicion>
     <fecha>31 de agosto</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399041961__/</url>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399041910__/</url>
   </evento>
   <evento>
     <nombre>Anouk Koevermans (M) –  Caty McNally (M)</nombre>
@@ -5873,12 +5897,12 @@
     <url>https://livetv.sx/es/eventinfo/399296657__/</url>
   </evento>
   <evento>
-    <nombre>Damir Dzumhur – Hubert Hurkacz</nombre>
+    <nombre>Brandon Nakashima – Sebastian Baez</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de EU. Masculinos</competicion>
     <fecha>31 de agosto</fecha>
     <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/399041951__/</url>
+    <url>https://livetv.sx/es/eventinfo/399041961__/</url>
   </evento>
   <evento>
     <nombre>Juncheng Shang – Marco Trungelliti</nombre>
@@ -5897,6 +5921,14 @@
     <url>https://livetv.sx/es/eventinfo/399241239__/</url>
   </evento>
   <evento>
+    <nombre>Luciano Darderi – Harry Wendelken</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Abierto de EU. Masculinos</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399241263__/</url>
+  </evento>
+  <evento>
     <nombre>Julia Grabher (M) –  Sorana Cirstea (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de EU. Mujeres</competicion>
@@ -5913,12 +5945,12 @@
     <url>https://livetv.sx/es/eventinfo/399041875__/</url>
   </evento>
   <evento>
-    <nombre>Matteo Berrettini – Stanislas Wawrinka</nombre>
+    <nombre>Daria Snigur (M) –  Diana Shnaider (M)</nombre>
     <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Masculinos</competicion>
+    <competicion>Abierto de EU. Mujeres</competicion>
     <fecha>31 de agosto</fecha>
     <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399041957__/</url>
+    <url>https://livetv.sx/es/eventinfo/399041897__/</url>
   </evento>
   <evento>
     <nombre>Jakub Mensik – Shintaro Mochizuki</nombre>
@@ -5951,14 +5983,6 @@
     <fecha>31 de agosto</fecha>
     <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/399041895__/</url>
-  </evento>
-  <evento>
-    <nombre>Quentin Halys – Facundo Diaz Acosta</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Masculinos</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399041954__/</url>
   </evento>
   <evento>
     <nombre>Maya Joint (M) –  Ludmilla Samsonova (M)</nombre>
@@ -6358,14 +6382,6 @@
     <competicion>Abierto de EU</competicion>
     <fecha>2 de septiembre</fecha>
     <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399535707_us_open/</url>
-  </evento>
-  <evento>
-    <nombre>US Open</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU</competicion>
-    <fecha>2 de septiembre</fecha>
-    <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/398378113_us_open/</url>
   </evento>
   <evento>
@@ -6428,14 +6444,6 @@
     <nombre>US Open</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de EU</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/398378114_us_open/</url>
-  </evento>
-  <evento>
-    <nombre>US Open</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU</competicion>
     <fecha>4 de septiembre</fecha>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/399535709_us_open/</url>
@@ -6444,25 +6452,9 @@
     <nombre>US Open</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de EU</competicion>
-    <fecha>4 de septiembre</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/398378115_us_open/</url>
-  </evento>
-  <evento>
-    <nombre>US Open</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU</competicion>
     <fecha>5 de septiembre</fecha>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/398378116_us_open/</url>
-  </evento>
-  <evento>
-    <nombre>Italia (M) –  Bulgaria (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Campeonato de Europa</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399040360__/</url>
   </evento>
   <evento>
     <nombre>Burundi (M) – Malí (M)</nombre>
@@ -6487,6 +6479,14 @@
     <fecha>31 de agosto</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/399040359__/</url>
+  </evento>
+  <evento>
+    <nombre>Brasil – Cuba</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Partido amistoso. Selecciones</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399719421__/</url>
   </evento>
   <evento>
     <nombre>Brasil – Cuba</nombre>
@@ -6865,46 +6865,6 @@
     <url>https://livetv.sx/es/eventinfo/398988168_fia_frec_imola/</url>
   </evento>
   <evento>
-    <nombre>Veszprem – Magyar Futsal Akademia</nombre>
-    <deporte>Futsal</deporte>
-    <competicion>Hungría. NB I</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/398768248_veszprem_magyar_futsal_akademia/</url>
-  </evento>
-  <evento>
-    <nombre>Nyirbatori – Berettyoujfalu</nombre>
-    <deporte>Futsal</deporte>
-    <competicion>Hungría. NB I</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/398768249_nyirbatori_berettyoujfalu/</url>
-  </evento>
-  <evento>
-    <nombre>Kincsem Lovaspark – Airnergy</nombre>
-    <deporte>Futsal</deporte>
-    <competicion>Hungría. NB I</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/398768250_kincsem_lovaspark_airnergy/</url>
-  </evento>
-  <evento>
-    <nombre>Houp – Aramis</nombre>
-    <deporte>Futsal</deporte>
-    <competicion>Hungría. NB I</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>20:45</hora>
-    <url>https://livetv.sx/es/eventinfo/398768251_houp_aramis/</url>
-  </evento>
-  <evento>
-    <nombre>Deac – Ujpest</nombre>
-    <deporte>Futsal</deporte>
-    <competicion>Hungría. NB I</competicion>
-    <fecha>1 de septiembre</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/398768252_deac_ujpest/</url>
-  </evento>
-  <evento>
     <nombre>ASECSJJ – Mage</nombre>
     <deporte>Futsal</deporte>
     <competicion>Brasil. Campeonato</competicion>
@@ -6951,14 +6911,6 @@
     <fecha>31 de agosto</fecha>
     <hora>19:30</hora>
     <url>https://livetv.sx/es/eventinfo/399510451__/</url>
-  </evento>
-  <evento>
-    <nombre>Lovcen – Alkaloid</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Europa. LRMB</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/398607790_lovcen_alkaloid/</url>
   </evento>
   <evento>
     <nombre>Voivodina – Budvanska</nombre>
@@ -7377,6 +7329,78 @@
     <url>https://livetv.sx/es/eventinfo/398030333__/</url>
   </evento>
   <evento>
+    <nombre>Tremblay – Nantes</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Francia. Starligue</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397663796__/</url>
+  </evento>
+  <evento>
+    <nombre>Flensburgo – Erlangen</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030549__/</url>
+  </evento>
+  <evento>
+    <nombre>Hannover-Burgdorf – Hamburgo</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030550__/</url>
+  </evento>
+  <evento>
+    <nombre>Alba Fehervar (M) –  Vasas (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Hungría. Mujeres. NB I</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030335__/</url>
+  </evento>
+  <evento>
+    <nombre>Saran – Toulouse</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Francia. Starligue</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397663798__/</url>
+  </evento>
+  <evento>
+    <nombre>Pays d`Aix – Selestat</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Francia. Starligue</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397663800__/</url>
+  </evento>
+  <evento>
+    <nombre>Lovosice – Jicin</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>República Checa. Extraliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034580__/</url>
+  </evento>
+  <evento>
+    <nombre>Gummersbach – Melsungen</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030551__/</url>
+  </evento>
+  <evento>
+    <nombre>BHC – RN Loewen</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030552__/</url>
+  </evento>
+  <evento>
     <nombre>Bulldogs – Broncos</nombre>
     <deporte>Rugby</deporte>
     <competicion>Australia. NRL</competicion>
@@ -7473,12 +7497,12 @@
     <url>https://livetv.sx/es/eventinfo/398029449__/</url>
   </evento>
   <evento>
-    <nombre>Tampa Bay – NY Mets</nombre>
+    <nombre>Atlanta – San Francisco</nombre>
     <deporte>Béisbol</deporte>
     <competicion>No especificado</competicion>
     <fecha>1 de septiembre</fecha>
-    <hora>00:40</hora>
-    <url>https://livetv.sx/es/eventinfo/397002960__/</url>
+    <hora>00:05</hora>
+    <url>https://livetv.sx/es/eventinfo/399716512_atlanta_san_francisco/</url>
   </evento>
   <evento>
     <nombre>Cincinnati – San Diego</nombre>
@@ -7551,6 +7575,14 @@
     <fecha>1 de septiembre</fecha>
     <hora>03:38</hora>
     <url>https://livetv.sx/es/eventinfo/397023324__/</url>
+  </evento>
+  <evento>
+    <nombre>Tampa Bay – NY Mets</nombre>
+    <deporte>Béisbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>1 de septiembre</fecha>
+    <hora>00:40</hora>
+    <url>https://livetv.sx/es/eventinfo/397002960__/</url>
   </evento>
   <evento>
     <nombre>Arizona – Filadelfia</nombre>
@@ -8103,5 +8135,13 @@
     <fecha>5 de septiembre</fecha>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/399644224_hamburg_regensburg/</url>
+  </evento>
+  <evento>
+    <nombre>Paderborn – Bonn</nombre>
+    <deporte>Béisbol</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399644225_paderborn_bonn/</url>
   </evento>
 </eventos>

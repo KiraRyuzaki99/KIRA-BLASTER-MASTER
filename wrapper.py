@@ -37,7 +37,8 @@ TUOI_SCRIPTS = [
     "PydroidRojaStV1.py",
     "PyGenHtmlM3U.py",
     "genera_livetv.py",
-    "scraper_mamahd.py",        # ← Se manca, AGGIUNGILA
+    "scraper_mamahd.py",
+    "Pydroid_Dad_Auto.py",        # ← SOSTITUISCE la versione interattiva
 ]
 
 def log(msg: str):

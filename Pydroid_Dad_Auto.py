@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-DADDYLIVE AUTO - Genera HTML per ogni sport con stile KIRA GSI
+DADDYLIVE AUTO - Sistema di apprendimento automatico per le parole chiave
 """
 
 import requests
@@ -9,7 +9,7 @@ import json
 import os
 import re
 from datetime import datetime
-from collections import defaultdict
+from collections import defaultdict, Counter
 from html import escape
 
 # ============================================================
@@ -17,94 +17,31 @@ from html import escape
 # ============================================================
 
 ENDPOINT_BASE = "https://daddylive.li/player/"
-OUTPUT_DIR = "output/Daddy"  # <- Cartella dedicata
+OUTPUT_DIR = "daddy_output"
+KEYWORDS_FILE = "daddy_keywords.json"  #  File di memoria
 
-# Mappatura sport - Pattern PRECISI
-SPORT_PATTERNS = {
-    "Calcio": [
-        r"soccer", r"football", r"serie a", r"premier league", r"bundesliga", 
-        r"la liga", r"ligue 1", r"eredivisie", r"primeira liga", 
-        r"champions league", r"europa league", r"conference league",
-        r"calcio", r"coppa italia", r"fa cup", r"dfb pokal", 
-        r"copa del rey", r"super lig", r"eredivisie",
-        r"serie a", r"serie b", r"serie c",
-        r"premier league", r"championship", r"league one", r"league two",
-        r"bundesliga", r"2\. bundesliga", r"3\. liga",
-        r"la liga", r"segunda division",
-        r"ligue 1", r"ligue 2",
-        r"primeira liga", r"liga portugal",
-        r"eredivisie", r"keuken kampioen divisie",
-        r"pro league", r"jupiler pro league",
-        r"super lig", r"1\. lig",
-        r"allsvenskan", r"superettan",
-        r"superliga", r"1\. division",
-        r"veikkausliiga", r"ykkönen",
-        r"ekstraklasa", r"i liga",
-        r"nike liga", r"fortuna liga",
-        r"ligue", r"league", r"liga", r"serie", r"bundes", r"calcio",
-        r"coppa", r"cup", r"pokal", r"trophy"
-    ],
-    "Tennis": [
-        r"tennis", r"atp", r"wta", r"us open", r"wimbledon", 
-        r"australian open", r"roland garros", r"french open",
-        r"challenger", r"masters 1000", r"grand slam",
-        r"davis cup", r"billie jean king cup",
-        r"tennis", r"abierto de", r"open de"
-    ],
-    "Basket": [
-        r"basketball", r"nba", r"euroleague", r"liga acb", 
-        r"ncaa", r"basket", r"baloncesto",
-        r"eurocup", r"basketball champions league",
-        r"liga endesa", r"serie a basket", r"bbl",
-        r"lnb", r"basketball bundesliga"
-    ],
-    "Hockey": [
-        r"hockey", r"nhl", r"liiga", r"shl", r"extraliga",
-        r"ahl", r"khl", r"del", r"national league",
-        r"champions hockey league", r"ohl", r"whl", r"qmjhl"
-    ],
-    "Motori": [
-        r"formula", r"f1", r"f2", r"f3", r"motogp", 
-        r"superbike", r"rally", r"nascar", r"indycar",
-        r"wec", r"imsa", r"btcc", r"dtm",
-        r"automobilismo", r"motorsport", r"racing"
-    ],
-    "Baseball": [
-        r"baseball", r"mlb", r"kbo", r"npb", r"world series",
-        r"little league", r"college baseball"
-    ],
-    "Rugby": [
-        r"rugby", r"super league", r"nrl", r"6 nazioni",
-        r"six nations", r"champions cup", r"challenge cup",
-        r"top 14", r"united rugby championship"
-    ],
-    "Voleibol": [
-        r"volleyball", r"voley", r"volley", r"liga de voleibol",
-        r"fivb", r"world league", r"national league"
-    ],
-    "Balonmano": [
-        r"handball", r"balonmano", r"hbl", r"liga asobal",
-        r"ehf", r"champions league handball"
-    ],
-    "Pugilato": [
-        r"boxing", r"pugilato", r"ufc", r"mma", r"bellator",
-        r"heavyweight", r"fight", r"combat"
-    ],
-    "Golf": [
-        r"golf", r"pga", r"the open", r"masters", r"ryder cup",
-        r"lpga", r"european tour", r"dp world tour"
-    ],
-    "Ciclismo": [
-        r"cycling", r"tour de france", r"giro d'italia", 
-        r"la vuelta", r"ciclismo", r"world championships",
-        r"classics", r"monument"
-    ]
+# Parole chiave di BASE (solo per avviare il sistema)
+BASE_KEYWORDS = {
+    "Calcio": ["soccer", "football", "serie a", "premier league", "bundesliga", "la liga", "ligue 1", "calcio", "champions league", "europa league"],
+    "Tennis": ["tennis", "atp", "wta", "us open", "wimbledon", "roland garros", "australian open"],
+    "Basket": ["basketball", "nba", "euroleague", "basket", "baloncesto", "liga acb"],
+    "Hockey": ["hockey", "nhl", "liiga", "shl", "extraliga"],
+    "Motori": ["formula", "motogp", "superbike", "rally", "f1", "nascar", "indycar"],
+    "Baseball": ["baseball", "mlb", "kbo", "npb"],
+    "Rugby": ["rugby", "super league", "nrl", "six nations"],
+    "Voleibol": ["volleyball", "voley", "volley"],
+    "Balonmano": ["handball", "balonmano"],
+    "Pugilato": ["boxing", "ufc", "mma", "pugilato"],
+    "Golf": ["golf", "pga"],
+    "Ciclismo": ["cycling", "ciclismo", "tour de france"],
+    "Altri": []
 }
 
-EXCLUDE_PATTERNS = [
-    r"advertisement", r"sponsor", r"promo", r"bonus",
-    r"casino", r"betting", r"slot", r"live chat",
-    r"no event", r"coming soon", r"off air"
+EXCLUDE_WORDS = [
+    "advertisement", "sponsor", "promo", "bonus",
+    "casino", "betting", "slot", "live chat",
+    "no event", "coming soon", "off air",
+    "banner", "ad", "partners", "affiliate"
 ]
 
 HEADERS = {
@@ -115,7 +52,110 @@ HEADERS = {
 }
 
 # ============================================================
-#  FUNZIONI
+#  FUNZIONI PER LA GESTIONE DELLE PAROLE CHIAVE
+# ============================================================
+
+def load_keywords():
+    """Carica il dizionario delle parole chiave dal file."""
+    if os.path.exists(KEYWORDS_FILE):
+        try:
+            with open(KEYWORDS_FILE, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                print(f" Caricate {len(data.get('keywords', {}))} parole chiave dal file")
+                return data
+        except:
+            pass
+    
+    # Se il file non esiste, usa le parole base
+    print(" Nessun file di parole chiave trovato. Uso parole base.")
+    return {
+        "keywords": BASE_KEYWORDS,
+        "last_update": None,
+        "history": []
+    }
+
+def save_keywords(keywords_data):
+    """Salva il dizionario delle parole chiave nel file."""
+    keywords_data["last_update"] = datetime.now().isoformat()
+    with open(KEYWORDS_FILE, 'w', encoding='utf-8') as f:
+        json.dump(keywords_data, f, indent=2, ensure_ascii=False)
+    print(f" Parole chiave salvate ({sum(len(v) for v in keywords_data['keywords'].values())} totali)")
+
+def extract_new_keywords(categories, current_keywords):
+    """Estrae nuove parole chiave dalle categorie."""
+    # Costruisci un set di tutte le parole gi� note
+    known_words = set()
+    for words in current_keywords.values():
+        for w in words:
+            known_words.add(w.lower())
+    
+    # Estrai tutte le parole dalle categorie
+    all_words = set()
+    for cat in categories:
+        if not cat:
+            continue
+        # Pulisci e dividi
+        clean = re.sub(r'[^\w\s]', ' ', cat.lower())
+        words = set(clean.split())
+        for w in words:
+            if len(w) > 2 and w not in EXCLUDE_WORDS:
+                all_words.add(w)
+    
+    # Trova le parole gi� associate a uno sport
+    new_words = {}
+    
+    # Per ogni parola nuova, cerca di associarla a uno sport
+    for word in all_words:
+        if word in known_words:
+            continue
+        
+        # Cerca lo sport pi� probabile
+        best_sport = None
+        best_score = 0
+        
+        for sport, known_list in current_keywords.items():
+            for known in known_list:
+                # Controlla se la parola � contenuta in una parola nota o viceversa
+                if word in known or known in word:
+                    score = 1 + (len(known) / 100)  # Leggero bonus per parole pi� lunghe
+                    if score > best_score:
+                        best_score = score
+                        best_sport = sport
+        
+        if best_sport and best_score > 0.5:
+            if best_sport not in new_words:
+                new_words[best_sport] = []
+            new_words[best_sport].append(word)
+    
+    return new_words
+
+def update_keywords(keywords_data, new_words):
+    """Aggiorna il dizionario con le nuove parole."""
+    updated = False
+    
+    for sport, words in new_words.items():
+        if sport not in keywords_data["keywords"]:
+            keywords_data["keywords"][sport] = []
+        
+        for w in words:
+            if w not in keywords_data["keywords"][sport]:
+                keywords_data["keywords"][sport].append(w)
+                updated = True
+    
+    if updated:
+        # Registra l'aggiornamento nella storia
+        keywords_data["history"].append({
+            "date": datetime.now().isoformat(),
+            "new_words": new_words
+        })
+        # Mantieni solo gli ultimi 10 aggiornamenti
+        if len(keywords_data["history"]) > 10:
+            keywords_data["history"] = keywords_data["history"][-10:]
+    
+    return updated
+
+# ============================================================
+#  FUNZIONI PRINCIPALI
 # ============================================================
 
 def fetch_json(url):
@@ -123,42 +163,28 @@ def fetch_json(url):
         response = requests.get(url, headers=HEADERS, timeout=15)
         if response.status_code == 200:
             return response.json()
-        else:
-            print(f"   ⚠️ Errore {response.status_code} per {url}")
-            return None
-    except Exception as e:
-        print(f"   ⚠️ Errore connessione per {url}: {e}")
+        return None
+    except:
         return None
 
-def detect_sport(category_name, event_name=""):
-    text = f"{category_name} {event_name}".lower()
+def extract_all_categories():
+    """Estrae TUTTE le categorie da tutti i file JSON."""
+    all_categories = set()
+    all_events_data = []
     
-    for pattern in EXCLUDE_PATTERNS:
-        if re.search(pattern, text, re.IGNORECASE):
-            return "Escluso"
-    
-    for sport, patterns in SPORT_PATTERNS.items():
-        for pattern in patterns:
-            if re.search(pattern, text, re.IGNORECASE):
-                return sport
-    
-    return "Altri"
-
-def fetch_all_matches():
-    all_events = []
-    print("📡 Scaricamento dati da DaddyLive...")
+    print(" Scansione macro cartelle per estrarre categorie...")
     
     for i in range(1, 10):
         filename = f"tv{i}.json"
         url = ENDPOINT_BASE + filename
-        print(f"   📥 {filename}...", end=" ")
+        print(f"    {filename}...", end=" ")
         
         data = fetch_json(url)
         if not data:
-            print("❌")
+            print("")
             continue
         
-        print("✅")
+        print("")
         
         for data_corrente, contenuto in data.items():
             if isinstance(contenuto, list):
@@ -177,6 +203,110 @@ def fetch_all_matches():
                     
                     categoria = block.get('Category', block.get('category', categoria_o_chiave))
                     if not isinstance(categoria, str) or not categoria.strip():
+                        continue
+                    
+                    all_categories.add(categoria.strip())
+                    
+                    lista_eventi = block.get('events', [])
+                    if isinstance(lista_eventi, list):
+                        for evento in lista_eventi:
+                            if isinstance(evento, dict):
+                                evento['_categoria'] = categoria.strip()
+                                all_events_data.append(evento)
+    
+    print(f"\n    Trovate {len(all_categories)} categorie uniche")
+    return list(all_categories), all_events_data
+
+def detect_sport(category, keywords_data):
+    """Rileva lo sport usando il dizionario aggiornato."""
+    if not category:
+        return "Altri"
+    
+    cat_lower = category.lower()
+    
+    # Escludi categorie indesiderate
+    for word in EXCLUDE_WORDS:
+        if word in cat_lower:
+            return "Escluso"
+    
+    # Cerca nello sport "Altri" prima
+    for word in keywords_data.get("Altri", []):
+        if word in cat_lower:
+            return "Altri"
+    
+    # Cerca in tutti gli sport
+    best_sport = "Altri"
+    best_score = 0
+    
+    for sport, keywords in keywords_data.items():
+        if sport == "Altri":
+            continue
+        
+        score = 0
+        for kw in keywords:
+            if kw in cat_lower:
+                score += 1
+            # Controlla anche se le parole sono simili
+            if len(kw) > 3:
+                words = set(re.findall(r'[a-zA-Z�-�]+', cat_lower))
+                for w in words:
+                    if kw in w or w in kw:
+                        score += 0.3
+        
+        if score > best_score:
+            best_score = score
+            best_sport = sport
+    
+    # Se il punteggio � troppo basso, verifica se qualche parola chiave � contenuta
+    if best_score < 1:
+        for sport, keywords in keywords_data.items():
+            if sport == "Altri":
+                continue
+            for kw in keywords:
+                if len(kw) > 3 and kw in cat_lower:
+                    return sport
+    
+    return best_sport
+
+def fetch_all_matches(keywords_data):
+    """Scarica tutti gli eventi usando il dizionario."""
+    all_events = []
+    
+    print("\n Scaricamento eventi...")
+    
+    for i in range(1, 10):
+        filename = f"tv{i}.json"
+        url = ENDPOINT_BASE + filename
+        print(f"    {filename}...", end=" ")
+        
+        data = fetch_json(url)
+        if not data:
+            print("")
+            continue
+        
+        print("")
+        
+        for data_corrente, contenuto in data.items():
+            if isinstance(contenuto, list):
+                items = [("Eventi", contenuto)]
+            elif isinstance(contenuto, dict):
+                items = contenuto.items()
+            else:
+                continue
+            
+            for categoria_o_chiave, eventi in items:
+                blocks = eventi if isinstance(eventi, list) else ([eventi] if isinstance(eventi, dict) else [])
+                
+                for block in blocks:
+                    if not isinstance(block, dict):
+                        continue
+                    
+                    categoria = block.get('Category', block.get('category', categoria_o_chiave))
+                    if not isinstance(categoria, str) or not categoria.strip():
+                        continue
+                    
+                    sport = detect_sport(categoria, keywords_data["keywords"])
+                    if sport == "Escluso":
                         continue
                     
                     lista_eventi = block.get('events', [])
@@ -207,10 +337,6 @@ def fetch_all_matches():
                         if not links:
                             continue
                         
-                        sport = detect_sport(categoria, titolo)
-                        if sport == "Escluso":
-                            continue
-                        
                         all_events.append({
                             'title': titolo,
                             'time': orario,
@@ -221,55 +347,68 @@ def fetch_all_matches():
                             'source': filename
                         })
     
-    print(f"\n   ✅ Trovati {len(all_events)} eventi totali")
+    print(f"\n    Trovati {len(all_events)} eventi totali")
     return all_events
 
-def group_by_sport(events):
+def group_and_generate(events):
+    """Raggruppa e genera HTML per ogni sport."""
     grouped = defaultdict(list)
     for event in events:
         grouped[event['sport']].append(event)
-    return grouped
+    
+    print("\n Statistiche per sport:")
+    for sport, evs in sorted(grouped.items(), key=lambda x: len(x[1]), reverse=True):
+        print(f"    {sport}: {len(evs)} eventi")
+    
+    if not os.path.exists(OUTPUT_DIR):
+        os.makedirs(OUTPUT_DIR)
+    
+    total_events = 0
+    for sport, evs in grouped.items():
+        evs.sort(key=lambda x: f"{x['date']}_{x['time']}")
+        filename = f"KIRA_GSI_{sport}.html".replace(" ", "_")
+        filepath = os.path.join(OUTPUT_DIR, filename)
+        count = generate_html_for_sport(sport, evs, filepath)
+        total_events += count
+        print(f"    {filename} ({count} eventi)")
+    
+    # Tutti
+    all_events = []
+    for evs in grouped.values():
+        all_events.extend(evs)
+    generate_html_for_sport("Tutti", all_events, os.path.join(OUTPUT_DIR, "KIRA_GSI_Tutti.html"))
+    print(f"    KIRA_GSI_Tutti.html ({len(all_events)} eventi)")
+    
+    return total_events
 
-def generate_kira_html(sport, events, output_file):
-    """Genera HTML con lo stile KIRA GSI (identico a PyGenHtmlM3U.py)"""
-    
-    events.sort(key=lambda x: f"{x['date']}_{x['time']}")
-    
-    # Costruisci le card
+def generate_html_for_sport(sport, events, output_file):
+    """Genera HTML con stile KIRA GSI."""
     event_items = ""
     for event in events:
-        valid_links = [l for l in event['links'] if l != '#']
+        valid_links = event['links'][:5]
         
-        # Badge stato (sempre "prossimo" come stile KIRA)
-        status_badge = '<span class="status-next">⏳ PROSSIMO</span>'
-        
-        # Links HTML (dropdown se multipli, altrimenti bottone singolo)
         if len(valid_links) > 1:
-            options = "\n".join([f'<option value="{l}">{l.split("/")[-1][:30]}</option>' for l in valid_links[:10]])
+            options = "\n".join([f'<option value="{l}">Canale {i+1}</option>' for i, l in enumerate(valid_links)])
             links_html = f'''
             <div class="dropdown">
                 <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
-                    <option value="">📡 Scegli il canale...</option>
+                    <option value=""> Scegli il canale...</option>
                     {options}
                 </select>
             </div>
             '''
         elif len(valid_links) == 1:
-            link = valid_links[0]
-            channel_name = link.split('id=')[-1][:30] if 'id=' in link else '▶ GUARDA IN DIRETTA'
-            links_html = f'<a href="{link}" target="_blank" class="server-link">{channel_name}</a>'
+            links_html = f'<a href="{valid_links[0]}" target="_blank" class="server-link"> GUARDA IN DIRETTA</a>'
         else:
-            links_html = '<span class="no-link">🔗 Link non disponibile</span>'
-        
-        fonte_badge = f'<span class="fonte-badge">📡 {event.get("source", "DaddyLive")}</span>'
+            links_html = '<span class="no-link"> Link non disponibile</span>'
         
         event_items += f'''
         <div class="event-card">
             <div class="event-info">
-                <h3>{escape(event['title'])} {status_badge}</h3>
-                <p class="competition">🏆 {escape(event['category'])}</p>
-                <p class="datetime">🕒 {escape(event['time'])} • 📅 {escape(event['date'])}</p>
-                {fonte_badge}
+                <h3>{escape(event['title'])}</h3>
+                <p class="competition"> {escape(event['category'])}</p>
+                <p class="datetime"> {escape(event['time'])} �  {escape(event['date'])}</p>
+                <span class="fonte-badge"> {escape(event['sport'])}</span>
             </div>
             <div class="event-links">
                 {links_html}
@@ -277,12 +416,10 @@ def generate_kira_html(sport, events, output_file):
         </div>
         '''
     
-    # Se non ci sono eventi
     if not event_items:
-        event_items = '<p style="text-align:center;color:#666;padding:40px;">Nessun evento disponibile</p>'
+        event_items = '<p style="text-align:center;color:#666;">Nessun evento trovato.</p>'
     
-    # STILE IDENTICO A PyGenHtmlM3U.py
-    html_content = f'''<!DOCTYPE html>
+    html = f'''<!DOCTYPE html>
 <html lang="it">
 <head>
     <meta charset="UTF-8">
@@ -350,7 +487,8 @@ def generate_kira_html(sport, events, output_file):
         .events-grid {{
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-            gap: 20px;
+            gap: 25px;
+            margin-top: 20px;
         }}
         
         .event-card {{
@@ -358,7 +496,7 @@ def generate_kira_html(sport, events, output_file):
             backdrop-filter: blur(10px);
             border: 1px solid rgba(0, 255, 204, 0.2);
             border-radius: 15px;
-            padding: 20px;
+            padding: 25px;
             transition: all 0.3s ease;
             display: flex;
             flex-direction: column;
@@ -371,27 +509,23 @@ def generate_kira_html(sport, events, output_file):
         .event-info h3 {{
             font-family: 'Orbitron', sans-serif;
             font-weight: 700;
-            font-size: 1.1rem;
+            font-size: 1.2rem;
             color: #00ffcc;
             margin-bottom: 8px;
-            display: flex;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 8px;
         }}
         .event-info .competition {{
             font-family: 'Audiowide', cursive;
             color: #88ddff;
-            font-size: 0.8rem;
+            font-size: 0.85rem;
             background: rgba(0, 255, 204, 0.1);
-            padding: 3px 12px;
+            padding: 4px 12px;
             border-radius: 20px;
             display: inline-block;
-            margin-bottom: 8px;
+            margin-bottom: 10px;
         }}
         .event-info .datetime {{
             color: #88ddff;
-            font-size: 0.85rem;
+            font-size: 0.9rem;
             opacity: 0.8;
         }}
         .fonte-badge {{
@@ -404,17 +538,9 @@ def generate_kira_html(sport, events, output_file):
             margin-top: 5px;
             border: 1px solid rgba(0, 255, 204, 0.2);
         }}
-        .status-next {{
-            display: inline-block;
-            font-size: 0.65rem;
-            background: rgba(0, 100, 255, 0.3);
-            color: #4488ff;
-            padding: 2px 10px;
-            border-radius: 12px;
-        }}
         .event-links {{
-            margin-top: 12px;
-            padding-top: 12px;
+            margin-top: 15px;
+            padding-top: 15px;
             border-top: 1px solid rgba(0, 255, 204, 0.15);
         }}
         .server-link {{
@@ -423,13 +549,13 @@ def generate_kira_html(sport, events, output_file):
             font-weight: 700;
             color: #0a0a0a;
             background: #00ffcc;
-            padding: 10px 20px;
+            padding: 12px 24px;
             border-radius: 8px;
             text-decoration: none;
             text-align: center;
             width: 100%;
             transition: all 0.3s ease;
-            font-size: 0.8rem;
+            font-size: 0.85rem;
         }}
         .server-link:hover {{
             background: #00ddbb;
@@ -437,20 +563,15 @@ def generate_kira_html(sport, events, output_file):
         }}
         .dropdown select {{
             width: 100%;
-            padding: 10px 15px;
+            padding: 12px 15px;
             background: rgba(0, 20, 20, 0.9);
             color: #00ffcc;
             border: 1px solid rgba(0, 255, 204, 0.4);
             border-radius: 10px;
             font-family: 'Orbitron', monospace;
-            font-size: 0.75rem;
+            font-size: 0.85rem;
             cursor: pointer;
             outline: none;
-        }}
-        .dropdown select option {{
-            background: #0a1a1a;
-            color: #88ffdd;
-            padding: 8px;
         }}
         .no-link {{
             display: inline-block;
@@ -464,7 +585,7 @@ def generate_kira_html(sport, events, output_file):
         .footer {{
             text-align: center;
             padding: 40px 0 20px;
-            margin-top: 40px;
+            margin-top: 60px;
             border-top: 1px solid rgba(0, 255, 204, 0.2);
             color: #88ddff;
             opacity: 0.7;
@@ -479,7 +600,6 @@ def generate_kira_html(sport, events, output_file):
             .header h1 {{ font-size: 2rem; }}
             .events-grid {{ grid-template-columns: 1fr; }}
             .container {{ padding: 15px; }}
-            .event-card {{ padding: 18px; }}
         }}
     </style>
 </head>
@@ -487,13 +607,13 @@ def generate_kira_html(sport, events, output_file):
     <div class="matrix-bg"></div>
     <div class="container">
         <header class="header">
-            <h1>⚡ KIRA GSI - {sport} ⚡</h1>
-            <p class="subtitle">• Eventi in diretta •</p>
+            <h1> KIRA GSI </h1>
+            <p class="subtitle">� {sport} - Eventi in Diretta �</p>
         </header>
         
         <div style="text-align: center;">
             <div class="event-counter">
-                🎯 <span>{len(events)}</span> eventi disponibili
+                 <span>{len(events)}</span> eventi disponibili
             </div>
         </div>
         
@@ -502,60 +622,76 @@ def generate_kira_html(sport, events, output_file):
         </div>
         
         <footer class="footer">
-            <p class="neon-text">🔮 KIRA GSI • {datetime.now().year} • Powered by KIRA</p>
+            <p class="neon-text"> KIRA GSI � Eventi in diretta � {datetime.now().year}</p>
         </footer>
     </div>
 </body>
 </html>'''
     
     with open(output_file, "w", encoding="utf-8") as f:
-        f.write(html_content)
+        f.write(html)
     
     return len(events)
 
+# ============================================================
+#  MAIN
+# ============================================================
+
 def main():
-    print("="*60)
-    print("📡 KIRA GSI - DaddyLive Auto")
-    print("="*60)
+    print("="*70)
+    print(" KIRA GSI - DaddyLive Auto (Con apprendimento)")
+    print("="*70)
     
-    # Crea cartella output/Daddy
-    if not os.path.exists(OUTPUT_DIR):
-        os.makedirs(OUTPUT_DIR)
+    # FASE 1: Carica le parole chiave esistenti
+    keywords_data = load_keywords()
     
-    events = fetch_all_matches()
-    if not events:
-        print("❌ Nessun evento trovato!")
+    # FASE 2: Estrai tutte le categorie
+    categories, all_events_data = extract_all_categories()
+    
+    if not categories:
+        print(" Nessuna categoria trovata!")
         return
     
-    grouped = group_by_sport(events)
+    # FASE 3: Estrai nuove parole chiave
+    print("\n Analisi di nuove parole chiave...")
+    new_words = extract_new_keywords(categories, keywords_data["keywords"])
     
-    print("\n📊 Statistiche per sport:")
-    for sport, evs in sorted(grouped.items(), key=lambda x: len(x[1]), reverse=True):
-        print(f"   🏆 {sport}: {len(evs)} eventi")
+    if new_words:
+        print("   Nuove parole trovate:")
+        for sport, words in new_words.items():
+            print(f"      {sport}: {', '.join(words[:5])}")
+            if len(words) > 5:
+                print(f"         ... e altre {len(words)-5} parole")
+    else:
+        print("    Nessuna nuova parola trovata")
     
-    print("\n📄 Generazione HTML...")
+    # FASE 4: Aggiorna il dizionario se necessario
+    updated = update_keywords(keywords_data, new_words)
+    if updated:
+        save_keywords(keywords_data)
+        print("\n Dizionario aggiornato!")
     
-    total_events = 0
-    for sport, evs in grouped.items():
-        filename = f"KIRA_GSI_{sport}.html".replace(" ", "_")
-        filepath = os.path.join(OUTPUT_DIR, filename)
-        
-        count = generate_kira_html(sport, evs, filepath)
-        total_events += count
-        print(f"   ✅ {filename} ({count} eventi)")
+    # Mostra il dizionario attuale
+    print(f"\n Dizionario attuale ({sum(len(v) for v in keywords_data['keywords'].values())} parole):")
+    for sport, words in sorted(keywords_data["keywords"].items()):
+        if words:
+            print(f"   {sport}: {len(words)} parole")
     
-    # File "Tutti"
-    all_events = []
-    for evs in grouped.values():
-        all_events.extend(evs)
+    # FASE 5: Scarica tutti gli eventi usando il dizionario
+    events = fetch_all_matches(keywords_data)
     
-    generate_kira_html("Tutti", all_events, os.path.join(OUTPUT_DIR, "KIRA_GSI_Tutti.html"))
-    print(f"   ✅ KIRA_GSI_Tutti.html ({len(all_events)} eventi)")
+    if not events:
+        print(" Nessun evento trovato!")
+        return
     
-    print("\n" + "="*60)
-    print(f"✅ OPERAZIONE COMPLETATA! {total_events} eventi totali")
-    print(f"📁 File generati in: {OUTPUT_DIR}/")
-    print("="*60)
+    # FASE 6: Raggruppa e genera HTML
+    total = group_and_generate(events)
+    
+    print("\n" + "="*70)
+    print(f" OPERAZIONE COMPLETATA! {total} eventi totali")
+    print(f" File generati in: {OUTPUT_DIR}/")
+    print(f" Dizionario salvato in: {KEYWORDS_FILE}")
+    print("="*70)
 
 if __name__ == "__main__":
     main()

@@ -1,77 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-08-31 13:26:00" total="939">
-  <evento>
-    <nombre>MODUS Super Series</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Modus League</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>10:40</hora>
-    <url>https://livetv.sx/es/eventinfo/399616735_modus_super_series/</url>
-  </evento>
-  <evento>
-    <nombre>Vuelta a España</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>UCI World Tour</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>12:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399696763_vuelta_a_espaand241_a/</url>
-  </evento>
-  <evento>
-    <nombre>Tailandia –  Mongolia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa Asiática</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>13:00</hora>
-    <url>https://livetv.sx/es/eventinfo/398399247_tailandia_mongolia/</url>
-  </evento>
-  <evento>
-    <nombre>Indonesia –  Malasia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa Asiática</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>13:00</hora>
-    <url>https://livetv.sx/es/eventinfo/398399248_indonesia_malasia/</url>
-  </evento>
-  <evento>
-    <nombre>Kirguistán –  Maldivas</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa Asiática</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>13:00</hora>
-    <url>https://livetv.sx/es/eventinfo/398399249_kirguistandaacute_n_maldivas/</url>
-  </evento>
-  <evento>
-    <nombre>Atyrau (W) –  Ulytau (W)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Campeonato</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>13:00</hora>
-    <url>https://livetv.sx/es/eventinfo/398768371_atyrau_w_ulytau_w/</url>
-  </evento>
-  <evento>
-    <nombre>Ordabasy (W) –  Kaspiy (W)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Campeonato</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>13:00</hora>
-    <url>https://livetv.sx/es/eventinfo/398768372_ordabasy_w_kaspiy_w/</url>
-  </evento>
-  <evento>
-    <nombre>Siria U20 –  India U20</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Clasificatoria</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>13:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399614056_siria_u20_india_u20/</url>
-  </evento>
-  <evento>
-    <nombre>China –  Líbano</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Asia</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>89:87</hora>
-    <url>https://livetv.sx/es/eventinfo/396924966_china_l__bano/</url>
-  </evento>
+<eventos generado="2026-08-31 14:07:57" total="956">
   <evento>
     <nombre>British Superbikes</nombre>
     <deporte>Fútbol</deporte>
@@ -169,14 +97,6 @@
     <url>https://livetv.sx/es/eventinfo/398399250_nepal_omandaacute_n/</url>
   </evento>
   <evento>
-    <nombre>Chernomorets U 21 –  Kryvbas U21</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Ucrania. Premier League Sub-21</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>15:00</hora>
-    <url>https://livetv.sx/es/eventinfo/398768314_chernomorets_u_21_kryvbas_u21/</url>
-  </evento>
-  <evento>
     <nombre>Países Bajos (M) –   Eslovenia (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Mujeres. Campeonato de Europa</competicion>
@@ -199,6 +119,86 @@
     <fecha>31 de agosto</fecha>
     <hora>15:00</hora>
     <url>https://livetv.sx/es/eventinfo/399142243_nigeria_albania/</url>
+  </evento>
+  <evento>
+    <nombre>Burkina Faso (M) –  Zambia (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Mujeres. Campeonato Africano</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399611804_burkina_faso_m_zambia_m/</url>
+  </evento>
+  <evento>
+    <nombre>Araz-Najicheván –  Sabah</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Azerbaiyán. Premier League</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/396447041_araz_najichev__n_sabah/</url>
+  </evento>
+  <evento>
+    <nombre>Asyut Petroleum –  National Bank</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Egipto. Premier League</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/396945994_asyut_petroleum_national_bank/</url>
+  </evento>
+  <evento>
+    <nombre>Elimai –  Kairat</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Kazajistán. Liga Premier</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/396820007_elimai_kairat/</url>
+  </evento>
+  <evento>
+    <nombre>Sri Lanka –  Kazajstán</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa Asiática</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398399251_sri_lanka_kazajstandaacute_n/</url>
+  </evento>
+  <evento>
+    <nombre>Italia (M) –   Bulgaria (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Mujeres. Campeonato de Europa</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399040360__italia_m__bulgaria_m/</url>
+  </evento>
+  <evento>
+    <nombre>Torreense Sub-23 –   Braga Sub-23</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Portugal. Liga U23</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399621746__torreense_sub_23__braga_sub_23/</url>
+  </evento>
+  <evento>
+    <nombre>Jordania U20 –  Afganistán U20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificatoria</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399614063_jordania_u20_afganistand225_n_u20/</url>
+  </evento>
+  <evento>
+    <nombre>Uzbekistán U20 –  Bangladesh U20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificatoria</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399614064_uzbekistand225_n_u20_bangladesh_u20/</url>
+  </evento>
+  <evento>
+    <nombre>Kosovo –  Chile</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa del Mundo de Socca</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399142244_kosovo_chile/</url>
   </evento>
   <evento>
     <nombre>Lecce – Roma</nombre>
@@ -361,14 +361,6 @@
     <url>https://livetv.sx/es/eventinfo/396945994__/</url>
   </evento>
   <evento>
-    <nombre>Kosovo – Chile</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa del Mundo de Socca</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399142244_kosovo_chile/</url>
-  </evento>
-  <evento>
     <nombre>Jordania U20 – Afganistán U20</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Copa Asiática Sub-20. Clasificatoria</competicion>
@@ -447,6 +439,14 @@
     <fecha>31 de agosto</fecha>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/396972433__/</url>
+  </evento>
+  <evento>
+    <nombre>Chernomorets U 21 – Kryvbas U21</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. Premier League Sub-21</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398768314_chernomorets_u_21_kryvbas_u21/</url>
   </evento>
   <evento>
     <nombre>Bukovyna – Dinamo de Kiev</nombre>
@@ -4929,20 +4929,100 @@
     <url>https://livetv.sx/es/eventinfo/398031534__/</url>
   </evento>
   <evento>
+    <nombre>Avtomobilist – Dynamo Msk</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398031922__/</url>
+  </evento>
+  <evento>
+    <nombre>Ak Bars – Sibir</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398031924__/</url>
+  </evento>
+  <evento>
+    <nombre>SKA – Lada Tl</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398031926__/</url>
+  </evento>
+  <evento>
+    <nombre>Severstal – Salavat Yulaev</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398031928__/</url>
+  </evento>
+  <evento>
+    <nombre>Spartak M – Torpedo NN</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398031930__/</url>
+  </evento>
+  <evento>
+    <nombre>Tappara – Koelner Haie</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Liga de Campeones</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398032044__/</url>
+  </evento>
+  <evento>
+    <nombre>TPS – HIFK</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Liiga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034348__/</url>
+  </evento>
+  <evento>
+    <nombre>Lukko – Jokerit</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Liiga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034350__/</url>
+  </evento>
+  <evento>
+    <nombre>Karpat – Jyvaskyla</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Liiga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034352__/</url>
+  </evento>
+  <evento>
+    <nombre>Kiekko-Espoo – Pelicans</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Liiga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034354__/</url>
+  </evento>
+  <evento>
+    <nombre>Jukurit – Sport Vaasan</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Liiga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034356__/</url>
+  </evento>
+  <evento>
     <nombre>Fráncfort – Rostock</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Alemania. Bundesliga</competicion>
     <fecha>1 de septiembre</fecha>
     <hora>00:00</hora>
     <url>https://livetv.sx/es/eventinfo/396991995__/</url>
-  </evento>
-  <evento>
-    <nombre>China – Líbano</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Clasificación para la Copa Mundial. Asia</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/396924966__/</url>
   </evento>
   <evento>
     <nombre>Nepal – Omán</nombre>
@@ -6401,6 +6481,14 @@
     <url>https://livetv.sx/es/eventinfo/399623147_superbike_magny_cours/</url>
   </evento>
   <evento>
+    <nombre>Gran Premio de ItaliaClasificación</nombre>
+    <deporte>Automovilismo</deporte>
+    <competicion>Fórmula 1</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399614929_italian_grand_prix/</url>
+  </evento>
+  <evento>
     <nombre>Craiova – Buzau</nombre>
     <deporte>Futsal</deporte>
     <competicion>Rumania. Liga 1</competicion>
@@ -6487,6 +6575,14 @@
     <fecha>5 de septiembre</fecha>
     <hora>15:00</hora>
     <url>https://livetv.sx/es/eventinfo/399617322_ser_sao_jose_chapecoense/</url>
+  </evento>
+  <evento>
+    <nombre>América Mineiro – Criciúma</nombre>
+    <deporte>Futsal</deporte>
+    <competicion>Brasil. Campeonato</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399617323_america_mineiro_criciuma/</url>
   </evento>
   <evento>
     <nombre>Leipzig – GWD Minden</nombre>
@@ -6809,6 +6905,38 @@
     <url>https://livetv.sx/es/eventinfo/398033293__/</url>
   </evento>
   <evento>
+    <nombre>Skjern – Aalborg</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Dinamarca. Handboldligaen</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398805577__/</url>
+  </evento>
+  <evento>
+    <nombre>Skanderborg Aarhus – Skive</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Dinamarca. Handboldligaen</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398805578__/</url>
+  </evento>
+  <evento>
+    <nombre>Dortmund (M) –  Esbjerg (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. Liga de Campeones</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030780__/</url>
+  </evento>
+  <evento>
+    <nombre>Krim Liubliana (M) –  Bucarest (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. Liga de Campeones</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030782__/</url>
+  </evento>
+  <evento>
     <nombre>Bulldogs – Broncos</nombre>
     <deporte>Rugby</deporte>
     <competicion>Australia. NRL</competicion>
@@ -6887,6 +7015,14 @@
     <fecha>5 de septiembre</fecha>
     <hora>11:35</hora>
     <url>https://livetv.sx/es/eventinfo/398029271__/</url>
+  </evento>
+  <evento>
+    <nombre>Wakefield Trinity – Warrington Wolves</nombre>
+    <deporte>Rugby</deporte>
+    <competicion>Inglaterra. Super League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398029448__/</url>
   </evento>
   <evento>
     <nombre>Tampa Bay – NY Mets</nombre>

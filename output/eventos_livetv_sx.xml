@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-09-01 04:13:14" total="990">
+<eventos generado="2026-09-01 06:18:05" total="1014">
   <evento>
     <nombre>Trinbago Knight Riders –  Guyana Amazon Warriors</nombre>
     <deporte>Fútbol</deporte>
@@ -17,46 +17,6 @@
     <url>https://livetv.sx/es/eventinfo/399616150_china_masters/</url>
   </evento>
   <evento>
-    <nombre>LA Angels –  NY Yankees</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>03:38</hora>
-    <url>https://livetv.sx/es/eventinfo/397023324_la_angels_ny_yankees/</url>
-  </evento>
-  <evento>
-    <nombre>Arizona –  Filadelfia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>03:40</hora>
-    <url>https://livetv.sx/es/eventinfo/397023326_arizona_filadelfia/</url>
-  </evento>
-  <evento>
-    <nombre>Nueva Caledonia U19 –  Samoa U19</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Campeonato Sub-19 de la OFC</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399614514_nueva_caledonia_u19_samoa_u19/</url>
-  </evento>
-  <evento>
-    <nombre>México –  Brasil</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>America</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>77:74</hora>
-    <url>https://livetv.sx/es/eventinfo/396820751_m__xico_brasil/</url>
-  </evento>
-  <evento>
-    <nombre>Naomi Osaka (M) –   Anastasia Zakharova (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>04:25</hora>
-    <url>https://livetv.sx/es/eventinfo/399041888__naomi_osaka_m__anastasia_zakharova_m/</url>
-  </evento>
-  <evento>
     <nombre>Kaskyr –  Shymkent</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Kazajistán. Copa</competicion>
@@ -71,14 +31,6 @@
     <fecha>31 de agosto</fecha>
     <hora>08:00</hora>
     <url>https://livetv.sx/es/eventinfo/399142250_australia_libia/</url>
-  </evento>
-  <evento>
-    <nombre>Camerún (M) –  Uganda (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Campeonato Africano</competicion>
-    <fecha>31 de agosto</fecha>
-    <hora>09:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399611806_cameranduacute_n_m_uganda_m/</url>
   </evento>
   <evento>
     <nombre>Cameroon (M) –   Uganda (M)</nombre>
@@ -159,6 +111,54 @@
     <fecha>31 de agosto</fecha>
     <hora>11:00</hora>
     <url>https://livetv.sx/es/eventinfo/399683092_russian_championship_saransk/</url>
+  </evento>
+  <evento>
+    <nombre>Bukovina U21 –  Dynamo Kiev U21</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. Premier League Sub-21</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398768315_bukovina_u21_dynamo_kiev_u21/</url>
+  </evento>
+  <evento>
+    <nombre>Pakistán –  Líbano</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa del Mundo de Socca</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399142253_pakistandaacute_n_landiacute_bano/</url>
+  </evento>
+  <evento>
+    <nombre>Doosan Bears –  LG Twins</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Corea del Sur. KBO League</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398768232_doosan_bears_lg_twins/</url>
+  </evento>
+  <evento>
+    <nombre>Kiwoom Heroes –  SSG Landers</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Corea del Sur. KBO League</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398768233_kiwoom_heroes_ssg_landers/</url>
+  </evento>
+  <evento>
+    <nombre>KT Wiz –  Hanwa Eagles</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Corea del Sur. KBO League</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398768234_kt_wiz_hanwa_eagles/</url>
+  </evento>
+  <evento>
+    <nombre>NC Dinos –  Kia Tigers</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Corea del Sur. KBO League</competicion>
+    <fecha>31 de agosto</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398768235_nc_dinos_kia_tigers/</url>
   </evento>
   <evento>
     <nombre>Akron – Lokomotiv M</nombre>
@@ -273,14 +273,6 @@
     <url>https://livetv.sx/es/eventinfo/399142253_pakistan_lebanon/</url>
   </evento>
   <evento>
-    <nombre>Bukovina U21 – Dynamo Kiev U21</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Ucrania. Premier League Sub-21</competicion>
-    <fecha>1 de septiembre</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/398768315_bukovina_u21_dynamo_kiev_u21/</url>
-  </evento>
-  <evento>
     <nombre>Vizela Sub-23 –  Santa Clara Sub-23</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Portugal. Liga U23</competicion>
@@ -313,12 +305,12 @@
     <url>https://livetv.sx/es/eventinfo/398768374_shakhter_karaganda_w_tobol_w/</url>
   </evento>
   <evento>
-    <nombre>Kharkiv (W) – Mitrovica (M)</nombre>
+    <nombre>Kharkiv (M) –  Mitrovica (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Mujeres. Copa de Europa de la UEFA</competicion>
     <fecha>1 de septiembre</fecha>
     <hora>13:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399756566_kharkiv_w_mitrovica_w/</url>
+    <url>https://livetv.sx/es/eventinfo/399770152__/</url>
   </evento>
   <evento>
     <nombre>Francia – Letonia</nombre>
@@ -4233,11 +4225,19 @@
     <url>https://livetv.sx/es/eventinfo/397132754__/</url>
   </evento>
   <evento>
+    <nombre>Almaz – Loko-76</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Partido amistoso</competicion>
+    <fecha>1 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772889_almaz_loko_76/</url>
+  </evento>
+  <evento>
     <nombre>Nomad – Irtysh Pavlodar</nombre>
     <deporte>Hockey</deporte>
     <competicion>Kazajistán. Campeonato</competicion>
     <fecha>1 de septiembre</fecha>
-    <hora>14:00</hora>
+    <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/397090275__/</url>
   </evento>
   <evento>
@@ -4245,7 +4245,7 @@
     <deporte>Hockey</deporte>
     <competicion>Kazajistán. Campeonato</competicion>
     <fecha>1 de septiembre</fecha>
-    <hora>14:00</hora>
+    <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/397090277__/</url>
   </evento>
   <evento>
@@ -4253,8 +4253,16 @@
     <deporte>Hockey</deporte>
     <competicion>Kazajistán. Campeonato</competicion>
     <fecha>1 de septiembre</fecha>
-    <hora>14:00</hora>
+    <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/397090279__/</url>
+  </evento>
+  <evento>
+    <nombre>Olomouc – Ocelari Trinec</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Partido amistoso</competicion>
+    <fecha>1 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772974_olomouc_ocelari_trinec/</url>
   </evento>
   <evento>
     <nombre>Vimmerby – Nybro IF</nombre>
@@ -4325,7 +4333,7 @@
     <deporte>Hockey</deporte>
     <competicion>Kazajistán. Campeonato</competicion>
     <fecha>2 de septiembre</fecha>
-    <hora>14:00</hora>
+    <hora>15:30</hora>
     <url>https://livetv.sx/es/eventinfo/397255893__/</url>
   </evento>
   <evento>
@@ -4333,7 +4341,7 @@
     <deporte>Hockey</deporte>
     <competicion>Kazajistán. Campeonato</competicion>
     <fecha>2 de septiembre</fecha>
-    <hora>14:00</hora>
+    <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/397255895__/</url>
   </evento>
   <evento>
@@ -4341,7 +4349,7 @@
     <deporte>Hockey</deporte>
     <competicion>Kazajistán. Campeonato</competicion>
     <fecha>2 de septiembre</fecha>
-    <hora>14:00</hora>
+    <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/397255897__/</url>
   </evento>
   <evento>
@@ -4349,7 +4357,7 @@
     <deporte>Hockey</deporte>
     <competicion>Kazajistán. Campeonato</competicion>
     <fecha>2 de septiembre</fecha>
-    <hora>14:00</hora>
+    <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/397255899__/</url>
   </evento>
   <evento>
@@ -4357,7 +4365,7 @@
     <deporte>Hockey</deporte>
     <competicion>Kazajistán. Campeonato</competicion>
     <fecha>2 de septiembre</fecha>
-    <hora>14:00</hora>
+    <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/397255901__/</url>
   </evento>
   <evento>
@@ -4453,7 +4461,7 @@
     <deporte>Hockey</deporte>
     <competicion>Kazajistán. Campeonato</competicion>
     <fecha>3 de septiembre</fecha>
-    <hora>14:00</hora>
+    <hora>15:30</hora>
     <url>https://livetv.sx/es/eventinfo/397412358__/</url>
   </evento>
   <evento>
@@ -4461,7 +4469,7 @@
     <deporte>Hockey</deporte>
     <competicion>Kazajistán. Campeonato</competicion>
     <fecha>3 de septiembre</fecha>
-    <hora>14:00</hora>
+    <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/397412360__/</url>
   </evento>
   <evento>
@@ -5241,14 +5249,6 @@
     <url>https://livetv.sx/es/eventinfo/398031590__/</url>
   </evento>
   <evento>
-    <nombre>México – Brasil</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Clasificación para la Copa Mundial. America</competicion>
-    <fecha>1 de septiembre</fecha>
-    <hora>04:10</hora>
-    <url>https://livetv.sx/es/eventinfo/396820751__/</url>
-  </evento>
-  <evento>
     <nombre>All-Russian Spartakiad</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Torneo amistoso</competicion>
@@ -5311,6 +5311,70 @@
     <fecha>4 de septiembre</fecha>
     <hora>15:00</hora>
     <url>https://livetv.sx/es/eventinfo/399686506_all_russian_spartakiad/</url>
+  </evento>
+  <evento>
+    <nombre>Kaohsiung Challenger</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>04:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399768926_kaohsiung_challenger/</url>
+  </evento>
+  <evento>
+    <nombre>Sansar Challenger</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399768927_sansar_challenger/</url>
+  </evento>
+  <evento>
+    <nombre>Kaohsiung Challenger</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>08:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399768928_kaohsiung_challenger/</url>
+  </evento>
+  <evento>
+    <nombre>Sansar Challenger</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>08:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399768929_sansar_challenger/</url>
+  </evento>
+  <evento>
+    <nombre>Women's Series Shanghai</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>09:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399768930_womens_series_shanghai/</url>
+  </evento>
+  <evento>
+    <nombre>Kaohsiung Challenger</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399768931_kaohsiung_challenger/</url>
+  </evento>
+  <evento>
+    <nombre>Women's Series Shanghai</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399768932_womens_series_shanghai/</url>
+  </evento>
+  <evento>
+    <nombre>Sansar Challenger</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>6 de septiembre</fecha>
+    <hora>08:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399768933_sansar_challenger/</url>
   </evento>
   <evento>
     <nombre>Juan Manuel Cerundolo – Casper Ruud</nombre>
@@ -5391,14 +5455,6 @@
     <fecha>2 de septiembre</fecha>
     <hora>01:00</hora>
     <url>https://livetv.sx/es/eventinfo/399041927__/</url>
-  </evento>
-  <evento>
-    <nombre>Naomi Osaka (M) –  Anastasia Zakharova (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>1 de septiembre</fecha>
-    <hora>04:25</hora>
-    <url>https://livetv.sx/es/eventinfo/399041888__/</url>
   </evento>
   <evento>
     <nombre>ATP Challenger. Oporto</nombre>
@@ -5681,6 +5737,14 @@
     <url>https://livetv.sx/es/eventinfo/399720990_atp_challenger_porto/</url>
   </evento>
   <evento>
+    <nombre>Naomi Osaka (M) –  Katerina Siniakova (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Abierto de EU. Mujeres</competicion>
+    <fecha>2 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399779597__/</url>
+  </evento>
+  <evento>
     <nombre>Harriet Dart (M) –  Marie Bouzkova (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de EU. Mujeres</competicion>
@@ -5775,6 +5839,14 @@
     <fecha>2 de septiembre</fecha>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/399732791__/</url>
+  </evento>
+  <evento>
+    <nombre>Rei Sakamoto – Francis Tiafoe</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Abierto de EU. Masculinos</competicion>
+    <fecha>2 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399779640__/</url>
   </evento>
   <evento>
     <nombre>Oksana Selekhmeteva (M) –  Kamilla Rakhimova (M)</nombre>
@@ -5913,6 +5985,14 @@
     <url>https://livetv.sx/es/eventinfo/399732833__/</url>
   </evento>
   <evento>
+    <nombre>Felix Auger-Aliassime – Karen Jachánov</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Abierto de EU. Masculinos</competicion>
+    <fecha>2 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399771490__/</url>
+  </evento>
+  <evento>
     <nombre>Elina Svitolina (M) –  Maya Joint (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de EU. Mujeres</competicion>
@@ -6023,14 +6103,6 @@
     <fecha>5 de septiembre</fecha>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/398378116_us_open/</url>
-  </evento>
-  <evento>
-    <nombre>Camerún (M) – Uganda (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Campeonato Africano</competicion>
-    <fecha>1 de septiembre</fecha>
-    <hora>09:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399611806_cameroon_w_uganda_w/</url>
   </evento>
   <evento>
     <nombre>Cameroon (M) –  Uganda (M)</nombre>
@@ -6441,6 +6513,14 @@
     <url>https://livetv.sx/es/eventinfo/398988168_fia_frec_imola/</url>
   </evento>
   <evento>
+    <nombre>Formula 3, MonzaCarrera 2</nombre>
+    <deporte>Automovilismo</deporte>
+    <competicion>Fórmula 3</competicion>
+    <fecha>6 de septiembre</fecha>
+    <hora>08:15</hora>
+    <url>https://livetv.sx/es/eventinfo/399614730_formula_3_monza/</url>
+  </evento>
+  <evento>
     <nombre>Semey – Elorda</nombre>
     <deporte>Futsal</deporte>
     <competicion>Kazajistán. Copa</competicion>
@@ -6471,6 +6551,14 @@
     <fecha>1 de septiembre</fecha>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/399765066_atyrau_bayterek/</url>
+  </evento>
+  <evento>
+    <nombre>Deac – Ujpest</nombre>
+    <deporte>Futsal</deporte>
+    <competicion>Hungría. NB I</competicion>
+    <fecha>1 de septiembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399773019_deac_ujpest/</url>
   </evento>
   <evento>
     <nombre>ASECSJJ – Mage</nombre>
@@ -6665,6 +6753,22 @@
     <url>https://livetv.sx/es/eventinfo/398607791_vojvodina_budvanska/</url>
   </evento>
   <evento>
+    <nombre>Costa de Marfil (M) – Togo (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. IHF Trophy África</competicion>
+    <fecha>2 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772823_ivory_coast_w_togo_w/</url>
+  </evento>
+  <evento>
+    <nombre>Benín (M) – Liberia (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. IHF Trophy África</competicion>
+    <fecha>2 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772826_benin_w_liberia_w/</url>
+  </evento>
+  <evento>
     <nombre>Zlin – Brno</nombre>
     <deporte>Balonmano</deporte>
     <competicion>República Checa. Extraliga</competicion>
@@ -6753,6 +6857,14 @@
     <url>https://livetv.sx/es/eventinfo/397293303__/</url>
   </evento>
   <evento>
+    <nombre>Ghana (M) – Burkina Faso (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. IHF Trophy África</competicion>
+    <fecha>2 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772827_ghana_w_burkina_faso_w/</url>
+  </evento>
+  <evento>
     <nombre>Metz (M) –  Plan-de-Cuques (M)</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Francia. Mujeres. D1</competicion>
@@ -6777,12 +6889,52 @@
     <url>https://livetv.sx/es/eventinfo/397293305__/</url>
   </evento>
   <evento>
+    <nombre>Ecuador (M) – Chile (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. Trofeo IHF. Sudamérica</competicion>
+    <fecha>2 de septiembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772828_ecuador_w_chile_w/</url>
+  </evento>
+  <evento>
+    <nombre>Colombia (M) – Venezuela (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. Trofeo IHF. Sudamérica</competicion>
+    <fecha>2 de septiembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772829_colombia_w_venezuela_w/</url>
+  </evento>
+  <evento>
+    <nombre>Perú (M) – Bolivia (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. Trofeo IHF. Sudamérica</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772830_peru_w_bolivia_w/</url>
+  </evento>
+  <evento>
+    <nombre>Liberia (M) – Costa de Marfil (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. IHF Trophy África</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772824_liberia_w_ivory_coast_w/</url>
+  </evento>
+  <evento>
     <nombre>Eszterhazy (M) –  Schaeffler (M)</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Hungría. Mujeres. NB I</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/398756915__/</url>
+  </evento>
+  <evento>
+    <nombre>Benín (M) – Togo (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. IHF Trophy África</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772831_benin_w_togo_w/</url>
   </evento>
   <evento>
     <nombre>Lemgo – Wetzlar</nombre>
@@ -6817,6 +6969,14 @@
     <url>https://livetv.sx/es/eventinfo/398805575__/</url>
   </evento>
   <evento>
+    <nombre>Nigeria (M) – Ghana (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. IHF Trophy África</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772832_nigeria_w_ghana_w/</url>
+  </evento>
+  <evento>
     <nombre>Eisenach – Balingen/W</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Alemania. Bundesliga</competicion>
@@ -6833,12 +6993,52 @@
     <url>https://livetv.sx/es/eventinfo/397466308__/</url>
   </evento>
   <evento>
+    <nombre>Chile (M) – Venezuela (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. Trofeo IHF. Sudamérica</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772833_chile_w_venezuela_w/</url>
+  </evento>
+  <evento>
+    <nombre>Colombia (M) – Ecuador (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. Trofeo IHF. Sudamérica</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772834_colombia_w_ecuador_w/</url>
+  </evento>
+  <evento>
+    <nombre>Bolivia (M) – Uruguay (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. Trofeo IHF. Sudamérica</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772835_bolivia_w_uruguay_w/</url>
+  </evento>
+  <evento>
+    <nombre>Togo (M) – Liberia (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. IHF Trophy África</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772836_togo_w_liberia_w/</url>
+  </evento>
+  <evento>
     <nombre>Mosonmagyarovar (M) –  Kisvarda (M)</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Hungría. Mujeres. NB I</competicion>
     <fecha>4 de septiembre</fecha>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/397659782__/</url>
+  </evento>
+  <evento>
+    <nombre>Costa de Marfil (M) – Benín (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. IHF Trophy África</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772825_ivory_coast_w_benin_w/</url>
   </evento>
   <evento>
     <nombre>Veszprem – NEKA</nombre>
@@ -6905,12 +7105,44 @@
     <url>https://livetv.sx/es/eventinfo/397663806__/</url>
   </evento>
   <evento>
+    <nombre>Nigeria (M) – Burkina Faso (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. IHF Trophy África</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772837_nigeria_w_burkina_faso_w/</url>
+  </evento>
+  <evento>
     <nombre>Cesson-Rennes – Nimes</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Francia. Starligue</competicion>
     <fecha>4 de septiembre</fecha>
     <hora>20:30</hora>
     <url>https://livetv.sx/es/eventinfo/397663808__/</url>
+  </evento>
+  <evento>
+    <nombre>Venezuela (M) – Ecuador (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. Trofeo IHF. Sudamérica</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772838_venezuela_w_ecuador_w/</url>
+  </evento>
+  <evento>
+    <nombre>Chile (M) – Colombia (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. Trofeo IHF. Sudamérica</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772839_chile_w_colombia_w/</url>
+  </evento>
+  <evento>
+    <nombre>Uruguay (M) – Perú (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. Trofeo IHF. Sudamérica</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772840_uruguay_w_peru_w/</url>
   </evento>
   <evento>
     <nombre>TMS Ringsted – Ribe-Esbjerg</nombre>
@@ -7241,20 +7473,12 @@
     <url>https://livetv.sx/es/eventinfo/398043872__/</url>
   </evento>
   <evento>
-    <nombre>Arizona – Filadelfia</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>1 de septiembre</fecha>
-    <hora>03:40</hora>
-    <url>https://livetv.sx/es/eventinfo/397023326__/</url>
-  </evento>
-  <evento>
-    <nombre>Cleveland – Toronto</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>2 de septiembre</fecha>
-    <hora>00:40</hora>
-    <url>https://livetv.sx/es/eventinfo/397165536__/</url>
+    <nombre>Panthers – Wests Tigers</nombre>
+    <deporte>Rugby</deporte>
+    <competicion>Australia. NRL</competicion>
+    <fecha>6 de septiembre</fecha>
+    <hora>08:05</hora>
+    <url>https://livetv.sx/es/eventinfo/398067923__/</url>
   </evento>
   <evento>
     <nombre>Tampa Bay – NY Mets</nombre>
@@ -7313,62 +7537,6 @@
     <url>https://livetv.sx/es/eventinfo/397178476__/</url>
   </evento>
   <evento>
-    <nombre>Arizona – Filadelfia</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>2 de septiembre</fecha>
-    <hora>03:40</hora>
-    <url>https://livetv.sx/es/eventinfo/397188209__/</url>
-  </evento>
-  <evento>
-    <nombre>LA Angels – NY Yankees</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>1 de septiembre</fecha>
-    <hora>03:38</hora>
-    <url>https://livetv.sx/es/eventinfo/397023324__/</url>
-  </evento>
-  <evento>
-    <nombre>Doosan Bears – LG Twins</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>Corea del Sur. KBO League</competicion>
-    <fecha>1 de septiembre</fecha>
-    <hora>11:30</hora>
-    <url>https://livetv.sx/es/eventinfo/398768232_doosan_bears_lg_twins/</url>
-  </evento>
-  <evento>
-    <nombre>Kiwoom Heroes – SSG Landers</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>Corea del Sur. KBO League</competicion>
-    <fecha>1 de septiembre</fecha>
-    <hora>11:30</hora>
-    <url>https://livetv.sx/es/eventinfo/398768233_kiwoom_heroes_ssg_landers/</url>
-  </evento>
-  <evento>
-    <nombre>KT Wiz – Hanwa Eagles</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>Corea del Sur. KBO League</competicion>
-    <fecha>1 de septiembre</fecha>
-    <hora>11:30</hora>
-    <url>https://livetv.sx/es/eventinfo/398768234_kt_wiz_hanwa_eagles/</url>
-  </evento>
-  <evento>
-    <nombre>NC Dinos – Kia Tigers</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>Corea del Sur. KBO League</competicion>
-    <fecha>1 de septiembre</fecha>
-    <hora>11:30</hora>
-    <url>https://livetv.sx/es/eventinfo/398768235_nc_dinos_kia_tigers/</url>
-  </evento>
-  <evento>
-    <nombre>Samsung Lions – Lotte Giants</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>Corea del Sur. KBO League</competicion>
-    <fecha>1 de septiembre</fecha>
-    <hora>11:30</hora>
-    <url>https://livetv.sx/es/eventinfo/398768236_samsung_lions_lotte_giants/</url>
-  </evento>
-  <evento>
     <nombre>Minnesota – Detroit</nombre>
     <deporte>Béisbol</deporte>
     <competicion>No especificado</competicion>
@@ -7383,6 +7551,30 @@
     <fecha>2 de septiembre</fecha>
     <hora>02:05</hora>
     <url>https://livetv.sx/es/eventinfo/397178480__/</url>
+  </evento>
+  <evento>
+    <nombre>Arizona – Filadelfia</nombre>
+    <deporte>Béisbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>2 de septiembre</fecha>
+    <hora>03:40</hora>
+    <url>https://livetv.sx/es/eventinfo/397188209__/</url>
+  </evento>
+  <evento>
+    <nombre>Samsung Lions – Lotte Giants</nombre>
+    <deporte>Béisbol</deporte>
+    <competicion>Corea del Sur. KBO League</competicion>
+    <fecha>1 de septiembre</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398768236_samsung_lions_lotte_giants/</url>
+  </evento>
+  <evento>
+    <nombre>Cleveland – Toronto</nombre>
+    <deporte>Béisbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>2 de septiembre</fecha>
+    <hora>00:40</hora>
+    <url>https://livetv.sx/es/eventinfo/397165536__/</url>
   </evento>
   <evento>
     <nombre>Houston – Chi White Sox</nombre>

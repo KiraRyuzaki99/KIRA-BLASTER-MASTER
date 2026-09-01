@@ -15,28 +15,29 @@ OUTPUT_DIR = "output"
 
 # Script della repo originale (nella radice)
 REPO_SCRIPTS = [
-    "script_lista_livetv_sx.py",
-    "script_lista_livetv_sx_reproductores.py",
-    "script_canales_acestream.py",
-    "script_reproductor_web.py",
-    "script_logo.py",
-    "script_detector_deportes.py",
-    "script_detector_mistral.py",
-    "script_scraper_acestream_api.py",
+    "scripts/repo/script_lista_livetv_sx.py",
+    "scripts/repo/script_lista_livetv_sx_reproductores.py",
+    "scripts/repo/script_canales_acestream.py",
+    "scripts/repo/script_reproductor_web.py",
+    "scripts/repo/script_logo.py",
+    "scripts/repo/script_detector_deportes.py",
+    "scripts/repo/script_detector_mistral.py",
+    "scripts/repo/script_scraper_acestream_api.py",
 ]
 
 # TUOI script (in ordine)
 TUOI_SCRIPTS = [
-    "Pydroid_Spo.py",
-    "genera_spo_html.py",
-    "Pydroid_Ica.py",
-    "genera_ica_txt.py",
-    "genera_ica_html.py",
-    "HatOggi.py",
-    "HatOggiDomani.py",
-    "PyGenHtmlM3U.py",
-    "genera_livetv.py",
-    "scraper_mamahd.py",
+    "scripts/personali/Pydroid_Spo.py",
+    "scripts/personali/genera_spo_html.py",
+    "scripts/personali/Pydroid_Ica.py",
+    "scripts/personali/genera_ica_txt.py",
+    "scripts/personali/genera_ica_html.py",
+    "scripts/personali/HatOggi.py",
+    "scripts/personali/HatOggiDomani.py",
+    "scripts/personali/PydroidRojaStV1.py",
+    "scripts/personali/PyGenHtmlM3U.py",
+    "scripts/personali/genera_livetv.py",
+    "scripts/personali/scraper_mamahd.py",
 ]
 
 def log(msg: str):

@@ -1,36 +1,44 @@
 #EXTM3U
 #EXTGRP:Championship
-#EXTINF:-1 group-title="Championship",⏳NEXT 02/09 21:00 - Stoke City vs Norwich City
-https://streamxhd.com/live1.php?stream=disney1
+#EXTINF:-1 group-title="Championship",⏳NEXT 02/09 21:00 - Burnley vs Middlesbrough
+https://streamxhd.com/live1.php?stream=disney2
 #EXTGRP:Ciclismo
 #EXTINF:-1 group-title="Ciclismo",⏳NEXT 02/09 14:45 - La Vuelta - Etapa #10
 https://streamxhd.com/live1.php?stream=espn2
-#EXTGRP:Copa Italia
-#EXTINF:-1 group-title="Copa Italia",⏳NEXT 02/09 18:00 - Parma vs Cremonese
-https://streamxhd.com/live1.php?stream=dsports2
-#EXTINF:-1 group-title="Copa Italia",⏳NEXT 02/09 21:00 - Torino vs Monza
-https://streamxhd.com/live1.php?stream=dsports
+#EXTGRP:Copa Argentina
+#EXTINF:-1 group-title="Copa Argentina",⏳NEXT 03/09 02:15 - Vélez Sarsfield vs Boca Juniors
+https://streamxhd.com/live1.php?stream=tycsports
+#EXTGRP:Copa Uruguay
+#EXTINF:-1 group-title="Copa Uruguay",⏳NEXT 03/09 01:00 - Atenas vs Peñarol
+https://streamxhd.com/live1.php?stream=evento1
 #EXTGRP:Copa de Brasil
-#EXTINF:-1 group-title="Copa de Brasil",⏳NEXT 03/09 02:00 - Atlético Mineiro vs Cruzeiro
+#EXTINF:-1 group-title="Copa de Brasil",⏳NEXT 03/09 02:30 - Santos vs Palmeiras
 https://streamxhd.com/live1.php?stream=dsports
-#EXTGRP:Copa de Rusia
-#EXTINF:-1 group-title="Copa de Rusia",⏳NEXT 02/09 15:15 - Akron vs Lokomotiv Moskva
+#EXTINF:-1 group-title="Copa de Brasil",⏳NEXT 03/09 02:30 - Vitória vs Vasco da Gama
+https://streamxhd.com/live1.php?stream=amazon1
+#EXTGRP:Copa de Italia
+#EXTINF:-1 group-title="Copa de Italia",⏳NEXT 02/09 15:00 - Sassuolo vs Frosinone
+https://streamxhd.com/live1.php?stream=dsports
+#EXTINF:-1 group-title="Copa de Italia",⏳NEXT 02/09 18:00 - Udinese vs Venezia
 https://streamxhd.com/live1.php?stream=dsports2
-#EXTINF:-1 group-title="Copa de Rusia",⏳NEXT 02/09 19:45 - Rostov vs CSKA Moskva
+#EXTGRP:Copa de Rusia
+#EXTINF:-1 group-title="Copa de Rusia",⏳NEXT 02/09 17:30 - Zenit vs Dynamo Makhachkala
+https://streamxhd.com/live1.php?stream=dsportsplus
+#EXTINF:-1 group-title="Copa de Rusia",⏳NEXT 02/09 19:45 - Spartak Moskva vs Rodina Moskva
 https://streamxhd.com/live1.php?stream=dsportsplus
 #EXTGRP:DFB Pokal
-#EXTINF:-1 group-title="DFB Pokal",⏳NEXT 02/09 20:45 - HEBC vs Borussia Dortmund
-https://streamxhd.com/live1.php?stream=como1
+#EXTINF:-1 group-title="DFB Pokal",⏳NEXT 02/09 20:45 - Osnabrück vs Bayern München
+https://streamxhd.com/live1.php?stream=disney1
 #EXTGRP:Fútbol
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 02/09 02:00 - Copa do Brasil: Atlético Mineiro vs Cruzeiro
+#EXTINF:-1 group-title="Fútbol",✅END 02/09 02:00 - Copa do Brasil: Atlético Mineiro vs Cruzeiro
 https://latamplay1.click/channel/dsports.html
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 02/09 02:00 - Copa do Brasil: Atlético Mineiro vs Cruzeiro
+#EXTINF:-1 group-title="Fútbol",✅END 02/09 02:00 - Copa do Brasil: Atlético Mineiro vs Cruzeiro
 https://streamx061.sbs/global1.php?channel=dsports
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 02/09 02:00 - Copa do Brasil: Atlético Mineiro vs Cruzeiro
+#EXTINF:-1 group-title="Fútbol",✅END 02/09 02:00 - Copa do Brasil: Atlético Mineiro vs Cruzeiro
 https://streamx061.sbs/global1.php?channel=premiere1
-#EXTINF:-1 group-title="Fútbol",⏳NEXT 02/09 03:00 - Liga BetPlay: Fortaleza CEIF vs Once Caldas
+#EXTINF:-1 group-title="Fútbol",🔴LIVE 02/09 03:00 - Liga BetPlay: Fortaleza CEIF vs Once Caldas
 https://streamx061.sbs/global1.php?channel=fanatiz3
-#EXTINF:-1 group-title="Fútbol",⏳NEXT 02/09 03:00 - Liga BetPlay: Fortaleza CEIF vs Once Caldas
+#EXTINF:-1 group-title="Fútbol",🔴LIVE 02/09 03:00 - Liga BetPlay: Fortaleza CEIF vs Once Caldas
 https://streamx061.sbs/global1.php?channel=winplus
 #EXTINF:-1 group-title="Fútbol",⏳NEXT 02/09 15:00 - Copa de Italia: Sassuolo vs Frosinone
 https://latamplay1.click/channel/dsports.html
@@ -102,31 +110,50 @@ https://streamx061.sbs/global1.php?channel=mls2
 https://streamx061.sbs/global1.php?channel=tudnus
 #EXTINF:-1 group-title="Fútbol",⏳NEXT 03/09 05:00 - Leagues Cup: América vs Monterrey
 https://streamx061.sbs/global1.php?channel=tudnmx
-#EXTGRP:Liga Arabia Saudita
-#EXTINF:-1 group-title="Liga Arabia Saudita",⏳NEXT 02/09 20:00 - Al Hilal vs Al-Ahli
-https://streamxhd.com/live1.php?stream=foxone
+#EXTGRP:Leagues Cup
+#EXTINF:-1 group-title="Leagues Cup",⏳NEXT 03/09 03:00 - Toluca vs León
+https://streamxhd.com/live1.php?stream=appletv1
+#EXTINF:-1 group-title="Leagues Cup",⏳NEXT 03/09 05:30 - América vs Monterrey
+https://streamxhd.com/live1.php?stream=appletv2
+#EXTGRP:Liga Chile
+#EXTINF:-1 group-title="Liga Chile",⏳NEXT 03/09 00:00 - Coquimbo Unido vs Univ. Concepción
+https://streamxhd.com/live1.php?stream=tntsportschile
+#EXTINF:-1 group-title="Liga Chile",⏳NEXT 03/09 02:30 - Deportes Limache vs Ñublense
+https://streamxhd.com/live1.php?stream=tntsportschile
 #EXTGRP:Liga Colombia
 #EXTINF:-1 group-title="Liga Colombia",⏳NEXT 03/09 03:00 - Fortaleza CEIF vs Once Caldas
 https://streamxhd.com/live1.php?stream=fanatiz1
+#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 03/09 03:25 - Santa Fe vs Millonarios
+https://streamxhd.com/live1.php?stream=winplus
 #EXTGRP:Liga Ecuador
-#EXTINF:-1 group-title="Liga Ecuador",⏳NEXT 02/09 23:30 - Delfín vs Técnico Universitario
+#EXTINF:-1 group-title="Liga Ecuador",⏳NEXT 02/09 21:00 - Macará vs Manta
 https://streamxhd.com/live1.php?stream=zapping_ec
-#EXTINF:-1 group-title="Liga Ecuador",⏳NEXT 03/09 02:00 - LDU Quito vs Mushuc Runa
+#EXTINF:-1 group-title="Liga Ecuador",⏳NEXT 02/09 23:30 - Deportivo Cuenca vs Guayaquil City
+https://streamxhd.com/live1.php?stream=zapping_ec
+#EXTINF:-1 group-title="Liga Ecuador",⏳NEXT 03/09 02:00 - Barcelona vs Independiente del Valle
 https://streamxhd.com/live1.php?stream=zapping_ec
 #EXTGRP:Liga Paraguay
-#EXTINF:-1 group-title="Liga Paraguay",⏳NEXT 02/09 21:00 - Rubio Ñú vs Sportivo San Lorenzo
+#EXTINF:-1 group-title="Liga Paraguay",⏳NEXT 02/09 21:00 - Sportivo Ameliano vs Sportivo Trinidense
 https://streamxhd.com/live1.php?stream=tigo1
-#EXTINF:-1 group-title="Liga Paraguay",⏳NEXT 02/09 23:30 - 2 de Mayo vs Sportivo Luqueño
+#EXTINF:-1 group-title="Liga Paraguay",⏳NEXT 02/09 21:00 - Nacional Asunción vs Libertad
+https://streamxhd.com/live1.php?stream=tigo2
+#EXTINF:-1 group-title="Liga Paraguay",⏳NEXT 02/09 23:30 - Olimpia vs Guaraní
 https://streamxhd.com/live1.php?stream=tigo1
 #EXTGRP:MLB
 #EXTINF:-1 group-title="MLB",⏳NEXT 03/09 03:30 - Arizona Diamondbacks vs Philadelphia Phillies
 https://streamxhd.com/live1.php?stream=espn4
+#EXTINF:-1 group-title="MLB",⏳NEXT 03/09 03:30 - Arizona Diamondbacks vs Philadelphia Phillies
+https://streamxhd.com/live1.php?stream=espn4
 #EXTGRP:US Open
-#EXTINF:-1 group-title="US Open",⏳NEXT 02/09 17:00 - F. Comesana (ARG) vs. F. Cobolli (ITA)
+#EXTINF:-1 group-title="US Open",⏳NEXT 02/09 17:00 - Cobertura 2 | En español
 https://streamxhd.com/live1.php?stream=espn3
-#EXTINF:-1 group-title="US Open",⏳NEXT 02/09 18:00 - F. Misolic (AUT) vs. F. Cerundolo (ARG)
+#EXTINF:-1 group-title="US Open",⏳NEXT 02/09 18:00 - Cobertura 1 | En español
 https://streamxhd.com/live1.php?stream=espn2
 #EXTINF:-1 group-title="US Open",⏳NEXT 03/09 01:00 - US Open | Cobertura 1 | En español
 https://streamxhd.com/live1.php?stream=espn2
 #EXTINF:-1 group-title="US Open",⏳NEXT 03/09 01:00 - US Open | Cobertura 2 | En español
+https://streamxhd.com/live1.php?stream=espn3
+#EXTINF:-1 group-title="US Open",⏳NEXT 03/09 01:00 - Cobertura 1 | En español
+https://streamxhd.com/live1.php?stream=espn2
+#EXTINF:-1 group-title="US Open",⏳NEXT 03/09 01:00 - Cobertura 2 | En español
 https://streamxhd.com/live1.php?stream=espn3

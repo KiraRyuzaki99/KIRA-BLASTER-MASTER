@@ -1,17 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",18:00 - Udinese vs Venezia
-https://embed.st/embed/admin/ppv-udinese-vs-venezia/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Football",20:00 - Doncaster vs Liverpool U21
+https://sportora.ru/watch/doncaster-vs-liverpool-u21-football-1588859
 
-#EXTINF:-1 group-title="Football",18:00 - Udinese vs Venezia
-https://embed.st/embed/admin/ppv-udinese-vs-venezia/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Football",20:00 - AGF Aarhus vs FC Midtjylland
+https://sportora.ru/watch/agf-aarhus-vs-fc-midtjylland-2481826
 
-#EXTINF:-1 group-title="Football",18:00 - Udinese vs Venezia
-https://embed.st/embed/delta/live_coppa-italia_udinese-venezia-live-streaming-612931536/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",19:05 - Washington Nationals vs Atlanta Braves
+https://embed.st/embed/admin/ppv-atlanta-braves-vs-washington-nationals/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Other",16:30 - US Open 🎾
-https://sportora.ru/watch/us-open-roland-2026
+#EXTINF:-1 group-title="Baseball",19:05 - Washington Nationals vs Atlanta Braves
+https://embed.st/embed/admin/ppv-atlanta-braves-vs-washington-nationals/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:05 - Washington Nationals vs Atlanta Braves
+https://embed.st/embed/delta/live_mlb_nationals-braves-live-streaming-594031968/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:05 - Washington Nationals vs Atlanta Braves
+https://embed.st/embed/delta/live_mlb_nationals-braves-live-streaming-594031968/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:05 - Washington Nationals vs Atlanta Braves
+https://embed.st/embed/golf/768/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",18:40 - Cincinnati Reds vs San Diego Padres
 https://embed.st/embed/admin/ppv-san-diego-padres-vs-cincinnati-reds/1#player=clappr&autoplay=true
@@ -27,21 +36,6 @@ https://embed.st/embed/delta/live_mlb_reds-padres-live-streaming-594031536/2#pla
 
 #EXTINF:-1 group-title="Baseball",18:40 - Cincinnati Reds vs San Diego Padres
 https://embed.st/embed/golf/767/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",19:05 - Washington Nationals vs Atlanta Braves
-https://embed.st/embed/admin/ppv-atlanta-braves-vs-washington-nationals/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",19:05 - Washington Nationals vs Atlanta Braves
-https://embed.st/embed/admin/ppv-atlanta-braves-vs-washington-nationals/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",19:05 - Washington Nationals vs Atlanta Braves
-https://embed.st/embed/golf/768/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:00 - Doncaster vs Liverpool U21
-https://sportora.ru/watch/doncaster-vs-liverpool-u21-football-1588859
-
-#EXTINF:-1 group-title="Football",20:00 - AGF Aarhus vs FC Midtjylland
-https://sportora.ru/watch/agf-aarhus-vs-fc-midtjylland-2481826
 
 #EXTINF:-1 group-title="Football",20:30 - Sint-Truiden vs Union Saint-Gilloise
 https://embed.st/embed/admin/ppv-sint-truidense-vs-union-st-gilloise/1#player=clappr&autoplay=true
@@ -63,6 +57,9 @@ https://embed.st/embed/admin/ppv-athletics-vs-texas-rangers/1#player=clappr&auto
 
 #EXTINF:-1 group-title="Baseball",20:35 - Texas Rangers vs Athletics
 https://embed.st/embed/admin/ppv-athletics-vs-texas-rangers/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",20:35 - Texas Rangers vs Athletics
+https://embed.st/embed/delta/live_mlb_rangers-athletics-live-streaming-594032400/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",20:35 - Texas Rangers vs Athletics
 https://embed.st/embed/golf/769/1#player=clappr&autoplay=true
@@ -97,11 +94,17 @@ https://embed.st/embed/admin/ppv-west-bromwich-albion-vs-charlton-athletic/1#pla
 #EXTINF:-1 group-title="Football",20:45 - West Bromwich Albion vs Charlton Athletic
 https://embed.st/embed/admin/ppv-west-bromwich-albion-vs-charlton-athletic/2#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Football",20:45 - West Bromwich Albion vs Charlton Athletic
+https://embed.st/embed/delta/live_championship_west-brom-charlton-live-streaming-612946656/1#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Football",20:45 - Millwall vs Wrexham
 https://embed.st/embed/admin/ppv-millwall-vs-wrexham/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Millwall vs Wrexham
 https://embed.st/embed/admin/ppv-millwall-vs-wrexham/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Millwall vs Wrexham
+https://embed.st/embed/delta/live_championship_millwall-wrexham-live-streaming-612945792/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Luton Town vs Stockport County
 https://sportora.ru/watch/luton-town-vs-stockport-county-2500742
@@ -125,7 +128,13 @@ https://sportora.ru/watch/dundee-vs-st-johnstone-2494437
 https://sportora.ru/watch/kilmarnock-vs-st-mirren-2494436
 
 #EXTINF:-1 group-title="Football",20:45 - Celtic vs Aberdeen
-https://sportora.ru/watch/celtic-vs-aberdeen-2494434
+https://embed.st/embed/admin/ppv-celtic-vs-aberdeen/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Celtic vs Aberdeen
+https://embed.st/embed/admin/ppv-celtic-vs-aberdeen/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Celtic vs Aberdeen
+https://embed.st/embed/delta/live_premiership_celtic-aberdeen-live-streaming-612927216/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Osnabrück vs Bayern Munich
 https://sportora.ru/watch/osnabr-ck-vs-bayern-munich-2483317
@@ -136,11 +145,14 @@ https://embed.st/embed/admin/ppv-burnley-vs-middlesbrough/1#player=clappr&autopl
 #EXTINF:-1 group-title="Football",21:00 - Burnley vs Middlesbrough
 https://embed.st/embed/admin/ppv-burnley-vs-middlesbrough/2#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Football",21:00 - Burnley vs Middlesbrough
+https://embed.st/embed/delta/live_championship_burnley-middlesbrough-live-streaming-612947088/1#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Football",21:00 - Reading vs Mansfield Town
 https://sportora.ru/watch/reading-vs-mansfield-town-2500744
 
 #EXTINF:-1 group-title="Football",21:00 - Falkirk vs Rangers
-https://sportora.ru/watch/falkirk-vs-rangers-2494439
+https://embed.st/embed/delta/live_premiership_falkirk-rangers-live-streaming-612928944/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",21:10 - Colorado Rockies vs Baltimore Orioles
 https://embed.st/embed/admin/ppv-baltimore-orioles-vs-colorado-rockies/1#player=clappr&autoplay=true
@@ -186,6 +198,9 @@ https://embed.st/embed/admin/ppv-san-francisco-giants-vs-pittsburgh-pirates/1#pl
 
 #EXTINF:-1 group-title="Baseball",00:40 - Pittsburgh Pirates vs San Francisco Giants
 https://embed.st/embed/admin/ppv-san-francisco-giants-vs-pittsburgh-pirates/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Pittsburgh Pirates vs San Francisco Giants
+https://embed.st/embed/delta/live_mlb_pirates-giants-live-streaming-594034560/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Pittsburgh Pirates vs San Francisco Giants
 https://embed.st/embed/golf/774/1#player=clappr&autoplay=true

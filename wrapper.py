@@ -38,6 +38,7 @@ TUOI_SCRIPTS = [
     "scripts/personali/PyGenHtmlM3U.py",
     "scripts/personali/genera_livetv.py",
     "scripts/personali/scraper_mamahd.py",
+    "scripts/personali/mamahdday.py",
 ]
 
 def log(msg: str):

@@ -17,8 +17,8 @@ from html import escape
 # ============================================================
 
 API_URL = "https://mamahd.co/api.php"
-OUTPUT_HTML = "Kira_MamaHD.html"
-OUTPUT_M3U = "MamaHD_playlist.m3u"
+OUTPUT_HTML = "Kira_Mam.html"
+OUTPUT_M3U = "Mama_playlist.m3u"
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0',
@@ -260,7 +260,7 @@ def generate_html(events_by_day):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kira MamaHD - Eventi di OGGI</title>
+    <title>KIRA GSI - Eventi di OGGI</title>
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Audiowide&family=Grotesk:wght@400;700&display=swap" rel="stylesheet">
     <style>
         * {{ margin: 0; padding: 0; box-sizing: border-box; }}
@@ -518,7 +518,7 @@ def generate_html(events_by_day):
     <div class="matrix-bg"></div>
     <div class="container">
         <header class="header">
-            <h1>⚡ MAMAHD OGGI ⚡</h1>
+            <h1>KIRA SPORT GATE</h1>
             <p class="subtitle">• Eventi Sportivi di Oggi •</p>
         </header>
         
@@ -533,7 +533,7 @@ def generate_html(events_by_day):
         </div>
         
         <footer class="footer">
-            <p class="neon-text">🔮 MamaHD • Eventi di oggi • {datetime.now().year} • Powered by KIRA</p>
+            <p class="neon-text">🔮 GSI Group • Eventi di oggi • {datetime.now().year} • Powered by KIRA GSI</p>
         </footer>
     </div>
     

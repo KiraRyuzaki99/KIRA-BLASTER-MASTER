@@ -1,26 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",15:00 - Sassuolo vs Frosinone
-https://embed.st/embed/admin/ppv-sassuolo-vs-frosinone/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",15:00 - Sassuolo vs Frosinone
-https://embed.st/embed/admin/ppv-sassuolo-vs-frosinone/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",15:00 - Sassuolo vs Frosinone
-https://embed.st/embed/delta/live_coppa-italia_sassuolo-frosinone-live-streaming-612537984/1#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Football",18:00 - Udinese vs Venezia
 https://embed.st/embed/admin/ppv-udinese-vs-venezia/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:00 - Udinese vs Venezia
 https://embed.st/embed/admin/ppv-udinese-vs-venezia/2#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Football",18:00 - Udinese vs Venezia
+https://embed.st/embed/delta/live_coppa-italia_udinese-venezia-live-streaming-612931536/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Other",16:30 - US Open 🎾
+https://sportora.ru/watch/us-open-roland-2026
+
 #EXTINF:-1 group-title="Baseball",18:40 - Cincinnati Reds vs San Diego Padres
 https://embed.st/embed/admin/ppv-san-diego-padres-vs-cincinnati-reds/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",18:40 - Cincinnati Reds vs San Diego Padres
 https://embed.st/embed/admin/ppv-san-diego-padres-vs-cincinnati-reds/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",18:40 - Cincinnati Reds vs San Diego Padres
+https://embed.st/embed/delta/live_mlb_reds-padres-live-streaming-594031536/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",18:40 - Cincinnati Reds vs San Diego Padres
+https://embed.st/embed/delta/live_mlb_reds-padres-live-streaming-594031536/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",18:40 - Cincinnati Reds vs San Diego Padres
 https://embed.st/embed/golf/767/1#player=clappr&autoplay=true

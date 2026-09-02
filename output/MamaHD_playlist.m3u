@@ -3,24 +3,6 @@
 
 # Playlist: Wednesday, 02 September 2026
 
-#EXTINF:-1 group-title="Wednesday, 02 September 2026 - Italy Coppa Italia",16:00 - Sassuolo VS Frosinone - Canal 1
-https://ch.nexa.st/ch.php?id=1
-
-#EXTINF:-1 group-title="Wednesday, 02 September 2026 - Italy Coppa Italia",16:00 - Sassuolo VS Frosinone - Canal 1
-https://s3.kora.st/live?id=1
-
-#EXTINF:-1 group-title="Wednesday, 02 September 2026 - Italy Coppa Italia",16:00 - Sassuolo VS Frosinone - Canal 1
-https://playfa.st/ch.php?id=1
-
-#EXTINF:-1 group-title="Wednesday, 02 September 2026 - Greece Greek Cup",17:00 - Nestos Chrysoupolis VS AEK Athens - Canal 23
-https://ch.nexa.st/ch.php?id=23
-
-#EXTINF:-1 group-title="Wednesday, 02 September 2026 - Greece Greek Cup",17:00 - Nestos Chrysoupolis VS AEK Athens - Canal 23
-https://s3.kora.st/live?id=23
-
-#EXTINF:-1 group-title="Wednesday, 02 September 2026 - Greece Greek Cup",17:00 - Nestos Chrysoupolis VS AEK Athens - Canal 23
-https://playfa.st/ch.php?id=23
-
 #EXTINF:-1 group-title="Wednesday, 02 September 2026 - Italy Coppa Italia",19:00 - Udinese VS Venezia - Canal 1
 https://ch.nexa.st/ch.php?id=1
 
@@ -3245,13 +3227,13 @@ https://ch.nexa.st/ch.php?id=30
 #EXTINF:-1 group-title="Sunday, 06 September 2026 - Mexico Liga MX",21:00 - Pumas UNAM VS León - Canal 30
 https://s3.kora.st/live?id=30
 
-#EXTINF:-1 group-title="Sunday, 06 September 2026 - Canadian Tire Motorsport Park",21:00 -  - Canal 32
+#EXTINF:-1 group-title="Sunday, 06 September 2026 - NASCAR Canada Series",21:00 -  - Canal 32
 https://ch.nexa.st/ch.php?id=32
 
-#EXTINF:-1 group-title="Sunday, 06 September 2026 - Canadian Tire Motorsport Park",21:00 -  - Canal 32
+#EXTINF:-1 group-title="Sunday, 06 September 2026 - NASCAR Canada Series",21:00 -  - Canal 32
 https://s3.kora.st/live?id=32
 
-#EXTINF:-1 group-title="Sunday, 06 September 2026 - Canadian Tire Motorsport Park",21:00 -  - Canal 32
+#EXTINF:-1 group-title="Sunday, 06 September 2026 - NASCAR Canada Series",21:00 -  - Canal 32
 https://playfa.st/ch.php?id=32
 
 #EXTINF:-1 group-title="Sunday, 06 September 2026 - Croatia 1. HNL",21:00 - Slaven Koprivnica VS Lokomotiva Zagreb - Canal 70
@@ -3352,6 +3334,21 @@ https://s3.kora.st/live?id=26
 
 #EXTINF:-1 group-title="Sunday, 06 September 2026 - Spain Segunda Division",22:00 - Almería VS Cádiz - Canal 26
 https://playfa.st/ch.php?id=26
+
+#EXTINF:-1 group-title="Sunday, 06 September 2026 - France TOP 14",22:05 - La Rochelle VS Toulouse - Canal 27
+https://ch.nexa.st/ch.php?id=27
+
+#EXTINF:-1 group-title="Sunday, 06 September 2026 - France TOP 14",22:05 - La Rochelle VS Toulouse - Canal 27
+https://s3.kora.st/live?id=27
+
+#EXTINF:-1 group-title="Sunday, 06 September 2026 - France TOP 14",22:05 - La Rochelle VS Toulouse - Canal 27
+https://playfa.st/ch.php?id=27
+
+#EXTINF:-1 group-title="Sunday, 06 September 2026 - France TOP 14",22:05 - La Rochelle VS Toulouse - Canal 31
+https://ch.nexa.st/ch.php?id=31
+
+#EXTINF:-1 group-title="Sunday, 06 September 2026 - France TOP 14",22:05 - La Rochelle VS Toulouse - Canal 31
+https://s3.kora.st/live?id=31
 
 #EXTINF:-1 group-title="Sunday, 06 September 2026 - Portugal Primeira Liga",22:30 - Gil Vicente VS Academico Viseu - Canal 21
 https://ch.nexa.st/ch.php?id=21

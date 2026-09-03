@@ -1,17 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Cycling – La Vuelta",Oggi 12:45 - Vuelta a España, Stage 12 [HD]
+#EXTINF:-1 group-title="Cycling – La Vuelta",Oggi 12:45 - Vuelta a España, Stage 12 [FHD]
 https://august.ppvtv.icu/embed.html?match=cai3se0&server=0
 
-#EXTINF:-1 group-title="Cycling – La Vuelta",Oggi 12:45 - Vuelta a España, Stage 12 [HD]
+#EXTINF:-1 group-title="Cycling – La Vuelta",Oggi 12:45 - Vuelta a España, Stage 12 [FHD]
 https://august.ppvtv.icu/embed.html?match=cai3se0&server=1
 
-#EXTINF:-1 group-title="Cricket – 2nd ODI",Oggi 14:00 - England W vs Ireland W [HD]
+#EXTINF:-1 group-title="Cricket – 2nd ODI",Oggi 14:00 - England W vs Ireland W [FHD]
 https://august.ppvtv.icu/embed.html?match=f1tvgbyf&server=0
 
-#EXTINF:-1 group-title="Cricket – 2nd ODI",Oggi 14:00 - England W vs Ireland W [HD]
+#EXTINF:-1 group-title="Cricket – 2nd ODI",Oggi 14:00 - England W vs Ireland W [FHD]
 https://august.ppvtv.icu/embed.html?match=f1tvgbyf&server=1
+
+#EXTINF:-1 group-title="Golf – World Snooker Tour",Oggi 14:00 - British Open: Terzo turno [FHD]
+https://august.ppvtv.icu/embed.html?match=c1boyayi&server=0
+
+#EXTINF:-1 group-title="Golf – World Snooker Tour",Oggi 14:00 - British Open: Terzo turno [FHD]
+https://august.ppvtv.icu/embed.html?match=c1boyayi&server=1
 
 #EXTINF:-1 group-title="Football – Premier League",Oggi 16:00 - FC Isloch Minsk R. vs Bate Borisov [WHD]
 https://august.ppvtv.icu/embed.html?match=f140xg3&server=0
@@ -48,6 +54,12 @@ https://august.ppvtv.icu/embed.html?match=f1lqga10&server=0
 
 #EXTINF:-1 group-title="Baseball – MLB",Oggi 19:10 - Toronto Blue Jays vs Cleveland Guardians [HD]
 https://august.ppvtv.icu/embed.html?match=f1lqga10&server=1
+
+#EXTINF:-1 group-title="Golf – World Snooker Tour",Oggi 20:00 - British Open: Quarto turno [FHD]
+https://august.ppvtv.icu/embed.html?match=c1x0o8pi&server=0
+
+#EXTINF:-1 group-title="Golf – World Snooker Tour",Oggi 20:00 - British Open: Quarto turno [FHD]
+https://august.ppvtv.icu/embed.html?match=c1x0o8pi&server=1
 
 #EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al Diriyah vs Al-Qadisiyah FC [FHD]
 https://august.ppvtv.icu/embed.html?match=f1jtrg5k&server=0

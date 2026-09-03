@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
+#EXTINF:-1 group-title="Afl",12:10 - Fremantle Dockers vs Hawthorn Hawks
+https://sportora.ru/watch/fremantle-dockers-vs-hawthorn-hawks-australian-football-3625
+
 #EXTINF:-1 group-title="Rugby",11:50 - Canterbury Bankstown Bulldogs vs Brisbane Broncos
 https://embed.st/embed/admin/ppv-bulldogs-vs-broncos/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Rugby",11:50 - Canterbury Bankstown Bulldogs vs Brisbane Broncos
 https://embed.st/embed/admin/ppv-bulldogs-vs-broncos/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Afl",12:10 - Fremantle Dockers vs Hawthorn Hawks
-https://sportora.ru/watch/fremantle-dockers-vs-hawthorn-hawks-australian-football-3625
 
 #EXTINF:-1 group-title="Rugby",12:50 - Western Bulldogs vs Broncos
 https://sportora.ru/watch/bulldogs-vs-broncos-game-236363
@@ -17,7 +17,10 @@ https://sportora.ru/watch/bulldogs-vs-broncos-game-236363
 https://sportora.ru/watch/al-fayha-vs-al-kholood-2573337
 
 #EXTINF:-1 group-title="Football",18:00 - Palermo vs Mantova
-https://sportora.ru/watch/palermo-vs-mantova-2579100
+https://embed.st/embed/admin/ppv-palermo-vs-mantova/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:00 - Palermo vs Mantova
+https://embed.st/embed/admin/ppv-palermo-vs-mantova/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:00 - Raków Częstochowa vs Górnik Zabrze
 https://sportora.ru/watch/rak-w-cz-stochowa-vs-g-rnik-zabrze-2490232
@@ -95,13 +98,22 @@ https://embed.st/embed/admin/ppv-toulouse-vs-lille/1#player=clappr&autoplay=true
 https://embed.st/embed/admin/ppv-toulouse-vs-lille/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Cagliari vs Hellas Verona
-https://sportora.ru/watch/cagliari-vs-hellas-verona-2578589
+https://embed.st/embed/admin/ppv-cagliari-vs-hellas-verona/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Cagliari vs Hellas Verona
+https://embed.st/embed/admin/ppv-cagliari-vs-hellas-verona/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Real Sociedad vs Celta Vigo
 https://embed.st/embed/admin/ppv-real-sociedad-vs-celta-vigo/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Real Sociedad vs Celta Vigo
 https://embed.st/embed/admin/ppv-real-sociedad-vs-celta-vigo/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Real Sociedad vs Celta Vigo
+https://embed.st/embed/admin/ppv-real-sociedad-vs-celta-vigo/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Real Sociedad vs Celta Vigo
+https://embed.st/embed/admin/ppv-real-sociedad-vs-celta-vigo/4#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="American-football",23:00 - Montclair State Red Hawks vs Merchant Marine Mariners
 https://embed.st/embed/delta/live_cfb_montclair-state-red-hawks-merchant-marine-mariners-live-streaming-592505712/1#player=clappr&autoplay=true
@@ -143,4 +155,4 @@ https://sportora.ru/watch/live_cfb_assumption-college-greyhounds-kutztown-golden
 https://sportora.ru/watch/morehead-state-vs-kentucky-christian-2598494
 
 #EXTINF:-1 group-title="Fight",00:30 - Lenar Perez vs Thabiso Mchunu
-https://sportora.ru/watch/lenar-perez-vs-thabiso-mchunu-2594490
+https://embed.st/embed/delta/live-event_lenar-perez-vs-thabiso-mchunu-live-stream/1#player=clappr&autoplay=true

@@ -609,9 +609,9 @@ def main():
     # Genera HTML
     html_output = generate_html(
         grouped_events,
-        title="HTSport Live - Eventi di OGGI",
-        header="⚡ HTSPORT OGGI ⚡",
-        footer="🔮 HTSport • Solo eventi del giorno • 2026 • Powered by Matrix"
+        title="CYBER GATE ACCESS - Eventi di Oggi",
+        header="KIRA GATE ACCESS",
+        footer="KIRA GSI SPORT • Eventi in Diretta • 2026 • Developed by KIRA GSI GROUP"
     )
     
     # Salva il file

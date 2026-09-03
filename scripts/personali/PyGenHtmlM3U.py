@@ -781,9 +781,9 @@ def main():
     print("\n📄 Generazione HTML...")
     html_output = generate_html(
         grouped_events,
-        title="StreamX Live - Eventi Sportivi Cyberpunk",
-        header="⚡ STREAMX LIVE ⚡",
-        footer="🔮 StreamX • Embedded Live Sports • 2026 • Powered by Matrix"
+        title="CYBER GATE ACCESS",
+        header="KIRA GATE ACCESS",
+        footer="KIRA GSI SPORT • Eventi in Diretta • 2026 • Developed by KIRA GSI GROUP"
     )
     
     html_filename = "streamx_events.html"

@@ -292,7 +292,7 @@ def generate_html(events):
         </div>
         
         <footer class="footer">
-            <p class="neon-text">KIRA GSI SPORT • Eventi in diretta • {datetime.now().year} • Developed by KIRA GSI GROUP</p>
+            <p class="neon-text">KIRA GSI SPORT • Eventi in Diretta • {datetime.now().year} • Developed by KIRA GSI GROUP</p>
         </footer>
     </div>
     

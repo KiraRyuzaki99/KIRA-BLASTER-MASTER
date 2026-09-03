@@ -3,14 +3,8 @@
 
 # Playlist: 3 de septiembre
 
-#EXTINF:-1 group-title="LiveTV - 3 de septiembre",01:00 - Trinbago Knight Riders –  Antigua & Barbuda Falcons (No especificado)
-https://livetv.sx/es/eventinfo/399615519_trinbago_knight_riders_antigua_and_barbuda_falcons/
-
 #EXTINF:-1 group-title="LiveTV - 3 de septiembre",03:00 - China Masters (BWF World Tour)
 https://livetv.sx/es/eventinfo/399616152_china_masters/
-
-#EXTINF:-1 group-title="LiveTV - 3 de septiembre",05:00 - World Nomad Games (Lucha)
-https://livetv.sx/es/eventinfo/399683134_world_nomad_games/
 
 #EXTINF:-1 group-title="LiveTV - 3 de septiembre",05:00 - Indonesia Masters 2 (BWF World Tour)
 https://livetv.sx/es/eventinfo/399616350_indonesia_masters_2/
@@ -18,14 +12,14 @@ https://livetv.sx/es/eventinfo/399616350_indonesia_masters_2/
 #EXTINF:-1 group-title="LiveTV - 3 de septiembre",07:00 - WTT Contender Almaty (No especificado)
 https://livetv.sx/es/eventinfo/399852617_wtt_contender_almaty/
 
-#EXTINF:-1 group-title="LiveTV - 3 de septiembre",07:00 - Guam U20 –  Northern Mariana Islands U20 (Clasificatoria)
-https://livetv.sx/es/eventinfo/399614068_guam_u20_northern_mariana_islands_u20/
-
 #EXTINF:-1 group-title="LiveTV - 3 de septiembre",08:30 - Campeonato de Europa Sub-20 (Campeonato Europeo Sub-20)
 https://livetv.sx/es/eventinfo/399639795_campeonato_de_europa_sub_20/
 
 #EXTINF:-1 group-title="LiveTV - 3 de septiembre",09:00 - All-Russian Spartakiad (Piragüismo)
 https://livetv.sx/es/eventinfo/399686545_all_russian_spartakiad/
+
+#EXTINF:-1 group-title="LiveTV - 3 de septiembre",09:00 - Kharkiv U19 –  Shakhtar Donetsk U19 (Ucrania. Premier League Sub-19)
+https://livetv.sx/es/eventinfo/399912229_kharkiv_u19_shakhtar_donetsk_u19/
 
 #EXTINF:-1 group-title="LiveTV - 3 de septiembre",09:00 - Uganda (M) –  Ghana (M) (Mujeres. Campeonato Africano)
 https://livetv.sx/es/eventinfo/399906541_uganda_m_ghana_m/
@@ -45,11 +39,17 @@ https://livetv.sx/es/eventinfo/399906541_uganda_w_ghana_w/
 #EXTINF:-1 group-title="LiveTV - 3 de septiembre",09:10 - Taranaki –  Auckland (Nueva Zelanda. NPC)
 https://livetv.sx/es/eventinfo/397381960_taranaki_auckland/
 
+#EXTINF:-1 group-title="LiveTV - 3 de septiembre",09:30 - Brisbane Bullets –  Tasmania JackJumpers (Australia. NBL. Pretemporada)
+https://livetv.sx/es/eventinfo/399912294_brisbane_bullets_tasmania_jackjumpers/
+
 #EXTINF:-1 group-title="LiveTV - 3 de septiembre",10:00 - Campeonato Mundial (Campeonato mundial)
 https://livetv.sx/es/eventinfo/399644394_campeonato_mundial/
 
 #EXTINF:-1 group-title="LiveTV - 3 de septiembre",10:00 - World Nomad Games (Sambo)
 https://livetv.sx/es/eventinfo/399683111_world_nomad_games/
+
+#EXTINF:-1 group-title="LiveTV - 3 de septiembre",10:00 - Obolon U19 –  Rukh Lviv U19 (Ucrania. Premier League Sub-19)
+https://livetv.sx/es/eventinfo/399912230_obolon_u19_rukh_lviv_u19/
 
 #EXTINF:-1 group-title="LiveTV - 3 de septiembre",10:30 - EAU U20 –  Iraq U20 (Clasificatoria)
 https://livetv.sx/es/eventinfo/399614069_eau_u20_iraq_u20/
@@ -63,11 +63,11 @@ https://livetv.sx/es/eventinfo/399686557_russian_championship_saransk/
 #EXTINF:-1 group-title="LiveTV - 3 de septiembre",11:00 - All-Russian Spartakiad (Break dance)
 https://livetv.sx/es/eventinfo/399686493_all_russian_spartakiad/
 
+#EXTINF:-1 group-title="LiveTV - 3 de septiembre",11:00 - Kolos Kovalivka U-19 –  SK Metalurh U19 (Ucrania. Premier League Sub-19)
+https://livetv.sx/es/eventinfo/399912231_kolos_kovalivka_u_19_sk_metalurh_u19/
+
 #EXTINF:-1 group-title="LiveTV - 3 de septiembre",11:00 - Kuwait U20 –  Yemen U20 (Clasificatoria)
 https://livetv.sx/es/eventinfo/399614070_kuwait_u20_yemen_u20/
-
-#EXTINF:-1 group-title="LiveTV - 3 de septiembre",11:00 - Macau U20 –  Singapur U20 (Clasificatoria)
-https://livetv.sx/es/eventinfo/399614071_macau_u20_singapur_u20/
 
 #EXTINF:-1 group-title="LiveTV - 3 de septiembre",11:00 - Macau U20 – Singapur U20 (Copa Asiática Sub-20. Clasificatoria)
 https://livetv.sx/es/eventinfo/399614071_macau_u20_singapore_u20/
@@ -99,6 +99,9 @@ https://livetv.sx/es/eventinfo/399853372_samsung_lions_lotte_giants/
 #EXTINF:-1 group-title="LiveTV - 3 de septiembre",11:50 - Bulldogs – Broncos (Australia. NRL)
 https://livetv.sx/es/eventinfo/397400087__/
 
+#EXTINF:-1 group-title="LiveTV - 3 de septiembre",12:00 - Illawarra Hawks – Adelaide (Australia. NBL. Pretemporada)
+https://livetv.sx/es/eventinfo/399912295_illawarra_hawks_adelaide/
+
 #EXTINF:-1 group-title="LiveTV - 3 de septiembre",12:00 - All-Russian Spartakiad (Torneo amistoso)
 https://livetv.sx/es/eventinfo/399686503_all_russian_spartakiad/
 
@@ -110,6 +113,9 @@ https://livetv.sx/es/eventinfo/399614075_bangladesh_u20_syria_u20/
 
 #EXTINF:-1 group-title="LiveTV - 3 de septiembre",13:00 - Omán – Perú (Copa del Mundo de Socca)
 https://livetv.sx/es/eventinfo/399906533_oman_peru/
+
+#EXTINF:-1 group-title="LiveTV - 3 de septiembre",13:15 - MHK Dynamo M – Amurskie Tigry (Partido amistoso)
+https://livetv.sx/es/eventinfo/399912327_mhk_dynamo_m_amurskie_tigry/
 
 #EXTINF:-1 group-title="LiveTV - 3 de septiembre",14:00 - Bután U20 – China Taipéi U20 (Copa Asiática Sub-20. Clasificatoria)
 https://livetv.sx/es/eventinfo/399614076_bhutan_u20_chinese_taipei_u20/
@@ -638,6 +644,9 @@ https://livetv.sx/es/eventinfo/399855850_rayo_zuliano_carabobo/
 
 #EXTINF:-1 group-title="LiveTV - 3 de septiembre",22:00 - Anzoátegui – Monagas (Venezuela. Primera División)
 https://livetv.sx/es/eventinfo/399906821__/
+
+#EXTINF:-1 group-title="LiveTV - 3 de septiembre",22:00 - Inter Palmira – Millonarios (W) (Colombia. Mujeres. Liga Aguila)
+https://livetv.sx/es/eventinfo/399911782_inter_palmira_millonarios_w/
 
 #EXTINF:-1 group-title="LiveTV - 3 de septiembre",22:00 - Anzoategui – Monagas (Venezuela. Primera División)
 https://livetv.sx/es/eventinfo/399855851_anzoategui_monagas/
@@ -2559,15 +2568,6 @@ https://livetv.sx/es/eventinfo/398029385__/
 
 #EXTINF:-1 group-title="LiveTV - 5 de septiembre",16:00 - Chesterfield – Barnet (Inglaterra. League Two)
 https://livetv.sx/es/eventinfo/398029386__/
-
-#EXTINF:-1 group-title="LiveTV - 5 de septiembre",16:00 - Jelgava – Super Nova (Letonia. Virsliga)
-https://livetv.sx/es/eventinfo/398031946__/
-
-#EXTINF:-1 group-title="LiveTV - 5 de septiembre",16:00 - Cheltenham Town – Grimsby Town (Inglaterra. League Two)
-https://livetv.sx/es/eventinfo/398029387__/
-
-#EXTINF:-1 group-title="LiveTV - 5 de septiembre",16:00 - Rosenborg – HamKam (Noruega. Eliteserien)
-https://livetv.sx/es/eventinfo/398032971__/
 
 #EXTINF:-1 group-title="LiveTV - 5 de septiembre",16:00 - Rogle U-20 – Farjestad U20 (Suecia. J20 Nationell)
 https://livetv.sx/es/eventinfo/399853070_rogle_u_20_farjestad_u20/

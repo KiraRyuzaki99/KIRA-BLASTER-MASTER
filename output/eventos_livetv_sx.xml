@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-09-03 06:19:11" total="1110">
-  <evento>
-    <nombre>Trinbago Knight Riders –  Antigua &amp; Barbuda Falcons</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399615519_trinbago_knight_riders_antigua_and_barbuda_falcons/</url>
-  </evento>
+<eventos generado="2026-09-03 08:15:32" total="1110">
   <evento>
     <nombre>China Masters</nombre>
     <deporte>Fútbol</deporte>
@@ -15,14 +7,6 @@
     <fecha>3 de septiembre</fecha>
     <hora>03:00</hora>
     <url>https://livetv.sx/es/eventinfo/399616152_china_masters/</url>
-  </evento>
-  <evento>
-    <nombre>World Nomad Games</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Lucha</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>05:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399683134_world_nomad_games/</url>
   </evento>
   <evento>
     <nombre>Indonesia Masters 2</nombre>
@@ -41,14 +25,6 @@
     <url>https://livetv.sx/es/eventinfo/399852617_wtt_contender_almaty/</url>
   </evento>
   <evento>
-    <nombre>Guam U20 –  Northern Mariana Islands U20</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Clasificatoria</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>07:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399614068_guam_u20_northern_mariana_islands_u20/</url>
-  </evento>
-  <evento>
     <nombre>Campeonato de Europa Sub-20</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Campeonato Europeo Sub-20</competicion>
@@ -63,6 +39,14 @@
     <fecha>3 de septiembre</fecha>
     <hora>09:00</hora>
     <url>https://livetv.sx/es/eventinfo/399686545_all_russian_spartakiad/</url>
+  </evento>
+  <evento>
+    <nombre>Kharkiv U19 –  Shakhtar Donetsk U19</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. Premier League Sub-19</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399912229_kharkiv_u19_shakhtar_donetsk_u19/</url>
   </evento>
   <evento>
     <nombre>Uganda (M) –  Ghana (M)</nombre>
@@ -105,6 +89,14 @@
     <url>https://livetv.sx/es/eventinfo/397381960_taranaki_auckland/</url>
   </evento>
   <evento>
+    <nombre>Brisbane Bullets –  Tasmania JackJumpers</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. NBL. Pretemporada</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>09:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399912294_brisbane_bullets_tasmania_jackjumpers/</url>
+  </evento>
+  <evento>
     <nombre>Campeonato Mundial</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Campeonato mundial</competicion>
@@ -119,6 +111,14 @@
     <fecha>3 de septiembre</fecha>
     <hora>10:00</hora>
     <url>https://livetv.sx/es/eventinfo/399683111_world_nomad_games/</url>
+  </evento>
+  <evento>
+    <nombre>Obolon U19 –  Rukh Lviv U19</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. Premier League Sub-19</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399912230_obolon_u19_rukh_lviv_u19/</url>
   </evento>
   <evento>
     <nombre>EAU U20 –  Iraq U20</nombre>
@@ -145,20 +145,20 @@
     <url>https://livetv.sx/es/eventinfo/399686493_all_russian_spartakiad/</url>
   </evento>
   <evento>
+    <nombre>Kolos Kovalivka U-19 –  SK Metalurh U19</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. Premier League Sub-19</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399912231_kolos_kovalivka_u_19_sk_metalurh_u19/</url>
+  </evento>
+  <evento>
     <nombre>Kuwait U20 –  Yemen U20</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Clasificatoria</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>11:00</hora>
     <url>https://livetv.sx/es/eventinfo/399614070_kuwait_u20_yemen_u20/</url>
-  </evento>
-  <evento>
-    <nombre>Macau U20 –  Singapur U20</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Clasificatoria</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399614071_macau_u20_singapur_u20/</url>
   </evento>
   <evento>
     <nombre>Mantova – Palermo</nombre>
@@ -815,6 +815,14 @@
     <fecha>3 de septiembre</fecha>
     <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/399906821__/</url>
+  </evento>
+  <evento>
+    <nombre>Inter Palmira – Millonarios (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Colombia. Mujeres. Liga Aguila</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399911782_inter_palmira_millonarios_w/</url>
   </evento>
   <evento>
     <nombre>Anzoategui – Monagas</nombre>
@@ -4121,30 +4129,6 @@
     <url>https://livetv.sx/es/eventinfo/398029386__/</url>
   </evento>
   <evento>
-    <nombre>Jelgava – Super Nova</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Letonia. Virsliga</competicion>
-    <fecha>5 de septiembre</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/398031946__/</url>
-  </evento>
-  <evento>
-    <nombre>Cheltenham Town – Grimsby Town</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Inglaterra. League Two</competicion>
-    <fecha>5 de septiembre</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/398029387__/</url>
-  </evento>
-  <evento>
-    <nombre>Rosenborg – HamKam</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Noruega. Eliteserien</competicion>
-    <fecha>5 de septiembre</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/398032971__/</url>
-  </evento>
-  <evento>
     <nombre>Buran Voronezh – CSK VVS</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. VHL</competicion>
@@ -4223,6 +4207,14 @@
     <fecha>3 de septiembre</fecha>
     <hora>19:15</hora>
     <url>https://livetv.sx/es/eventinfo/397467850__/</url>
+  </evento>
+  <evento>
+    <nombre>MHK Dynamo M – Amurskie Tigry</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Partido amistoso</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>13:15</hora>
+    <url>https://livetv.sx/es/eventinfo/399912327_mhk_dynamo_m_amurskie_tigry/</url>
   </evento>
   <evento>
     <nombre>Torpedo U-K – Almaty</nombre>
@@ -5559,6 +5551,14 @@
     <fecha>7 de septiembre</fecha>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/398943493__/</url>
+  </evento>
+  <evento>
+    <nombre>Illawarra Hawks – Adelaide</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Australia. NBL. Pretemporada</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399912295_illawarra_hawks_adelaide/</url>
   </evento>
   <evento>
     <nombre>All-Russian Spartakiad</nombre>

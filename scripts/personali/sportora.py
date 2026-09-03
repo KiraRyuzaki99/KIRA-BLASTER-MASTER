@@ -275,7 +275,7 @@ def generate_html(events):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KIRA Sportora</title>
+    <title>CYBER GATE ACCESS</title>
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Audiowide&family=Grotesk:wght@400;700&display=swap" rel="stylesheet">
     <style>
         * {{ margin: 0; padding: 0; box-sizing: border-box; }}
@@ -487,7 +487,7 @@ def generate_html(events):
     <div class="matrix-bg"></div>
     <div class="container">
         <header class="header">
-            <h1>⚡ SPORTORA ⚡</h1>
+            <h1>KIRA GATE ACCESS</h1>
             <p class="subtitle">• Eventi di Oggi •</p>
         </header>
         
@@ -502,7 +502,7 @@ def generate_html(events):
         </div>
         
         <footer class="footer">
-            <p class="neon-text">🔮 Sportora • Eventi in diretta • {datetime.now().year} • Powered by KIRA</p>
+            <p class="neon-text">KIRA GSI SPORT • Eventi di oggi • {datetime.now().year} • Developed by KIRA GSI GROUP</p>
         </footer>
     </div>
 </body>

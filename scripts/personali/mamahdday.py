@@ -260,7 +260,7 @@ def generate_html(events_by_day):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KIRA GSI - Eventi di OGGI</title>
+    <title>CYBER GATE ACCESS</title>
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Audiowide&family=Grotesk:wght@400;700&display=swap" rel="stylesheet">
     <style>
         * {{ margin: 0; padding: 0; box-sizing: border-box; }}
@@ -518,7 +518,7 @@ def generate_html(events_by_day):
     <div class="matrix-bg"></div>
     <div class="container">
         <header class="header">
-            <h1>KIRA SPORT GATE</h1>
+            <h1>KIRA GATE ACCESS</h1>
             <p class="subtitle">• Eventi Sportivi di Oggi •</p>
         </header>
         
@@ -533,7 +533,7 @@ def generate_html(events_by_day):
         </div>
         
         <footer class="footer">
-            <p class="neon-text">🔮 GSI Group • Eventi di oggi • {datetime.now().year} • Powered by KIRA GSI</p>
+            <p class="neon-text">KIRA GSI SPORT • Eventi di oggi • {datetime.now().year} • Developed by KIRA GSI GROUP</p>
         </footer>
     </div>
     

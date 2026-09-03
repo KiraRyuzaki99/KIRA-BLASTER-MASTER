@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-09-03 14:15:49" total="709">
+<eventos generado="2026-09-03 16:15:29" total="1250">
   <evento>
-    <nombre>Vuelta a Gran Bretaña</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>UCI Europe Tour</competicion>
+    <nombre>Luciano Darderi –  Dalibor Svrcina</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Abierto de EU. Masculinos</competicion>
     <fecha>3 de septiembre</fecha>
-    <hora>11:30</hora>
-    <url>https://livetv.sx/es/eventinfo/399619150_vuelta_a_gran_bretaand241_a/</url>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399745927_luciano_darderi_dalibor_svrcina/</url>
+  </evento>
+  <evento>
+    <nombre>Felix Auger-Aliassime –  Karen Jachánov</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Abierto de EU. Masculinos</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399771490_felix_auger_aliassime_karen_jach__nov/</url>
+  </evento>
+  <evento>
+    <nombre>Jan-lennard Struff –  Francisco Cerundolo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Abierto de EU. Masculinos</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399851386_jan_lennard_struff_francisco_cerundolo/</url>
+  </evento>
+  <evento>
+    <nombre>Palermo –  Mantova</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Copa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397467052_palermo_mantova/</url>
   </evento>
   <evento>
     <nombre>Essex –  Sussex Sharks</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>County Championship One</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>11:30</hora>
@@ -18,7 +42,7 @@
   </evento>
   <evento>
     <nombre>Hampshire –  Warwickshire</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>County Championship One</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>11:30</hora>
@@ -26,7 +50,7 @@
   </evento>
   <evento>
     <nombre>Nottinghamshire –  Leicestershire</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>County Championship One</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>11:30</hora>
@@ -34,7 +58,7 @@
   </evento>
   <evento>
     <nombre>Somerset –  Glamorgan</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>County Championship One</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>11:30</hora>
@@ -42,7 +66,7 @@
   </evento>
   <evento>
     <nombre>Surrey –  Yorkshire</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>County Championship One</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>11:30</hora>
@@ -50,7 +74,7 @@
   </evento>
   <evento>
     <nombre>Gloucestershire –  Derbyshire</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>County Championship Two</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>11:30</hora>
@@ -58,7 +82,7 @@
   </evento>
   <evento>
     <nombre>Kent –  Worcestershire</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>County Championship Two</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>11:30</hora>
@@ -66,7 +90,7 @@
   </evento>
   <evento>
     <nombre>Middlesex –  Lancashire</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>County Championship Two</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>11:30</hora>
@@ -74,7 +98,7 @@
   </evento>
   <evento>
     <nombre>Northamptonshire –  Durham</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>County Championship Two</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>11:30</hora>
@@ -82,7 +106,7 @@
   </evento>
   <evento>
     <nombre>Durham (W) –  Hampshire (W)</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>Reino Unido. One-Day Cup</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>11:30</hora>
@@ -90,7 +114,7 @@
   </evento>
   <evento>
     <nombre>Lancashire Thunder (M) –  Surrey Stars (M)</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>Reino Unido. One-Day Cup</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>11:30</hora>
@@ -98,7 +122,7 @@
   </evento>
   <evento>
     <nombre>Warwickshire (W) –  Essex (W)</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>Reino Unido. One-Day Cup</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>11:30</hora>
@@ -106,79 +130,23 @@
   </evento>
   <evento>
     <nombre>Yorkshire Diamonds (M) –  Somerset (W)</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>Reino Unido. One-Day Cup</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>11:30</hora>
     <url>https://livetv.sx/es/eventinfo/399906632_yorkshire_diamonds_m_somerset_w/</url>
   </evento>
   <evento>
-    <nombre>WTT Contender Almaty</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>13:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399852711_wtt_contender_almaty/</url>
-  </evento>
-  <evento>
     <nombre>Omega European Masters</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>DP World Tour</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>13:30</hora>
     <url>https://livetv.sx/es/eventinfo/399618292_omega_european_masters/</url>
   </evento>
   <evento>
-    <nombre>Russian Championship, Saransk</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Boxeo</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399683101_russian_championship_saransk/</url>
-  </evento>
-  <evento>
-    <nombre>Norilsk –  Sokol Krasnoyarsk</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. VHL</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/397428336_norilsk_sokol_krasnoyarsk/</url>
-  </evento>
-  <evento>
-    <nombre>All-Russian Spartakiad</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Break dance</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399686494_all_russian_spartakiad/</url>
-  </evento>
-  <evento>
-    <nombre>Akademiya Ontustik –  Aktobe 2</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Kazajistán. 1 División</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399853521_akademiya_ontustik_aktobe_2/</url>
-  </evento>
-  <evento>
-    <nombre>Arys –  Batyr</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Kazajistán. 1 División</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399853522_arys_batyr/</url>
-  </evento>
-  <evento>
-    <nombre>Shakhter Karagandá –  Khan-Tengri</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Kazajistán. 1 División</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399914728_shakhter_karagand___khan_tengri/</url>
-  </evento>
-  <evento>
     <nombre>Inglaterra (M) –  Irlanda (M)</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>Mujeres. ODI</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>14:00</hora>
@@ -186,7 +154,7 @@
   </evento>
   <evento>
     <nombre>MODUS Super Series</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>Modus League</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>14:00</hora>
@@ -194,207 +162,31 @@
   </evento>
   <evento>
     <nombre>Campeonato de Europa Sub-20</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>Campeonato Europeo Sub-20</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>14:00</hora>
     <url>https://livetv.sx/es/eventinfo/399639879_campeonato_de_europa_sub_20/</url>
   </evento>
   <evento>
-    <nombre>World Junior Championships</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Natación en aguas abiertas</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399857317_world_junior_championships/</url>
-  </evento>
-  <evento>
-    <nombre>Bután U20 –  China Taipéi U20</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Clasificatoria</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399614076_butand225_n_u20_china_taipand233_i_u20/</url>
-  </evento>
-  <evento>
-    <nombre>Camboya U20 –  Japan U20</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Clasificatoria</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399614077_camboya_u20_japan_u20/</url>
-  </evento>
-  <evento>
-    <nombre>Laos U20 –  Indonesia U20</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Clasificatoria</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399614078_laos_u20_indonesia_u20/</url>
-  </evento>
-  <evento>
-    <nombre>Palestina U20 –  Vietnam U20</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Clasificatoria</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399614079_palestina_u20_vietnam_u20/</url>
-  </evento>
-  <evento>
-    <nombre>Marruecos –  Australia</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Copa del Mundo de Socca</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>14:10</hora>
-    <url>https://livetv.sx/es/eventinfo/399906534_marruecos_australia/</url>
-  </evento>
-  <evento>
-    <nombre>Avia Swidnik –  Wieczysta</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Polonia. Copa</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>14:30</hora>
-    <url>https://livetv.sx/es/eventinfo/397413997_avia_swidnik_wieczysta/</url>
-  </evento>
-  <evento>
-    <nombre>Gran Premio Júnior, Bangkok</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Grand Prix</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>14:30</hora>
-    <url>https://livetv.sx/es/eventinfo/399857126_gran_premio_j__nior_bangkok/</url>
-  </evento>
-  <evento>
-    <nombre>Sri Lanka U20 –  Maldivas U20</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Clasificatoria</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>14:30</hora>
-    <url>https://livetv.sx/es/eventinfo/399614080_sri_lanka_u20_maldivas_u20/</url>
-  </evento>
-  <evento>
-    <nombre>Turkmenistán U20 –  Tailandia U20</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Clasificatoria</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>14:30</hora>
-    <url>https://livetv.sx/es/eventinfo/399614081_turkmenistand225_n_u20_tailandia_u20/</url>
-  </evento>
-  <evento>
     <nombre>Campeonato Mundial</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>Campeonato mundial</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>14:40</hora>
     <url>https://livetv.sx/es/eventinfo/399644395_campeonato_mundial/</url>
   </evento>
   <evento>
-    <nombre>Ucrania –  Letonia</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Partido amistoso. Selecciones</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>14:55</hora>
-    <url>https://livetv.sx/es/eventinfo/399906333_ucrania_letonia/</url>
-  </evento>
-  <evento>
-    <nombre>All-Russian Spartakiad</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Piragüismo</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>15:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399686544_all_russian_spartakiad/</url>
-  </evento>
-  <evento>
-    <nombre>All-Russian Spartakiad</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Torneo amistoso</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>15:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399686504_all_russian_spartakiad/</url>
-  </evento>
-  <evento>
-    <nombre>Polonia (M) –   Países Bajos (M)</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Mujeres. Campeonato de Europa</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>15:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399731531__polonia_m__pa__ses_bajos_m/</url>
-  </evento>
-  <evento>
-    <nombre>Astana-2 –  Taraz</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Kazajistán. 1 División</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>15:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399853524_astana_2_taraz/</url>
-  </evento>
-  <evento>
-    <nombre>Ruanda (M) –  Egipto (M)</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Mujeres. Campeonato Africano</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>15:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399849933_ruanda_m_egipto_m/</url>
-  </evento>
-  <evento>
-    <nombre>Ruanda (M) –   Egipto (M)</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Mujeres. Campeonato Africano</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>15:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399914448__ruanda_m__egipto_m/</url>
-  </evento>
-  <evento>
-    <nombre>Khankendi –  Sabail</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Azerbaiyan. 1 Liga</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>15:00</hora>
-    <url>https://livetv.sx/es/eventinfo/398975949_khankendi_sabail/</url>
-  </evento>
-  <evento>
-    <nombre>MOIK –  Sahdag</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Azerbaiyan. 1 Liga</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>15:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399913582_moik_sahdag/</url>
-  </evento>
-  <evento>
-    <nombre>Baku Sporting –  Karvan</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Azerbaiyan. 1 Liga</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>15:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399913583_baku_sporting_karvan/</url>
-  </evento>
-  <evento>
     <nombre>Premier Padel. Madrid</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>Premier Padel</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>15:00</hora>
     <url>https://livetv.sx/es/eventinfo/399716909_premier_padel_madrid/</url>
   </evento>
   <evento>
-    <nombre>Bulgaria –  Albania</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Copa del Mundo de Socca</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>15:20</hora>
-    <url>https://livetv.sx/es/eventinfo/399906535_bulgaria_albania/</url>
-  </evento>
-  <evento>
-    <nombre>Torpedo U-K –  Almaty</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Kazajistán. Campeonato</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>15:30</hora>
-    <url>https://livetv.sx/es/eventinfo/397412358_torpedo_u_k_almaty/</url>
-  </evento>
-  <evento>
     <nombre>Russian Championship, Saransk</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>Boxeo</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>16:00</hora>
@@ -402,7 +194,7 @@
   </evento>
   <evento>
     <nombre>Isloch –  BATE</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>Bielorrusia. Vysheyshaya Liga</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>16:00</hora>
@@ -410,7 +202,7 @@
   </evento>
   <evento>
     <nombre>Igdir –  Manisa</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>Turquía. 1 Lig</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>16:00</hora>
@@ -418,7 +210,7 @@
   </evento>
   <evento>
     <nombre>Al-Ahli Doha –  Qatar SC</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>Qatar. Stars League</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>16:00</hora>
@@ -426,7 +218,7 @@
   </evento>
   <evento>
     <nombre>Toros –  Molot</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>Rusia. VHL</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>16:00</hora>
@@ -434,7 +226,7 @@
   </evento>
   <evento>
     <nombre>AGMK –  Khorezm Urganch</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>Uzbekistán. Superliga</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>16:00</hora>
@@ -442,7 +234,7 @@
   </evento>
   <evento>
     <nombre>Arlan Kokshetau –  Gornyak Rudny</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>Kazajistán. Campeonato</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>16:00</hora>
@@ -450,7 +242,7 @@
   </evento>
   <evento>
     <nombre>Tobol 2 –  Kairat-Zhastar</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>Kazajistán. 1 División</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>16:00</hora>
@@ -458,7 +250,7 @@
   </evento>
   <evento>
     <nombre>Afganistán U20 –  Tayikistán U20</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>Clasificatoria</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>16:00</hora>
@@ -466,19 +258,4443 @@
   </evento>
   <evento>
     <nombre>India U20 –  Uzbekistán U20</nombre>
-    <deporte>Hockey</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>Clasificatoria</competicion>
     <fecha>3 de septiembre</fecha>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/399614083_india_u20_uzbekistand225_n_u20/</url>
   </evento>
   <evento>
-    <nombre>Norilsk – Sokol Krasnoyarsk</nombre>
-    <deporte>Hockey</deporte>
+    <nombre>Bacau –  U Craiova</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rumania. Copa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>16:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398740654_bacau_u_craiova/</url>
+  </evento>
+  <evento>
+    <nombre>Kristall –  Dizel</nombre>
+    <deporte>Fútbol</deporte>
     <competicion>Rusia. VHL</competicion>
     <fecha>3 de septiembre</fecha>
+    <hora>16:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397428334_kristall_dizel/</url>
+  </evento>
+  <evento>
+    <nombre>Siauliai –  Zalgiris K</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Lituania. Copa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>16:30</hora>
+    <url>https://livetv.sx/es/eventinfo/400481394_siauliai_zalgiris_k/</url>
+  </evento>
+  <evento>
+    <nombre>Hong Kong (M) –  India (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Mujeres. Copa Asiática T20</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>16:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399615316_hong_kong_m_india_m/</url>
+  </evento>
+  <evento>
+    <nombre>Kirguistán U20 –  Líbano U20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificatoria</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>16:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399614084_kirguistand225_n_u20_land237_bano_u20/</url>
+  </evento>
+  <evento>
+    <nombre>Croacia –  Turquía</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa del Mundo de Socca</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>16:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399906536_croacia_turquandiacute_a/</url>
+  </evento>
+  <evento>
+    <nombre>Vuelta a España</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>UCI World Tour</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>16:45</hora>
+    <url>https://livetv.sx/es/eventinfo/399619151_vuelta_a_espaand241_a/</url>
+  </evento>
+  <evento>
+    <nombre>British Open</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Snooker</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400474044_british_open/</url>
+  </evento>
+  <evento>
+    <nombre>Kometa Brno –  Ocelari Trinec</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399916391_kometa_brno_ocelari_trinec/</url>
+  </evento>
+  <evento>
+    <nombre>Karlovy Vary –  Litvinov</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399916392_karlovy_vary_litvinov/</url>
+  </evento>
+  <evento>
+    <nombre>Cittadella –  Renate</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Copa. Serie C</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400470367_cittadella_renate/</url>
+  </evento>
+  <evento>
+    <nombre>Amman –  Al-Karmel</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Jordania. Copa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400478728_amman_al_karmel/</url>
+  </evento>
+  <evento>
+    <nombre>World Junior Championships</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Natación en aguas abiertas</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399857318_world_junior_championships/</url>
+  </evento>
+  <evento>
+    <nombre>Iga Swiatek (M) –   Nadia Podoroska (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Abierto de EU. Mujeres</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399745882__iga_swiatek_m__nadia_podoroska_m/</url>
+  </evento>
+  <evento>
+    <nombre>Maria Timofeeva (M) –   Elise Mertens (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Abierto de EU. Mujeres</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399851350__maria_timofeeva_m__elise_mertens_m/</url>
+  </evento>
+  <evento>
+    <nombre>Madison Keys (M) –   Anna Bondar (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Abierto de EU. Mujeres</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399851354__madison_keys_m__anna_bondar_m/</url>
+  </evento>
+  <evento>
+    <nombre>US Open</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Abierto de EU</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399535708_us_open/</url>
+  </evento>
+  <evento>
+    <nombre>Liberia (M) –  Costa de Marfil (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Mujeres. IHF Trophy África</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772824_liberia_m_costa_de_marfil_m/</url>
+  </evento>
+  <evento>
+    <nombre>Anastasia Potapova (M) –   Leolia Jeanjean (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Abierto de EU. Mujeres</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:05</hora>
+    <url>https://livetv.sx/es/eventinfo/399859819__anastasia_potapova_m__leolia_jeanjean_m/</url>
+  </evento>
+  <evento>
+    <nombre>Kostyuk (M) /  Ruse (M) –   Udvardy (M) /  Pigossi (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Doubles</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:10</hora>
+    <url>https://livetv.sx/es/eventinfo/399851356__kostyuk_m___ruse_m__udvardy_m___pigossi_m/</url>
+  </evento>
+  <evento>
+    <nombre>Ninomiya (M) /  Kozyreva (M) –   Kempen (M) /  Panova (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Doubles</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:10</hora>
+    <url>https://livetv.sx/es/eventinfo/399851366__ninomiya_m___kozyreva_m__kempen_m___panova_m/</url>
+  </evento>
+  <evento>
+    <nombre>Liu (M) /  Pareja (M) –   Xiyu (M) /  Yifan (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Doubles</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:10</hora>
+    <url>https://livetv.sx/es/eventinfo/399851367__liu_m___pareja_m__xiyu_m___yifan_m/</url>
+  </evento>
+  <evento>
+    <nombre>Fernandez (M) /  Tjen (M) –   Radisic (M) /  Haverlag (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Doubles</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:10</hora>
+    <url>https://livetv.sx/es/eventinfo/399851381__fernandez_m___tjen_m__radisic_m___haverlag_m/</url>
+  </evento>
+  <evento>
+    <nombre>GKS Tychy –  LKS Lodz</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. Copa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397428252_gks_tychy_lks_lodz/</url>
+  </evento>
+  <evento>
+    <nombre>Tappara –  Bili Tygri Liberec</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga de Campeones</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397427702_tappara_bili_tygri_liberec/</url>
+  </evento>
+  <evento>
+    <nombre>Pilsen –  Rogle</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga de Campeones</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397427703_pilsen_rogle/</url>
+  </evento>
+  <evento>
+    <nombre>Dukla Jihlava –  Olomouc</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399916393_dukla_jihlava_olomouc/</url>
+  </evento>
+  <evento>
+    <nombre>Vitkovice –  Vsetin</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399916394_vitkovice_vsetin/</url>
+  </evento>
+  <evento>
+    <nombre>Zvezda Moscú –  Khimik Vs</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397428331_zvezda_mosc___khimik_vs/</url>
+  </evento>
+  <evento>
+    <nombre>Olimpiya –  SKA-VMF</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397428333_olimpiya_ska_vmf/</url>
+  </evento>
+  <evento>
+    <nombre>Naomi Osaka (M) –   Katerina Siniakova (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Abierto de EU. Mujeres</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399779597__naomi_osaka_m__katerina_siniakova_m/</url>
+  </evento>
+  <evento>
+    <nombre>Al-Fayha –  Al-Kholood</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Arabia Saudita. Liga Pro</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:55</hora>
+    <url>https://livetv.sx/es/eventinfo/397469319_al_fayha_al_kholood/</url>
+  </evento>
+  <evento>
+    <nombre>UTSA Roadrunners (M) –   Incarnate Word Cardinals (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:55</hora>
+    <url>https://livetv.sx/es/eventinfo/400581809__utsa_roadrunners_m__incarnate_word_cardinals_m/</url>
+  </evento>
+  <evento>
+    <nombre>Rakow –  Gornik Zabrze</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. Ekstraklasa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/395406940_rakow_gornik_zabrze/</url>
+  </evento>
+  <evento>
+    <nombre>Banga –  Panevezys</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Lituania. A Lyga</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/391531774_banga_panevezys/</url>
+  </evento>
+  <evento>
+    <nombre>Dynamo Pardubice –  Tychy</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga de Campeones</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397467844_dynamo_pardubice_tychy/</url>
+  </evento>
+  <evento>
+    <nombre>Almtuna –  Vasteras</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399676103_almtuna_vasteras/</url>
+  </evento>
+  <evento>
+    <nombre>Ostersunds –  Sundsvall</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399676106_ostersunds_sundsvall/</url>
+  </evento>
+  <evento>
+    <nombre>Rytiri Kladno –  Sparta Praga</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399916395_rytiri_kladno_sparta_praga/</url>
+  </evento>
+  <evento>
+    <nombre>Lulea –  Bjorkloven</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399916396_lulea_bjorkloven/</url>
+  </evento>
+  <evento>
+    <nombre>Djurgarden –  Brynas</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399916397_djurgarden_brynas/</url>
+  </evento>
+  <evento>
+    <nombre>Berani Zlin –  Zvolen</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399916398_berani_zlin_zvolen/</url>
+  </evento>
+  <evento>
+    <nombre>Unia Oswiecim –  AZ Havirov</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399916399_unia_oswiecim_az_havirov/</url>
+  </evento>
+  <evento>
+    <nombre>Buran Voronezh –  CSK VVS</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397428332_buran_voronezh_csk_vvs/</url>
+  </evento>
+  <evento>
+    <nombre>Al Buqa'a –  Doqarah</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Jordania. Premier League</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399906825_al_buqaa_doqarah/</url>
+  </evento>
+  <evento>
+    <nombre>Alashkert –  Van</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Armenia. Premier League</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397659437_alashkert_van/</url>
+  </evento>
+  <evento>
+    <nombre>Alemania (M) –   Turquía (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Mujeres. Campeonato de Europa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399851470__alemania_m__turqu__a_m/</url>
+  </evento>
+  <evento>
+    <nombre>Cameroon (M) –   Kenia (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Mujeres. Campeonato Africano</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399914449__cameroon_m__kenia_m/</url>
+  </evento>
+  <evento>
+    <nombre>Eszterhazy (M) –   Schaeffler (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Hungría. Mujeres. NB I</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398756915__eszterhazy_m__schaeffler_m/</url>
+  </evento>
+  <evento>
+    <nombre>Viimsi –  Tallinn</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Estonia. Esiliiga</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397470611_viimsi_tallinn/</url>
+  </evento>
+  <evento>
+    <nombre>Estonia –  Eslovaquia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso. Selecciones</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399906334_estonia_eslovaquia/</url>
+  </evento>
+  <evento>
+    <nombre>Benín (M) –  Togo (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Mujeres. IHF Trophy África</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399772831_benandiacute_n_m_togo_m/</url>
+  </evento>
+  <evento>
+    <nombre>Ostrow –  Chodov</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Republica Checa. Extraliga</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399857093_ostrow_chodov/</url>
+  </evento>
+  <evento>
+    <nombre>Hong Kong  U20 –  Qatar U20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificatoria</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399614085_hong_kong__u20_qatar_u20/</url>
+  </evento>
+  <evento>
+    <nombre>Omán U20 –  Arabia Saudita U20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificatoria</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399614086_omand225_n_u20_arabia_saudita_u20/</url>
+  </evento>
+  <evento>
+    <nombre>Palermo – Mantova</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Copa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397467052__/</url>
+  </evento>
+  <evento>
+    <nombre>Dinamo M – Ajmat</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. Copa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397445750__/</url>
+  </evento>
+  <evento>
+    <nombre>Lugano – Servette</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suiza. Superliga</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397470347__/</url>
+  </evento>
+  <evento>
+    <nombre>Basilea – Sion</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suiza. Superliga</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397470349__/</url>
+  </evento>
+  <evento>
+    <nombre>Gante – Oud-Heverlee</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bélgica. Pro League</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/395404473__/</url>
+  </evento>
+  <evento>
+    <nombre>Anderlecht – Cortrique</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bélgica. Pro League</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397465816__/</url>
+  </evento>
+  <evento>
+    <nombre>Toulouse – Lille</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue 1</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/397469988__/</url>
+  </evento>
+  <evento>
+    <nombre>Real Sociedad – Celta</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Primera División</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397467023__/</url>
+  </evento>
+  <evento>
+    <nombre>Cagliari – Hellas Verona</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Copa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397293714__/</url>
+  </evento>
+  <evento>
+    <nombre>Gremio-RS – Inter-RS</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Copa</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397492664__/</url>
+  </evento>
+  <evento>
+    <nombre>Al-Ahli Doha – Qatar SC</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Qatar. Stars League</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397427497__/</url>
+  </evento>
+  <evento>
+    <nombre>Isloch – BATE</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bielorrusia. Vysheyshaya Liga</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398756756__/</url>
+  </evento>
+  <evento>
+    <nombre>Igdir – Manisa</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Turquía. 1 Lig</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397428651__/</url>
+  </evento>
+  <evento>
+    <nombre>AGMK – Khorezm Urganch</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Uzbekistán. Superliga</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397428682__/</url>
+  </evento>
+  <evento>
+    <nombre>Kirguistán U20 – Líbano U20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa Asiática Sub-20. Clasificatoria</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>16:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399614084_kyrgyzstan_u20_lebanon_u20/</url>
+  </evento>
+  <evento>
+    <nombre>Bacau – U Craiova</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rumania. Copa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>16:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398740654__/</url>
+  </evento>
+  <evento>
+    <nombre>Amman – Al-Karmel</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Jordania. Copa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400478728__/</url>
+  </evento>
+  <evento>
+    <nombre>Cittadella – Renate</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Copa. Serie C</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400470367__/</url>
+  </evento>
+  <evento>
+    <nombre>GKS Tychy – LKS Lodz</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. Copa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397428252__/</url>
+  </evento>
+  <evento>
+    <nombre>Al-Fayha – Al-Kholood</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Arabia Saudita. Liga Pro</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:55</hora>
+    <url>https://livetv.sx/es/eventinfo/397469319__/</url>
+  </evento>
+  <evento>
+    <nombre>Al Buqa'a – Doqarah</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Jordania. Premier League</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399906825__/</url>
+  </evento>
+  <evento>
+    <nombre>Alashkert – Van</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Armenia. Premier League</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397659437__/</url>
+  </evento>
+  <evento>
+    <nombre>Rakow – Gornik Zabrze</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. Ekstraklasa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/395406940__/</url>
+  </evento>
+  <evento>
+    <nombre>Hong Kong  U20 – Qatar U20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa Asiática Sub-20. Clasificatoria</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399614085_hong_kong_u20_qatar_u20/</url>
+  </evento>
+  <evento>
+    <nombre>Omán U20 – Arabia Saudita U20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa Asiática Sub-20. Clasificatoria</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399614086_oman_u20_saudi_arabia_u20/</url>
+  </evento>
+  <evento>
+    <nombre>Viimsi – Tallinn</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Estonia. Esiliiga</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397470611__/</url>
+  </evento>
+  <evento>
+    <nombre>Banga – Panevezys</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Lituania. A Lyga</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/391531774__/</url>
+  </evento>
+  <evento>
+    <nombre>Al-Sailiya – Al-Arabi Doha</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Qatar. Stars League</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:15</hora>
+    <url>https://livetv.sx/es/eventinfo/397467426__/</url>
+  </evento>
+  <evento>
+    <nombre>Omonia – Pafos</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Chipre. Supercopa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397293909__/</url>
+  </evento>
+  <evento>
+    <nombre>Neom – Al-Khaleej</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Arabia Saudita. Liga Pro</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397469321__/</url>
+  </evento>
+  <evento>
+    <nombre>Hungría – Inglaterra</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa del Mundo de Socca</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399906537_hungary_england/</url>
+  </evento>
+  <evento>
+    <nombre>Al-Ahly El Cairo – Smouha</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Egipto. Premier League</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397132832__/</url>
+  </evento>
+  <evento>
+    <nombre>Bodrumspor – Esenler Erokspor</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Turquía. 1 Lig</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397469774__/</url>
+  </evento>
+  <evento>
+    <nombre>Bursaspor – Istanbulspor</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Turquía. 1 Lig</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397469776__/</url>
+  </evento>
+  <evento>
+    <nombre>Beroe – Montana</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bulgaria. Vtora PFL</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400588239__/</url>
+  </evento>
+  <evento>
+    <nombre>Mjaellby – Djurgarden</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. Allsvenskan</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/382099966__/</url>
+  </evento>
+  <evento>
+    <nombre>Bahréin U20 – Jordania U20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa Asiática Sub-20. Clasificatoria</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399614087_bahrain_u20_jordan_u20/</url>
+  </evento>
+  <evento>
+    <nombre>Hapoel Tel Aviv – Beitar Jerusalén</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Israel. Liga Premier</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/395405211__/</url>
+  </evento>
+  <evento>
+    <nombre>Gyori ETO – Ferencvaros</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Hungría. NB I</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/393315743__/</url>
+  </evento>
+  <evento>
+    <nombre>Poli Timisoara – Rapid Bucarest</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rumania. Copa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398740663__/</url>
+  </evento>
+  <evento>
+    <nombre>Alemania – Serbia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa del Mundo de Socca</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>19:40</hora>
+    <url>https://livetv.sx/es/eventinfo/399906538_germany_serbia/</url>
+  </evento>
+  <evento>
+    <nombre>Novara – Livorno</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Copa. Serie C</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400470368__/</url>
+  </evento>
+  <evento>
+    <nombre>Al-Diriyah – Al Quadisiya</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Arabia Saudita. Liga Pro</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397469323__/</url>
+  </evento>
+  <evento>
+    <nombre>Panathinaikos – Niki Volou</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Grecia. Copa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399040195__/</url>
+  </evento>
+  <evento>
+    <nombre>Copenhague – Nordsjaelland</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Dinamarca. Superliga</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397466568__/</url>
+  </evento>
+  <evento>
+    <nombre>Mornar – Bokelj</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Montenegro. Primera División</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397470191__/</url>
+  </evento>
+  <evento>
+    <nombre>Rentistas – Plaza Colonia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Uruguay. Copa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399851262__/</url>
+  </evento>
+  <evento>
+    <nombre>Slask – Pogon Szczecin</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. Copa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397468975__/</url>
+  </evento>
+  <evento>
+    <nombre>Lech Poznan – Jagiellonia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. Ekstraklasa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/395406942__/</url>
+  </evento>
+  <evento>
+    <nombre>River Plate M – Nacional M</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Uruguay. Copa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399851263__/</url>
+  </evento>
+  <evento>
+    <nombre>Hibernian – Heart</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Escocia. Premiership</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/397470485__/</url>
+  </evento>
+  <evento>
+    <nombre>Rouen – Valenciennes</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. National</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/397470125__/</url>
+  </evento>
+  <evento>
+    <nombre>Rumania – República Checa</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa del Mundo de Socca</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>20:50</hora>
+    <url>https://livetv.sx/es/eventinfo/399906539_romania_czech_republic/</url>
+  </evento>
+  <evento>
+    <nombre>Trento – Desenzano Calvina</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Copa. Serie C</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400470369__/</url>
+  </evento>
+  <evento>
+    <nombre>Univ Católica Quito – Aucas</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ecuador. Serie A</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397310312__/</url>
+  </evento>
+  <evento>
+    <nombre>Rayo Zuliano – Carabobo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Venezuela. Primera División</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399906820__/</url>
+  </evento>
+  <evento>
+    <nombre>Anzoátegui – Monagas</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Venezuela. Primera División</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399906821__/</url>
+  </evento>
+  <evento>
+    <nombre>Inter Palmira – Millonarios (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Colombia. Mujeres. Liga Aguila</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399911782_inter_palmira_millonarios_w/</url>
+  </evento>
+  <evento>
+    <nombre>Internacional Palmira (M) –  Millonarios (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Colombia. Mujeres. Liga Aguila</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399914949__/</url>
+  </evento>
+  <evento>
+    <nombre>Georgia – Siria</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa del Mundo de Socca</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399906540_georgia_syria/</url>
+  </evento>
+  <evento>
+    <nombre>Vinotinto – San Antonio Cotacachi</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ecuador. Serie B</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>22:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398253252__/</url>
+  </evento>
+  <evento>
+    <nombre>América de Cali – Alianza Valledupar</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Colombia. Primera A</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397494348__/</url>
+  </evento>
+  <evento>
+    <nombre>Albion – Progreso</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Uruguay. Copa</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>23:15</hora>
+    <url>https://livetv.sx/es/eventinfo/399851264__/</url>
+  </evento>
+  <evento>
+    <nombre>Leones Del Norte – Orense</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ecuador. Serie A</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>23:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397310318__/</url>
+  </evento>
+  <evento>
+    <nombre>Recoleta – Cerro Porteño</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Paraguay. Primera División</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>23:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398382808__/</url>
+  </evento>
+  <evento>
+    <nombre>Estudiantes de Mérida – Universidad Central</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Venezuela. Primera División</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>00:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399906822__/</url>
+  </evento>
+  <evento>
+    <nombre>Nueva Caledonia U19 – Islas Salomón U19</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Campeonato Sub-19 de la OFC</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>00:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399614517_new_caledonia_u19_solomon_islands_u19/</url>
+  </evento>
+  <evento>
+    <nombre>Estudiantes de Mérida – Universidad Central</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Venezuela. Primera División</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>00:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399855852_estudiantes_de_merida_universidad_central/</url>
+  </evento>
+  <evento>
+    <nombre>Puerto Cabello – Deportivo La Guaira</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Venezuela. Primera División</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399906823__/</url>
+  </evento>
+  <evento>
+    <nombre>Metropolitanos – Trujillanos</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Venezuela. Primera División</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399906824__/</url>
+  </evento>
+  <evento>
+    <nombre>Managua – Diriangen</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Nicaragua. Liga Primera</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399906826__/</url>
+  </evento>
+  <evento>
+    <nombre>Náutico – Botafogo-SP</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Serie B</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397492784__/</url>
+  </evento>
+  <evento>
+    <nombre>Internacional Palmira – Real Cundinamarca</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Colombia. Primera B</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397481125__/</url>
+  </evento>
+  <evento>
+    <nombre>Metropolitanos – Trujillanos</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Venezuela. Primera División</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399855853_metropolitanos_trujillanos/</url>
+  </evento>
+  <evento>
+    <nombre>Oriental – Racing de Montevideo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Uruguay. Copa</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399733485__/</url>
+  </evento>
+  <evento>
+    <nombre>Puerto Cabello – Deportivo La Guaira</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Venezuela. Primera División</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399855854_puerto_cabello_deportivo_la_guaira/</url>
+  </evento>
+  <evento>
+    <nombre>Dep. Santo Domingo – Cumbaya</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ecuador. Serie B</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398727991__/</url>
+  </evento>
+  <evento>
+    <nombre>Libertad – Emelec</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ecuador. Serie A</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397310316__/</url>
+  </evento>
+  <evento>
+    <nombre>Cavalier – Portmore United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa del Caribe CONCACAF</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397515742__/</url>
+  </evento>
+  <evento>
+    <nombre>Tepatitlán  de Morelos – Dorados</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>México. Liga de Expansion</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397516032__/</url>
+  </evento>
+  <evento>
+    <nombre>Matagalpa – UNAN Managua</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Nicaragua. Liga Primera</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399906827__/</url>
+  </evento>
+  <evento>
+    <nombre>Olimpia – Platense</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Honduras. Liga Nacional</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400173090__/</url>
+  </evento>
+  <evento>
+    <nombre>Deportivo Pereira – Ind Medellín</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Colombia. Primera A</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397515839__/</url>
+  </evento>
+  <evento>
+    <nombre>Papúa Nueva Guinea U19 – Samoa U19</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Campeonato Sub-19 de la OFC</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399614518_papua_new_guinea_u19_samoa_u19/</url>
+  </evento>
+  <evento>
+    <nombre>Lions (M) –  Eastern Suburbs (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Mujeres. NPL Queensland</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399906818__/</url>
+  </evento>
+  <evento>
+    <nombre>Broadbeach United – Sunshine Coast</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Queensland Premier League</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399619339__/</url>
+  </evento>
+  <evento>
+    <nombre>Peninsula Power – Moreton City</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. NPL Queensland</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399619325__/</url>
+  </evento>
+  <evento>
+    <nombre>Darwin Olympic (W) – Mindil Aces (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Mujeres. NTPL</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399855961_darwin_olympic_w_mindil_aces_w/</url>
+  </evento>
+  <evento>
+    <nombre>Karbon Cherkasy – Avangard Lozova</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. 2 liha</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399853502_karbon_cherkasy_avangard_lozova/</url>
+  </evento>
+  <evento>
+    <nombre>Dinaz – Vilkhivtsi</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. 2 liha</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399853503_dinaz_vilkhivtsi/</url>
+  </evento>
+  <evento>
+    <nombre>Chornomorets – Livyi Bereh</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. Liga Premier</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397573992__/</url>
+  </evento>
+  <evento>
+    <nombre>Kolos 2 – Lokomotiv Kyiv</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. 1 Liha</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399853494_kolos_2_lokomotiv_kyiv/</url>
+  </evento>
+  <evento>
+    <nombre>Atlet – Oleksandriya 2</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. 2 liha</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399853504_atlet_oleksandriya_2/</url>
+  </evento>
+  <evento>
+    <nombre>Hellenic (W) – Casuarina (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Mujeres. NTPL</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399855962_hellenic_w_casuarina_w/</url>
+  </evento>
+  <evento>
+    <nombre>Syunik – Pyunik</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Armenia. Premier League</competicion>
+    <fecha>4 de septiembre</fecha>
     <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/397428336__/</url>
+    <url>https://livetv.sx/es/eventinfo/397659433__/</url>
+  </evento>
+  <evento>
+    <nombre>Pattani – Pathum Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Tailandia. Thai League 1</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397584535__/</url>
+  </evento>
+  <evento>
+    <nombre>Poltava – Inhulets</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. 1 Liha</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399853495_poltava_inhulets/</url>
+  </evento>
+  <evento>
+    <nombre>Kryvbas (W) – Ladomir (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. Mujeres. Vyshcha Liha</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399853510_kryvbas_w_ladomir_w/</url>
+  </evento>
+  <evento>
+    <nombre>Nyva Vinnytsia – Nyva Ternopil 2</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. 2 liha</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>14:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399853505_nyva_vinnytsia_nyva_ternopil_2/</url>
+  </evento>
+  <evento>
+    <nombre>Bunyodkor – Surkhon Termez</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Uzbekistán. Superliga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397428683__/</url>
+  </evento>
+  <evento>
+    <nombre>Mingechevir – Zaqatala</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Azerbaiyan. 1 Liga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398975952_mingechevir_zaqatala/</url>
+  </evento>
+  <evento>
+    <nombre>Simal – Cabrayil</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Azerbaiyan. 1 Liga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398975953_simal_cabrayil/</url>
+  </evento>
+  <evento>
+    <nombre>Zhayik – Yelimay Semey 2</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Kazajistán. 1 División</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399853526_zhayik_yelimay_semey_2/</url>
+  </evento>
+  <evento>
+    <nombre>Kaspiy 2 – Turan</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Kazajistán. 1 División</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399853527_kaspiy_2_turan/</url>
+  </evento>
+  <evento>
+    <nombre>Kalba – Al Ain</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EÁU. Pro League</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>15:45</hora>
+    <url>https://livetv.sx/es/eventinfo/397598475__/</url>
+  </evento>
+  <evento>
+    <nombre>Gabala – Imisli</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Azerbaiyán. Premier League</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398029317__/</url>
+  </evento>
+  <evento>
+    <nombre>Navbahor Namangan – Lokomotiv Tashkent</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Uzbekistán. Superliga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397663556__/</url>
+  </evento>
+  <evento>
+    <nombre>Nasaf – Neftchi</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Uzbekistán. Superliga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397663558__/</url>
+  </evento>
+  <evento>
+    <nombre>Al-Shamal – Al-Shahania</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Qatar. Stars League</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397597902__/</url>
+  </evento>
+  <evento>
+    <nombre>Dren Vrhinka – Rudar</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Eslovenia. 2. SNL</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398235984__/</url>
+  </evento>
+  <evento>
+    <nombre>Jadran Dekani – Tabor Sezana</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Eslovenia. 2. SNL</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398235987__/</url>
+  </evento>
+  <evento>
+    <nombre>Ilirija – Primorje</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Eslovenia. 2. SNL</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398235988__/</url>
+  </evento>
+  <evento>
+    <nombre>Levadia Sub-21 –  Flora Sub-21</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Estonia. Esiliiga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397664342__/</url>
+  </evento>
+  <evento>
+    <nombre>Polissya – Kudrivka</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. Liga Premier</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397663578__/</url>
+  </evento>
+  <evento>
+    <nombre>Shabab Al-Ordon – Al-Ramtha</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Jordania. Premier League</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399786358__/</url>
+  </evento>
+  <evento>
+    <nombre>Dynamo Ceske Budejovice – Dukla Praga B</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>República Checa. 3. Liga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399916772__/</url>
+  </evento>
+  <evento>
+    <nombre>Pakhtakor – Andijon</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Uzbekistán. Superliga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>17:15</hora>
+    <url>https://livetv.sx/es/eventinfo/397663554__/</url>
+  </evento>
+  <evento>
+    <nombre>Rustavi – Dinamo Batumi</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Georgia. Erovnuli Liga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397660168__/</url>
+  </evento>
+  <evento>
+    <nombre>Abha – Al-Ettifaq</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Arabia Saudita. Liga Pro</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397662990__/</url>
+  </evento>
+  <evento>
+    <nombre>Vejle – Vendsyssel</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Dinamarca. 1 División</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397660192__/</url>
+  </evento>
+  <evento>
+    <nombre>Hobro – Hvidovre</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Dinamarca. 1 División</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397660194__/</url>
+  </evento>
+  <evento>
+    <nombre>Noah – Gandzasar</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Armenia. Premier League</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397659434__/</url>
+  </evento>
+  <evento>
+    <nombre>Omonia 29 Maiou – Karmiotissa</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Chipre. 1 División</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397661228__/</url>
+  </evento>
+  <evento>
+    <nombre>Al-Khaldiya – A`Ali</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bahréin. Liga Premier</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397659447__/</url>
+  </evento>
+  <evento>
+    <nombre>Al Ittifaq Maqaba – Al-Muharraq</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bahréin. Liga Premier</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397659448__/</url>
+  </evento>
+  <evento>
+    <nombre>Triglav Kranj – Bistrica</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Eslovenia. 2. SNL</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398235985__/</url>
+  </evento>
+  <evento>
+    <nombre>Grodzisk Mazowiecki – Warta Poznan</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. I Liga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397662577__/</url>
+  </evento>
+  <evento>
+    <nombre>Septemvri – Botev Vratsa</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bulgaria. Parva Liga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397659521__/</url>
+  </evento>
+  <evento>
+    <nombre>Kapaz – Shamaji</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Azerbaiyán. Premier League</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:15</hora>
+    <url>https://livetv.sx/es/eventinfo/398029316__/</url>
+  </evento>
+  <evento>
+    <nombre>Lusail – Al-Wakrah</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Qatar. Stars League</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:15</hora>
+    <url>https://livetv.sx/es/eventinfo/397661211__/</url>
+  </evento>
+  <evento>
+    <nombre>Al Wasl – Khor Fakkan</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EÁU. Pro League</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:15</hora>
+    <url>https://livetv.sx/es/eventinfo/397662343__/</url>
+  </evento>
+  <evento>
+    <nombre>Tekstilshchik – Torpedo M</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. FNL</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399683080__/</url>
+  </evento>
+  <evento>
+    <nombre>Vasas – Nyíregyhaza Spartacus</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Hungría. NB I</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398030363__/</url>
+  </evento>
+  <evento>
+    <nombre>Hoffenheim (M) –  Leverkusen (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Mujeres. Bundesliga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397660004__/</url>
+  </evento>
+  <evento>
+    <nombre>Simulcast</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 2 Bundesliga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399721426_simulcast/</url>
+  </evento>
+  <evento>
+    <nombre>Hannover 96 – Karlsruhe</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 2 Bundesliga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397659892__/</url>
+  </evento>
+  <evento>
+    <nombre>Arminia – St Pauli</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 2 Bundesliga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397659894__/</url>
+  </evento>
+  <evento>
+    <nombre>Ingolstadt – Alemannia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 3 Bundesliga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397659916__/</url>
+  </evento>
+  <evento>
+    <nombre>Basaksehir – Galatasaray</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Turquía. Superliga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398236189__/</url>
+  </evento>
+  <evento>
+    <nombre>HB Koege – Hillerod</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Dinamarca. 1 División</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397660196__/</url>
+  </evento>
+  <evento>
+    <nombre>AS Port – Zamalek</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga de Campeones de la CAF. Clasificatoria</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398381134__/</url>
+  </evento>
+  <evento>
+    <nombre>Viborg – Lyngby</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Dinamarca. Superliga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397660244__/</url>
+  </evento>
+  <evento>
+    <nombre>Aalesund – Start</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Noruega. Eliteserien</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397662307__/</url>
+  </evento>
+  <evento>
+    <nombre>Fredrikstad – Bodoe/Glimt</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Noruega. Eliteserien</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397662309__/</url>
+  </evento>
+  <evento>
+    <nombre>Oester – United IK</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. Superettan</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397664182__/</url>
+  </evento>
+  <evento>
+    <nombre>Norrkoeping – Ljungskile</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. Superettan</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397664184__/</url>
+  </evento>
+  <evento>
+    <nombre>Asswehly – KVZ</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga de Campeones de la CAF. Clasificatoria</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398032092__/</url>
+  </evento>
+  <evento>
+    <nombre>Slavia-Mozyr – Vitebsk</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bielorrusia. Vysheyshaya Liga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398029791__/</url>
+  </evento>
+  <evento>
+    <nombre>Novi Pazar – Zeleznicar Pancevo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Serbia. Superliga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398033632__/</url>
+  </evento>
+  <evento>
+    <nombre>Lyon – Auxerre</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue 1</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397663726__/</url>
+  </evento>
+  <evento>
+    <nombre>Kriens – Stade Ls Ouchy</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suiza. Challenge League</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397664110__/</url>
+  </evento>
+  <evento>
+    <nombre>Aarau – Rapperswil-Jona</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suiza. Challenge League</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397664112__/</url>
+  </evento>
+  <evento>
+    <nombre>CFR Cluj – Farul</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rumania. Liga 1</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398033524__/</url>
+  </evento>
+  <evento>
+    <nombre>Al-Wehdat – Al-Faisaly Amán</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Jordania. Premier League</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399786359__/</url>
+  </evento>
+  <evento>
+    <nombre>Richards Bay – AmaZulu</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Sudáfrica. PSL</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397664380__/</url>
+  </evento>
+  <evento>
+    <nombre>Marumo Gallants – Polokwane City</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Sudáfrica. PSL</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397664382__/</url>
+  </evento>
+  <evento>
+    <nombre>Vitesse – TOP Oss</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. Eerste Divisie</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397662209__/</url>
+  </evento>
+  <evento>
+    <nombre>Heracles Almelo – De Graafschap</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. Eerste Divisie</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397662211__/</url>
+  </evento>
+  <evento>
+    <nombre>Helmond Sport – VVV-Venlo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. Eerste Divisie</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397662213__/</url>
+  </evento>
+  <evento>
+    <nombre>Emmen – Volendam</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. Eerste Divisie</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397662215__/</url>
+  </evento>
+  <evento>
+    <nombre>Almere City – Jong Ajax</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. Eerste Divisie</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397662217__/</url>
+  </evento>
+  <evento>
+    <nombre>Al-Shabab Riad – Al-Hilal Riad</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Arabia Saudita. Liga Pro</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397662992__/</url>
+  </evento>
+  <evento>
+    <nombre>Varazdin – Istra</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Croacia. HNL</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034449__/</url>
+  </evento>
+  <evento>
+    <nombre>Al Ahli Yeda – Al-Riyadh</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Arabia Saudita. Liga Pro</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397662994__/</url>
+  </evento>
+  <evento>
+    <nombre>Pau – Sochaux</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue 2</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397663766__/</url>
+  </evento>
+  <evento>
+    <nombre>Laval – Red Star</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue 2</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397663768__/</url>
+  </evento>
+  <evento>
+    <nombre>Grenoble – Annecy</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue 2</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397663770__/</url>
+  </evento>
+  <evento>
+    <nombre>Dunkerque – Clermont</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue 2</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397663772__/</url>
+  </evento>
+  <evento>
+    <nombre>Boulogne – Dijon</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue 2</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397663774__/</url>
+  </evento>
+  <evento>
+    <nombre>Desportivo Brasil Sub-20 –  Sao Paolo Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Campeonato Paulista Sub-20</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400430624__/</url>
+  </evento>
+  <evento>
+    <nombre>SC Paulinense Sub-20 –  Novorizontino Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Campeonato Paulista Sub-20</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400430625__/</url>
+  </evento>
+  <evento>
+    <nombre>Maua Sub-20 –  Capivariano Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Campeonato Paulista Sub-20</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400430626__/</url>
+  </evento>
+  <evento>
+    <nombre>Jabaquara Sub-20 –  Uniao Suzano Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Campeonato Paulista Sub-20</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400430627__/</url>
+  </evento>
+  <evento>
+    <nombre>Simulcast</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue 2</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399721518_simulcast/</url>
+  </evento>
+  <evento>
+    <nombre>Cajamarca – Cienciano</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Perú. Liga 1</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397662537__/</url>
+  </evento>
+  <evento>
+    <nombre>London City Lionesses (M) –  Manchester United (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Mujeres. Superliga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397659211__/</url>
+  </evento>
+  <evento>
+    <nombre>Beerschot – Patro Eisden</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bélgica. Challenger Pro League</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397659503__/</url>
+  </evento>
+  <evento>
+    <nombre>Dender EH – Seraing</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bélgica. Challenger Pro League</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397659504__/</url>
+  </evento>
+  <evento>
+    <nombre>Petrovac – Sutjeska</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Montenegro. Primera División</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397663878__/</url>
+  </evento>
+  <evento>
+    <nombre>Guarani Sub-20 –  XV de Novembro Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Campeonato Paulista Sub-20</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400423317__/</url>
+  </evento>
+  <evento>
+    <nombre>Portuguesa Santista Sub-20 –  Santos-SP Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Campeonato Paulista Sub-20</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400423318__/</url>
+  </evento>
+  <evento>
+    <nombre>GO Audax Sub-20 –  RB Bragantino Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Campeonato Paulista Sub-20</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400423319__/</url>
+  </evento>
+  <evento>
+    <nombre>Sparta Róterdam – PEC Zwolle</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. Eredivisie</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397662161__/</url>
+  </evento>
+  <evento>
+    <nombre>Saoura – Horoya</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga de Campeones de la CAF. Clasificatoria</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398032086__/</url>
+  </evento>
+  <evento>
+    <nombre>Porto Foot Ball Sub-20 –  Gremio Prudente Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Campeonato Paulista Sub-20</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400426967__/</url>
+  </evento>
+  <evento>
+    <nombre>XV de Piracicaba Sub-20 –  Ibrachina Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Campeonato Paulista Sub-20</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400426968__/</url>
+  </evento>
+  <evento>
+    <nombre>Itapirense Sub-20 –  Juventus SP Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Campeonato Paulista Sub-20</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400426969__/</url>
+  </evento>
+  <evento>
+    <nombre>Velo Clube Sub-20 –  Botafogo-SP Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Campeonato Paulista Sub-20</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400426970__/</url>
+  </evento>
+  <evento>
+    <nombre>Sfera SP Sub-20 –  Ituano Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Campeonato Paulista Sub-20</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400426971__/</url>
+  </evento>
+  <evento>
+    <nombre>Mirassol Sub-20 –  Ponte Preta Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Campeonato Paulista Sub-20</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400426972__/</url>
+  </evento>
+  <evento>
+    <nombre>EC Sao Bernardo Sub-20 –  Bandeirante Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Campeonato Paulista Sub-20</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400452590__/</url>
+  </evento>
+  <evento>
+    <nombre>RKC Waalwijk – NAC Breda</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. Eerste Divisie</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397662207__/</url>
+  </evento>
+  <evento>
+    <nombre>Nafta – Radomlje</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Eslovenia. PrvaLiga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:15</hora>
+    <url>https://livetv.sx/es/eventinfo/398033700__/</url>
+  </evento>
+  <evento>
+    <nombre>Winterthur – Xamax</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suiza. Challenge League</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:15</hora>
+    <url>https://livetv.sx/es/eventinfo/397664114__/</url>
+  </evento>
+  <evento>
+    <nombre>Étoile Carouge – Wil</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suiza. Challenge League</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:15</hora>
+    <url>https://livetv.sx/es/eventinfo/397664116__/</url>
+  </evento>
+  <evento>
+    <nombre>Arda – Botev Plovdiv</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bulgaria. Parva Liga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:15</hora>
+    <url>https://livetv.sx/es/eventinfo/397659522__/</url>
+  </evento>
+  <evento>
+    <nombre>Independiente Juniors – Cuenca Juniors</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ecuador. Serie B</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:15</hora>
+    <url>https://livetv.sx/es/eventinfo/398253253__/</url>
+  </evento>
+  <evento>
+    <nombre>Defensores de Belgrano – Racing de Cordoba</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Argentina. Primera Nacional</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398029629__/</url>
+  </evento>
+  <evento>
+    <nombre>Stuttgart – Colonia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397659974__/</url>
+  </evento>
+  <evento>
+    <nombre>Las Palmas – Leganés</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Segunda División</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397660796__/</url>
+  </evento>
+  <evento>
+    <nombre>Piast Gliwice – GKS Katowice</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. Ekstraklasa</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397662673__/</url>
+  </evento>
+  <evento>
+    <nombre>Livingston – Stenhousemuir</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Escocia. Championship</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397664242__/</url>
+  </evento>
+  <evento>
+    <nombre>Flackwell Heath – Hanwell Town</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/398664448__/</url>
+  </evento>
+  <evento>
+    <nombre>Quorn – Shepshed Dynamo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/398664451__/</url>
+  </evento>
+  <evento>
+    <nombre>Aveley – Cheshunt</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/398664471__/</url>
+  </evento>
+  <evento>
+    <nombre>Ossett United – Pontefract Collieries</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/398664480__/</url>
+  </evento>
+  <evento>
+    <nombre>Lommel – Brujas</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bélgica. Pro League</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/397659488__/</url>
+  </evento>
+  <evento>
+    <nombre>Three Bridges – Kingstonian</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/398942398__/</url>
+  </evento>
+  <evento>
+    <nombre>Treaty United – Wexford</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Irlanda. First Division</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/397660624__/</url>
+  </evento>
+  <evento>
+    <nombre>Finn Harps – Athlone Town</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Irlanda. First Division</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/397660626__/</url>
+  </evento>
+  <evento>
+    <nombre>Cobh Ramblers – UCD</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Irlanda. First Division</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/397660628__/</url>
+  </evento>
+  <evento>
+    <nombre>Bray Wanderers – Cork City</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Irlanda. First Division</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/397660630__/</url>
+  </evento>
+  <evento>
+    <nombre>Drogheda United – Galway United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Irlanda. Copa</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/397660632__/</url>
+  </evento>
+  <evento>
+    <nombre>Waterford – Sligo Rovers</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Irlanda. Copa</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/397660634__/</url>
+  </evento>
+  <evento>
+    <nombre>Genoa – Como</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie A</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/397660894__/</url>
+  </evento>
+  <evento>
+    <nombre>Real Betis – Real Madrid</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Primera División</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397660749__/</url>
+  </evento>
+  <evento>
+    <nombre>Sandefjord – Viking</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Noruega. Eliteserien</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397662311__/</url>
+  </evento>
+  <evento>
+    <nombre>Nieciecza – Lechia Gdansk</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. I Liga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397662579__/</url>
+  </evento>
+  <evento>
+    <nombre>Ipswich Town – Liverpool</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Premier League</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397659255__/</url>
+  </evento>
+  <evento>
+    <nombre>UD Santarem – Caldas</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Portugal. Liga 3</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398235774__/</url>
+  </evento>
+  <evento>
+    <nombre>Real Oruro – SA Bulo Bulo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bolivia. Primera División</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397659540__/</url>
+  </evento>
+  <evento>
+    <nombre>Shamrock Rovers – Shelbourne</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Irlanda. Primera División</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/395161246__/</url>
+  </evento>
+  <evento>
+    <nombre>Lincoln Red Imps – Europa Point</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Gibraltar. Primera División</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397660092__/</url>
+  </evento>
+  <evento>
+    <nombre>Shamrock Rovers – Bohemian</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Irlanda. Primera División</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397660654__/</url>
+  </evento>
+  <evento>
+    <nombre>PSG – AS Mónaco</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue 1</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>21:05</hora>
+    <url>https://livetv.sx/es/eventinfo/397663728__/</url>
+  </evento>
+  <evento>
+    <nombre>Porto – Moreirense</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Portugal. Primeira Liga</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/398235802__/</url>
+  </evento>
+  <evento>
+    <nombre>Rio Cuarto – Sarmiento</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Argentina. Liga Profesional</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/398233648__/</url>
+  </evento>
+  <evento>
+    <nombre>Alianza Atlético – Cajamarca</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Perú. Liga 1</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>22:15</hora>
+    <url>https://livetv.sx/es/eventinfo/397662539__/</url>
+  </evento>
+  <evento>
+    <nombre>22 de Julio – Gualaceo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ecuador. Serie B</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>22:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398727994__/</url>
+  </evento>
+  <evento>
+    <nombre>Atlético Rojiblanco – 9 de Octubre</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ecuador. Serie B</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>22:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398253254__/</url>
+  </evento>
+  <evento>
+    <nombre>Leones – Atlético Cali</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Colombia. Primera B</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>22:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397661406__/</url>
+  </evento>
+  <evento>
+    <nombre>ABB – Universitario de Vinto</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bolivia. Primera División</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>23:15</hora>
+    <url>https://livetv.sx/es/eventinfo/397659542__/</url>
+  </evento>
+  <evento>
+    <nombre>Crown Legacy – Chicago Fire II</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. MLS Next Pro</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>23:30</hora>
+    <url>https://livetv.sx/es/eventinfo/400236504__/</url>
+  </evento>
+  <evento>
+    <nombre>Atlético Platense – Deportivo Riestra</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Argentina. Liga Profesional</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>00:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398233640__/</url>
+  </evento>
+  <evento>
+    <nombre>Belgrano – Huracán</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Argentina. Liga Profesional</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>00:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398233652__/</url>
+  </evento>
+  <evento>
+    <nombre>Vanuatu U19 – Tahití U19</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Campeonato Sub-19 de la OFC</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>00:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399614519_vanuatu_u19_tahiti_u19/</url>
+  </evento>
+  <evento>
+    <nombre>Bogotá – Independiente Yumbo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Colombia. Primera B</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>00:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397678006__/</url>
+  </evento>
+  <evento>
+    <nombre>MC Torque – Cerro Largo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Uruguay. Primera División</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>00:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398960057__/</url>
+  </evento>
+  <evento>
+    <nombre>Carolina Core – New England Revolution II</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. MLS Next Pro</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>00:30</hora>
+    <url>https://livetv.sx/es/eventinfo/400214818__/</url>
+  </evento>
+  <evento>
+    <nombre>Criciúma – Cuiaba</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Serie B</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>00:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397676980__/</url>
+  </evento>
+  <evento>
+    <nombre>Bandeirante –  Uniao Sao Joao Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Copa Paulista</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400430622__/</url>
+  </evento>
+  <evento>
+    <nombre>Houston Dynamo 2 – Austin II</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. MLS Next Pro</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400214819__/</url>
+  </evento>
+  <evento>
+    <nombre>Inter Miami II – Orlando City B</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. MLS Next Pro</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400214820__/</url>
+  </evento>
+  <evento>
+    <nombre>Ferro Carril Oeste – Atlético Mitre</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Argentina. Primera Nacional</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398029661__/</url>
+  </evento>
+  <evento>
+    <nombre>Filadelfia II – Columbus Crew II</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. MLS Next Pro</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400229270__/</url>
+  </evento>
+  <evento>
+    <nombre>DC Power (M) –  Sporting Jacksonville (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. Mujeres. USL</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400222111__/</url>
+  </evento>
+  <evento>
+    <nombre>Toronto II – Cincinnati 2</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. MLS Next Pro</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400232885__/</url>
+  </evento>
+  <evento>
+    <nombre>Loudoun United – CS Switchbacks</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. USL</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397693380__/</url>
+  </evento>
+  <evento>
+    <nombre>Nueva York City – Nashville</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. MLS</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>01:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397693334__/</url>
+  </evento>
+  <evento>
+    <nombre>Athletic MG – Vila Nova</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Serie B</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>01:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397691594__/</url>
+  </evento>
+  <evento>
+    <nombre>El Nacional – LDU Portoviejo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ecuador. Serie B</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398727996__/</url>
+  </evento>
+  <evento>
+    <nombre>Deportes Concepción – Audax Italiano</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Chile. Primera División</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397715468__/</url>
+  </evento>
+  <evento>
+    <nombre>Técnico Univ – LDU Quito</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ecuador. Serie A</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398236587__/</url>
+  </evento>
+  <evento>
+    <nombre>CRB – América Mineiro</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Serie B</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397713332__/</url>
+  </evento>
+  <evento>
+    <nombre>Palmeiras (M) –  Bahia (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Mujeres. Serie A1</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/400136891__/</url>
+  </evento>
+  <evento>
+    <nombre>Orsomarso – Real Cartagena</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Colombia. Primera B</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397714156__/</url>
+  </evento>
+  <evento>
+    <nombre>North Texas – Real Monarchs</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. MLS Next Pro</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>02:45</hora>
+    <url>https://livetv.sx/es/eventinfo/400229273__/</url>
+  </evento>
+  <evento>
+    <nombre>CD Choloma – Olancho</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Honduras. Liga Nacional</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400173091__/</url>
+  </evento>
+  <evento>
+    <nombre>Alacranes de Durango – Tlaxcala</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>México. Liga de Expansion</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397714316__/</url>
+  </evento>
+  <evento>
+    <nombre>Antigua GFC – Aurora</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Guatemala. Liga Nacional</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397306063__/</url>
+  </evento>
+  <evento>
+    <nombre>Utah Royals (M) –  Boston Legacy (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. Mujeres. NWSL</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>03:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397715144__/</url>
+  </evento>
+  <evento>
+    <nombre>Escorpiones – Inter San Carlos</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Costa Rica. Primera División</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398234900__/</url>
+  </evento>
+  <evento>
+    <nombre>Nueva Zelanda U19 – Fiyi U19</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Campeonato Sub-19 de la OFC</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399614520_new_zealand_u19_fiji_u19/</url>
+  </evento>
+  <evento>
+    <nombre>Bay (M) –  Kansas City (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. Mujeres. NWSL</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397725121__/</url>
+  </evento>
+  <evento>
+    <nombre>Atlas (M) –  Guadalajara (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>México. Mujeres. Liga MX</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>04:06</hora>
+    <url>https://livetv.sx/es/eventinfo/397724264__/</url>
+  </evento>
+  <evento>
+    <nombre>Atlético La Paz – Mineros</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>México. Liga de Expansion</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397732865__/</url>
+  </evento>
+  <evento>
+    <nombre>Modbury Jets II – Cumberland United II</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Northern NSW. Reservar</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399913533__/</url>
+  </evento>
+  <evento>
+    <nombre>Cove II – Adelaida Olympic II</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Northern NSW. Reservar</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399913534__/</url>
+  </evento>
+  <evento>
+    <nombre>Pumas (M) –  America (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>México. Mujeres. Liga MX</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397732793__/</url>
+  </evento>
+  <evento>
+    <nombre>Juárez – Pachuca</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>México. Liga MX</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397732833__/</url>
+  </evento>
+  <evento>
+    <nombre>Broadmeadow – Maitland</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. NPL Northern NSW</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>06:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399619328__/</url>
+  </evento>
+  <evento>
+    <nombre>Kahibah – Newcastle Croatia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. NPL Northern NSW</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>06:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399730599__/</url>
+  </evento>
+  <evento>
+    <nombre>South Melbourne – Heidelberg United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. NPL Victoria</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>07:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399509758__/</url>
+  </evento>
+  <evento>
+    <nombre>Avondale – Preston Lions</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. NPL Victoria</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>07:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399509759__/</url>
+  </evento>
+  <evento>
+    <nombre>Modbury Jets – Adelaida Olympic</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Liga Estatal de Australia Meridional 1</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>07:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399509795__/</url>
+  </evento>
+  <evento>
+    <nombre>Adelaida Raiders – Adelaide Blue Eagles</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Liga Estatal de Australia Meridional 1</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>07:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399509796__/</url>
+  </evento>
+  <evento>
+    <nombre>Bulleen Lions (M) –  South Melbourne (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Mujeres. NPL Victoria</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>08:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399913528__/</url>
+  </evento>
+  <evento>
+    <nombre>Canberra – Queanbeyan City</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. NPL ACT</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>08:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399814618__/</url>
+  </evento>
+  <evento>
+    <nombre>Palmerston Rovers – Darwin Olympic</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. NTPL</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>08:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397758679__/</url>
+  </evento>
+  <evento>
+    <nombre>UNSW (M) –  APIA Leichhardt (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Mujeres. NPL Nueva Gales del Sur</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399913530__/</url>
+  </evento>
+  <evento>
+    <nombre>Sturt Lions II – MetroStars II</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Northern NSW. Reservar</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399913535__/</url>
+  </evento>
+  <evento>
+    <nombre>Changwon City – Daejeon Korail</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Corea del Sur. K-League 3</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397778971__/</url>
+  </evento>
+  <evento>
+    <nombre>Chernihiv – Niva Ternopol</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. 1 Liha</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399853496_chernihiv_niva_ternopol/</url>
+  </evento>
+  <evento>
+    <nombre>Port Darwin – Azzurri United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. NTPL</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>10:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397776883__/</url>
+  </evento>
+  <evento>
+    <nombre>Northern Tigers – St George</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. NPL Nueva Gales del Sur</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>10:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399851259__/</url>
+  </evento>
+  <evento>
+    <nombre>Matsumoto Yamaga – Osaka</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Japón. J3 League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398035055__/</url>
+  </evento>
+  <evento>
+    <nombre>Sagamihara – Nagano Parceiro</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Japón. J3 League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398035057__/</url>
+  </evento>
+  <evento>
+    <nombre>Kamatamare Sanuki – Reilac Shiga</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Japón. J3 League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398035059__/</url>
+  </evento>
+  <evento>
+    <nombre>Gifu – Zweigen Kanazawa</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Japón. J3 League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398035061__/</url>
+  </evento>
+  <evento>
+    <nombre>Victoria – Polesia-2</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. 1 Liha</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399853497_victoria_polesia_2/</url>
+  </evento>
+  <evento>
+    <nombre>Kolos Kovalivka (W) – Panthers (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. Mujeres. Vyshcha Liha</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399853511_kolos_kovalivka_w_panthers_w/</url>
+  </evento>
+  <evento>
+    <nombre>Monaro Panthers – Tigers</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. NPL ACT</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399814619__/</url>
+  </evento>
+  <evento>
+    <nombre>West Torrens Birkalla – MetroStars</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. NPL Australia Meridional</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399509771__/</url>
+  </evento>
+  <evento>
+    <nombre>Adelaida City – Playford City</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. NPL Australia Meridional</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399509772__/</url>
+  </evento>
+  <evento>
+    <nombre>Fujieda MYFC – Vanraure Hachinohe</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Japón. J2 League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398035021__/</url>
+  </evento>
+  <evento>
+    <nombre>Fenix Mariupol – Kulikiv</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. 1 Liha</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399853498_fenix_mariupol_kulikiv/</url>
+  </evento>
+  <evento>
+    <nombre>Poltava-2 – Trostianets</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. 2 liha</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399853506_poltava_2_trostianets/</url>
+  </evento>
+  <evento>
+    <nombre>Ulsan Citizen – Gyeongju KHNP</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Corea del Sur. K-League 3</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398033415__/</url>
+  </evento>
+  <evento>
+    <nombre>Espanyol (M) –  Badalona (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Mujeres. Primera División</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398031124__/</url>
+  </evento>
+  <evento>
+    <nombre>Avispa Fukuoka – Mito HollyHock</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Japón. J League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034999__/</url>
+  </evento>
+  <evento>
+    <nombre>Kryvbas – Kolos</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. Liga Premier</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034244__/</url>
+  </evento>
+  <evento>
+    <nombre>Járkov – Obolón</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. Liga Premier</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034246__/</url>
+  </evento>
+  <evento>
+    <nombre>Tokushima Vortis – Iwaki</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Japón. J2 League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398035023__/</url>
+  </evento>
+  <evento>
+    <nombre>Shonan Bellmare – Vegalta Sendai</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Japón. J2 League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398035025__/</url>
+  </evento>
+  <evento>
+    <nombre>Sagan Tosu – Tegevajaro Miyazaki</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Japón. J2 League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398035027__/</url>
+  </evento>
+  <evento>
+    <nombre>Montedio Yamagata – Ventforet Kofu</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Japón. J2 League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398035029__/</url>
+  </evento>
+  <evento>
+    <nombre>Tochigi – Kochi United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Japón. J3 League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398035063__/</url>
+  </evento>
+  <evento>
+    <nombre>Thespa Gunma – Fukushima Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Japón. J3 League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398035065__/</url>
+  </evento>
+  <evento>
+    <nombre>Kagoshima Utd – Ryukyu</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Japón. J3 League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398035067__/</url>
+  </evento>
+  <evento>
+    <nombre>Gainare Tottori – Renofa Yamaguchi</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Japón. J3 League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398035069__/</url>
+  </evento>
+  <evento>
+    <nombre>Ehime – Giravanz Kitakyushu</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Japón. J3 League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398035071__/</url>
+  </evento>
+  <evento>
+    <nombre>Tondela – Porto B</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Portugal. Segunda Liga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398235820__/</url>
+  </evento>
+  <evento>
+    <nombre>Metalist – UCSA</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. 1 Liha</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399853499_metalist_ucsa/</url>
+  </evento>
+  <evento>
+    <nombre>Hamburg (M) –  RB Leipzig (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Mujeres. Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030565__/</url>
+  </evento>
+  <evento>
+    <nombre>Valencia (M) –  Madrid (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Mujeres. Primera División</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/397572605__/</url>
+  </evento>
+  <evento>
+    <nombre>Polesia U21 – Kudrivka U21</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. Premier League Sub-21</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399853486_polesia_u21_kudrivka_u21/</url>
+  </evento>
+  <evento>
+    <nombre>Hellenic – Darwin Hearts</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. NTPL</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398029285__/</url>
+  </evento>
+  <evento>
+    <nombre>Vaernamo – Varberg</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. Superettan</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034760__/</url>
+  </evento>
+  <evento>
+    <nombre>Krylia Sovetov – Krasnodar</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. Premier Liga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398033487__/</url>
+  </evento>
+  <evento>
+    <nombre>Wolfsburgo – Energie Cottbus</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 2 Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030453__/</url>
+  </evento>
+  <evento>
+    <nombre>Kaiserslautern – Darmstadt</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 2 Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030455__/</url>
+  </evento>
+  <evento>
+    <nombre>Holstein Kiel – Núremberg</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 2 Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030457__/</url>
+  </evento>
+  <evento>
+    <nombre>Okzhetpes – Ordabasy</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Kazajistán. Liga Premier</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398031504__/</url>
+  </evento>
+  <evento>
+    <nombre>Changchun Yatai – Ningbo Professional</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>China. League One</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398031764__/</url>
+  </evento>
+  <evento>
+    <nombre>Wuxi Wugou – Yanbian Longding</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>China. League One</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398031766__/</url>
+  </evento>
+  <evento>
+    <nombre>Shaanxi Union – Dingnan United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>China. League One</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398031768__/</url>
+  </evento>
+  <evento>
+    <nombre>Chiangrai Utd – Chonburi</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Tailandia. Thai League 1</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034082__/</url>
+  </evento>
+  <evento>
+    <nombre>Agrobusiness – Probiy</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. 1 Liha</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399853500_agrobusiness_probiy/</url>
+  </evento>
+  <evento>
+    <nombre>Wuhan Three Towns – Qingdao West Coast</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>China. Superliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398031804__/</url>
+  </evento>
+  <evento>
+    <nombre>Simulcast</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 2 Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399721427_simulcast/</url>
+  </evento>
+  <evento>
+    <nombre>Wigan Athletic – Stockport</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. League One</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398029341__/</url>
+  </evento>
+  <evento>
+    <nombre>Peterborough United – Sheffield Wednesday</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. League One</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398029342__/</url>
+  </evento>
+  <evento>
+    <nombre>Salford City – Port Vale</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. League Two</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398029376__/</url>
+  </evento>
+  <evento>
+    <nombre>Fleetwood Town – Shrewsbury Town</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. League Two</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398029377__/</url>
+  </evento>
+  <evento>
+    <nombre>Chelsea (M) –  Aston Villa (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Mujeres. Superliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398029389__/</url>
+  </evento>
+  <evento>
+    <nombre>Newcastle United – Bournemouth</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Premier League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398029428__/</url>
+  </evento>
+  <evento>
+    <nombre>Nantong Zhiyun – Guangdong GZ-Power</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>China. League One</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398031770__/</url>
+  </evento>
+  <evento>
+    <nombre>Foshan Nanshi – Dalian Kuncheng</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>China. League One</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398031772__/</url>
+  </evento>
+  <evento>
+    <nombre>Bangkok Utd – Sisaket United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Tailandia. Thai League 1</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398034084__/</url>
+  </evento>
+  <evento>
+    <nombre>Preston – Blackburn</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Championship</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398029479__/</url>
+  </evento>
+  <evento>
+    <nombre>Lincoln City – Southampton</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Championship</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398029480__/</url>
+  </evento>
+  <evento>
+    <nombre>Stoke City – Charlton Athletic</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Championship</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398029481__/</url>
+  </evento>
+  <evento>
+    <nombre>Kuressaare – Narva Trans</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Estonia. Meistriliiga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398034880__/</url>
+  </evento>
+  <evento>
+    <nombre>BSK Bania Luka – Celik Zenica</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bosnia y Herzegovina. Premijer liga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398030060__/</url>
+  </evento>
+  <evento>
+    <nombre>Shanghái Port – Beijing Guoan</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>China. Superliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:35</hora>
+    <url>https://livetv.sx/es/eventinfo/398031806__/</url>
+  </evento>
+  <evento>
+    <nombre>Dalian Yingbo – Qingdao Hainiu</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>China. Superliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>13:35</hora>
+    <url>https://livetv.sx/es/eventinfo/398031808__/</url>
+  </evento>
+  <evento>
+    <nombre>Gloria Bistrita (W) – Farul Constanta (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rumania. Mujeres. Liga 1</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399612430_gloria_bistrita_w_farul_constanta_w/</url>
+  </evento>
+  <evento>
+    <nombre>Curzon Ashton – Bradford PA</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664490__/</url>
+  </evento>
+  <evento>
+    <nombre>Simulcast</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 3 Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399721516_simulcast/</url>
+  </evento>
+  <evento>
+    <nombre>FC Meshakhte Tkibuli – Spaeri</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Georgia. Erovnuli Liga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030648__/</url>
+  </evento>
+  <evento>
+    <nombre>Tukums – Ogre United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Letonia. Virsliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398031944__/</url>
+  </evento>
+  <evento>
+    <nombre>Fredericia – Esbjerg</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Dinamarca. 1 División</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030674__/</url>
+  </evento>
+  <evento>
+    <nombre>AB Gladsaxe – AaB</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Dinamarca. 1 División</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030675__/</url>
+  </evento>
+  <evento>
+    <nombre>Botosani – Sepsi OSK</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rumania. Liga 1</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398033526__/</url>
+  </evento>
+  <evento>
+    <nombre>Caspiy – Kairat</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Kazajistán. Liga Premier</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398031506__/</url>
+  </evento>
+  <evento>
+    <nombre>Ratisbona – Duisburgo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 3 Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030484__/</url>
+  </evento>
+  <evento>
+    <nombre>Preussen Muenster – Havelse</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 3 Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030486__/</url>
+  </evento>
+  <evento>
+    <nombre>Meppen – Saarbruecken</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 3 Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030488__/</url>
+  </evento>
+  <evento>
+    <nombre>Waldhof – Verl</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 3 Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030491__/</url>
+  </evento>
+  <evento>
+    <nombre>Hansa Rostock – Wehen</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 3 Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030493__/</url>
+  </evento>
+  <evento>
+    <nombre>Rasi Salai United – Port</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Tailandia. Thai League 1</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034086__/</url>
+  </evento>
+  <evento>
+    <nombre>Prykarpattya – Oleksandria</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. 1 Liha</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399853501_prykarpattya_oleksandria/</url>
+  </evento>
+  <evento>
+    <nombre>Shandong Taishan – Shenzhen Peng City</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>China. Superliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398031810__/</url>
+  </evento>
+  <evento>
+    <nombre>Real Sociedad B – Tenerife</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Segunda División</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398031299__/</url>
+  </evento>
+  <evento>
+    <nombre>Tallinna Kalev – Tartu Welco</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Estonia. Esiliiga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034910__/</url>
+  </evento>
+  <evento>
+    <nombre>Maguncia 05 (M) –  Colonia (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Mujeres. Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030566__/</url>
+  </evento>
+  <evento>
+    <nombre>Reims – Guingamp</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue 2</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034407__/</url>
+  </evento>
+  <evento>
+    <nombre>Metz – Rodez</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue 2</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034408__/</url>
+  </evento>
+  <evento>
+    <nombre>Burgess Hill Town – Jersey Bulls</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398664458__/</url>
+  </evento>
+  <evento>
+    <nombre>Rayong – PT Prachuap</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Tailandia. Thai League 1</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398034088__/</url>
+  </evento>
+  <evento>
+    <nombre>Dnister Zalishchyky – Podillya Khmelnytskyi</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. 2 liha</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399853507_dnister_zalishchyky_podillya_khmelnytskyi/</url>
+  </evento>
+  <evento>
+    <nombre>Torpedo-BelAZ – Gómel</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bielorrusia. Vysheyshaya Liga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398029805__/</url>
+  </evento>
+  <evento>
+    <nombre>Simulcast</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. National</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:45</hora>
+    <url>https://livetv.sx/es/eventinfo/399721519_simulcast/</url>
+  </evento>
+  <evento>
+    <nombre>Widzew Lodz – Radomiak</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. Ekstraklasa</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:45</hora>
+    <url>https://livetv.sx/es/eventinfo/398033325__/</url>
+  </evento>
+  <evento>
+    <nombre>Versailles – Cannes</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. National</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:45</hora>
+    <url>https://livetv.sx/es/eventinfo/398034420__/</url>
+  </evento>
+  <evento>
+    <nombre>Paris 13 – Aubagne</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. National</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:45</hora>
+    <url>https://livetv.sx/es/eventinfo/398034421__/</url>
+  </evento>
+  <evento>
+    <nombre>Le Puy – Orleans</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. National</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:45</hora>
+    <url>https://livetv.sx/es/eventinfo/398034422__/</url>
+  </evento>
+  <evento>
+    <nombre>La Roche – Quevilly</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. National</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:45</hora>
+    <url>https://livetv.sx/es/eventinfo/398034423__/</url>
+  </evento>
+  <evento>
+    <nombre>Fleury 91 – Villefranche</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. National</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:45</hora>
+    <url>https://livetv.sx/es/eventinfo/398034424__/</url>
+  </evento>
+  <evento>
+    <nombre>Concarneau – Thionville Lusitanos</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. National</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:45</hora>
+    <url>https://livetv.sx/es/eventinfo/398034425__/</url>
+  </evento>
+  <evento>
+    <nombre>Bourg-en-Bresse P – Caen</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. National</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:45</hora>
+    <url>https://livetv.sx/es/eventinfo/398034426__/</url>
+  </evento>
+  <evento>
+    <nombre>Bastia – Amiens</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. National</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>14:45</hora>
+    <url>https://livetv.sx/es/eventinfo/398034427__/</url>
+  </evento>
+  <evento>
+    <nombre>Chippa United – Milford</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Sudáfrica. PSL</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034950__/</url>
+  </evento>
+  <evento>
+    <nombre>Fiorentina – Turín</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie A</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398031379__/</url>
+  </evento>
+  <evento>
+    <nombre>Degerfors – Halmstad</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. Allsvenskan</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034718__/</url>
+  </evento>
+  <evento>
+    <nombre>GAIS – Haecken</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. Allsvenskan</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034720__/</url>
+  </evento>
+  <evento>
+    <nombre>Sogdiana – Mashal</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Uzbekistán. Superliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034218__/</url>
+  </evento>
+  <evento>
+    <nombre>Kokand – Dinamo Samarcanda</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Uzbekistán. Superliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034222__/</url>
+  </evento>
+  <evento>
+    <nombre>Aktobe – Zhenys</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Kazajistán. Liga Premier</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398234674__/</url>
+  </evento>
+  <evento>
+    <nombre>Oddevold – Falkenberg</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. Superettan</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034762__/</url>
+  </evento>
+  <evento>
+    <nombre>Norrby – Landskrona</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. Superettan</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034764__/</url>
+  </evento>
+  <evento>
+    <nombre>Slovacko – Pardubice</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>República Checa. 1. liga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034562__/</url>
+  </evento>
+  <evento>
+    <nombre>Slavia Praga – Zbrojovka Brno</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>República Checa. 1. liga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034564__/</url>
+  </evento>
+  <evento>
+    <nombre>Vianense – Pacos de Ferreira</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Portugal. Liga 3</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398235780__/</url>
+  </evento>
+  <evento>
+    <nombre>Sigma – Bohemians</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>República Checa. 1. liga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034566__/</url>
+  </evento>
+  <evento>
+    <nombre>Karvina – Viktoria Pilsen</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>República Checa. 1. liga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034568__/</url>
+  </evento>
+  <evento>
+    <nombre>Zhetysu – Irtysh</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Kazajistán. Liga Premier</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398031508__/</url>
+  </evento>
+  <evento>
+    <nombre>Penafiel – Academica</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Portugal. Segunda Liga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398235821__/</url>
+  </evento>
+  <evento>
+    <nombre>Chernomorets U 21 – Livyi Bereg U21</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. Premier League Sub-21</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399853487_chernomorets_u_21_livyi_bereg_u21/</url>
+  </evento>
+  <evento>
+    <nombre>Aigle Noir – Al Hilal Omdurman</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga de Campeones de la CAF. Clasificatoria</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398032058__/</url>
+  </evento>
+  <evento>
+    <nombre>Al-Merreikh – Heegan</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga de Campeones de la CAF. Clasificatoria</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398032062__/</url>
+  </evento>
+  <evento>
+    <nombre>Skala 1911 – Rukh Lviv</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. 2 liha</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399853508_skala_1911_rukh_lviv/</url>
+  </evento>
+  <evento>
+    <nombre>Bandirmaspor – Boluspor</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Turquía. 1 Lig</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398034158__/</url>
+  </evento>
+  <evento>
+    <nombre>Suedtirol – Catanzaro</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie B</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398031353__/</url>
+  </evento>
+  <evento>
+    <nombre>North Ferriby – Barton Town</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664443__/</url>
+  </evento>
+  <evento>
+    <nombre>Stal Mielec – Odra Opole</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. I Liga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398033223__/</url>
+  </evento>
+  <evento>
+    <nombre>Stal Rzeszow – Polonia Varsovia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. I Liga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398033225__/</url>
+  </evento>
+  <evento>
+    <nombre>Miedz Legnica – Chrobry Glogovia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. I Liga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398033227__/</url>
+  </evento>
+  <evento>
+    <nombre>Zenit – CSKA</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. Premier Liga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398033489__/</url>
+  </evento>
+  <evento>
+    <nombre>Werder Bremen – RB Leipzig</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398030543__/</url>
+  </evento>
+  <evento>
+    <nombre>Paderborn – Friburgo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398030544__/</url>
+  </evento>
+  <evento>
+    <nombre>Simulcast</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399721425_simulcast/</url>
+  </evento>
+  <evento>
+    <nombre>Hoffenheim – Dortmund</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398030545__/</url>
+  </evento>
+  <evento>
+    <nombre>Borussia M – Elversberg</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398030546__/</url>
+  </evento>
+  <evento>
+    <nombre>Leverkusen – Union Berlín</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398030547__/</url>
+  </evento>
+  <evento>
+    <nombre>Bani Yas – Hatta</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EÁU. Pro League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:45</hora>
+    <url>https://livetv.sx/es/eventinfo/398032997__/</url>
+  </evento>
+  <evento>
+    <nombre>Sharjah – United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EÁU. Pro League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>15:45</hora>
+    <url>https://livetv.sx/es/eventinfo/398032999__/</url>
+  </evento>
+  <evento>
+    <nombre>Coventry United – Bedworth Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664449__/</url>
+  </evento>
+  <evento>
+    <nombre>Crowborough Athletic – Whyteleafe</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664450__/</url>
+  </evento>
+  <evento>
+    <nombre>Dulwich Hamlet – East Grinstead Town</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664452__/</url>
+  </evento>
+  <evento>
+    <nombre>Stafford Rangers – Northampton ON Chenecks</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664453__/</url>
+  </evento>
+  <evento>
+    <nombre>Halesowen Town – Basford Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664455__/</url>
+  </evento>
+  <evento>
+    <nombre>Lewes – Cray Wanderers</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664456__/</url>
+  </evento>
+  <evento>
+    <nombre>Banbury Utd – Exmouth Town</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398937608__/</url>
+  </evento>
+  <evento>
+    <nombre>Bromsgrove Sporting – Nuneaton Borough</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664457__/</url>
+  </evento>
+  <evento>
+    <nombre>Malvern Town – Redditch Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664459__/</url>
+  </evento>
+  <evento>
+    <nombre>Gloucester City – Mangotsfield United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398937611__/</url>
+  </evento>
+  <evento>
+    <nombre>Redhill – Sheppey United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664460__/</url>
+  </evento>
+  <evento>
+    <nombre>Sherwood Colliery – Gainsborough Trinity</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664461__/</url>
+  </evento>
+  <evento>
+    <nombre>Winslow United – Swindon Supermarine</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399913741__/</url>
+  </evento>
+  <evento>
+    <nombre>Concord Rangers – Brentwood Town</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664462__/</url>
+  </evento>
+  <evento>
+    <nombre>Wellingborough Town – Kettering</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664463__/</url>
+  </evento>
+  <evento>
+    <nombre>Biggleswade Town – Hitchin Town</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664464__/</url>
+  </evento>
+  <evento>
+    <nombre>Stamford – Mickleover Sports</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664465__/</url>
+  </evento>
+  <evento>
+    <nombre>Redcar Town – Blyth Spartans</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399913745__/</url>
+  </evento>
+  <evento>
+    <nombre>Gyori ETO – Honved</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Hungría. NB I</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030353__/</url>
+  </evento>
+  <evento>
+    <nombre>Grays Athletic – Leiston</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664466__/</url>
+  </evento>
+  <evento>
+    <nombre>Brantham Athletic – Waltham Abbey</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664468__/</url>
+  </evento>
+  <evento>
+    <nombre>Canvey Island – Newmarket Town</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664469__/</url>
+  </evento>
+  <evento>
+    <nombre>Alfreton Town – Stratford Town</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664470__/</url>
+  </evento>
+  <evento>
+    <nombre>BB Erzurumspor – Konyaspor</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Turquía. Superliga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398236183__/</url>
+  </evento>
+  <evento>
+    <nombre>Cleethorpes Town – Newcastle Town</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664472__/</url>
+  </evento>
+  <evento>
+    <nombre>St Albans City – Hashtag United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664473__/</url>
+  </evento>
+  <evento>
+    <nombre>Charleroi – Union Saint-Gilloise</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bélgica. Pro League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398029849__/</url>
+  </evento>
+  <evento>
+    <nombre>Bury – Wythenshawe Town</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664474__/</url>
+  </evento>
+  <evento>
+    <nombre>Real Bedford – Royston Town</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664475__/</url>
+  </evento>
+  <evento>
+    <nombre>Stockton Town – Guiseley</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664476__/</url>
+  </evento>
+  <evento>
+    <nombre>Mulbarton Wanderers – Cornard United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664477__/</url>
+  </evento>
+  <evento>
+    <nombre>Whitby Town – Ashton Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664478__/</url>
+  </evento>
+  <evento>
+    <nombre>Cambridge City – Maldon &amp; Tiptree</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664479__/</url>
+  </evento>
+  <evento>
+    <nombre>Huddersfield – Notts County</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. League One</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398029343__/</url>
+  </evento>
+  <evento>
+    <nombre>Doncaster Rovers – Plymouth Argyle</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. League One</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398029344__/</url>
+  </evento>
+  <evento>
+    <nombre>Leighton Town – Gorleston</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664481__/</url>
+  </evento>
+  <evento>
+    <nombre>Burton Albion – Cambridge Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. League One</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398029345__/</url>
+  </evento>
+  <evento>
+    <nombre>Witham Town – Stotfold</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398835745__/</url>
+  </evento>
+  <evento>
+    <nombre>Peterborough Sports – Ipswich Wanderers</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664482__/</url>
+  </evento>
+  <evento>
+    <nombre>Bradford City – Mansfield Town</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. League One</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398029346__/</url>
+  </evento>
+  <evento>
+    <nombre>Lower Breck – Thornaby</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664483__/</url>
+  </evento>
+  <evento>
+    <nombre>Barnsley – Stevenage</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. League One</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398029347__/</url>
+  </evento>
+  <evento>
+    <nombre>Harleston – Romford</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398835747__/</url>
+  </evento>
+  <evento>
+    <nombre>Hendon – Hullbridge Sports</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664484__/</url>
+  </evento>
+  <evento>
+    <nombre>Wycombe – Milton Keynes</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. League One</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398029348__/</url>
+  </evento>
+  <evento>
+    <nombre>Lancaster City – Tadcaster Albion</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664485__/</url>
+  </evento>
+  <evento>
+    <nombre>Reading – Blackpool</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. League One</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398029349__/</url>
+  </evento>
+  <evento>
+    <nombre>Stanway Rovers – Needham Market</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664486__/</url>
+  </evento>
+  <evento>
+    <nombre>Luton Town – Leyton Orient</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. League One</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398029350__/</url>
+  </evento>
+  <evento>
+    <nombre>Ware – Fakenham Town</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398835750__/</url>
+  </evento>
+  <evento>
+    <nombre>Garforth Town – United Of Manchester</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664487__/</url>
+  </evento>
+  <evento>
+    <nombre>Leicester City – Oxford Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. League One</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398029351__/</url>
+  </evento>
+  <evento>
+    <nombre>Asane – Hoedd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Noruega. 1. Divisjon</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398032935__/</url>
+  </evento>
+  <evento>
+    <nombre>Warrington Rylands – Hyde United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664488__/</url>
+  </evento>
+  <evento>
+    <nombre>Redcar Athletic – Stocksbridge</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664489__/</url>
+  </evento>
+  <evento>
+    <nombre>Strommen – Bryne</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Noruega. 1. Divisjon</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398032937__/</url>
+  </evento>
+  <evento>
+    <nombre>Bourne Town – Boldmere St Michaels</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398835754__/</url>
+  </evento>
+  <evento>
+    <nombre>Avro – Witton Albion</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664491__/</url>
+  </evento>
+  <evento>
+    <nombre>Sandnes Ulf – Ranheim</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Noruega. 1. Divisjon</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398032939__/</url>
+  </evento>
+  <evento>
+    <nombre>Shildon – Warrington Town</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664492__/</url>
+  </evento>
+  <evento>
+    <nombre>Bishop`s Stortford – Berkhamsted</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664493__/</url>
+  </evento>
+  <evento>
+    <nombre>Odd – Stroemsgodset</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Noruega. 1. Divisjon</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398032941__/</url>
+  </evento>
+  <evento>
+    <nombre>Kongsvinger – Raufoss</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Noruega. 1. Divisjon</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398032943__/</url>
+  </evento>
+  <evento>
+    <nombre>Wingate &amp; Finchley – Felixstowe &amp; Walton</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664496__/</url>
+  </evento>
+  <evento>
+    <nombre>Egham Town – Chatham Town</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664497__/</url>
+  </evento>
+  <evento>
+    <nombre>Haugesund – Sogndal</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Noruega. 1. Divisjon</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398032945__/</url>
+  </evento>
+  <evento>
+    <nombre>Workington – Marske United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664498__/</url>
+  </evento>
+  <evento>
+    <nombre>Lye Town – Racing Club Warwick</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664499__/</url>
+  </evento>
+  <evento>
+    <nombre>Chertsey Town – Carshalton Athletic</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664500__/</url>
+  </evento>
+  <evento>
+    <nombre>Vauxhall Motors – Dunston</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664501__/</url>
+  </evento>
+  <evento>
+    <nombre>Faversham Town – Welling United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398932021__/</url>
+  </evento>
+  <evento>
+    <nombre>Sporting Khalsa – Leek</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664502__/</url>
+  </evento>
+  <evento>
+    <nombre>Leatherhead – Croydon Athletic</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664503__/</url>
+  </evento>
+  <evento>
+    <nombre>Bamber Bridge – Trafford</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398664504__/</url>
+  </evento>
+  <evento>
+    <nombre>Northwich Victoria – Atherton Collieries</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. FA Cup</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398932024__/</url>
+  </evento>
+  <evento>
+    <nombre>Brujas II – Eupen</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bélgica. Challenger Pro League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398029880__/</url>
+  </evento>
+  <evento>
+    <nombre>Gante II – Anderlecht II</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bélgica. Challenger Pro League</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398029882__/</url>
+  </evento>
+  <evento>
+    <nombre>Dila – Gagra</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Georgia. Erovnuli Liga</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398030650__/</url>
+  </evento>
+  <evento>
+    <nombre>Bristol Rovers – Rotherham Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. League Two</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398029378__/</url>
+  </evento>
+  <evento>
+    <nombre>Accrington Stanley – Crawley Town</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. League Two</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398029379__/</url>
+  </evento>
+  <evento>
+    <nombre>Tranmere Rovers – Oldham Athletic</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. League Two</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398029380__/</url>
+  </evento>
+  <evento>
+    <nombre>Swindon – Colchester Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. League Two</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398029381__/</url>
   </evento>
   <evento>
     <nombre>Toros – Molot</nombre>
@@ -487,6 +4703,14 @@
     <fecha>3 de septiembre</fecha>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/397428335__/</url>
+  </evento>
+  <evento>
+    <nombre>Zvezda Moscú – Khimik Vs</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/397428331__/</url>
   </evento>
   <evento>
     <nombre>Olimpiya – SKA-VMF</nombre>
@@ -553,14 +4777,6 @@
     <url>https://livetv.sx/es/eventinfo/397467850__/</url>
   </evento>
   <evento>
-    <nombre>Torpedo U-K – Almaty</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Kazajistán. Campeonato</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>15:30</hora>
-    <url>https://livetv.sx/es/eventinfo/397412358__/</url>
-  </evento>
-  <evento>
     <nombre>Arlan Kokshetau – Gornyak Rudny</nombre>
     <deporte>Hockey</deporte>
     <competicion>Kazajistán. Campeonato</competicion>
@@ -609,14 +4825,6 @@
     <url>https://livetv.sx/es/eventinfo/399916394__/</url>
   </evento>
   <evento>
-    <nombre>Zvezda Moscú – Khimik Vs</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. VHL</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>17:30</hora>
-    <url>https://livetv.sx/es/eventinfo/397428331__/</url>
-  </evento>
-  <evento>
     <nombre>Rytiri Kladno – Sparta Praga</nombre>
     <deporte>Hockey</deporte>
     <competicion>Partido amistoso</competicion>
@@ -655,38 +4863,6 @@
     <fecha>3 de septiembre</fecha>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/399916399__/</url>
-  </evento>
-  <evento>
-    <nombre>Almtuna – Vasteras</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Partido amistoso</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399676103_almtuna_vasteras/</url>
-  </evento>
-  <evento>
-    <nombre>Lulea – Bjorkloven</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Partido amistoso</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399676104_lulea_bjorkloven/</url>
-  </evento>
-  <evento>
-    <nombre>Djurgardens – Brynas</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Partido amistoso</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399676105_djurgardens_brynas/</url>
-  </evento>
-  <evento>
-    <nombre>Ostersunds – Sundsvall</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Partido amistoso</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399676106_ostersunds_sundsvall/</url>
   </evento>
   <evento>
     <nombre>Stjernen – Stavanger</nombre>
@@ -2049,6 +6225,126 @@
     <url>https://livetv.sx/es/eventinfo/398595326__/</url>
   </evento>
   <evento>
+    <nombre>Sokol Krasnoyarsk – Metallurg Nk</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>8 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398668806__/</url>
+  </evento>
+  <evento>
+    <nombre>Zauralie – Ryazan</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>8 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398668808__/</url>
+  </evento>
+  <evento>
+    <nombre>Magnitka – Chelmet</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>8 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398668812__/</url>
+  </evento>
+  <evento>
+    <nombre>Yugra – Kaluga</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>8 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398668814__/</url>
+  </evento>
+  <evento>
+    <nombre>Dinamo Szynnik – Taifun</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>8 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398668850__/</url>
+  </evento>
+  <evento>
+    <nombre>Omskiye Yastreby – Tolpar</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>8 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398668853__/</url>
+  </evento>
+  <evento>
+    <nombre>Mamonty Yugry – JHC Molot</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>8 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398668857__/</url>
+  </evento>
+  <evento>
+    <nombre>Akademiya SKA-Yunior – Almaz</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>8 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398668859__/</url>
+  </evento>
+  <evento>
+    <nombre>Loko-76 – Belye Medvedi</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>8 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398668862__/</url>
+  </evento>
+  <evento>
+    <nombre>JHC Atlant – Spartak MAH</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>8 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398668865__/</url>
+  </evento>
+  <evento>
+    <nombre>Sibirskie Snaypery – Stalnye Lisy</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>8 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398668868__/</url>
+  </evento>
+  <evento>
+    <nombre>JHC Dynamo Msk – Mikhailov Academy</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>8 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398668871__/</url>
+  </evento>
+  <evento>
+    <nombre>JHC Spartak – Krasnaya Armiya</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>8 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398668875__/</url>
+  </evento>
+  <evento>
+    <nombre>Red Machine – Krylia Sovetov</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>8 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398668878__/</url>
+  </evento>
+  <evento>
+    <nombre>HPK – Ilves</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Liiga</competicion>
+    <fecha>8 de septiembre</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/398669822__/</url>
+  </evento>
+  <evento>
     <nombre>Araraquara Sub-20 –  Paulistano Sub-20</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Brasil. Campeonato Paulista Sub-20</competicion>
@@ -2401,12 +6697,12 @@
     <url>https://livetv.sx/es/eventinfo/399851385__/</url>
   </evento>
   <evento>
-    <nombre>Botic Van de Zandschulp – Alex De Minaur</nombre>
+    <nombre>Gael Monfils – Learner Tien</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de EU. Masculinos</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>22:30</hora>
-    <url>https://livetv.sx/es/eventinfo/399906617__/</url>
+    <fecha>4 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399859822__/</url>
   </evento>
   <evento>
     <nombre>Maria Timofeeva (M) –  Elise Mertens (M)</nombre>
@@ -2433,27 +6729,27 @@
     <url>https://livetv.sx/es/eventinfo/399745882__/</url>
   </evento>
   <evento>
+    <nombre>Anastasia Potapova (M) –  Leolia Jeanjean (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Abierto de EU. Mujeres</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>17:05</hora>
+    <url>https://livetv.sx/es/eventinfo/399859819__/</url>
+  </evento>
+  <evento>
     <nombre>Kostyuk (M) /  Ruse (M) –  Udvardy (M) /  Pigossi (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de EU. Mujeres. Doubles</competicion>
     <fecha>3 de septiembre</fecha>
-    <hora>17:00</hora>
+    <hora>17:10</hora>
     <url>https://livetv.sx/es/eventinfo/399851356__/</url>
-  </evento>
-  <evento>
-    <nombre>US Open</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399535708_us_open/</url>
   </evento>
   <evento>
     <nombre>Ninomiya (M) /  Kozyreva (M) –  Kempen (M) /  Panova (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de EU. Mujeres. Doubles</competicion>
     <fecha>3 de septiembre</fecha>
-    <hora>17:00</hora>
+    <hora>17:10</hora>
     <url>https://livetv.sx/es/eventinfo/399851366__/</url>
   </evento>
   <evento>
@@ -2461,23 +6757,15 @@
     <deporte>Tenis</deporte>
     <competicion>Abierto de EU. Mujeres. Doubles</competicion>
     <fecha>3 de septiembre</fecha>
-    <hora>17:00</hora>
+    <hora>17:10</hora>
     <url>https://livetv.sx/es/eventinfo/399851367__/</url>
-  </evento>
-  <evento>
-    <nombre>Anastasia Potapova (M) –  Leolia Jeanjean (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Mujeres</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399859819__/</url>
   </evento>
   <evento>
     <nombre>Fernandez (M) /  Tjen (M) –  Radisic (M) /  Haverlag (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de EU. Mujeres. Doubles</competicion>
     <fecha>3 de septiembre</fecha>
-    <hora>17:00</hora>
+    <hora>17:10</hora>
     <url>https://livetv.sx/es/eventinfo/399851381__/</url>
   </evento>
   <evento>
@@ -2657,6 +6945,22 @@
     <url>https://livetv.sx/es/eventinfo/399851360__/</url>
   </evento>
   <evento>
+    <nombre>Botic Van de Zandschulp – Alex De Minaur</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Abierto de EU. Masculinos</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>22:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399906617__/</url>
+  </evento>
+  <evento>
+    <nombre>Birrell (M) /  Stearns (M) –  Shibahara (M) /  Tararudee (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Abierto de EU. Mujeres. Doubles</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>22:30</hora>
+    <url>https://livetv.sx/es/eventinfo/400392267__/</url>
+  </evento>
+  <evento>
     <nombre>Birrell (M) /  Stearns (M) –  Putintseva (M) /  Cocciaretto (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de EU. Mujeres. Doubles</competicion>
@@ -2679,14 +6983,6 @@
     <fecha>4 de septiembre</fecha>
     <hora>01:00</hora>
     <url>https://livetv.sx/es/eventinfo/399906605__/</url>
-  </evento>
-  <evento>
-    <nombre>Gael Monfils – Learner Tien</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de EU. Masculinos</competicion>
-    <fecha>4 de septiembre</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399859822__/</url>
   </evento>
   <evento>
     <nombre>Alexander Zverev – Quentin Halys</nombre>
@@ -3233,36 +7529,20 @@
     <url>https://livetv.sx/es/eventinfo/398378118_us_open/</url>
   </evento>
   <evento>
-    <nombre>Ucrania – Letonia</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Partido amistoso. Selecciones</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>14:55</hora>
-    <url>https://livetv.sx/es/eventinfo/399906333__/</url>
+    <nombre>US Open</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Abierto de EU</competicion>
+    <fecha>8 de septiembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398378119_us_open/</url>
   </evento>
   <evento>
-    <nombre>Polonia (M) –  Países Bajos (M)</nombre>
+    <nombre>UTSA Roadrunners (M) –  Incarnate Word Cardinals (M)</nombre>
     <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Campeonato de Europa</competicion>
+    <competicion>Mujeres. NCAA</competicion>
     <fecha>3 de septiembre</fecha>
-    <hora>15:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399731531__/</url>
-  </evento>
-  <evento>
-    <nombre>Ruanda (M) – Egipto (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Campeonato Africano</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>15:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399849933_rwanda_w_egypt_w/</url>
-  </evento>
-  <evento>
-    <nombre>Ruanda (M) –  Egipto (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Campeonato Africano</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>15:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399914448__/</url>
+    <hora>17:55</hora>
+    <url>https://livetv.sx/es/eventinfo/400581809__/</url>
   </evento>
   <evento>
     <nombre>Estonia – Eslovaquia</nombre>
@@ -3271,14 +7551,6 @@
     <fecha>3 de septiembre</fecha>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/399906334__/</url>
-  </evento>
-  <evento>
-    <nombre>Kenia (M) – Camerún (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Campeonato Africano</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/399849934_kenya_w_cameroon_w/</url>
   </evento>
   <evento>
     <nombre>Alemania (M) –  Turquía (M)</nombre>
@@ -3305,6 +7577,22 @@
     <url>https://livetv.sx/es/eventinfo/399616141_dominican_republic_u23_w_usa_u23_w/</url>
   </evento>
   <evento>
+    <nombre>Syracuse Orange (M) –  Howard Bison (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>00:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400489710__/</url>
+  </evento>
+  <evento>
+    <nombre>Boston Eagles (M) –  Stonehill Skyhawks (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400489711__/</url>
+  </evento>
+  <evento>
     <nombre>Canadá U23 (M) – México U23 (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Copa Panamericana Sub-23</competicion>
@@ -3313,12 +7601,36 @@
     <url>https://livetv.sx/es/eventinfo/399616142_canada_u23_w_mexico_u23_w/</url>
   </evento>
   <evento>
+    <nombre>Wisconsin Badgers (M) –  Auburn Tigers (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400489712__/</url>
+  </evento>
+  <evento>
+    <nombre>BYU Cougars (M) –  Eastern Illinois Panthers (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/400489713__/</url>
+  </evento>
+  <evento>
     <nombre>Nicaragua U23 (M) – Costa Rica U23 (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Copa Panamericana Sub-23</competicion>
     <fecha>4 de septiembre</fecha>
     <hora>04:00</hora>
     <url>https://livetv.sx/es/eventinfo/399616143_nicaragua_u23_w_costa_rica_u23_w/</url>
+  </evento>
+  <evento>
+    <nombre>Stanford Cardinal (M) –  South Florida Bulls (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>4 de septiembre</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400489714__/</url>
   </evento>
   <evento>
     <nombre>Irán – Nueva Zelanda</nombre>
@@ -3399,6 +7711,14 @@
     <fecha>5 de septiembre</fecha>
     <hora>10:00</hora>
     <url>https://livetv.sx/es/eventinfo/399906400_qatar_thailand/</url>
+  </evento>
+  <evento>
+    <nombre>Polonia (M) –  Italia (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Mujeres. Campeonato de Europa</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/400592920__/</url>
   </evento>
   <evento>
     <nombre>Canadá U23 (M) – Costa Rica U23 (M)</nombre>
@@ -3527,6 +7847,22 @@
     <fecha>6 de septiembre</fecha>
     <hora>03:00</hora>
     <url>https://livetv.sx/es/eventinfo/399913514_alan_chaves_eridson_garcia/</url>
+  </evento>
+  <evento>
+    <nombre>Dane Sweeny –  Lorenzo Musetti</nombre>
+    <deporte>Automovilismo</deporte>
+    <competicion>Abierto de EU. Masculinos</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/399851384_dane_sweeny_lorenzo_musetti/</url>
+  </evento>
+  <evento>
+    <nombre>Al-Sailiya –  Al-Arabi Doha</nombre>
+    <deporte>Automovilismo</deporte>
+    <competicion>Qatar. Stars League</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>18:15</hora>
+    <url>https://livetv.sx/es/eventinfo/397467426_al_sailiya_al_arabi_doha/</url>
   </evento>
   <evento>
     <nombre>Formula 3, MonzaClasificación</nombre>
@@ -3865,14 +8201,6 @@
     <fecha>7 de septiembre</fecha>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/399924300_us_nationals/</url>
-  </evento>
-  <evento>
-    <nombre>Siauliai – Zalgiris K</nombre>
-    <deporte>Futsal</deporte>
-    <competicion>Lituania. A Lyga</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/399856840_siauliai_zalgiris_k/</url>
   </evento>
   <evento>
     <nombre>Elorda – Ayat</nombre>

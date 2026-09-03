@@ -1,20 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Other",16:30 - US Open 🎾
-https://sportora.ru/watch/us-open-roland-2026
-
-#EXTINF:-1 group-title="Football",17:55 - Al-Fayha vs Al-Kholood
-https://sportora.ru/watch/al-fayha-vs-al-kholood-2573337
-
 #EXTINF:-1 group-title="Football",18:00 - Palermo vs Mantova
 https://embed.st/embed/admin/ppv-palermo-vs-mantova/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:00 - Palermo vs Mantova
 https://embed.st/embed/admin/ppv-palermo-vs-mantova/2#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Football",18:00 - Palermo vs Mantova
+https://embed.st/embed/delta/live_coppa-italia_palermo-mantova-live-streaming-613205424/1#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Football",18:00 - Raków Częstochowa vs Górnik Zabrze
 https://sportora.ru/watch/rak-w-cz-stochowa-vs-g-rnik-zabrze-2490232
+
+#EXTINF:-1 group-title="Football",17:55 - Al-Fayha vs Al-Kholood
+https://sportora.ru/watch/al-fayha-vs-al-kholood-2573337
+
+#EXTINF:-1 group-title="Other",16:30 - US Open 🎾
+https://sportora.ru/watch/us-open-roland-2026
 
 #EXTINF:-1 group-title="Football",18:30 - Neom vs Al-Khaleej
 https://sportora.ru/watch/neom-vs-al-khaleej-2573338
@@ -24,6 +27,9 @@ https://embed.st/embed/admin/ppv-san-francisco-giants-vs-pittsburgh-pirates/1#pl
 
 #EXTINF:-1 group-title="Baseball",18:35 - Pittsburgh Pirates vs San Francisco Giants
 https://embed.st/embed/admin/ppv-san-francisco-giants-vs-pittsburgh-pirates/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",18:35 - Pittsburgh Pirates vs San Francisco Giants
+https://embed.st/embed/delta/live_mlb_pirates-giants-live-streaming-594067824/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",18:35 - Pittsburgh Pirates vs San Francisco Giants
 https://embed.st/embed/golf/783/1#player=clappr&autoplay=true

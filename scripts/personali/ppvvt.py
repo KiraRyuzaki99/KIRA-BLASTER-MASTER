@@ -278,7 +278,7 @@ def generate_html(events):
     <div class="container">
         <header class="header">
             <h1>KIRA CYBER GATE</h1>
-            <p class="subtitle">• Every match. Right now. •</p>
+            <p class="subtitle">• Eventi di Oggi •</p>
         </header>
         
         <div style="text-align: center;">

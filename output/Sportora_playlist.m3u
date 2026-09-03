@@ -1,17 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Afl",12:10 - Fremantle Dockers vs Hawthorn Hawks
-https://sportora.ru/watch/fremantle-dockers-vs-hawthorn-hawks-australian-football-3625
-
-#EXTINF:-1 group-title="Rugby",11:50 - Canterbury Bankstown Bulldogs vs Brisbane Broncos
-https://embed.st/embed/admin/ppv-bulldogs-vs-broncos/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Rugby",11:50 - Canterbury Bankstown Bulldogs vs Brisbane Broncos
-https://embed.st/embed/admin/ppv-bulldogs-vs-broncos/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Rugby",12:50 - Western Bulldogs vs Broncos
-https://sportora.ru/watch/bulldogs-vs-broncos-game-236363
+#EXTINF:-1 group-title="Other",16:30 - US Open 🎾
+https://sportora.ru/watch/us-open-roland-2026
 
 #EXTINF:-1 group-title="Football",17:55 - Al-Fayha vs Al-Kholood
 https://sportora.ru/watch/al-fayha-vs-al-kholood-2573337
@@ -114,6 +105,9 @@ https://embed.st/embed/admin/ppv-real-sociedad-vs-celta-vigo/3#player=clappr&aut
 
 #EXTINF:-1 group-title="Football",21:00 - Real Sociedad vs Celta Vigo
 https://embed.st/embed/admin/ppv-real-sociedad-vs-celta-vigo/4#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Rugby",21:00 - Bradford Bulls vs Castleford Tigers
+https://sportora.ru/watch/bradford-bulls-vs-castleford-tigers-2396016
 
 #EXTINF:-1 group-title="American-football",23:00 - Montclair State Red Hawks vs Merchant Marine Mariners
 https://embed.st/embed/delta/live_cfb_montclair-state-red-hawks-merchant-marine-mariners-live-streaming-592505712/1#player=clappr&autoplay=true

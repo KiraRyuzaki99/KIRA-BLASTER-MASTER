@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-09-03 05:34:51" total="1110">
+<eventos generado="2026-09-03 06:19:11" total="1110">
   <evento>
     <nombre>Trinbago Knight Riders –  Antigua &amp; Barbuda Falcons</nombre>
     <deporte>Fútbol</deporte>
@@ -31,14 +31,6 @@
     <fecha>3 de septiembre</fecha>
     <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/399616350_indonesia_masters_2/</url>
-  </evento>
-  <evento>
-    <nombre>América –  Monterrey</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Leagues Cup</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>05:30</hora>
-    <url>https://livetv.sx/es/eventinfo/398926863_am__rica_monterrey/</url>
   </evento>
   <evento>
     <nombre>WTT Contender Almaty</nombre>
@@ -161,6 +153,14 @@
     <url>https://livetv.sx/es/eventinfo/399614070_kuwait_u20_yemen_u20/</url>
   </evento>
   <evento>
+    <nombre>Macau U20 –  Singapur U20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificatoria</competicion>
+    <fecha>3 de septiembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/399614071_macau_u20_singapur_u20/</url>
+  </evento>
+  <evento>
     <nombre>Mantova – Palermo</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Italia. Copa</competicion>
@@ -239,14 +239,6 @@
     <fecha>4 de septiembre</fecha>
     <hora>01:00</hora>
     <url>https://livetv.sx/es/eventinfo/397492664__/</url>
-  </evento>
-  <evento>
-    <nombre>América – Monterrey</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Leagues Cup</competicion>
-    <fecha>3 de septiembre</fecha>
-    <hora>05:30</hora>
-    <url>https://livetv.sx/es/eventinfo/398926863__/</url>
   </evento>
   <evento>
     <nombre>EAU U20 – Iraq U20</nombre>
@@ -4143,6 +4135,14 @@
     <fecha>5 de septiembre</fecha>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/398029387__/</url>
+  </evento>
+  <evento>
+    <nombre>Rosenborg – HamKam</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Noruega. Eliteserien</competicion>
+    <fecha>5 de septiembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/398032971__/</url>
   </evento>
   <evento>
     <nombre>Buran Voronezh – CSK VVS</nombre>

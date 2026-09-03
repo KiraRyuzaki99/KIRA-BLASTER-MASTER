@@ -15,7 +15,7 @@ from html import escape
 # ============================================================
 
 BASE_URL = "https://sportora.ru"
-OUTPUT_HTML = "Kira_Sportora.html"
+OUTPUT_HTML = "kira_tora.html"
 OUTPUT_M3U = "Sportora_playlist.m3u"
 
 HEADERS = {

@@ -17,7 +17,7 @@ from html import escape
 # ============================================================
 
 API_URL = "https://mamahd.co/api.php"
-OUTPUT_HTML = "Kira_Mam.html"
+OUTPUT_HTML = "kira_mam.html"
 OUTPUT_M3U = "Mama_playlist.m3u"
 
 HEADERS = {
@@ -519,7 +519,7 @@ def generate_html(events_by_day):
     <div class="container">
         <header class="header">
             <h1>KIRA GATE ACCESS</h1>
-            <p class="subtitle">• Eventi Sportivi di Oggi •</p>
+            <p class="subtitle">• Eventi di Oggi •</p>
         </header>
         
         <div style="text-align: center;">

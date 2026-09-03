@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 GENERATORE SPO HTML - Trasforma lista_sportsonlineci.xml in Kira_Spo.html
+con stile KIRA unificato
 """
 
 import xml.etree.ElementTree as ET
@@ -13,7 +14,7 @@ import os
 # ============================================================
 
 INPUT_XML = "lista_sportsonlineci.xml"
-OUTPUT_HTML = "Kira_Spo.html"
+OUTPUT_HTML = "kira_spo.html"
 
 # ============================================================
 #  FUNZIONI
@@ -23,8 +24,12 @@ def parse_xml(xml_file):
     """Legge il file XML e restituisce la lista degli eventi."""
     events = []
     
-    tree = ET.parse(xml_file)
-    root = tree.getroot()
+    try:
+        tree = ET.parse(xml_file)
+        root = tree.getroot()
+    except Exception as e:
+        print(f"❌ Errore lettura XML: {e}")
+        return []
     
     for track in root.findall('track'):
         title = track.find('title')
@@ -51,79 +56,134 @@ def parse_xml(xml_file):
     
     return events
 
-def generate_html(events):
-    """Genera la pagina HTML finale con gli eventi."""
-    today = datetime.now().strftime('%d/%m/%Y')
+def generate_event_card(event):
+    """Genera una card HTML per un singolo evento."""
+    urls = event.get('urls', [])
+    time = event.get('time', 'N/A')
+    name = event.get('name', 'Evento')
     
-    # Costruisci il contenuto degli eventi
-    events_html = ""
-    for event in events:
-        if not event['urls']:
-            continue
-        
-        # Crea il nome dell'evento (incluso orario)
-        event_display = f"{event['time']} - {event['name']}"
-        
-        # Crea i link per ogni canale
-        channels_html = ""
-        for url in event['urls']:
-            # Estrai un nome descrittivo dal link
-            link_parts = url.split('/')
-            channel_name = link_parts[-2] if len(link_parts) >= 2 else 'Canale'
-            channel_name = channel_name.replace('.php', '').upper()
-            
-            channels_html += f'<li><a href="{url}" class="channel-link" target="_blank">{channel_name}</a></li>'
-        
-        events_html += f'''
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                {event_display} <span class="arrow">▶</span>
-            </div>
-            <ul class="stream-links">
-                {channels_html}
-            </ul>
+    # Badge di stato
+    status_badge = '<span class="status-next">⏳ PROSSIMO</span>'
+    
+    # Genera i link
+    if len(urls) > 1:
+        options = "\n".join([f'<option value="{url}">Canale {i+1}</option>' for i, url in enumerate(urls)])
+        links_html = f'''
+        <div class="dropdown">
+            <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                <option value="">📡 Scegli il canale...</option>
+                {options}
+            </select>
         </div>
         '''
+    elif len(urls) == 1:
+        links_html = f'<a href="{urls[0]}" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>'
+    else:
+        links_html = '<span class="no-link">🔗 Link non disponibile</span>'
     
-    # Template HTML completo
+    return f'''
+    <div class="event-card">
+        <div class="event-info">
+            <h3>{escape_html(name)} {status_badge}</h3>
+            <p class="sport-badge">🏆 Sport</p>
+            <p class="datetime">🕒 {escape_html(time)} • 📅 {datetime.now().strftime('%d/%m/%Y')}</p>
+            <span class="fonte-badge">📡 SPO</span>
+        </div>
+        <div class="event-links">
+            {links_html}
+        </div>
+    </div>
+    '''
+
+def escape_html(text):
+    """Escape caratteri HTML."""
+    if not text:
+        return ""
+    return text.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;').replace('"', '&quot;').replace("'", '&#39;')
+
+def generate_html(events):
+    """Genera la pagina HTML finale con stile KIRA unificato."""
+    today = datetime.now().strftime('%d/%m/%Y')
+    
+    if not events:
+        return f'''<!DOCTYPE html>
+<html lang="it">
+<head><meta charset="UTF-8"><title>KIRA SPO</title></head>
+<body><h1>Nessun evento trovato</h1></body>
+</html>'''
+    
+    event_items = ""
+    for event in events:
+        if event.get('urls'):
+            event_items += generate_event_card(event)
+    
+    # Template HTML con stile KIRA unificato
     html_content = f'''<!DOCTYPE html>
 <html lang="it">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="robots" content="noindex, nofollow">
-    <title>KIRA GSI</title>
+    <title>CYBER GATE ACCESS</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Audiowide&family=Grotesk:wght@400;700&display=swap" rel="stylesheet">
     <style>
-        body {{ background-color: #000; color: #00ff41; font-family: 'Consolas', monospace; margin: 0; padding: 20px; text-shadow: 0 0 5px rgba(0, 255, 65, 0.8); }}
-        .container {{ max-width: 800px; margin: 0 auto; border: 2px solid #00ff41; box-shadow: 0 0 20px #00ff41; padding: 10px; background-color: rgba(0, 0, 0, 0.85); }}
-        h1 {{ color: #ff00ff; text-align: center; text-shadow: 0 0 10px #ff00ff; border-bottom: 2px dashed #00ff41; padding-bottom: 10px; margin-bottom: 20px; }}
-        .event-group {{ margin-bottom: 5px; border-left: 3px solid #00ff41; padding-left: 10px; }}
-        .event-header {{ background-color: rgba(0, 255, 65, 0.1); color: #00ff41; padding: 10px; cursor: pointer; font-weight: bold; display: flex; justify-content: space-between; border: 1px solid #00ff41; margin-top: 5px; }}
-        .event-header.active {{ background-color: #00ff41; color: #000; }}
-        .arrow {{ transition: transform 0.3s; }}
-        .event-header.active .arrow {{ transform: rotate(90deg); }}
-        .stream-links {{ padding: 0; margin: 0; list-style: none; background-color: rgba(0, 0, 0, 0.95); border: 1px solid #00ff41; border-top: none; max-height: 0; overflow: hidden; transition: max-height 0.4s ease-out; }}
-        .stream-links.open {{ max-height: 500px; }}
-        .channel-link {{ display: block; padding: 8px 15px; color: #ffcc00; text-decoration: none; font-weight: bold; }}
-        .channel-link:hover {{ color: #fff; background-color: rgba(0, 255, 255, 0.1); }}
+        * {{ margin: 0; padding: 0; box-sizing: border-box; }}
+        body {{ font-family: 'Grotesk', sans-serif; background: #0a0a0a; color: #00ffcc; min-height: 100vh; overflow-x: hidden; position: relative; }}
+        .matrix-bg {{ position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; background: #0a0a0a; overflow: hidden; }}
+        .matrix-bg::before {{ content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0, 255, 204, 0.03) 2px, rgba(0, 255, 204, 0.03) 4px); animation: matrixScroll 15s linear infinite; }}
+        @keyframes matrixScroll {{ 0% {{ transform: translateY(0); }} 100% {{ transform: translateY(100%); }} }}
+        .container {{ max-width: 1200px; margin: 0 auto; padding: 20px; position: relative; z-index: 1; }}
+        
+        .header {{ text-align: center; padding: 30px 0 40px; border-bottom: 2px solid rgba(0, 255, 204, 0.3); margin-bottom: 40px; }}
+        .header h1 {{ font-family: 'Orbitron', sans-serif; font-weight: 900; font-size: 3.5rem; text-shadow: 0 0 20px rgba(0, 255, 204, 0.5); background: linear-gradient(135deg, #00ffcc, #00ccff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: 4px; }}
+        .header .subtitle {{ font-family: 'Audiowide', cursive; color: #88ffdd; font-size: 1.2rem; margin-top: 10px; }}
+        
+        .event-counter {{ text-align: center; font-family: 'Orbitron', monospace; font-size: 1.2rem; color: #00ffcc; background: rgba(0, 255, 204, 0.08); border: 1px solid rgba(0, 255, 204, 0.2); padding: 12px 20px; border-radius: 30px; display: inline-block; margin: 0 auto 30px; }}
+        .event-counter span {{ font-weight: 900; font-size: 1.5rem; }}
+        
+        .events-grid {{ display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 25px; margin-top: 20px; }}
+        
+        .event-card {{ background: rgba(0, 30, 30, 0.7); backdrop-filter: blur(10px); border: 1px solid rgba(0, 255, 204, 0.2); border-radius: 15px; padding: 25px; transition: all 0.3s ease; display: flex; flex-direction: column; }}
+        .event-card:hover {{ transform: translateY(-5px); border-color: rgba(0, 255, 204, 0.6); box-shadow: 0 0 40px rgba(0, 255, 204, 0.15); }}
+        .event-info h3 {{ font-family: 'Orbitron', sans-serif; font-weight: 700; font-size: 1.1rem; color: #00ffcc; margin-bottom: 8px; display: flex; align-items: center; flex-wrap: wrap; gap: 8px; }}
+        .event-info .sport-badge {{ font-family: 'Audiowide', cursive; color: #88ddff; font-size: 0.8rem; background: rgba(0, 255, 204, 0.1); padding: 3px 12px; border-radius: 20px; display: inline-block; margin-bottom: 8px; }}
+        .event-info .datetime {{ color: #88ddff; font-size: 0.85rem; opacity: 0.8; }}
+        .fonte-badge {{ display: inline-block; font-size: 0.7rem; background: rgba(0, 255, 204, 0.15); color: #88ffdd; padding: 2px 12px; border-radius: 12px; margin-top: 5px; border: 1px solid rgba(0, 255, 204, 0.2); }}
+        .status-next {{ display: inline-block; font-size: 0.7rem; background: rgba(0, 100, 255, 0.3); color: #4488ff; padding: 2px 10px; border-radius: 12px; }}
+        .event-links {{ margin-top: 15px; padding-top: 15px; border-top: 1px solid rgba(0, 255, 204, 0.15); }}
+        .server-link {{ display: inline-block; font-family: 'Orbitron', monospace; font-weight: 700; color: #0a0a0a; background: #00ffcc; padding: 12px 24px; border-radius: 8px; text-decoration: none; text-align: center; width: 100%; transition: all 0.3s ease; font-size: 0.85rem; }}
+        .server-link:hover {{ background: #00ddbb; box-shadow: 0 0 40px rgba(0, 255, 204, 0.5); }}
+        .dropdown select {{ width: 100%; padding: 12px 15px; background: rgba(0, 20, 20, 0.9); color: #00ffcc; border: 1px solid rgba(0, 255, 204, 0.4); border-radius: 10px; font-family: 'Orbitron', monospace; font-size: 0.85rem; cursor: pointer; outline: none; }}
+        .dropdown select option {{ background: #0a1a1a; color: #88ffdd; }}
+        .no-link {{ display: inline-block; font-family: 'Orbitron', monospace; color: #666; text-align: center; width: 100%; padding: 10px; }}
+        
+        .footer {{ text-align: center; padding: 40px 0 20px; margin-top: 60px; border-top: 1px solid rgba(0, 255, 204, 0.2); color: #88ddff; opacity: 0.7; }}
+        .footer .neon-text {{ font-family: 'Orbitron', monospace; color: #00ffcc; font-size: 1rem; }}
+        
+        @media (max-width: 768px) {{ .header h1 {{ font-size: 2rem; }} .events-grid {{ grid-template-columns: 1fr; }} .container {{ padding: 15px; }} }}
     </style>
 </head>
 <body>
-<div class="container">
-    <h1>KIRA ACCESS GATE</h1>
-    <h1>{today} ORARIO GMT +1</h1>
-    <div id="events-list">
-        {events_html}
+    <div class="matrix-bg"></div>
+    <div class="container">
+        <header class="header">
+            <h1>KIRA GATE ACCESS</h1>
+            <p class="subtitle">• Eventi di Oggi •</p>
+        </header>
+        
+        <div style="text-align: center;">
+            <div class="event-counter">
+                🎯 <span>{len([e for e in events if e.get('urls')])}</span> eventi disponibili
+            </div>
+        </div>
+        
+        <div class="events-grid">
+            {event_items}
+        </div>
+        
+        <footer class="footer">
+            <p class="neon-text">KIRA GSI SPORT • Eventi di oggi • {datetime.now().year} • Developed by KIRA GSI GROUP</p>
+        </footer>
     </div>
-</div>
-<script>
-    function toggleEvent(header) {{
-        header.classList.toggle('active');
-        const links = header.nextElementSibling;
-        links.classList.toggle('open');
-        links.style.maxHeight = links.classList.contains('open') ? links.scrollHeight + "px" : "0";
-    }}
-</script>
 </body>
 </html>'''
     
@@ -131,21 +191,32 @@ def generate_html(events):
 
 def main():
     """Funzione principale."""
-    print("📄 Generazione HTML da XML...")
+    print("="*70)
+    print("📡 GENERATORE SPO HTML")
+    print("="*70)
     
     if not os.path.exists(INPUT_XML):
         print(f"❌ File {INPUT_XML} non trovato!")
         return
     
+    print(f"\n📄 Lettura: {INPUT_XML}")
     events = parse_xml(INPUT_XML)
-    print(f"   Trovati {len(events)} eventi")
     
+    if not events:
+        print("❌ Nessun evento trovato nel file XML!")
+        return
+    
+    total_urls = sum(len(e['urls']) for e in events)
+    print(f"   📦 {len(events)} eventi, {total_urls} link totali")
+    
+    print("\n📄 Generazione HTML...")
     html_content = generate_html(events)
     
     with open(OUTPUT_HTML, "w", encoding="utf-8") as f:
         f.write(html_content)
     
     print(f"✅ HTML generato: {OUTPUT_HTML}")
+    print("\n✅ OPERAZIONE COMPLETATA!")
 
 if __name__ == "__main__":
     main()

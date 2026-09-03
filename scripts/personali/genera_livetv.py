@@ -10,7 +10,7 @@ import os
 import re
 
 INPUT_XML = "eventos_livetv_sx.xml"
-OUTPUT_HTML = "kira_live.html"
+OUTPUT_HTML = "kira_liv.html"
 OUTPUT_M3U = "LiveTV_playlist.m3u"
 
 def parse_livetv_xml(xml_file):

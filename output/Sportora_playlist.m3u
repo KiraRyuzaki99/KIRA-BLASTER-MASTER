@@ -1,6 +1,51 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
+#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs St. Louis Cardinals
+https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-los-angeles-dodgers/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs St. Louis Cardinals
+https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-los-angeles-dodgers/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs St. Louis Cardinals
+https://embed.st/embed/delta/live_mlb_dodgers-cardinals-live-streaming-594037584/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs St. Louis Cardinals
+https://embed.st/embed/delta/live_mlb_dodgers-cardinals-live-streaming-594037584/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs St. Louis Cardinals
+https://embed.st/embed/golf/782/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",04:00 - Vancouver Whitecaps vs CF Montréal
+https://sportora.ru/watch/vancouver-whitecaps-vs-cf-montr-al-2532328
+
+#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs New York Yankees
+https://embed.st/embed/admin/ppv-new-york-yankees-vs-los-angeles-angels/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs New York Yankees
+https://embed.st/embed/admin/ppv-new-york-yankees-vs-los-angeles-angels/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs New York Yankees
+https://embed.st/embed/delta/live_mlb_angels-yankees-live-streaming-594037152/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs New York Yankees
+https://embed.st/embed/delta/live_mlb_angels-yankees-live-streaming-594037152/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs New York Yankees
+https://embed.st/embed/golf/781/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",03:25 - Independiente Santa Fe vs Millonarios
+https://sportora.ru/watch/independiente-santa-fe-vs-millonarios-2481242
+
+#EXTINF:-1 group-title="Football",03:00 - Toluca vs León
+https://embed.st/embed/admin/ppv-toluca-vs-le-n/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",03:00 - Toluca vs León
+https://embed.st/embed/admin/ppv-toluca-vs-le-n/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",03:00 - Toluca vs León
+https://embed.st/embed/delta/live_leagues-cup_toluca-leon-live-streaming-621769392/1#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Football",02:15 - Vélez Sarsfield vs Boca Juniors
 https://sportora.ru/watch/v-lez-sarsfield-vs-boca-juniors-2540103
 
@@ -73,36 +118,6 @@ https://embed.st/embed/delta/live_mlb_twins-tigers-live-streaming-594036288/2#pl
 #EXTINF:-1 group-title="Baseball",01:40 - Minnesota Twins vs Detroit Tigers
 https://embed.st/embed/golf/776/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",03:00 - Toluca vs León
-https://embed.st/embed/admin/ppv-toluca-vs-le-n/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",03:00 - Toluca vs León
-https://embed.st/embed/admin/ppv-toluca-vs-le-n/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",03:25 - Independiente Santa Fe vs Millonarios
-https://sportora.ru/watch/independiente-santa-fe-vs-millonarios-2481242
-
-#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs New York Yankees
-https://embed.st/embed/admin/ppv-new-york-yankees-vs-los-angeles-angels/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs New York Yankees
-https://embed.st/embed/admin/ppv-new-york-yankees-vs-los-angeles-angels/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs New York Yankees
-https://embed.st/embed/golf/781/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",04:00 - Vancouver Whitecaps vs CF Montréal
-https://sportora.ru/watch/vancouver-whitecaps-vs-cf-montr-al-2532328
-
-#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs St. Louis Cardinals
-https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-los-angeles-dodgers/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs St. Louis Cardinals
-https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-los-angeles-dodgers/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs St. Louis Cardinals
-https://embed.st/embed/golf/782/1#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Football",05:30 - Club America vs Monterrey
 https://sportora.ru/watch/club-america-vs-monterrey-football-1635864
 
@@ -117,6 +132,9 @@ https://embed.st/embed/admin/ppv-am-rica-vs-monterrey/3#player=clappr&autoplay=t
 
 #EXTINF:-1 group-title="Football",05:30 - América vs Monterrey
 https://embed.st/embed/admin/ppv-am-rica-vs-monterrey/4#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",05:30 - América vs Monterrey
+https://embed.st/embed/delta/live_leagues-cup_america-monterrey-live-streaming-621769824/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Rugby",11:50 - Canterbury Bankstown Bulldogs vs Brisbane Broncos
 https://embed.st/embed/admin/ppv-bulldogs-vs-broncos/1#player=clappr&autoplay=true

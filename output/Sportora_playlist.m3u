@@ -1,71 +1,242 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Baseball",22:10 - Boston Red Sox vs Seattle Mariners
-https://embed.st/embed/admin/ppv-seattle-mariners-vs-boston-red-sox/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Football",02:15 - Vélez Sarsfield vs Boca Juniors
+https://sportora.ru/watch/v-lez-sarsfield-vs-boca-juniors-2540103
 
-#EXTINF:-1 group-title="Baseball",22:10 - Boston Red Sox vs Seattle Mariners
-https://embed.st/embed/admin/ppv-seattle-mariners-vs-boston-red-sox/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",02:10 - Houston Astros vs Chicago White Sox
+https://embed.st/embed/admin/ppv-chicago-white-sox-vs-houston-astros/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",22:10 - Boston Red Sox vs Seattle Mariners
-https://embed.st/embed/delta/live_mlb_red-sox-mariners-live-streaming-594033696/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",02:10 - Houston Astros vs Chicago White Sox
+https://embed.st/embed/admin/ppv-chicago-white-sox-vs-houston-astros/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",22:10 - Boston Red Sox vs Seattle Mariners
-https://embed.st/embed/delta/live_mlb_red-sox-mariners-live-streaming-594033696/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",02:10 - Houston Astros vs Chicago White Sox
+https://embed.st/embed/delta/live_mlb_astros-white-sox-live-streaming-594036720/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",22:10 - Boston Red Sox vs Seattle Mariners
-https://embed.st/embed/golf/772/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",02:10 - Houston Astros vs Chicago White Sox
+https://embed.st/embed/delta/live_mlb_astros-white-sox-live-streaming-594036720/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",21:40 - Arizona Diamondbacks vs Philadelphia Phillies
-https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-arizona-diamondbacks/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",02:10 - Houston Astros vs Chicago White Sox
+https://embed.st/embed/golf/780/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",21:40 - Arizona Diamondbacks vs Philadelphia Phillies
-https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-arizona-diamondbacks/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Fight",02:00 - AEW Wednesday Night Dynamite
+https://embed.st/embed/admin/ppv-aew-wednesday-night-dynamite/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",21:40 - Arizona Diamondbacks vs Philadelphia Phillies
-https://embed.st/embed/golf/771/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Fight",02:00 - AEW Wednesday Night Dynamite
+https://embed.st/embed/admin/ppv-aew-wednesday-night-dynamite/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",00:30 - Flamengo vs Mirassol
-https://sportora.ru/watch/flamengo-vs-mirassol-2398226
+#EXTINF:-1 group-title="Fight",02:00 - AEW Wednesday Night Dynamite
+https://embed.st/embed/delta/live-event_aew-dynamite-live-stream/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",00:40 - Cleveland Guardians vs Toronto Blue Jays
-https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-cleveland-guardians/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",01:40 - Chicago Cubs vs Milwaukee Brewers
+https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-chicago-cubs/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",00:40 - Cleveland Guardians vs Toronto Blue Jays
-https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-cleveland-guardians/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",01:40 - Chicago Cubs vs Milwaukee Brewers
+https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-chicago-cubs/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",00:40 - Cleveland Guardians vs Toronto Blue Jays
-https://embed.st/embed/delta/live_mlb_guardians-blue-jays-live-streaming-594034128/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",01:40 - Chicago Cubs vs Milwaukee Brewers
+https://embed.st/embed/delta/live_mlb_cubs-brewers-live-streaming-594035424/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",00:40 - Cleveland Guardians vs Toronto Blue Jays
-https://embed.st/embed/golf/775/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",01:40 - Chicago Cubs vs Milwaukee Brewers
+https://embed.st/embed/delta/live_mlb_cubs-brewers-live-streaming-594035424/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",00:40 - Pittsburgh Pirates vs San Francisco Giants
-https://embed.st/embed/admin/ppv-san-francisco-giants-vs-pittsburgh-pirates/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",01:40 - Chicago Cubs vs Milwaukee Brewers
+https://embed.st/embed/golf/778/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",00:40 - Pittsburgh Pirates vs San Francisco Giants
-https://embed.st/embed/admin/ppv-san-francisco-giants-vs-pittsburgh-pirates/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",01:40 - Kansas City Royals vs Miami Marlins
+https://embed.st/embed/admin/ppv-miami-marlins-vs-kansas-city-royals/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",00:40 - Pittsburgh Pirates vs San Francisco Giants
-https://embed.st/embed/delta/live_mlb_pirates-giants-live-streaming-594034560/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",01:40 - Kansas City Royals vs Miami Marlins
+https://embed.st/embed/admin/ppv-miami-marlins-vs-kansas-city-royals/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",00:40 - Pittsburgh Pirates vs San Francisco Giants
-https://embed.st/embed/delta/live_mlb_pirates-giants-live-streaming-594034560/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",01:40 - Kansas City Royals vs Miami Marlins
+https://embed.st/embed/delta/live_mlb_royals-marlins-live-streaming-594035856/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",00:40 - Pittsburgh Pirates vs San Francisco Giants
-https://embed.st/embed/golf/774/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",01:40 - Kansas City Royals vs Miami Marlins
+https://embed.st/embed/delta/live_mlb_royals-marlins-live-streaming-594035856/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",00:40 - Tampa Bay Rays vs New York Mets
-https://embed.st/embed/admin/ppv-new-york-mets-vs-tampa-bay-rays/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",01:40 - Kansas City Royals vs Miami Marlins
+https://embed.st/embed/golf/777/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",00:40 - Tampa Bay Rays vs New York Mets
-https://embed.st/embed/admin/ppv-new-york-mets-vs-tampa-bay-rays/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",01:40 - Minnesota Twins vs Detroit Tigers
+https://embed.st/embed/admin/ppv-detroit-tigers-vs-minnesota-twins/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",00:40 - Tampa Bay Rays vs New York Mets
-https://embed.st/embed/delta/live_mlb_rays-mets-live-streaming-594034992/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",01:40 - Minnesota Twins vs Detroit Tigers
+https://embed.st/embed/admin/ppv-detroit-tigers-vs-minnesota-twins/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",00:40 - Tampa Bay Rays vs New York Mets
-https://embed.st/embed/delta/live_mlb_rays-mets-live-streaming-594034992/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",01:40 - Minnesota Twins vs Detroit Tigers
+https://embed.st/embed/delta/live_mlb_twins-tigers-live-streaming-594036288/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",00:40 - Tampa Bay Rays vs New York Mets
-https://embed.st/embed/golf/773/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",01:40 - Minnesota Twins vs Detroit Tigers
+https://embed.st/embed/delta/live_mlb_twins-tigers-live-streaming-594036288/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",01:40 - Minnesota Twins vs Detroit Tigers
+https://embed.st/embed/golf/776/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",03:00 - Toluca vs León
+https://embed.st/embed/admin/ppv-toluca-vs-le-n/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",03:00 - Toluca vs León
+https://embed.st/embed/admin/ppv-toluca-vs-le-n/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",03:25 - Independiente Santa Fe vs Millonarios
+https://sportora.ru/watch/independiente-santa-fe-vs-millonarios-2481242
+
+#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs New York Yankees
+https://embed.st/embed/admin/ppv-new-york-yankees-vs-los-angeles-angels/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs New York Yankees
+https://embed.st/embed/admin/ppv-new-york-yankees-vs-los-angeles-angels/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs New York Yankees
+https://embed.st/embed/golf/781/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",04:00 - Vancouver Whitecaps vs CF Montréal
+https://sportora.ru/watch/vancouver-whitecaps-vs-cf-montr-al-2532328
+
+#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs St. Louis Cardinals
+https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-los-angeles-dodgers/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs St. Louis Cardinals
+https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-los-angeles-dodgers/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs St. Louis Cardinals
+https://embed.st/embed/golf/782/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",05:30 - Club America vs Monterrey
+https://sportora.ru/watch/club-america-vs-monterrey-football-1635864
+
+#EXTINF:-1 group-title="Football",05:30 - América vs Monterrey
+https://embed.st/embed/admin/ppv-am-rica-vs-monterrey/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",05:30 - América vs Monterrey
+https://embed.st/embed/admin/ppv-am-rica-vs-monterrey/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",05:30 - América vs Monterrey
+https://embed.st/embed/admin/ppv-am-rica-vs-monterrey/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",05:30 - América vs Monterrey
+https://embed.st/embed/admin/ppv-am-rica-vs-monterrey/4#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Rugby",11:50 - Canterbury Bankstown Bulldogs vs Brisbane Broncos
+https://embed.st/embed/admin/ppv-bulldogs-vs-broncos/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Rugby",11:50 - Canterbury Bankstown Bulldogs vs Brisbane Broncos
+https://embed.st/embed/admin/ppv-bulldogs-vs-broncos/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Afl",12:10 - Fremantle Dockers vs Hawthorn Hawks
+https://sportora.ru/watch/fremantle-dockers-vs-hawthorn-hawks-australian-football-3625
+
+#EXTINF:-1 group-title="Football",17:55 - Al-Fayha vs Al-Kholood
+https://sportora.ru/watch/al-fayha-vs-al-kholood-2573337
+
+#EXTINF:-1 group-title="Football",18:00 - Palermo vs Mantova
+https://sportora.ru/watch/palermo-vs-mantova-2579100
+
+#EXTINF:-1 group-title="Football",18:00 - Raków Częstochowa vs Górnik Zabrze
+https://sportora.ru/watch/rak-w-cz-stochowa-vs-g-rnik-zabrze-2490232
+
+#EXTINF:-1 group-title="Football",18:30 - Neom vs Al-Khaleej
+https://sportora.ru/watch/neom-vs-al-khaleej-2573338
+
+#EXTINF:-1 group-title="Baseball",18:35 - Pittsburgh Pirates vs San Francisco Giants
+https://embed.st/embed/golf/783/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",19:00 - Mjällby vs Djurgården
+https://embed.st/embed/admin/ppv-mj-llby-aif-vs-djurg-rden/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",19:00 - Mjällby vs Djurgården
+https://embed.st/embed/admin/ppv-mj-llby-aif-vs-djurg-rden/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:10 - Cleveland Guardians vs Toronto Blue Jays
+https://embed.st/embed/golf/784/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:00 - FC Copenhagen vs FC Nordsjaelland
+https://sportora.ru/watch/fc-copenhagen-vs-fc-nordsjaelland-football-1549009
+
+#EXTINF:-1 group-title="Football",20:00 - Al Diriyah vs Al-Qadisiyah FC
+https://sportora.ru/watch/al-diriyah-vs-al-qadisiyah-fc-football-1603010
+
+#EXTINF:-1 group-title="Baseball",20:10 - Houston Astros vs Chicago White Sox
+https://embed.st/embed/golf/785/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:30 - KAA Gent vs. OH Leuven
+https://embed.st/embed/admin/ppv-kaa-gent-vs-oh-leuven/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:30 - KAA Gent vs. OH Leuven
+https://embed.st/embed/admin/ppv-kaa-gent-vs-oh-leuven/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:30 - Anderlecht vs Kortrijk
+https://embed.st/embed/admin/ppv-anderlecht-vs-kv-kortrijk/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:30 - Anderlecht vs Kortrijk
+https://embed.st/embed/admin/ppv-anderlecht-vs-kv-kortrijk/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:30 - Lugano vs Servette
+https://sportora.ru/watch/lugano-vs-servette-2493361
+
+#EXTINF:-1 group-title="Football",20:30 - Basel vs Sion
+https://sportora.ru/watch/basel-vs-sion-2493360
+
+#EXTINF:-1 group-title="Football",20:30 - Lech Poznań vs Jagiellonia Białystok
+https://sportora.ru/watch/lech-pozna--vs-jagiellonia-bia-ystok-2490227
+
+#EXTINF:-1 group-title="Football",20:45 - Hibernian vs Heart of Midlothian
+https://sportora.ru/watch/hibernian-vs-heart-of-midlothian-2494435
+
+#EXTINF:-1 group-title="Football",20:45 - Toulouse vs Lille
+https://embed.st/embed/admin/ppv-toulouse-vs-lille/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Toulouse vs Lille
+https://embed.st/embed/admin/ppv-toulouse-vs-lille/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Cagliari vs Hellas Verona
+https://sportora.ru/watch/cagliari-vs-hellas-verona-2578589
+
+#EXTINF:-1 group-title="Football",21:00 - Real Sociedad vs Celta Vigo
+https://embed.st/embed/admin/ppv-real-sociedad-vs-celta-vigo/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Real Sociedad vs Celta Vigo
+https://embed.st/embed/admin/ppv-real-sociedad-vs-celta-vigo/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="American-football",23:00 - Montclair State Red Hawks vs Merchant Marine Mariners
+https://embed.st/embed/delta/live_cfb_montclair-state-red-hawks-merchant-marine-mariners-live-streaming-592505712/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",23:00 - América de Cali vs Alianza de Valledupar
+https://sportora.ru/watch/am-rica-de-cali-vs-alianza-de-valledupar-2481171
+
+#EXTINF:-1 group-title="American-football",00:00 - Virginia Lynchburg Dragons vs Roanoke Maroons
+https://sportora.ru/watch/live_cfb_virginia-lynchburg-dragons-roanoke-maroons-live-streaming-605551680
+
+#EXTINF:-1 group-title="American-football",00:00 - Olivet Comets vs Millikin Big Blue
+https://sportora.ru/watch/live_cfb_olivet-comets-millikin-big-blue-live-streaming-605550816
+
+#EXTINF:-1 group-title="American-football",00:00 - Rutgers Scarlet Knights vs Massachusetts Minutemen
+https://embed.st/embed/golf/920/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="American-football",00:00 - Wayne State Warriors vs Northwood Timberwolves
+https://sportora.ru/watch/live_cfb_wayne-state-warriors-northwood-timberwolves-live-streaming-587631888
+
+#EXTINF:-1 group-title="American-football",00:00 - Glenville State Pioneers vs Millersville Marauders
+https://sportora.ru/watch/live_cfb_glenville-state-pioneers-millersville-marauders-live-streaming-587631456
+
+#EXTINF:-1 group-title="American-football",00:00 - Fairmont Falcons vs Bloomsburg Huskies
+https://sportora.ru/watch/live_cfb_fairmont-falcons-bloomsburg-huskies-live-streaming-587631024
+
+#EXTINF:-1 group-title="American-football",00:00 - Clarion Golden Eagles vs West Virginia Wesleyan Bobcats
+https://sportora.ru/watch/live_cfb_clarion-golden-eagles-west-virginia-wesleyan-bobcats-live-streaming-587630592
+
+#EXTINF:-1 group-title="American-football",00:00 - Carson-Newman Eagles vs Thomas (Ga) Night Hawks
+https://sportora.ru/watch/live_cfb_carson-newman-eagles-night-hawks-live-streaming-587630160
+
+#EXTINF:-1 group-title="American-football",00:00 - California Vulcans vs Charleston Golden Eagles
+https://sportora.ru/watch/live_cfb_california-vulcans-charleston-golden-eagles-live-streaming-587629728
+
+#EXTINF:-1 group-title="American-football",00:00 - Assumption College Greyhounds vs Kutztown Golden Bears
+https://sportora.ru/watch/live_cfb_assumption-college-greyhounds-kutztown-golden-bears-live-streaming-587629296
+
+#EXTINF:-1 group-title="American-football",00:00 - Morehead State vs Kentucky Christian
+https://sportora.ru/watch/morehead-state-vs-kentucky-christian-2598494
+
+#EXTINF:-1 group-title="Fight",00:30 - Lenar Perez vs Thabiso Mchunu
+https://sportora.ru/watch/lenar-perez-vs-thabiso-mchunu-2594490

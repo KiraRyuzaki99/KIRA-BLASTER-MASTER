@@ -1,26 +1,41 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",18:00 - Palermo vs Mantova
-https://embed.st/embed/admin/ppv-palermo-vs-mantova/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",20:10 - Houston Astros vs Chicago White Sox
+https://embed.st/embed/admin/ppv-chicago-white-sox-vs-houston-astros/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",18:00 - Palermo vs Mantova
-https://embed.st/embed/admin/ppv-palermo-vs-mantova/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",20:10 - Houston Astros vs Chicago White Sox
+https://embed.st/embed/admin/ppv-chicago-white-sox-vs-houston-astros/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",18:00 - Palermo vs Mantova
-https://embed.st/embed/delta/live_coppa-italia_palermo-mantova-live-streaming-613205424/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",20:10 - Houston Astros vs Chicago White Sox
+https://embed.st/embed/delta/live_mlb_astros-white-sox-live-streaming-594068688/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",18:00 - Raków Częstochowa vs Górnik Zabrze
-https://sportora.ru/watch/rak-w-cz-stochowa-vs-g-rnik-zabrze-2490232
+#EXTINF:-1 group-title="Baseball",20:10 - Houston Astros vs Chicago White Sox
+https://embed.st/embed/golf/785/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",17:55 - Al-Fayha vs Al-Kholood
-https://sportora.ru/watch/al-fayha-vs-al-kholood-2573337
+#EXTINF:-1 group-title="Football",20:00 - FC Copenhagen vs FC Nordsjaelland
+https://sportora.ru/watch/fc-copenhagen-vs-fc-nordsjaelland-football-1549009
 
-#EXTINF:-1 group-title="Other",16:30 - US Open 🎾
-https://sportora.ru/watch/us-open-roland-2026
+#EXTINF:-1 group-title="Football",20:00 - Al Diriyah vs Al-Qadisiyah FC
+https://sportora.ru/watch/al-diriyah-vs-al-qadisiyah-fc-football-1603010
 
-#EXTINF:-1 group-title="Football",18:30 - Neom vs Al-Khaleej
-https://sportora.ru/watch/neom-vs-al-khaleej-2573338
+#EXTINF:-1 group-title="Baseball",19:10 - Cleveland Guardians vs Toronto Blue Jays
+https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-cleveland-guardians/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:10 - Cleveland Guardians vs Toronto Blue Jays
+https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-cleveland-guardians/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:10 - Cleveland Guardians vs Toronto Blue Jays
+https://embed.st/embed/delta/live_mlb_guardians-blue-jays-live-streaming-594068256/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:10 - Cleveland Guardians vs Toronto Blue Jays
+https://embed.st/embed/golf/784/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",19:00 - Mjällby vs Djurgården
+https://embed.st/embed/admin/ppv-mj-llby-aif-vs-djurg-rden/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",19:00 - Mjällby vs Djurgården
+https://embed.st/embed/admin/ppv-mj-llby-aif-vs-djurg-rden/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",18:35 - Pittsburgh Pirates vs San Francisco Giants
 https://embed.st/embed/admin/ppv-san-francisco-giants-vs-pittsburgh-pirates/1#player=clappr&autoplay=true
@@ -32,37 +47,13 @@ https://embed.st/embed/admin/ppv-san-francisco-giants-vs-pittsburgh-pirates/2#pl
 https://embed.st/embed/delta/live_mlb_pirates-giants-live-streaming-594067824/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",18:35 - Pittsburgh Pirates vs San Francisco Giants
+https://embed.st/embed/delta/live_mlb_pirates-giants-live-streaming-594067824/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",18:35 - Pittsburgh Pirates vs San Francisco Giants
 https://embed.st/embed/golf/783/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",19:00 - Mjällby vs Djurgården
-https://embed.st/embed/admin/ppv-mj-llby-aif-vs-djurg-rden/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",19:00 - Mjällby vs Djurgården
-https://embed.st/embed/admin/ppv-mj-llby-aif-vs-djurg-rden/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",19:10 - Cleveland Guardians vs Toronto Blue Jays
-https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-cleveland-guardians/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",19:10 - Cleveland Guardians vs Toronto Blue Jays
-https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-cleveland-guardians/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",19:10 - Cleveland Guardians vs Toronto Blue Jays
-https://embed.st/embed/golf/784/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:00 - FC Copenhagen vs FC Nordsjaelland
-https://sportora.ru/watch/fc-copenhagen-vs-fc-nordsjaelland-football-1549009
-
-#EXTINF:-1 group-title="Football",20:00 - Al Diriyah vs Al-Qadisiyah FC
-https://sportora.ru/watch/al-diriyah-vs-al-qadisiyah-fc-football-1603010
-
-#EXTINF:-1 group-title="Baseball",20:10 - Houston Astros vs Chicago White Sox
-https://embed.st/embed/admin/ppv-chicago-white-sox-vs-houston-astros/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",20:10 - Houston Astros vs Chicago White Sox
-https://embed.st/embed/admin/ppv-chicago-white-sox-vs-houston-astros/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",20:10 - Houston Astros vs Chicago White Sox
-https://embed.st/embed/golf/785/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Football",18:30 - Neom vs Al-Khaleej
+https://sportora.ru/watch/neom-vs-al-khaleej-2573338
 
 #EXTINF:-1 group-title="Football",20:30 - KAA Gent vs. OH Leuven
 https://embed.st/embed/admin/ppv-kaa-gent-vs-oh-leuven/1#player=clappr&autoplay=true
@@ -100,6 +91,9 @@ https://embed.st/embed/admin/ppv-cagliari-vs-hellas-verona/1#player=clappr&autop
 #EXTINF:-1 group-title="Football",21:00 - Cagliari vs Hellas Verona
 https://embed.st/embed/admin/ppv-cagliari-vs-hellas-verona/2#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Football",21:00 - Cagliari vs Hellas Verona
+https://embed.st/embed/delta/live_coppa-italia_cagliari-verona-live-streaming-613205856/1#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Football",21:00 - Real Sociedad vs Celta Vigo
 https://embed.st/embed/admin/ppv-real-sociedad-vs-celta-vigo/1#player=clappr&autoplay=true
 
@@ -111,6 +105,9 @@ https://embed.st/embed/admin/ppv-real-sociedad-vs-celta-vigo/3#player=clappr&aut
 
 #EXTINF:-1 group-title="Football",21:00 - Real Sociedad vs Celta Vigo
 https://embed.st/embed/admin/ppv-real-sociedad-vs-celta-vigo/4#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Real Sociedad vs Celta Vigo
+https://embed.st/embed/delta/live_laliga_real-sociedad-celta-live-streaming-613193760/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Rugby",21:00 - Bradford Bulls vs Castleford Tigers
 https://sportora.ru/watch/bradford-bulls-vs-castleford-tigers-2396016

@@ -9,7 +9,7 @@ from datetime import datetime
 import os
 import re
 
-INPUT_XML = "eventos_livetv_sx.xml"
+INPUT_XML = "output/eventos_livetv_sx.xml"
 OUTPUT_HTML = "kira_liv.html"
 OUTPUT_M3U = "LiveTV_playlist.m3u"
 

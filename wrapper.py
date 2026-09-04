@@ -15,7 +15,7 @@ OUTPUT_DIR = "output"
 
 # Script della repo originale (nella radice)
 REPO_SCRIPTS = [
-    "scripts/repo/script_lista_livetv_sx.py"
+    "scripts/repo/script_lista_livetv_sx.py",
     "scripts/repo/script_canales_acestream.py",
     "scripts/repo/script_logo.py",
 ]

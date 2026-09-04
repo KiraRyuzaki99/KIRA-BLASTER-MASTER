@@ -11,7 +11,7 @@ import re
 
 INPUT_XML = "output/eventos_livetv_sx.xml"
 OUTPUT_HTML = "kira_liv.html"
-OUTPUT_M3U = "LiveTV_playlist.m3u"
+OUTPUT_M3U = "KIRA_LIV.m3u"
 
 def parse_livetv_xml(xml_file):
     """Legge il file XML di LiveTV con struttura <evento>."""

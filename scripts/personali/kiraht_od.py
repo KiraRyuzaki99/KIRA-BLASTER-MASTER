@@ -803,7 +803,7 @@ def main():
     )
     
     # Salva il file
-    filename = "htsport_all_sports_today_future.html"
+    filename = "kira_hat_od.html"
     with open(filename, "w", encoding="utf-8") as f:
         f.write(html_output)
     print(f"\n✅ HTML generato con successo: {filename}")

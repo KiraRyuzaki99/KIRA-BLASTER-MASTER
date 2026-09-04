@@ -23,14 +23,13 @@
 
 | Fonte | Output | Sport |
 |-------|--------|-------|
-| **HTSport** | `htsport_today.html` | Calcio |
-| **HTSport Futuri** | `htsport_today_future.html` | Calcio |
-| **Rojadirecta** | `Agenda Sportiva.html` | Multi |
-| **StreamX** | `streamx_events.html` | Multi |
-| **MamaHD** | `Kira_MamaHD.html` | Multi |
-| **DaddyLive** | `KIRA_GSI_*.html` | Multi |
-| **LiveTV** | `Kira_LiveTV.html` | Multi |
-| **Sportsonline** | `Kira_Spo.html` | Calcio |
+| **HatTrick** | `kira_hat.html` | Multi |
+| **HatTrick Futuri** | `htsport_today_future.html` | Multi |
+| **PPVVT** | `kira_ppvvt.html` | Multi |
+| **StreamX** | `kira_ultra.html` | Multi |
+| **MamaHD** | `kira_mam.html` | Multi |
+| **LiveTV** | `kira_liv.html` | Multi |
+| **Sportsonline** | `kira_spo.html` | Multi |
 | **Icastresana** | `Kira_Ica.html` | Multi |
 
 ---
@@ -68,7 +67,6 @@ https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/
 ├── .github/workflows/          # Automazione
 │   └── update.yml
 ├── output/                     # File generati (fonti multiple)
-├── daddy_output/               # File generati da DaddyLive
 ├── scripts/                    # Script Python
 │   ├── repo/                   # Script da altre repo
 │   └── personali/              # Script personali
@@ -115,7 +113,6 @@ build/
 
 # Output (se non vuoi versionare i file generati - commenta se li vuoi tenere)
 # output/
-# daddy_output/
 
 # File di debug
 debug_*.py

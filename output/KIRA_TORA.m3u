@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
+#EXTINF:-1 group-title="Football",21:45 - Estudiantes de Río Cuarto vs Sarmiento
+https://sportora.ru/watch/estudiantes-de-r-o-cuarto-vs-sarmiento-2398060
+
+#EXTINF:-1 group-title="Football",21:15 - Porto vs Moreirense
+https://sportora.ru/watch/porto-vs-moreirense-2513970
+
 #EXTINF:-1 group-title="Football",21:05 - Paris Saint-Germain vs Monaco
 https://embed.st/embed/admin/ppv-paris-saint-germain-vs-as-monaco/1#player=clappr&autoplay=true
 
@@ -123,12 +129,6 @@ https://sportora.ru/watch/laval-vs-red-star-2488746
 
 #EXTINF:-1 group-title="Football",20:00 - Grenoble vs Annecy
 https://sportora.ru/watch/grenoble-vs-annecy-2488744
-
-#EXTINF:-1 group-title="Football",21:15 - Porto vs Moreirense
-https://sportora.ru/watch/porto-vs-moreirense-2513970
-
-#EXTINF:-1 group-title="Football",21:45 - Estudiantes de Río Cuarto vs Sarmiento
-https://sportora.ru/watch/estudiantes-de-r-o-cuarto-vs-sarmiento-2398060
 
 #EXTINF:-1 group-title="Motor-sports",23:00 - Indycar 🏁
 https://sportora.ru/watch/indycar-racing-0059

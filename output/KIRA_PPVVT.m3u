@@ -1,41 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
+#EXTINF:-1 group-title="Tennis – US Open",Oggi 17:00 - Grandstand [FHD]
+https://august.ppvtv.icu/embed.html?match=c1ffjk8r&server=0
+
 #EXTINF:-1 group-title="Tennis – US Open",Oggi 17:00 - Arthur Ashe Stadium [FHD]
 https://august.ppvtv.icu/embed.html?match=c1f6jddv&server=0
 
 #EXTINF:-1 group-title="Tennis – US Open",Oggi 17:00 - Arthur Ashe Stadium [FHD]
 https://august.ppvtv.icu/embed.html?match=c1f6jddv&server=1
 
-#EXTINF:-1 group-title="Tennis – US Open",Oggi 17:00 - US Open [FHD]
-https://august.ppvtv.icu/embed.html?match=c140xumf&server=0
-
 #EXTINF:-1 group-title="Tennis – US Open",Oggi 17:00 - Louis Armstrong Stadium [FHD]
 https://august.ppvtv.icu/embed.html?match=c1a8143d&server=0
 
-#EXTINF:-1 group-title="Tennis – US Open",Oggi 17:00 - Grandstand [FHD]
-https://august.ppvtv.icu/embed.html?match=c1ffjk8r&server=0
+#EXTINF:-1 group-title="Tennis – US Open",Oggi 17:00 - US Open [FHD]
+https://august.ppvtv.icu/embed.html?match=c140xumf&server=0
 
 #EXTINF:-1 group-title="Darts – Czech Darts Open",Oggi 19:00 - Day 1 - Session 2 [HD]
 https://august.ppvtv.icu/embed.html?match=c1eq93en&server=0
 
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 20:00 - Sparta Rotterdam vs PEC Zwolle [GHD]
-https://august.ppvtv.icu/embed.html?match=f1l4e5ke&server=0
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 20:00 - Sparta Rotterdam vs PEC Zwolle [FHD]
-https://august.ppvtv.icu/embed.html?match=f1l4e5ke&server=1
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 20:00 - Sparta Rotterdam vs PEC Zwolle [WHD]
-https://august.ppvtv.icu/embed.html?match=f1l4e5ke&server=2
-
-#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al Shabab vs Al-Hilal Saudi FC [FHD]
-https://august.ppvtv.icu/embed.html?match=f1ld5tn0&server=0
-
-#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al Shabab vs Al-Hilal Saudi FC [WHD]
-https://august.ppvtv.icu/embed.html?match=f1ld5tn0&server=1
-
-#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al-Ahli Jeddah vs Al Riyadh [WHD]
-https://august.ppvtv.icu/embed.html?match=f1jp8f55&server=0
+#EXTINF:-1 group-title="Golf – World Snooker Tour",Oggi 20:00 - British Open: Quarti di finale [FHD]
+https://august.ppvtv.icu/embed.html?match=ce3uxvy&server=0
 
 #EXTINF:-1 group-title="Football – Challenger Pro League",Oggi 20:00 - Dender vs Seraing United [FHD]
 https://august.ppvtv.icu/embed.html?match=f1suj0ok&server=0
@@ -46,8 +31,17 @@ https://august.ppvtv.icu/embed.html?match=f1suj0ok&server=1
 #EXTINF:-1 group-title="Football – Challenger Pro League",Oggi 20:00 - Beerschot VA vs Patro Eisden [WHD]
 https://august.ppvtv.icu/embed.html?match=f1uzxgdo&server=0
 
-#EXTINF:-1 group-title="Golf – World Snooker Tour",Oggi 20:00 - British Open: Quarti di finale [FHD]
-https://august.ppvtv.icu/embed.html?match=ce3uxvy&server=0
+#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al-Ahli Jeddah vs Al Riyadh [WHD]
+https://august.ppvtv.icu/embed.html?match=f1jp8f55&server=0
+
+#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al Shabab vs Al-Hilal Saudi FC [FHD]
+https://august.ppvtv.icu/embed.html?match=f1ld5tn0&server=0
+
+#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al Shabab vs Al-Hilal Saudi FC [WHD]
+https://august.ppvtv.icu/embed.html?match=f1ld5tn0&server=1
+
+#EXTINF:-1 group-title="Football – Eredivisie",Oggi 20:00 - Sparta Rotterdam vs PEC Zwolle [GHD]
+https://august.ppvtv.icu/embed.html?match=f1l4e5ke&server=0
 
 #EXTINF:-1 group-title="Baseball – MLB",Oggi 20:10 - Detroit Tigers vs Cleveland Guardians [HD]
 https://august.ppvtv.icu/embed.html?match=fdue037&server=0
@@ -70,8 +64,11 @@ https://august.ppvtv.icu/embed.html?match=fdb5pb6&server=0
 #EXTINF:-1 group-title="Football – Serie A",Oggi 20:45 - Genoa vs Como [FHD]
 https://august.ppvtv.icu/embed.html?match=fdb5pb6&server=1
 
-#EXTINF:-1 group-title="Football – Serie A",Oggi 20:45 - Genoa vs Como [WHD]
+#EXTINF:-1 group-title="Football – Serie A",Oggi 20:45 - Genoa vs Como [FHD]
 https://august.ppvtv.icu/embed.html?match=fdb5pb6&server=2
+
+#EXTINF:-1 group-title="Football – Serie A",Oggi 20:45 - Genoa vs Como [WHD]
+https://august.ppvtv.icu/embed.html?match=fdb5pb6&server=3
 
 #EXTINF:-1 group-title="Football – Jupiler Pro League",Oggi 20:45 - Lommel United vs Club Brugge KV [GHD]
 https://august.ppvtv.icu/embed.html?match=f2uc4km&server=0
@@ -91,6 +88,12 @@ https://august.ppvtv.icu/embed.html?match=f105v25&server=1
 #EXTINF:-1 group-title="Football – La Liga",Oggi 21:00 - Real Betis vs Real Madrid [FHD]
 https://august.ppvtv.icu/embed.html?match=f105v25&server=2
 
+#EXTINF:-1 group-title="Football – La Liga",Oggi 21:00 - Real Betis vs Real Madrid [FHD]
+https://august.ppvtv.icu/embed.html?match=f105v25&server=3
+
+#EXTINF:-1 group-title="Football – La Liga",Oggi 21:00 - Real Betis vs Real Madrid [WHD]
+https://august.ppvtv.icu/embed.html?match=f105v25&server=4
+
 #EXTINF:-1 group-title="Football – Premier League",Oggi 21:00 - Ipswich vs Liverpool [FHD]
 https://august.ppvtv.icu/embed.html?match=f11ru3l9&server=0
 
@@ -100,8 +103,11 @@ https://august.ppvtv.icu/embed.html?match=f11ru3l9&server=1
 #EXTINF:-1 group-title="Football – Premier League",Oggi 21:00 - Ipswich vs Liverpool [FHD]
 https://august.ppvtv.icu/embed.html?match=f11ru3l9&server=2
 
-#EXTINF:-1 group-title="Football – Premier League",Oggi 21:00 - Ipswich vs Liverpool [WHD]
+#EXTINF:-1 group-title="Football – Premier League",Oggi 21:00 - Ipswich vs Liverpool [FHD]
 https://august.ppvtv.icu/embed.html?match=f11ru3l9&server=3
+
+#EXTINF:-1 group-title="Football – Premier League",Oggi 21:00 - Ipswich vs Liverpool [WHD]
+https://august.ppvtv.icu/embed.html?match=f11ru3l9&server=4
 
 #EXTINF:-1 group-title="Football – Ligue 1",Oggi 21:05 - Paris Saint Germain vs Monaco [FHD]
 https://august.ppvtv.icu/embed.html?match=f1qdsfvk&server=0
@@ -112,7 +118,19 @@ https://august.ppvtv.icu/embed.html?match=f1qdsfvk&server=1
 #EXTINF:-1 group-title="Football – Ligue 1",Oggi 21:05 - Paris Saint Germain vs Monaco [FHD]
 https://august.ppvtv.icu/embed.html?match=f1qdsfvk&server=2
 
-#EXTINF:-1 group-title="Football – Liga Profesional Argentina",Oggi 21:45 - Estudiantes de Rio Cuarto vs Sarmiento Junin [WHD]
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 21:05 - Paris Saint Germain vs Monaco [FHD]
+https://august.ppvtv.icu/embed.html?match=f1qdsfvk&server=3
+
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 21:05 - Paris Saint Germain vs Monaco [WHD]
+https://august.ppvtv.icu/embed.html?match=f1qdsfvk&server=4
+
+#EXTINF:-1 group-title="Football – Primeira Liga",Oggi 21:15 - FC Porto vs Moreirense [FHD]
+https://august.ppvtv.icu/embed.html?match=fj8of19&server=0
+
+#EXTINF:-1 group-title="Football – Primeira Liga",Oggi 21:15 - FC Porto vs Moreirense [WHD]
+https://august.ppvtv.icu/embed.html?match=fj8of19&server=1
+
+#EXTINF:-1 group-title="Football – Liga Profesional Argentina",Oggi 21:45 - Estudiantes de Rio Cuarto vs Sarmiento Junin [FHD]
 https://august.ppvtv.icu/embed.html?match=f1a7pxah&server=0
 
 #EXTINF:-1 group-title="Football – Liga Profesional Argentina",Oggi 21:45 - Estudiantes de Rio Cuarto vs Sarmiento Junin [WHD]

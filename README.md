@@ -24,13 +24,14 @@
 | Fonte | Output | Sport |
 |-------|--------|-------|
 | **HatTrick** | `kira_hat.html` | Multi |
-| **HatTrick Futuri** | `htsport_today_future.html` | Multi |
+| **HatTrick Futuri** | `kira_hat_od.html` | Multi |
 | **PPVVT** | `kira_ppvvt.html` | Multi |
 | **StreamX** | `kira_ultra.html` | Multi |
 | **MamaHD** | `kira_mam.html` | Multi |
 | **LiveTV** | `kira_liv.html` | Multi |
 | **Sportsonline** | `kira_spo.html` | Multi |
-| **Icastresana** | `Kira_Ica.html` | Multi |
+| **Icastresana** | `kira_Ica.html` | Multi |
+| **Sportora** | `kira_tora.html` | Multi |
 
 ---
 
@@ -60,8 +61,16 @@ pip install -r requirements.txt
 # 3. Esegui tutti gli scraper
 python wrapper.py
 
-https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/Kira_Spo.html
+https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_spo.html
 https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/Kira_Ica.html
+https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_ultra.html
+https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_liv.html
+https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_ppvvt.html
+https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_mam.html
+https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_tora.html
+https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_hat.html
+https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_hat_od.html
+
 
 📁 KIRA-BLASTER-MASTER/
 ├── .github/workflows/          # Automazione

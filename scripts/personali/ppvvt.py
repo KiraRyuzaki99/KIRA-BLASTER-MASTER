@@ -16,7 +16,7 @@ from html import escape
 
 API_URL = "https://august.ppvtv.icu/api/matches.json"
 OUTPUT_HTML = "kira_ppvvt.html"
-OUTPUT_M3U = "PPVTV_playlist.m3u"
+OUTPUT_M3U = "KIRA_PPVVT.m3u"
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0.0.0',

@@ -66,6 +66,9 @@ def run_script(script_path: str) -> bool:
         else:
             log(f"   ❌ Errore (codice: {result.returncode})")
             return False
+    except subprocess.TimeoutExpired:
+        log(f"   ❌ Timeout dopo 120 secondi")
+        return False
     except Exception as e:
         log(f"   ❌ Eccezione: {e}")
         return False

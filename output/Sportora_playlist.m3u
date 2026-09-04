@@ -1,8 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Other",04:00 - High Limit Racing Skagit
-https://sportora.ru/watch/ppv-event-06-high-limit-racing-skagit-ppv-06
+#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs St. Louis Cardinals
+https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-los-angeles-dodgers/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs St. Louis Cardinals
+https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-los-angeles-dodgers/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs St. Louis Cardinals
+https://embed.st/embed/delta/live_mlb_dodgers-cardinals-live-streaming-594071280/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs St. Louis Cardinals
+https://embed.st/embed/delta/live_mlb_dodgers-cardinals-live-streaming-594071280/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs St. Louis Cardinals
+https://embed.st/embed/golf/939/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",03:40 - Seattle Mariners vs Athletics
 https://embed.st/embed/admin/ppv-athletics-vs-seattle-mariners/1#player=clappr&autoplay=true
@@ -15,15 +27,6 @@ https://embed.st/embed/delta/live_mlb_mariners-athletics-live-streaming-59407084
 
 #EXTINF:-1 group-title="Baseball",03:40 - Seattle Mariners vs Athletics
 https://embed.st/embed/golf/938/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Fight",03:00 - TNA Impact
-https://embed.st/embed/admin/ppv-tna-impact/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Fight",03:00 - TNA Impact
-https://embed.st/embed/admin/ppv-tna-impact/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",03:00 - Deportivo Pereira vs Independiente Medellín
-https://sportora.ru/watch/deportivo-pereira-vs-independiente-medell-n-2481153
 
 #EXTINF:-1 group-title="American-football",03:00 - Illinois vs UAB
 https://embed.st/embed/delta/live_cfb_illinois-uab-live-streaming-587641824/1#player=clappr&autoplay=true
@@ -43,194 +46,20 @@ https://embed.st/embed/delta/live_cfb_utah-idaho-live-streaming-587644416/1#play
 #EXTINF:-1 group-title="American-football",03:00 - Utah vs Idaho
 https://embed.st/embed/golf/924/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",02:05 - Texas Rangers vs Tampa Bay Rays
-https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-texas-rangers/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",02:05 - Texas Rangers vs Tampa Bay Rays
-https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-texas-rangers/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",02:05 - Texas Rangers vs Tampa Bay Rays
-https://embed.st/embed/delta/live_mlb_rangers-rays-live-streaming-594070416/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",02:05 - Texas Rangers vs Tampa Bay Rays
-https://embed.st/embed/delta/live_mlb_rangers-rays-live-streaming-594070416/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",02:05 - Texas Rangers vs Tampa Bay Rays
-https://embed.st/embed/golf/937/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",02:00 - Massachusetts Minutemen - Rutgers Scarlet Knights
-https://embed.st/embed/golf/920/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",02:00 - Millsaps Majors vs Belhaven	Blazers
-https://sportora.ru/watch/live_cfb_millsaps-majors-belhavenblazers-live-streaming-592509600
-
-#EXTINF:-1 group-title="American-football",02:00 - Beloit Buccaneers vs Rockford	Regents
-https://sportora.ru/watch/live_cfb_beloit-buccaneers-rockfordregents-live-streaming-592509168
-
-#EXTINF:-1 group-title="American-football",02:00 - Western New Mexico Mustangs vs New Mexico Highlands Cowboys
-https://sportora.ru/watch/live_cfb_western-new-mexico-mustangs-new-mexico-highlands-cowboys-live-streaming-587640096
-
-#EXTINF:-1 group-title="American-football",02:00 - Western Colorado Mountaineers vs Angelo State Rams
-https://sportora.ru/watch/live_cfb_western-colorado-mountaineers-angelo-state-rams-live-streaming-587639664
-
-#EXTINF:-1 group-title="American-football",02:00 - Ouachita Baptist Tigers vs East Central Tigers
-https://sportora.ru/watch/live_cfb_ouachita-baptist-tigers-east-central-tigers-live-streaming-587639232
-
-#EXTINF:-1 group-title="American-football",02:00 - Oklahoma Baptist Bison vs Southern Arkansas Muleriders
-https://sportora.ru/watch/live_cfb_oklahoma-baptist-bison-southern-arkansas-muleriders-live-streaming-587638800
-
-#EXTINF:-1 group-title="American-football",02:00 - Fort Hays State Tigers vs Colorado State Pueblo Thunderwolves
-https://sportora.ru/watch/live_cfb_fort-hays-state-tigers-colorado-state-pueblo-thunderwolves-live-streaming-587638368
-
-#EXTINF:-1 group-title="American-football",02:00 - Chadron State Eagles vs Nebraska Kearney Lopers
-https://sportora.ru/watch/live_cfb_chadron-state-eagles-nebraska-kearney-lopers-live-streaming-587637936
-
-#EXTINF:-1 group-title="American-football",02:00 - Arkansas Tech Wonder Boys vs Southwestern Oklahoma State Bulldogs
-https://sportora.ru/watch/live_cfb_arkansas-tech-wonder-boys-southwestern-oklahoma-state-bulldogs-live-streaming-587637072
-
-#EXTINF:-1 group-title="American-football",02:00 - Minnesota vs Eastern Illinois
-https://embed.st/embed/delta/live_cfb_minnesota-eastern-illinois-live-streaming-587643984/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",02:00 - Georgia Tech vs Colorado
-https://embed.st/embed/admin/ppv-colorado-buffaloes-at-georgia-tech-yellow-jackets/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",02:00 - Georgia Tech vs Colorado
-https://embed.st/embed/admin/ppv-colorado-buffaloes-at-georgia-tech-yellow-jackets/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",02:00 - Georgia Tech vs Colorado
-https://embed.st/embed/delta/live_cfb_georgia-tech-colorado-live-streaming-587641392/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",02:00 - Georgia Tech vs Colorado
-https://embed.st/embed/golf/923/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",02:00 - Missouri vs Arkansas-Pine Bluff
-https://embed.st/embed/admin/ppv-arkansas-pine-bluff-golden-lions-at-missouri-tigers/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",02:00 - Missouri vs Arkansas-Pine Bluff
-https://embed.st/embed/admin/ppv-arkansas-pine-bluff-golden-lions-at-missouri-tigers/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",02:00 - Missouri vs Arkansas-Pine Bluff
-https://embed.st/embed/delta/live_cfb_missouri-arkansas-pine-bluff-live-streaming-605556864/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",02:00 - Missouri vs Arkansas-Pine Bluff
-https://embed.st/embed/golf/922/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",01:40 - Kansas City Royals vs Miami Marlins
-https://embed.st/embed/admin/ppv-miami-marlins-vs-kansas-city-royals/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",01:40 - Kansas City Royals vs Miami Marlins
-https://embed.st/embed/admin/ppv-miami-marlins-vs-kansas-city-royals/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",01:40 - Kansas City Royals vs Miami Marlins
-https://embed.st/embed/delta/live_mlb_royals-marlins-live-streaming-594069984/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",01:40 - Kansas City Royals vs Miami Marlins
-https://embed.st/embed/delta/live_mlb_royals-marlins-live-streaming-594069984/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",01:40 - Kansas City Royals vs Miami Marlins
-https://embed.st/embed/golf/788/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",01:00 - Juniata Eagles vs Gettysburg Bullets
-https://sportora.ru/watch/live_cfb_juniata-eagles-gettysburg-bullets-live-streaming-605553408
-
-#EXTINF:-1 group-title="American-football",01:00 - Wooster Fighting Scots vs Wilmington Quakers
-https://sportora.ru/watch/live_cfb_wooster-fighting-scots-wilmington-quakers-live-streaming-592508736
-
-#EXTINF:-1 group-title="American-football",01:00 - UW-River Falls Falcons vs Southern Virginia Knights
-https://sportora.ru/watch/live_cfb_uw-river-falls-falcons-southern-virginia-knights-live-streaming-592508304
-
-#EXTINF:-1 group-title="American-football",01:00 - Trine Thunder vs Chicago Maroons
-https://sportora.ru/watch/live_cfb_trine-thunder-chicago-maroons-live-streaming-592507872
-
-#EXTINF:-1 group-title="American-football",01:00 - Ohio Wesleyan Battling Bishops vs Bluffton Beavers
-https://sportora.ru/watch/live_cfb_ohio-wesleyan-battling-bishops-bluffton-beavers-live-streaming-592507440
-
-#EXTINF:-1 group-title="American-football",01:00 - Marietta Pioneers vs Westminster Titans
-https://sportora.ru/watch/live_cfb_marietta-pioneers-westminster-titans-live-streaming-592507008
-
-#EXTINF:-1 group-title="American-football",01:00 - Kings Monarchs vs Wilkes Colonels
-https://sportora.ru/watch/live_cfb_kings-monarchs-wilkes-colonels-live-streaming-592506576
-
-#EXTINF:-1 group-title="American-football",01:00 - Brockport	Golden Eagles vs Buffalo Bengals
-https://sportora.ru/watch/live_cfb_brockportgolden-eagles-buffalo-bengals-live-streaming-592506144
-
-#EXTINF:-1 group-title="American-football",01:00 - Valdosta State Blazers vs Warner Royals
-https://sportora.ru/watch/live_cfb_valdosta-state-blazers-warner-royals-live-streaming-587636640
-
-#EXTINF:-1 group-title="American-football",01:00 - Southern Nazarene Crimson Storm vs Henderson State Reddies
-https://sportora.ru/watch/live_cfb_southern-nazarene-crimson-storm-henderson-state-reddies-live-streaming-587636208
-
-#EXTINF:-1 group-title="American-football",01:00 - Northern State Wolves vs Winona State Warriors
-https://sportora.ru/watch/live_cfb_northern-state-wolves-winona-state-warriors-live-streaming-587635776
-
-#EXTINF:-1 group-title="American-football",01:00 - Minot State Beavers vs Wayne State Wildcats
-https://sportora.ru/watch/live_cfb_minot-state-beavers-wayne-state-wildcats-live-streaming-587635344
-
-#EXTINF:-1 group-title="American-football",01:00 - Minnesota Duluth Bulldogs vs Augustana University Vikings
-https://sportora.ru/watch/live_cfb_minnesota-duluth-bulldogs-augustana-university-vikings-live-streaming-587634480
-
-#EXTINF:-1 group-title="American-football",01:00 - Harding Bisons vs Northwestern Oklahoma State Rangers
-https://sportora.ru/watch/live_cfb_harding-bisons-northwestern-oklahoma-state-rangers-live-streaming-587634048
-
-#EXTINF:-1 group-title="American-football",01:00 - Grand Valley State Lakers vs West Texas A&M Buffaloes
-https://sportora.ru/watch/live_cfb_grand-valley-state-lakers-west-texas-am-buffaloes-live-streaming-587633616
-
-#EXTINF:-1 group-title="American-football",01:00 - Edinboro Fighting Scots vs Ohio Dominican Panthers
-https://sportora.ru/watch/live_cfb_edinboro-fighting-scots-ohio-dominican-panthers-live-streaming-587633184
-
-#EXTINF:-1 group-title="American-football",01:00 - Ashland Eagles vs Indiana Crimson Hawks
-https://sportora.ru/watch/live_cfb_ashland-eagles-indiana-crimson-hawks-live-streaming-587632752
-
-#EXTINF:-1 group-title="American-football",01:00 - Arkansas Monticello Boll Weevils vs Southeastern Oklahoma State Savage Storm
-https://sportora.ru/watch/live_cfb_arkansas-monticello-boll-weevils-southeastern-oklahoma-state-savage-storm-live-streaming-587632320
-
-#EXTINF:-1 group-title="American-football",01:00 - Kennesaw State vs West Georgia
-https://embed.st/embed/delta/live_cfb_kennesaw-st-west-georgia-wolves-live-streaming-587643120/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",01:00 - Samford vs Southern Illinois
-https://embed.st/embed/delta/live_cfb_samford-southern-illinois-live-streaming-605558160/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",01:00 - Stony Brook vs Lindenwood
-https://sportora.ru/watch/stony-brook-vs-lindenwood-2593855
-
-#EXTINF:-1 group-title="American-football",01:00 - Buffalo vs Albany
-https://embed.st/embed/delta/live_cfb_buffalo-albany-live-streaming-587642256/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",01:00 - Delaware vs Merrimack
-https://embed.st/embed/delta/live_cfb_delaware-merrimack-warriors-live-streaming-587642688/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",01:00 - Wake Forest vs Akron
-https://embed.st/embed/delta/live_cfb_wake-forest-akron-live-streaming-587640960/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",01:00 - Wake Forest vs Akron
-https://embed.st/embed/golf/921/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",01:00 - UCF vs Bethune-Cookman
-https://embed.st/embed/delta/live_cfb_ucf-bethune-cookman-live-streaming-587643552/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs St. Louis Cardinals
-https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-los-angeles-dodgers/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs St. Louis Cardinals
-https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-los-angeles-dodgers/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs St. Louis Cardinals
-https://embed.st/embed/delta/live_mlb_dodgers-cardinals-live-streaming-594071280/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs St. Louis Cardinals
-https://embed.st/embed/delta/live_mlb_dodgers-cardinals-live-streaming-594071280/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs St. Louis Cardinals
-https://embed.st/embed/golf/939/1#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Rugby",10:00 - Gold Coast Titans vs Dolphins
 https://embed.st/embed/admin/ppv-titans-vs-dolphins/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Rugby",10:00 - Gold Coast Titans vs Dolphins
 https://embed.st/embed/admin/ppv-titans-vs-dolphins/2#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Motor-sports",10:15 - World SBK French Round  🏁
+https://sportora.ru/watch/world-sbk-french-round-game-19996
+
 #EXTINF:-1 group-title="Motor-sports",10:51 - Formula 1 2026 - Italy GP
 https://embed.st/embed/delta/live-event_formula-1-2026-italy-gp-live-stream/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Afl",11:40 - Geelong Cats vs Carlton Blues
+https://sportora.ru/watch/geelong-cats-vs-carlton-blues-game-1384832
 
 #EXTINF:-1 group-title="Rugby",12:00 - South Sydney Rabbitohs vs Sydney Roosters
 https://embed.st/embed/admin/ppv-rabbitohs-vs-roosters/1#player=clappr&autoplay=true
@@ -241,20 +70,20 @@ https://embed.st/embed/admin/ppv-rabbitohs-vs-roosters/2#player=clappr&autoplay=
 #EXTINF:-1 group-title="Motor-sports",12:30 - 1st Practice | Autodromo Nazionale Monza |
 https://sportora.ru/watch/1st-practice-autodromo-nazionale-monza-formula-1-2578
 
-#EXTINF:-1 group-title="Motor-sports",12:30 - Italian Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-italian-grand-prix-practice-2/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Motor-sports",16:00 - Italian Grand Prix Practice 1
+https://embed.st/embed/admin/ppv-italian-grand-prix-practice-1/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Motor-sports",12:30 - Italian Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-italian-grand-prix-practice-2/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Motor-sports",16:00 - Italian Grand Prix Practice 1
+https://embed.st/embed/admin/ppv-italian-grand-prix-practice-1/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Motor-sports",12:30 - Italian Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-italian-grand-prix-practice-2/3#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Motor-sports",16:00 - Italian Grand Prix Practice 1
+https://embed.st/embed/admin/ppv-italian-grand-prix-practice-1/3#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Motor-sports",12:30 - Italian Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-italian-grand-prix-practice-2/4#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Motor-sports",16:00 - Italian Grand Prix Practice 1
+https://embed.st/embed/admin/ppv-italian-grand-prix-practice-1/4#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Motor-sports",12:30 - Italian Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-italian-grand-prix-practice-2/5#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Motor-sports",16:00 - Italian Grand Prix Practice 1
+https://embed.st/embed/admin/ppv-italian-grand-prix-practice-1/5#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:00 - Abha vs Al-Ettifaq
 https://sportora.ru/watch/abha-vs-al-ettifaq-2573340
@@ -400,11 +229,38 @@ https://sportora.ru/watch/andy-ruiz-jr--vs-damian-knyba-2548269
 #EXTINF:-1 group-title="Football",00:00 - Belgrano Cordoba vs Huracan
 https://sportora.ru/watch/belgrano-cordoba-vs-huracan-football-1493109
 
+#EXTINF:-1 group-title="American-football",00:00 - Dickinson Red Devils vs Randolph Macon Yellow Jackets
+https://sportora.ru/watch/live_cfb_dickinson-red-devils-randolph-macon-yellow-jackets-live-streaming-605619072
+
+#EXTINF:-1 group-title="American-football",00:00 - Rowan Profs vs Mary Hardin Baylor Crusaders
+https://sportora.ru/watch/live_cfb_rowan-profs-mary-hardin-baylor-crusaders-live-streaming-592511328
+
+#EXTINF:-1 group-title="American-football",00:00 - Nichols Bison vs MIT Engineers
+https://sportora.ru/watch/live_cfb_nichols-bison-mit-engineers-live-streaming-592510896
+
+#EXTINF:-1 group-title="American-football",00:00 - Methodist Monarchs vs Shenandoah Hornets
+https://sportora.ru/watch/live_cfb_methodist-monarchs-shenandoah-hornets-live-streaming-592510464
+
+#EXTINF:-1 group-title="American-football",00:00 - Albright Lions vs Gallaudet	Bison
+https://sportora.ru/watch/live_cfb_albright-lions-gallaudetbison-live-streaming-592510032
+
+#EXTINF:-1 group-title="American-football",00:00 - Monroe Mustangs vs Lackawanna Falcons
+https://sportora.ru/watch/live_cfb_monroe-mustangs-lackawanna-falcons-live-streaming-587646144
+
+#EXTINF:-1 group-title="American-football",00:00 - Ferris State Bulldogs vs Bentley Falcons
+https://sportora.ru/watch/live_cfb_ferris-state-bulldogs-bentley-falcons-live-streaming-587645712
+
 #EXTINF:-1 group-title="Football",00:00 - Platense vs Deportivo Riestra
 https://sportora.ru/watch/platense-vs-deportivo-riestra-2398064
 
 #EXTINF:-1 group-title="Baseball",00:10 - Cincinnati Reds vs Milwaukee Brewers
 https://embed.st/embed/golf/941/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="American-football",00:30 - Keystone Giants vs Alvernia Golden Wolves
+https://sportora.ru/watch/live_cfb_keystone-giants-alvernia-golden-wolves-live-streaming-592511760
+
+#EXTINF:-1 group-title="American-football",00:30 - Eastern Michigan Eagles vs San Jose State Spartans
+https://sportora.ru/watch/live_cfb_eastern-michigan-san-jose-st-live-streaming-587647008
 
 #EXTINF:-1 group-title="Baseball",00:40 - Philadelphia Phillies vs Atlanta Braves
 https://embed.st/embed/golf/942/1#player=clappr&autoplay=true

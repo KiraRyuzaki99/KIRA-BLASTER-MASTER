@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Motor-sports",09:30 - Italian F3-F2 | Practice - Qualifying 🏁
-https://sportora.ru/watch/italian-f3-f2-practice-qualifying-game-4u8337
-
 #EXTINF:-1 group-title="Rugby",10:00 - Gold Coast Titans vs Dolphins
 https://embed.st/embed/admin/ppv-titans-vs-dolphins/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Rugby",10:00 - Gold Coast Titans vs Dolphins
 https://embed.st/embed/admin/ppv-titans-vs-dolphins/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Motor-sports",09:30 - Italian F3-F2 | Practice - Qualifying 🏁
+https://sportora.ru/watch/italian-f3-f2-practice-qualifying-game-4u8337
 
 #EXTINF:-1 group-title="Motor-sports",10:15 - World SBK French Round  🏁
 https://sportora.ru/watch/world-sbk-french-round-game-19996
@@ -17,7 +17,7 @@ https://sportora.ru/watch/world-sbk-french-round-game-19996
 https://embed.st/embed/delta/live-event_formula-1-2026-italy-gp-live-stream/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Afl",11:40 - Geelong Cats vs Carlton Blues
-https://sportora.ru/watch/geelong-cats-vs-carlton-blues-game-1384832
+https://sportora.ru/watch/geelong-cats-vs-carlton-blues-australian-football-3627
 
 #EXTINF:-1 group-title="Rugby",12:00 - South Sydney Rabbitohs vs Sydney Roosters
 https://embed.st/embed/admin/ppv-rabbitohs-vs-roosters/1#player=clappr&autoplay=true
@@ -127,20 +127,17 @@ https://sportora.ru/watch/laval-vs-red-star-2488746
 #EXTINF:-1 group-title="Football",20:00 - Grenoble vs Annecy
 https://sportora.ru/watch/grenoble-vs-annecy-2488744
 
-#EXTINF:-1 group-title="Baseball",20:10 - Cleveland Guardians vs Detroit Tigers
-https://embed.st/embed/admin/ppv-detroit-tigers-vs-cleveland-guardians/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",20:10 - Cleveland Guardians vs Detroit Tigers
-https://embed.st/embed/admin/ppv-detroit-tigers-vs-cleveland-guardians/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",20:10 - Cleveland Guardians vs Detroit Tigers
-https://embed.st/embed/golf/940/1#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Football",20:30 - VfB Stuttgart vs. FC Cologne
 https://embed.st/embed/admin/ppv-vf-b-stuttgart-vs-fc-cologne/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:30 - VfB Stuttgart vs. FC Cologne
 https://embed.st/embed/admin/ppv-vf-b-stuttgart-vs-fc-cologne/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:30 - VfB Stuttgart vs. FC Cologne
+https://embed.st/embed/admin/ppv-vf-b-stuttgart-vs-fc-cologne/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:30 - VfB Stuttgart vs. FC Cologne
+https://embed.st/embed/admin/ppv-vf-b-stuttgart-vs-fc-cologne/4#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:30 - Stuttgart vs Köln
 https://sportora.ru/watch/stuttgart-vs-k-ln-2508347
@@ -170,7 +167,13 @@ https://embed.st/embed/admin/ppv-real-betis-vs-real-madrid/1#player=clappr&autop
 https://embed.st/embed/admin/ppv-real-betis-vs-real-madrid/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Real Betis vs Real Madrid
-https://embed.st/embed/golf/790/1#player=clappr&autoplay=true
+https://embed.st/embed/admin/ppv-real-betis-vs-real-madrid/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Real Betis vs Real Madrid
+https://embed.st/embed/admin/ppv-real-betis-vs-real-madrid/4#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Real Betis vs Real Madrid
+https://embed.st/embed/admin/ppv-real-betis-vs-real-madrid/5#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Ipswich Town vs Liverpool
 https://embed.st/embed/admin/ppv-ipswich-town-vs-liverpool/1#player=clappr&autoplay=true
@@ -179,7 +182,13 @@ https://embed.st/embed/admin/ppv-ipswich-town-vs-liverpool/1#player=clappr&autop
 https://embed.st/embed/admin/ppv-ipswich-town-vs-liverpool/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Ipswich Town vs Liverpool
-https://embed.st/embed/golf/789/1#player=clappr&autoplay=true
+https://embed.st/embed/admin/ppv-ipswich-town-vs-liverpool/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Ipswich Town vs Liverpool
+https://embed.st/embed/admin/ppv-ipswich-town-vs-liverpool/4#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Ipswich Town vs Liverpool
+https://embed.st/embed/admin/ppv-ipswich-town-vs-liverpool/5#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Rugby",21:00 - Leigh Leopards vs St Helens
 https://sportora.ru/watch/leigh-leopards-vs-st-helens-2396019
@@ -190,6 +199,12 @@ https://embed.st/embed/admin/ppv-paris-saint-germain-vs-as-monaco/1#player=clapp
 #EXTINF:-1 group-title="Football",21:05 - Paris Saint-Germain vs Monaco
 https://embed.st/embed/admin/ppv-paris-saint-germain-vs-as-monaco/2#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Football",21:05 - Paris Saint-Germain vs Monaco
+https://embed.st/embed/admin/ppv-paris-saint-germain-vs-as-monaco/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:05 - Paris Saint-Germain vs Monaco
+https://embed.st/embed/admin/ppv-paris-saint-germain-vs-as-monaco/4#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Football",21:15 - Porto vs Moreirense
 https://sportora.ru/watch/porto-vs-moreirense-2513970
 
@@ -198,9 +213,6 @@ https://sportora.ru/watch/estudiantes-de-r-o-cuarto-vs-sarmiento-2398060
 
 #EXTINF:-1 group-title="Motor-sports",23:00 - Indycar 🏁
 https://sportora.ru/watch/indycar-racing-0059
-
-#EXTINF:-1 group-title="Fight",23:30 - Andy Ruiz Jr. vs Damian Knyba
-https://sportora.ru/watch/andy-ruiz-jr--vs-damian-knyba-2548269
 
 #EXTINF:-1 group-title="Football",00:00 - Belgrano Cordoba vs Huracan
 https://sportora.ru/watch/belgrano-cordoba-vs-huracan-football-1493109

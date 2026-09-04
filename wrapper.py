@@ -35,6 +35,7 @@ TUOI_SCRIPTS = [
     "scripts/personali/mamahdday.py",
     "scripts/personali/sportora.py",
     "scripts/personali/ppvvt.py",
+    "scripts/personali/genera_index.py",
 ]
 
 def log(msg: str):
@@ -87,11 +88,11 @@ def main():
     for script in TUOI_SCRIPTS:
         run_script(script)
     
-    # 3. Sposta file
+    # 3. Sposta file (escludi index.html)
     print("\n📦 FASE 3: Spostamento file")
     for pattern in ["*.xml", "*.m3u", "*.json", "*.html", "*.txt"]:
         for f in glob.glob(pattern):
-            if os.path.isfile(f):
+            if os.path.isfile(f) and f != "index.html":  # ← ESCLUDI index.html
                 shutil.move(f, os.path.join(OUTPUT_DIR, f))
                 log(f"   📦 Spostato: {f}")
     

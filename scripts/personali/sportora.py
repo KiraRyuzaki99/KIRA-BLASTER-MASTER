@@ -16,7 +16,7 @@ from html import escape
 
 BASE_URL = "https://sportora.ru"
 OUTPUT_HTML = "kira_tora.html"
-OUTPUT_M3U = "Sportora_playlist.m3u"
+OUTPUT_M3U = "KIRA_TORA.m3u"
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0.0.0',

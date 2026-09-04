@@ -15,14 +15,9 @@ OUTPUT_DIR = "output"
 
 # Script della repo originale (nella radice)
 REPO_SCRIPTS = [
-    "scripts/repo/script_lista_livetv_sx.py",
-    "scripts/repo/script_lista_livetv_sx_reproductores.py",
+    "scripts/repo/script_lista_livetv_sx.py"
     "scripts/repo/script_canales_acestream.py",
-    "scripts/repo/script_reproductor_web.py",
     "scripts/repo/script_logo.py",
-    "scripts/repo/script_detector_deportes.py",
-    "scripts/repo/script_detector_mistral.py",
-    "scripts/repo/script_scraper_acestream_api.py",
 ]
 
 # TUOI script (in ordine)
@@ -34,7 +29,6 @@ TUOI_SCRIPTS = [
     "scripts/personali/genera_ica_html.py",
     "scripts/personali/HatOggi.py",
     "scripts/personali/HatOggiDomani.py",
-    "scripts/personali/PydroidRojaStV1.py",
     "scripts/personali/PyGenHtmlM3U.py",
     "scripts/personali/genera_livetv.py",
     "scripts/personali/scraper_mamahd.py",

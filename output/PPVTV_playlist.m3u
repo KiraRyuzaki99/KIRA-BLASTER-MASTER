@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 03:40 - Athletics vs Seattle Mariners [FHD]
-https://august.ppvtv.icu/embed.html?match=ffe2tdq&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 04:10 - St. Louis Cardinals vs Los Angeles Dodgers [FHD]
-https://august.ppvtv.icu/embed.html?match=fcjcoxz&server=0
-
 #EXTINF:-1 group-title="Formula 1 – Formula 1 Practice",Oggi 12:15 - Italian Grand Prix 2026 - Practice 1 [FHD]
 https://august.ppvtv.icu/embed.html?match=c1mrx9zp&server=0
 
@@ -36,6 +30,12 @@ https://august.ppvtv.icu/embed.html?match=c1lxygws&server=0
 
 #EXTINF:-1 group-title="Formula 1 – Formula 1 Practice",Oggi 15:55 - Italian Grand Prix 2026 - Practice 2 [FHD]
 https://august.ppvtv.icu/embed.html?match=c1lxygws&server=1
+
+#EXTINF:-1 group-title="Tennis – US Open",Oggi 17:00 - US Open [FHD]
+https://august.ppvtv.icu/embed.html?match=c140xumf&server=0
+
+#EXTINF:-1 group-title="Tennis – US Open",Oggi 17:00 - US Open [FHD]
+https://august.ppvtv.icu/embed.html?match=c140xumf&server=1
 
 #EXTINF:-1 group-title="Football – Pro League",Oggi 18:00 - Abha vs Al-Ettifaq [WHD]
 https://august.ppvtv.icu/embed.html?match=f1cifhi7&server=0
@@ -103,11 +103,17 @@ https://august.ppvtv.icu/embed.html?match=fgaxoqa&server=2
 #EXTINF:-1 group-title="Football – Ligue 1",Oggi 19:00 - Lyon vs Auxerre [FHD]
 https://august.ppvtv.icu/embed.html?match=fgaxoqa&server=3
 
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 19:00 - Lyon vs Auxerre [WHD]
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 19:00 - Lyon vs Auxerre [FHD]
 https://august.ppvtv.icu/embed.html?match=fgaxoqa&server=4
 
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 19:00 - Lyon vs Auxerre [WHD]
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 19:00 - Lyon vs Auxerre [FHD]
 https://august.ppvtv.icu/embed.html?match=fgaxoqa&server=5
+
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 19:00 - Lyon vs Auxerre [WHD]
+https://august.ppvtv.icu/embed.html?match=fgaxoqa&server=6
+
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 19:00 - Lyon vs Auxerre [WHD]
+https://august.ppvtv.icu/embed.html?match=fgaxoqa&server=7
 
 #EXTINF:-1 group-title="Football – Premier League",Oggi 19:00 - Slavia Mozyr vs FC Vitebsk [WHD]
 https://august.ppvtv.icu/embed.html?match=fqel57o&server=0
@@ -121,11 +127,17 @@ https://august.ppvtv.icu/embed.html?match=f1jp8f55&server=0
 #EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al-Ahli Jeddah vs Al Riyadh [WHD]
 https://august.ppvtv.icu/embed.html?match=f1jp8f55&server=1
 
-#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al Shabab vs Al-Hilal Saudi FC [WHD]
+#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al Shabab vs Al-Hilal Saudi FC [FHD]
 https://august.ppvtv.icu/embed.html?match=f1ld5tn0&server=0
 
-#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al Shabab vs Al-Hilal Saudi FC [WHD]
+#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al Shabab vs Al-Hilal Saudi FC [FHD]
 https://august.ppvtv.icu/embed.html?match=f1ld5tn0&server=1
+
+#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al Shabab vs Al-Hilal Saudi FC [WHD]
+https://august.ppvtv.icu/embed.html?match=f1ld5tn0&server=2
+
+#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al Shabab vs Al-Hilal Saudi FC [WHD]
+https://august.ppvtv.icu/embed.html?match=f1ld5tn0&server=3
 
 #EXTINF:-1 group-title="Football – Eredivisie",Oggi 20:00 - Sparta Rotterdam vs PEC Zwolle [GHD]
 https://august.ppvtv.icu/embed.html?match=f1l4e5ke&server=0
@@ -235,11 +247,17 @@ https://august.ppvtv.icu/embed.html?match=f11ru3l9&server=0
 #EXTINF:-1 group-title="Football – Premier League",Oggi 21:00 - Ipswich vs Liverpool [GHD]
 https://august.ppvtv.icu/embed.html?match=f11ru3l9&server=1
 
-#EXTINF:-1 group-title="Football – Premier League",Oggi 21:00 - Ipswich vs Liverpool [WHD]
+#EXTINF:-1 group-title="Football – Premier League",Oggi 21:00 - Ipswich vs Liverpool [FHD]
 https://august.ppvtv.icu/embed.html?match=f11ru3l9&server=2
 
-#EXTINF:-1 group-title="Football – Premier League",Oggi 21:00 - Ipswich vs Liverpool [WHD]
+#EXTINF:-1 group-title="Football – Premier League",Oggi 21:00 - Ipswich vs Liverpool [FHD]
 https://august.ppvtv.icu/embed.html?match=f11ru3l9&server=3
+
+#EXTINF:-1 group-title="Football – Premier League",Oggi 21:00 - Ipswich vs Liverpool [WHD]
+https://august.ppvtv.icu/embed.html?match=f11ru3l9&server=4
+
+#EXTINF:-1 group-title="Football – Premier League",Oggi 21:00 - Ipswich vs Liverpool [WHD]
+https://august.ppvtv.icu/embed.html?match=f11ru3l9&server=5
 
 #EXTINF:-1 group-title="Football – La Liga",Oggi 21:00 - Real Betis vs Real Madrid [GHD]
 https://august.ppvtv.icu/embed.html?match=f105v25&server=0
@@ -271,11 +289,17 @@ https://august.ppvtv.icu/embed.html?match=f1qdsfvk&server=2
 #EXTINF:-1 group-title="Football – Ligue 1",Oggi 21:05 - Paris Saint Germain vs Monaco [FHD]
 https://august.ppvtv.icu/embed.html?match=f1qdsfvk&server=3
 
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 21:05 - Paris Saint Germain vs Monaco [WHD]
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 21:05 - Paris Saint Germain vs Monaco [FHD]
 https://august.ppvtv.icu/embed.html?match=f1qdsfvk&server=4
 
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 21:05 - Paris Saint Germain vs Monaco [WHD]
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 21:05 - Paris Saint Germain vs Monaco [FHD]
 https://august.ppvtv.icu/embed.html?match=f1qdsfvk&server=5
+
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 21:05 - Paris Saint Germain vs Monaco [WHD]
+https://august.ppvtv.icu/embed.html?match=f1qdsfvk&server=6
+
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 21:05 - Paris Saint Germain vs Monaco [WHD]
+https://august.ppvtv.icu/embed.html?match=f1qdsfvk&server=7
 
 #EXTINF:-1 group-title="Football – Primeira Liga",Oggi 21:15 - FC Porto vs Moreirense [WHD]
 https://august.ppvtv.icu/embed.html?match=fj8of19&server=0
@@ -445,8 +469,26 @@ https://august.ppvtv.icu/embed.html?match=ffe2tdq&server=0
 #EXTINF:-1 group-title="Baseball – MLB",Domani 04:10 - Athletics vs Seattle Mariners [HD]
 https://august.ppvtv.icu/embed.html?match=ffe2tdq&server=1
 
-#EXTINF:-1 group-title="Tennis – US Open",Passato 17:00 - US Open [FHD]
-https://august.ppvtv.icu/embed.html?match=c140xumf&server=0
+#EXTINF:-1 group-title="Football – Liga MX Femenil",Domani 05:00 - Pumas UNAM W vs América W [WHD]
+https://august.ppvtv.icu/embed.html?match=ffqfuaw&server=0
 
-#EXTINF:-1 group-title="Tennis – US Open",Passato 17:30 - Arthur Ashe Stadium [FHD]
-https://august.ppvtv.icu/embed.html?match=c1f6jddv&server=0
+#EXTINF:-1 group-title="Football – Liga MX Femenil",Domani 05:00 - Pumas UNAM W vs América W [WHD]
+https://august.ppvtv.icu/embed.html?match=ffqfuaw&server=1
+
+#EXTINF:-1 group-title="Football – Liga MX",Domani 05:00 - FC Juarez vs CF Pachuca [GHD]
+https://august.ppvtv.icu/embed.html?match=fqx3zd7&server=0
+
+#EXTINF:-1 group-title="Football – Liga MX",Domani 05:00 - FC Juarez vs CF Pachuca [GHD]
+https://august.ppvtv.icu/embed.html?match=fqx3zd7&server=1
+
+#EXTINF:-1 group-title="Football – Liga MX",Domani 05:00 - FC Juarez vs CF Pachuca [FHD]
+https://august.ppvtv.icu/embed.html?match=fqx3zd7&server=2
+
+#EXTINF:-1 group-title="Football – Liga MX",Domani 05:00 - FC Juarez vs CF Pachuca [FHD]
+https://august.ppvtv.icu/embed.html?match=fqx3zd7&server=3
+
+#EXTINF:-1 group-title="Football – Liga MX",Domani 05:00 - FC Juarez vs CF Pachuca [WHD]
+https://august.ppvtv.icu/embed.html?match=fqx3zd7&server=4
+
+#EXTINF:-1 group-title="Football – Liga MX",Domani 05:00 - FC Juarez vs CF Pachuca [WHD]
+https://august.ppvtv.icu/embed.html?match=fqx3zd7&server=5

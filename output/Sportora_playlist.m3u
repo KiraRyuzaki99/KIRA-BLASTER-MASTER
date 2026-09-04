@@ -1,26 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Rugby",12:00 - South Sydney Rabbitohs vs Sydney Roosters
-https://embed.st/embed/admin/ppv-rabbitohs-vs-roosters/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Rugby",12:00 - South Sydney Rabbitohs vs Sydney Roosters
-https://embed.st/embed/admin/ppv-rabbitohs-vs-roosters/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Afl",11:40 - Geelong Cats vs Carlton Blues
-https://sportora.ru/watch/geelong-cats-vs-carlton-blues-game-1384832
-
-#EXTINF:-1 group-title="Motor-sports",10:51 - Formula 1 2026 - Italy GP
-https://embed.st/embed/delta/live-event_formula-1-2026-italy-gp-live-stream/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Motor-sports",10:15 - World SBK French Round  🏁
-https://sportora.ru/watch/world-sbk-french-round-game-19996
-
-#EXTINF:-1 group-title="Motor-sports",12:30 - 1st Practice | Autodromo Nazionale Monza |
-https://sportora.ru/watch/1st-practice-autodromo-nazionale-monza-formula-1-2578
-
 #EXTINF:-1 group-title="Other",13:30 - Omega European Masters – DP World Tour
 https://sportora.ru/watch/omega-european-masters-dp-world-tour-game-162626
+
+#EXTINF:-1 group-title="Motor-sports",16:00 - 2nd Practice | Autodromo Nazionale Monza |
+https://sportora.ru/watch/2nd-practice-autodromo-nazionale-monza-formula-1-2579
 
 #EXTINF:-1 group-title="Motor-sports",16:00 - Italian Grand Prix Practice 1
 https://embed.st/embed/admin/ppv-italian-grand-prix-practice-1/1#player=clappr&autoplay=true

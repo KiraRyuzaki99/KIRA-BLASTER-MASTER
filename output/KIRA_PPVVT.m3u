@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Tennis – US Open",Oggi 17:00 - Louis Armstrong Stadium [FHD]
-https://august.ppvtv.icu/embed.html?match=c1a8143d&server=0
-
 #EXTINF:-1 group-title="Tennis – US Open",Oggi 17:00 - US Open [FHD]
 https://august.ppvtv.icu/embed.html?match=c140xumf&server=0
+
+#EXTINF:-1 group-title="Tennis – US Open",Oggi 17:00 - Louis Armstrong Stadium [FHD]
+https://august.ppvtv.icu/embed.html?match=c1a8143d&server=0
 
 #EXTINF:-1 group-title="Tennis – US Open",Oggi 17:00 - Arthur Ashe Stadium [FHD]
 https://august.ppvtv.icu/embed.html?match=c1f6jddv&server=0
@@ -15,15 +15,6 @@ https://august.ppvtv.icu/embed.html?match=c1f6jddv&server=1
 
 #EXTINF:-1 group-title="Tennis – US Open",Oggi 17:00 - Grandstand [FHD]
 https://august.ppvtv.icu/embed.html?match=c1ffjk8r&server=0
-
-#EXTINF:-1 group-title="Football – Pro League",Oggi 18:00 - Abha vs Al-Ettifaq [FHD]
-https://august.ppvtv.icu/embed.html?match=f1cifhi7&server=0
-
-#EXTINF:-1 group-title="Football – Pro League",Oggi 18:00 - Abha vs Al-Ettifaq [FHD]
-https://august.ppvtv.icu/embed.html?match=f1cifhi7&server=1
-
-#EXTINF:-1 group-title="Football – Pro League",Oggi 18:00 - Abha vs Al-Ettifaq [WHD]
-https://august.ppvtv.icu/embed.html?match=f1cifhi7&server=2
 
 #EXTINF:-1 group-title="Football – Pro League",Oggi 18:15 - Al-Wasl FC vs Khorfakkan [WHD]
 https://august.ppvtv.icu/embed.html?match=f1dzahrh&server=0
@@ -37,11 +28,8 @@ https://august.ppvtv.icu/embed.html?match=f1cxu3fy&server=1
 #EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 18:30 - Hannover 96 vs Karlsruher SC [FHD]
 https://august.ppvtv.icu/embed.html?match=f1cxu3fy&server=2
 
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 18:30 - Hannover 96 vs Karlsruher SC [FHD]
-https://august.ppvtv.icu/embed.html?match=f1cxu3fy&server=3
-
 #EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 18:30 - Hannover 96 vs Karlsruher SC [WHD]
-https://august.ppvtv.icu/embed.html?match=f1cxu3fy&server=4
+https://august.ppvtv.icu/embed.html?match=f1cxu3fy&server=3
 
 #EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 18:30 - Arminia Bielefeld vs FC St. Pauli [GHD]
 https://august.ppvtv.icu/embed.html?match=fyn2g1j&server=0
@@ -49,11 +37,8 @@ https://august.ppvtv.icu/embed.html?match=fyn2g1j&server=0
 #EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 18:30 - Arminia Bielefeld vs FC St. Pauli [FHD]
 https://august.ppvtv.icu/embed.html?match=fyn2g1j&server=1
 
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 18:30 - Arminia Bielefeld vs FC St. Pauli [FHD]
-https://august.ppvtv.icu/embed.html?match=fyn2g1j&server=2
-
 #EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 18:30 - Arminia Bielefeld vs FC St. Pauli [WHD]
-https://august.ppvtv.icu/embed.html?match=fyn2g1j&server=3
+https://august.ppvtv.icu/embed.html?match=fyn2g1j&server=2
 
 #EXTINF:-1 group-title="Football – Ligue 1",Oggi 19:00 - Lyon vs Auxerre [FHD]
 https://august.ppvtv.icu/embed.html?match=fgaxoqa&server=0
@@ -76,17 +61,8 @@ https://august.ppvtv.icu/embed.html?match=c1eq93en&server=0
 #EXTINF:-1 group-title="Football – Premier League",Oggi 19:00 - Slavia Mozyr vs FC Vitebsk [FHD]
 https://august.ppvtv.icu/embed.html?match=fqel57o&server=0
 
-#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al-Ahli Jeddah vs Al Riyadh [FHD]
-https://august.ppvtv.icu/embed.html?match=f1jp8f55&server=0
-
-#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al-Ahli Jeddah vs Al Riyadh [FHD]
-https://august.ppvtv.icu/embed.html?match=f1jp8f55&server=1
-
-#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al-Ahli Jeddah vs Al Riyadh [WHD]
-https://august.ppvtv.icu/embed.html?match=f1jp8f55&server=2
-
-#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al-Ahli Jeddah vs Al Riyadh [WHD]
-https://august.ppvtv.icu/embed.html?match=f1jp8f55&server=3
+#EXTINF:-1 group-title="Football – Premier League",Oggi 19:00 - Slavia Mozyr vs FC Vitebsk [WHD]
+https://august.ppvtv.icu/embed.html?match=fqel57o&server=1
 
 #EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al Shabab vs Al-Hilal Saudi FC [FHD]
 https://august.ppvtv.icu/embed.html?match=f1ld5tn0&server=0
@@ -97,74 +73,26 @@ https://august.ppvtv.icu/embed.html?match=f1ld5tn0&server=1
 #EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al Shabab vs Al-Hilal Saudi FC [WHD]
 https://august.ppvtv.icu/embed.html?match=f1ld5tn0&server=2
 
-#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al Shabab vs Al-Hilal Saudi FC [WHD]
-https://august.ppvtv.icu/embed.html?match=f1ld5tn0&server=3
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 20:00 - Sparta Rotterdam vs PEC Zwolle [GHD]
-https://august.ppvtv.icu/embed.html?match=f1l4e5ke&server=0
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 20:00 - Sparta Rotterdam vs PEC Zwolle [GHD]
-https://august.ppvtv.icu/embed.html?match=f1l4e5ke&server=1
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 20:00 - Sparta Rotterdam vs PEC Zwolle [FHD]
-https://august.ppvtv.icu/embed.html?match=f1l4e5ke&server=2
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 20:00 - Sparta Rotterdam vs PEC Zwolle [FHD]
-https://august.ppvtv.icu/embed.html?match=f1l4e5ke&server=3
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 20:00 - Sparta Rotterdam vs PEC Zwolle [WHD]
-https://august.ppvtv.icu/embed.html?match=f1l4e5ke&server=4
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 20:00 - Sparta Rotterdam vs PEC Zwolle [WHD]
-https://august.ppvtv.icu/embed.html?match=f1l4e5ke&server=5
-
-#EXTINF:-1 group-title="Football – Challenger Pro League",Oggi 20:00 - Beerschot VA vs Patro Eisden [WHD]
-https://august.ppvtv.icu/embed.html?match=f1uzxgdo&server=0
-
-#EXTINF:-1 group-title="Football – Challenger Pro League",Oggi 20:00 - Beerschot VA vs Patro Eisden [WHD]
-https://august.ppvtv.icu/embed.html?match=f1uzxgdo&server=1
-
-#EXTINF:-1 group-title="Football – Challenger Pro League",Oggi 20:00 - Dender vs Seraing United [WHD]
-https://august.ppvtv.icu/embed.html?match=f1suj0ok&server=0
-
-#EXTINF:-1 group-title="Football – Challenger Pro League",Oggi 20:00 - Dender vs Seraing United [WHD]
-https://august.ppvtv.icu/embed.html?match=f1suj0ok&server=1
+#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al-Ahli Jeddah vs Al Riyadh [WHD]
+https://august.ppvtv.icu/embed.html?match=f1jp8f55&server=0
 
 #EXTINF:-1 group-title="Golf – World Snooker Tour",Oggi 20:00 - British Open: Quarti di finale [FHD]
 https://august.ppvtv.icu/embed.html?match=ce3uxvy&server=0
 
-#EXTINF:-1 group-title="Golf – World Snooker Tour",Oggi 20:00 - British Open: Quarti di finale [FHD]
-https://august.ppvtv.icu/embed.html?match=ce3uxvy&server=1
+#EXTINF:-1 group-title="Football – Eredivisie",Oggi 20:00 - Sparta Rotterdam vs PEC Zwolle [GHD]
+https://august.ppvtv.icu/embed.html?match=f1l4e5ke&server=0
+
+#EXTINF:-1 group-title="Football – Eredivisie",Oggi 20:00 - Sparta Rotterdam vs PEC Zwolle [FHD]
+https://august.ppvtv.icu/embed.html?match=f1l4e5ke&server=1
+
+#EXTINF:-1 group-title="Football – Challenger Pro League",Oggi 20:00 - Beerschot VA vs Patro Eisden [WHD]
+https://august.ppvtv.icu/embed.html?match=f1uzxgdo&server=0
+
+#EXTINF:-1 group-title="Football – Challenger Pro League",Oggi 20:00 - Dender vs Seraing United [WHD]
+https://august.ppvtv.icu/embed.html?match=f1suj0ok&server=0
 
 #EXTINF:-1 group-title="Baseball – MLB",Oggi 20:10 - Detroit Tigers vs Cleveland Guardians [HD]
 https://august.ppvtv.icu/embed.html?match=fdue037&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 20:10 - Detroit Tigers vs Cleveland Guardians [HD]
-https://august.ppvtv.icu/embed.html?match=fdue037&server=1
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 20:30 - VfB Stuttgart vs 1. FC Köln [GHD]
-https://august.ppvtv.icu/embed.html?match=f1bkive3&server=0
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 20:30 - VfB Stuttgart vs 1. FC Köln [GHD]
-https://august.ppvtv.icu/embed.html?match=f1bkive3&server=1
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 20:30 - VfB Stuttgart vs 1. FC Köln [FHD]
-https://august.ppvtv.icu/embed.html?match=f1bkive3&server=2
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 20:30 - VfB Stuttgart vs 1. FC Köln [FHD]
-https://august.ppvtv.icu/embed.html?match=f1bkive3&server=3
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 20:30 - VfB Stuttgart vs 1. FC Köln [FHD]
-https://august.ppvtv.icu/embed.html?match=f1bkive3&server=4
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 20:30 - VfB Stuttgart vs 1. FC Köln [FHD]
-https://august.ppvtv.icu/embed.html?match=f1bkive3&server=5
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 20:30 - VfB Stuttgart vs 1. FC Köln [WHD]
-https://august.ppvtv.icu/embed.html?match=f1bkive3&server=6
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 20:30 - VfB Stuttgart vs 1. FC Köln [WHD]
-https://august.ppvtv.icu/embed.html?match=f1bkive3&server=7
 
 #EXTINF:-1 group-title="Football – Serie A",Oggi 20:45 - Genoa vs Como [GHD]
 https://august.ppvtv.icu/embed.html?match=fdb5pb6&server=0
@@ -838,6 +766,12 @@ https://august.ppvtv.icu/embed.html?match=f3x3l70&server=0
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Avro vs Witton Albion [WHD]
 https://august.ppvtv.icu/embed.html?match=f3x3l70&server=1
 
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Baffins Milton Rovers vs Slimbridge [WHD]
+https://august.ppvtv.icu/embed.html?match=fz3dbzd&server=0
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Baffins Milton Rovers vs Slimbridge [WHD]
+https://august.ppvtv.icu/embed.html?match=fz3dbzd&server=1
+
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Bamber Bridge vs Trafford [WHD]
 https://august.ppvtv.icu/embed.html?match=f14uys38&server=0
 
@@ -874,6 +808,12 @@ https://august.ppvtv.icu/embed.html?match=f1hj6l2o&server=0
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Bishop's Stortford vs Berkhamsted [WHD]
 https://august.ppvtv.icu/embed.html?match=f1hj6l2o&server=1
 
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Bourne Town vs Boldmere St. Michaels [WHD]
+https://august.ppvtv.icu/embed.html?match=f1khjlag&server=0
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Bourne Town vs Boldmere St. Michaels [WHD]
+https://august.ppvtv.icu/embed.html?match=f1khjlag&server=1
+
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Brantham Athletic vs Waltham Abbey [WHD]
 https://august.ppvtv.icu/embed.html?match=f3rbzbs&server=0
 
@@ -885,6 +825,12 @@ https://august.ppvtv.icu/embed.html?match=f3ztigy&server=0
 
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Brixham vs Dorchester Town [WHD]
 https://august.ppvtv.icu/embed.html?match=f3ztigy&server=1
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Broadfields United vs Chichester City [WHD]
+https://august.ppvtv.icu/embed.html?match=f19ag257&server=0
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Broadfields United vs Chichester City [WHD]
+https://august.ppvtv.icu/embed.html?match=f19ag257&server=1
 
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Bromsgrove Sporting vs Nuneaton Town [WHD]
 https://august.ppvtv.icu/embed.html?match=fga1do6&server=0
@@ -964,11 +910,23 @@ https://august.ppvtv.icu/embed.html?match=f81p973&server=0
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Falmouth Town vs Frome Town [WHD]
 https://august.ppvtv.icu/embed.html?match=f81p973&server=1
 
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Faversham Town vs Welling United [WHD]
+https://august.ppvtv.icu/embed.html?match=f19slzds&server=0
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Faversham Town vs Welling United [WHD]
+https://august.ppvtv.icu/embed.html?match=f19slzds&server=1
+
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Fleetlands vs Cirencester Town [WHD]
 https://august.ppvtv.icu/embed.html?match=fwgmqxv&server=0
 
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Fleetlands vs Cirencester Town [WHD]
 https://august.ppvtv.icu/embed.html?match=fwgmqxv&server=1
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Frenford vs Enfield Town [WHD]
+https://august.ppvtv.icu/embed.html?match=f1g3klgn&server=0
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Frenford vs Enfield Town [WHD]
+https://august.ppvtv.icu/embed.html?match=f1g3klgn&server=1
 
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Garforth Town vs United of Manchester [WHD]
 https://august.ppvtv.icu/embed.html?match=f7kc8s3&server=0
@@ -1000,17 +958,35 @@ https://august.ppvtv.icu/embed.html?match=f1p9zf1u&server=0
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Halesowen Town vs Basford United [WHD]
 https://august.ppvtv.icu/embed.html?match=f1p9zf1u&server=1
 
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Hanley Town vs Abbey Hulton [WHD]
+https://august.ppvtv.icu/embed.html?match=fwykqxo&server=0
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Hanley Town vs Abbey Hulton [WHD]
+https://august.ppvtv.icu/embed.html?match=fwykqxo&server=1
+
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Hanworth Villa vs Whitstable Town [WHD]
 https://august.ppvtv.icu/embed.html?match=f18ksgz8&server=0
 
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Hanworth Villa vs Whitstable Town [WHD]
 https://august.ppvtv.icu/embed.html?match=f18ksgz8&server=1
 
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Harleston Town vs Romford [WHD]
+https://august.ppvtv.icu/embed.html?match=f1dv0tkx&server=0
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Harleston Town vs Romford [WHD]
+https://august.ppvtv.icu/embed.html?match=f1dv0tkx&server=1
+
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Hayes & Yeading United vs Camberley Town [WHD]
 https://august.ppvtv.icu/embed.html?match=fi8qma&server=0
 
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Hayes & Yeading United vs Camberley Town [WHD]
 https://august.ppvtv.icu/embed.html?match=fi8qma&server=1
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Heaton Stannington vs Knaresborough Town [WHD]
+https://august.ppvtv.icu/embed.html?match=f1l6okou&server=0
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Heaton Stannington vs Knaresborough Town [WHD]
+https://august.ppvtv.icu/embed.html?match=f1l6okou&server=1
 
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Hendon vs Hullbridge Sports [WHD]
 https://august.ppvtv.icu/embed.html?match=firxoup&server=0
@@ -1096,11 +1072,23 @@ https://august.ppvtv.icu/embed.html?match=f15e7ph0&server=0
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Sileby Rangers vs Anstey Nomads [WHD]
 https://august.ppvtv.icu/embed.html?match=f15e7ph0&server=1
 
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Northwich Victoria vs Atherton Collieries [WHD]
+https://august.ppvtv.icu/embed.html?match=f1mfr0af&server=0
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Northwich Victoria vs Atherton Collieries [WHD]
+https://august.ppvtv.icu/embed.html?match=f1mfr0af&server=1
+
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Peterborough Sports vs Ipswich Wanderers [WHD]
 https://august.ppvtv.icu/embed.html?match=f130j6u1&server=0
 
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Peterborough Sports vs Ipswich Wanderers [WHD]
 https://august.ppvtv.icu/embed.html?match=f130j6u1&server=1
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Prescot Cables vs Horbury Town [WHD]
+https://august.ppvtv.icu/embed.html?match=f7s13wz&server=0
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Prescot Cables vs Horbury Town [WHD]
+https://august.ppvtv.icu/embed.html?match=f7s13wz&server=1
 
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Ramsgate vs Bracknell Town [WHD]
 https://august.ppvtv.icu/embed.html?match=fybmze&server=0
@@ -1125,6 +1113,12 @@ https://august.ppvtv.icu/embed.html?match=fu2sumf&server=0
 
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Redhill vs Sheppey United [WHD]
 https://august.ppvtv.icu/embed.html?match=fu2sumf&server=1
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - SE Dons vs Erith Town [WHD]
+https://august.ppvtv.icu/embed.html?match=f1rrt8oy&server=0
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - SE Dons vs Erith Town [WHD]
+https://august.ppvtv.icu/embed.html?match=f1rrt8oy&server=1
 
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Sherwood Colliery vs Gainsborough Trinity [WHD]
 https://august.ppvtv.icu/embed.html?match=f1itxtop&server=0
@@ -1180,6 +1174,12 @@ https://august.ppvtv.icu/embed.html?match=f138jcxp&server=0
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - St. Blazey vs Tiverton Town [WHD]
 https://august.ppvtv.icu/embed.html?match=f138jcxp&server=1
 
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Stourbridge vs Rushall Olympic [WHD]
+https://august.ppvtv.icu/embed.html?match=f1ks6x0&server=0
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Stourbridge vs Rushall Olympic [WHD]
+https://august.ppvtv.icu/embed.html?match=f1ks6x0&server=1
+
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Tadley Calleva vs Laverstock & Ford [WHD]
 https://august.ppvtv.icu/embed.html?match=f1mu8t8g&server=0
 
@@ -1198,11 +1198,23 @@ https://august.ppvtv.icu/embed.html?match=f1fu9v7x&server=0
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Thame United vs Reading City [WHD]
 https://august.ppvtv.icu/embed.html?match=f1fu9v7x&server=1
 
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Uxbridge vs Haywards Heath Town [WHD]
+https://august.ppvtv.icu/embed.html?match=f1ufdxox&server=0
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Uxbridge vs Haywards Heath Town [WHD]
+https://august.ppvtv.icu/embed.html?match=f1ufdxox&server=1
+
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Vauxhall Motors vs Dunston UTS [WHD]
 https://august.ppvtv.icu/embed.html?match=f34nalo&server=0
 
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Vauxhall Motors vs Dunston UTS [WHD]
 https://august.ppvtv.icu/embed.html?match=f34nalo&server=1
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Ware vs Fakenham Town [WHD]
+https://august.ppvtv.icu/embed.html?match=fr597t4&server=0
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Ware vs Fakenham Town [WHD]
+https://august.ppvtv.icu/embed.html?match=fr597t4&server=1
 
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Rylands vs Hyde United [WHD]
 https://august.ppvtv.icu/embed.html?match=f5i1n7m&server=0
@@ -1222,6 +1234,12 @@ https://august.ppvtv.icu/embed.html?match=f1wnwvk8&server=0
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Wells City vs Hungerford Town [WHD]
 https://august.ppvtv.icu/embed.html?match=f1wnwvk8&server=1
 
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Westfield (Surrey) vs Dartford [WHD]
+https://august.ppvtv.icu/embed.html?match=fe7scdq&server=0
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Westfield (Surrey) vs Dartford [WHD]
+https://august.ppvtv.icu/embed.html?match=fe7scdq&server=1
+
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Whitby Town vs Ashton United [WHD]
 https://august.ppvtv.icu/embed.html?match=fzcqfln&server=0
 
@@ -1234,11 +1252,29 @@ https://august.ppvtv.icu/embed.html?match=ffzn7ti&server=0
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Whitehawk vs Eastbourne Borough [WHD]
 https://august.ppvtv.icu/embed.html?match=ffzn7ti&server=1
 
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Wimborne Town vs Portishead Town [WHD]
+https://august.ppvtv.icu/embed.html?match=f5j520u&server=0
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Wimborne Town vs Portishead Town [WHD]
+https://august.ppvtv.icu/embed.html?match=f5j520u&server=1
+
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Wingate & Finchley vs Felixstowe & Walton Utd [WHD]
 https://august.ppvtv.icu/embed.html?match=fp4jhzf&server=0
 
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Wingate & Finchley vs Felixstowe & Walton Utd [WHD]
 https://august.ppvtv.icu/embed.html?match=fp4jhzf&server=1
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Winslow United vs Swindon Supermarine [WHD]
+https://august.ppvtv.icu/embed.html?match=f55umx1&server=0
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Winslow United vs Swindon Supermarine [WHD]
+https://august.ppvtv.icu/embed.html?match=f55umx1&server=1
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Witham Town vs Stotfold [WHD]
+https://august.ppvtv.icu/embed.html?match=fphkbzh&server=0
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Witham Town vs Stotfold [WHD]
+https://august.ppvtv.icu/embed.html?match=fphkbzh&server=1
 
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Workington vs Marske United [WHD]
 https://august.ppvtv.icu/embed.html?match=f1srxcmq&server=0
@@ -1251,6 +1287,12 @@ https://august.ppvtv.icu/embed.html?match=f1sx2zyd&server=0
 
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Yate Town vs Devizes Town [WHD]
 https://august.ppvtv.icu/embed.html?match=f1sx2zyd&server=1
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Yaxley vs Buckhurst Hill [WHD]
+https://august.ppvtv.icu/embed.html?match=f5s38nc&server=0
+
+#EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Yaxley vs Buckhurst Hill [WHD]
+https://august.ppvtv.icu/embed.html?match=f5s38nc&server=1
 
 #EXTINF:-1 group-title="Football – FA Cup",Domani 16:00 - Knowle vs Worcester City [WHD]
 https://august.ppvtv.icu/embed.html?match=fezou2t&server=0
@@ -1281,6 +1323,48 @@ https://august.ppvtv.icu/embed.html?match=fo06ggu&server=0
 
 #EXTINF:-1 group-title="Rugby – Premiership",Domani 16:00 - Rangers vs Motherwell [WHD]
 https://august.ppvtv.icu/embed.html?match=fo06ggu&server=1
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 16:15 - Athletic Club vs Atletico Madrid [GHD]
+https://august.ppvtv.icu/embed.html?match=f1c75elh&server=0
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 16:15 - Athletic Club vs Atletico Madrid [GHD]
+https://august.ppvtv.icu/embed.html?match=f1c75elh&server=1
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 16:15 - Athletic Club vs Atletico Madrid [FHD]
+https://august.ppvtv.icu/embed.html?match=f1c75elh&server=2
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 16:15 - Athletic Club vs Atletico Madrid [FHD]
+https://august.ppvtv.icu/embed.html?match=f1c75elh&server=3
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 16:15 - Athletic Club vs Atletico Madrid [WHD]
+https://august.ppvtv.icu/embed.html?match=f1c75elh&server=4
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 16:15 - Athletic Club vs Atletico Madrid [WHD]
+https://august.ppvtv.icu/embed.html?match=f1c75elh&server=5
+
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 16:30 - NEC Nijmegen vs Feyenoord [GHD]
+https://august.ppvtv.icu/embed.html?match=f2v8gm2&server=0
+
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 16:30 - NEC Nijmegen vs Feyenoord [GHD]
+https://august.ppvtv.icu/embed.html?match=f2v8gm2&server=1
+
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 16:30 - NEC Nijmegen vs Feyenoord [FHD]
+https://august.ppvtv.icu/embed.html?match=f2v8gm2&server=2
+
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 16:30 - NEC Nijmegen vs Feyenoord [FHD]
+https://august.ppvtv.icu/embed.html?match=f2v8gm2&server=3
+
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 16:30 - NEC Nijmegen vs Feyenoord [FHD]
+https://august.ppvtv.icu/embed.html?match=f2v8gm2&server=4
+
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 16:30 - NEC Nijmegen vs Feyenoord [FHD]
+https://august.ppvtv.icu/embed.html?match=f2v8gm2&server=5
+
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 16:30 - NEC Nijmegen vs Feyenoord [WHD]
+https://august.ppvtv.icu/embed.html?match=f2v8gm2&server=6
+
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 16:30 - NEC Nijmegen vs Feyenoord [WHD]
+https://august.ppvtv.icu/embed.html?match=f2v8gm2&server=7
 
 #EXTINF:-1 group-title="MMA – UFC FIGHT NIGHT",Domani 18:00 - Prelims [HD]
 https://august.ppvtv.icu/embed.html?match=c74csm9&server=0

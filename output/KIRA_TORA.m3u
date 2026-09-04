@@ -1,11 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",18:00 - Abha vs Al-Ettifaq
-https://sportora.ru/watch/abha-vs-al-ettifaq-2573340
+#EXTINF:-1 group-title="Darts",19:00 - ČEZ Czech Darts Open  Day 2
+https://embed.st/embed/admin/ppv-czech-darts-open-day-1-evening-session/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Other",16:30 - ONE Friday Fights 169 Petmuangsri v Thom 💥
-https://sportora.ru/watch/ppv-event-01-one-friday-fights-169-petmuangsri-v-thom-ppv-01
+#EXTINF:-1 group-title="Darts",19:00 - ČEZ Czech Darts Open  Day 2
+https://embed.st/embed/admin/ppv-czech-darts-open-day-1-evening-session/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",19:00 - İstanbul Başakşehir vs Galatasaray
+https://sportora.ru/watch/-stanbul-ba-ak-ehir-vs-galatasaray-2527751
+
+#EXTINF:-1 group-title="Football",19:00 - Ingolstadt vs Alemannia Aachen
+https://sportora.ru/watch/ingolstadt-vs-alemannia-aachen-2525351
+
+#EXTINF:-1 group-title="Football",19:00 - Lyon vs Auxerre
+https://embed.st/embed/admin/ppv-lyon-vs-aj-auxerre/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",19:00 - Lyon vs Auxerre
+https://embed.st/embed/admin/ppv-lyon-vs-aj-auxerre/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",19:00 - Lyon vs Auxerre
+https://embed.st/embed/delta/live_ligue-1_lyon-auxerre-live-streaming-613195056/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",19:00 - Viborg vs Lyngby
+https://sportora.ru/watch/viborg-vs-lyngby-2481828
 
 #EXTINF:-1 group-title="Football",18:30 - Hoffenheim Women vs Bayer Leverkusen Women
 https://sportora.ru/watch/hoffenheim-women-vs-bayer-leverkusen-women-2539440
@@ -22,26 +40,8 @@ https://embed.st/embed/admin/ppv-hannover-96-vs-karlsruher-sc/1#player=clappr&au
 #EXTINF:-1 group-title="Football",18:30 - Hannover 96 vs Karlsruhe
 https://embed.st/embed/admin/ppv-hannover-96-vs-karlsruher-sc/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Darts",19:00 - Czech Darts Open | Day 1 - Evening Session
-https://embed.st/embed/admin/ppv-czech-darts-open-day-1-evening-session/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Darts",19:00 - Czech Darts Open | Day 1 - Evening Session
-https://embed.st/embed/admin/ppv-czech-darts-open-day-1-evening-session/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",19:00 - İstanbul Başakşehir vs Galatasaray
-https://sportora.ru/watch/-stanbul-ba-ak-ehir-vs-galatasaray-2527751
-
-#EXTINF:-1 group-title="Football",19:00 - Ingolstadt vs Alemannia Aachen
-https://sportora.ru/watch/ingolstadt-vs-alemannia-aachen-2525351
-
-#EXTINF:-1 group-title="Football",19:00 - Lyon vs Auxerre
-https://embed.st/embed/admin/ppv-lyon-vs-aj-auxerre/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",19:00 - Lyon vs Auxerre
-https://embed.st/embed/admin/ppv-lyon-vs-aj-auxerre/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",19:00 - Viborg vs Lyngby
-https://sportora.ru/watch/viborg-vs-lyngby-2481828
+#EXTINF:-1 group-title="Football",18:00 - Abha vs Al-Ettifaq
+https://sportora.ru/watch/abha-vs-al-ettifaq-2573340
 
 #EXTINF:-1 group-title="Football",20:00 - London City Lionesses W vs Manchester United W
 https://sportora.ru/watch/london-city-lionesses-w-vs-manchester-united-w-football-1607663

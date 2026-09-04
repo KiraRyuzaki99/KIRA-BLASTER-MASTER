@@ -23,7 +23,7 @@ REPO_SCRIPTS = [
 # TUOI script (in ordine)
 TUOI_SCRIPTS = [
     "scripts/personali/Pydroid_Spo.py",
-    "scripts/personali/genera_spo_html.py",
+    "scripts/personali/kira_spo_html_m3u.py",
     "scripts/personali/Pydroid_Ica.py",
     "scripts/personali/genera_ica_txt.py",
     "scripts/personali/genera_ica_html.py",

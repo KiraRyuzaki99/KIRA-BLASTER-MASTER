@@ -752,7 +752,7 @@ def main():
     )
     
     # Salva il file
-    filename = "htsport_all_sports.html"
+    filename = "kira_hat.html"
     with open(filename, "w", encoding="utf-8") as f:
         f.write(html_output)
     print(f"\n✅ HTML generato con successo: {filename}")

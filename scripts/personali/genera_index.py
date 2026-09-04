@@ -11,26 +11,12 @@ FILE_DA_MOSTRARE = [
     "kira_spo.html",
     "kira_hat.html",
     "kira_ultra.html",
-    "canales_acestream.m3u",
-    "spo_playlist.m3u",
-    "KIRA_LIV.m3u",
     "kira_liv.html",
     "Kira_Ica.html",
-    "htsport_all_sports_today_future.html",
-    "KIRA GSI.m3u",
-    "lista_icastresana.m3u",
-    "KIRA_TORA.m3u",
+    "kiraht_od.html",
     "kira_tora.html",
     "kira_ppvvt.html",
     "kira_mam.html",
-    "KIRA_PPVVT.m3u",
-    "Mama_playlist.m3u",
-    "streamx_playlist.m3u",
-    "streamx_sources.json",
-    "streamx_events.html",
-    "eventos_livetv_sx.xml",
-    "lista_sportsonlineci.xml",
-    "logos.xml",
     "requirements.txt",
 ]
 
@@ -64,7 +50,7 @@ def generate_index():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>📡 KIRA-BLASTER-MASTER - Output</title>
+    <title>📡 KIRA-BLASTER-MASTER - Raccoglitore </title>
     <style>
         body {{
             font-family: 'Segoe UI', system-ui, sans-serif;

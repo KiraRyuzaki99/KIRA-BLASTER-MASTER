@@ -35,6 +35,7 @@ TUOI_SCRIPTS = [
     "scripts/personali/mamahdday.py",
     "scripts/personali/sportora.py",
     "scripts/personali/ppvvt.py",
+    "scripts/personali/genera_index.py",
 ]
 
 def log(msg: str):

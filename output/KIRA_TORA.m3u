@@ -1,21 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Motor-sports",07:52 - IndyCar 2026 - IndyCar Grand Prix of Monterey
-https://sportora.ru/watch/live-event_indycar-2026-indycar-grand-prix-of-monterey-live-stream
-
-#EXTINF:-1 group-title="Rugby",07:50 - Japan Rugby vs Canada Rugby
-https://sportora.ru/watch/japan-rugby-vs-canada-rugby-2496231
-
-#EXTINF:-1 group-title="Afl",07:15 - Sydney Swans vs Brisbane Lions
-https://sportora.ru/watch/sydney-swans-vs-brisbane-lions-2595563
-
-#EXTINF:-1 group-title="Rugby",07:00 - New Zealand Warriors vs Manly Sea Eagles
-https://embed.st/embed/admin/ppv-warriors-vs-sea-eagles/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Rugby",07:00 - New Zealand Warriors vs Manly Sea Eagles
-https://embed.st/embed/admin/ppv-warriors-vs-sea-eagles/2#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Other",09:30 - Walker Cup
 https://sportora.ru/watch/walker-cup-atp1000
 
@@ -123,6 +108,9 @@ https://sportora.ru/watch/metz-vs-rodez-2488745
 
 #EXTINF:-1 group-title="Football",14:00 - Stade de Reims vs Guingamp
 https://sportora.ru/watch/stade-de-reims-vs-guingamp-2488743
+
+#EXTINF:-1 group-title="Motor-sports",14:15 - Italian Sprint Race
+https://sportora.ru/watch/italian-sprint-race-2409301
 
 #EXTINF:-1 group-title="Football",14:45 - Widzew Łódź vs Radomiak Radom
 https://sportora.ru/watch/widzew---d--vs-radomiak-radom-2490249
@@ -498,6 +486,9 @@ https://sportora.ru/watch/agf-aarhus-vs-silkeborg-if-2481829
 
 #EXTINF:-1 group-title="Fight",18:00 - Katie Taylor vs Flora Pili
 https://sportora.ru/watch/katie-taylor-vs-flora-pili-2548282
+
+#EXTINF:-1 group-title="Fight",18:00 - UFC Fight Night 287 Hooker vs Parnasse
+https://sportora.ru/watch/ufc-fight-night-287-hooker-vs-parnasse-2490782
 
 #EXTINF:-1 group-title="American-football",18:00 - New Haven vs Stonehill
 https://sportora.ru/watch/new-haven-vs-stonehill-2598499
@@ -912,9 +903,6 @@ https://embed.st/embed/admin/ppv-villarreal-vs-deportivo/2#player=clappr&autopla
 
 #EXTINF:-1 group-title="Football",21:00 - Bragantino vs Bahia
 https://sportora.ru/watch/bragantino-vs-bahia-2398442
-
-#EXTINF:-1 group-title="Fight",21:00 - UFC Fight Night 287 Hooker vs Parnasse
-https://sportora.ru/watch/ufc-fight-night-287-hooker-vs-parnasse-2490782
 
 #EXTINF:-1 group-title="American-football",21:00 - Montana vs Drake
 https://sportora.ru/watch/montana-vs-drake-2593862

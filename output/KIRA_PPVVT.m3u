@@ -1,226 +1,91 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Football – Pro League",Oggi 15:45 - Baniyas SC vs Hatta SC [FHD]
-https://august.ppvtv.icu/embed.html?match=fd1grgy&server=0
-
-#EXTINF:-1 group-title="Football – Pro League",Oggi 15:45 - Baniyas SC vs Hatta SC [WHD]
-https://august.ppvtv.icu/embed.html?match=fd1grgy&server=1
-
-#EXTINF:-1 group-title="Football – Pro League",Oggi 15:45 - Sharjah FC vs Dubai United [WHD]
-https://august.ppvtv.icu/embed.html?match=f1de8yk3&server=0
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 16:00 - Fulham vs Crystal Palace [FHD]
-https://august.ppvtv.icu/embed.html?match=f7lovk1&server=0
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 16:00 - Fulham vs Crystal Palace [GHD]
-https://august.ppvtv.icu/embed.html?match=f7lovk1&server=1
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 16:00 - Manchester City vs Coventry [FHD]
-https://august.ppvtv.icu/embed.html?match=fvskf8f&server=0
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 16:00 - Manchester City vs Coventry [GHD]
-https://august.ppvtv.icu/embed.html?match=fvskf8f&server=1
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 16:00 - Manchester City vs Coventry [FHD]
-https://august.ppvtv.icu/embed.html?match=fvskf8f&server=2
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 16:00 - Nottingham Forest vs Tottenham [FHD]
-https://august.ppvtv.icu/embed.html?match=f18tjjay&server=0
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 16:00 - Nottingham Forest vs Tottenham [FHD]
-https://august.ppvtv.icu/embed.html?match=f18tjjay&server=1
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 16:00 - Brentford vs Sunderland [FHD]
-https://august.ppvtv.icu/embed.html?match=f1jkkw1u&server=0
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 16:00 - Brentford vs Sunderland [GHD]
-https://august.ppvtv.icu/embed.html?match=f1jkkw1u&server=1
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 16:00 - Brighton vs Leeds [FHD]
-https://august.ppvtv.icu/embed.html?match=farrre4&server=0
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 16:00 - Brighton vs Leeds [GHD]
-https://august.ppvtv.icu/embed.html?match=farrre4&server=1
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 16:00 - Brighton vs Leeds [FHD]
-https://august.ppvtv.icu/embed.html?match=farrre4&server=2
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 16:00 - Brighton vs Leeds [FHD]
-https://august.ppvtv.icu/embed.html?match=farrre4&server=3
-
-#EXTINF:-1 group-title="Football – Challenger Pro League",Oggi 16:00 - Club Brugge II vs AS Eupen [FHD]
-https://august.ppvtv.icu/embed.html?match=f2d2fr3&server=0
-
-#EXTINF:-1 group-title="Football – Challenger Pro League",Oggi 16:00 - Club Brugge II vs AS Eupen [WHD]
-https://august.ppvtv.icu/embed.html?match=f2d2fr3&server=1
-
-#EXTINF:-1 group-title="Rugby – Premiership",Oggi 16:00 - Rangers vs Motherwell [WHD]
-https://august.ppvtv.icu/embed.html?match=fo06ggu&server=0
-
-#EXTINF:-1 group-title="Rugby – Premiership",Oggi 16:00 - Dundee Utd vs Falkirk [FHD]
-https://august.ppvtv.icu/embed.html?match=flur6qj&server=0
-
-#EXTINF:-1 group-title="Rugby – Premiership",Oggi 16:00 - Aberdeen vs Kilmarnock [FHD]
-https://august.ppvtv.icu/embed.html?match=fj6kjm8&server=0
-
-#EXTINF:-1 group-title="Rugby – Premiership",Oggi 16:00 - Aberdeen vs Kilmarnock [WHD]
-https://august.ppvtv.icu/embed.html?match=fj6kjm8&server=1
-
-#EXTINF:-1 group-title="Football – La Liga",Oggi 16:15 - Athletic Club vs Atletico Madrid [FHD]
-https://august.ppvtv.icu/embed.html?match=f1c75elh&server=0
-
-#EXTINF:-1 group-title="Football – La Liga",Oggi 16:15 - Athletic Club vs Atletico Madrid [GHD]
-https://august.ppvtv.icu/embed.html?match=f1c75elh&server=1
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 16:30 - NEC Nijmegen vs Feyenoord [GHD]
-https://august.ppvtv.icu/embed.html?match=f2v8gm2&server=0
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 16:30 - NEC Nijmegen vs Feyenoord [FHD]
-https://august.ppvtv.icu/embed.html?match=f2v8gm2&server=1
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 16:30 - NEC Nijmegen vs Feyenoord [WHD]
-https://august.ppvtv.icu/embed.html?match=f2v8gm2&server=2
+#EXTINF:-1 group-title="Tennis – US Open",Oggi 17:00 - Louis Armstrong Stadium [FHD]
+https://august.ppvtv.icu/embed.html?match=c1a8143d&server=0
 
 #EXTINF:-1 group-title="Tennis – US Open",Oggi 17:00 - US Open [FHD]
 https://august.ppvtv.icu/embed.html?match=c140xumf&server=0
 
-#EXTINF:-1 group-title="Tennis – US Open",Oggi 17:00 - Louis Armstrong Stadium [FHD]
-https://august.ppvtv.icu/embed.html?match=c1a8143d&server=0
-
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 17:15 - Lens vs Lorient [GHD]
-https://august.ppvtv.icu/embed.html?match=f18rp0rl&server=0
-
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 17:15 - Lens vs Lorient [FHD]
-https://august.ppvtv.icu/embed.html?match=f18rp0rl&server=1
-
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 17:15 - Lens vs Lorient [WHD]
-https://august.ppvtv.icu/embed.html?match=f18rp0rl&server=2
-
-#EXTINF:-1 group-title="Football – Serie A",Oggi 18:00 - Inter vs Napoli [FHD]
-https://august.ppvtv.icu/embed.html?match=f1dgqv9v&server=0
+#EXTINF:-1 group-title="Football – Pro League",Oggi 17:55 - Al Taawon vs Al-Fateh [WHD]
+https://august.ppvtv.icu/embed.html?match=f1ac8su8&server=0
 
 #EXTINF:-1 group-title="Football – Serie A",Oggi 18:00 - Inter vs Napoli [GHD]
+https://august.ppvtv.icu/embed.html?match=f1dgqv9v&server=0
+
+#EXTINF:-1 group-title="Football – Serie A",Oggi 18:00 - Inter vs Napoli [FHD]
 https://august.ppvtv.icu/embed.html?match=f1dgqv9v&server=1
+
+#EXTINF:-1 group-title="Football – Serie A",Oggi 18:00 - Inter vs Napoli [FHD]
+https://august.ppvtv.icu/embed.html?match=f1dgqv9v&server=2
 
 #EXTINF:-1 group-title="MMA – UFC FIGHT NIGHT",Oggi 18:00 - Prelims [HD]
 https://august.ppvtv.icu/embed.html?match=c74csm9&server=0
 
+#EXTINF:-1 group-title="Football – Premier League",Oggi 18:00 - FC Rostov vs Fakel [FHD]
+https://august.ppvtv.icu/embed.html?match=f1u0p62l&server=0
+
+#EXTINF:-1 group-title="Football – Pro League",Oggi 18:15 - Shabab Al Ahli Dubai vs Al-Jazira [FHD]
+https://august.ppvtv.icu/embed.html?match=f154r83t&server=0
+
+#EXTINF:-1 group-title="Football – Pro League",Oggi 18:15 - Shabab Al Ahli Dubai vs Al-Jazira [WHD]
+https://august.ppvtv.icu/embed.html?match=f154r83t&server=1
+
+#EXTINF:-1 group-title="Football – Jupiler Pro League",Oggi 18:15 - KV Mechelen vs KVC Westerlo [WHD]
+https://august.ppvtv.icu/embed.html?match=fvhseud&server=0
+
 #EXTINF:-1 group-title="Football – Premier League",Oggi 18:30 - Hull City vs Aston Villa [GHD]
 https://august.ppvtv.icu/embed.html?match=fawq5bt&server=0
 
-#EXTINF:-1 group-title="Football – Premier League",Oggi 18:30 - Hull City vs Aston Villa [GHD]
+#EXTINF:-1 group-title="Football – Premier League",Oggi 18:30 - Hull City vs Aston Villa [FHD]
 https://august.ppvtv.icu/embed.html?match=fawq5bt&server=1
 
-#EXTINF:-1 group-title="Football – Premier League",Oggi 18:30 - Hull City vs Aston Villa [FHD]
+#EXTINF:-1 group-title="Football – Premier League",Oggi 18:30 - Hull City vs Aston Villa [WHD]
 https://august.ppvtv.icu/embed.html?match=fawq5bt&server=2
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 18:30 - Hull City vs Aston Villa [FHD]
-https://august.ppvtv.icu/embed.html?match=fawq5bt&server=3
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 18:30 - Hull City vs Aston Villa [FHD]
-https://august.ppvtv.icu/embed.html?match=fawq5bt&server=4
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 18:30 - Hull City vs Aston Villa [FHD]
-https://august.ppvtv.icu/embed.html?match=fawq5bt&server=5
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 18:30 - Hull City vs Aston Villa [WHD]
-https://august.ppvtv.icu/embed.html?match=fawq5bt&server=6
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 18:30 - Hull City vs Aston Villa [WHD]
-https://august.ppvtv.icu/embed.html?match=fawq5bt&server=7
 
 #EXTINF:-1 group-title="Football – La Liga",Oggi 18:30 - Rayo Vallecano vs Racing Santander [GHD]
 https://august.ppvtv.icu/embed.html?match=f1hidmh1&server=0
 
-#EXTINF:-1 group-title="Football – La Liga",Oggi 18:30 - Rayo Vallecano vs Racing Santander [GHD]
+#EXTINF:-1 group-title="Football – La Liga",Oggi 18:30 - Rayo Vallecano vs Racing Santander [FHD]
 https://august.ppvtv.icu/embed.html?match=f1hidmh1&server=1
 
 #EXTINF:-1 group-title="Football – La Liga",Oggi 18:30 - Rayo Vallecano vs Racing Santander [FHD]
 https://august.ppvtv.icu/embed.html?match=f1hidmh1&server=2
 
-#EXTINF:-1 group-title="Football – La Liga",Oggi 18:30 - Rayo Vallecano vs Racing Santander [FHD]
+#EXTINF:-1 group-title="Football – La Liga",Oggi 18:30 - Rayo Vallecano vs Racing Santander [WHD]
 https://august.ppvtv.icu/embed.html?match=f1hidmh1&server=3
-
-#EXTINF:-1 group-title="Football – La Liga",Oggi 18:30 - Rayo Vallecano vs Racing Santander [FHD]
-https://august.ppvtv.icu/embed.html?match=f1hidmh1&server=4
-
-#EXTINF:-1 group-title="Football – La Liga",Oggi 18:30 - Rayo Vallecano vs Racing Santander [FHD]
-https://august.ppvtv.icu/embed.html?match=f1hidmh1&server=5
-
-#EXTINF:-1 group-title="Football – La Liga",Oggi 18:30 - Rayo Vallecano vs Racing Santander [WHD]
-https://august.ppvtv.icu/embed.html?match=f1hidmh1&server=6
-
-#EXTINF:-1 group-title="Football – La Liga",Oggi 18:30 - Rayo Vallecano vs Racing Santander [WHD]
-https://august.ppvtv.icu/embed.html?match=f1hidmh1&server=7
 
 #EXTINF:-1 group-title="Football – Bundesliga",Oggi 18:30 - FC Schalke 04 vs Bayern München [GHD]
 https://august.ppvtv.icu/embed.html?match=f5zo04e&server=0
 
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 18:30 - FC Schalke 04 vs Bayern München [GHD]
+#EXTINF:-1 group-title="Football – Bundesliga",Oggi 18:30 - FC Schalke 04 vs Bayern München [FHD]
 https://august.ppvtv.icu/embed.html?match=f5zo04e&server=1
 
 #EXTINF:-1 group-title="Football – Bundesliga",Oggi 18:30 - FC Schalke 04 vs Bayern München [FHD]
 https://august.ppvtv.icu/embed.html?match=f5zo04e&server=2
 
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 18:30 - FC Schalke 04 vs Bayern München [FHD]
+#EXTINF:-1 group-title="Football – Bundesliga",Oggi 18:30 - FC Schalke 04 vs Bayern München [WHD]
 https://august.ppvtv.icu/embed.html?match=f5zo04e&server=3
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 18:30 - FC Schalke 04 vs Bayern München [FHD]
-https://august.ppvtv.icu/embed.html?match=f5zo04e&server=4
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 18:30 - FC Schalke 04 vs Bayern München [FHD]
-https://august.ppvtv.icu/embed.html?match=f5zo04e&server=5
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 18:30 - FC Schalke 04 vs Bayern München [WHD]
-https://august.ppvtv.icu/embed.html?match=f5zo04e&server=6
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 18:30 - FC Schalke 04 vs Bayern München [WHD]
-https://august.ppvtv.icu/embed.html?match=f5zo04e&server=7
 
 #EXTINF:-1 group-title="Football – Liga Profesional Argentina",Oggi 18:30 - Aldosivi vs Banfield [WHD]
 https://august.ppvtv.icu/embed.html?match=f1bngcyx&server=0
 
-#EXTINF:-1 group-title="Football – Liga Profesional Argentina",Oggi 18:30 - Aldosivi vs Banfield [WHD]
-https://august.ppvtv.icu/embed.html?match=f1bngcyx&server=1
-
 #EXTINF:-1 group-title="Football – Eredivisie",Oggi 18:45 - Utrecht vs GO Ahead Eagles [GHD]
 https://august.ppvtv.icu/embed.html?match=fvcjga9&server=0
 
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 18:45 - Utrecht vs GO Ahead Eagles [GHD]
-https://august.ppvtv.icu/embed.html?match=fvcjga9&server=1
+#EXTINF:-1 group-title="Darts – Czech Darts Open",Oggi 19:00 - Day 2 - Session 2 [HD]
+https://august.ppvtv.icu/embed.html?match=c115lyuq&server=0
 
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 18:45 - Utrecht vs GO Ahead Eagles [FHD]
-https://august.ppvtv.icu/embed.html?match=fvcjga9&server=2
+#EXTINF:-1 group-title="Football – Primeira Liga",Oggi 19:00 - Maritimo vs Benfica [WHD]
+https://august.ppvtv.icu/embed.html?match=f1jwasub&server=0
 
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 18:45 - Utrecht vs GO Ahead Eagles [FHD]
-https://august.ppvtv.icu/embed.html?match=fvcjga9&server=3
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 18:45 - Utrecht vs GO Ahead Eagles [WHD]
-https://august.ppvtv.icu/embed.html?match=fvcjga9&server=4
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 18:45 - Utrecht vs GO Ahead Eagles [WHD]
-https://august.ppvtv.icu/embed.html?match=fvcjga9&server=5
-
-#EXTINF:-1 group-title="Football – Primeira Liga",Oggi 19:00 - Alverca vs SC Braga [WHD]
+#EXTINF:-1 group-title="Football – Primeira Liga",Oggi 19:00 - Alverca vs SC Braga [FHD]
 https://august.ppvtv.icu/embed.html?match=f3t48k&server=0
 
 #EXTINF:-1 group-title="Football – Primeira Liga",Oggi 19:00 - Alverca vs SC Braga [WHD]
 https://august.ppvtv.icu/embed.html?match=f3t48k&server=1
 
-#EXTINF:-1 group-title="Football – Primeira Liga",Oggi 19:00 - Maritimo vs Benfica [WHD]
-https://august.ppvtv.icu/embed.html?match=f1jwasub&server=0
-
-#EXTINF:-1 group-title="Football – Primeira Liga",Oggi 19:00 - Maritimo vs Benfica [WHD]
-https://august.ppvtv.icu/embed.html?match=f1jwasub&server=1
-
-#EXTINF:-1 group-title="Darts – Czech Darts Open",Oggi 19:00 - Day 2 - Session 2 [HD]
-https://august.ppvtv.icu/embed.html?match=c115lyuq&server=0
-
-#EXTINF:-1 group-title="Darts – Czech Darts Open",Oggi 19:00 - Day 2 - Session 2 [HD]
-https://august.ppvtv.icu/embed.html?match=c115lyuq&server=1
-
-#EXTINF:-1 group-title="Football – Liga Profesional Argentina",Oggi 19:30 - Gimnasia L.P. vs Tigre [WHD]
+#EXTINF:-1 group-title="Football – Liga Profesional Argentina",Oggi 19:30 - Gimnasia L.P. vs Tigre [FHD]
 https://august.ppvtv.icu/embed.html?match=ffvuc1z&server=0
 
 #EXTINF:-1 group-title="Football – Liga Profesional Argentina",Oggi 19:30 - Gimnasia L.P. vs Tigre [WHD]
@@ -229,38 +94,8 @@ https://august.ppvtv.icu/embed.html?match=ffvuc1z&server=1
 #EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al-Ittihad FC vs Al-Nassr [GHD]
 https://august.ppvtv.icu/embed.html?match=f152qsyo&server=0
 
-#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al-Ittihad FC vs Al-Nassr [GHD]
-https://august.ppvtv.icu/embed.html?match=f152qsyo&server=1
-
-#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al-Ittihad FC vs Al-Nassr [WHD]
-https://august.ppvtv.icu/embed.html?match=f152qsyo&server=2
-
-#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al-Ittihad FC vs Al-Nassr [WHD]
-https://august.ppvtv.icu/embed.html?match=f152qsyo&server=3
-
 #EXTINF:-1 group-title="Football – Eredivisie",Oggi 20:00 - Ajax vs PSV Eindhoven [GHD]
 https://august.ppvtv.icu/embed.html?match=f1gfmrmv&server=0
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 20:00 - Ajax vs PSV Eindhoven [GHD]
-https://august.ppvtv.icu/embed.html?match=f1gfmrmv&server=1
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 20:00 - Ajax vs PSV Eindhoven [FHD]
-https://august.ppvtv.icu/embed.html?match=f1gfmrmv&server=2
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 20:00 - Ajax vs PSV Eindhoven [FHD]
-https://august.ppvtv.icu/embed.html?match=f1gfmrmv&server=3
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 20:00 - Ajax vs PSV Eindhoven [FHD]
-https://august.ppvtv.icu/embed.html?match=f1gfmrmv&server=4
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 20:00 - Ajax vs PSV Eindhoven [FHD]
-https://august.ppvtv.icu/embed.html?match=f1gfmrmv&server=5
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 20:00 - Ajax vs PSV Eindhoven [WHD]
-https://august.ppvtv.icu/embed.html?match=f1gfmrmv&server=6
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 20:00 - Ajax vs PSV Eindhoven [WHD]
-https://august.ppvtv.icu/embed.html?match=f1gfmrmv&server=7
 
 #EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 20:30 - Dynamo Dresden vs VfL Bochum [GHD]
 https://august.ppvtv.icu/embed.html?match=f178flcg&server=0
@@ -279,48 +114,6 @@ https://august.ppvtv.icu/embed.html?match=f178flcg&server=4
 
 #EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 20:30 - Dynamo Dresden vs VfL Bochum [WHD]
 https://august.ppvtv.icu/embed.html?match=f178flcg&server=5
-
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Nice vs Le Mans [GHD]
-https://august.ppvtv.icu/embed.html?match=fiav2ed&server=0
-
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Nice vs Le Mans [GHD]
-https://august.ppvtv.icu/embed.html?match=fiav2ed&server=1
-
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Nice vs Le Mans [FHD]
-https://august.ppvtv.icu/embed.html?match=fiav2ed&server=2
-
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Nice vs Le Mans [FHD]
-https://august.ppvtv.icu/embed.html?match=fiav2ed&server=3
-
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Nice vs Le Mans [WHD]
-https://august.ppvtv.icu/embed.html?match=fiav2ed&server=4
-
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Nice vs Le Mans [WHD]
-https://august.ppvtv.icu/embed.html?match=fiav2ed&server=5
-
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Le Havre vs Stade Brestois 29 [GHD]
-https://august.ppvtv.icu/embed.html?match=fg41jp2&server=0
-
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Le Havre vs Stade Brestois 29 [GHD]
-https://august.ppvtv.icu/embed.html?match=fg41jp2&server=1
-
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Le Havre vs Stade Brestois 29 [FHD]
-https://august.ppvtv.icu/embed.html?match=fg41jp2&server=2
-
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Le Havre vs Stade Brestois 29 [FHD]
-https://august.ppvtv.icu/embed.html?match=fg41jp2&server=3
-
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Le Havre vs Stade Brestois 29 [FHD]
-https://august.ppvtv.icu/embed.html?match=fg41jp2&server=4
-
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Le Havre vs Stade Brestois 29 [FHD]
-https://august.ppvtv.icu/embed.html?match=fg41jp2&server=5
-
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Le Havre vs Stade Brestois 29 [WHD]
-https://august.ppvtv.icu/embed.html?match=fg41jp2&server=6
-
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Le Havre vs Stade Brestois 29 [WHD]
-https://august.ppvtv.icu/embed.html?match=fg41jp2&server=7
 
 #EXTINF:-1 group-title="Football – Serie A",Oggi 20:45 - AS Roma vs Atalanta [GHD]
 https://august.ppvtv.icu/embed.html?match=f15z20fl&server=0
@@ -370,17 +163,59 @@ https://august.ppvtv.icu/embed.html?match=fsivjiw&server=2
 #EXTINF:-1 group-title="Football – Jupiler Pro League",Oggi 20:45 - St. Truiden vs RAAL La Louvière [WHD]
 https://august.ppvtv.icu/embed.html?match=fsivjiw&server=3
 
-#EXTINF:-1 group-title="Rugby – Premiership",Oggi 21:00 - ST Mirren vs Celtic [FHD]
-https://august.ppvtv.icu/embed.html?match=fxkksnr&server=0
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Nice vs Le Mans [GHD]
+https://august.ppvtv.icu/embed.html?match=fiav2ed&server=0
 
-#EXTINF:-1 group-title="Rugby – Premiership",Oggi 21:00 - ST Mirren vs Celtic [FHD]
-https://august.ppvtv.icu/embed.html?match=fxkksnr&server=1
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Nice vs Le Mans [GHD]
+https://august.ppvtv.icu/embed.html?match=fiav2ed&server=1
 
-#EXTINF:-1 group-title="Rugby – Premiership",Oggi 21:00 - ST Mirren vs Celtic [WHD]
-https://august.ppvtv.icu/embed.html?match=fxkksnr&server=2
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Nice vs Le Mans [FHD]
+https://august.ppvtv.icu/embed.html?match=fiav2ed&server=2
 
-#EXTINF:-1 group-title="Rugby – Premiership",Oggi 21:00 - ST Mirren vs Celtic [WHD]
-https://august.ppvtv.icu/embed.html?match=fxkksnr&server=3
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Nice vs Le Mans [FHD]
+https://august.ppvtv.icu/embed.html?match=fiav2ed&server=3
+
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Nice vs Le Mans [WHD]
+https://august.ppvtv.icu/embed.html?match=fiav2ed&server=4
+
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Nice vs Le Mans [WHD]
+https://august.ppvtv.icu/embed.html?match=fiav2ed&server=5
+
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Le Havre vs Stade Brestois 29 [GHD]
+https://august.ppvtv.icu/embed.html?match=fg41jp2&server=0
+
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Le Havre vs Stade Brestois 29 [GHD]
+https://august.ppvtv.icu/embed.html?match=fg41jp2&server=1
+
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Le Havre vs Stade Brestois 29 [FHD]
+https://august.ppvtv.icu/embed.html?match=fg41jp2&server=2
+
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Le Havre vs Stade Brestois 29 [FHD]
+https://august.ppvtv.icu/embed.html?match=fg41jp2&server=3
+
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Le Havre vs Stade Brestois 29 [FHD]
+https://august.ppvtv.icu/embed.html?match=fg41jp2&server=4
+
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Le Havre vs Stade Brestois 29 [FHD]
+https://august.ppvtv.icu/embed.html?match=fg41jp2&server=5
+
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Le Havre vs Stade Brestois 29 [WHD]
+https://august.ppvtv.icu/embed.html?match=fg41jp2&server=6
+
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 20:45 - Le Havre vs Stade Brestois 29 [WHD]
+https://august.ppvtv.icu/embed.html?match=fg41jp2&server=7
+
+#EXTINF:-1 group-title="Football – Serie A",Oggi 21:00 - RB Bragantino vs Bahia [WHD]
+https://august.ppvtv.icu/embed.html?match=f6wydk2&server=0
+
+#EXTINF:-1 group-title="Football – Serie A",Oggi 21:00 - RB Bragantino vs Bahia [WHD]
+https://august.ppvtv.icu/embed.html?match=f6wydk2&server=1
+
+#EXTINF:-1 group-title="MMA – UFC FIGHT NIGHT",Oggi 21:00 - Hooker vs Parnasse [HD]
+https://august.ppvtv.icu/embed.html?match=f1ui2sy4&server=0
+
+#EXTINF:-1 group-title="MMA – UFC FIGHT NIGHT",Oggi 21:00 - Hooker vs Parnasse [HD]
+https://august.ppvtv.icu/embed.html?match=f1ui2sy4&server=1
 
 #EXTINF:-1 group-title="Football – La Liga",Oggi 21:00 - Villarreal vs Deportivo La Coruna [GHD]
 https://august.ppvtv.icu/embed.html?match=f2m1vpm&server=0
@@ -424,17 +259,23 @@ https://august.ppvtv.icu/embed.html?match=ff8b64k&server=4
 #EXTINF:-1 group-title="Football – Eredivisie",Oggi 21:00 - Willem II vs Excelsior [WHD]
 https://august.ppvtv.icu/embed.html?match=ff8b64k&server=5
 
-#EXTINF:-1 group-title="Football – Serie A",Oggi 21:00 - RB Bragantino vs Bahia [WHD]
-https://august.ppvtv.icu/embed.html?match=f6wydk2&server=0
+#EXTINF:-1 group-title="Rugby – Premiership",Oggi 21:00 - ST Mirren vs Celtic [GHD]
+https://august.ppvtv.icu/embed.html?match=fxkksnr&server=0
 
-#EXTINF:-1 group-title="Football – Serie A",Oggi 21:00 - RB Bragantino vs Bahia [WHD]
-https://august.ppvtv.icu/embed.html?match=f6wydk2&server=1
+#EXTINF:-1 group-title="Rugby – Premiership",Oggi 21:00 - ST Mirren vs Celtic [GHD]
+https://august.ppvtv.icu/embed.html?match=fxkksnr&server=1
 
-#EXTINF:-1 group-title="MMA – UFC FIGHT NIGHT",Oggi 21:00 - Hooker vs Parnasse [HD]
-https://august.ppvtv.icu/embed.html?match=f1ui2sy4&server=0
+#EXTINF:-1 group-title="Rugby – Premiership",Oggi 21:00 - ST Mirren vs Celtic [FHD]
+https://august.ppvtv.icu/embed.html?match=fxkksnr&server=2
 
-#EXTINF:-1 group-title="MMA – UFC FIGHT NIGHT",Oggi 21:00 - Hooker vs Parnasse [HD]
-https://august.ppvtv.icu/embed.html?match=f1ui2sy4&server=1
+#EXTINF:-1 group-title="Rugby – Premiership",Oggi 21:00 - ST Mirren vs Celtic [FHD]
+https://august.ppvtv.icu/embed.html?match=fxkksnr&server=3
+
+#EXTINF:-1 group-title="Rugby – Premiership",Oggi 21:00 - ST Mirren vs Celtic [WHD]
+https://august.ppvtv.icu/embed.html?match=fxkksnr&server=4
+
+#EXTINF:-1 group-title="Rugby – Premiership",Oggi 21:00 - ST Mirren vs Celtic [WHD]
+https://august.ppvtv.icu/embed.html?match=fxkksnr&server=5
 
 #EXTINF:-1 group-title="Football – Liga Profesional Argentina",Oggi 21:30 - Gimnasia M. vs Boca Juniors [FHD]
 https://august.ppvtv.icu/embed.html?match=f11vpxxk&server=0
@@ -574,11 +415,17 @@ https://august.ppvtv.icu/embed.html?match=f97vdcw&server=0
 #EXTINF:-1 group-title="Baseball – MLB",Domani 01:15 - Arizona Diamondbacks vs Houston Astros [HD]
 https://august.ppvtv.icu/embed.html?match=f97vdcw&server=1
 
-#EXTINF:-1 group-title="Football – Serie A",Domani 02:00 - Fluminense vs Vasco DA Gama [WHD]
+#EXTINF:-1 group-title="Football – Serie A",Domani 02:00 - Fluminense vs Vasco DA Gama [FHD]
 https://august.ppvtv.icu/embed.html?match=fid3i1p&server=0
 
-#EXTINF:-1 group-title="Football – Serie A",Domani 02:00 - Fluminense vs Vasco DA Gama [WHD]
+#EXTINF:-1 group-title="Football – Serie A",Domani 02:00 - Fluminense vs Vasco DA Gama [FHD]
 https://august.ppvtv.icu/embed.html?match=fid3i1p&server=1
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 02:00 - Fluminense vs Vasco DA Gama [WHD]
+https://august.ppvtv.icu/embed.html?match=fid3i1p&server=2
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 02:00 - Fluminense vs Vasco DA Gama [WHD]
+https://august.ppvtv.icu/embed.html?match=fid3i1p&server=3
 
 #EXTINF:-1 group-title="Football – MLS Next Pro",Domani 02:00 - Minnesota United II vs Colorado Rapids II [WHD]
 https://august.ppvtv.icu/embed.html?match=f10ni5cs&server=0
@@ -766,11 +613,17 @@ https://august.ppvtv.icu/embed.html?match=f15y2o6c&server=2
 #EXTINF:-1 group-title="Football – Eredivisie",Domani 12:15 - Groningen vs Twente [FHD]
 https://august.ppvtv.icu/embed.html?match=f15y2o6c&server=3
 
-#EXTINF:-1 group-title="Football – Eredivisie",Domani 12:15 - Groningen vs Twente [WHD]
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 12:15 - Groningen vs Twente [FHD]
 https://august.ppvtv.icu/embed.html?match=f15y2o6c&server=4
 
-#EXTINF:-1 group-title="Football – Eredivisie",Domani 12:15 - Groningen vs Twente [WHD]
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 12:15 - Groningen vs Twente [FHD]
 https://august.ppvtv.icu/embed.html?match=f15y2o6c&server=5
+
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 12:15 - Groningen vs Twente [WHD]
+https://august.ppvtv.icu/embed.html?match=f15y2o6c&server=6
+
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 12:15 - Groningen vs Twente [WHD]
+https://august.ppvtv.icu/embed.html?match=f15y2o6c&server=7
 
 #EXTINF:-1 group-title="Football – J1 League",Domani 12:30 - FC Tokyo vs Kyoto Sanga [FHD]
 https://august.ppvtv.icu/embed.html?match=f17azw30&server=0
@@ -784,47 +637,17 @@ https://august.ppvtv.icu/embed.html?match=f17azw30&server=2
 #EXTINF:-1 group-title="Football – J1 League",Domani 12:30 - FC Tokyo vs Kyoto Sanga [WHD]
 https://august.ppvtv.icu/embed.html?match=f17azw30&server=3
 
-#EXTINF:-1 group-title="Football – Premier League",Domani 13:00 - FC Orenburg vs Akron [WHD]
+#EXTINF:-1 group-title="Football – Premier League",Domani 13:00 - FC Orenburg vs Akron [FHD]
 https://august.ppvtv.icu/embed.html?match=f1osj8oy&server=0
 
-#EXTINF:-1 group-title="Football – Premier League",Domani 13:00 - FC Orenburg vs Akron [WHD]
+#EXTINF:-1 group-title="Football – Premier League",Domani 13:00 - FC Orenburg vs Akron [FHD]
 https://august.ppvtv.icu/embed.html?match=f1osj8oy&server=1
 
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - SpVgg Greuther Fürth vs 1. FC Heidenheim [GHD]
-https://august.ppvtv.icu/embed.html?match=fxrhktr&server=0
+#EXTINF:-1 group-title="Football – Premier League",Domani 13:00 - FC Orenburg vs Akron [WHD]
+https://august.ppvtv.icu/embed.html?match=f1osj8oy&server=2
 
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - SpVgg Greuther Fürth vs 1. FC Heidenheim [GHD]
-https://august.ppvtv.icu/embed.html?match=fxrhktr&server=1
-
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - SpVgg Greuther Fürth vs 1. FC Heidenheim [WHD]
-https://august.ppvtv.icu/embed.html?match=fxrhktr&server=2
-
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - SpVgg Greuther Fürth vs 1. FC Heidenheim [WHD]
-https://august.ppvtv.icu/embed.html?match=fxrhktr&server=3
-
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - Hertha BSC vs 1. FC Magdeburg [GHD]
-https://august.ppvtv.icu/embed.html?match=fjv7p6f&server=0
-
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - Hertha BSC vs 1. FC Magdeburg [GHD]
-https://august.ppvtv.icu/embed.html?match=fjv7p6f&server=1
-
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - Hertha BSC vs 1. FC Magdeburg [WHD]
-https://august.ppvtv.icu/embed.html?match=fjv7p6f&server=2
-
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - Hertha BSC vs 1. FC Magdeburg [WHD]
-https://august.ppvtv.icu/embed.html?match=fjv7p6f&server=3
-
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - VfL Osnabrück vs Eintracht Braunschweig [GHD]
-https://august.ppvtv.icu/embed.html?match=f1n1dwl9&server=0
-
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - VfL Osnabrück vs Eintracht Braunschweig [GHD]
-https://august.ppvtv.icu/embed.html?match=f1n1dwl9&server=1
-
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - VfL Osnabrück vs Eintracht Braunschweig [WHD]
-https://august.ppvtv.icu/embed.html?match=f1n1dwl9&server=2
-
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - VfL Osnabrück vs Eintracht Braunschweig [WHD]
-https://august.ppvtv.icu/embed.html?match=f1n1dwl9&server=3
+#EXTINF:-1 group-title="Football – Premier League",Domani 13:00 - FC Orenburg vs Akron [WHD]
+https://august.ppvtv.icu/embed.html?match=f1osj8oy&server=3
 
 #EXTINF:-1 group-title="Football – Jupiler Pro League",Domani 13:30 - Cercle Brugge vs Gent [GHD]
 https://august.ppvtv.icu/embed.html?match=f1yllg3e&server=0
@@ -837,6 +660,60 @@ https://august.ppvtv.icu/embed.html?match=f1yllg3e&server=2
 
 #EXTINF:-1 group-title="Football – Jupiler Pro League",Domani 13:30 - Cercle Brugge vs Gent [WHD]
 https://august.ppvtv.icu/embed.html?match=f1yllg3e&server=3
+
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - SpVgg Greuther Fürth vs 1. FC Heidenheim [GHD]
+https://august.ppvtv.icu/embed.html?match=fxrhktr&server=0
+
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - SpVgg Greuther Fürth vs 1. FC Heidenheim [GHD]
+https://august.ppvtv.icu/embed.html?match=fxrhktr&server=1
+
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - SpVgg Greuther Fürth vs 1. FC Heidenheim [FHD]
+https://august.ppvtv.icu/embed.html?match=fxrhktr&server=2
+
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - SpVgg Greuther Fürth vs 1. FC Heidenheim [FHD]
+https://august.ppvtv.icu/embed.html?match=fxrhktr&server=3
+
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - SpVgg Greuther Fürth vs 1. FC Heidenheim [WHD]
+https://august.ppvtv.icu/embed.html?match=fxrhktr&server=4
+
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - SpVgg Greuther Fürth vs 1. FC Heidenheim [WHD]
+https://august.ppvtv.icu/embed.html?match=fxrhktr&server=5
+
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - Hertha BSC vs 1. FC Magdeburg [GHD]
+https://august.ppvtv.icu/embed.html?match=fjv7p6f&server=0
+
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - Hertha BSC vs 1. FC Magdeburg [GHD]
+https://august.ppvtv.icu/embed.html?match=fjv7p6f&server=1
+
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - Hertha BSC vs 1. FC Magdeburg [FHD]
+https://august.ppvtv.icu/embed.html?match=fjv7p6f&server=2
+
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - Hertha BSC vs 1. FC Magdeburg [FHD]
+https://august.ppvtv.icu/embed.html?match=fjv7p6f&server=3
+
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - Hertha BSC vs 1. FC Magdeburg [WHD]
+https://august.ppvtv.icu/embed.html?match=fjv7p6f&server=4
+
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - Hertha BSC vs 1. FC Magdeburg [WHD]
+https://august.ppvtv.icu/embed.html?match=fjv7p6f&server=5
+
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - VfL Osnabrück vs Eintracht Braunschweig [GHD]
+https://august.ppvtv.icu/embed.html?match=f1n1dwl9&server=0
+
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - VfL Osnabrück vs Eintracht Braunschweig [GHD]
+https://august.ppvtv.icu/embed.html?match=f1n1dwl9&server=1
+
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - VfL Osnabrück vs Eintracht Braunschweig [FHD]
+https://august.ppvtv.icu/embed.html?match=f1n1dwl9&server=2
+
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - VfL Osnabrück vs Eintracht Braunschweig [FHD]
+https://august.ppvtv.icu/embed.html?match=f1n1dwl9&server=3
+
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - VfL Osnabrück vs Eintracht Braunschweig [WHD]
+https://august.ppvtv.icu/embed.html?match=f1n1dwl9&server=4
+
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 13:30 - VfL Osnabrück vs Eintracht Braunschweig [WHD]
+https://august.ppvtv.icu/embed.html?match=f1n1dwl9&server=5
 
 #EXTINF:-1 group-title="Football – Premier League",Domani 14:00 - Belshina vs Neman [WHD]
 https://august.ppvtv.icu/embed.html?match=f1yane2h&server=0
@@ -856,11 +733,17 @@ https://august.ppvtv.icu/embed.html?match=fejy43&server=2
 #EXTINF:-1 group-title="Football – Eredivisie",Domani 14:30 - Heerenveen vs AZ Alkmaar [FHD]
 https://august.ppvtv.icu/embed.html?match=fejy43&server=3
 
-#EXTINF:-1 group-title="Football – Eredivisie",Domani 14:30 - Heerenveen vs AZ Alkmaar [WHD]
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 14:30 - Heerenveen vs AZ Alkmaar [FHD]
 https://august.ppvtv.icu/embed.html?match=fejy43&server=4
 
-#EXTINF:-1 group-title="Football – Eredivisie",Domani 14:30 - Heerenveen vs AZ Alkmaar [WHD]
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 14:30 - Heerenveen vs AZ Alkmaar [FHD]
 https://august.ppvtv.icu/embed.html?match=fejy43&server=5
+
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 14:30 - Heerenveen vs AZ Alkmaar [WHD]
+https://august.ppvtv.icu/embed.html?match=fejy43&server=6
+
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 14:30 - Heerenveen vs AZ Alkmaar [WHD]
+https://august.ppvtv.icu/embed.html?match=fejy43&server=7
 
 #EXTINF:-1 group-title="Football – Eredivisie",Domani 14:30 - Telstar vs Cambuur [GHD]
 https://august.ppvtv.icu/embed.html?match=f1nhohvy&server=0
@@ -868,11 +751,17 @@ https://august.ppvtv.icu/embed.html?match=f1nhohvy&server=0
 #EXTINF:-1 group-title="Football – Eredivisie",Domani 14:30 - Telstar vs Cambuur [GHD]
 https://august.ppvtv.icu/embed.html?match=f1nhohvy&server=1
 
-#EXTINF:-1 group-title="Football – Eredivisie",Domani 14:30 - Telstar vs Cambuur [WHD]
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 14:30 - Telstar vs Cambuur [FHD]
 https://august.ppvtv.icu/embed.html?match=f1nhohvy&server=2
 
-#EXTINF:-1 group-title="Football – Eredivisie",Domani 14:30 - Telstar vs Cambuur [WHD]
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 14:30 - Telstar vs Cambuur [FHD]
 https://august.ppvtv.icu/embed.html?match=f1nhohvy&server=3
+
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 14:30 - Telstar vs Cambuur [WHD]
+https://august.ppvtv.icu/embed.html?match=f1nhohvy&server=4
+
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 14:30 - Telstar vs Cambuur [WHD]
+https://august.ppvtv.icu/embed.html?match=f1nhohvy&server=5
 
 #EXTINF:-1 group-title="Cycling – La Vuelta",Domani 14:45 - Vuelta a España, Stage 15 [HD]
 https://august.ppvtv.icu/embed.html?match=ccg108t&server=0
@@ -885,3 +774,411 @@ https://august.ppvtv.icu/embed.html?match=c1lbd196&server=0
 
 #EXTINF:-1 group-title="Formula 1 – Formula 1 Main Race",Domani 14:55 - Italian Grand Prix 2026 [FHD]
 https://august.ppvtv.icu/embed.html?match=c1lbd196&server=1
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 15:00 - Frosinone vs Venezia [GHD]
+https://august.ppvtv.icu/embed.html?match=f1ozxw57&server=0
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 15:00 - Frosinone vs Venezia [GHD]
+https://august.ppvtv.icu/embed.html?match=f1ozxw57&server=1
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 15:00 - Frosinone vs Venezia [FHD]
+https://august.ppvtv.icu/embed.html?match=f1ozxw57&server=2
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 15:00 - Frosinone vs Venezia [FHD]
+https://august.ppvtv.icu/embed.html?match=f1ozxw57&server=3
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 15:00 - Frosinone vs Venezia [FHD]
+https://august.ppvtv.icu/embed.html?match=f1ozxw57&server=4
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 15:00 - Frosinone vs Venezia [FHD]
+https://august.ppvtv.icu/embed.html?match=f1ozxw57&server=5
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 15:00 - Frosinone vs Venezia [WHD]
+https://august.ppvtv.icu/embed.html?match=f1ozxw57&server=6
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 15:00 - Frosinone vs Venezia [WHD]
+https://august.ppvtv.icu/embed.html?match=f1ozxw57&server=7
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 15:00 - Parma vs Monza [GHD]
+https://august.ppvtv.icu/embed.html?match=f16zeyiy&server=0
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 15:00 - Parma vs Monza [GHD]
+https://august.ppvtv.icu/embed.html?match=f16zeyiy&server=1
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 15:00 - Parma vs Monza [FHD]
+https://august.ppvtv.icu/embed.html?match=f16zeyiy&server=2
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 15:00 - Parma vs Monza [FHD]
+https://august.ppvtv.icu/embed.html?match=f16zeyiy&server=3
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 15:00 - Parma vs Monza [FHD]
+https://august.ppvtv.icu/embed.html?match=f16zeyiy&server=4
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 15:00 - Parma vs Monza [FHD]
+https://august.ppvtv.icu/embed.html?match=f16zeyiy&server=5
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 15:00 - Parma vs Monza [WHD]
+https://august.ppvtv.icu/embed.html?match=f16zeyiy&server=6
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 15:00 - Parma vs Monza [WHD]
+https://august.ppvtv.icu/embed.html?match=f16zeyiy&server=7
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 15:00 - Everton vs Manchester United [GHD]
+https://august.ppvtv.icu/embed.html?match=f3xsmz0&server=0
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 15:00 - Everton vs Manchester United [GHD]
+https://august.ppvtv.icu/embed.html?match=f3xsmz0&server=1
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 15:00 - Everton vs Manchester United [FHD]
+https://august.ppvtv.icu/embed.html?match=f3xsmz0&server=2
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 15:00 - Everton vs Manchester United [FHD]
+https://august.ppvtv.icu/embed.html?match=f3xsmz0&server=3
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 15:00 - Everton vs Manchester United [WHD]
+https://august.ppvtv.icu/embed.html?match=f3xsmz0&server=4
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 15:00 - Everton vs Manchester United [WHD]
+https://august.ppvtv.icu/embed.html?match=f3xsmz0&server=5
+
+#EXTINF:-1 group-title="Football – Ligue 1",Domani 15:00 - Estac Troyes vs Strasbourg [GHD]
+https://august.ppvtv.icu/embed.html?match=fuyay3k&server=0
+
+#EXTINF:-1 group-title="Football – Ligue 1",Domani 15:00 - Estac Troyes vs Strasbourg [GHD]
+https://august.ppvtv.icu/embed.html?match=fuyay3k&server=1
+
+#EXTINF:-1 group-title="Football – Ligue 1",Domani 15:00 - Estac Troyes vs Strasbourg [FHD]
+https://august.ppvtv.icu/embed.html?match=fuyay3k&server=2
+
+#EXTINF:-1 group-title="Football – Ligue 1",Domani 15:00 - Estac Troyes vs Strasbourg [FHD]
+https://august.ppvtv.icu/embed.html?match=fuyay3k&server=3
+
+#EXTINF:-1 group-title="Football – Ligue 1",Domani 15:00 - Estac Troyes vs Strasbourg [FHD]
+https://august.ppvtv.icu/embed.html?match=fuyay3k&server=4
+
+#EXTINF:-1 group-title="Football – Ligue 1",Domani 15:00 - Estac Troyes vs Strasbourg [FHD]
+https://august.ppvtv.icu/embed.html?match=fuyay3k&server=5
+
+#EXTINF:-1 group-title="Football – Ligue 1",Domani 15:00 - Estac Troyes vs Strasbourg [WHD]
+https://august.ppvtv.icu/embed.html?match=fuyay3k&server=6
+
+#EXTINF:-1 group-title="Football – Ligue 1",Domani 15:00 - Estac Troyes vs Strasbourg [WHD]
+https://august.ppvtv.icu/embed.html?match=fuyay3k&server=7
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 15:15 - Dinamo Makhachkala vs Rodina Moskva [FHD]
+https://august.ppvtv.icu/embed.html?match=fw7oy8c&server=0
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 15:15 - Dinamo Makhachkala vs Rodina Moskva [FHD]
+https://august.ppvtv.icu/embed.html?match=fw7oy8c&server=1
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 15:15 - Dinamo Makhachkala vs Rodina Moskva [WHD]
+https://august.ppvtv.icu/embed.html?match=fw7oy8c&server=2
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 15:15 - Dinamo Makhachkala vs Rodina Moskva [WHD]
+https://august.ppvtv.icu/embed.html?match=fw7oy8c&server=3
+
+#EXTINF:-1 group-title="Football – Bundesliga",Domani 15:30 - Hamburger SV vs FSV Mainz 05 [GHD]
+https://august.ppvtv.icu/embed.html?match=fyhyiyq&server=0
+
+#EXTINF:-1 group-title="Football – Bundesliga",Domani 15:30 - Hamburger SV vs FSV Mainz 05 [GHD]
+https://august.ppvtv.icu/embed.html?match=fyhyiyq&server=1
+
+#EXTINF:-1 group-title="Football – Bundesliga",Domani 15:30 - Hamburger SV vs FSV Mainz 05 [FHD]
+https://august.ppvtv.icu/embed.html?match=fyhyiyq&server=2
+
+#EXTINF:-1 group-title="Football – Bundesliga",Domani 15:30 - Hamburger SV vs FSV Mainz 05 [FHD]
+https://august.ppvtv.icu/embed.html?match=fyhyiyq&server=3
+
+#EXTINF:-1 group-title="Football – Bundesliga",Domani 15:30 - Hamburger SV vs FSV Mainz 05 [WHD]
+https://august.ppvtv.icu/embed.html?match=fyhyiyq&server=4
+
+#EXTINF:-1 group-title="Football – Bundesliga",Domani 15:30 - Hamburger SV vs FSV Mainz 05 [WHD]
+https://august.ppvtv.icu/embed.html?match=fyhyiyq&server=5
+
+#EXTINF:-1 group-title="Football – Pro League",Domani 15:45 - Al Nasr vs Ajman [WHD]
+https://august.ppvtv.icu/embed.html?match=f1atlqgv&server=0
+
+#EXTINF:-1 group-title="Football – Pro League",Domani 15:45 - Al Nasr vs Ajman [WHD]
+https://august.ppvtv.icu/embed.html?match=f1atlqgv&server=1
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 16:00 - Coritiba vs Mirassol [WHD]
+https://august.ppvtv.icu/embed.html?match=f1qyy4td&server=0
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 16:00 - Coritiba vs Mirassol [WHD]
+https://august.ppvtv.icu/embed.html?match=f1qyy4td&server=1
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 16:00 - Baranovichi vs FC Dnepr Mogilev [WHD]
+https://august.ppvtv.icu/embed.html?match=f12ow23z&server=0
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 16:00 - Baranovichi vs FC Dnepr Mogilev [WHD]
+https://august.ppvtv.icu/embed.html?match=f12ow23z&server=1
+
+#EXTINF:-1 group-title="Football – Jupiler Pro League",Domani 16:00 - Kortrijk vs Zulte Waregem [GHD]
+https://august.ppvtv.icu/embed.html?match=fqqs0fe&server=0
+
+#EXTINF:-1 group-title="Football – Jupiler Pro League",Domani 16:00 - Kortrijk vs Zulte Waregem [GHD]
+https://august.ppvtv.icu/embed.html?match=fqqs0fe&server=1
+
+#EXTINF:-1 group-title="Football – Jupiler Pro League",Domani 16:00 - Kortrijk vs Zulte Waregem [WHD]
+https://august.ppvtv.icu/embed.html?match=fqqs0fe&server=2
+
+#EXTINF:-1 group-title="Football – Jupiler Pro League",Domani 16:00 - Kortrijk vs Zulte Waregem [WHD]
+https://august.ppvtv.icu/embed.html?match=fqqs0fe&server=3
+
+#EXTINF:-1 group-title="Rugby – Premiership",Domani 16:00 - Heart Of Midlothian vs Dundee [WHD]
+https://august.ppvtv.icu/embed.html?match=fnkfyiy&server=0
+
+#EXTINF:-1 group-title="Rugby – Premiership",Domani 16:00 - Heart Of Midlothian vs Dundee [WHD]
+https://august.ppvtv.icu/embed.html?match=fnkfyiy&server=1
+
+#EXTINF:-1 group-title="Rugby – Premiership",Domani 16:00 - ST Johnstone vs Hibernian [FHD]
+https://august.ppvtv.icu/embed.html?match=fbp6bb4&server=0
+
+#EXTINF:-1 group-title="Rugby – Premiership",Domani 16:00 - ST Johnstone vs Hibernian [FHD]
+https://august.ppvtv.icu/embed.html?match=fbp6bb4&server=1
+
+#EXTINF:-1 group-title="Rugby – Premiership",Domani 16:00 - ST Johnstone vs Hibernian [WHD]
+https://august.ppvtv.icu/embed.html?match=fbp6bb4&server=2
+
+#EXTINF:-1 group-title="Rugby – Premiership",Domani 16:00 - ST Johnstone vs Hibernian [WHD]
+https://august.ppvtv.icu/embed.html?match=fbp6bb4&server=3
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 16:15 - Valencia vs Barcelona [GHD]
+https://august.ppvtv.icu/embed.html?match=f6lnfs5&server=0
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 16:15 - Valencia vs Barcelona [GHD]
+https://august.ppvtv.icu/embed.html?match=f6lnfs5&server=1
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 16:15 - Valencia vs Barcelona [FHD]
+https://august.ppvtv.icu/embed.html?match=f6lnfs5&server=2
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 16:15 - Valencia vs Barcelona [FHD]
+https://august.ppvtv.icu/embed.html?match=f6lnfs5&server=3
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 16:15 - Valencia vs Barcelona [FHD]
+https://august.ppvtv.icu/embed.html?match=f6lnfs5&server=4
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 16:15 - Valencia vs Barcelona [FHD]
+https://august.ppvtv.icu/embed.html?match=f6lnfs5&server=5
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 16:15 - Valencia vs Barcelona [WHD]
+https://august.ppvtv.icu/embed.html?match=f6lnfs5&server=6
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 16:15 - Valencia vs Barcelona [WHD]
+https://august.ppvtv.icu/embed.html?match=f6lnfs5&server=7
+
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 16:45 - ADO Den Haag vs Fortuna Sittard [GHD]
+https://august.ppvtv.icu/embed.html?match=f1u51cvs&server=0
+
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 16:45 - ADO Den Haag vs Fortuna Sittard [GHD]
+https://august.ppvtv.icu/embed.html?match=f1u51cvs&server=1
+
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 16:45 - ADO Den Haag vs Fortuna Sittard [FHD]
+https://august.ppvtv.icu/embed.html?match=f1u51cvs&server=2
+
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 16:45 - ADO Den Haag vs Fortuna Sittard [FHD]
+https://august.ppvtv.icu/embed.html?match=f1u51cvs&server=3
+
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 16:45 - ADO Den Haag vs Fortuna Sittard [WHD]
+https://august.ppvtv.icu/embed.html?match=f1u51cvs&server=4
+
+#EXTINF:-1 group-title="Football – Eredivisie",Domani 16:45 - ADO Den Haag vs Fortuna Sittard [WHD]
+https://august.ppvtv.icu/embed.html?match=f1u51cvs&server=5
+
+#EXTINF:-1 group-title="Football – Ligue 1",Domani 17:15 - Angers vs Rennes [GHD]
+https://august.ppvtv.icu/embed.html?match=f2d71k3&server=0
+
+#EXTINF:-1 group-title="Football – Ligue 1",Domani 17:15 - Angers vs Rennes [GHD]
+https://august.ppvtv.icu/embed.html?match=f2d71k3&server=1
+
+#EXTINF:-1 group-title="Football – Ligue 1",Domani 17:15 - Angers vs Rennes [FHD]
+https://august.ppvtv.icu/embed.html?match=f2d71k3&server=2
+
+#EXTINF:-1 group-title="Football – Ligue 1",Domani 17:15 - Angers vs Rennes [FHD]
+https://august.ppvtv.icu/embed.html?match=f2d71k3&server=3
+
+#EXTINF:-1 group-title="Football – Ligue 1",Domani 17:15 - Angers vs Rennes [WHD]
+https://august.ppvtv.icu/embed.html?match=f2d71k3&server=4
+
+#EXTINF:-1 group-title="Football – Ligue 1",Domani 17:15 - Angers vs Rennes [WHD]
+https://august.ppvtv.icu/embed.html?match=f2d71k3&server=5
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 17:30 - Arsenal vs Chelsea [GHD]
+https://august.ppvtv.icu/embed.html?match=f12wto7t&server=0
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 17:30 - Arsenal vs Chelsea [GHD]
+https://august.ppvtv.icu/embed.html?match=f12wto7t&server=1
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 17:30 - Arsenal vs Chelsea [FHD]
+https://august.ppvtv.icu/embed.html?match=f12wto7t&server=2
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 17:30 - Arsenal vs Chelsea [FHD]
+https://august.ppvtv.icu/embed.html?match=f12wto7t&server=3
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 17:30 - Arsenal vs Chelsea [WHD]
+https://august.ppvtv.icu/embed.html?match=f12wto7t&server=4
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 17:30 - Arsenal vs Chelsea [WHD]
+https://august.ppvtv.icu/embed.html?match=f12wto7t&server=5
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 17:30 - Dynamo vs Spartak Moscow [FHD]
+https://august.ppvtv.icu/embed.html?match=fi7uccy&server=0
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 17:30 - Dynamo vs Spartak Moscow [FHD]
+https://august.ppvtv.icu/embed.html?match=fi7uccy&server=1
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 17:30 - Dynamo vs Spartak Moscow [WHD]
+https://august.ppvtv.icu/embed.html?match=fi7uccy&server=2
+
+#EXTINF:-1 group-title="Football – Premier League",Domani 17:30 - Dynamo vs Spartak Moscow [WHD]
+https://august.ppvtv.icu/embed.html?match=fi7uccy&server=3
+
+#EXTINF:-1 group-title="Football – Bundesliga",Domani 17:30 - Eintracht Frankfurt vs FC Augsburg [GHD]
+https://august.ppvtv.icu/embed.html?match=fbukq7j&server=0
+
+#EXTINF:-1 group-title="Football – Bundesliga",Domani 17:30 - Eintracht Frankfurt vs FC Augsburg [GHD]
+https://august.ppvtv.icu/embed.html?match=fbukq7j&server=1
+
+#EXTINF:-1 group-title="Football – Bundesliga",Domani 17:30 - Eintracht Frankfurt vs FC Augsburg [FHD]
+https://august.ppvtv.icu/embed.html?match=fbukq7j&server=2
+
+#EXTINF:-1 group-title="Football – Bundesliga",Domani 17:30 - Eintracht Frankfurt vs FC Augsburg [FHD]
+https://august.ppvtv.icu/embed.html?match=fbukq7j&server=3
+
+#EXTINF:-1 group-title="Football – Bundesliga",Domani 17:30 - Eintracht Frankfurt vs FC Augsburg [WHD]
+https://august.ppvtv.icu/embed.html?match=fbukq7j&server=4
+
+#EXTINF:-1 group-title="Football – Bundesliga",Domani 17:30 - Eintracht Frankfurt vs FC Augsburg [WHD]
+https://august.ppvtv.icu/embed.html?match=fbukq7j&server=5
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 18:00 - Bologna vs Sassuolo [GHD]
+https://august.ppvtv.icu/embed.html?match=fekf9cj&server=0
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 18:00 - Bologna vs Sassuolo [GHD]
+https://august.ppvtv.icu/embed.html?match=fekf9cj&server=1
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 18:00 - Bologna vs Sassuolo [FHD]
+https://august.ppvtv.icu/embed.html?match=fekf9cj&server=2
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 18:00 - Bologna vs Sassuolo [FHD]
+https://august.ppvtv.icu/embed.html?match=fekf9cj&server=3
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 18:00 - Bologna vs Sassuolo [FHD]
+https://august.ppvtv.icu/embed.html?match=fekf9cj&server=4
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 18:00 - Bologna vs Sassuolo [FHD]
+https://august.ppvtv.icu/embed.html?match=fekf9cj&server=5
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 18:00 - Bologna vs Sassuolo [WHD]
+https://august.ppvtv.icu/embed.html?match=fekf9cj&server=6
+
+#EXTINF:-1 group-title="Football – Serie A",Domani 18:00 - Bologna vs Sassuolo [WHD]
+https://august.ppvtv.icu/embed.html?match=fekf9cj&server=7
+
+#EXTINF:-1 group-title="Baseball – MLB",Domani 18:10 - Milwaukee Brewers vs Cincinnati Reds [HD]
+https://august.ppvtv.icu/embed.html?match=fejxi8w&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Domani 18:10 - Milwaukee Brewers vs Cincinnati Reds [HD]
+https://august.ppvtv.icu/embed.html?match=fejxi8w&server=1
+
+#EXTINF:-1 group-title="Football – Pro League",Domani 18:15 - Al-Dhafra vs Al Wahda FC [WHD]
+https://august.ppvtv.icu/embed.html?match=f1s17ic0&server=0
+
+#EXTINF:-1 group-title="Football – Pro League",Domani 18:15 - Al-Dhafra vs Al Wahda FC [WHD]
+https://august.ppvtv.icu/embed.html?match=f1s17ic0&server=1
+
+#EXTINF:-1 group-title="Football – Jupiler Pro League",Domani 18:30 - Anderlecht vs Genk [GHD]
+https://august.ppvtv.icu/embed.html?match=ft3rzl9&server=0
+
+#EXTINF:-1 group-title="Football – Jupiler Pro League",Domani 18:30 - Anderlecht vs Genk [GHD]
+https://august.ppvtv.icu/embed.html?match=ft3rzl9&server=1
+
+#EXTINF:-1 group-title="Football – Jupiler Pro League",Domani 18:30 - Anderlecht vs Genk [WHD]
+https://august.ppvtv.icu/embed.html?match=ft3rzl9&server=2
+
+#EXTINF:-1 group-title="Football – Jupiler Pro League",Domani 18:30 - Anderlecht vs Genk [WHD]
+https://august.ppvtv.icu/embed.html?match=ft3rzl9&server=3
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 18:30 - Malaga vs Levante [GHD]
+https://august.ppvtv.icu/embed.html?match=fo2qdkx&server=0
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 18:30 - Malaga vs Levante [GHD]
+https://august.ppvtv.icu/embed.html?match=fo2qdkx&server=1
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 18:30 - Malaga vs Levante [FHD]
+https://august.ppvtv.icu/embed.html?match=fo2qdkx&server=2
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 18:30 - Malaga vs Levante [FHD]
+https://august.ppvtv.icu/embed.html?match=fo2qdkx&server=3
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 18:30 - Malaga vs Levante [FHD]
+https://august.ppvtv.icu/embed.html?match=fo2qdkx&server=4
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 18:30 - Malaga vs Levante [FHD]
+https://august.ppvtv.icu/embed.html?match=fo2qdkx&server=5
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 18:30 - Malaga vs Levante [WHD]
+https://august.ppvtv.icu/embed.html?match=fo2qdkx&server=6
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 18:30 - Malaga vs Levante [WHD]
+https://august.ppvtv.icu/embed.html?match=fo2qdkx&server=7
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 18:30 - Alaves vs Osasuna [GHD]
+https://august.ppvtv.icu/embed.html?match=fmopwcp&server=0
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 18:30 - Alaves vs Osasuna [GHD]
+https://august.ppvtv.icu/embed.html?match=fmopwcp&server=1
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 18:30 - Alaves vs Osasuna [FHD]
+https://august.ppvtv.icu/embed.html?match=fmopwcp&server=2
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 18:30 - Alaves vs Osasuna [FHD]
+https://august.ppvtv.icu/embed.html?match=fmopwcp&server=3
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 18:30 - Alaves vs Osasuna [FHD]
+https://august.ppvtv.icu/embed.html?match=fmopwcp&server=4
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 18:30 - Alaves vs Osasuna [FHD]
+https://august.ppvtv.icu/embed.html?match=fmopwcp&server=5
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 18:30 - Alaves vs Osasuna [WHD]
+https://august.ppvtv.icu/embed.html?match=fmopwcp&server=6
+
+#EXTINF:-1 group-title="Football – La Liga",Domani 18:30 - Alaves vs Osasuna [WHD]
+https://august.ppvtv.icu/embed.html?match=fmopwcp&server=7
+
+#EXTINF:-1 group-title="Baseball – MLB",Domani 19:10 - Atlanta Braves vs Philadelphia Phillies [HD]
+https://august.ppvtv.icu/embed.html?match=f18nej1d&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Domani 19:10 - Atlanta Braves vs Philadelphia Phillies [HD]
+https://august.ppvtv.icu/embed.html?match=f18nej1d&server=1
+
+#EXTINF:-1 group-title="Baseball – MLB",Domani 19:35 - Boston Red Sox vs Baltimore Orioles [HD]
+https://august.ppvtv.icu/embed.html?match=f1szb62q&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Domani 19:35 - Boston Red Sox vs Baltimore Orioles [HD]
+https://august.ppvtv.icu/embed.html?match=f1szb62q&server=1
+
+#EXTINF:-1 group-title="Baseball – MLB",Domani 19:35 - Los Angeles Angels vs Pittsburgh Pirates [HD]
+https://august.ppvtv.icu/embed.html?match=f1n6a23j&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Domani 19:35 - Los Angeles Angels vs Pittsburgh Pirates [HD]
+https://august.ppvtv.icu/embed.html?match=f1n6a23j&server=1
+
+#EXTINF:-1 group-title="Baseball – MLB",Domani 19:40 - Chicago Cubs vs Miami Marlins [HD]
+https://august.ppvtv.icu/embed.html?match=f1jgg5gc&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Domani 19:40 - Chicago Cubs vs Miami Marlins [HD]
+https://august.ppvtv.icu/embed.html?match=f1jgg5gc&server=1
+
+#EXTINF:-1 group-title="Baseball – MLB",Domani 19:40 - Detroit Tigers vs Cleveland Guardians [HD]
+https://august.ppvtv.icu/embed.html?match=fdue037&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Domani 19:40 - Detroit Tigers vs Cleveland Guardians [HD]
+https://august.ppvtv.icu/embed.html?match=fdue037&server=1
+
+#EXTINF:-1 group-title="Baseball – MLB",Domani 19:40 - San Francisco Giants vs New York Mets [HD]
+https://august.ppvtv.icu/embed.html?match=fl9bpae&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Domani 19:40 - San Francisco Giants vs New York Mets [HD]
+https://august.ppvtv.icu/embed.html?match=fl9bpae&server=1

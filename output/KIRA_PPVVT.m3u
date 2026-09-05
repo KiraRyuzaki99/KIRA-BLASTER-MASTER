@@ -1,39 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Cricket – CPL",Oggi 01:00 - Warriors vs Kingsmen [HD]
-https://august.ppvtv.icu/embed.html?match=f1rujqyj&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 01:05 - Boston Red Sox vs Baltimore Orioles [FHD]
-https://august.ppvtv.icu/embed.html?match=f1szb62q&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 01:10 - Chicago Cubs vs Miami Marlins [FHD]
-https://august.ppvtv.icu/embed.html?match=f1jgg5gc&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 01:10 - San Francisco Giants vs New York Mets [FHD]
-https://august.ppvtv.icu/embed.html?match=fl9bpae&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 01:40 - Minnesota Twins vs Chicago White Sox [FHD]
-https://august.ppvtv.icu/embed.html?match=fpz58eq&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 02:05 - Tampa Bay Rays vs Texas Rangers [HD]
-https://august.ppvtv.icu/embed.html?match=fnyuk9&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 02:10 - Arizona Diamondbacks vs Houston Astros [HD]
-https://august.ppvtv.icu/embed.html?match=f97vdcw&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 02:10 - Toronto Blue Jays vs Kansas City Royals [HD]
-https://august.ppvtv.icu/embed.html?match=fjqbura&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 02:40 - St. Louis Cardinals vs Colorado Rockies [HD]
-https://august.ppvtv.icu/embed.html?match=f1r6jjkh&server=0
-
-#EXTINF:-1 group-title="Football – MLS Next Pro",Oggi 02:45 - North Texas vs Real Monarchs [FHD]
-https://august.ppvtv.icu/embed.html?match=fks6pxe&server=0
-
-#EXTINF:-1 group-title="Football – MLS Next Pro",Oggi 02:45 - North Texas vs Real Monarchs [WHD]
-https://august.ppvtv.icu/embed.html?match=fks6pxe&server=1
-
 #EXTINF:-1 group-title="Baseball – MLB",Oggi 04:10 - Washington Nationals vs Los Angeles Dodgers [FHD]
 https://august.ppvtv.icu/embed.html?match=fz7kda2&server=0
 
@@ -43,26 +10,14 @@ https://august.ppvtv.icu/embed.html?match=ffe2tdq&server=0
 #EXTINF:-1 group-title="Football – Liga MX",Oggi 05:00 - FC Juarez vs CF Pachuca [GHD]
 https://august.ppvtv.icu/embed.html?match=fqx3zd7&server=0
 
-#EXTINF:-1 group-title="Football – Liga MX",Oggi 05:00 - FC Juarez vs CF Pachuca [GHD]
+#EXTINF:-1 group-title="Football – Liga MX",Oggi 05:00 - FC Juarez vs CF Pachuca [FHD]
 https://august.ppvtv.icu/embed.html?match=fqx3zd7&server=1
 
-#EXTINF:-1 group-title="Football – Liga MX",Oggi 05:00 - FC Juarez vs CF Pachuca [FHD]
+#EXTINF:-1 group-title="Football – Liga MX",Oggi 05:00 - FC Juarez vs CF Pachuca [WHD]
 https://august.ppvtv.icu/embed.html?match=fqx3zd7&server=2
-
-#EXTINF:-1 group-title="Football – Liga MX",Oggi 05:00 - FC Juarez vs CF Pachuca [FHD]
-https://august.ppvtv.icu/embed.html?match=fqx3zd7&server=3
-
-#EXTINF:-1 group-title="Football – Liga MX",Oggi 05:00 - FC Juarez vs CF Pachuca [WHD]
-https://august.ppvtv.icu/embed.html?match=fqx3zd7&server=4
-
-#EXTINF:-1 group-title="Football – Liga MX",Oggi 05:00 - FC Juarez vs CF Pachuca [WHD]
-https://august.ppvtv.icu/embed.html?match=fqx3zd7&server=5
 
 #EXTINF:-1 group-title="Football – Liga MX Femenil",Oggi 05:00 - Pumas UNAM W vs América W [WHD]
 https://august.ppvtv.icu/embed.html?match=ffqfuaw&server=0
-
-#EXTINF:-1 group-title="Football – Liga MX Femenil",Oggi 05:00 - Pumas UNAM W vs América W [WHD]
-https://august.ppvtv.icu/embed.html?match=ffqfuaw&server=1
 
 #EXTINF:-1 group-title="Football – J1 League",Oggi 12:00 - Avispa Fukuoka vs Mito Hollyhock [FHD]
 https://august.ppvtv.icu/embed.html?match=f1mpaffr&server=0
@@ -994,6 +949,12 @@ https://august.ppvtv.icu/embed.html?match=f2v8gm2&server=6
 #EXTINF:-1 group-title="Football – Eredivisie",Oggi 16:30 - NEC Nijmegen vs Feyenoord [WHD]
 https://august.ppvtv.icu/embed.html?match=f2v8gm2&server=7
 
+#EXTINF:-1 group-title="Football – Primeira Liga",Oggi 16:30 - Estrela vs Famalicao [WHD]
+https://august.ppvtv.icu/embed.html?match=f175pxs2&server=0
+
+#EXTINF:-1 group-title="Football – Primeira Liga",Oggi 16:30 - Estrela vs Famalicao [WHD]
+https://august.ppvtv.icu/embed.html?match=f175pxs2&server=1
+
 #EXTINF:-1 group-title="Football – Ligue 1",Oggi 17:15 - Lens vs Lorient [GHD]
 https://august.ppvtv.icu/embed.html?match=f18rp0rl&server=0
 
@@ -1426,8 +1387,8 @@ https://august.ppvtv.icu/embed.html?match=ffe2tdq&server=0
 #EXTINF:-1 group-title="Baseball – MLB",Domani 03:40 - Athletics vs Seattle Mariners [HD]
 https://august.ppvtv.icu/embed.html?match=ffe2tdq&server=1
 
-#EXTINF:-1 group-title="Tennis – US Open",Passato 17:00 - Arthur Ashe Stadium [FHD]
-https://august.ppvtv.icu/embed.html?match=c1f6jddv&server=0
-
 #EXTINF:-1 group-title="Tennis – US Open",Passato 17:00 - US Open [FHD]
 https://august.ppvtv.icu/embed.html?match=c140xumf&server=0
+
+#EXTINF:-1 group-title="Tennis – US Open",Passato 17:00 - Arthur Ashe Stadium [FHD]
+https://august.ppvtv.icu/embed.html?match=c1f6jddv&server=0

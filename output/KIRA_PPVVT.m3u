@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Football – J1 League",Oggi 12:00 - Avispa Fukuoka vs Mito Hollyhock [FHD]
-https://august.ppvtv.icu/embed.html?match=f1mpaffr&server=0
-
-#EXTINF:-1 group-title="Football – J1 League",Oggi 12:00 - Avispa Fukuoka vs Mito Hollyhock [FHD]
-https://august.ppvtv.icu/embed.html?match=f1mpaffr&server=1
-
-#EXTINF:-1 group-title="Football – J1 League",Oggi 12:00 - Avispa Fukuoka vs Mito Hollyhock [WHD]
-https://august.ppvtv.icu/embed.html?match=f1mpaffr&server=2
-
-#EXTINF:-1 group-title="Football – J1 League",Oggi 12:00 - Avispa Fukuoka vs Mito Hollyhock [WHD]
-https://august.ppvtv.icu/embed.html?match=f1mpaffr&server=3
-
 #EXTINF:-1 group-title="Formula 1 – Formula 1 Practice",Oggi 12:25 - Italian Grand Prix 2026 - Practice 3 [FHD]
 https://august.ppvtv.icu/embed.html?match=c1m7y2lr&server=0
 
@@ -985,6 +973,12 @@ https://august.ppvtv.icu/embed.html?match=f175pxs2&server=0
 #EXTINF:-1 group-title="Football – Primeira Liga",Oggi 16:30 - Estrela vs Famalicao [WHD]
 https://august.ppvtv.icu/embed.html?match=f175pxs2&server=1
 
+#EXTINF:-1 group-title="Tennis – US Open",Oggi 17:00 - US Open [FHD]
+https://august.ppvtv.icu/embed.html?match=c140xumf&server=0
+
+#EXTINF:-1 group-title="Tennis – US Open",Oggi 17:00 - US Open [FHD]
+https://august.ppvtv.icu/embed.html?match=c140xumf&server=1
+
 #EXTINF:-1 group-title="Football – Ligue 1",Oggi 17:15 - Lens vs Lorient [GHD]
 https://august.ppvtv.icu/embed.html?match=f18rp0rl&server=0
 
@@ -1422,3 +1416,9 @@ https://august.ppvtv.icu/embed.html?match=ffe2tdq&server=0
 
 #EXTINF:-1 group-title="Baseball – MLB",Domani 03:40 - Athletics vs Seattle Mariners [HD]
 https://august.ppvtv.icu/embed.html?match=ffe2tdq&server=1
+
+#EXTINF:-1 group-title="Cricket – 3rd ODI",Domani 11:30 - England W vs Ireland W [HD]
+https://august.ppvtv.icu/embed.html?match=f1h75mbg&server=0
+
+#EXTINF:-1 group-title="Cricket – 3rd ODI",Domani 11:30 - England W vs Ireland W [HD]
+https://august.ppvtv.icu/embed.html?match=f1h75mbg&server=1

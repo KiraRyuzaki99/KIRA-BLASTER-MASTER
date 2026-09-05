@@ -3,15 +3,6 @@
 
 # Playlist: Saturday, 05 September 2026
 
-#EXTINF:-1 group-title="Saturday, 05 September 2026 - Formula 3",10:30 - 10:30 [Formula 3] Monza Race 1 [Sky Sports F1 GB] - Canal 7
-https://ch.nexa.st/ch.php?id=7
-
-#EXTINF:-1 group-title="Saturday, 05 September 2026 - Formula 3",10:30 - 10:30 [Formula 3] Monza Race 1 [Sky Sports F1 GB] - Canal 7
-https://s3.kora.st/live?id=7
-
-#EXTINF:-1 group-title="Saturday, 05 September 2026 - Formula 3",10:30 - 10:30 [Formula 3] Monza Race 1 [Sky Sports F1 GB] - Canal 7
-https://playfa.st/ch.php?id=7
-
 #EXTINF:-1 group-title="Saturday, 05 September 2026 - AFL",12:35 - Adelaide Crows VS Western Bulldogs - Canal 82
 https://ch.nexa.st/ch.php?id=82
 
@@ -1076,6 +1067,15 @@ https://s3.kora.st/live?id=53
 
 #EXTINF:-1 group-title="Saturday, 05 September 2026 - France Ligue 1",21:45 - Le Havre VS Brest - Canal 53
 https://playfa.st/ch.php?id=53
+
+#EXTINF:-1 group-title="Saturday, 05 September 2026 - France Ligue 1",21:45 - 21:45 [France Ligue 1] Simulcast [Ligue1+ FR] - Canal 55
+https://ch.nexa.st/ch.php?id=55
+
+#EXTINF:-1 group-title="Saturday, 05 September 2026 - France Ligue 1",21:45 - 21:45 [France Ligue 1] Simulcast [Ligue1+ FR] - Canal 55
+https://s3.kora.st/live?id=55
+
+#EXTINF:-1 group-title="Saturday, 05 September 2026 - France Ligue 1",21:45 - 21:45 [France Ligue 1] Simulcast [Ligue1+ FR] - Canal 55
+https://playfa.st/ch.php?id=55
 
 #EXTINF:-1 group-title="Saturday, 05 September 2026 - Scotland Scottish Premiership",22:00 - St. Mirren VS Celtic - Canal 3
 https://ch.nexa.st/ch.php?id=3

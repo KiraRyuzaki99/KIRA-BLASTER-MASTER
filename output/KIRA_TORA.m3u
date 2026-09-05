@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Other",09:30 - Walker Cup
-https://sportora.ru/watch/walker-cup-atp1000
-
-#EXTINF:-1 group-title="Motor-sports",09:30 - World SBK French Round  🏁
-https://sportora.ru/watch/world-sbk-french-round-game-19996
-
-#EXTINF:-1 group-title="Rugby",09:30 - North Queensland Cowboys vs Canberra Raiders
-https://embed.st/embed/admin/ppv-cowboys-vs-raiders/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Rugby",09:30 - North Queensland Cowboys vs Canberra Raiders
-https://embed.st/embed/admin/ppv-cowboys-vs-raiders/2#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Rugby",11:35 - Cronulla Sharks vs Melbourne Storm
 https://embed.st/embed/admin/ppv-sharks-vs-storm/1#player=clappr&autoplay=true
 
@@ -31,6 +19,21 @@ https://sportora.ru/watch/tondela-vs-porto-b-2512961
 #EXTINF:-1 group-title="Motor-sports",12:30 - 3rd Practice | Autodromo Nazionale Monza |
 https://sportora.ru/watch/3rd-practice-autodromo-nazionale-monza-formula-1-2580
 
+#EXTINF:-1 group-title="Motor-sports",12:30 - Italian Grand Prix Practice 3
+https://embed.st/embed/admin/ppv-italian-grand-prix-qualifying/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Motor-sports",12:30 - Italian Grand Prix Practice 3
+https://embed.st/embed/admin/ppv-italian-grand-prix-qualifying/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Motor-sports",12:30 - Italian Grand Prix Practice 3
+https://embed.st/embed/admin/ppv-italian-grand-prix-qualifying/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Motor-sports",12:30 - Italian Grand Prix Practice 3
+https://embed.st/embed/admin/ppv-italian-grand-prix-qualifying/4#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Motor-sports",12:30 - Italian Grand Prix Practice 3
+https://embed.st/embed/admin/ppv-italian-grand-prix-qualifying/5#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Football",13:00 - Kaiserslautern vs Darmstadt
 https://embed.st/embed/admin/ppv-kaiserslautern-vs-sv-darmstadt-98/1#player=clappr&autoplay=true
 
@@ -48,6 +51,12 @@ https://embed.st/embed/admin/ppv-vf-l-wolfsburg-vs-energie-cottbus/1#player=clap
 
 #EXTINF:-1 group-title="Football",13:00 - Wolfsburg vs Energie Cottbus
 https://embed.st/embed/admin/ppv-vf-l-wolfsburg-vs-energie-cottbus/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Darts",13:00 - ČEZ Czech Darts Open  Day 2
+https://embed.st/embed/admin/ppv-czech-darts-open-day-2-afternoon-session/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Darts",13:00 - ČEZ Czech Darts Open  Day 2
+https://embed.st/embed/admin/ppv-czech-darts-open-day-2-afternoon-session/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",13:30 - Chelsea W vs Aston Villa W
 https://sportora.ru/watch/chelsea-w-vs-aston-villa-w-football-1607664
@@ -78,6 +87,12 @@ https://embed.st/embed/admin/ppv-newcastle-united-vs-afc-bournemouth/1#player=cl
 
 #EXTINF:-1 group-title="Football",13:30 - Newcastle United vs Bournemouth
 https://embed.st/embed/admin/ppv-newcastle-united-vs-afc-bournemouth/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",13:30 - Newcastle United vs Bournemouth
+https://embed.st/embed/admin/ppv-newcastle-united-vs-afc-bournemouth/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",13:30 - Newcastle United vs Bournemouth
+https://embed.st/embed/admin/ppv-newcastle-united-vs-afc-bournemouth/4#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",13:30 - Newcastle United vs Bournemouth
 https://embed.st/embed/golf/948/1#player=clappr&autoplay=true
@@ -139,11 +154,23 @@ https://embed.st/embed/admin/ppv-degerfors-if-vs-halmstads-bk/2#player=clappr&au
 #EXTINF:-1 group-title="Football",15:30 - Multiview : Bundesliga 2026/27
 https://sportora.ru/watch/multiview-bundesliga-202627-game-199555
 
+#EXTINF:-1 group-title="Football",15:30 - 2. Bundesliga Konferenz
+https://embed.st/embed/admin/ppv-2-bundesliga-konferenz/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",15:30 - 2. Bundesliga Konferenz
+https://embed.st/embed/admin/ppv-2-bundesliga-konferenz/2#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Football",15:30 - Paderborn vs Freiburg
 https://embed.st/embed/admin/ppv-sc-paderborn-07-vs-sc-freiburg/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",15:30 - Paderborn vs Freiburg
 https://embed.st/embed/admin/ppv-sc-paderborn-07-vs-sc-freiburg/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",15:30 - Paderborn vs Freiburg
+https://embed.st/embed/admin/ppv-sc-paderborn-07-vs-sc-freiburg/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",15:30 - Paderborn vs Freiburg
+https://embed.st/embed/admin/ppv-sc-paderborn-07-vs-sc-freiburg/4#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",15:30 - Bayer Leverkusen vs Union Berlin
 https://embed.st/embed/admin/ppv-bayer-leverkusen-vs-1-fc-union-berlin/1#player=clappr&autoplay=true
@@ -151,11 +178,23 @@ https://embed.st/embed/admin/ppv-bayer-leverkusen-vs-1-fc-union-berlin/1#player=
 #EXTINF:-1 group-title="Football",15:30 - Bayer Leverkusen vs Union Berlin
 https://embed.st/embed/admin/ppv-bayer-leverkusen-vs-1-fc-union-berlin/2#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Football",15:30 - Bayer Leverkusen vs Union Berlin
+https://embed.st/embed/admin/ppv-bayer-leverkusen-vs-1-fc-union-berlin/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",15:30 - Bayer Leverkusen vs Union Berlin
+https://embed.st/embed/admin/ppv-bayer-leverkusen-vs-1-fc-union-berlin/4#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Football",15:30 - Hoffenheim vs Borussia Dortmund
 https://embed.st/embed/admin/ppv-tsg-hoffenheim-vs-borussia-dortmund/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",15:30 - Hoffenheim vs Borussia Dortmund
 https://embed.st/embed/admin/ppv-tsg-hoffenheim-vs-borussia-dortmund/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",15:30 - Hoffenheim vs Borussia Dortmund
+https://embed.st/embed/admin/ppv-tsg-hoffenheim-vs-borussia-dortmund/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",15:30 - Hoffenheim vs Borussia Dortmund
+https://embed.st/embed/admin/ppv-tsg-hoffenheim-vs-borussia-dortmund/4#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",15:30 - Borussia Mönchengladbach vs Elversberg
 https://embed.st/embed/admin/ppv-borussia-m-nchengladbach-vs-sv-elversberg/1#player=clappr&autoplay=true
@@ -163,11 +202,23 @@ https://embed.st/embed/admin/ppv-borussia-m-nchengladbach-vs-sv-elversberg/1#pla
 #EXTINF:-1 group-title="Football",15:30 - Borussia Mönchengladbach vs Elversberg
 https://embed.st/embed/admin/ppv-borussia-m-nchengladbach-vs-sv-elversberg/2#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Football",15:30 - Borussia Mönchengladbach vs Elversberg
+https://embed.st/embed/admin/ppv-borussia-m-nchengladbach-vs-sv-elversberg/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",15:30 - Borussia Mönchengladbach vs Elversberg
+https://embed.st/embed/admin/ppv-borussia-m-nchengladbach-vs-sv-elversberg/4#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Football",15:30 - Werder Bremen vs RB Leipzig
 https://embed.st/embed/admin/ppv-werder-bremen-vs-rb-leipzig/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",15:30 - Werder Bremen vs RB Leipzig
 https://embed.st/embed/admin/ppv-werder-bremen-vs-rb-leipzig/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",15:30 - Werder Bremen vs RB Leipzig
+https://embed.st/embed/admin/ppv-werder-bremen-vs-rb-leipzig/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",15:30 - Werder Bremen vs RB Leipzig
+https://embed.st/embed/admin/ppv-werder-bremen-vs-rb-leipzig/4#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Rugby",16:00 - Harlequins vs Leicester Tigers
 https://sportora.ru/watch/harlequins-vs-leicester-tigers-rugby-54719
@@ -178,11 +229,11 @@ https://sportora.ru/watch/saracens-vs-northampton-saints-rugby-54720
 #EXTINF:-1 group-title="Motor-sports",16:00 - 1st Qualifying | Autodromo Nazionale Monza |
 https://sportora.ru/watch/1st-qualifying-autodromo-nazionale-monza-formula-1-2683
 
-#EXTINF:-1 group-title="Football",16:00 - QPR vs Middlesbrough
-https://sportora.ru/watch/qpr-vs-middlesbrough-football-1563137
-
 #EXTINF:-1 group-title="Football",16:00 - Sheffield Utd vs Norwich
 https://sportora.ru/watch/sheffield-utd-vs-norwich-football-1563138
+
+#EXTINF:-1 group-title="Football",16:00 - QPR vs Middlesbrough
+https://sportora.ru/watch/qpr-vs-middlesbrough-football-1563137
 
 #EXTINF:-1 group-title="Football",16:00 - Goal Rush : Match week 3
 https://sportora.ru/watch/goal-rush-match-week-3-game-1826262
@@ -262,12 +313,6 @@ https://sportora.ru/watch/northampton-town-vs-newport-county-2500195
 #EXTINF:-1 group-title="Football",16:00 - Bristol Rovers vs Rotherham United
 https://sportora.ru/watch/bristol-rovers-vs-rotherham-united-2500193
 
-#EXTINF:-1 group-title="Football",16:00 - Charleroi vs Union Saint-Gilloise
-https://embed.st/embed/admin/ppv-royal-charleroi-sc-vs-union-st-gilloise/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",16:00 - Charleroi vs Union Saint-Gilloise
-https://embed.st/embed/admin/ppv-royal-charleroi-sc-vs-union-st-gilloise/2#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Football",16:00 - Dundee United vs Falkirk
 https://sportora.ru/watch/dundee-united-vs-falkirk-2494445
 
@@ -319,21 +364,6 @@ https://embed.st/embed/admin/ppv-fulham-vs-crystal-palace/2#player=clappr&autopl
 #EXTINF:-1 group-title="Football",16:00 - Fulham vs Crystal Palace
 https://embed.st/embed/golf/949/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Motor-sports",16:00 - Italian Grand Prix Practice 3
-https://embed.st/embed/admin/ppv-italian-grand-prix-practice-3/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Motor-sports",16:00 - Italian Grand Prix Practice 3
-https://embed.st/embed/admin/ppv-italian-grand-prix-practice-3/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Motor-sports",16:00 - Italian Grand Prix Practice 3
-https://embed.st/embed/admin/ppv-italian-grand-prix-practice-3/3#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Motor-sports",16:00 - Italian Grand Prix Practice 3
-https://embed.st/embed/admin/ppv-italian-grand-prix-practice-3/4#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Motor-sports",16:00 - Italian Grand Prix Practice 3
-https://embed.st/embed/admin/ppv-italian-grand-prix-practice-3/5#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Rugby",16:05 - Bristol vs Gloucester
 https://sportora.ru/watch/bristol-vs-gloucester-rugby-54718
 
@@ -379,7 +409,7 @@ https://sportora.ru/watch/live_cfb_crown-storm-hamline-pipers-live-streaming-592
 #EXTINF:-1 group-title="American-football",17:00 - Stetson vs Webber International
 https://sportora.ru/watch/stetson-vs-webber-international-2598497
 
-#EXTINF:-1 group-title="Rugby",17:05 - South Africa Rugby vs New Zealand Rugby
+#EXTINF:-1 group-title="Rugby",17:10 - South Africa Rugby vs New Zealand Rugby
 https://sportora.ru/watch/south-africa-rugby-vs-new-zealand-rugby-2496232
 
 #EXTINF:-1 group-title="Football",17:15 - Lens vs Lorient
@@ -544,12 +574,6 @@ https://embed.st/embed/admin/ppv-east-carolina-pirates-at-alabama-crimson-tide/2
 #EXTINF:-1 group-title="American-football",18:00 - Alabama vs East Carolina
 https://embed.st/embed/golf/860/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",18:15 - Mechelen vs Westerlo
-https://embed.st/embed/admin/ppv-kv-mechelen-vs-kvc-westerlo/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:15 - Mechelen vs Westerlo
-https://embed.st/embed/admin/ppv-kv-mechelen-vs-kvc-westerlo/2#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Football",18:30 - AD Ceuta FC vs Celta de Vigo II
 https://sportora.ru/watch/ad-ceuta-fc-vs-celta-de-vigo-ii-football-1569906
 
@@ -568,6 +592,12 @@ https://embed.st/embed/admin/ppv-schalke-04-vs-bayern-munich/1#player=clappr&aut
 #EXTINF:-1 group-title="Football",18:30 - Schalke 04 vs Bayern Munich
 https://embed.st/embed/admin/ppv-schalke-04-vs-bayern-munich/2#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Football",18:30 - Schalke 04 vs Bayern Munich
+https://embed.st/embed/admin/ppv-schalke-04-vs-bayern-munich/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:30 - Schalke 04 vs Bayern Munich
+https://embed.st/embed/admin/ppv-schalke-04-vs-bayern-munich/4#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Football",18:30 - Rayo Vallecano vs Racing de Santander
 https://embed.st/embed/admin/ppv-rayo-vallecano-vs-racing-santander/1#player=clappr&autoplay=true
 
@@ -584,7 +614,13 @@ https://embed.st/embed/admin/ppv-hull-city-vs-aston-villa/1#player=clappr&autopl
 https://embed.st/embed/admin/ppv-hull-city-vs-aston-villa/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:30 - Hull City vs Aston Villa
-https://embed.st/embed/golf/954/1#player=clappr&autoplay=true
+https://embed.st/embed/admin/ppv-hull-city-vs-aston-villa/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:30 - Hull City vs Aston Villa
+https://embed.st/embed/admin/ppv-hull-city-vs-aston-villa/4#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:30 - Hull City vs Aston Villa
+https://embed.st/embed/admin/ppv-hull-city-vs-aston-villa/5#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:30 - Aldosivi vs Banfield
 https://sportora.ru/watch/aldosivi-vs-banfield-2398056
@@ -612,6 +648,15 @@ https://embed.st/embed/admin/ppv-fc-utrecht-vs-go-ahead-eagles/2#player=clappr&a
 
 #EXTINF:-1 group-title="American-football",18:45 - South Carolina vs Kent State
 https://embed.st/embed/golf/869/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Other",19:00 - Spomer v Abubakari  ⭐
+https://sportora.ru/watch/ppv-event-03-spomer-v-abubakari-ppv-03
+
+#EXTINF:-1 group-title="Other",19:00 - Glory 109
+https://sportora.ru/watch/ppv-event-04-glory-109-ppv-004
+
+#EXTINF:-1 group-title="Other",19:00 - Real American Freestyle Moscow
+https://sportora.ru/watch/ppv-event-05-real-american-freestyle-moscow-ppv-05
 
 #EXTINF:-1 group-title="Football",19:00 - Maritimo vs Benfica
 https://sportora.ru/watch/maritimo-vs-benfica-football-1575487
@@ -682,6 +727,12 @@ https://sportora.ru/watch/live_cfb_shepherd-rams-frostburg-state-bobcats-live-st
 #EXTINF:-1 group-title="American-football",19:00 - Morehouse Maroon Tigers vs Clark Atlanta Panthers
 https://sportora.ru/watch/live_cfb_morehouse-maroon-tigers-clark-atlanta-panthers-live-streaming-587653488
 
+#EXTINF:-1 group-title="Darts",19:00 - Czech Darts Open | Day 2 - Evening Session
+https://embed.st/embed/admin/ppv-czech-darts-open-day-2-evening-session/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Darts",19:00 - Czech Darts Open | Day 2 - Evening Session
+https://embed.st/embed/admin/ppv-czech-darts-open-day-2-evening-session/2#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Football",19:00 - Fenerbahce vs. Besiktas
 https://embed.st/embed/admin/ppv-fenerbahce-vs-besiktas/1#player=clappr&autoplay=true
 
@@ -700,12 +751,6 @@ https://sportora.ru/watch/fenerbah-e-vs-be-ikta--2527752
 #EXTINF:-1 group-title="Football",19:00 - Alverca vs Braga
 https://sportora.ru/watch/alverca-vs-braga-2513977
 
-#EXTINF:-1 group-title="Darts",19:00 - ČEZ Czech Darts Open  Day 2
-https://embed.st/embed/admin/ppv-czech-darts-open-day-2-afternoon-session/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Darts",19:00 - ČEZ Czech Darts Open  Day 2
-https://embed.st/embed/admin/ppv-czech-darts-open-day-2-afternoon-session/2#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="American-football",19:00 - Colgate vs Holy Cross
 https://sportora.ru/watch/colgate-vs-holy-cross-2593859
 
@@ -717,6 +762,9 @@ https://sportora.ru/watch/kentucky-vs-youngstown-state-2498611
 
 #EXTINF:-1 group-title="American-football",19:00 - Air Force vs Duquesne
 https://sportora.ru/watch/air-force-vs-duquesne-2498606
+
+#EXTINF:-1 group-title="Other",19:30 - Senshi 33
+https://sportora.ru/watch/ppv-event-06-senshi-33-ppv-06
 
 #EXTINF:-1 group-title="American-football",19:30 - Anderson	Ravens vs Allegheny Gators
 https://sportora.ru/watch/live_cfb_andersonravens-allegheny-gators-live-streaming-605731824
@@ -820,6 +868,9 @@ https://sportora.ru/watch/temple-vs-rhode-island-2498613
 #EXTINF:-1 group-title="Football",20:15 - Motor Lublin vs Legia Warsaw
 https://sportora.ru/watch/motor-lublin-vs-legia-warsaw-2490250
 
+#EXTINF:-1 group-title="Other",20:30 - Brave CF Croatia
+https://sportora.ru/watch/ppv-event-07-brave-cf-croatia-ppv-07
+
 #EXTINF:-1 group-title="Football",20:30 - Grasshoppers vs FC Zurich
 https://sportora.ru/watch/grasshoppers-vs-fc-zurich-football-1555385
 
@@ -828,18 +879,6 @@ https://embed.st/embed/admin/ppv-dynamo-dresden-vs-vf-l-bochum/1#player=clappr&a
 
 #EXTINF:-1 group-title="Football",20:30 - Dynamo Dresden vs Bochum
 https://embed.st/embed/admin/ppv-dynamo-dresden-vs-vf-l-bochum/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:45 - Sint-Truiden vs RAAL La Louvière
-https://embed.st/embed/admin/ppv-sint-truidense-vs-raal-la-louvi-re/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:45 - Sint-Truiden vs RAAL La Louvière
-https://embed.st/embed/admin/ppv-sint-truidense-vs-raal-la-louvi-re/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:45 - Standard Liège vs Antwerp
-https://embed.st/embed/admin/ppv-standard-liege-vs-antwerp/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:45 - Standard Liège vs Antwerp
-https://embed.st/embed/admin/ppv-standard-liege-vs-antwerp/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Le Havre vs Brest
 https://embed.st/embed/admin/ppv-le-havre-ac-vs-brest/1#player=clappr&autoplay=true

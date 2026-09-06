@@ -1,17 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Rugby",08:05 - Penrith Panthers vs Wests Tigers
-https://embed.st/embed/admin/ppv-panthers-vs-wests-tigers/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Rugby",08:05 - Penrith Panthers vs Wests Tigers
-https://embed.st/embed/admin/ppv-panthers-vs-wests-tigers/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Motor-sports",09:45 - Italian Feature Race
+https://sportora.ru/watch/italian-feature-race-2409302
 
 #EXTINF:-1 group-title="Other",09:30 - Walker Cup
 https://sportora.ru/watch/walker-cup-atp1000
-
-#EXTINF:-1 group-title="Motor-sports",09:45 - Italian Feature Race
-https://sportora.ru/watch/italian-feature-race-2409302
 
 #EXTINF:-1 group-title="Football",12:00 - Vizela vs Felgueiras
 https://sportora.ru/watch/vizela-vs-felgueiras-2512966
@@ -33,6 +27,12 @@ https://sportora.ru/watch/tottenham-women-vs-west-ham-women-2554328
 
 #EXTINF:-1 group-title="Football",13:00 - Birmingham City vs Wolverhampton Wanderers
 https://embed.st/embed/delta/live_championship_birmingham-wolves-live-streaming-613630512/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Darts",13:00 - ČEZ Czech Darts Open  Day 3
+https://embed.st/embed/admin/ppv-czech-darts-open-day-3-afternoon-session/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Darts",13:00 - ČEZ Czech Darts Open  Day 3
+https://embed.st/embed/admin/ppv-czech-darts-open-day-3-afternoon-session/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",13:30 - VfL Osnabruck vs. TSV Eintracht Braunschweig
 https://embed.st/embed/admin/ppv-vf-l-osnabruck-vs-tsv-eintracht-braunschweig/1#player=clappr&autoplay=true
@@ -325,6 +325,12 @@ https://embed.st/embed/admin/ppv-anderlecht-vs-racing-genk/2#player=clappr&autop
 #EXTINF:-1 group-title="American-football",19:00 - NFL vs RedZone
 https://embed.st/embed/golf/-20260906/1#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Darts",19:00 - Czech Darts Open | Day 3 - Evening Session
+https://embed.st/embed/admin/ppv-czech-darts-open-day-3-evening-session/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Darts",19:00 - Czech Darts Open | Day 3 - Evening Session
+https://embed.st/embed/admin/ppv-czech-darts-open-day-3-evening-session/2#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Football",19:00 - Levadiakos vs Panetolikos
 https://sportora.ru/watch/levadiakos-vs-panetolikos-2539935
 
@@ -339,12 +345,6 @@ https://sportora.ru/watch/vit-ria-de-guimar-es-vs-casa-pia-2513972
 
 #EXTINF:-1 group-title="Football",19:00 - União de Leiria vs Portimonense
 https://sportora.ru/watch/uni-o-de-leiria-vs-portimonense-2512967
-
-#EXTINF:-1 group-title="Darts",19:00 - ČEZ Czech Darts Open  Day 3
-https://embed.st/embed/admin/ppv-czech-darts-open-day-3-afternoon-session/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Darts",19:00 - ČEZ Czech Darts Open  Day 3
-https://embed.st/embed/admin/ppv-czech-darts-open-day-3-afternoon-session/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",19:10 - Philadelphia Phillies vs Atlanta Braves
 https://embed.st/embed/admin/ppv-atlanta-braves-vs-philadelphia-phillies/1#player=clappr&autoplay=true

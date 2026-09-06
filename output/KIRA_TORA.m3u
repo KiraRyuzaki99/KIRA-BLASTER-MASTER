@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Motor-sports",09:45 - Italian Feature Race
-https://sportora.ru/watch/italian-feature-race-2409302
-
-#EXTINF:-1 group-title="Other",09:30 - Walker Cup
-https://sportora.ru/watch/walker-cup-atp1000
-
 #EXTINF:-1 group-title="Football",12:00 - Vizela vs Felgueiras
 https://sportora.ru/watch/vizela-vs-felgueiras-2512966
 
@@ -40,6 +34,12 @@ https://embed.st/embed/admin/ppv-vf-l-osnabruck-vs-tsv-eintracht-braunschweig/1#
 #EXTINF:-1 group-title="Football",13:30 - VfL Osnabruck vs. TSV Eintracht Braunschweig
 https://embed.st/embed/admin/ppv-vf-l-osnabruck-vs-tsv-eintracht-braunschweig/2#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Football",13:30 - 2. Bundesliga Konferenz
+https://embed.st/embed/admin/ppv-2-bundesliga-konferenz/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",13:30 - 2. Bundesliga Konferenz
+https://embed.st/embed/admin/ppv-2-bundesliga-konferenz/2#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Football",13:30 - Würzburger Kickers vs Stuttgart II
 https://sportora.ru/watch/w-rzburger-kickers-vs-stuttgart-ii-2525352
 
@@ -57,12 +57,6 @@ https://embed.st/embed/admin/ppv-hertha-berlin-vs-1-fc-magdeburg/1#player=clappr
 
 #EXTINF:-1 group-title="Football",13:30 - Hertha vs Magdeburg
 https://embed.st/embed/admin/ppv-hertha-berlin-vs-1-fc-magdeburg/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",13:30 - Cercle Brugge vs Gent
-https://embed.st/embed/admin/ppv-cercle-brugge-ksv-vs-kaa-gent/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",13:30 - Cercle Brugge vs Gent
-https://embed.st/embed/admin/ppv-cercle-brugge-ksv-vs-kaa-gent/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",14:00 - Sonderjyske vs AC Horsens
 https://sportora.ru/watch/sonderjyske-vs-ac-horsens-football-1549012
@@ -178,12 +172,6 @@ https://sportora.ru/watch/-orum-vs-ey-pspor-2527758
 #EXTINF:-1 group-title="Football",16:00 - Kasımpaşa vs Amed
 https://sportora.ru/watch/kas-mpa-a-vs-amed-2527755
 
-#EXTINF:-1 group-title="Football",16:00 - Kortrijk vs Zulte Waregem
-https://embed.st/embed/admin/ppv-kv-kortrijk-vs-zulte-waregem/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",16:00 - Kortrijk vs Zulte Waregem
-https://embed.st/embed/admin/ppv-kv-kortrijk-vs-zulte-waregem/2#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Football",16:00 - St Johnstone vs Hibernian
 https://sportora.ru/watch/st-johnstone-vs-hibernian-2494444
 
@@ -289,11 +277,11 @@ https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-cincinnati-reds/2#player=c
 #EXTINF:-1 group-title="Baseball",18:10 - Cincinnati Reds vs Milwaukee Brewers
 https://embed.st/embed/golf/984/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",18:30 - Malaga vs Levante
-https://sportora.ru/watch/malaga-vs-levante-football-1570369
-
 #EXTINF:-1 group-title="Football",18:30 - Alaves vs Osasuna
 https://sportora.ru/watch/alaves-vs-osasuna-football-1570363
+
+#EXTINF:-1 group-title="Football",18:30 - Malaga vs Levante
+https://sportora.ru/watch/malaga-vs-levante-football-1570369
 
 #EXTINF:-1 group-title="Football",18:30 - OFI vs Kifisia
 https://sportora.ru/watch/ofi-vs-kifisia-2539936
@@ -315,12 +303,6 @@ https://embed.st/embed/admin/ppv-m-laga-vs-levante/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:30 - Castellón vs Albacete
 https://sportora.ru/watch/castell-n-vs-albacete-2505746
-
-#EXTINF:-1 group-title="Football",18:30 - Anderlecht vs Genk
-https://embed.st/embed/admin/ppv-anderlecht-vs-racing-genk/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:30 - Anderlecht vs Genk
-https://embed.st/embed/admin/ppv-anderlecht-vs-racing-genk/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="American-football",19:00 - NFL vs RedZone
 https://embed.st/embed/golf/-20260906/1#player=clappr&autoplay=true
@@ -354,12 +336,6 @@ https://embed.st/embed/admin/ppv-atlanta-braves-vs-philadelphia-phillies/2#playe
 
 #EXTINF:-1 group-title="Baseball",19:10 - Philadelphia Phillies vs Atlanta Braves
 https://embed.st/embed/golf/985/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",19:15 - Waasland-Beveren vs. OH Leuven
-https://embed.st/embed/admin/ppv-waasland-beveren-vs-oh-leuven/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",19:15 - Waasland-Beveren vs. OH Leuven
-https://embed.st/embed/admin/ppv-waasland-beveren-vs-oh-leuven/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",19:30 - Fortuna Köln vs Fortuna Düsseldorf
 https://sportora.ru/watch/fortuna-k-ln-vs-fortuna-d-sseldorf-2525357

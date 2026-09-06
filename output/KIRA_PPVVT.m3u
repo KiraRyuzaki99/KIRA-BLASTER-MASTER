@@ -1,41 +1,38 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Football – J1 League",Oggi 11:00 - Kashima vs Urawa [FHD]
-https://august.ppvtv.icu/embed.html?match=f69xe2f&server=0
-
-#EXTINF:-1 group-title="Football – J1 League",Oggi 11:00 - Kashima vs Urawa [WHD]
-https://august.ppvtv.icu/embed.html?match=f69xe2f&server=1
-
-#EXTINF:-1 group-title="Football – J1 League",Oggi 11:00 - Fagiano Okayama vs Sanfrecce Hiroshima [WHD]
-https://august.ppvtv.icu/embed.html?match=f16ihsbl&server=0
-
-#EXTINF:-1 group-title="Football – J1 League",Oggi 11:00 - Nagoya Grampus vs Machida Zelvia [FHD]
-https://august.ppvtv.icu/embed.html?match=f11tj631&server=0
-
-#EXTINF:-1 group-title="Football – J1 League",Oggi 11:00 - Nagoya Grampus vs Machida Zelvia [WHD]
-https://august.ppvtv.icu/embed.html?match=f11tj631&server=1
-
-#EXTINF:-1 group-title="Football – J1 League",Oggi 11:00 - JEF United Chiba vs Gamba Osaka [FHD]
-https://august.ppvtv.icu/embed.html?match=f1guaec3&server=0
-
-#EXTINF:-1 group-title="Football – J1 League",Oggi 11:00 - JEF United Chiba vs Gamba Osaka [WHD]
-https://august.ppvtv.icu/embed.html?match=f1guaec3&server=1
-
 #EXTINF:-1 group-title="Cricket – 3rd ODI",Oggi 11:30 - England W vs Ireland W [FHD]
 https://august.ppvtv.icu/embed.html?match=f1h75mbg&server=0
+
+#EXTINF:-1 group-title="Football – J1 League",Oggi 12:00 - Kawasaki Frontale vs Shimizu S-pulse [FHD]
+https://august.ppvtv.icu/embed.html?match=f8ub3m4&server=0
+
+#EXTINF:-1 group-title="Football – J1 League",Oggi 12:00 - Kawasaki Frontale vs Shimizu S-pulse [FHD]
+https://august.ppvtv.icu/embed.html?match=f8ub3m4&server=1
+
+#EXTINF:-1 group-title="Football – J1 League",Oggi 12:00 - Kawasaki Frontale vs Shimizu S-pulse [WHD]
+https://august.ppvtv.icu/embed.html?match=f8ub3m4&server=2
+
+#EXTINF:-1 group-title="Football – J1 League",Oggi 12:00 - Kawasaki Frontale vs Shimizu S-pulse [WHD]
+https://august.ppvtv.icu/embed.html?match=f8ub3m4&server=3
+
+#EXTINF:-1 group-title="Football – Eredivisie",Oggi 12:15 - Groningen vs Twente [GHD]
+https://august.ppvtv.icu/embed.html?match=f15y2o6c&server=0
+
+#EXTINF:-1 group-title="Football – Eredivisie",Oggi 12:15 - Groningen vs Twente [FHD]
+https://august.ppvtv.icu/embed.html?match=f15y2o6c&server=1
+
+#EXTINF:-1 group-title="Football – Eredivisie",Oggi 12:15 - Groningen vs Twente [FHD]
+https://august.ppvtv.icu/embed.html?match=f15y2o6c&server=2
+
+#EXTINF:-1 group-title="Football – Eredivisie",Oggi 12:15 - Groningen vs Twente [WHD]
+https://august.ppvtv.icu/embed.html?match=f15y2o6c&server=3
 
 #EXTINF:-1 group-title="Football – J1 League",Oggi 12:30 - FC Tokyo vs Kyoto Sanga [FHD]
 https://august.ppvtv.icu/embed.html?match=f17azw30&server=0
 
-#EXTINF:-1 group-title="Football – J1 League",Oggi 12:30 - FC Tokyo vs Kyoto Sanga [FHD]
+#EXTINF:-1 group-title="Football – J1 League",Oggi 12:30 - FC Tokyo vs Kyoto Sanga [WHD]
 https://august.ppvtv.icu/embed.html?match=f17azw30&server=1
-
-#EXTINF:-1 group-title="Football – J1 League",Oggi 12:30 - FC Tokyo vs Kyoto Sanga [WHD]
-https://august.ppvtv.icu/embed.html?match=f17azw30&server=2
-
-#EXTINF:-1 group-title="Football – J1 League",Oggi 12:30 - FC Tokyo vs Kyoto Sanga [WHD]
-https://august.ppvtv.icu/embed.html?match=f17azw30&server=3
 
 #EXTINF:-1 group-title="Football – Premier League",Oggi 13:00 - FC Orenburg vs Akron [FHD]
 https://august.ppvtv.icu/embed.html?match=f1osj8oy&server=0
@@ -46,128 +43,50 @@ https://august.ppvtv.icu/embed.html?match=f1osj8oy&server=1
 #EXTINF:-1 group-title="Football – Premier League",Oggi 13:00 - FC Orenburg vs Akron [WHD]
 https://august.ppvtv.icu/embed.html?match=f1osj8oy&server=2
 
-#EXTINF:-1 group-title="Football – Premier League",Oggi 13:00 - FC Orenburg vs Akron [WHD]
-https://august.ppvtv.icu/embed.html?match=f1osj8oy&server=3
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - VfL Osnabrück vs Eintracht Braunschweig [GHD]
+https://august.ppvtv.icu/embed.html?match=f1n1dwl9&server=0
 
-#EXTINF:-1 group-title="Football – Jupiler Pro League",Oggi 13:30 - Cercle Brugge vs Gent [GHD]
-https://august.ppvtv.icu/embed.html?match=f1yllg3e&server=0
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - VfL Osnabrück vs Eintracht Braunschweig [FHD]
+https://august.ppvtv.icu/embed.html?match=f1n1dwl9&server=1
 
-#EXTINF:-1 group-title="Football – Jupiler Pro League",Oggi 13:30 - Cercle Brugge vs Gent [GHD]
-https://august.ppvtv.icu/embed.html?match=f1yllg3e&server=1
-
-#EXTINF:-1 group-title="Football – Jupiler Pro League",Oggi 13:30 - Cercle Brugge vs Gent [WHD]
-https://august.ppvtv.icu/embed.html?match=f1yllg3e&server=2
-
-#EXTINF:-1 group-title="Football – Jupiler Pro League",Oggi 13:30 - Cercle Brugge vs Gent [WHD]
-https://august.ppvtv.icu/embed.html?match=f1yllg3e&server=3
-
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - SpVgg Greuther Fürth vs 1. FC Heidenheim [GHD]
-https://august.ppvtv.icu/embed.html?match=fxrhktr&server=0
-
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - SpVgg Greuther Fürth vs 1. FC Heidenheim [GHD]
-https://august.ppvtv.icu/embed.html?match=fxrhktr&server=1
-
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - SpVgg Greuther Fürth vs 1. FC Heidenheim [FHD]
-https://august.ppvtv.icu/embed.html?match=fxrhktr&server=2
-
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - SpVgg Greuther Fürth vs 1. FC Heidenheim [FHD]
-https://august.ppvtv.icu/embed.html?match=fxrhktr&server=3
-
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - SpVgg Greuther Fürth vs 1. FC Heidenheim [WHD]
-https://august.ppvtv.icu/embed.html?match=fxrhktr&server=4
-
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - SpVgg Greuther Fürth vs 1. FC Heidenheim [WHD]
-https://august.ppvtv.icu/embed.html?match=fxrhktr&server=5
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - VfL Osnabrück vs Eintracht Braunschweig [WHD]
+https://august.ppvtv.icu/embed.html?match=f1n1dwl9&server=2
 
 #EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - Hertha BSC vs 1. FC Magdeburg [GHD]
 https://august.ppvtv.icu/embed.html?match=fjv7p6f&server=0
 
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - Hertha BSC vs 1. FC Magdeburg [GHD]
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - Hertha BSC vs 1. FC Magdeburg [FHD]
 https://august.ppvtv.icu/embed.html?match=fjv7p6f&server=1
 
 #EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - Hertha BSC vs 1. FC Magdeburg [FHD]
 https://august.ppvtv.icu/embed.html?match=fjv7p6f&server=2
 
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - Hertha BSC vs 1. FC Magdeburg [FHD]
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - Hertha BSC vs 1. FC Magdeburg [WHD]
 https://august.ppvtv.icu/embed.html?match=fjv7p6f&server=3
 
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - Hertha BSC vs 1. FC Magdeburg [WHD]
-https://august.ppvtv.icu/embed.html?match=fjv7p6f&server=4
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - SpVgg Greuther Fürth vs 1. FC Heidenheim [GHD]
+https://august.ppvtv.icu/embed.html?match=fxrhktr&server=0
 
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - Hertha BSC vs 1. FC Magdeburg [WHD]
-https://august.ppvtv.icu/embed.html?match=fjv7p6f&server=5
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - SpVgg Greuther Fürth vs 1. FC Heidenheim [FHD]
+https://august.ppvtv.icu/embed.html?match=fxrhktr&server=1
 
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - VfL Osnabrück vs Eintracht Braunschweig [GHD]
-https://august.ppvtv.icu/embed.html?match=f1n1dwl9&server=0
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - SpVgg Greuther Fürth vs 1. FC Heidenheim [FHD]
+https://august.ppvtv.icu/embed.html?match=fxrhktr&server=2
 
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - VfL Osnabrück vs Eintracht Braunschweig [GHD]
-https://august.ppvtv.icu/embed.html?match=f1n1dwl9&server=1
+#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - SpVgg Greuther Fürth vs 1. FC Heidenheim [WHD]
+https://august.ppvtv.icu/embed.html?match=fxrhktr&server=3
 
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - VfL Osnabrück vs Eintracht Braunschweig [FHD]
-https://august.ppvtv.icu/embed.html?match=f1n1dwl9&server=2
+#EXTINF:-1 group-title="Football – Jupiler Pro League",Oggi 13:30 - Cercle Brugge vs Gent [FHD]
+https://august.ppvtv.icu/embed.html?match=f1yllg3e&server=0
 
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - VfL Osnabrück vs Eintracht Braunschweig [FHD]
-https://august.ppvtv.icu/embed.html?match=f1n1dwl9&server=3
+#EXTINF:-1 group-title="Football – Jupiler Pro League",Oggi 13:30 - Cercle Brugge vs Gent [WHD]
+https://august.ppvtv.icu/embed.html?match=f1yllg3e&server=1
 
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - VfL Osnabrück vs Eintracht Braunschweig [WHD]
-https://august.ppvtv.icu/embed.html?match=f1n1dwl9&server=4
-
-#EXTINF:-1 group-title="Football – 2. Bundesliga",Oggi 13:30 - VfL Osnabrück vs Eintracht Braunschweig [WHD]
-https://august.ppvtv.icu/embed.html?match=f1n1dwl9&server=5
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 14:00 - Belshina vs Neman [WHD]
+#EXTINF:-1 group-title="Football – Premier League",Oggi 14:00 - Belshina vs Neman [FHD]
 https://august.ppvtv.icu/embed.html?match=f1yane2h&server=0
 
 #EXTINF:-1 group-title="Football – Premier League",Oggi 14:00 - Belshina vs Neman [WHD]
 https://august.ppvtv.icu/embed.html?match=f1yane2h&server=1
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 14:30 - Heerenveen vs AZ Alkmaar [GHD]
-https://august.ppvtv.icu/embed.html?match=fejy43&server=0
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 14:30 - Heerenveen vs AZ Alkmaar [GHD]
-https://august.ppvtv.icu/embed.html?match=fejy43&server=1
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 14:30 - Heerenveen vs AZ Alkmaar [FHD]
-https://august.ppvtv.icu/embed.html?match=fejy43&server=2
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 14:30 - Heerenveen vs AZ Alkmaar [FHD]
-https://august.ppvtv.icu/embed.html?match=fejy43&server=3
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 14:30 - Heerenveen vs AZ Alkmaar [FHD]
-https://august.ppvtv.icu/embed.html?match=fejy43&server=4
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 14:30 - Heerenveen vs AZ Alkmaar [FHD]
-https://august.ppvtv.icu/embed.html?match=fejy43&server=5
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 14:30 - Heerenveen vs AZ Alkmaar [WHD]
-https://august.ppvtv.icu/embed.html?match=fejy43&server=6
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 14:30 - Heerenveen vs AZ Alkmaar [WHD]
-https://august.ppvtv.icu/embed.html?match=fejy43&server=7
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 14:30 - Telstar vs Cambuur [GHD]
-https://august.ppvtv.icu/embed.html?match=f1nhohvy&server=0
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 14:30 - Telstar vs Cambuur [GHD]
-https://august.ppvtv.icu/embed.html?match=f1nhohvy&server=1
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 14:30 - Telstar vs Cambuur [FHD]
-https://august.ppvtv.icu/embed.html?match=f1nhohvy&server=2
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 14:30 - Telstar vs Cambuur [FHD]
-https://august.ppvtv.icu/embed.html?match=f1nhohvy&server=3
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 14:30 - Telstar vs Cambuur [WHD]
-https://august.ppvtv.icu/embed.html?match=f1nhohvy&server=4
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 14:30 - Telstar vs Cambuur [WHD]
-https://august.ppvtv.icu/embed.html?match=f1nhohvy&server=5
-
-#EXTINF:-1 group-title="Cycling – La Vuelta",Oggi 14:45 - Vuelta a España, Stage 15 [HD]
-https://august.ppvtv.icu/embed.html?match=ccg108t&server=0
-
-#EXTINF:-1 group-title="Cycling – La Vuelta",Oggi 14:45 - Vuelta a España, Stage 15 [HD]
-https://august.ppvtv.icu/embed.html?match=ccg108t&server=1
 
 #EXTINF:-1 group-title="Formula 1 – Formula 1 Main Race",Oggi 14:55 - Italian Grand Prix 2026 [FHD]
 https://august.ppvtv.icu/embed.html?match=c1lbd196&server=0
@@ -361,6 +280,12 @@ https://august.ppvtv.icu/embed.html?match=fbp6bb4&server=2
 #EXTINF:-1 group-title="Rugby – Premiership",Oggi 16:00 - ST Johnstone vs Hibernian [WHD]
 https://august.ppvtv.icu/embed.html?match=fbp6bb4&server=3
 
+#EXTINF:-1 group-title="Football – Challenger Pro League",Oggi 16:00 - K. Lierse S.K. vs Liège [WHD]
+https://august.ppvtv.icu/embed.html?match=fqs42ut&server=0
+
+#EXTINF:-1 group-title="Football – Challenger Pro League",Oggi 16:00 - K. Lierse S.K. vs Liège [WHD]
+https://august.ppvtv.icu/embed.html?match=fqs42ut&server=1
+
 #EXTINF:-1 group-title="Football – La Liga",Oggi 16:15 - Valencia vs Barcelona [GHD]
 https://august.ppvtv.icu/embed.html?match=f6lnfs5&server=0
 
@@ -408,6 +333,12 @@ https://august.ppvtv.icu/embed.html?match=f1u51cvs&server=4
 
 #EXTINF:-1 group-title="Football – Eredivisie",Oggi 16:45 - ADO Den Haag vs Fortuna Sittard [WHD]
 https://august.ppvtv.icu/embed.html?match=f1u51cvs&server=5
+
+#EXTINF:-1 group-title="Tennis – US Open",Oggi 17:00 - US Open [FHD]
+https://august.ppvtv.icu/embed.html?match=c140xumf&server=0
+
+#EXTINF:-1 group-title="Tennis – US Open",Oggi 17:00 - US Open [FHD]
+https://august.ppvtv.icu/embed.html?match=c140xumf&server=1
 
 #EXTINF:-1 group-title="Football – Ligue 1",Oggi 17:15 - Angers vs Rennes [GHD]
 https://august.ppvtv.icu/embed.html?match=f2d71k3&server=0

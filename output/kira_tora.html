@@ -229,7 +229,7 @@
             
         <div class="event-card">
             <div class="event-info">
-                <h3>Snooker English Open 🎱 <span class="status-next">⏳ PROSSIMO</span></h3>
+                <h3>Snooker English Open 🎱 <span class="status-live">🔴 LIVE</span></h3>
                 <p class="sport-badge">🏆 Other</p>
                 <p class="datetime">🕒 11:00 • 📅 07/09/2026</p>
                 <span class="fonte-badge">📡 Sportora</span>
@@ -625,7 +625,15 @@
                 <span class="fonte-badge">📡 Sportora</span>
             </div>
             <div class="event-links">
-                <a href="https://sportora.ru/watch/nantes-vs-nancy-lorraine-2488742" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+                
+            <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il canale...</option>
+                    <option value="https://embed.st/embed/admin/ppv-nantes-vs-as-nancy-lorraine/1#player=clappr&autoplay=true">Canale 1</option>
+<option value="https://embed.st/embed/admin/ppv-nantes-vs-as-nancy-lorraine/2#player=clappr&autoplay=true">Canale 2</option>
+                </select>
+            </div>
+            
             </div>
         </div>
         

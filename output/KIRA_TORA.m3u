@@ -1,8 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Other",02:10 - World of Outlaws Sprint Cars Husets
-https://sportora.ru/watch/ppv-event-16-world-of-outlaws-sprint-cars-husets-ppv16
+#EXTINF:-1 group-title="Football",03:15 - Toluca vs Monterrey
+https://embed.st/embed/admin/ppv-toluca-vs-monterrey/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",03:15 - Toluca vs Monterrey
+https://embed.st/embed/admin/ppv-toluca-vs-monterrey/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",03:15 - Toluca vs Monterrey
+https://embed.st/embed/admin/ppv-toluca-vs-monterrey/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",03:15 - Toluca vs Monterrey
+https://embed.st/embed/admin/ppv-toluca-vs-monterrey/4#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",02:30 - Racing Club vs Atletico Tucuman
+https://sportora.ru/watch/racing-club-vs-atletico-tucuman-football-1493116
 
 #EXTINF:-1 group-title="Fight",02:00 - WWE Sunday Night
 https://embed.st/embed/delta/live-event_wwe-sunday-night-live-stream/1#player=clappr&autoplay=true
@@ -40,29 +52,11 @@ https://embed.st/embed/delta/live_cfb_ole-miss-louisville-live-streaming-5877023
 #EXTINF:-1 group-title="American-football",01:30 - Ole Miss vs Louisville
 https://embed.st/embed/golf/935/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",01:10 - Deportivo Pereira vs Millonarios
-https://sportora.ru/watch/deportivo-pereira-vs-millonarios-2481173
-
 #EXTINF:-1 group-title="American-football",01:00 - Saskatchewan Roughriders vs Winnipeg Blue Bombers
 https://embed.st/embed/admin/ppv-winnipeg-blue-bombers-at-saskatchewan-roughriders/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="American-football",01:00 - Saskatchewan Roughriders vs Winnipeg Blue Bombers
 https://embed.st/embed/admin/ppv-winnipeg-blue-bombers-at-saskatchewan-roughriders/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",02:30 - Racing Club vs Atletico Tucuman
-https://sportora.ru/watch/racing-club-vs-atletico-tucuman-football-1493116
-
-#EXTINF:-1 group-title="Football",03:15 - Toluca vs Monterrey
-https://embed.st/embed/admin/ppv-toluca-vs-monterrey/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",03:15 - Toluca vs Monterrey
-https://embed.st/embed/admin/ppv-toluca-vs-monterrey/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",03:15 - Toluca vs Monterrey
-https://embed.st/embed/admin/ppv-toluca-vs-monterrey/3#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",03:15 - Toluca vs Monterrey
-https://embed.st/embed/admin/ppv-toluca-vs-monterrey/4#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",04:00 - Cruz Azul vs Santos Laguna
 https://embed.st/embed/admin/ppv-cruz-azul-vs-santos/1#player=clappr&autoplay=true
@@ -75,6 +69,12 @@ https://embed.st/embed/admin/ppv-washington-nationals-vs-los-angeles-dodgers/1#p
 
 #EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs Washington Nationals
 https://embed.st/embed/admin/ppv-washington-nationals-vs-los-angeles-dodgers/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs Washington Nationals
+https://embed.st/embed/delta/live_mlb_dodgers-nationals-live-streaming-594187920/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs Washington Nationals
+https://embed.st/embed/delta/live_mlb_dodgers-nationals-live-streaming-594187920/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs Washington Nationals
 https://embed.st/embed/golf/1004/1#player=clappr&autoplay=true

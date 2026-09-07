@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Football – Serie A",Oggi 16:30 - Cagliari vs. Lecce [Serie A]
+#EXTINF:-1 group-title="Football – Serie A",Oggi 16:30 - Cagliari vs. Lecce [Paramount+]
 https://august.ppvtv.icu/embed.html?match=f1f656ly&server=0
 
-#EXTINF:-1 group-title="Football – LaLiga",Oggi 17:00 - Getafe vs. Celta Vigo [LaLiga]
+#EXTINF:-1 group-title="Football – LaLiga",Oggi 17:00 - Getafe vs. Celta Vigo [ESPN+]
 https://august.ppvtv.icu/embed.html?match=fa459lp&server=0
 
-#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 17:00 - Kalmar FF vs. Djurgården [TV4 Play]
+#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 17:00 - Kalmar FF vs. Djurgården [TV4 Sportkanalen]
 https://august.ppvtv.icu/embed.html?match=fidt5vh&server=0
 
-#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 17:00 - Malmö FF vs. AIK [TV4 Play]
+#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 17:00 - Malmö FF vs. AIK [TV4 Fotboll]
 https://august.ppvtv.icu/embed.html?match=fmhi4tc&server=0
 
-#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 17:00 - Mjällby AIF vs. IFK Göteborg [TV4 Play]
+#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 17:00 - Mjällby AIF vs. IFK Göteborg [TV4 Sport Live 1]
 https://august.ppvtv.icu/embed.html?match=f1iv5g2x&server=0
 
 #EXTINF:-1 group-title="Baseball – MLB",Oggi 17:05 - Atlanta Braves vs. Philadelphia Phillies [NBC 10]
@@ -37,13 +37,16 @@ https://august.ppvtv.icu/embed.html?match=f1jroyl7&server=0
 #EXTINF:-1 group-title="American Football – Canadian Football",Oggi 18:30 - Toronto Argonauts at Hamilton Tiger-Cats [CFL+]
 https://august.ppvtv.icu/embed.html?match=czek4p1&server=0
 
-#EXTINF:-1 group-title="Football – Serie A",Oggi 18:45 - Udinese vs. Lazio [Serie A]
+#EXTINF:-1 group-title="Football – Serie A",Oggi 18:45 - Udinese vs. Lazio [Paramount+]
 https://august.ppvtv.icu/embed.html?match=f4ykpky&server=0
+
+#EXTINF:-1 group-title="Football – Ligue 2",Oggi 18:45 - Nantes vs. AS Nancy Lorraine [beIN SPORTS 1]
+https://august.ppvtv.icu/embed.html?match=f16f7xsn&server=0
 
 #EXTINF:-1 group-title="Baseball – MLB",Oggi 19:10 - Minnesota Twins vs. Detroit Tigers [Tigers.TV]
 https://august.ppvtv.icu/embed.html?match=f1676lxk&server=0
 
-#EXTINF:-1 group-title="Football – LaLiga",Oggi 19:30 - Elche vs. Real Sociedad [LaLiga]
+#EXTINF:-1 group-title="Football – LaLiga",Oggi 19:30 - Elche vs. Real Sociedad [ESPN+]
 https://august.ppvtv.icu/embed.html?match=f12ivpmg&server=0
 
 #EXTINF:-1 group-title="Baseball – MLB",Oggi 21:10 - Washington Nationals vs. San Diego Padres [Padres.TV]

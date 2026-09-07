@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-GENERATORE LIVETV - Adattato per XML con struttura <evento>
+GENERATORE LIVETV - Solo eventi del giorno corrente
 """
 
 import xml.etree.ElementTree as ET
@@ -11,10 +11,10 @@ import re
 
 INPUT_XML = "output/eventos_livetv_sx.xml"
 OUTPUT_HTML = "kira_liv.html"
-OUTPUT_M3U = "KIRA_LIV.m3u"
+OUTPUT_M3U = "LiveTV_playlist.m3u"
 
 def parse_livetv_xml(xml_file):
-    """Legge il file XML di LiveTV con struttura <evento>."""
+    """Legge il file XML di LiveTV con struttura <evento> e filtra solo oggi."""
     events = []
     
     if not os.path.exists(xml_file):
@@ -28,7 +28,24 @@ def parse_livetv_xml(xml_file):
         print(f"❌ Errore nel parsing XML: {e}")
         return events
     
-    # Cerca tutti gli elementi <evento>
+    today = datetime.now().date()
+    today_str = today.strftime('%Y-%m-%d')
+    
+    # Formati data possibili
+    date_formats = [
+        '%Y-%m-%d',
+        '%d/%m/%Y',
+        '%d-%m-%Y',
+        '%d de %B de %Y',
+        '%d de %B',
+        '%B %d, %Y'
+    ]
+    
+    print(f"📅 Filtro: Solo eventi di oggi ({today.strftime('%d/%m/%Y')})")
+    
+    events_found = 0
+    events_skipped = 0
+    
     for evento in root.findall('evento'):
         nombre = evento.find('nombre')
         deporte = evento.find('deporte')
@@ -40,12 +57,39 @@ def parse_livetv_xml(xml_file):
         if nombre is None or not nombre.text:
             continue
         
+        # Estrai data
+        date_str = fecha.text if fecha is not None else ""
+        event_date = None
+        
+        if date_str:
+            # Pulisci la data
+            date_str = date_str.strip()
+            # Rimuovi "de" e "del" per il parsing
+            clean_date = date_str.replace(' de ', ' ').replace(' del ', ' ')
+            
+            for fmt in date_formats:
+                try:
+                    event_date = datetime.strptime(clean_date, fmt).date()
+                    break
+                except:
+                    continue
+        
+        # Se non c'è data, usa oggi come default
+        if event_date is None:
+            event_date = today
+        
+        # FILTRO: Solo eventi di oggi
+        if event_date != today:
+            events_skipped += 1
+            continue
+        
+        events_found += 1
+        
         # Costruisci il titolo
         title = nombre.text.strip()
         
-        # Data e ora
-        date_str = fecha.text if fecha is not None else ""
-        time_str = hora.text if hora is not None else ""
+        # Ora
+        time_str = hora.text if hora is not None else "N/A"
         
         # Competizione
         competition = competicion.text if competicion is not None else "LiveTV"
@@ -57,7 +101,7 @@ def parse_livetv_xml(xml_file):
         if link:
             events.append({
                 'title': title,
-                'date': date_str,
+                'date': date_str or today.strftime('%d/%m/%Y'),
                 'time': time_str,
                 'competition': competition,
                 'sport': sport,
@@ -65,7 +109,8 @@ def parse_livetv_xml(xml_file):
                 'category': 'LiveTV'
             })
     
-    print(f"   Trovati {len(events)} eventi")
+    print(f"   📦 Eventi oggi: {events_found}")
+    print(f"   ⏭️ Eventi scartati (altre date): {events_skipped}")
     return events
 
 def generate_html(events):
@@ -76,59 +121,32 @@ def generate_html(events):
         return f"""<!DOCTYPE html>
 <html>
 <head><meta charset="UTF-8"><title>KIRA LIVETV</title></head>
-<body><h1>Nessun evento trovato</h1></body>
+<body><h1>Nessun evento trovato per oggi</h1></body>
 </html>"""
     
-    # Raggruppa per data
-    events_by_date = {}
-    for event in events:
-        date_key = event.get('date', 'Oggi')
-        if date_key not in events_by_date:
-            events_by_date[date_key] = []
-        events_by_date[date_key].append(event)
+    # Ordina per ora
+    events.sort(key=lambda x: x.get('time', '00:00'))
     
     events_html = ""
-    for date_key, day_events in events_by_date.items():
-        # Ordina per ora
-        day_events.sort(key=lambda x: x.get('time', '00:00'))
+    for event in events:
+        event_display = f"{event.get('time', 'N/A')} - {event['title']} ({event.get('competition', '')})"
         
-        is_today = date_key.lower() in ['oggi', datetime.now().strftime('%d de %B').lower()]
-        today_badge = ' <span style="color: #ff00ff; font-size: 0.7rem;">(OGGI)</span>' if is_today else ''
-        
-        day_events_html = ""
-        for event in day_events:
-            event_display = f"{event.get('time', 'N/A')} - {event['title']} ({event.get('competition', '')})"
-            
-            # Link alla pagina evento
-            url = event.get('url', '#')
-            if url and url != '#':
-                link_html = f'<a href="{url}" class="server-link" target="_blank">▶ Guarda su LiveTV</a>'
-            else:
-                link_html = '<span class="no-link">🔗 Link non disponibile</span>'
-            
-            day_events_html += f'''
-            <div class="event-card">
-                <div class="event-info">
-                    <h3>{event['title']}</h3>
-                    <p class="competition">🏆 {event.get('competition', '')} - {event.get('sport', '')}</p>
-                    <p class="datetime">🕒 {event.get('time', 'N/A')}</p>
-                </div>
-                <div class="event-links">
-                    {link_html}
-                </div>
-            </div>
-            '''
+        # Link alla pagina evento
+        url = event.get('url', '#')
+        if url and url != '#':
+            link_html = f'<a href="{url}" class="server-link" target="_blank">▶ GUARDA IN DIRETTA</a>'
+        else:
+            link_html = '<span class="no-link">🔗 Link non disponibile</span>'
         
         events_html += f'''
-        <div class="day-section">
-            <div class="day-header" onclick="toggleDay(this)">
-                📅 {date_key}{today_badge} <span class="day-arrow">▼</span>
-                <span class="day-count">({len(day_events)} eventi)</span>
+        <div class="event-card">
+            <div class="event-info">
+                <h3>{event['title']}</h3>
+                <p class="competition">🏆 {event.get('competition', '')} - {event.get('sport', '')}</p>
+                <p class="datetime">🕒 {event.get('time', 'N/A')} • 📅 {today}</p>
             </div>
-            <div class="day-content">
-                <div class="events-grid">
-                    {day_events_html}
-                </div>
+            <div class="event-links">
+                {link_html}
             </div>
         </div>
         '''
@@ -160,6 +178,7 @@ def generate_html(events):
         }}
         @keyframes matrixScroll {{ 0% {{ transform: translateY(0); }} 100% {{ transform: translateY(100%); }} }}
         .container {{ max-width: 1200px; margin: 0 auto; padding: 20px; position: relative; z-index: 1; }}
+        
         .header {{
             text-align: center;
             padding: 30px 0 40px;
@@ -177,6 +196,7 @@ def generate_html(events):
             letter-spacing: 4px;
         }}
         .header .subtitle {{ font-family: 'Audiowide', cursive; color: #88ffdd; font-size: 1.2rem; margin-top: 10px; }}
+        
         .event-counter {{
             text-align: center;
             font-family: 'Orbitron', monospace;
@@ -191,34 +211,8 @@ def generate_html(events):
         }}
         .event-counter span {{ font-weight: 900; font-size: 1.5rem; }}
         
-        .day-section {{
-            background: rgba(0, 30, 30, 0.5);
-            border: 1px solid rgba(0, 255, 204, 0.15);
-            border-radius: 15px;
-            margin-bottom: 20px;
-            overflow: hidden;
-        }}
-        .day-header {{
-            font-family: 'Orbitron', sans-serif;
-            font-weight: 700;
-            font-size: 1.2rem;
-            padding: 15px 20px;
-            background: rgba(0, 255, 204, 0.05);
-            cursor: pointer;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            color: #00ffcc;
-        }}
-        .day-header:hover {{ background: rgba(0, 255, 204, 0.1); }}
-        .day-header.active {{ background: rgba(0, 255, 204, 0.15); border-bottom: 1px solid rgba(0, 255, 204, 0.2); }}
-        .day-arrow {{ transition: transform 0.3s ease; font-size: 0.8rem; }}
-        .day-header.active .day-arrow {{ transform: rotate(180deg); }}
-        .day-count {{ font-size: 0.8rem; color: #88ddff; opacity: 0.7; font-weight: 400; }}
-        .day-content {{ max-height: 0; overflow: hidden; transition: max-height 0.5s ease-out; padding: 0 20px; }}
-        .day-content.open {{ max-height: 20000px; padding: 20px; }}
-        
         .events-grid {{ display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 20px; }}
+        
         .event-card {{
             background: rgba(0, 30, 30, 0.7);
             backdrop-filter: blur(10px);
@@ -270,45 +264,34 @@ def generate_html(events):
         .server-link:hover {{ background: #00ddbb; box-shadow: 0 0 40px rgba(0, 255, 204, 0.5); }}
         .no-link {{ display: inline-block; font-family: 'Orbitron', monospace; color: #666; text-align: center; width: 100%; padding: 10px; }}
         
-        .footer {{ text-align: center; padding: 40px 0 20px; margin-top: 40px; border-top: 1px solid rgba(0, 255, 204, 0.2); color: #88ddff; opacity: 0.7; }}
+        .footer {{ text-align: center; padding: 40px 0 20px; margin-top: 60px; border-top: 1px solid rgba(0, 255, 204, 0.2); color: #88ddff; opacity: 0.7; }}
         .footer .neon-text {{ font-family: 'Orbitron', monospace; color: #00ffcc; font-size: 1rem; }}
+        
+        @media (max-width: 768px) {{ .header h1 {{ font-size: 2rem; }} .events-grid {{ grid-template-columns: 1fr; }} .container {{ padding: 15px; }} }}
     </style>
 </head>
 <body>
     <div class="matrix-bg"></div>
     <div class="container">
         <header class="header">
-            <h1>KIRA GATE ACCESS</h1>
+            <h1>⚡ LIVETV ⚡</h1>
             <p class="subtitle">• Eventi di Oggi •</p>
         </header>
+        
         <div style="text-align: center;">
             <div class="event-counter">
-                🎯 <span>{len(events)}</span> eventi disponibili su <span>{len(events_by_date)}</span> giorni
+                🎯 <span>{len(events)}</span> eventi disponibili per oggi
             </div>
         </div>
-        <div id="days-container">
+        
+        <div class="events-grid">
             {events_html}
         </div>
+        
         <footer class="footer">
-            <p class="neon-text">KIRA GSI SPORT • Eventi in Diretta • {datetime.now().year} • Developed by KIRA GSI GROUP</p>
+            <p class="neon-text">🔮 LiveTV • Eventi in diretta • {datetime.now().year} • Powered by KIRA</p>
         </footer>
     </div>
-    <script>
-        function toggleDay(header) {{
-            header.classList.toggle('active');
-            const content = header.nextElementSibling;
-            content.classList.toggle('open');
-        }}
-        document.addEventListener('DOMContentLoaded', function() {{
-            const headers = document.querySelectorAll('.day-header');
-            for (let header of headers) {{
-                if (header.textContent.includes('OGGI')) {{
-                    toggleDay(header);
-                    break;
-                }}
-            }}
-        }});
-    </script>
 </body>
 </html>'''
 
@@ -321,40 +304,32 @@ def generate_m3u(events):
     lines.append('#EXTINF:-1 tvg-logo="",KIRA LIVETV - Playlist')
     lines.append("")
     
-    # Raggruppa per data
-    events_by_date = {}
-    for event in events:
-        date_key = event.get('date', 'Oggi')
-        if date_key not in events_by_date:
-            events_by_date[date_key] = []
-        events_by_date[date_key].append(event)
+    # Ordina per ora
+    events.sort(key=lambda x: x.get('time', '00:00'))
     
-    for date_key, day_events in events_by_date.items():
-        day_events.sort(key=lambda x: x.get('time', '00:00'))
-        lines.append(f"# Playlist: {date_key}")
-        lines.append("")
-        
-        for event in day_events:
-            title = f"{event.get('time', 'N/A')} - {event['title']} ({event.get('competition', '')})"
-            url = event.get('url', '#')
-            if url and url != '#':
-                lines.append(f'#EXTINF:-1 group-title="LiveTV - {date_key}",{title}')
-                lines.append(url)
-                lines.append("")
+    today = datetime.now().strftime('%d/%m/%Y')
+    
+    for event in events:
+        title = f"{event.get('time', 'N/A')} - {event['title']} ({event.get('competition', '')})"
+        url = event.get('url', '#')
+        if url and url != '#':
+            lines.append(f'#EXTINF:-1 group-title="LiveTV - Oggi",{title}')
+            lines.append(url)
+            lines.append("")
     
     return '\n'.join(lines)
 
 def main():
     print("="*50)
-    print("📄 GENERATORE LIVETV - Struttura <evento>")
+    print("📄 GENERATORE LIVETV - Solo eventi di oggi")
     print("="*50)
     
     events = parse_livetv_xml(INPUT_XML)
     
     if not events:
-        print("⚠️ Nessun evento trovato. Creo file vuoti.")
+        print("⚠️ Nessun evento trovato per oggi. Creo file vuoti.")
         with open(OUTPUT_HTML, "w", encoding="utf-8") as f:
-            f.write("<h1>Nessun evento trovato</h1>")
+            f.write("<h1>Nessun evento trovato per oggi</h1>")
         with open(OUTPUT_M3U, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
         return
@@ -369,6 +344,7 @@ def main():
         f.write(m3u_content)
     print(f"   ✅ M3U generato: {OUTPUT_M3U}")
     
+    print(f"\n📊 Totale eventi oggi: {len(events)}")
     print("\n✅ OPERAZIONE COMPLETATA!")
 
 if __name__ == "__main__":

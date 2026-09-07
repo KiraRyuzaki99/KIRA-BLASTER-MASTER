@@ -1,26 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Cricket – CPL",Oggi 01:00 - Tridents vs Kings [FHD]
-https://august.ppvtv.icu/embed.html?match=f1tduxnl&server=0
-
-#EXTINF:-1 group-title="Football – Liga MX Femenil",Oggi 02:06 - Tigres UANL W vs Santos Laguna W [FHD]
-https://august.ppvtv.icu/embed.html?match=fwzz0od&server=0
-
-#EXTINF:-1 group-title="Football – Liga MX Femenil",Oggi 02:06 - Tigres UANL W vs Santos Laguna W [FHD]
-https://august.ppvtv.icu/embed.html?match=fwzz0od&server=1
-
-#EXTINF:-1 group-title="Football – Liga MX Femenil",Oggi 02:06 - Tigres UANL W vs Santos Laguna W [WHD]
-https://august.ppvtv.icu/embed.html?match=fwzz0od&server=2
-
-#EXTINF:-1 group-title="Football – Liga Profesional Argentina",Oggi 02:30 - Racing Club vs Atletico Tucuman [FHD]
-https://august.ppvtv.icu/embed.html?match=f1asqxw3&server=0
-
-#EXTINF:-1 group-title="Football – Liga Profesional Argentina",Oggi 02:30 - Racing Club vs Atletico Tucuman [WHD]
-https://august.ppvtv.icu/embed.html?match=f1asqxw3&server=1
-
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 04:10 - Washington Nationals vs Los Angeles Dodgers [HD]
-https://august.ppvtv.icu/embed.html?match=fivq412&server=0
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 04:10 - Washington Nationals vs Los Angeles Dodgers [FHD]
+https://august.ppvtv.icu/embed.html?match=fzrba0y&server=0
 
 #EXTINF:-1 group-title="Football – Premier League",Oggi 16:00 - FC Isloch Minsk R. vs Arsenal [WHD]
 https://august.ppvtv.icu/embed.html?match=f1ekg5w9&server=0
@@ -70,11 +52,17 @@ https://august.ppvtv.icu/embed.html?match=f2af83t&server=2
 #EXTINF:-1 group-title="Football – La Liga",Oggi 19:00 - Getafe vs Celta Vigo [FHD]
 https://august.ppvtv.icu/embed.html?match=f2af83t&server=3
 
-#EXTINF:-1 group-title="Football – La Liga",Oggi 19:00 - Getafe vs Celta Vigo [WHD]
+#EXTINF:-1 group-title="Football – La Liga",Oggi 19:00 - Getafe vs Celta Vigo [FHD]
 https://august.ppvtv.icu/embed.html?match=f2af83t&server=4
 
-#EXTINF:-1 group-title="Football – La Liga",Oggi 19:00 - Getafe vs Celta Vigo [WHD]
+#EXTINF:-1 group-title="Football – La Liga",Oggi 19:00 - Getafe vs Celta Vigo [FHD]
 https://august.ppvtv.icu/embed.html?match=f2af83t&server=5
+
+#EXTINF:-1 group-title="Football – La Liga",Oggi 19:00 - Getafe vs Celta Vigo [WHD]
+https://august.ppvtv.icu/embed.html?match=f2af83t&server=6
+
+#EXTINF:-1 group-title="Football – La Liga",Oggi 19:00 - Getafe vs Celta Vigo [WHD]
+https://august.ppvtv.icu/embed.html?match=f2af83t&server=7
 
 #EXTINF:-1 group-title="Baseball – MLB",Oggi 19:05 - Atlanta Braves vs Philadelphia Phillies [HD]
 https://august.ppvtv.icu/embed.html?match=f18nej1d&server=0
@@ -106,11 +94,17 @@ https://august.ppvtv.icu/embed.html?match=f7drz&server=0
 #EXTINF:-1 group-title="Baseball – MLB",Oggi 19:35 - Los Angeles Angels vs Boston Red Sox [HD]
 https://august.ppvtv.icu/embed.html?match=f7drz&server=1
 
-#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al-Hilal Saudi FC vs NEOM [WHD]
+#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al-Hilal Saudi FC vs NEOM [FHD]
 https://august.ppvtv.icu/embed.html?match=f1st50xb&server=0
 
-#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al-Hilal Saudi FC vs NEOM [WHD]
+#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al-Hilal Saudi FC vs NEOM [FHD]
 https://august.ppvtv.icu/embed.html?match=f1st50xb&server=1
+
+#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al-Hilal Saudi FC vs NEOM [WHD]
+https://august.ppvtv.icu/embed.html?match=f1st50xb&server=2
+
+#EXTINF:-1 group-title="Football – Pro League",Oggi 20:00 - Al-Hilal Saudi FC vs NEOM [WHD]
+https://august.ppvtv.icu/embed.html?match=f1st50xb&server=3
 
 #EXTINF:-1 group-title="Baseball – MLB",Oggi 20:10 - Arizona Diamondbacks vs Kansas City Royals [HD]
 https://august.ppvtv.icu/embed.html?match=fro0v7w&server=0
@@ -136,6 +130,24 @@ https://august.ppvtv.icu/embed.html?match=f4ykpky&server=2
 #EXTINF:-1 group-title="Football – Serie A",Oggi 20:45 - Udinese vs Lazio [WHD]
 https://august.ppvtv.icu/embed.html?match=f4ykpky&server=3
 
+#EXTINF:-1 group-title="Football – FA Cup",Oggi 20:45 - Redditch United vs Malvern Town [WHD]
+https://august.ppvtv.icu/embed.html?match=f1my2yjf&server=0
+
+#EXTINF:-1 group-title="Football – FA Cup",Oggi 20:45 - Redditch United vs Malvern Town [WHD]
+https://august.ppvtv.icu/embed.html?match=f1my2yjf&server=1
+
+#EXTINF:-1 group-title="Football – FA Cup",Oggi 20:45 - Swindon Supermarine vs Winslow United [WHD]
+https://august.ppvtv.icu/embed.html?match=f18hy8cj&server=0
+
+#EXTINF:-1 group-title="Football – FA Cup",Oggi 20:45 - Swindon Supermarine vs Winslow United [WHD]
+https://august.ppvtv.icu/embed.html?match=f18hy8cj&server=1
+
+#EXTINF:-1 group-title="Football – Canadian Premier League",Oggi 21:00 - HFX Wanderers FC vs Cavalry FC [FHD]
+https://august.ppvtv.icu/embed.html?match=fjy3x6c&server=0
+
+#EXTINF:-1 group-title="Football – Canadian Premier League",Oggi 21:00 - HFX Wanderers FC vs Cavalry FC [FHD]
+https://august.ppvtv.icu/embed.html?match=fjy3x6c&server=1
+
 #EXTINF:-1 group-title="Football – Primeira Liga",Oggi 21:15 - Estoril vs Arouca [FHD]
 https://august.ppvtv.icu/embed.html?match=fbclws4&server=0
 
@@ -160,11 +172,23 @@ https://august.ppvtv.icu/embed.html?match=f1if3wpe&server=2
 #EXTINF:-1 group-title="Football – La Liga",Oggi 21:30 - Elche vs Real Sociedad [FHD]
 https://august.ppvtv.icu/embed.html?match=f1if3wpe&server=3
 
-#EXTINF:-1 group-title="Football – La Liga",Oggi 21:30 - Elche vs Real Sociedad [WHD]
+#EXTINF:-1 group-title="Football – La Liga",Oggi 21:30 - Elche vs Real Sociedad [FHD]
 https://august.ppvtv.icu/embed.html?match=f1if3wpe&server=4
 
-#EXTINF:-1 group-title="Football – La Liga",Oggi 21:30 - Elche vs Real Sociedad [WHD]
+#EXTINF:-1 group-title="Football – La Liga",Oggi 21:30 - Elche vs Real Sociedad [FHD]
 https://august.ppvtv.icu/embed.html?match=f1if3wpe&server=5
+
+#EXTINF:-1 group-title="Football – La Liga",Oggi 21:30 - Elche vs Real Sociedad [WHD]
+https://august.ppvtv.icu/embed.html?match=f1if3wpe&server=6
+
+#EXTINF:-1 group-title="Football – La Liga",Oggi 21:30 - Elche vs Real Sociedad [WHD]
+https://august.ppvtv.icu/embed.html?match=f1if3wpe&server=7
+
+#EXTINF:-1 group-title="Football – MLS Next Pro",Oggi 22:00 - Portland Timbers II vs Vancouver Whitecaps II [WHD]
+https://august.ppvtv.icu/embed.html?match=f1112wwy&server=0
+
+#EXTINF:-1 group-title="Football – MLS Next Pro",Oggi 22:00 - Portland Timbers II vs Vancouver Whitecaps II [WHD]
+https://august.ppvtv.icu/embed.html?match=f1112wwy&server=1
 
 #EXTINF:-1 group-title="Baseball – MLB",Oggi 23:10 - Washington Nationals vs San Diego Padres [HD]
 https://august.ppvtv.icu/embed.html?match=f1x5s388&server=0
@@ -202,11 +226,20 @@ https://august.ppvtv.icu/embed.html?match=fpd3m2p&server=0
 #EXTINF:-1 group-title="Football – Liga Profesional Argentina",Domani 02:15 - Union Santa Fe vs Instituto Cordoba [WHD]
 https://august.ppvtv.icu/embed.html?match=fpd3m2p&server=1
 
+#EXTINF:-1 group-title="Football – Liga MX Femenil",Domani 03:06 - León W vs Puebla W [WHD]
+https://august.ppvtv.icu/embed.html?match=ftbtk0q&server=0
+
+#EXTINF:-1 group-title="Football – Liga MX Femenil",Domani 03:06 - León W vs Puebla W [WHD]
+https://august.ppvtv.icu/embed.html?match=ftbtk0q&server=1
+
 #EXTINF:-1 group-title="Baseball – MLB",Domani 03:10 - Cincinnati Reds vs Los Angeles Dodgers [HD]
 https://august.ppvtv.icu/embed.html?match=fl29z3b&server=0
 
 #EXTINF:-1 group-title="Baseball – MLB",Domani 03:10 - Cincinnati Reds vs Los Angeles Dodgers [HD]
 https://august.ppvtv.icu/embed.html?match=fl29z3b&server=1
 
-#EXTINF:-1 group-title="Tennis – US Open",Passato 17:00 - US Open [FHD]
-https://august.ppvtv.icu/embed.html?match=c140xumf&server=0
+#EXTINF:-1 group-title="Baseball – MLB",Domani 04:05 - Toronto Blue Jays vs Athletics [HD]
+https://august.ppvtv.icu/embed.html?match=f11tawr7&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Domani 04:05 - Toronto Blue Jays vs Athletics [HD]
+https://august.ppvtv.icu/embed.html?match=f11tawr7&server=1

@@ -1,21 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs Washington Nationals
-https://embed.st/embed/admin/ppv-washington-nationals-vs-los-angeles-dodgers/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs Washington Nationals
-https://embed.st/embed/admin/ppv-washington-nationals-vs-los-angeles-dodgers/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs Washington Nationals
-https://embed.st/embed/delta/live_mlb_dodgers-nationals-live-streaming-594187920/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs Washington Nationals
-https://embed.st/embed/delta/live_mlb_dodgers-nationals-live-streaming-594187920/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs Washington Nationals
-https://embed.st/embed/golf/1004/1#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Football",17:00 - Asteras Tripolis vs Iraklis 1908
 https://sportora.ru/watch/asteras-tripolis-vs-iraklis-1908-2539939
 
@@ -80,10 +65,28 @@ https://embed.st/embed/admin/ppv-atlanta-braves-vs-philadelphia-phillies/2#playe
 https://embed.st/embed/golf/1005/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",19:10 - Miami Marlins vs New York Mets
+https://embed.st/embed/admin/ppv-new-york-mets-vs-miami-marlins/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:10 - Miami Marlins vs New York Mets
+https://embed.st/embed/admin/ppv-new-york-mets-vs-miami-marlins/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:10 - Miami Marlins vs New York Mets
 https://embed.st/embed/golf/1006/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",19:35 - Boston Red Sox vs Los Angeles Angels
+https://embed.st/embed/admin/ppv-los-angeles-angels-vs-boston-red-sox/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:35 - Boston Red Sox vs Los Angeles Angels
+https://embed.st/embed/admin/ppv-los-angeles-angels-vs-boston-red-sox/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:35 - Boston Red Sox vs Los Angeles Angels
 https://embed.st/embed/golf/1008/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:35 - Baltimore Orioles vs Cleveland Guardians
+https://embed.st/embed/admin/ppv-cleveland-guardians-vs-baltimore-orioles/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:35 - Baltimore Orioles vs Cleveland Guardians
+https://embed.st/embed/admin/ppv-cleveland-guardians-vs-baltimore-orioles/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",19:35 - Baltimore Orioles vs Cleveland Guardians
 https://embed.st/embed/golf/1007/1#player=clappr&autoplay=true
@@ -92,7 +95,19 @@ https://embed.st/embed/golf/1007/1#player=clappr&autoplay=true
 https://sportora.ru/watch/al-hilal-vs-neom-2573347
 
 #EXTINF:-1 group-title="Baseball",20:10 - Milwaukee Brewers vs Chicago Cubs
+https://embed.st/embed/admin/ppv-chicago-cubs-vs-milwaukee-brewers/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",20:10 - Milwaukee Brewers vs Chicago Cubs
+https://embed.st/embed/admin/ppv-chicago-cubs-vs-milwaukee-brewers/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",20:10 - Milwaukee Brewers vs Chicago Cubs
 https://embed.st/embed/golf/1010/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",20:10 - Kansas City Royals vs Arizona Diamondbacks
+https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-kansas-city-royals/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",20:10 - Kansas City Royals vs Arizona Diamondbacks
+https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-kansas-city-royals/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",20:10 - Kansas City Royals vs Arizona Diamondbacks
 https://embed.st/embed/golf/1009/1#player=clappr&autoplay=true
@@ -125,6 +140,12 @@ https://sportora.ru/watch/bromley-vs-afc-wimbledon-2500756
 https://sportora.ru/watch/hfx-wanderers-vs-cavalry-2427406
 
 #EXTINF:-1 group-title="Baseball",21:10 - Detroit Tigers vs Minnesota Twins
+https://embed.st/embed/admin/ppv-minnesota-twins-vs-detroit-tigers/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",21:10 - Detroit Tigers vs Minnesota Twins
+https://embed.st/embed/admin/ppv-minnesota-twins-vs-detroit-tigers/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",21:10 - Detroit Tigers vs Minnesota Twins
 https://embed.st/embed/golf/1011/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:15 - Estoril Praia vs Arouca
@@ -135,6 +156,12 @@ https://embed.st/embed/admin/ppv-elche-vs-real-sociedad/1#player=clappr&autoplay
 
 #EXTINF:-1 group-title="Football",21:30 - Elche vs Real Sociedad
 https://embed.st/embed/admin/ppv-elche-vs-real-sociedad/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",23:10 - San Diego Padres vs Washington Nationals
+https://embed.st/embed/admin/ppv-washington-nationals-vs-san-diego-padres/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",23:10 - San Diego Padres vs Washington Nationals
+https://embed.st/embed/admin/ppv-washington-nationals-vs-san-diego-padres/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",23:10 - San Diego Padres vs Washington Nationals
 https://embed.st/embed/golf/1012/1#player=clappr&autoplay=true

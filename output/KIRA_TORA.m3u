@@ -1,26 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Other",15:00 - Snooker English Open 🎱
-https://sportora.ru/watch/snooker-english-open-pick3
-
-#EXTINF:-1 group-title="Football",17:00 - Asteras Tripolis vs Iraklis 1908
-https://sportora.ru/watch/asteras-tripolis-vs-iraklis-1908-2539939
-
-#EXTINF:-1 group-title="Football",17:30 - Al-Khaleej vs Al-Riyadh
-https://sportora.ru/watch/al-khaleej-vs-al-riyadh-2573346
-
 #EXTINF:-1 group-title="Football",18:00 - Union Berlin Women vs Eintracht Frankfurt Women
 https://sportora.ru/watch/union-berlin-women-vs-eintracht-frankfurt-women-2539446
 
 #EXTINF:-1 group-title="Football",18:00 - Wieczysta Kraków vs Zagłębie Lubin
 https://sportora.ru/watch/wieczysta-krak-w-vs-zag--bie-lubin-2490251
 
+#EXTINF:-1 group-title="Football",17:30 - Al-Khaleej vs Al-Riyadh
+https://sportora.ru/watch/al-khaleej-vs-al-riyadh-2573346
+
+#EXTINF:-1 group-title="Football",17:00 - Asteras Tripolis vs Iraklis 1908
+https://sportora.ru/watch/asteras-tripolis-vs-iraklis-1908-2539939
+
 #EXTINF:-1 group-title="Football",18:30 - Cagliari vs Lecce
 https://embed.st/embed/admin/ppv-cagliari-vs-lecce/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:30 - Cagliari vs Lecce
 https://embed.st/embed/admin/ppv-cagliari-vs-lecce/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:30 - Cagliari vs Lecce
+https://embed.st/embed/delta/live_serie-a_cagliari-lecce-live-streaming-614103552/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",19:00 - FC Midtjylland vs FC Nordsjaelland
 https://sportora.ru/watch/fc-midtjylland-vs-fc-nordsjaelland-football-1549015
@@ -93,6 +93,9 @@ https://embed.st/embed/admin/ppv-cleveland-guardians-vs-baltimore-orioles/2#play
 
 #EXTINF:-1 group-title="Baseball",19:35 - Baltimore Orioles vs Cleveland Guardians
 https://embed.st/embed/golf/1007/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Other",20:00 - Labor Day Classic Port Royal  🔥
+https://sportora.ru/watch/ppv-event-02-labor-day-classic-port-royal-ppv-02
 
 #EXTINF:-1 group-title="Football",20:00 - Al-Hilal vs Neom
 https://sportora.ru/watch/al-hilal-vs-neom-2573347

@@ -1,6 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
+#EXTINF:-1 group-title="Baseball",03:10 - Los Angeles Dodgers vs Cincinnati Reds
+https://embed.st/embed/admin/ppv-cincinnati-reds-vs-los-angeles-dodgers/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",03:10 - Los Angeles Dodgers vs Cincinnati Reds
+https://embed.st/embed/admin/ppv-cincinnati-reds-vs-los-angeles-dodgers/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",03:10 - Los Angeles Dodgers vs Cincinnati Reds
+https://embed.st/embed/delta/live_mlb_dodgers-reds-live-streaming-594219888/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",03:10 - Los Angeles Dodgers vs Cincinnati Reds
+https://embed.st/embed/delta/live_mlb_dodgers-reds-live-streaming-594219888/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",03:10 - Los Angeles Dodgers vs Cincinnati Reds
+https://embed.st/embed/golf/1015/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",03:00 - Llaneros vs Deportivo Cali
+https://sportora.ru/watch/llaneros-vs-deportivo-cali-2481174
+
 #EXTINF:-1 group-title="Football",02:15 - Union Santa Fe vs Instituto Cordoba
 https://sportora.ru/watch/union-santa-fe-vs-instituto-cordoba-football-1493120
 
@@ -22,9 +40,6 @@ https://embed.st/embed/delta/live-event_monday-night-raw-live-stream/1#player=cl
 #EXTINF:-1 group-title="Fight",02:00 - Monday Night Raw
 https://embed.st/embed/golf/1110/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Other",01:45 - USAC National Midgets Coles County
-https://sportora.ru/watch/ppv-event-04-usac-national-midgets-coles-county-ppv-004
-
 #EXTINF:-1 group-title="American-football",01:30 - Florida State Seminoles vs Southern Methodist Mustangs
 https://embed.st/embed/delta/live_cfb_florida-state-smu-live-streaming-587704464/1#player=clappr&autoplay=true
 
@@ -36,27 +51,6 @@ https://embed.st/embed/admin/ppv-smu-mustangs-at-florida-state-seminoles/2#playe
 
 #EXTINF:-1 group-title="American-football",01:30 - Florida State vs SMU
 https://embed.st/embed/golf/936/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Other",01:00 - STSS Autodrome Granby  ⭐
-https://sportora.ru/watch/ppv-event-03-stss-autodrome-granby-ppv-03
-
-#EXTINF:-1 group-title="Football",01:00 - Vitoria vs Gremio
-https://sportora.ru/watch/vitoria-vs-gremio-football-1492369
-
-#EXTINF:-1 group-title="Football",01:00 - Llaneros vs Deportes Tolima
-https://sportora.ru/watch/llaneros-vs-deportes-tolima-2481134
-
-#EXTINF:-1 group-title="Football",03:00 - Llaneros vs Deportivo Cali
-https://sportora.ru/watch/llaneros-vs-deportivo-cali-2481174
-
-#EXTINF:-1 group-title="Baseball",03:10 - Los Angeles Dodgers vs Cincinnati Reds
-https://embed.st/embed/admin/ppv-cincinnati-reds-vs-los-angeles-dodgers/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:10 - Los Angeles Dodgers vs Cincinnati Reds
-https://embed.st/embed/admin/ppv-cincinnati-reds-vs-los-angeles-dodgers/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:10 - Los Angeles Dodgers vs Cincinnati Reds
-https://embed.st/embed/golf/1015/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",04:05 - Athletics vs Toronto Blue Jays
 https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-athletics/1#player=clappr&autoplay=true
@@ -85,11 +79,11 @@ https://sportora.ru/watch/utrecht-vs-go-ahead-eagles-2489102
 #EXTINF:-1 group-title="Football",15:00 - Lille U19 vs Real Betis U19
 https://sportora.ru/watch/lille-u19-vs-real-betis-u19-football-1637311
 
-#EXTINF:-1 group-title="Football",16:00 - Borussia Dortmund U19 vs Villarreal U19
-https://sportora.ru/watch/borussia-dortmund-u19-vs-villarreal-u19-football-1637309
-
 #EXTINF:-1 group-title="Football",16:00 - Real Madrid U19 vs Internazionale U19
 https://sportora.ru/watch/real-madrid-u19-vs-internazionale-u19-football-1637312
+
+#EXTINF:-1 group-title="Football",16:00 - Borussia Dortmund U19 vs Villarreal U19
+https://sportora.ru/watch/borussia-dortmund-u19-vs-villarreal-u19-football-1637309
 
 #EXTINF:-1 group-title="Football",17:30 - Al-Ettifaq vs Al-Faisaly
 https://sportora.ru/watch/al-ettifaq-vs-al-faisaly-2573348
@@ -125,7 +119,7 @@ https://embed.st/embed/admin/ppv-nec-nijmegen-vs-excelsior/2#player=clappr&autop
 https://sportora.ru/watch/al-qadisiyah-fc-vs-al-ahli-jeddah-football-1603022
 
 #EXTINF:-1 group-title="Football",20:00 - Al-Ittihad vs Al-Fayha
-https://sportora.ru/watch/al-ittihad-vs-al-fayha-2573351
+https://embed.st/embed/delta/live_saudi-pro-league_al-ittihad-al-fayha-live-streaming-614294928/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:00 - Exeter City vs Tottenham Hotspur U21
 https://sportora.ru/watch/exeter-city-vs-tottenham-hotspur-u21-2531843
@@ -153,6 +147,9 @@ https://sportora.ru/watch/bournemouth-vs-lincoln-city-2594453
 
 #EXTINF:-1 group-title="Football",20:45 - Wrexham vs Burnley
 https://sportora.ru/watch/wrexham-vs-burnley-2501320
+
+#EXTINF:-1 group-title="Football",20:45 - Blackburn Rovers vs Sheffield United
+https://sportora.ru/watch/blackburn-rovers-vs-sheffield-united-2501314
 
 #EXTINF:-1 group-title="Football",20:45 - Cardiff City vs Stoke City
 https://sportora.ru/watch/cardiff-city-vs-stoke-city-2501312

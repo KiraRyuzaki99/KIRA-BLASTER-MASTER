@@ -1,17 +1,38 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 19:10 - Minnesota Twins vs. Detroit Tigers [Tigers.TV]
-https://august.ppvtv.icu/embed.html?match=f1676lxk&server=0
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 00:10 - St. Louis Cardinals vs. San Francisco Giants [NBC]
+https://august.ppvtv.icu/embed.html?match=f1s63yes&server=0
 
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 21:10 - Washington Nationals vs. San Diego Padres [Padres.TV]
-https://august.ppvtv.icu/embed.html?match=f1vonlxq&server=0
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 01:10 - Cincinnati Reds vs. Los Angeles Dodgers [SportsNet LA]
+https://august.ppvtv.icu/embed.html?match=fl29z3b&server=0
 
-#EXTINF:-1 group-title="American Football – Canadian Football",Oggi 22:00 - Edmonton Elks at Calgary Stampeders [CFL+]
-https://august.ppvtv.icu/embed.html?match=c1fyj82n&server=0
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 02:05 - Toronto Blue Jays vs. Athletics [NBC Sports CA]
+https://august.ppvtv.icu/embed.html?match=f11tawr7&server=0
 
-#EXTINF:-1 group-title="American Football – College Football",Oggi 23:30 - SMU Mustangs at Florida State Seminoles [ESPN]
-https://august.ppvtv.icu/embed.html?match=c5c3pzp&server=0
+#EXTINF:-1 group-title="Football – Champions League",Oggi 16:45 - AEK Athens vs. LASK Linz [Champions League]
+https://august.ppvtv.icu/embed.html?match=f1g44f9e&server=0
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 16:45 - Club Brugge vs. Aston Villa [Champions League]
+https://august.ppvtv.icu/embed.html?match=fbjw3zr&server=0
+
+#EXTINF:-1 group-title="Football – Eredivisie",Oggi 16:45 - NEC Nijmegen vs. Excelsior [ESPN]
+https://august.ppvtv.icu/embed.html?match=f1gbhes9&server=0
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - Borussia Dortmund vs. Villarreal [Champions League]
+https://august.ppvtv.icu/embed.html?match=fps6cw5&server=0
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - FC Porto vs. Manchester City [Champions League]
+https://august.ppvtv.icu/embed.html?match=f1rmfyn0&server=0
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - Lille vs. Real Betis [Champions League]
+https://august.ppvtv.icu/embed.html?match=frujljh&server=0
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - Real Madrid vs. Inter Milan [Champions League]
+https://august.ppvtv.icu/embed.html?match=f1gnp9xy&server=0
+
+#EXTINF:-1 group-title="Combat Sports – Mixed Martial Arts (MMA)",Oggi 23:00 - Dana White's Contender Series [Paramount+]
+https://august.ppvtv.icu/embed.html?match=c6pokmk&server=0
 
 #EXTINF:-1 group-title="Australian Football – 24/7 channel",Oggi N/A - Fox Footy [Kayo]
 https://august.ppvtv.icu/embed.html?match=c6ykpbg&server=0
@@ -76,9 +97,6 @@ https://august.ppvtv.icu/embed.html?match=c10yqzo0&server=0
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 00:00 - Rally TV [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1ml51ic&server=0
 
-#EXTINF:-1 group-title="Baseball – MLB",Domani 00:10 - St. Louis Cardinals vs. San Francisco Giants [NBC]
-https://august.ppvtv.icu/embed.html?match=f1s63yes&server=0
-
 #EXTINF:-1 group-title="American Football – NFL",Domani 00:15 - Denver Broncos at Kansas City Chiefs [ESPN]
 https://august.ppvtv.icu/embed.html?match=cnieha1&server=0
 
@@ -127,9 +145,6 @@ https://august.ppvtv.icu/embed.html?match=c1se54xr&server=0
 #EXTINF:-1 group-title="Football – Liga MX",Domani 01:07 - Guadalajara vs. Pumas UNAM [Liga MX]
 https://august.ppvtv.icu/embed.html?match=fzjhzvb&server=0
 
-#EXTINF:-1 group-title="Baseball – MLB",Domani 01:10 - Cincinnati Reds vs. Los Angeles Dodgers [SportsNet LA]
-https://august.ppvtv.icu/embed.html?match=fl29z3b&server=0
-
 #EXTINF:-1 group-title="Football – MLS",Domani 01:30 - Colorado Rapids vs. CF Montréal [Apple TV]
 https://august.ppvtv.icu/embed.html?match=f1gzevpq&server=0
 
@@ -138,9 +153,6 @@ https://august.ppvtv.icu/embed.html?match=f294udv&server=0
 
 #EXTINF:-1 group-title="American Football – Canadian Football",Domani 02:00 - Montreal Alouettes at BC Lions [CFL+]
 https://august.ppvtv.icu/embed.html?match=c13k30bb&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Domani 02:05 - Toronto Blue Jays vs. Athletics [NBC Sports CA]
-https://august.ppvtv.icu/embed.html?match=f11tawr7&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Domani 02:15 - Arkansas Razorbacks at Utah Utes [ESPN]
 https://august.ppvtv.icu/embed.html?match=c1q78986&server=0
@@ -361,15 +373,6 @@ https://august.ppvtv.icu/embed.html?match=f19qzi38&server=0
 #EXTINF:-1 group-title="American Football – College Football",Domani 16:45 - Western Kentucky Hilltoppers at Georgia Bulldogs [SEC Network]
 https://august.ppvtv.icu/embed.html?match=c1u88n45&server=0
 
-#EXTINF:-1 group-title="Football – Champions League",Domani 16:45 - AEK Athens vs. LASK Linz [Champions League]
-https://august.ppvtv.icu/embed.html?match=f1g44f9e&server=0
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 16:45 - Club Brugge vs. Aston Villa [Champions League]
-https://august.ppvtv.icu/embed.html?match=fbjw3zr&server=0
-
-#EXTINF:-1 group-title="Football – Eredivisie",Domani 16:45 - NEC Nijmegen vs. Excelsior [ESPN]
-https://august.ppvtv.icu/embed.html?match=f1gbhes9&server=0
-
 #EXTINF:-1 group-title="Football – Champions League",Domani 16:45 - Barcelona vs. Feyenoord Rotterdam [Champions League]
 https://august.ppvtv.icu/embed.html?match=f7nu0og&server=0
 
@@ -478,18 +481,6 @@ https://august.ppvtv.icu/embed.html?match=f575l5y&server=0
 #EXTINF:-1 group-title="Football – Serie A",Domani 18:45 - Inter Milan vs. Udinese [Serie A]
 https://august.ppvtv.icu/embed.html?match=f56x9f6&server=0
 
-#EXTINF:-1 group-title="Football – Champions League",Domani 19:00 - Borussia Dortmund vs. Villarreal [Champions League]
-https://august.ppvtv.icu/embed.html?match=fps6cw5&server=0
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 19:00 - FC Porto vs. Manchester City [Champions League]
-https://august.ppvtv.icu/embed.html?match=f1rmfyn0&server=0
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 19:00 - Lille vs. Real Betis [Champions League]
-https://august.ppvtv.icu/embed.html?match=frujljh&server=0
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 19:00 - Real Madrid vs. Inter Milan [Champions League]
-https://august.ppvtv.icu/embed.html?match=f1gnp9xy&server=0
-
 #EXTINF:-1 group-title="Football – Champions League",Domani 19:00 - Liverpool vs. Atlético Madrid [Champions League]
 https://august.ppvtv.icu/embed.html?match=f2cmh5i&server=0
 
@@ -565,8 +556,14 @@ https://august.ppvtv.icu/embed.html?match=cwmaals&server=0
 #EXTINF:-1 group-title="American Football – NFL",Domani 20:25 - Arizona Cardinals at Los Angeles Chargers [CBS]
 https://august.ppvtv.icu/embed.html?match=c1okpvus&server=0
 
+#EXTINF:-1 group-title="Baseball – MLB",Passato 21:10 - Washington Nationals vs. San Diego Padres [Padres.TV]
+https://august.ppvtv.icu/embed.html?match=f1vonlxq&server=0
+
 #EXTINF:-1 group-title="Football – MLS",Domani 21:30 - Chicago Fire FC vs. New England Revolution [Apple TV]
 https://august.ppvtv.icu/embed.html?match=fii57ls&server=0
+
+#EXTINF:-1 group-title="American Football – Canadian Football",Passato 22:00 - Edmonton Elks at Calgary Stampeders [CFL+]
+https://august.ppvtv.icu/embed.html?match=c1fyj82n&server=0
 
 #EXTINF:-1 group-title="Football – MLS",Domani 22:30 - Vancouver Whitecaps vs. Austin FC [Apple TV]
 https://august.ppvtv.icu/embed.html?match=f5jwvgb&server=0
@@ -583,11 +580,11 @@ https://august.ppvtv.icu/embed.html?match=cz3vxew&server=0
 #EXTINF:-1 group-title="American Football – Canadian Football",Domani 23:00 - Calgary Stampeders at Edmonton Elks [CFL+]
 https://august.ppvtv.icu/embed.html?match=c15ilzgj&server=0
 
-#EXTINF:-1 group-title="Combat Sports – Mixed Martial Arts (MMA)",Domani 23:00 - Dana White's Contender Series [Paramount+]
-https://august.ppvtv.icu/embed.html?match=c6pokmk&server=0
-
 #EXTINF:-1 group-title="Football – Liga MX",Domani 23:00 - Toluca vs. Atlas [Liga MX]
 https://august.ppvtv.icu/embed.html?match=f6yp1gw&server=0
+
+#EXTINF:-1 group-title="American Football – College Football",Passato 23:30 - SMU Mustangs at Florida State Seminoles [ESPN]
+https://august.ppvtv.icu/embed.html?match=c5c3pzp&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Domani 23:30 - Ohio State Buckeyes at Texas Longhorns [ABC]
 https://august.ppvtv.icu/embed.html?match=c1r0v8ln&server=0

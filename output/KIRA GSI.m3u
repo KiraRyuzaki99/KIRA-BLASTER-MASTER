@@ -1,15 +1,33 @@
 #EXTM3U
-#EXTGRP:Brasileirão
-#EXTINF:-1 group-title="Brasileirão",⏳NEXT 09/09 01:00 - Vitória vs Grêmio
-https://streamxhd.com/live1.php?stream=fanatiz2
-#EXTGRP:Copa Colombia
-#EXTINF:-1 group-title="Copa Colombia",⏳NEXT 09/09 03:15 - Atlético Nacional vs Deportivo Cali
-https://streamxhd.com/live1.php?stream=fanatiz5
+#EXTGRP:Carabao Cup
+#EXTINF:-1 group-title="Carabao Cup",⏳NEXT 08/09 20:45 - Crystal Palace vs Middlesbrough
+https://streamxhd.com/live1.php?stream=disney5
+#EXTINF:-1 group-title="Carabao Cup",⏳NEXT 08/09 20:45 - AFC Bournemouth vs Lincoln City
+https://streamxhd.com/live1.php?stream=disney6
+#EXTINF:-1 group-title="Carabao Cup",⏳NEXT 08/09 20:45 - Sunderland vs Hull City
+https://streamxhd.com/live1.php?stream=disney7
+#EXTINF:-1 group-title="Carabao Cup",⏳NEXT 08/09 21:00 - Millwall vs Newcastle United
+https://streamxhd.com/live1.php?stream=disney12
+#EXTGRP:Championship
+#EXTINF:-1 group-title="Championship",⏳NEXT 08/09 21:00 - Bolton Wanderers vs West Ham United
+https://streamxhd.com/live1.php?stream=disney13
+#EXTGRP:Copa Libertadores
+#EXTINF:-1 group-title="Copa Libertadores",⏳NEXT 09/09 00:00 - Fluminense vs Platense
+https://streamxhd.com/live1.php?stream=disney15
 #EXTGRP:Copa Mundial Sub-20 (F)
-#EXTINF:-1 group-title="Copa Mundial Sub-20 (F)",⏳NEXT 08/09 18:00 - España vs Nigeria
-https://streamxhd.com/live1.php?stream=tudnmx
-#EXTINF:-1 group-title="Copa Mundial Sub-20 (F)",⏳NEXT 08/09 18:00 - Costa Rica vs Colombia
+#EXTINF:-1 group-title="Copa Mundial Sub-20 (F)",⏳NEXT 08/09 15:00 - Brasil vs Canadá
 https://streamxhd.com/live1.php?stream=dsports2
+#EXTINF:-1 group-title="Copa Mundial Sub-20 (F)",⏳NEXT 08/09 15:00 - Benín vs Argentina
+https://streamxhd.com/live1.php?stream=dsports
+#EXTINF:-1 group-title="Copa Mundial Sub-20 (F)",⏳NEXT 08/09 18:00 - Inglaterra vs Tanzania
+https://streamxhd.com/live1.php?stream=dsports2
+#EXTINF:-1 group-title="Copa Mundial Sub-20 (F)",⏳NEXT 08/09 18:00 - Polonia vs México
+https://streamxhd.com/live1.php?stream=tudnmx
+#EXTGRP:Copa Sudamericana
+#EXTINF:-1 group-title="Copa Sudamericana",⏳NEXT 09/09 00:00 - Santa Fe vs Vasco da Gama
+https://streamhdx.xyz/channel/?id=dsports
+#EXTINF:-1 group-title="Copa Sudamericana",⏳NEXT 09/09 02:30 - Boca Juniors vs São Paulo
+https://streamxhd.click/channel/?id=espn
 #EXTGRP:Fútbol
 #EXTINF:-1 group-title="Fútbol",✅END 07/09 18:30 - Serie A: Cagliari vs Lecce
 https://streamx061.sbs/global1.php?channel=disney1
@@ -59,77 +77,59 @@ https://streamx061.sbs/global1.php?channel=disney5
 https://streamx061.sbs/global1.php?channel=fanatiz1
 #EXTINF:-1 group-title="Fútbol",✅END 08/09 00:00 - Liga Profesional: Barracas Central vs Argentinos Juniors
 https://streamx061.sbs/global1.php?channel=espnpremium
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 08/09 01:00 - Liga BetPlay: Llaneros vs Deportes Tolima
+#EXTINF:-1 group-title="Fútbol",✅END 08/09 01:00 - Liga BetPlay: Llaneros vs Deportes Tolima
 https://streamx061.sbs/global1.php?channel=fanatiz2
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 08/09 01:00 - Liga BetPlay: Llaneros vs Deportes Tolima
+#EXTINF:-1 group-title="Fútbol",✅END 08/09 01:00 - Liga BetPlay: Llaneros vs Deportes Tolima
 https://streamx061.sbs/global1.php?channel=winplus
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 08/09 01:00 - Primera División: Deportes Limache vs Cobresal
+#EXTINF:-1 group-title="Fútbol",✅END 08/09 01:00 - Primera División: Deportes Limache vs Cobresal
 https://streamx061.sbs/global1.php?channel=tntsportscl
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 08/09 01:00 - Brasileirão: Vitória vs Grêmio
+#EXTINF:-1 group-title="Fútbol",✅END 08/09 01:00 - Brasileirão: Vitória vs Grêmio
 https://streamx061.sbs/global1.php?channel=fanatiz3
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 08/09 01:00 - Brasileirão: Vitória vs Grêmio
+#EXTINF:-1 group-title="Fútbol",✅END 08/09 01:00 - Brasileirão: Vitória vs Grêmio
 https://streamx061.sbs/global1.php?channel=premiere1
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 08/09 01:00 - Brasileirão: Vitória vs Grêmio
+#EXTINF:-1 group-title="Fútbol",✅END 08/09 01:00 - Brasileirão: Vitória vs Grêmio
 https://streamx061.sbs/global1.php?channel=sportv1
-#EXTINF:-1 group-title="Fútbol",⏳NEXT 08/09 02:15 - Liga Profesional: Unión Santa Fe vs Instituto
+#EXTINF:-1 group-title="Fútbol",🔴LIVE 08/09 02:15 - Liga Profesional: Unión Santa Fe vs Instituto
 https://streamx061.sbs/global1.php?channel=fanatiz4
-#EXTINF:-1 group-title="Fútbol",⏳NEXT 08/09 02:15 - Liga Profesional: Unión Santa Fe vs Instituto
+#EXTINF:-1 group-title="Fútbol",🔴LIVE 08/09 02:15 - Liga Profesional: Unión Santa Fe vs Instituto
 https://streamx061.sbs/global1.php?channel=tntar
-#EXTINF:-1 group-title="Fútbol",⏳NEXT 08/09 03:15 - Copa Colombia: Atlético Nacional vs Deportivo Cali
+#EXTINF:-1 group-title="Fútbol",🔴LIVE 08/09 03:15 - Copa Colombia: Atlético Nacional vs Deportivo Cali
 https://streamx061.sbs/global1.php?channel=fanatiz5
-#EXTINF:-1 group-title="Fútbol",⏳NEXT 08/09 03:15 - Copa Colombia: Atlético Nacional vs Deportivo Cali
+#EXTINF:-1 group-title="Fútbol",🔴LIVE 08/09 03:15 - Copa Colombia: Atlético Nacional vs Deportivo Cali
 https://streamx061.sbs/global1.php?channel=winplus
-#EXTGRP:LaLiga
-#EXTINF:-1 group-title="LaLiga",⏳NEXT 08/09 19:00 - Getafe vs Celta de Vigo
-https://streamxhd.com/live1.php?stream=disney2
-#EXTINF:-1 group-title="LaLiga",⏳NEXT 08/09 21:30 - Elche vs Real Sociedad
-https://streamxhd.com/live1.php?stream=disney5
-#EXTGRP:LaLiga Hypermotion
-#EXTINF:-1 group-title="LaLiga Hypermotion",⏳NEXT 08/09 20:30 - Sabadell vs Córdoba
-https://streamxhd.com/live1.php?stream=laligahypermotion
+#EXTGRP:La Vuelta
+#EXTINF:-1 group-title="La Vuelta",⏳NEXT 08/09 14:45 - Etapa #16
+https://streamxhd.com/live1.php?stream=espn2
 #EXTGRP:Liga Arabia Saudita
-#EXTINF:-1 group-title="Liga Arabia Saudita",⏳NEXT 08/09 20:00 - Al Hilal vs NEOM
-https://streamxhd.com/live1.php?stream=foxone
-#EXTGRP:Liga Chile
-#EXTINF:-1 group-title="Liga Chile",⏳NEXT 09/09 01:00 - Deportes Limache vs Cobresal
-https://streamxhd.com/live1.php?stream=tntsportschile
-#EXTGRP:Liga Colombia
-#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 09/09 01:00 - Llaneros vs Deportes Tolima
-https://streamxhd.com/live1.php?stream=fanatiz3
-#EXTGRP:Liga Ecuador
-#EXTINF:-1 group-title="Liga Ecuador",⏳NEXT 09/09 02:00 - Emelec vs Manta
-https://streamxhd.com/live1.php?stream=zapping_ec
-#EXTINF:-1 group-title="Liga Ecuador",⏳NEXT 09/09 02:00 - Mushuc Runa vs Leones del Norte
-https://streamxhd.com/live1.php?stream=evento1
-#EXTINF:-1 group-title="Liga Ecuador",⏳NEXT 09/09 02:00 - Orense vs Guayaquil City
-https://streamxhd.com/live1.php?stream=evento2
-#EXTGRP:Liga Paraguay
-#EXTINF:-1 group-title="Liga Paraguay",⏳NEXT 08/09 21:00 - Guaraní vs Deportivo Recoleta
-https://streamxhd.com/live1.php?stream=tigo1
-#EXTINF:-1 group-title="Liga Paraguay",⏳NEXT 08/09 23:30 - Cerro Porteño vs Nacional Asunción
-https://streamxhd.com/live1.php?stream=tigo1
-#EXTGRP:Liga Profesional
-#EXTINF:-1 group-title="Liga Profesional",⏳NEXT 09/09 00:00 - Barracas Central vs Argentinos Juniors
-https://streamxhd.com/live1.php?stream=espnpremium
-#EXTINF:-1 group-title="Liga Profesional",⏳NEXT 09/09 02:15 - Unión Santa Fe vs Instituto
-https://streamxhd.com/live1.php?stream=tntsports
-#EXTGRP:Liga Uruguay
-#EXTINF:-1 group-title="Liga Uruguay",⏳NEXT 08/09 20:00 - Albion vs Progreso
-https://streamxhd.com/live1.php?stream=disney3
+#EXTINF:-1 group-title="Liga Arabia Saudita",⏳NEXT 08/09 20:00 - Al Quadisiya vs Al-Ahli
+https://streamxhd.com/live1.php?stream=foxone3
+#EXTINF:-1 group-title="Liga Arabia Saudita",⏳NEXT 08/09 20:00 - Al Ittihad vs Al-Fayha
+https://streamxhd.com/live1.php?stream=sporttvbr1
 #EXTGRP:MLB
-#EXTINF:-1 group-title="MLB",⏳NEXT 08/09 20:00 - Milwaukee Brewers vs Chicago Cubs
-https://streamxhd.com/live1.php?stream=espn5
 #EXTINF:-1 group-title="MLB",⏳NEXT 09/09 03:00 - Los Angeles Dodgers vs Cincinnati Reds
 https://streamxhd.com/live1.php?stream=espn3
-#EXTGRP:Serie A
-#EXTINF:-1 group-title="Serie A",⏳NEXT 08/09 18:30 - Cagliari vs Lecce
+#EXTINF:-1 group-title="MLB",⏳NEXT 09/09 03:30 - Seattle Mariners vs Texas Rangers
+https://streamxhd.com/live1.php?stream=espn4
+#EXTGRP:UEFA Champions League
+#EXTINF:-1 group-title="UEFA Champions League",⏳NEXT 08/09 18:45 - AEK Athens vs LASK Linz
+https://streamxhd.com/live1.php?stream=disney3
+#EXTINF:-1 group-title="UEFA Champions League",⏳NEXT 08/09 18:45 - Club Brugge vs Aston Villa
+https://streamxhd.click/channel/?id=espn
+#EXTINF:-1 group-title="UEFA Champions League",⏳NEXT 08/09 21:00 - Real Madrid vs Inter
+https://streamxhd.click/channel/?id=espn
+#EXTINF:-1 group-title="UEFA Champions League",⏳NEXT 08/09 21:00 - Lille vs Real Betis
+https://streamxhd.click/channel/?id=tnt2uk
+#EXTINF:-1 group-title="UEFA Champions League",⏳NEXT 08/09 21:00 - Borussia Dortmund vs Villarreal
+https://streamxhd.click/channel/?id=tnt3uk
+#EXTINF:-1 group-title="UEFA Champions League",⏳NEXT 08/09 21:00 - Porto vs Manchester City
+https://streamxhd.click/channel/?id=espn5
+#EXTGRP:UEFA Youth League Sub-19
+#EXTINF:-1 group-title="UEFA Youth League Sub-19",⏳NEXT 08/09 14:00 - Club Brugge vs Aston Villa
 https://streamxhd.com/live1.php?stream=disney1
-#EXTINF:-1 group-title="Serie A",⏳NEXT 08/09 20:45 - Udinese vs Lazio
-https://streamxhd.com/live1.php?stream=disney4
+#EXTINF:-1 group-title="UEFA Youth League Sub-19",⏳NEXT 08/09 16:00 - Real Madrid vs Inter
+https://streamxhd.com/live1.php?stream=disney2
 #EXTGRP:US Open
-#EXTINF:-1 group-title="US Open",⏳NEXT 08/09 17:00 - Cobertura 2 |Octavos de Final
-https://streamxhd.com/live1.php?stream=espn3
-#EXTINF:-1 group-title="US Open",⏳NEXT 08/09 17:30 - Cobertura 1 |Octavos de Final
+#EXTINF:-1 group-title="US Open",⏳NEXT 08/09 18:00 - Cuartos de Final
 https://streamxhd.com/live1.php?stream=espn2
-#EXTINF:-1 group-title="US Open",⏳NEXT 09/09 01:00 - Cobertura 1 |Octavos de Final
+#EXTINF:-1 group-title="US Open",⏳NEXT 09/09 01:00 - Cuartos de Final
 https://streamxhd.com/live1.php?stream=espn2

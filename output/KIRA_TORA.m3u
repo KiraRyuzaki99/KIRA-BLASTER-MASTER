@@ -1,11 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",17:55 - Al-Hazm vs Al Taawon
-https://sportora.ru/watch/al-hazm-vs-al-taawon-football-1603020
+#EXTINF:-1 group-title="Football",20:00 - Al-Qadisiyah FC vs Al-Ahli Jeddah
+https://sportora.ru/watch/al-qadisiyah-fc-vs-al-ahli-jeddah-football-1603022
 
-#EXTINF:-1 group-title="Football",17:30 - Al-Ettifaq vs Al-Faisaly
-https://sportora.ru/watch/al-ettifaq-vs-al-faisaly-2573348
+#EXTINF:-1 group-title="Football",20:00 - Al-Ittihad vs Al-Fayha
+https://embed.st/embed/delta/live_saudi-pro-league_al-ittihad-al-fayha-live-streaming-614294928/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:00 - Exeter City vs Tottenham Hotspur U21
+https://sportora.ru/watch/exeter-city-vs-tottenham-hotspur-u21-2531843
+
+#EXTINF:-1 group-title="Football",20:00 - Doncaster Rovers vs Huddersfield Town
+https://sportora.ru/watch/doncaster-rovers-vs-huddersfield-town-2531823
 
 #EXTINF:-1 group-title="Football",18:45 - AEK Athens vs LASK
 https://embed.st/embed/admin/ppv-aek-athens-vs-lask-linz/1#player=clappr&autoplay=true
@@ -43,18 +49,6 @@ https://embed.st/embed/admin/ppv-nec-nijmegen-vs-excelsior/1#player=clappr&autop
 #EXTINF:-1 group-title="Football",18:45 - NEC Nijmegen vs Excelsior
 https://embed.st/embed/admin/ppv-nec-nijmegen-vs-excelsior/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",20:00 - Al-Qadisiyah FC vs Al-Ahli Jeddah
-https://sportora.ru/watch/al-qadisiyah-fc-vs-al-ahli-jeddah-football-1603022
-
-#EXTINF:-1 group-title="Football",20:00 - Al-Ittihad vs Al-Fayha
-https://embed.st/embed/delta/live_saudi-pro-league_al-ittihad-al-fayha-live-streaming-614294928/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:00 - Exeter City vs Tottenham Hotspur U21
-https://sportora.ru/watch/exeter-city-vs-tottenham-hotspur-u21-2531843
-
-#EXTINF:-1 group-title="Football",20:00 - Doncaster Rovers vs Huddersfield Town
-https://sportora.ru/watch/doncaster-rovers-vs-huddersfield-town-2531823
-
 #EXTINF:-1 group-title="Football",20:45 - Blackburn vs Sheffield Utd
 https://sportora.ru/watch/blackburn-vs-sheffield-utd-football-1563143
 
@@ -69,6 +63,9 @@ https://embed.st/embed/admin/ppv-sunderland-vs-hull-city/1#player=clappr&autopla
 
 #EXTINF:-1 group-title="Football",20:45 - Sunderland vs Hull City
 https://embed.st/embed/admin/ppv-sunderland-vs-hull-city/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Sunderland vs Hull City
+https://embed.st/embed/delta/live_efl-cup_sunderland-hull-live-streaming-625284576/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Crystal Palace vs Middlesbrough
 https://embed.st/embed/admin/ppv-crystal-palace-vs-middlesbrough/1#player=clappr&autoplay=true
@@ -89,7 +86,7 @@ https://sportora.ru/watch/wrexham-vs-burnley-2501320
 https://embed.st/embed/delta/live_championship_blackburn-sheffield-utd-live-streaming-614288016/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Cardiff City vs Stoke City
-https://sportora.ru/watch/cardiff-city-vs-stoke-city-2501312
+https://embed.st/embed/delta/live_championship_cardiff-stoke-live-streaming-614288880/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Southampton vs Swansea City
 https://sportora.ru/watch/southampton-vs-swansea-city-2501311

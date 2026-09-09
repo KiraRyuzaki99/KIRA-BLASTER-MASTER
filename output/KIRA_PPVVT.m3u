@@ -1,20 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 17:10 - Minnesota Twins vs. Detroit Tigers [Tigers.TV]
-https://august.ppvtv.icu/embed.html?match=f1676lxk&server=0
-
-#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - Liverpool vs. Atlético Madrid [Champions League]
-https://august.ppvtv.icu/embed.html?match=f2cmh5i&server=0
-
-#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - Napoli vs. Arsenal [Champions League]
-https://august.ppvtv.icu/embed.html?match=f1jehkkp&server=0
-
-#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - Paris Saint-Germain vs. Slovan Bratislava [Champions League]
-https://august.ppvtv.icu/embed.html?match=f1dvuw10&server=0
-
-#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - Sporting CP vs. Galatasaray [Champions League]
-https://august.ppvtv.icu/embed.html?match=f1vxouvr&server=0
+#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - The Golazo Show [Paramount+]
+https://august.ppvtv.icu/embed.html?match=c17bw2g0&server=0
 
 #EXTINF:-1 group-title="Baseball – MLB",Oggi 19:05 - Toronto Blue Jays vs. Athletics [NBC Sports CA]
 https://august.ppvtv.icu/embed.html?match=f11tawr7&server=0
@@ -375,6 +363,9 @@ https://august.ppvtv.icu/embed.html?match=cruzf06&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Domani 16:00 - Penn State Nittany Lions at Temple Owls [ESPN2]
 https://august.ppvtv.icu/embed.html?match=cs09mb1&server=0
+
+#EXTINF:-1 group-title="Football – Danish Cup",Domani 16:00 - Sundy vs. FC Midtjylland [Viaplay Sport News]
+https://august.ppvtv.icu/embed.html?match=f1ctikhi&server=0
 
 #EXTINF:-1 group-title="Football – Serie A",Domani 16:00 - Lazio vs. AC Milan [Serie A]
 https://august.ppvtv.icu/embed.html?match=fd55wmm&server=0

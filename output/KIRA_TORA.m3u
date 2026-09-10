@@ -1,20 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",16:45 - Asteras Tripolis vs Aris
-https://sportora.ru/watch/asteras-tripolis-vs-aris-2600186
-
 #EXTINF:-1 group-title="Football",18:00 - Sundby vs FC Midtjylland
 https://embed.st/embed/admin/ppv-sundby-vs-fc-midtjylland/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:00 - Sundby vs FC Midtjylland
 https://embed.st/embed/admin/ppv-sundby-vs-fc-midtjylland/2#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Football",16:45 - Asteras Tripolis vs Aris
+https://sportora.ru/watch/asteras-tripolis-vs-aris-2600186
+
 #EXTINF:-1 group-title="Baseball",18:15 - Atlanta Braves vs Tampa Bay Rays
 https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-atlanta-braves/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",18:15 - Atlanta Braves vs Tampa Bay Rays
 https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-atlanta-braves/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",18:15 - Atlanta Braves vs Tampa Bay Rays
+https://embed.st/embed/delta/live_mlb_braves-rays-live-streaming-594272592/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",18:15 - Atlanta Braves vs Tampa Bay Rays
 https://embed.st/embed/golf/1131/1#player=clappr&autoplay=true

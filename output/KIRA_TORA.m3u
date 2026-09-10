@@ -1,11 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Fight",10:00 - SUPER RIZIN.5
-https://embed.st/embed/admin/ppv-super-rizin-5/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Fight",10:00 - SUPER RIZIN.5
-https://embed.st/embed/delta/live-event_super-rizin-5-live-stream/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Other",14:00 - Snooker English Open 🎱
+https://sportora.ru/watch/snooker-english-open-pick3
 
 #EXTINF:-1 group-title="Football",16:45 - Asteras Tripolis vs Aris
 https://sportora.ru/watch/asteras-tripolis-vs-aris-2600186
@@ -75,6 +72,9 @@ https://embed.st/embed/golf/1132/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:15 - Panathinaikos vs Kifisia
 https://sportora.ru/watch/panathinaikos-vs-kifisia-2539921
+
+#EXTINF:-1 group-title="Rugby",21:00 - Wigan Warriors vs Hull K R
+https://sportora.ru/watch/york-knights-vs-bradford-bulls-game-182283
 
 #EXTINF:-1 group-title="Football",21:00 - ⚽ ⚽ ⚽ Goals Show ⚽ ⚽ ⚽
 https://sportora.ru/watch/goals-show-game-1888922

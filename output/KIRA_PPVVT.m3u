@@ -1,26 +1,62 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Football – Danish Cup",Oggi 16:00 - Sundy vs. FC Midtjylland [Viaplay Sport News]
-https://august.ppvtv.icu/embed.html?match=f1ctikhi&server=0
+#EXTINF:-1 group-title="Combat Sports – Mixed Martial Arts (MMA)",Oggi 08:00 - SUPER RIZIN.5 [RIZIN.TV (Direct)]
+https://august.ppvtv.icu/embed.html?match=c1kbhcaw&server=0
 
-#EXTINF:-1 group-title="Football – Champions League",Oggi 16:45 - Fenerbahce vs. AS Roma [Champions League]
+#EXTINF:-1 group-title="Football – Danish Cup",Oggi 16:00 - Sundby vs. FC Midtjylland [Viaplay Sport News]
+https://august.ppvtv.icu/embed.html?match=ffpen5q&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 16:15 - Tampa Bay Rays vs. Atlanta Braves [BravesVision]
+https://august.ppvtv.icu/embed.html?match=f15c7ow2&server=0
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 16:45 - Fenerbahce vs. AS Roma [TNT Sports 2]
 https://august.ppvtv.icu/embed.html?match=f55m79q&server=0
 
-#EXTINF:-1 group-title="Football – Champions League",Oggi 16:45 - PSV Eindhoven vs. Shakhtar Donetsk [Champions League]
+#EXTINF:-1 group-title="Football – Champions League",Oggi 16:45 - Fenerbahce vs. AS Roma [Paramount+]
+https://august.ppvtv.icu/embed.html?match=f55m79q&server=1
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 16:45 - PSV Eindhoven vs. Shakhtar Donetsk [TNT Sports 3]
 https://august.ppvtv.icu/embed.html?match=f1jx6yub&server=0
 
-#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - Bayern Munich vs. Bodo/Glimt [Champions League]
+#EXTINF:-1 group-title="Football – Champions League",Oggi 16:45 - PSV Eindhoven vs. Shakhtar Donetsk [Paramount+]
+https://august.ppvtv.icu/embed.html?match=f1jx6yub&server=1
+
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 17:05 - Houston Astros vs. Philadelphia Phillies [NBC 10]
+https://august.ppvtv.icu/embed.html?match=fu5v7st&server=0
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - Bayern Munich vs. Bodo/Glimt [TNT Sports 2]
 https://august.ppvtv.icu/embed.html?match=f9wp8x9&server=0
 
-#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - Como vs. RB Leipzig [Champions League]
+#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - Bayern Munich vs. Bodo/Glimt [Paramount+]
+https://august.ppvtv.icu/embed.html?match=f9wp8x9&server=1
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - Como vs. RB Leipzig [TNT Sports 3]
 https://august.ppvtv.icu/embed.html?match=f1h78wlq&server=0
 
-#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - Manchester United vs. Sabah FK [Champions League]
+#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - Como vs. RB Leipzig [Paramount+]
+https://august.ppvtv.icu/embed.html?match=f1h78wlq&server=1
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - Manchester United vs. Sabah FK [TNT Sports 1]
 https://august.ppvtv.icu/embed.html?match=fk7vmh9&server=0
 
-#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - Slavia Prague vs. Lens [Champions League]
+#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - Manchester United vs. Sabah FK [Paramount+]
+https://august.ppvtv.icu/embed.html?match=fk7vmh9&server=1
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - Slavia Prague vs. Lens [Paramount+]
 https://august.ppvtv.icu/embed.html?match=f1k4sbjo&server=0
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - The Golazo Show [Paramount+]
+https://august.ppvtv.icu/embed.html?match=c17bw2g0&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 20:10 - Texas Rangers vs. Seattle Mariners [Mariners.TV]
+https://august.ppvtv.icu/embed.html?match=fr7cvh4&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 23:05 - Colorado Rockies vs. New York Yankees [YES]
+https://august.ppvtv.icu/embed.html?match=f1urgcy2&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 23:40 - Pittsburgh Pirates vs. Chicago White Sox [CHSN]
+https://august.ppvtv.icu/embed.html?match=f1bfg4qn&server=0
 
 #EXTINF:-1 group-title="Australian Football – 24/7 channel",Oggi N/A - Fox Footy [Kayo]
 https://august.ppvtv.icu/embed.html?match=c6ykpbg&server=0
@@ -129,9 +165,6 @@ https://august.ppvtv.icu/embed.html?match=f738q8b&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Domani 03:00 - Louisiana Ragin' Cajuns at USC Trojans [BTN]
 https://august.ppvtv.icu/embed.html?match=c1wvk4uu&server=0
-
-#EXTINF:-1 group-title="Football – Liga MX",Domani 03:00 - Pumas UNAM vs. León [Liga MX]
-https://august.ppvtv.icu/embed.html?match=fzszd1g&server=0
 
 #EXTINF:-1 group-title="Football – Liga MX",Domani 03:00 - Pumas UNAM vs. León [Liga MX]
 https://august.ppvtv.icu/embed.html?match=fzszd1g&server=0

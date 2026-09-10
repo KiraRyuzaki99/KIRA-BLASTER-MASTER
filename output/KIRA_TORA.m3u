@@ -1,41 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",09:30 - Barcelona U19 vs Feyenoord U19
-https://sportora.ru/watch/barcelona-u19-vs-feyenoord-u19-football-1637313
+#EXTINF:-1 group-title="Fight",10:00 - SUPER RIZIN.5
+https://embed.st/embed/admin/ppv-super-rizin-5/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Motor-sports",08:28 - World Rally Championship 2026 - Rally Chile
-https://embed.st/embed/delta/live-event_world-rally-championship-2026-rally-chile-live-stream/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Fight",11:00 - Super RIZIN 5
+#EXTINF:-1 group-title="Fight",10:00 - SUPER RIZIN.5
 https://embed.st/embed/delta/live-event_super-rizin-5-live-stream/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",13:00 - Fenerbahce U19 vs Roma U19
-https://sportora.ru/watch/fenerbahce-u19-vs-roma-u19-football-1637321
-
-#EXTINF:-1 group-title="Football",14:00 - Slavia Praha U19 vs Lens U19
-https://sportora.ru/watch/slavia-praha-u19-vs-lens-u19-football-1637324
-
-#EXTINF:-1 group-title="Football",14:00 - PSV Eindhoven Youth vs Shakhtar Donetsk Youth
-https://sportora.ru/watch/psv-eindhoven-youth-vs-shakhtar-donetsk-youth-2598299
-
-#EXTINF:-1 group-title="Football",15:00 - Como Youth vs RB Leipzig Youth
-https://sportora.ru/watch/como-youth-vs-rb-leipzig-youth-2598300
-
-#EXTINF:-1 group-title="Football",15:00 - Manchester United Youth vs Sabah Baku Youth
-https://sportora.ru/watch/manchester-united-youth-vs-sabah-baku-youth-2598298
-
-#EXTINF:-1 group-title="Football",16:00 - Bayern München U19 vs Bodø / Glimt U19
-https://sportora.ru/watch/bayern-munchen-u19-vs-bodo-glimt-u19-football-1637319
 
 #EXTINF:-1 group-title="Football",16:45 - Asteras Tripolis vs Aris
 https://sportora.ru/watch/asteras-tripolis-vs-aris-2600186
 
-#EXTINF:-1 group-title="Football",18:00 - Sundy vs. FC Midtjylland
-https://embed.st/embed/admin/ppv-sundy-vs-fc-midtjylland/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Football",18:00 - Sundby vs FC Midtjylland
+https://embed.st/embed/admin/ppv-sundby-vs-fc-midtjylland/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",18:00 - Sundy vs. FC Midtjylland
-https://embed.st/embed/admin/ppv-sundy-vs-fc-midtjylland/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Football",18:00 - Sundby vs FC Midtjylland
+https://embed.st/embed/admin/ppv-sundby-vs-fc-midtjylland/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",18:15 - Atlanta Braves vs Tampa Bay Rays
 https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-atlanta-braves/1#player=clappr&autoplay=true
@@ -55,6 +34,12 @@ https://embed.st/embed/admin/ppv-fenerbahce-vs-as-roma/1#player=clappr&autoplay=
 #EXTINF:-1 group-title="Football",18:45 - Fenerbahce vs. AS Roma
 https://embed.st/embed/admin/ppv-fenerbahce-vs-as-roma/2#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Football",18:45 - Fenerbahce vs. AS Roma
+https://embed.st/embed/admin/ppv-fenerbahce-vs-as-roma/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:45 - Fenerbahce vs. AS Roma
+https://embed.st/embed/admin/ppv-fenerbahce-vs-as-roma/4#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Football",18:45 - Fenerbahçe vs Roma
 https://embed.st/embed/golf/1042/1#player=clappr&autoplay=true
 
@@ -68,10 +53,13 @@ https://embed.st/embed/admin/ppv-psv-eindhoven-vs-shakhtar-donetsk/1#player=clap
 https://embed.st/embed/admin/ppv-psv-eindhoven-vs-shakhtar-donetsk/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:45 - PSV Eindhoven vs Shakhtar Donetsk
-https://embed.st/embed/golf/1041/1#player=clappr&autoplay=true
+https://embed.st/embed/admin/ppv-psv-eindhoven-vs-shakhtar-donetsk/3#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:45 - PSV Eindhoven vs Shakhtar Donetsk
-https://embed.st/embed/golf/1041/2#player=clappr&autoplay=true
+https://embed.st/embed/admin/ppv-psv-eindhoven-vs-shakhtar-donetsk/4#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:45 - PSV Eindhoven vs Shakhtar Donetsk
+https://embed.st/embed/golf/1041/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",19:05 - Philadelphia Phillies vs Houston Astros
 https://embed.st/embed/admin/ppv-houston-astros-vs-philadelphia-phillies/1#player=clappr&autoplay=true
@@ -88,8 +76,17 @@ https://embed.st/embed/golf/1132/2#player=clappr&autoplay=true
 #EXTINF:-1 group-title="Football",20:15 - Panathinaikos vs Kifisia
 https://sportora.ru/watch/panathinaikos-vs-kifisia-2539921
 
+#EXTINF:-1 group-title="Football",21:00 - ⚽ ⚽ ⚽ Goals Show ⚽ ⚽ ⚽
+https://sportora.ru/watch/goals-show-game-1888922
+
 #EXTINF:-1 group-title="Football",21:00 - Bayern München vs Bodo/Glimt
 https://sportora.ru/watch/bayern-munchen-vs-bodoglimt-football-1635632
+
+#EXTINF:-1 group-title="Football",21:00 - The Golazo Show
+https://embed.st/embed/admin/ppv-the-golazo-show/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - The Golazo Show
+https://embed.st/embed/admin/ppv-the-golazo-show/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Como vs RB Leipzig
 https://embed.st/embed/admin/ppv-como-vs-rb-leipzig/1#player=clappr&autoplay=true
@@ -98,10 +95,13 @@ https://embed.st/embed/admin/ppv-como-vs-rb-leipzig/1#player=clappr&autoplay=tru
 https://embed.st/embed/admin/ppv-como-vs-rb-leipzig/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Como vs RB Leipzig
-https://embed.st/embed/golf/1046/1#player=clappr&autoplay=true
+https://embed.st/embed/admin/ppv-como-vs-rb-leipzig/3#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Como vs RB Leipzig
-https://embed.st/embed/golf/1046/2#player=clappr&autoplay=true
+https://embed.st/embed/admin/ppv-como-vs-rb-leipzig/4#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Como vs RB Leipzig
+https://embed.st/embed/golf/1046/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Slavia Prague vs Lens
 https://embed.st/embed/admin/ppv-slavia-prague-vs-lens/1#player=clappr&autoplay=true
@@ -122,10 +122,13 @@ https://embed.st/embed/admin/ppv-bayern-munich-vs-bodo-glimt/1#player=clappr&aut
 https://embed.st/embed/admin/ppv-bayern-munich-vs-bodo-glimt/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Bayern Munich vs Bodø/Glimt
-https://embed.st/embed/golf/1044/1#player=clappr&autoplay=true
+https://embed.st/embed/admin/ppv-bayern-munich-vs-bodo-glimt/3#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Bayern Munich vs Bodø/Glimt
-https://embed.st/embed/golf/1044/2#player=clappr&autoplay=true
+https://embed.st/embed/admin/ppv-bayern-munich-vs-bodo-glimt/4#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Bayern Munich vs Bodø/Glimt
+https://embed.st/embed/golf/1044/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Manchester United vs Sabah Baku
 https://embed.st/embed/admin/ppv-manchester-united-vs-sabah-fk/1#player=clappr&autoplay=true
@@ -134,10 +137,13 @@ https://embed.st/embed/admin/ppv-manchester-united-vs-sabah-fk/1#player=clappr&a
 https://embed.st/embed/admin/ppv-manchester-united-vs-sabah-fk/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Manchester United vs Sabah Baku
-https://embed.st/embed/golf/1043/1#player=clappr&autoplay=true
+https://embed.st/embed/admin/ppv-manchester-united-vs-sabah-fk/3#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Manchester United vs Sabah Baku
-https://embed.st/embed/golf/1043/2#player=clappr&autoplay=true
+https://embed.st/embed/admin/ppv-manchester-united-vs-sabah-fk/4#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Manchester United vs Sabah Baku
+https://embed.st/embed/golf/1043/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Stevenage vs Luton Town
 https://sportora.ru/watch/stevenage-vs-luton-town-2500763

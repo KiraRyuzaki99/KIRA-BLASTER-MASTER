@@ -1,1 +1,33 @@
 
+```gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporanei
+*.tmp
+*.bak
+*.old
+*.backup
+
+# Output (se non vuoi versionare i file generati - commenta se li vuoi tenere)
+# output/
+
+# File di debug
+debug_*.py
+test_*.py

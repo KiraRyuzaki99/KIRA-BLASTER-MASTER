@@ -1,1 +1,2096 @@
-<h1>Nessun evento trovato</h1>
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CYBER GATE ACCESS</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Audiowide&family=Grotesk:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Grotesk', sans-serif; background: #0a0a0a; color: #00ffcc; min-height: 100vh; overflow-x: hidden; position: relative; }
+        .matrix-bg { position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; background: #0a0a0a; overflow: hidden; }
+        .matrix-bg::before { content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0, 255, 204, 0.03) 2px, rgba(0, 255, 204, 0.03) 4px); animation: matrixScroll 15s linear infinite; }
+        @keyframes matrixScroll { 0% { transform: translateY(0); } 100% { transform: translateY(100%); } }
+        .container { max-width: 1200px; margin: 0 auto; padding: 20px; position: relative; z-index: 1; }
+        
+        .header { text-align: center; padding: 30px 0 40px; border-bottom: 2px solid rgba(0, 255, 204, 0.3); margin-bottom: 40px; }
+        .header h1 { font-family: 'Orbitron', sans-serif; font-weight: 900; font-size: 3.5rem; text-shadow: 0 0 20px rgba(0, 255, 204, 0.5); background: linear-gradient(135deg, #00ffcc, #00ccff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: 4px; }
+        .header .subtitle { font-family: 'Audiowide', cursive; color: #88ffdd; font-size: 1.2rem; margin-top: 10px; }
+        
+        .event-counter { text-align: center; font-family: 'Orbitron', monospace; font-size: 1.2rem; color: #00ffcc; background: rgba(0, 255, 204, 0.08); border: 1px solid rgba(0, 255, 204, 0.2); padding: 12px 20px; border-radius: 30px; display: inline-block; margin: 0 auto 30px; }
+        .event-counter span { font-weight: 900; font-size: 1.5rem; }
+        
+        .day-section { background: rgba(0, 30, 30, 0.5); border: 1px solid rgba(0, 255, 204, 0.15); border-radius: 15px; margin-bottom: 20px; overflow: hidden; }
+        .day-header { font-family: 'Orbitron', sans-serif; font-weight: 700; font-size: 1.2rem; padding: 15px 20px; background: rgba(0, 255, 204, 0.05); cursor: pointer; display: flex; justify-content: space-between; align-items: center; color: #00ffcc; user-select: none; }
+        .day-header:hover { background: rgba(0, 255, 204, 0.1); }
+        .day-arrow { transition: transform 0.3s ease; font-size: 0.8rem; }
+        .day-header.active .day-arrow { transform: rotate(180deg); }
+        .day-count { font-size: 0.8rem; color: #88ddff; opacity: 0.7; font-weight: 400; }
+        .day-content { max-height: 0; overflow: hidden; transition: max-height 0.5s ease-out; padding: 0 20px; }
+        .day-content.open { max-height: 20000px; padding: 20px; }
+        
+        .events-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 20px; }
+        
+        .event-card { background: rgba(0, 30, 30, 0.7); backdrop-filter: blur(10px); border: 1px solid rgba(0, 255, 204, 0.2); border-radius: 15px; padding: 20px; transition: all 0.3s ease; display: flex; flex-direction: column; }
+        .event-card:hover { transform: translateY(-5px); border-color: rgba(0, 255, 204, 0.6); box-shadow: 0 0 40px rgba(0, 255, 204, 0.15); }
+        .event-info h3 { font-family: 'Orbitron', sans-serif; font-weight: 700; font-size: 1.1rem; color: #00ffcc; margin-bottom: 8px; display: flex; align-items: center; flex-wrap: wrap; gap: 8px; }
+        .event-info .sport-badge { font-family: 'Audiowide', cursive; color: #88ddff; font-size: 0.8rem; background: rgba(0, 255, 204, 0.1); padding: 3px 12px; border-radius: 20px; display: inline-block; margin-bottom: 8px; }
+        .event-info .datetime { color: #88ddff; font-size: 0.85rem; opacity: 0.8; }
+        .fonte-badge { display: inline-block; font-size: 0.7rem; background: rgba(0, 255, 204, 0.15); color: #88ffdd; padding: 2px 12px; border-radius: 12px; margin-top: 5px; border: 1px solid rgba(0, 255, 204, 0.2); }
+        .status-live { display: inline-block; font-size: 0.7rem; background: rgba(255, 0, 0, 0.3); color: #ff4444; padding: 2px 10px; border-radius: 12px; animation: pulse 1.5s ease-in-out infinite; }
+        .status-next { display: inline-block; font-size: 0.7rem; background: rgba(0, 100, 255, 0.3); color: #4488ff; padding: 2px 10px; border-radius: 12px; }
+        @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
+        .event-links { margin-top: 12px; padding-top: 12px; border-top: 1px solid rgba(0, 255, 204, 0.15); }
+        .server-link { display: inline-block; font-family: 'Orbitron', monospace; font-weight: 700; color: #0a0a0a; background: #00ffcc; padding: 10px 20px; border-radius: 8px; text-decoration: none; text-align: center; width: 100%; transition: all 0.3s ease; font-size: 0.8rem; }
+        .server-link:hover { background: #00ddbb; box-shadow: 0 0 40px rgba(0, 255, 204, 0.5); }
+        .no-link { display: inline-block; font-family: 'Orbitron', monospace; color: #666; text-align: center; width: 100%; padding: 10px; }
+        
+        .footer { text-align: center; padding: 40px 0 20px; margin-top: 40px; border-top: 1px solid rgba(0, 255, 204, 0.2); color: #88ddff; opacity: 0.7; }
+        .footer .neon-text { font-family: 'Orbitron', monospace; color: #00ffcc; font-size: 1rem; }
+        
+        @media (max-width: 768px) { .header h1 { font-size: 2rem; } .events-grid { grid-template-columns: 1fr; } .container { padding: 15px; } }
+    </style>
+</head>
+<body>
+    <div class="matrix-bg"></div>
+    <div class="container">
+        <header class="header">
+            <h1>KIRA CYBER GATE</h1>
+            <p class="subtitle">• Eventi di Oggi •</p>
+        </header>
+        
+        <div style="text-align: center;">
+            <div class="event-counter">
+                🎯 <span>170</span> eventi disponibili
+            </div>
+        </div>
+        
+        <div id="days-container">
+            
+        <div class="day-section">
+            <div class="day-header" onclick="toggleDay(this)">
+                📅 Oggi (10/09/2026) <span class="day-count">(10 eventi)</span>
+                <span class="day-arrow">▼</span>
+            </div>
+            <div class="day-content open">
+                <div class="events-grid">
+        
+    <div class="event-card">
+        <div class="event-info">
+            <h3>The Golazo Show <span class="status-live">🔴 LIVE</span></h3>
+            <p class="sport-badge">🏆 Football – Champions League</p>
+            <p class="datetime">🕒 19:00 • 📅 Oggi</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c17bw2g0" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Texas Rangers vs. Seattle Mariners <span class="status-live">🔴 LIVE</span></h3>
+            <p class="sport-badge">🏆 Baseball – MLB</p>
+            <p class="datetime">🕒 20:10 • 📅 Oggi</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fr7cvh4" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Colorado Rockies vs. New York Yankees <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Baseball – MLB</p>
+            <p class="datetime">🕒 23:05 • 📅 Oggi</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1urgcy2" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Pittsburgh Pirates vs. Chicago White Sox <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Baseball – MLB</p>
+            <p class="datetime">🕒 23:40 • 📅 Oggi</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1bfg4qn" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Fox Footy <span class="status-live">🔴 LIVE</span></h3>
+            <p class="sport-badge">🏆 Australian Football – 24/7 channel</p>
+            <p class="datetime">🕒 N/A • 📅 Oggi</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c6ykpbg" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Willow <span class="status-live">🔴 LIVE</span></h3>
+            <p class="sport-badge">🏆 Cricket – 24/7 channel</p>
+            <p class="datetime">🕒 N/A • 📅 Oggi</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1qmex8o" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Fox Cricket <span class="status-live">🔴 LIVE</span></h3>
+            <p class="sport-badge">🏆 Cricket – 24/7 channel</p>
+            <p class="datetime">🕒 N/A • 📅 Oggi</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=catannm" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Fox League <span class="status-live">🔴 LIVE</span></h3>
+            <p class="sport-badge">🏆 Rugby – 24/7 channel</p>
+            <p class="datetime">🕒 N/A • 📅 Oggi</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=chsgr4k" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>US Open: 24/7 streams <span class="status-live">🔴 LIVE</span></h3>
+            <p class="sport-badge">🏆 Tennis – 24/7 streams</p>
+            <p class="datetime">🕒 N/A • 📅 Oggi</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1gmk8bv" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>24/7 South Park <span class="status-live">🔴 LIVE</span></h3>
+            <p class="sport-badge">🏆 24/7 Streams – 24/7 channel</p>
+            <p class="datetime">🕒 N/A • 📅 Oggi</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1ed9edx" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+                </div>
+            </div>
+        </div>
+        
+        <div class="day-section">
+            <div class="day-header" onclick="toggleDay(this)">
+                📅 Domani (11/09/2026) <span class="day-count">(155 eventi)</span>
+                <span class="day-arrow">▼</span>
+            </div>
+            <div class="day-content">
+                <div class="events-grid">
+        
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Florida A&amp;M Rattlers at Miami Hurricanes <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 00:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=cbq0ddc" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Missouri Tigers at Kansas Jayhawks <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 00:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=cfa0sqh" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Santos vs. FC Juarez <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Liga MX</p>
+            <p class="datetime">🕒 00:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f6fw2t9" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>WWE Friday Night Smackdown <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Wrestling – Wrestling</p>
+            <p class="datetime">🕒 00:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1auumh5" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>AEW Saturday Night Collision <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Wrestling – Wrestling</p>
+            <p class="datetime">🕒 00:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=co5lsi2" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Denver Broncos at Kansas City Chiefs <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – NFL</p>
+            <p class="datetime">🕒 00:15 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=cnieha1" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Dallas Cowboys at New York Giants <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – NFL</p>
+            <p class="datetime">🕒 00:20 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=cjx1ocx" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>FC Dallas vs. Portland Timbers <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – MLS</p>
+            <p class="datetime">🕒 00:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fycvzmj" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Sporting Kansas City vs. LAFC <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – MLS</p>
+            <p class="datetime">🕒 00:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1vh3qcl" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>St. Louis CITY SC vs. Minnesota United FC <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – MLS</p>
+            <p class="datetime">🕒 00:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1stihv3" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>San Francisco 49ers at Los Angeles Rams <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – NFL</p>
+            <p class="datetime">🕒 00:35 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=cjngiuq" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Necaxa vs. Puebla <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Liga MX</p>
+            <p class="datetime">🕒 01:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f12k8ggy" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Monterrey vs. Tigres UANL <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Liga MX</p>
+            <p class="datetime">🕒 01:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f16i6w7m" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>San Diego FC vs. Philadelphia Union <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – MLS</p>
+            <p class="datetime">🕒 01:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fgj9xou" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>TNA Impact <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Wrestling – Wrestling</p>
+            <p class="datetime">🕒 01:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1se54xr" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Guadalajara vs. Pumas UNAM <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Liga MX</p>
+            <p class="datetime">🕒 01:07 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fzjhzvb" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Colorado Rapids vs. CF Montréal <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – MLS</p>
+            <p class="datetime">🕒 01:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1gzevpq" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Real Salt Lake vs. New York City FC <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – MLS</p>
+            <p class="datetime">🕒 01:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f294udv" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Montreal Alouettes at BC Lions <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – Canadian Football</p>
+            <p class="datetime">🕒 02:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c13k30bb" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Arkansas Razorbacks at Utah Utes <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 02:15 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1q78986" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>LA Galaxy vs. Seattle Sounders FC <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – MLS</p>
+            <p class="datetime">🕒 02:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fs9dwf0" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>San Jose Earthquakes vs. Houston Dynamo FC <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – MLS</p>
+            <p class="datetime">🕒 02:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f738q8b" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Louisiana Ragin&#x27; Cajuns at USC Trojans <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 03:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1wvk4uu" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Pumas UNAM vs. León <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Liga MX</p>
+            <p class="datetime">🕒 03:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fzszd1g" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Atlante vs. Pachuca <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Liga MX</p>
+            <p class="datetime">🕒 03:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fxqoprr" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Tijuana vs. Querétaro <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Liga MX</p>
+            <p class="datetime">🕒 03:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1k8llkv" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Cruz Azul vs. América <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Liga MX</p>
+            <p class="datetime">🕒 03:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fikhmfb" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Warriors vs. Dolphins <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Rugby – Rugby League (NRL)</p>
+            <p class="datetime">🕒 06:05 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f890xui" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Panthers vs. Roosters <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Rugby – Rugby League (NRL)</p>
+            <p class="datetime">🕒 06:05 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fa9c4fk" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Brisbane Lions vs. Adelaide Crows <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Australian Football – AFL</p>
+            <p class="datetime">🕒 09:35 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f18exd3e" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Rabbitohs vs. Knights <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Rugby – Rugby League (NRL)</p>
+            <p class="datetime">🕒 09:50 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=flmutnw" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Sharks vs. Cowboys <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Rugby – Rugby League (NRL)</p>
+            <p class="datetime">🕒 09:50 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f5pvzoa" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Fremantle vs. Geelong Cats <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Australian Football – AFL</p>
+            <p class="datetime">🕒 10:10 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=faut222" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Excelsior vs. FC Utrecht <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Eredivisie</p>
+            <p class="datetime">🕒 10:15 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fogtkog" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Spanish Grand Prix - Practice 3 <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Motorsports – Formula 1</p>
+            <p class="datetime">🕒 10:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1gb2ri7" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Club Brugge vs. Antwerp <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Belgian Pro League</p>
+            <p class="datetime">🕒 11:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1uwq24g" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Spanish Grand Prix - Practice 1 <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Motorsports – Formula 1</p>
+            <p class="datetime">🕒 11:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1gronjx" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Racing Santander vs. Alavés <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – LaLiga</p>
+            <p class="datetime">🕒 12:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=ffdpii5" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Celta Vigo vs. Málaga <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – LaLiga</p>
+            <p class="datetime">🕒 12:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fse23m0" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Hammarby IF vs. IF Brommapojkarna <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Allsvenskan</p>
+            <p class="datetime">🕒 12:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fq6h7hy" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>IF Elfsborg vs. Kalmar FF <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Allsvenskan</p>
+            <p class="datetime">🕒 12:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f6f9m70" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Heerenveen vs. Telstar <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Eredivisie</p>
+            <p class="datetime">🕒 12:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1lh4bqo" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Genoa vs. Frosinone <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Serie A</p>
+            <p class="datetime">🕒 13:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fv2ljn1" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>AIK vs. Västerås SK <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Allsvenskan</p>
+            <p class="datetime">🕒 13:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1jyfpq9" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Coventry City vs. Brighton &amp; Hove Albion <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Premier League</p>
+            <p class="datetime">🕒 13:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1clqpf7" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Lecce vs. Monza <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Serie A</p>
+            <p class="datetime">🕒 13:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fhg1gkv" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Lille vs. Troyes <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Ligue 1</p>
+            <p class="datetime">🕒 13:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1t93urk" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Spanish Grand Prix - Race <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Motorsports – Formula 1</p>
+            <p class="datetime">🕒 13:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1dcitsq" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Borussia Dortmund vs. SC Paderborn 07 <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Bundesliga</p>
+            <p class="datetime">🕒 13:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f103f856" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>FC Augsburg vs. Bayer Leverkusen <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Bundesliga</p>
+            <p class="datetime">🕒 13:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f4tazb5" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Mainz vs. Eintracht Frankfurt <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Bundesliga</p>
+            <p class="datetime">🕒 13:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1onxjpl" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>SC Freiburg vs. Borussia Mönchengladbach <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Bundesliga</p>
+            <p class="datetime">🕒 13:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fe1by95" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>TSG Hoffenheim vs. VfB Stuttgart <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Bundesliga</p>
+            <p class="datetime">🕒 13:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fs6el9q" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>RB Leipzig vs. Hamburg SV <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Bundesliga</p>
+            <p class="datetime">🕒 13:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1g9y7ta" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>AFC Bournemouth vs. Brentford <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Premier League</p>
+            <p class="datetime">🕒 14:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f15h66kc" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Aston Villa vs. Nottingham Forest <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Premier League</p>
+            <p class="datetime">🕒 14:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fvd0fv5" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Chelsea vs. Hull City <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Premier League</p>
+            <p class="datetime">🕒 14:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f3k8cl1" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Crystal Palace vs. Ipswich Town <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Premier League</p>
+            <p class="datetime">🕒 14:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1ltq88n" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Liverpool vs. Fulham <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Premier League</p>
+            <p class="datetime">🕒 14:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fstf2ox" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Waasland-Beveren vs. Sint-Truidense <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Belgian Pro League</p>
+            <p class="datetime">🕒 14:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fixq5yk" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Racing Genk vs. KAA Gent <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Belgian Pro League</p>
+            <p class="datetime">🕒 14:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fg4bx8f" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Spanish Grand Prix - Qualifying <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Motorsports – Formula 1</p>
+            <p class="datetime">🕒 14:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1an5d1u" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Osasuna vs. Espanyol <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – LaLiga</p>
+            <p class="datetime">🕒 14:15 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1rmfzic" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Levante vs. Barcelona <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – LaLiga</p>
+            <p class="datetime">🕒 14:15 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1wqie9f" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>FC Twente vs. ADO Den Haag <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Eredivisie</p>
+            <p class="datetime">🕒 14:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fzvqaoc" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Malmö FF vs. Örgryte IS <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Allsvenskan</p>
+            <p class="datetime">🕒 14:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f109ulrx" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>PEC Zwolle vs. Feyenoord Rotterdam <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Eredivisie</p>
+            <p class="datetime">🕒 14:45 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f7ov4zm" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Spanish Grand Prix - Practice 2 <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Motorsports – Formula 1</p>
+            <p class="datetime">🕒 15:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=cndcnlo" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Strasbourg vs. AS Monaco <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Ligue 1</p>
+            <p class="datetime">🕒 15:15 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fmoqgh7" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Le Mans vs. Lens <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Ligue 1</p>
+            <p class="datetime">🕒 15:15 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f4iwmbs" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>IFK Göteborg vs. Halmstads BK <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Allsvenskan</p>
+            <p class="datetime">🕒 15:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1fzms1y" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>SV Elversberg vs. Bayern Munich <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Bundesliga</p>
+            <p class="datetime">🕒 15:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1yzacbg" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Manchester United vs. Manchester City <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Premier League</p>
+            <p class="datetime">🕒 15:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1ylk4hs" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Oregon Ducks at Oklahoma State Cowboys <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 16:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=cjktsyo" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Howard Bison at Indiana Hoosiers <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 16:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c14dhp7l" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Arizona State Sun Devils at Texas A&amp;M Aggies <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 16:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1vgrl6m" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Oklahoma Sooners at Michigan Wolverines <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 16:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=cruzf06" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Penn State Nittany Lions at Temple Owls <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 16:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=cs09mb1" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Lazio vs. AC Milan <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Serie A</p>
+            <p class="datetime">🕒 16:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fd55wmm" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Napoli vs. Bologna <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Serie A</p>
+            <p class="datetime">🕒 16:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1hq3ej" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>KVC Westerlo vs. Standard Liege <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Belgian Pro League</p>
+            <p class="datetime">🕒 16:15 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f7bsban" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Athletic Club vs. Elche <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – LaLiga</p>
+            <p class="datetime">🕒 16:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1u3an02" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>FC Cologne vs. Werder Bremen <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Bundesliga</p>
+            <p class="datetime">🕒 16:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1nbu08z" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Tottenham Hotspur vs. Everton <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Premier League</p>
+            <p class="datetime">🕒 16:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1xyphla" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Getafe vs. Deportivo <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – LaLiga</p>
+            <p class="datetime">🕒 16:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1coh83p" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Zulte-Waregem vs. Royal Charleroi SC <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Belgian Pro League</p>
+            <p class="datetime">🕒 16:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f5fm9y0" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Como vs. Parma <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Serie A</p>
+            <p class="datetime">🕒 16:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1aru0px" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Torino vs. AS Roma <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Serie A</p>
+            <p class="datetime">🕒 16:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f19qzi38" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Western Kentucky Hilltoppers at Georgia Bulldogs <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 16:45 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1u88n45" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Go Ahead Eagles vs. FC Groningen <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Eredivisie</p>
+            <p class="datetime">🕒 16:45 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fckvxlc" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Ottawa RedBlacks at Toronto Argonauts <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – Canadian Football</p>
+            <p class="datetime">🕒 17:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1vv540r" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>NFL RedZone <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – NFL</p>
+            <p class="datetime">🕒 17:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1pwxmex" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Tampa Bay Buccaneers at Cincinnati Bengals <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – NFL</p>
+            <p class="datetime">🕒 17:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=cd113hd" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>New Orleans Saints at Detroit Lions <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – NFL</p>
+            <p class="datetime">🕒 17:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c119yjuz" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>New York Jets at Tennessee Titans <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – NFL</p>
+            <p class="datetime">🕒 17:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=cyfhydh" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Baltimore Ravens at Indianapolis Colts <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – NFL</p>
+            <p class="datetime">🕒 17:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=cdj8vdj" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Atlanta Falcons at Pittsburgh Steelers <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – NFL</p>
+            <p class="datetime">🕒 17:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=cj3vqp3" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Chicago Bears at Carolina Panthers <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – NFL</p>
+            <p class="datetime">🕒 17:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c14bsqf0" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Cleveland Browns at Jacksonville Jaguars <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – NFL</p>
+            <p class="datetime">🕒 17:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=cosm6gm" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Buffalo Bills at Houston Texans <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – NFL</p>
+            <p class="datetime">🕒 17:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=ci8diwd" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>BK Häcken vs. Mjällby AIF <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Allsvenskan</p>
+            <p class="datetime">🕒 17:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fcp5ox7" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Djurgården vs. GAIS <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Allsvenskan</p>
+            <p class="datetime">🕒 17:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f12w56g7" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>IK Sirius vs. Degerfors IF <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Allsvenskan</p>
+            <p class="datetime">🕒 17:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1f576ok" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>RAAL La Louvière vs. KV Kortrijk <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Belgian Pro League</p>
+            <p class="datetime">🕒 17:15 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1hzq2jo" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>AZ Alkmaar vs. Willem II <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Eredivisie</p>
+            <p class="datetime">🕒 18:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f10v4tv0" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Fortuna Sittard vs. Ajax Amsterdam <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Eredivisie</p>
+            <p class="datetime">🕒 18:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f14h7cgm" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>PSV Eindhoven vs. Sparta Rotterdam <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Eredivisie</p>
+            <p class="datetime">🕒 18:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fo7mev0" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>1. FC Union Berlin vs. Schalke 04 <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Bundesliga</p>
+            <p class="datetime">🕒 18:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f18p2j0h" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Venezia vs. Fiorentina <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Serie A</p>
+            <p class="datetime">🕒 18:45 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1lmc95j" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Stade Rennais vs. Marseille <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Ligue 1</p>
+            <p class="datetime">🕒 18:45 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fe5p3yt" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>KV Mechelen vs. Anderlecht <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Belgian Pro League</p>
+            <p class="datetime">🕒 18:45 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f9wa8gd" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Atalanta vs. Cagliari <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Serie A</p>
+            <p class="datetime">🕒 18:45 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fdpnqec" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>AJ Auxerre vs. Nice <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Ligue 1</p>
+            <p class="datetime">🕒 18:45 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1j0q7i6" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Le Havre AC vs. Angers <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Ligue 1</p>
+            <p class="datetime">🕒 18:45 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fbfobzx" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Lorient vs. Toulouse <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Ligue 1</p>
+            <p class="datetime">🕒 18:45 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f16rmv53" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Paris FC vs. Lyon <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Ligue 1</p>
+            <p class="datetime">🕒 18:45 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f7mqym" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>OH Leuven vs. Cercle Brugge KSV <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Belgian Pro League</p>
+            <p class="datetime">🕒 18:45 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f2w82ar" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Union St.-Gilloise vs. Lommel SK <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Belgian Pro League</p>
+            <p class="datetime">🕒 18:45 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fz8uppa" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Sassuolo vs. Juventus <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Serie A</p>
+            <p class="datetime">🕒 18:45 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=ftzx88z" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Brest vs. Paris Saint-Germain <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Ligue 1</p>
+            <p class="datetime">🕒 18:45 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f575l5y" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Inter Milan vs. Udinese <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Serie A</p>
+            <p class="datetime">🕒 18:45 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f56x9f6" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Sevilla vs. Valencia <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – LaLiga</p>
+            <p class="datetime">🕒 19:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1bfnxii" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Real Madrid vs. Rayo Vallecano <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – LaLiga</p>
+            <p class="datetime">🕒 19:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=ft7p95w" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Sunderland vs. Arsenal <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Premier League</p>
+            <p class="datetime">🕒 19:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f3f02uo" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>SC Cambuur vs. NEC Nijmegen <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Eredivisie</p>
+            <p class="datetime">🕒 19:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1obmpmi" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Real Sociedad vs. Atlético Madrid <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – LaLiga</p>
+            <p class="datetime">🕒 19:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f10laqov" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Villarreal vs. Real Betis <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – LaLiga</p>
+            <p class="datetime">🕒 19:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1tpdmri" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Leeds United vs. Newcastle United <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Premier League</p>
+            <p class="datetime">🕒 19:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fw2pkd" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Rice Owls at Notre Dame Fighting Irish <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 19:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1eoxpub" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Alabama Crimson Tide at Kentucky Wildcats <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 19:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c5eziq4" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Arizona Wildcats at BYU Cougars <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 19:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c6hlo34" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Utah State Aggies at Washington Huskies <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 19:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=cpxjue6" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>UC Davis Aggies at SMU Mustangs <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 20:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1ltoudn" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Saskatchewan Roughriders at Winnipeg Blue Bombers <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – Canadian Football</p>
+            <p class="datetime">🕒 20:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1wvnair" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Miami Dolphins at Las Vegas Raiders <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – NFL</p>
+            <p class="datetime">🕒 20:25 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c14ss5q3" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Green Bay Packers at Minnesota Vikings <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – NFL</p>
+            <p class="datetime">🕒 20:25 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=cpa7c0" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Washington Commanders at Philadelphia Eagles <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – NFL</p>
+            <p class="datetime">🕒 20:25 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=cwmaals" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Arizona Cardinals at Los Angeles Chargers <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – NFL</p>
+            <p class="datetime">🕒 20:25 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1okpvus" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Chicago Fire FC vs. New England Revolution <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – MLS</p>
+            <p class="datetime">🕒 21:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fii57ls" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Vancouver Whitecaps vs. Austin FC <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – MLS</p>
+            <p class="datetime">🕒 22:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f5jwvgb" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Villanova Wildcats at Louisville Cardinals <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 23:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1n2akxz" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Tennessee Volunteers at Georgia Tech Yellow Jackets <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 23:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1o4rfw5" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Southern Jaguars at Houston Cougars <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 23:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=cz3vxew" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Calgary Stampeders at Edmonton Elks <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – Canadian Football</p>
+            <p class="datetime">🕒 23:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c15ilzgj" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Toluca vs. Atlas <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – Liga MX</p>
+            <p class="datetime">🕒 23:00 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f6yp1gw" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Ohio State Buckeyes at Texas Longhorns <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 23:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1r0v8ln" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Louisiana Tech Bulldogs at LSU Tigers <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 23:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=cqimebe" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Texas Tech Red Raiders at Oregon State Beavers <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 23:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c1yyztc2" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Iowa State Cyclones at Iowa Hawkeyes <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 23:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=c5v0cmf" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Columbus Crew vs. Red Bull New York <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – MLS</p>
+            <p class="datetime">🕒 23:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f15veq0n" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>D.C. United vs. Atlanta United FC <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – MLS</p>
+            <p class="datetime">🕒 23:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f11qxw7a" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>FC Cincinnati vs. Charlotte FC <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – MLS</p>
+            <p class="datetime">🕒 23:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f53drkh" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Inter Miami CF vs. Nashville SC <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – MLS</p>
+            <p class="datetime">🕒 23:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=fdazx2b" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Orlando City SC vs. Toronto FC <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 Football – MLS</p>
+            <p class="datetime">🕒 23:30 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=f1ccj8t9" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+    <div class="event-card">
+        <div class="event-info">
+            <h3>Charlotte 49ers at Ole Miss Rebels <span class="status-next">⏳ PROGRAMMATO</span></h3>
+            <p class="sport-badge">🏆 American Football – College Football</p>
+            <p class="datetime">🕒 23:45 • 📅 Domani</p>
+            <span class="fonte-badge">📡 PPVTV</span>
+        </div>
+        <div class="event-links">
+            <a href="https://august.ppvtv.icu/watch.html?match=cyii1bj" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>
+        </div>
+    </div>
+    
+                </div>
+            </div>
+        </div>
+        
+        </div>
+        
+        <footer class="footer">
+            <p class="neon-text">KIRA GSI SPORT • Eventi in Diretta • 2026 • Developed by KIRA GSI GROUP</p>
+        </footer>
+    </div>
+    
+    <script>
+        function toggleDay(header) {
+            header.classList.toggle('active');
+            const content = header.nextElementSibling;
+            content.classList.toggle('open');
+        }
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            const headers = document.querySelectorAll('.day-header');
+            if (headers.length > 0) {
+                toggleDay(headers[0]);
+            }
+        });
+    </script>
+</body>
+</html>

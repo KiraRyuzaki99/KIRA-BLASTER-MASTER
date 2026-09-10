@@ -1,246 +1,777 @@
 <!DOCTYPE html>
-<html lang="it">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KIRA ICA - Eventi</title>
-    <style>
-        body { background-color: #000; color: #00ff41; font-family: 'Consolas', monospace; margin: 0; padding: 20px; text-shadow: 0 0 5px rgba(0, 255, 65, 0.8); }
-        .container { max-width: 800px; margin: 0 auto; border: 2px solid #00ff41; box-shadow: 0 0 20px #00ff41; padding: 10px; background-color: rgba(0, 0, 0, 0.85); }
-        h1 { color: #ff00ff; text-align: center; text-shadow: 0 0 10px #ff00ff; border-bottom: 2px dashed #00ff41; padding-bottom: 10px; margin-bottom: 20px; }
-        .event-group { margin-bottom: 5px; border-left: 3px solid #00ff41; padding-left: 10px; }
-        .event-header { background-color: rgba(0, 255, 65, 0.1); color: #00ff41; padding: 10px; cursor: pointer; font-weight: bold; display: flex; justify-content: space-between; border: 1px solid #00ff41; margin-top: 5px; }
-        .event-header.active { background-color: #00ff41; color: #000; }
-        .arrow { transition: transform 0.3s; }
-        .event-header.active .arrow { transform: rotate(90deg); }
-        .stream-links { padding: 0; margin: 0; list-style: none; background-color: rgba(0, 0, 0, 0.95); border: 1px solid #00ff41; border-top: none; max-height: 0; overflow: hidden; transition: max-height 0.4s ease-out; }
-        .stream-links.open { max-height: 500px; }
-        .channel-link { display: block; padding: 8px 15px; color: #ffcc00; text-decoration: none; font-weight: bold; }
-        .channel-link:hover { color: #fff; background-color: rgba(0, 255, 255, 0.1); }
-    </style>
-</head>
-<body>
-<div class="container">
-    <h1>KIRA ICA - ACCESS GATE</h1>
-    <h1>10/09/2026</h1>
-    <div id="events-list">
-        
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                11:30 FIBA Copa Mundial Femenina - 1/4 de Final Estados Unidos - Hungría <span class="arrow">▶</span>
+    <html lang="it">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>CYBER GATE ACCESS</title>
+        <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Audiowide&family=Grotesk:wght@400;700&display=swap" rel="stylesheet">
+        <style>
+            * { margin: 0; padding: 0; box-sizing: border-box; }
+            body {
+                font-family: 'Grotesk', sans-serif;
+                background: #0a0a0a;
+                color: #00ffcc;
+                min-height: 100vh;
+                overflow-x: hidden;
+                position: relative;
+            }
+            .matrix-bg {
+                position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; background: #0a0a0a; overflow: hidden;
+            }
+            .matrix-bg::before {
+                content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+                background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0, 255, 204, 0.03) 2px, rgba(0, 255, 204, 0.03) 4px);
+                animation: matrixScroll 15s linear infinite;
+            }
+            @keyframes matrixScroll { 0% { transform: translateY(0); } 100% { transform: translateY(100%); } }
+            .container { max-width: 1200px; margin: 0 auto; padding: 20px; position: relative; z-index: 1; }
+            .header { text-align: center; padding: 30px 0 40px; border-bottom: 2px solid rgba(0, 255, 204, 0.3); margin-bottom: 40px; }
+            .header h1 {
+                font-family: 'Orbitron', sans-serif; font-weight: 900; font-size: 3.5rem;
+                text-shadow: 0 0 20px rgba(0, 255, 204, 0.5);
+                background: linear-gradient(135deg, #00ffcc, #00ccff);
+                -webkit-background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: 4px;
+            }
+            .header .subtitle { font-family: 'Audiowide', cursive; color: #88ffdd; font-size: 1.2rem; margin-top: 10px; }
+            .event-counter {
+                text-align: center; font-family: 'Orbitron', monospace; font-size: 1.2rem; color: #00ffcc;
+                background: rgba(0, 255, 204, 0.08); border: 1px solid rgba(0, 255, 204, 0.2);
+                padding: 12px 20px; border-radius: 30px; display: inline-block; margin: 0 auto 30px;
+            }
+            .event-counter span { font-weight: 900; font-size: 1.5rem; }
+            .events-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 25px; margin-top: 20px; }
+            .event-card {
+                background: rgba(0, 30, 30, 0.7); backdrop-filter: blur(10px); border: 1px solid rgba(0, 255, 204, 0.2);
+                border-radius: 15px; padding: 25px; transition: all 0.3s ease; display: flex; flex-direction: column;
+            }
+            .event-card:hover { transform: translateY(-5px); border-color: rgba(0, 255, 204, 0.6); box-shadow: 0 0 40px rgba(0, 255, 204, 0.15); }
+            .event-info h3 { font-family: 'Orbitron', sans-serif; font-weight: 700; font-size: 1.3rem; color: #00ffcc; margin-bottom: 8px; }
+            .event-info .competition {
+                font-family: 'Audiowide', cursive; color: #88ffdd; font-size: 0.9rem;
+                background: rgba(0, 255, 204, 0.1); padding: 4px 12px; border-radius: 20px; display: inline-block; margin-bottom: 10px;
+            }
+            .event-info .datetime { color: #88ddff; font-size: 0.9rem; opacity: 0.8; }
+            .fonte-badge {
+                display: inline-block; font-size: 0.75rem; background: rgba(0, 255, 204, 0.15);
+                color: #88ffdd; padding: 2px 12px; border-radius: 12px; margin-top: 5px; border: 1px solid rgba(0, 255, 204, 0.2);
+            }
+            .status-next {
+                display: inline-block; font-size: 0.7rem; background: rgba(0, 100, 255, 0.3);
+                color: #4488ff; padding: 2px 10px; border-radius: 12px; margin-left: 8px;
+            }
+            .event-links { margin-top: 15px; padding-top: 15px; border-top: 1px solid rgba(0, 255, 204, 0.15); }
+            .server-link {
+                display: inline-block; font-family: 'Orbitron', monospace; font-weight: 700; color: #0a0a0a;
+                background: #00ffcc; padding: 12px 24px; border-radius: 8px; text-decoration: none;
+                text-align: center; width: 100%; transition: all 0.3s ease;
+            }
+            .server-link:hover { background: #00ddbb; box-shadow: 0 0 40px rgba(0, 255, 204, 0.5); }
+            .dropdown select {
+                width: 100%; padding: 12px 15px; background: rgba(0, 20, 20, 0.9); color: #00ffcc;
+                border: 1px solid rgba(0, 255, 204, 0.4); border-radius: 10px; font-family: 'Orbitron', monospace;
+                font-size: 0.85rem; cursor: pointer; outline: none;
+            }
+            .footer { text-align: center; padding: 40px 0 20px; margin-top: 60px; border-top: 1px solid rgba(0, 255, 204, 0.2); color: #88ddff; opacity: 0.7; }
+            .footer .neon-text { font-family: 'Orbitron', monospace; color: #00ffcc; font-size: 1rem; }
+        </style>
+    </head>
+    <body>
+        <div class="matrix-bg"></div>
+        <div class="container">
+            <header class="header">
+                <h1>KIRA GATE ACCESS</h1>
+                <p class="subtitle">• Embedded Live Sports •</p>
+            </header>
+            <div style="text-align: center;">
+                <div class="event-counter">
+                    🎯 <span>23</span> eventi disponibili
+                </div>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=34b91125bd752462f1eca2d8d52f5f40fa761aa0" class="channel-link" target="_blank">getstream?id=34b91125bd752462f1eca2d8d52f5f40fa761aa0</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=e3816fbc661fbc8b2b656aee9483d0a55a1608b6" class="channel-link" target="_blank">getstream?id=e3816fbc661fbc8b2b656aee9483d0a55a1608b6</a></li>
-            </ul>
+            <div class="events-grid">
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>11:30 FIBA Copa Mundial Femenina - 1/4 de Final Estados Unidos - Hungría <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 FIBA Copa Mundial Femenina</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
+            </div>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0">acestream://34b91125bd75...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=34b91125bd752462f1eca2d8d52f5f40fa761aa0">getstream?id=34b91125bd752462...</option>
+<option value="acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6">acestream://e3816fbc661f...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=e3816fbc661fbc8b2b656aee9483d0a55a1608b6">getstream?id=e3816fbc661fbc8b...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                14:00 Irish Open -  Jornada 1 <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>14:00 Irish Open -  Jornada 1 <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 Irish Open</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=882074140fca664e119a43294afa2fb4a64917ef" class="channel-link" target="_blank">getstream?id=882074140fca664e119a43294afa2fb4a64917ef</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=597cca4ef375529aaca0608b43187d99d26ca714" class="channel-link" target="_blank">getstream?id=597cca4ef375529aaca0608b43187d99d26ca714</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb" class="channel-link" target="_blank">getstream?id=872608e734992db636eb79426802cd08f4029afb</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=9bb2a7dc6c6a296609df8cc50e742a78194f7530" class="channel-link" target="_blank">getstream?id=9bb2a7dc6c6a296609df8cc50e742a78194f7530</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=8121478d3d3e563ad6b98018bc1c0aeb2f6166eb" class="channel-link" target="_blank">getstream?id=8121478d3d3e563ad6b98018bc1c0aeb2f6166eb</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=f60535a458b3c114283e2f433379144345beddd6" class="channel-link" target="_blank">getstream?id=f60535a458b3c114283e2f433379144345beddd6</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://882074140fca664e119a43294afa2fb4a64917ef">acestream://882074140fca...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=882074140fca664e119a43294afa2fb4a64917ef">getstream?id=882074140fca664e...</option>
+<option value="acestream://597cca4ef375529aaca0608b43187d99d26ca714">acestream://597cca4ef375...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=597cca4ef375529aaca0608b43187d99d26ca714">getstream?id=597cca4ef375529a...</option>
+<option value="acestream://872608e734992db636eb79426802cd08f4029afb">acestream://872608e73499...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb">getstream?id=872608e734992db6...</option>
+<option value="acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530">acestream://9bb2a7dc6c6a...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=9bb2a7dc6c6a296609df8cc50e742a78194f7530">getstream?id=9bb2a7dc6c6a2966...</option>
+<option value="acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb">acestream://8121478d3d3e...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=8121478d3d3e563ad6b98018bc1c0aeb2f6166eb">getstream?id=8121478d3d3e563a...</option>
+<option value="acestream://f60535a458b3c114283e2f433379144345beddd6">acestream://f60535a458b3...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=f60535a458b3c114283e2f433379144345beddd6">getstream?id=f60535a458b3c114...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                14:00 Abierto de Inglaterra -  Día 4 - Tercera ronda <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>14:00 Abierto de Inglaterra -  Día 4 - Tercera ronda <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 Abierto de Inglaterra</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=c6180a86440004748e2abe34d6f31eed8a218a3a" class="channel-link" target="_blank">getstream?id=c6180a86440004748e2abe34d6f31eed8a218a3a</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=3ebcfc00921a4a9307dec97e078f8dc12eee27e7" class="channel-link" target="_blank">getstream?id=3ebcfc00921a4a9307dec97e078f8dc12eee27e7</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2" class="channel-link" target="_blank">getstream?id=7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=32fcf8e1513049ef9f90d08ba9040fe34b01d9fd" class="channel-link" target="_blank">getstream?id=32fcf8e1513049ef9f90d08ba9040fe34b01d9fd</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://c6180a86440004748e2abe34d6f31eed8a218a3a">acestream://c6180a864400...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=c6180a86440004748e2abe34d6f31eed8a218a3a">getstream?id=c6180a8644000474...</option>
+<option value="acestream://3ebcfc00921a4a9307dec97e078f8dc12eee27e7">acestream://3ebcfc00921a...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=3ebcfc00921a4a9307dec97e078f8dc12eee27e7">getstream?id=3ebcfc00921a4a93...</option>
+<option value="acestream://7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2">acestream://7152d5f5fdb2...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2">getstream?id=7152d5f5fdb2184c...</option>
+<option value="acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd">acestream://32fcf8e15130...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=32fcf8e1513049ef9f90d08ba9040fe34b01d9fd">getstream?id=32fcf8e1513049ef...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                14:30 FIBA Copa Mundial Femenina - 1/4 de Final China - Francia <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>14:30 FIBA Copa Mundial Femenina - 1/4 de Final China - Francia <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 FIBA Copa Mundial Femenina</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=34b91125bd752462f1eca2d8d52f5f40fa761aa0" class="channel-link" target="_blank">getstream?id=34b91125bd752462f1eca2d8d52f5f40fa761aa0</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=e3816fbc661fbc8b2b656aee9483d0a55a1608b6" class="channel-link" target="_blank">getstream?id=e3816fbc661fbc8b2b656aee9483d0a55a1608b6</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0">acestream://34b91125bd75...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=34b91125bd752462f1eca2d8d52f5f40fa761aa0">getstream?id=34b91125bd752462...</option>
+<option value="acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6">acestream://e3816fbc661f...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=e3816fbc661fbc8b2b656aee9483d0a55a1608b6">getstream?id=e3816fbc661fbc8b...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                14:45 Faun Tour Femenino -  Etapa 18 - El Puerto de Santa María › Jerez de la Frontera (32,1 km) <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>14:45 Faun Tour Femenino -  Etapa 18 - El Puerto de Santa María › Jerez de la Frontera (32,1 km) <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 Faun Tour Femenino</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=4048be88f84250719e864868e537612f389df48e" class="channel-link" target="_blank">getstream?id=4048be88f84250719e864868e537612f389df48e</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a" class="channel-link" target="_blank">getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=3b50a1dca0977e3761d016edd79314ab797f74f6" class="channel-link" target="_blank">getstream?id=3b50a1dca0977e3761d016edd79314ab797f74f6</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05" class="channel-link" target="_blank">getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae" class="channel-link" target="_blank">getstream?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=48a589dbeab3544662fafd79888aada7d834cfe9" class="channel-link" target="_blank">getstream?id=48a589dbeab3544662fafd79888aada7d834cfe9</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=8522af51ae7189b12effabbb448dcb707195ce1a" class="channel-link" target="_blank">getstream?id=8522af51ae7189b12effabbb448dcb707195ce1a</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153" class="channel-link" target="_blank">getstream?id=313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=62a5750be4d2218b1064f83afaac4770fd92350d" class="channel-link" target="_blank">getstream?id=62a5750be4d2218b1064f83afaac4770fd92350d</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://4048be88f84250719e864868e537612f389df48e">acestream://4048be88f842...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=4048be88f84250719e864868e537612f389df48e">getstream?id=4048be88f8425071...</option>
+<option value="acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a">acestream://b35b3eb8e223...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a">getstream?id=b35b3eb8e22365bf...</option>
+<option value="acestream://3b50a1dca0977e3761d016edd79314ab797f74f6">acestream://3b50a1dca097...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=3b50a1dca0977e3761d016edd79314ab797f74f6">getstream?id=3b50a1dca0977e37...</option>
+<option value="acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05">acestream://77cf022557c5...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05">getstream?id=77cf022557c56cdf...</option>
+<option value="acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae">acestream://b0d1489c9f32...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae">getstream?id=b0d1489c9f323934...</option>
+<option value="acestream://48a589dbeab3544662fafd79888aada7d834cfe9">acestream://48a589dbeab3...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=48a589dbeab3544662fafd79888aada7d834cfe9">getstream?id=48a589dbeab35446...</option>
+<option value="acestream://8522af51ae7189b12effabbb448dcb707195ce1a">acestream://8522af51ae71...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=8522af51ae7189b12effabbb448dcb707195ce1a">getstream?id=8522af51ae7189b1...</option>
+<option value="acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153">acestream://313213b3b99c...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153">getstream?id=313213b3b99c0f74...</option>
+<option value="acestream://62a5750be4d2218b1064f83afaac4770fd92350d">acestream://62a5750be4d2...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=62a5750be4d2218b1064f83afaac4770fd92350d">getstream?id=62a5750be4d2218b...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                15:00  -  España - Nueva Caledonia <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>15:00  -  España - Nueva Caledonia <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 15</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=4048be88f84250719e864868e537612f389df48e" class="channel-link" target="_blank">getstream?id=4048be88f84250719e864868e537612f389df48e</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a" class="channel-link" target="_blank">getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=3b50a1dca0977e3761d016edd79314ab797f74f6" class="channel-link" target="_blank">getstream?id=3b50a1dca0977e3761d016edd79314ab797f74f6</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05" class="channel-link" target="_blank">getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae" class="channel-link" target="_blank">getstream?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://4048be88f84250719e864868e537612f389df48e">acestream://4048be88f842...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=4048be88f84250719e864868e537612f389df48e">getstream?id=4048be88f8425071...</option>
+<option value="acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a">acestream://b35b3eb8e223...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a">getstream?id=b35b3eb8e22365bf...</option>
+<option value="acestream://3b50a1dca0977e3761d016edd79314ab797f74f6">acestream://3b50a1dca097...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=3b50a1dca0977e3761d016edd79314ab797f74f6">getstream?id=3b50a1dca0977e37...</option>
+<option value="acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05">acestream://77cf022557c5...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05">getstream?id=77cf022557c56cdf...</option>
+<option value="acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae">acestream://b0d1489c9f32...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae">getstream?id=b0d1489c9f323934...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                16:00 Youth League - Fase Liga Bayern Academy - Bodø/Glimt Academy <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>16:00 Youth League - Fase Liga Bayern Academy - Bodø/Glimt Academy <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 Youth League</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370" class="channel-link" target="_blank">getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920" class="channel-link" target="_blank">getstream?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=91af434b0bb521189286f8cbbab1aed39d7536fe" class="channel-link" target="_blank">getstream?id=91af434b0bb521189286f8cbbab1aed39d7536fe</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9" class="channel-link" target="_blank">getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439" class="channel-link" target="_blank">getstream?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=931fd4c24398a24beb9b6ede856ca34339ff2c22" class="channel-link" target="_blank">getstream?id=931fd4c24398a24beb9b6ede856ca34339ff2c22</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://e572a5178ff72eed7d1d751a18b4b3419699f370">acestream://e572a5178ff7...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370">getstream?id=e572a5178ff72eed...</option>
+<option value="acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920">acestream://91b2a1fe85f5...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920">getstream?id=91b2a1fe85f5bb4a...</option>
+<option value="acestream://91af434b0bb521189286f8cbbab1aed39d7536fe">acestream://91af434b0bb5...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=91af434b0bb521189286f8cbbab1aed39d7536fe">getstream?id=91af434b0bb52118...</option>
+<option value="acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9">acestream://97df5b782494...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9">getstream?id=97df5b7824948972...</option>
+<option value="acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439">acestream://63e4713e8379...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439">getstream?id=63e4713e8379f2eb...</option>
+<option value="acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22">acestream://931fd4c24398...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=931fd4c24398a24beb9b6ede856ca34339ff2c22">getstream?id=931fd4c24398a24b...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                16:00 WRC Rally - Rally de Chile Shakedown <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>16:00 WRC Rally - Rally de Chile Shakedown <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 WRC Rally</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=12404b00d2787995d639ccf71a80da5d39d153f9" class="channel-link" target="_blank">getstream?id=12404b00d2787995d639ccf71a80da5d39d153f9</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=64eb19dccf5e60f121a4c1f7c69489af6b1c9ca9" class="channel-link" target="_blank">getstream?id=64eb19dccf5e60f121a4c1f7c69489af6b1c9ca9</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://12404b00d2787995d639ccf71a80da5d39d153f9">acestream://12404b00d278...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=12404b00d2787995d639ccf71a80da5d39d153f9">getstream?id=12404b00d2787995...</option>
+<option value="acestream://64eb19dccf5e60f121a4c1f7c69489af6b1c9ca9">acestream://64eb19dccf5e...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=64eb19dccf5e60f121a4c1f7c69489af6b1c9ca9">getstream?id=64eb19dccf5e60f1...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                16:15 Faun Tour Femenino -  Etapa 18 - El Puerto de Santa María › Jerez de la Frontera (32,1 km) <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>16:15 Faun Tour Femenino -  Etapa 18 - El Puerto de Santa María › Jerez de la Frontera (32,1 km) <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 Faun Tour Femenino</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=e4414e69ccd4cd97f8662e69736c4027e9182e72" class="channel-link" target="_blank">getstream?id=e4414e69ccd4cd97f8662e69736c4027e9182e72</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=b59f6b82ea4dc175e90799461b4c1b6f49fbe508" class="channel-link" target="_blank">getstream?id=b59f6b82ea4dc175e90799461b4c1b6f49fbe508</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=b80cd193286a7df788c07649667c1e6f64fc9dc7" class="channel-link" target="_blank">getstream?id=b80cd193286a7df788c07649667c1e6f64fc9dc7</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=1acd38e6176c782f5184c8736e0cf7127b65798b" class="channel-link" target="_blank">getstream?id=1acd38e6176c782f5184c8736e0cf7127b65798b</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=48a589dbeab3544662fafd79888aada7d834cfe9" class="channel-link" target="_blank">getstream?id=48a589dbeab3544662fafd79888aada7d834cfe9</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=8522af51ae7189b12effabbb448dcb707195ce1a" class="channel-link" target="_blank">getstream?id=8522af51ae7189b12effabbb448dcb707195ce1a</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153" class="channel-link" target="_blank">getstream?id=313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=62a5750be4d2218b1064f83afaac4770fd92350d" class="channel-link" target="_blank">getstream?id=62a5750be4d2218b1064f83afaac4770fd92350d</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://e4414e69ccd4cd97f8662e69736c4027e9182e72">acestream://e4414e69ccd4...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=e4414e69ccd4cd97f8662e69736c4027e9182e72">getstream?id=e4414e69ccd4cd97...</option>
+<option value="acestream://b59f6b82ea4dc175e90799461b4c1b6f49fbe508">acestream://b59f6b82ea4d...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=b59f6b82ea4dc175e90799461b4c1b6f49fbe508">getstream?id=b59f6b82ea4dc175...</option>
+<option value="acestream://b80cd193286a7df788c07649667c1e6f64fc9dc7">acestream://b80cd193286a...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=b80cd193286a7df788c07649667c1e6f64fc9dc7">getstream?id=b80cd193286a7df7...</option>
+<option value="acestream://1acd38e6176c782f5184c8736e0cf7127b65798b">acestream://1acd38e6176c...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=1acd38e6176c782f5184c8736e0cf7127b65798b">getstream?id=1acd38e6176c782f...</option>
+<option value="acestream://48a589dbeab3544662fafd79888aada7d834cfe9">acestream://48a589dbeab3...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=48a589dbeab3544662fafd79888aada7d834cfe9">getstream?id=48a589dbeab35446...</option>
+<option value="acestream://8522af51ae7189b12effabbb448dcb707195ce1a">acestream://8522af51ae71...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=8522af51ae7189b12effabbb448dcb707195ce1a">getstream?id=8522af51ae7189b1...</option>
+<option value="acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153">acestream://313213b3b99c...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153">getstream?id=313213b3b99c0f74...</option>
+<option value="acestream://62a5750be4d2218b1064f83afaac4770fd92350d">acestream://62a5750be4d2...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=62a5750be4d2218b1064f83afaac4770fd92350d">getstream?id=62a5750be4d2218b...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                17:45 FIBA Copa Mundial Femenina - 1/4 de Final Bélgica - Alemania <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>17:45 FIBA Copa Mundial Femenina - 1/4 de Final Bélgica - Alemania <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 FIBA Copa Mundial Femenina</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=34b91125bd752462f1eca2d8d52f5f40fa761aa0" class="channel-link" target="_blank">getstream?id=34b91125bd752462f1eca2d8d52f5f40fa761aa0</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=e3816fbc661fbc8b2b656aee9483d0a55a1608b6" class="channel-link" target="_blank">getstream?id=e3816fbc661fbc8b2b656aee9483d0a55a1608b6</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=4048be88f84250719e864868e537612f389df48e" class="channel-link" target="_blank">getstream?id=4048be88f84250719e864868e537612f389df48e</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a" class="channel-link" target="_blank">getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=3b50a1dca0977e3761d016edd79314ab797f74f6" class="channel-link" target="_blank">getstream?id=3b50a1dca0977e3761d016edd79314ab797f74f6</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05" class="channel-link" target="_blank">getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae" class="channel-link" target="_blank">getstream?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0">acestream://34b91125bd75...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=34b91125bd752462f1eca2d8d52f5f40fa761aa0">getstream?id=34b91125bd752462...</option>
+<option value="acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6">acestream://e3816fbc661f...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=e3816fbc661fbc8b2b656aee9483d0a55a1608b6">getstream?id=e3816fbc661fbc8b...</option>
+<option value="acestream://4048be88f84250719e864868e537612f389df48e">acestream://4048be88f842...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=4048be88f84250719e864868e537612f389df48e">getstream?id=4048be88f8425071...</option>
+<option value="acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a">acestream://b35b3eb8e223...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a">getstream?id=b35b3eb8e22365bf...</option>
+<option value="acestream://3b50a1dca0977e3761d016edd79314ab797f74f6">acestream://3b50a1dca097...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=3b50a1dca0977e3761d016edd79314ab797f74f6">getstream?id=3b50a1dca0977e37...</option>
+<option value="acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05">acestream://77cf022557c5...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05">getstream?id=77cf022557c56cdf...</option>
+<option value="acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae">acestream://b0d1489c9f32...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae">getstream?id=b0d1489c9f323934...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                18:30 Liga Catalana ACB -  Basquet Girona - Força Lleida <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>18:30 Liga Catalana ACB -  Basquet Girona - Força Lleida <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 Liga Catalana ACB</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=8f59ce96e4c902ba2f5193af07546d7ff17fc3bc" class="channel-link" target="_blank">getstream?id=8f59ce96e4c902ba2f5193af07546d7ff17fc3bc</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=21bc11d195f5753c396e390c215952d21541d04d" class="channel-link" target="_blank">getstream?id=21bc11d195f5753c396e390c215952d21541d04d</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=ed6524f8f73c30cf102fde66f2cb520f4b5842e3" class="channel-link" target="_blank">getstream?id=ed6524f8f73c30cf102fde66f2cb520f4b5842e3</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc">acestream://8f59ce96e4c9...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=8f59ce96e4c902ba2f5193af07546d7ff17fc3bc">getstream?id=8f59ce96e4c902ba...</option>
+<option value="acestream://21bc11d195f5753c396e390c215952d21541d04d">acestream://21bc11d195f5...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=21bc11d195f5753c396e390c215952d21541d04d">getstream?id=21bc11d195f5753c...</option>
+<option value="acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3">acestream://ed6524f8f73c...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=ed6524f8f73c30cf102fde66f2cb520f4b5842e3">getstream?id=ed6524f8f73c30cf...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                18:45 Champions - Fase Liga PSV Eindhoven - Shakhtar Donetsk <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>18:45 Champions - Fase Liga PSV Eindhoven - Shakhtar Donetsk <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 Champions</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373" class="channel-link" target="_blank">getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=320bee0fbdf2a168d47810236985a7c40b4f85c9" class="channel-link" target="_blank">getstream?id=320bee0fbdf2a168d47810236985a7c40b4f85c9</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=85a8e0675bc27ddfd403b8f72953c606d07a8de8" class="channel-link" target="_blank">getstream?id=85a8e0675bc27ddfd403b8f72953c606d07a8de8</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7" class="channel-link" target="_blank">getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9" class="channel-link" target="_blank">getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=5b7f54b12e0f96ceba1299f44eac4b0f97403e4e" class="channel-link" target="_blank">getstream?id=5b7f54b12e0f96ceba1299f44eac4b0f97403e4e</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373">acestream://90f7941c6bf7...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373">getstream?id=90f7941c6bf7ca4b...</option>
+<option value="acestream://320bee0fbdf2a168d47810236985a7c40b4f85c9">acestream://320bee0fbdf2...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=320bee0fbdf2a168d47810236985a7c40b4f85c9">getstream?id=320bee0fbdf2a168...</option>
+<option value="acestream://85a8e0675bc27ddfd403b8f72953c606d07a8de8">acestream://85a8e0675bc2...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=85a8e0675bc27ddfd403b8f72953c606d07a8de8">getstream?id=85a8e0675bc27ddf...</option>
+<option value="acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7">acestream://4416843c96b7...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7">getstream?id=4416843c96b7f7a1...</option>
+<option value="acestream://cfc371890bfb502737a26de5215e50929c52d0f9">acestream://cfc371890bfb...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9">getstream?id=cfc371890bfb5027...</option>
+<option value="acestream://5b7f54b12e0f96ceba1299f44eac4b0f97403e4e">acestream://5b7f54b12e0f...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=5b7f54b12e0f96ceba1299f44eac4b0f97403e4e">getstream?id=5b7f54b12e0f96ce...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                18:45 Champions - Fase Liga Fenerbahçe - AS Roma <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>18:45 Champions - Fase Liga Fenerbahçe - AS Roma <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 Champions</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea" class="channel-link" target="_blank">getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=8156912ae14f6174a19c8a4efcf36a06e847f632" class="channel-link" target="_blank">getstream?id=8156912ae14f6174a19c8a4efcf36a06e847f632</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=bb26037a253866d341778181eff5c8637240d615" class="channel-link" target="_blank">getstream?id=bb26037a253866d341778181eff5c8637240d615</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5" class="channel-link" target="_blank">getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e" class="channel-link" target="_blank">getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=47188da7d2e4beaee82cff174f223fdd23f78fa6" class="channel-link" target="_blank">getstream?id=47188da7d2e4beaee82cff174f223fdd23f78fa6</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea">acestream://338b5de78b0b...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea">getstream?id=338b5de78b0b40a6...</option>
+<option value="acestream://8156912ae14f6174a19c8a4efcf36a06e847f632">acestream://8156912ae14f...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=8156912ae14f6174a19c8a4efcf36a06e847f632">getstream?id=8156912ae14f6174...</option>
+<option value="acestream://bb26037a253866d341778181eff5c8637240d615">acestream://bb26037a2538...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=bb26037a253866d341778181eff5c8637240d615">getstream?id=bb26037a253866d3...</option>
+<option value="acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5">acestream://74ab4e4ec7e2...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5">getstream?id=74ab4e4ec7e2da00...</option>
+<option value="acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e">acestream://38f7b2044e54...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e">getstream?id=38f7b2044e549df2...</option>
+<option value="acestream://47188da7d2e4beaee82cff174f223fdd23f78fa6">acestream://47188da7d2e4...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=47188da7d2e4beaee82cff174f223fdd23f78fa6">getstream?id=47188da7d2e4beae...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                18:45 Las Carreras -  Hipódromo de La Zarzuela 10/09/2026 <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>18:45 Las Carreras -  Hipódromo de La Zarzuela 10/09/2026 <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 Las Carreras</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3" class="channel-link" target="_blank">getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=cf5327fe9c962a29dfff3868f4349ff2b0b4662f" class="channel-link" target="_blank">getstream?id=cf5327fe9c962a29dfff3868f4349ff2b0b4662f</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=6e031aed136bf97d8667fcd5fc49c73256928281" class="channel-link" target="_blank">getstream?id=6e031aed136bf97d8667fcd5fc49c73256928281</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=7f8b4f57bf234510d3f607492508d68167d4b0ab" class="channel-link" target="_blank">getstream?id=7f8b4f57bf234510d3f607492508d68167d4b0ab</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=af393f93814d03160d48d2730759593b7bea5b47" class="channel-link" target="_blank">getstream?id=af393f93814d03160d48d2730759593b7bea5b47</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3">acestream://acb510858f34...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3">getstream?id=acb510858f34c3c6...</option>
+<option value="acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f">acestream://cf5327fe9c96...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=cf5327fe9c962a29dfff3868f4349ff2b0b4662f">getstream?id=cf5327fe9c962a29...</option>
+<option value="acestream://6e031aed136bf97d8667fcd5fc49c73256928281">acestream://6e031aed136b...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=6e031aed136bf97d8667fcd5fc49c73256928281">getstream?id=6e031aed136bf97d...</option>
+<option value="acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab">acestream://7f8b4f57bf23...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=7f8b4f57bf234510d3f607492508d68167d4b0ab">getstream?id=7f8b4f57bf234510...</option>
+<option value="acestream://af393f93814d03160d48d2730759593b7bea5b47">acestream://af393f93814d...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=af393f93814d03160d48d2730759593b7bea5b47">getstream?id=af393f93814d0316...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                20:45 FIBA Copa Mundial Femenina - 1/4 de Final Australia - España <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>20:45 FIBA Copa Mundial Femenina - 1/4 de Final Australia - España <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 FIBA Copa Mundial Femenina</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=34b91125bd752462f1eca2d8d52f5f40fa761aa0" class="channel-link" target="_blank">getstream?id=34b91125bd752462f1eca2d8d52f5f40fa761aa0</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=e3816fbc661fbc8b2b656aee9483d0a55a1608b6" class="channel-link" target="_blank">getstream?id=e3816fbc661fbc8b2b656aee9483d0a55a1608b6</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8" class="channel-link" target="_blank">getstream?id=8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16" class="channel-link" target="_blank">getstream?id=7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc" class="channel-link" target="_blank">getstream?id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=8686522bd5d0b123cbc94ad4a12f2d3a18492479" class="channel-link" target="_blank">getstream?id=8686522bd5d0b123cbc94ad4a12f2d3a18492479</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=866a8af8faacf8fc9eb997ab5a68b4dfee4edc77" class="channel-link" target="_blank">getstream?id=866a8af8faacf8fc9eb997ab5a68b4dfee4edc77</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=86262568aa72b956b06ac67b1c310a32248a0e98" class="channel-link" target="_blank">getstream?id=86262568aa72b956b06ac67b1c310a32248a0e98</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=4048be88f84250719e864868e537612f389df48e" class="channel-link" target="_blank">getstream?id=4048be88f84250719e864868e537612f389df48e</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a" class="channel-link" target="_blank">getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=3b50a1dca0977e3761d016edd79314ab797f74f6" class="channel-link" target="_blank">getstream?id=3b50a1dca0977e3761d016edd79314ab797f74f6</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05" class="channel-link" target="_blank">getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae" class="channel-link" target="_blank">getstream?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0">acestream://34b91125bd75...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=34b91125bd752462f1eca2d8d52f5f40fa761aa0">getstream?id=34b91125bd752462...</option>
+<option value="acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6">acestream://e3816fbc661f...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=e3816fbc661fbc8b2b656aee9483d0a55a1608b6">getstream?id=e3816fbc661fbc8b...</option>
+<option value="acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8">acestream://8cdb6d53f66d...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8">getstream?id=8cdb6d53f66d73bc...</option>
+<option value="acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16">acestream://7e4f6eb38e0d...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16">getstream?id=7e4f6eb38e0d5ef5...</option>
+<option value="acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc">acestream://ad5ca6e24f87...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc">getstream?id=ad5ca6e24f87f47a...</option>
+<option value="acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479">acestream://8686522bd5d0...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=8686522bd5d0b123cbc94ad4a12f2d3a18492479">getstream?id=8686522bd5d0b123...</option>
+<option value="acestream://866a8af8faacf8fc9eb997ab5a68b4dfee4edc77">acestream://866a8af8faac...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=866a8af8faacf8fc9eb997ab5a68b4dfee4edc77">getstream?id=866a8af8faacf8fc...</option>
+<option value="acestream://86262568aa72b956b06ac67b1c310a32248a0e98">acestream://86262568aa72...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=86262568aa72b956b06ac67b1c310a32248a0e98">getstream?id=86262568aa72b956...</option>
+<option value="acestream://4048be88f84250719e864868e537612f389df48e">acestream://4048be88f842...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=4048be88f84250719e864868e537612f389df48e">getstream?id=4048be88f8425071...</option>
+<option value="acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a">acestream://b35b3eb8e223...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a">getstream?id=b35b3eb8e22365bf...</option>
+<option value="acestream://3b50a1dca0977e3761d016edd79314ab797f74f6">acestream://3b50a1dca097...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=3b50a1dca0977e3761d016edd79314ab797f74f6">getstream?id=3b50a1dca0977e37...</option>
+<option value="acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05">acestream://77cf022557c5...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05">getstream?id=77cf022557c56cdf...</option>
+<option value="acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae">acestream://b0d1489c9f32...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae">getstream?id=b0d1489c9f323934...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                21:00 Champions - Fase Liga Manchester Utd. - Sabah FK <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>21:00 Champions - Fase Liga Manchester Utd. - Sabah FK <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 Champions</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea" class="channel-link" target="_blank">getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=8156912ae14f6174a19c8a4efcf36a06e847f632" class="channel-link" target="_blank">getstream?id=8156912ae14f6174a19c8a4efcf36a06e847f632</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=bb26037a253866d341778181eff5c8637240d615" class="channel-link" target="_blank">getstream?id=bb26037a253866d341778181eff5c8637240d615</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5" class="channel-link" target="_blank">getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e" class="channel-link" target="_blank">getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=47188da7d2e4beaee82cff174f223fdd23f78fa6" class="channel-link" target="_blank">getstream?id=47188da7d2e4beaee82cff174f223fdd23f78fa6</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661" class="channel-link" target="_blank">getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=91ac4585368992720ec17ffa5b4389368c6dcac1" class="channel-link" target="_blank">getstream?id=91ac4585368992720ec17ffa5b4389368c6dcac1</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c" class="channel-link" target="_blank">getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=64f01629d4a19e70efd9e6778c397282ba087547" class="channel-link" target="_blank">getstream?id=64f01629d4a19e70efd9e6778c397282ba087547</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2" class="channel-link" target="_blank">getstream?id=5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea">acestream://338b5de78b0b...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea">getstream?id=338b5de78b0b40a6...</option>
+<option value="acestream://8156912ae14f6174a19c8a4efcf36a06e847f632">acestream://8156912ae14f...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=8156912ae14f6174a19c8a4efcf36a06e847f632">getstream?id=8156912ae14f6174...</option>
+<option value="acestream://bb26037a253866d341778181eff5c8637240d615">acestream://bb26037a2538...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=bb26037a253866d341778181eff5c8637240d615">getstream?id=bb26037a253866d3...</option>
+<option value="acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5">acestream://74ab4e4ec7e2...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5">getstream?id=74ab4e4ec7e2da00...</option>
+<option value="acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e">acestream://38f7b2044e54...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e">getstream?id=38f7b2044e549df2...</option>
+<option value="acestream://47188da7d2e4beaee82cff174f223fdd23f78fa6">acestream://47188da7d2e4...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=47188da7d2e4beaee82cff174f223fdd23f78fa6">getstream?id=47188da7d2e4beae...</option>
+<option value="acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661">acestream://6fbab1d8d6bf...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661">getstream?id=6fbab1d8d6bf93c4...</option>
+<option value="acestream://91ac4585368992720ec17ffa5b4389368c6dcac1">acestream://91ac45853689...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=91ac4585368992720ec17ffa5b4389368c6dcac1">getstream?id=91ac458536899272...</option>
+<option value="acestream://e9f4493d2d851f4636720f639113e05b4a21a74c">acestream://e9f4493d2d85...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c">getstream?id=e9f4493d2d851f46...</option>
+<option value="acestream://64f01629d4a19e70efd9e6778c397282ba087547">acestream://64f01629d4a1...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=64f01629d4a19e70efd9e6778c397282ba087547">getstream?id=64f01629d4a19e70...</option>
+<option value="acestream://5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2">acestream://5ba9368d80d2...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2">getstream?id=5ba9368d80d2f87a...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                21:00 Champions - Fase Liga FC Bayern - Bodø/Glimt <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>21:00 Champions - Fase Liga FC Bayern - Bodø/Glimt <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 Champions</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370" class="channel-link" target="_blank">getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920" class="channel-link" target="_blank">getstream?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=91af434b0bb521189286f8cbbab1aed39d7536fe" class="channel-link" target="_blank">getstream?id=91af434b0bb521189286f8cbbab1aed39d7536fe</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9" class="channel-link" target="_blank">getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439" class="channel-link" target="_blank">getstream?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=931fd4c24398a24beb9b6ede856ca34339ff2c22" class="channel-link" target="_blank">getstream?id=931fd4c24398a24beb9b6ede856ca34339ff2c22</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661" class="channel-link" target="_blank">getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=91ac4585368992720ec17ffa5b4389368c6dcac1" class="channel-link" target="_blank">getstream?id=91ac4585368992720ec17ffa5b4389368c6dcac1</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c" class="channel-link" target="_blank">getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=64f01629d4a19e70efd9e6778c397282ba087547" class="channel-link" target="_blank">getstream?id=64f01629d4a19e70efd9e6778c397282ba087547</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2" class="channel-link" target="_blank">getstream?id=5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://e572a5178ff72eed7d1d751a18b4b3419699f370">acestream://e572a5178ff7...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370">getstream?id=e572a5178ff72eed...</option>
+<option value="acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920">acestream://91b2a1fe85f5...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920">getstream?id=91b2a1fe85f5bb4a...</option>
+<option value="acestream://91af434b0bb521189286f8cbbab1aed39d7536fe">acestream://91af434b0bb5...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=91af434b0bb521189286f8cbbab1aed39d7536fe">getstream?id=91af434b0bb52118...</option>
+<option value="acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9">acestream://97df5b782494...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9">getstream?id=97df5b7824948972...</option>
+<option value="acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439">acestream://63e4713e8379...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439">getstream?id=63e4713e8379f2eb...</option>
+<option value="acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22">acestream://931fd4c24398...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=931fd4c24398a24beb9b6ede856ca34339ff2c22">getstream?id=931fd4c24398a24b...</option>
+<option value="acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661">acestream://6fbab1d8d6bf...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661">getstream?id=6fbab1d8d6bf93c4...</option>
+<option value="acestream://91ac4585368992720ec17ffa5b4389368c6dcac1">acestream://91ac45853689...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=91ac4585368992720ec17ffa5b4389368c6dcac1">getstream?id=91ac458536899272...</option>
+<option value="acestream://e9f4493d2d851f4636720f639113e05b4a21a74c">acestream://e9f4493d2d85...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c">getstream?id=e9f4493d2d851f46...</option>
+<option value="acestream://64f01629d4a19e70efd9e6778c397282ba087547">acestream://64f01629d4a1...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=64f01629d4a19e70efd9e6778c397282ba087547">getstream?id=64f01629d4a19e70...</option>
+<option value="acestream://5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2">acestream://5ba9368d80d2...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2">getstream?id=5ba9368d80d2f87a...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                21:00 Champions - Fase Liga Slavia Praha - Lens <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>21:00 Champions - Fase Liga Slavia Praha - Lens <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 Champions</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661" class="channel-link" target="_blank">getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=91ac4585368992720ec17ffa5b4389368c6dcac1" class="channel-link" target="_blank">getstream?id=91ac4585368992720ec17ffa5b4389368c6dcac1</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c" class="channel-link" target="_blank">getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=64f01629d4a19e70efd9e6778c397282ba087547" class="channel-link" target="_blank">getstream?id=64f01629d4a19e70efd9e6778c397282ba087547</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2" class="channel-link" target="_blank">getstream?id=5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d" class="channel-link" target="_blank">getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=5bed693c6a22de55f1061c509bba5e3aeb2ea2aa" class="channel-link" target="_blank">getstream?id=5bed693c6a22de55f1061c509bba5e3aeb2ea2aa</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=3e430d14ef1cf1c147c7b06332081291e05a1431" class="channel-link" target="_blank">getstream?id=3e430d14ef1cf1c147c7b06332081291e05a1431</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661">acestream://6fbab1d8d6bf...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661">getstream?id=6fbab1d8d6bf93c4...</option>
+<option value="acestream://91ac4585368992720ec17ffa5b4389368c6dcac1">acestream://91ac45853689...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=91ac4585368992720ec17ffa5b4389368c6dcac1">getstream?id=91ac458536899272...</option>
+<option value="acestream://e9f4493d2d851f4636720f639113e05b4a21a74c">acestream://e9f4493d2d85...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c">getstream?id=e9f4493d2d851f46...</option>
+<option value="acestream://64f01629d4a19e70efd9e6778c397282ba087547">acestream://64f01629d4a1...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=64f01629d4a19e70efd9e6778c397282ba087547">getstream?id=64f01629d4a19e70...</option>
+<option value="acestream://5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2">acestream://5ba9368d80d2...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2">getstream?id=5ba9368d80d2f87a...</option>
+<option value="acestream://5620c0ce3dcbf14a6375cb2c2d681207f45eb97d">acestream://5620c0ce3dcb...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d">getstream?id=5620c0ce3dcbf14a...</option>
+<option value="acestream://5bed693c6a22de55f1061c509bba5e3aeb2ea2aa">acestream://5bed693c6a22...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=5bed693c6a22de55f1061c509bba5e3aeb2ea2aa">getstream?id=5bed693c6a22de55...</option>
+<option value="acestream://3e430d14ef1cf1c147c7b06332081291e05a1431">acestream://3e430d14ef1c...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=3e430d14ef1cf1c147c7b06332081291e05a1431">getstream?id=3e430d14ef1cf1c1...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                21:00 Champions - Fase Liga Como 1907 - RB Leipzig <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>21:00 Champions - Fase Liga Como 1907 - RB Leipzig <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 Champions</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373" class="channel-link" target="_blank">getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=320bee0fbdf2a168d47810236985a7c40b4f85c9" class="channel-link" target="_blank">getstream?id=320bee0fbdf2a168d47810236985a7c40b4f85c9</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=85a8e0675bc27ddfd403b8f72953c606d07a8de8" class="channel-link" target="_blank">getstream?id=85a8e0675bc27ddfd403b8f72953c606d07a8de8</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7" class="channel-link" target="_blank">getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9" class="channel-link" target="_blank">getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=5b7f54b12e0f96ceba1299f44eac4b0f97403e4e" class="channel-link" target="_blank">getstream?id=5b7f54b12e0f96ceba1299f44eac4b0f97403e4e</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661" class="channel-link" target="_blank">getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=91ac4585368992720ec17ffa5b4389368c6dcac1" class="channel-link" target="_blank">getstream?id=91ac4585368992720ec17ffa5b4389368c6dcac1</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c" class="channel-link" target="_blank">getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=64f01629d4a19e70efd9e6778c397282ba087547" class="channel-link" target="_blank">getstream?id=64f01629d4a19e70efd9e6778c397282ba087547</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2" class="channel-link" target="_blank">getstream?id=5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373">acestream://90f7941c6bf7...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373">getstream?id=90f7941c6bf7ca4b...</option>
+<option value="acestream://320bee0fbdf2a168d47810236985a7c40b4f85c9">acestream://320bee0fbdf2...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=320bee0fbdf2a168d47810236985a7c40b4f85c9">getstream?id=320bee0fbdf2a168...</option>
+<option value="acestream://85a8e0675bc27ddfd403b8f72953c606d07a8de8">acestream://85a8e0675bc2...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=85a8e0675bc27ddfd403b8f72953c606d07a8de8">getstream?id=85a8e0675bc27ddf...</option>
+<option value="acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7">acestream://4416843c96b7...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7">getstream?id=4416843c96b7f7a1...</option>
+<option value="acestream://cfc371890bfb502737a26de5215e50929c52d0f9">acestream://cfc371890bfb...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9">getstream?id=cfc371890bfb5027...</option>
+<option value="acestream://5b7f54b12e0f96ceba1299f44eac4b0f97403e4e">acestream://5b7f54b12e0f...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=5b7f54b12e0f96ceba1299f44eac4b0f97403e4e">getstream?id=5b7f54b12e0f96ce...</option>
+<option value="acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661">acestream://6fbab1d8d6bf...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661">getstream?id=6fbab1d8d6bf93c4...</option>
+<option value="acestream://91ac4585368992720ec17ffa5b4389368c6dcac1">acestream://91ac45853689...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=91ac4585368992720ec17ffa5b4389368c6dcac1">getstream?id=91ac458536899272...</option>
+<option value="acestream://e9f4493d2d851f4636720f639113e05b4a21a74c">acestream://e9f4493d2d85...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c">getstream?id=e9f4493d2d851f46...</option>
+<option value="acestream://64f01629d4a19e70efd9e6778c397282ba087547">acestream://64f01629d4a1...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=64f01629d4a19e70efd9e6778c397282ba087547">getstream?id=64f01629d4a19e70...</option>
+<option value="acestream://5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2">acestream://5ba9368d80d2...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2">getstream?id=5ba9368d80d2f87a...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                21:00 Liga Catalana ACB -  Barça Basket - MoraBanc Andorra <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>21:00 Liga Catalana ACB -  Barça Basket - MoraBanc Andorra <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 Liga Catalana ACB</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=8f59ce96e4c902ba2f5193af07546d7ff17fc3bc" class="channel-link" target="_blank">getstream?id=8f59ce96e4c902ba2f5193af07546d7ff17fc3bc</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=21bc11d195f5753c396e390c215952d21541d04d" class="channel-link" target="_blank">getstream?id=21bc11d195f5753c396e390c215952d21541d04d</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=ed6524f8f73c30cf102fde66f2cb520f4b5842e3" class="channel-link" target="_blank">getstream?id=ed6524f8f73c30cf102fde66f2cb520f4b5842e3</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc">acestream://8f59ce96e4c9...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=8f59ce96e4c902ba2f5193af07546d7ff17fc3bc">getstream?id=8f59ce96e4c902ba...</option>
+<option value="acestream://21bc11d195f5753c396e390c215952d21541d04d">acestream://21bc11d195f5...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=21bc11d195f5753c396e390c215952d21541d04d">getstream?id=21bc11d195f5753c...</option>
+<option value="acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3">acestream://ed6524f8f73c...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=ed6524f8f73c30cf102fde66f2cb520f4b5842e3">getstream?id=ed6524f8f73c30cf...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                01:00 US Open WTA - Semifinal 1 A. Sabalenka - J. Pegula <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>01:00 US Open WTA - Semifinal 1 A. Sabalenka - J. Pegula <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 US Open WTA</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5" class="channel-link" target="_blank">getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=3774d8feab016ca766b35ea8488e7514ca30e0ee" class="channel-link" target="_blank">getstream?id=3774d8feab016ca766b35ea8488e7514ca30e0ee</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=3ee6a0b0e3cacea68107f61bf398f651d8159eed" class="channel-link" target="_blank">getstream?id=3ee6a0b0e3cacea68107f61bf398f651d8159eed</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=8cd8fd69c6755ec452e9e74b33a0d1a653452191" class="channel-link" target="_blank">getstream?id=8cd8fd69c6755ec452e9e74b33a0d1a653452191</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=fd2aea1aa8fcddebfda1644118c6806230a1d539" class="channel-link" target="_blank">getstream?id=fd2aea1aa8fcddebfda1644118c6806230a1d539</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=6b15368775693c33c49fab02e7900c1976a5da90" class="channel-link" target="_blank">getstream?id=6b15368775693c33c49fab02e7900c1976a5da90</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://3afe1af18f8ff78e9946856911b00c67477052b5">acestream://3afe1af18f8f...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5">getstream?id=3afe1af18f8ff78e...</option>
+<option value="acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee">acestream://3774d8feab01...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=3774d8feab016ca766b35ea8488e7514ca30e0ee">getstream?id=3774d8feab016ca7...</option>
+<option value="acestream://3ee6a0b0e3cacea68107f61bf398f651d8159eed">acestream://3ee6a0b0e3ca...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=3ee6a0b0e3cacea68107f61bf398f651d8159eed">getstream?id=3ee6a0b0e3cacea6...</option>
+<option value="acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191">acestream://8cd8fd69c675...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=8cd8fd69c6755ec452e9e74b33a0d1a653452191">getstream?id=8cd8fd69c6755ec4...</option>
+<option value="acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539">acestream://fd2aea1aa8fc...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=fd2aea1aa8fcddebfda1644118c6806230a1d539">getstream?id=fd2aea1aa8fcddeb...</option>
+<option value="acestream://6b15368775693c33c49fab02e7900c1976a5da90">acestream://6b1536877569...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=6b15368775693c33c49fab02e7900c1976a5da90">getstream?id=6b15368775693c33...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                02:30 US Open WTA - Semifinal 2 C. Gauff - E. Rybakina <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>02:30 US Open WTA - Semifinal 2 C. Gauff - E. Rybakina <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 US Open WTA</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5" class="channel-link" target="_blank">getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=3774d8feab016ca766b35ea8488e7514ca30e0ee" class="channel-link" target="_blank">getstream?id=3774d8feab016ca766b35ea8488e7514ca30e0ee</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=3ee6a0b0e3cacea68107f61bf398f651d8159eed" class="channel-link" target="_blank">getstream?id=3ee6a0b0e3cacea68107f61bf398f651d8159eed</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=8cd8fd69c6755ec452e9e74b33a0d1a653452191" class="channel-link" target="_blank">getstream?id=8cd8fd69c6755ec452e9e74b33a0d1a653452191</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=fd2aea1aa8fcddebfda1644118c6806230a1d539" class="channel-link" target="_blank">getstream?id=fd2aea1aa8fcddebfda1644118c6806230a1d539</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=6b15368775693c33c49fab02e7900c1976a5da90" class="channel-link" target="_blank">getstream?id=6b15368775693c33c49fab02e7900c1976a5da90</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://3afe1af18f8ff78e9946856911b00c67477052b5">acestream://3afe1af18f8f...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5">getstream?id=3afe1af18f8ff78e...</option>
+<option value="acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee">acestream://3774d8feab01...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=3774d8feab016ca766b35ea8488e7514ca30e0ee">getstream?id=3774d8feab016ca7...</option>
+<option value="acestream://3ee6a0b0e3cacea68107f61bf398f651d8159eed">acestream://3ee6a0b0e3ca...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=3ee6a0b0e3cacea68107f61bf398f651d8159eed">getstream?id=3ee6a0b0e3cacea6...</option>
+<option value="acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191">acestream://8cd8fd69c675...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=8cd8fd69c6755ec452e9e74b33a0d1a653452191">getstream?id=8cd8fd69c6755ec4...</option>
+<option value="acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539">acestream://fd2aea1aa8fc...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=fd2aea1aa8fcddebfda1644118c6806230a1d539">getstream?id=fd2aea1aa8fcddeb...</option>
+<option value="acestream://6b15368775693c33c49fab02e7900c1976a5da90">acestream://6b1536877569...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=6b15368775693c33c49fab02e7900c1976a5da90">getstream?id=6b15368775693c33...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-        <div class="event-group">
-            <div class="event-header" onclick="toggleEvent(this)">
-                07:30 The Solheim Cup -  Jornada 1 <span class="arrow">▶</span>
+
+        <div class="event-card">
+            <div class="event-info">
+                <h3>07:30 The Solheim Cup -  Jornada 1 <span class="status-next">⏳ PROSSIMO</span></h3>
+                <p class="competition">🏆 The Solheim Cup</p>
+                <p class="datetime">🕒 --:-- • 📅 Thursday, 10 September 2026</p>
+                <span class="fonte-badge">📡 Acestream</span>
             </div>
-            <ul class="stream-links">
-                <li><a href="http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb" class="channel-link" target="_blank">getstream?id=872608e734992db636eb79426802cd08f4029afb</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=9bb2a7dc6c6a296609df8cc50e742a78194f7530" class="channel-link" target="_blank">getstream?id=9bb2a7dc6c6a296609df8cc50e742a78194f7530</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=8121478d3d3e563ad6b98018bc1c0aeb2f6166eb" class="channel-link" target="_blank">getstream?id=8121478d3d3e563ad6b98018bc1c0aeb2f6166eb</a></li><li><a href="http://127.0.0.1:6878/ace/getstream?id=f60535a458b3c114283e2f433379144345beddd6" class="channel-link" target="_blank">getstream?id=f60535a458b3c114283e2f433379144345beddd6</a></li>
-            </ul>
+            <div class="event-links">
+                <div class="dropdown">
+                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                    <option value="">📡 Scegli il server...</option>
+<option value="acestream://872608e734992db636eb79426802cd08f4029afb">acestream://872608e73499...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb">getstream?id=872608e734992db6...</option>
+<option value="acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530">acestream://9bb2a7dc6c6a...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=9bb2a7dc6c6a296609df8cc50e742a78194f7530">getstream?id=9bb2a7dc6c6a2966...</option>
+<option value="acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb">acestream://8121478d3d3e...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=8121478d3d3e563ad6b98018bc1c0aeb2f6166eb">getstream?id=8121478d3d3e563a...</option>
+<option value="acestream://f60535a458b3c114283e2f433379144345beddd6">acestream://f60535a458b3...</option>
+<option value="http://127.0.0.1:6878/ace/getstream?id=f60535a458b3c114283e2f433379144345beddd6">getstream?id=f60535a458b3c114...</option>
+                </select>
+            </div>
+            </div>
         </div>
         
-    </div>
-</div>
-<script>
-    function toggleEvent(header) {
-        header.classList.toggle('active');
-        const links = header.nextElementSibling;
-        links.classList.toggle('open');
-        links.style.maxHeight = links.classList.contains('open') ? links.scrollHeight + "px" : "0";
-    }
-</script>
-</body>
-</html>
+            </div>
+            <footer class="footer">
+                <p class="neon-text">KIRA GSI SPORT • Eventi in Diretta • 2026 • Developed by KIRA GSI GROUP</p>
+            </footer>
+        </div>
+    </body>
+    </html>
+    

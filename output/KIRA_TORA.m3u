@@ -1,29 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",18:00 - Sundby vs FC Midtjylland
-https://embed.st/embed/admin/ppv-sundby-vs-fc-midtjylland/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",19:05 - Philadelphia Phillies vs Houston Astros
+https://embed.st/embed/admin/ppv-houston-astros-vs-philadelphia-phillies/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",18:00 - Sundby vs FC Midtjylland
-https://embed.st/embed/admin/ppv-sundby-vs-fc-midtjylland/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",19:05 - Philadelphia Phillies vs Houston Astros
+https://embed.st/embed/admin/ppv-houston-astros-vs-philadelphia-phillies/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",16:45 - Asteras Tripolis vs Aris
-https://sportora.ru/watch/asteras-tripolis-vs-aris-2600186
+#EXTINF:-1 group-title="Baseball",19:05 - Philadelphia Phillies vs Houston Astros
+https://embed.st/embed/delta/live_mlb_phillies-astros-live-streaming-594273024/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",18:15 - Atlanta Braves vs Tampa Bay Rays
-https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-atlanta-braves/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",19:05 - Philadelphia Phillies vs Houston Astros
+https://embed.st/embed/golf/1132/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",18:15 - Atlanta Braves vs Tampa Bay Rays
-https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-atlanta-braves/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",18:15 - Atlanta Braves vs Tampa Bay Rays
-https://embed.st/embed/delta/live_mlb_braves-rays-live-streaming-594272592/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",18:15 - Atlanta Braves vs Tampa Bay Rays
-https://embed.st/embed/golf/1131/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",18:15 - Atlanta Braves vs Tampa Bay Rays
-https://embed.st/embed/golf/1131/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",19:05 - Philadelphia Phillies vs Houston Astros
+https://embed.st/embed/golf/1132/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:45 - Fenerbahce vs. AS Roma
 https://embed.st/embed/admin/ppv-fenerbahce-vs-as-roma/1#player=clappr&autoplay=true
@@ -36,6 +27,9 @@ https://embed.st/embed/admin/ppv-fenerbahce-vs-as-roma/3#player=clappr&autoplay=
 
 #EXTINF:-1 group-title="Football",18:45 - Fenerbahce vs. AS Roma
 https://embed.st/embed/admin/ppv-fenerbahce-vs-as-roma/4#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:45 - Fenerbahçe vs Roma
+https://embed.st/embed/delta/live_uefa-champions-league_fenerbahce-roma-live-streaming-614245680/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:45 - Fenerbahçe vs Roma
 https://embed.st/embed/golf/1042/1#player=clappr&autoplay=true
@@ -56,19 +50,22 @@ https://embed.st/embed/admin/ppv-psv-eindhoven-vs-shakhtar-donetsk/3#player=clap
 https://embed.st/embed/admin/ppv-psv-eindhoven-vs-shakhtar-donetsk/4#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:45 - PSV Eindhoven vs Shakhtar Donetsk
-https://embed.st/embed/golf/1041/1#player=clappr&autoplay=true
+https://embed.st/embed/delta/live_uefa-champions-league_psv-shakhtar-live-streaming-614261664/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",19:05 - Philadelphia Phillies vs Houston Astros
-https://embed.st/embed/admin/ppv-houston-astros-vs-philadelphia-phillies/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",18:15 - Atlanta Braves vs Tampa Bay Rays
+https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-atlanta-braves/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",19:05 - Philadelphia Phillies vs Houston Astros
-https://embed.st/embed/admin/ppv-houston-astros-vs-philadelphia-phillies/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",18:15 - Atlanta Braves vs Tampa Bay Rays
+https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-atlanta-braves/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",19:05 - Philadelphia Phillies vs Houston Astros
-https://embed.st/embed/golf/1132/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",18:15 - Atlanta Braves vs Tampa Bay Rays
+https://embed.st/embed/delta/live_mlb_braves-rays-live-streaming-594272592/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",19:05 - Philadelphia Phillies vs Houston Astros
-https://embed.st/embed/golf/1132/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Baseball",18:15 - Atlanta Braves vs Tampa Bay Rays
+https://embed.st/embed/golf/1131/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",18:15 - Atlanta Braves vs Tampa Bay Rays
+https://embed.st/embed/golf/1131/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:15 - Panathinaikos vs Kifisia
 https://sportora.ru/watch/panathinaikos-vs-kifisia-2539921
@@ -110,10 +107,13 @@ https://embed.st/embed/admin/ppv-slavia-prague-vs-lens/1#player=clappr&autoplay=
 https://embed.st/embed/admin/ppv-slavia-prague-vs-lens/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Slavia Prague vs Lens
-https://embed.st/embed/golf/1045/1#player=clappr&autoplay=true
+https://embed.st/embed/admin/ppv-slavia-prague-vs-lens/3#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Slavia Prague vs Lens
-https://embed.st/embed/golf/1045/2#player=clappr&autoplay=true
+https://embed.st/embed/admin/ppv-slavia-prague-vs-lens/4#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Slavia Prague vs Lens
+https://embed.st/embed/golf/1045/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Bayern Munich vs Bodø/Glimt
 https://embed.st/embed/admin/ppv-bayern-munich-vs-bodo-glimt/1#player=clappr&autoplay=true
@@ -128,7 +128,7 @@ https://embed.st/embed/admin/ppv-bayern-munich-vs-bodo-glimt/3#player=clappr&aut
 https://embed.st/embed/admin/ppv-bayern-munich-vs-bodo-glimt/4#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Bayern Munich vs Bodø/Glimt
-https://embed.st/embed/golf/1044/1#player=clappr&autoplay=true
+https://embed.st/embed/delta/live_uefa-champions-league_bayern-bodoglimt-live-streaming-614241792/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Manchester United vs Sabah Baku
 https://embed.st/embed/admin/ppv-manchester-united-vs-sabah-fk/1#player=clappr&autoplay=true

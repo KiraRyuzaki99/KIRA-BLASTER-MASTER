@@ -1,26 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Football – MLS",Oggi 00:00 - New York City FC vs. New England Revolution [Apple TV]
-https://august.ppvtv.icu/embed.html?match=flj02be&server=0
-
-#EXTINF:-1 group-title="Wrestling – Wrestling",Oggi 00:00 - AEW Wednesday Night Dynamite [TBS]
-https://august.ppvtv.icu/embed.html?match=c9mnosy&server=0
-
-#EXTINF:-1 group-title="American Football – NFL",Oggi 00:20 - New England Patriots at Seattle Seahawks [NBC]
+#EXTINF:-1 group-title="American Football – NFL",Oggi 00:20 - New England Patriots at Seattle Seahawks [Peacock]
 https://august.ppvtv.icu/embed.html?match=c1kmszhj&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Oggi 00:30 - Austin FC vs. Colorado Rapids [Apple TV]
-https://august.ppvtv.icu/embed.html?match=f16yva4i&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Oggi 00:30 - Chicago Fire FC vs. Inter Miami CF [Apple TV]
-https://august.ppvtv.icu/embed.html?match=fszeizs&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Oggi 00:30 - Houston Dynamo FC vs. Real Salt Lake [Apple TV]
-https://august.ppvtv.icu/embed.html?match=f1tmcyvp&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Oggi 00:30 - Minnesota United FC vs. FC Dallas [Apple TV]
-https://august.ppvtv.icu/embed.html?match=fuduln9&server=0
 
 #EXTINF:-1 group-title="Baseball – MLB",Oggi 02:10 - Cincinnati Reds vs. Los Angeles Dodgers [SportsNet LA]
 https://august.ppvtv.icu/embed.html?match=fl29z3b&server=0
@@ -211,8 +193,50 @@ https://august.ppvtv.icu/embed.html?match=fogtkog&server=0
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 10:28 - 24/7 The Simpsons [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1j7a3d7&server=0
 
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 10:30 - Spanish Grand Prix - Practice 3 [Sky Sports F1]
+https://august.ppvtv.icu/embed.html?match=c1gb2ri7&server=0
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 10:30 - Spanish Grand Prix - Practice 3 [Apple TV (F1TV)]
+https://august.ppvtv.icu/embed.html?match=c1gb2ri7&server=1
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 10:30 - Spanish Grand Prix - Practice 3 [DAZN F1]
+https://august.ppvtv.icu/embed.html?match=c1gb2ri7&server=2
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 10:30 - Spanish Grand Prix - Practice 3 [Sky Sport F1]
+https://august.ppvtv.icu/embed.html?match=c1gb2ri7&server=3
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 10:30 - Spanish Grand Prix - Practice 3 [Sky Sport F1]
+https://august.ppvtv.icu/embed.html?match=c1gb2ri7&server=4
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 10:30 - Spanish Grand Prix - Practice 3 [V Sport Motor]
+https://august.ppvtv.icu/embed.html?match=c1gb2ri7&server=5
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 10:30 - Spanish Grand Prix - Practice 3 [Viaplay]
+https://august.ppvtv.icu/embed.html?match=c1gb2ri7&server=6
+
 #EXTINF:-1 group-title="Football – Belgian Pro League",Domani 11:30 - Club Brugge vs. Antwerp [DAZN]
 https://august.ppvtv.icu/embed.html?match=f1uwq24g&server=0
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 11:30 - Spanish Grand Prix - Practice 1 [Sky Sports F1]
+https://august.ppvtv.icu/embed.html?match=c1gronjx&server=0
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 11:30 - Spanish Grand Prix - Practice 1 [Apple TV (F1TV)]
+https://august.ppvtv.icu/embed.html?match=c1gronjx&server=1
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 11:30 - Spanish Grand Prix - Practice 1 [DAZN F1]
+https://august.ppvtv.icu/embed.html?match=c1gronjx&server=2
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 11:30 - Spanish Grand Prix - Practice 1 [Sky Sport F1]
+https://august.ppvtv.icu/embed.html?match=c1gronjx&server=3
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 11:30 - Spanish Grand Prix - Practice 1 [Sky Sport F1]
+https://august.ppvtv.icu/embed.html?match=c1gronjx&server=4
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 11:30 - Spanish Grand Prix - Practice 1 [V Sport Motor]
+https://august.ppvtv.icu/embed.html?match=c1gronjx&server=5
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 11:30 - Spanish Grand Prix - Practice 1 [Viaplay]
+https://august.ppvtv.icu/embed.html?match=c1gronjx&server=6
 
 #EXTINF:-1 group-title="Football – LaLiga",Domani 12:00 - Racing Santander vs. Alavés [LaLiga]
 https://august.ppvtv.icu/embed.html?match=ffdpii5&server=0
@@ -243,6 +267,27 @@ https://august.ppvtv.icu/embed.html?match=fhg1gkv&server=0
 
 #EXTINF:-1 group-title="Football – Ligue 1",Domani 13:00 - Lille vs. Troyes [Ligue 1]
 https://august.ppvtv.icu/embed.html?match=f1t93urk&server=0
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 13:00 - Spanish Grand Prix - Race [Sky Sports F1]
+https://august.ppvtv.icu/embed.html?match=c1dcitsq&server=0
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 13:00 - Spanish Grand Prix - Race [Apple TV (F1TV)]
+https://august.ppvtv.icu/embed.html?match=c1dcitsq&server=1
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 13:00 - Spanish Grand Prix - Race [DAZN F1]
+https://august.ppvtv.icu/embed.html?match=c1dcitsq&server=2
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 13:00 - Spanish Grand Prix - Race [Sky Sport F1]
+https://august.ppvtv.icu/embed.html?match=c1dcitsq&server=3
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 13:00 - Spanish Grand Prix - Race [Sky Sport F1]
+https://august.ppvtv.icu/embed.html?match=c1dcitsq&server=4
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 13:00 - Spanish Grand Prix - Race [V Sport Motor]
+https://august.ppvtv.icu/embed.html?match=c1dcitsq&server=5
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 13:00 - Spanish Grand Prix - Race [Viaplay]
+https://august.ppvtv.icu/embed.html?match=c1dcitsq&server=6
 
 #EXTINF:-1 group-title="Football – Bundesliga",Domani 13:30 - Borussia Dortmund vs. SC Paderborn 07 [Bundesliga]
 https://august.ppvtv.icu/embed.html?match=f103f856&server=0
@@ -283,6 +328,27 @@ https://august.ppvtv.icu/embed.html?match=fixq5yk&server=0
 #EXTINF:-1 group-title="Football – Belgian Pro League",Domani 14:00 - Racing Genk vs. KAA Gent [DAZN]
 https://august.ppvtv.icu/embed.html?match=fg4bx8f&server=0
 
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 14:00 - Spanish Grand Prix - Qualifying [Sky Sports F1]
+https://august.ppvtv.icu/embed.html?match=c1an5d1u&server=0
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 14:00 - Spanish Grand Prix - Qualifying [Apple TV (F1TV)]
+https://august.ppvtv.icu/embed.html?match=c1an5d1u&server=1
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 14:00 - Spanish Grand Prix - Qualifying [DAZN F1]
+https://august.ppvtv.icu/embed.html?match=c1an5d1u&server=2
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 14:00 - Spanish Grand Prix - Qualifying [Sky Sport F1]
+https://august.ppvtv.icu/embed.html?match=c1an5d1u&server=3
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 14:00 - Spanish Grand Prix - Qualifying [Sky Sport F1]
+https://august.ppvtv.icu/embed.html?match=c1an5d1u&server=4
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 14:00 - Spanish Grand Prix - Qualifying [V Sport Motor]
+https://august.ppvtv.icu/embed.html?match=c1an5d1u&server=5
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 14:00 - Spanish Grand Prix - Qualifying [Viaplay]
+https://august.ppvtv.icu/embed.html?match=c1an5d1u&server=6
+
 #EXTINF:-1 group-title="Football – LaLiga",Domani 14:15 - Osasuna vs. Espanyol [LaLiga]
 https://august.ppvtv.icu/embed.html?match=f1rmfzic&server=0
 
@@ -297,6 +363,27 @@ https://august.ppvtv.icu/embed.html?match=f109ulrx&server=0
 
 #EXTINF:-1 group-title="Football – Eredivisie",Domani 14:45 - PEC Zwolle vs. Feyenoord Rotterdam [ESPN]
 https://august.ppvtv.icu/embed.html?match=f7ov4zm&server=0
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 15:00 - Spanish Grand Prix - Practice 2 [Sky Sports F1]
+https://august.ppvtv.icu/embed.html?match=cndcnlo&server=0
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 15:00 - Spanish Grand Prix - Practice 2 [Apple TV (F1TV)]
+https://august.ppvtv.icu/embed.html?match=cndcnlo&server=1
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 15:00 - Spanish Grand Prix - Practice 2 [DAZN F1]
+https://august.ppvtv.icu/embed.html?match=cndcnlo&server=2
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 15:00 - Spanish Grand Prix - Practice 2 [Sky Sport F1]
+https://august.ppvtv.icu/embed.html?match=cndcnlo&server=3
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 15:00 - Spanish Grand Prix - Practice 2 [Sky Sport F1]
+https://august.ppvtv.icu/embed.html?match=cndcnlo&server=4
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 15:00 - Spanish Grand Prix - Practice 2 [V Sport Motor]
+https://august.ppvtv.icu/embed.html?match=cndcnlo&server=5
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 15:00 - Spanish Grand Prix - Practice 2 [Viaplay]
+https://august.ppvtv.icu/embed.html?match=cndcnlo&server=6
 
 #EXTINF:-1 group-title="Football – Ligue 1",Domani 15:15 - Strasbourg vs. AS Monaco [Ligue 1]
 https://august.ppvtv.icu/embed.html?match=fmoqgh7&server=0
@@ -511,9 +598,6 @@ https://august.ppvtv.icu/embed.html?match=fii57ls&server=0
 #EXTINF:-1 group-title="Football – MLS",Domani 22:30 - Vancouver Whitecaps vs. Austin FC [Apple TV]
 https://august.ppvtv.icu/embed.html?match=f5jwvgb&server=0
 
-#EXTINF:-1 group-title="Baseball – MLB",Passato 22:45 - Los Angeles Angels vs. Boston Red Sox [NESN]
-https://august.ppvtv.icu/embed.html?match=f7drz&server=0
-
 #EXTINF:-1 group-title="American Football – College Football",Domani 23:00 - Villanova Wildcats at Louisville Cardinals [ACC Network]
 https://august.ppvtv.icu/embed.html?match=c1n2akxz&server=0
 
@@ -529,12 +613,6 @@ https://august.ppvtv.icu/embed.html?match=c15ilzgj&server=0
 #EXTINF:-1 group-title="Football – Liga MX",Domani 23:00 - Toluca vs. Atlas [Liga MX]
 https://august.ppvtv.icu/embed.html?match=f6yp1gw&server=0
 
-#EXTINF:-1 group-title="Baseball – MLB",Passato 23:05 - Colorado Rockies vs. New York Yankees [YES]
-https://august.ppvtv.icu/embed.html?match=f1urgcy2&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Passato 23:15 - Tampa Bay Rays vs. Atlanta Braves [BravesVision]
-https://august.ppvtv.icu/embed.html?match=f15c7ow2&server=0
-
 #EXTINF:-1 group-title="American Football – College Football",Domani 23:30 - Ohio State Buckeyes at Texas Longhorns [ABC]
 https://august.ppvtv.icu/embed.html?match=c1r0v8ln&server=0
 
@@ -546,21 +624,6 @@ https://august.ppvtv.icu/embed.html?match=c1yyztc2&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Domani 23:30 - Iowa State Cyclones at Iowa Hawkeyes [NBC]
 https://august.ppvtv.icu/embed.html?match=c5v0cmf&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Passato 23:30 - Atlanta United FC vs. Orlando City SC [Apple TV]
-https://august.ppvtv.icu/embed.html?match=f1c3o6im&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Passato 23:30 - CF Montréal vs. Charlotte FC [Apple TV]
-https://august.ppvtv.icu/embed.html?match=f1spp23f&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Passato 23:30 - D.C. United vs. Columbus Crew [Apple TV]
-https://august.ppvtv.icu/embed.html?match=f8rtzko&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Passato 23:30 - Philadelphia Union vs. FC Cincinnati [Apple TV]
-https://august.ppvtv.icu/embed.html?match=f19wvnms&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Passato 23:30 - Toronto FC vs. Nashville SC [Apple TV]
-https://august.ppvtv.icu/embed.html?match=fs8dnx5&server=0
 
 #EXTINF:-1 group-title="Football – MLS",Domani 23:30 - Columbus Crew vs. Red Bull New York [Apple TV]
 https://august.ppvtv.icu/embed.html?match=f15veq0n&server=0
@@ -576,15 +639,6 @@ https://august.ppvtv.icu/embed.html?match=fdazx2b&server=0
 
 #EXTINF:-1 group-title="Football – MLS",Domani 23:30 - Orlando City SC vs. Toronto FC [Apple TV]
 https://august.ppvtv.icu/embed.html?match=f1ccj8t9&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Passato 23:40 - Arizona Diamondbacks vs. Kansas City Royals [Royals.TV]
-https://august.ppvtv.icu/embed.html?match=fro0v7w&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Passato 23:40 - Chicago Cubs vs. Milwaukee Brewers [Marquee Sports Net]
-https://august.ppvtv.icu/embed.html?match=f1jroyl7&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Passato 23:40 - Pittsburgh Pirates vs. Chicago White Sox [CHSN]
-https://august.ppvtv.icu/embed.html?match=f1bfg4qn&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Domani 23:45 - Charlotte 49ers at Ole Miss Rebels [ESPN2]
 https://august.ppvtv.icu/embed.html?match=cyii1bj&server=0

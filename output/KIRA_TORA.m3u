@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Motor-sports",08:28 - World Rally Championship 2026 - Rally Chile
-https://embed.st/embed/delta/live-event_world-rally-championship-2026-rally-chile-live-stream/1#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Football",09:30 - Barcelona U19 vs Feyenoord U19
 https://sportora.ru/watch/barcelona-u19-vs-feyenoord-u19-football-1637313
+
+#EXTINF:-1 group-title="Motor-sports",08:28 - World Rally Championship 2026 - Rally Chile
+https://embed.st/embed/delta/live-event_world-rally-championship-2026-rally-chile-live-stream/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Fight",11:00 - Super RIZIN 5
 https://embed.st/embed/delta/live-event_super-rizin-5-live-stream/1#player=clappr&autoplay=true

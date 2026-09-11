@@ -1,26 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Cricket",12:00 - England vs. Pakistan
-https://embed.st/embed/admin/ppv-england-vs-pakistan/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Other",14:00 - Snooker English Open 🎱
+https://sportora.ru/watch/snooker-english-open-pick3
 
-#EXTINF:-1 group-title="Cricket",12:00 - England vs. Pakistan
-https://embed.st/embed/admin/ppv-england-vs-pakistan/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Rugby",11:50 - South Sydney Rabbitohs vs Newcastle Knights
-https://embed.st/embed/admin/ppv-rabbitohs-vs-knights/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Rugby",11:50 - South Sydney Rabbitohs vs Newcastle Knights
-https://embed.st/embed/admin/ppv-rabbitohs-vs-knights/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Motor-sports",10:51 - Formula 1 2026 - Spain GP
-https://sportora.ru/watch/live-event_formula-1-2026-spain-gp-1-live-stream
-
-#EXTINF:-1 group-title="Afl",12:10 - Fremantle Dockers vs Geelong Cats
-https://sportora.ru/watch/fremantle-dockers-vs-geelong-cats-australian-football-3629
-
-#EXTINF:-1 group-title="Motor-sports",13:30 - 1st Practice | Circuit De Espana |
-https://sportora.ru/watch/1st-practice-circuit-de-espana-formula-1-2582
+#EXTINF:-1 group-title="Motor-sports",13:30 - 1st Practice |  |
+https://sportora.ru/watch/1st-practice-formula-1-2582
 
 #EXTINF:-1 group-title="Fight",13:30 - ONE The Inner Circle 30: Rambolek vs. Yod-IQ
 https://embed.st/embed/admin/ppv-one-the-inner-circle-30-rambolek-vs-yod-iq/1#player=clappr&autoplay=true
@@ -28,23 +13,35 @@ https://embed.st/embed/admin/ppv-one-the-inner-circle-30-rambolek-vs-yod-iq/1#pl
 #EXTINF:-1 group-title="Fight",13:30 - ONE The Inner Circle 30: Rambolek vs. Yod-IQ
 https://embed.st/embed/admin/ppv-one-the-inner-circle-30-rambolek-vs-yod-iq/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Other",14:00 - Snooker English Open 🎱
-https://sportora.ru/watch/snooker-english-open-pick3
+#EXTINF:-1 group-title="Fight",13:30 - ONE The Inner Circle 30: Rambolek vs. Yod-IQ
+https://embed.st/embed/admin/ppv-one-the-inner-circle-30-rambolek-vs-yod-iq/3#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Motor-sports",17:00 - Spanish Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-spanish-grand-prix-practice-1/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Fight",13:30 - ONE The Inner Circle 30: Rambolek vs. Yod-IQ
+https://embed.st/embed/admin/ppv-one-the-inner-circle-30-rambolek-vs-yod-iq/4#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Motor-sports",17:00 - Spanish Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-spanish-grand-prix-practice-1/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Motor-sports",13:30 - Spanish Grand Prix Practice 1
+https://embed.st/embed/admin/ppv-spanish-grand-prix-practice-2/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Motor-sports",17:00 - Spanish Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-spanish-grand-prix-practice-1/3#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Motor-sports",13:30 - Spanish Grand Prix Practice 1
+https://embed.st/embed/admin/ppv-spanish-grand-prix-practice-2/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Motor-sports",17:00 - Spanish Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-spanish-grand-prix-practice-1/4#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Motor-sports",13:30 - Spanish Grand Prix Practice 1
+https://embed.st/embed/admin/ppv-spanish-grand-prix-practice-2/3#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Motor-sports",17:00 - Spanish Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-spanish-grand-prix-practice-1/5#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Motor-sports",13:30 - Spanish Grand Prix Practice 1
+https://embed.st/embed/admin/ppv-spanish-grand-prix-practice-2/4#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Motor-sports",13:30 - Spanish Grand Prix Practice 1
+https://embed.st/embed/admin/ppv-spanish-grand-prix-practice-2/5#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Cricket",12:00 - England vs. Pakistan
+https://embed.st/embed/admin/ppv-england-vs-pakistan/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Cricket",12:00 - England vs. Pakistan
+https://embed.st/embed/admin/ppv-england-vs-pakistan/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Motor-sports",17:00 - 2nd Practice |  |
+https://sportora.ru/watch/2nd-practice-formula-1-2583
 
 #EXTINF:-1 group-title="Football",17:25 - Al-Qadisiyah FC vs Al-Ettifaq
 https://sportora.ru/watch/al-qadisiyah-fc-vs-al-ettifaq-football-1603030

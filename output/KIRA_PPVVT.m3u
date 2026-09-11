@@ -1,14 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="American Football – College Football",Oggi 00:00 - Florida A&M Rattlers at Miami Hurricanes [ACC Network]
-https://august.ppvtv.icu/embed.html?match=cbq0ddc&server=0
-
 #EXTINF:-1 group-title="American Football – NFL",Oggi 00:35 - San Francisco 49ers at Los Angeles Rams [Netflix]
 https://august.ppvtv.icu/embed.html?match=cjngiuq&server=0
-
-#EXTINF:-1 group-title="Wrestling – Wrestling",Oggi 01:00 - TNA Impact [AMC]
-https://august.ppvtv.icu/embed.html?match=c1se54xr&server=0
 
 #EXTINF:-1 group-title="Football – Liga MX",Oggi 03:00 - Pumas UNAM vs. León [TUDN]
 https://august.ppvtv.icu/embed.html?match=fzszd1g&server=0
@@ -84,6 +78,9 @@ https://august.ppvtv.icu/embed.html?match=f1bfnxii&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Oggi 23:00 - Villanova Wildcats at Louisville Cardinals [ACC Network]
 https://august.ppvtv.icu/embed.html?match=c1n2akxz&server=0
+
+#EXTINF:-1 group-title="American Football – 24/7 channel",Oggi N/A - NFL Network [NFL Network (ESPN)]
+https://august.ppvtv.icu/embed.html?match=c15q87wa&server=0
 
 #EXTINF:-1 group-title="Australian Football – 24/7 channel",Oggi N/A - Fox Footy [Kayo]
 https://august.ppvtv.icu/embed.html?match=c6ykpbg&server=0
@@ -574,9 +571,6 @@ https://august.ppvtv.icu/embed.html?match=c15ilzgj&server=0
 #EXTINF:-1 group-title="Football – Liga MX",Domani 23:00 - Toluca vs. Atlas [Liga MX]
 https://august.ppvtv.icu/embed.html?match=f6yp1gw&server=0
 
-#EXTINF:-1 group-title="Baseball – MLB",Passato 23:05 - Colorado Rockies vs. New York Yankees [YES]
-https://august.ppvtv.icu/embed.html?match=f1urgcy2&server=0
-
 #EXTINF:-1 group-title="American Football – College Football",Domani 23:30 - Ohio State Buckeyes at Texas Longhorns [ABC]
 https://august.ppvtv.icu/embed.html?match=c1r0v8ln&server=0
 
@@ -603,9 +597,6 @@ https://august.ppvtv.icu/embed.html?match=fdazx2b&server=0
 
 #EXTINF:-1 group-title="Football – MLS",Domani 23:30 - Orlando City SC vs. Toronto FC [Apple TV]
 https://august.ppvtv.icu/embed.html?match=f1ccj8t9&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Passato 23:40 - Pittsburgh Pirates vs. Chicago White Sox [CHSN]
-https://august.ppvtv.icu/embed.html?match=f1bfg4qn&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Domani 23:45 - Charlotte 49ers at Ole Miss Rebels [ESPN2]
 https://august.ppvtv.icu/embed.html?match=cyii1bj&server=0

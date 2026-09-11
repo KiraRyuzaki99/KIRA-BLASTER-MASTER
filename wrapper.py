@@ -35,8 +35,8 @@ TUOI_SCRIPTS = [
     "scripts/personali/sportora.py",
     "scripts/personali/ppvvt.py",
     "scripts/personali/genera_index.py",
-    "scripts/personali/genera_html_epg.py",
     "scripts/personali/scarica_epg.py",
+    "scripts/personali/genera_html_epg.py",
 ]
 
 def log(msg: str):

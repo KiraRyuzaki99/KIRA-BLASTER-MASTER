@@ -1,27 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",00:15 - Defensa y Justicia vs Gimnasia y Esgrima de Mendoza
-https://sportora.ru/watch/defensa-y-justicia-vs-gimnasia-y-esgrima-de-mendoza-2398075
-
-#EXTINF:-1 group-title="Other",00:30 - World 100 Eldora
-https://sportora.ru/watch/ppv-event-10-world-100-eldora-ppv-10
-
-#EXTINF:-1 group-title="Baseball",00:40 - Detroit Tigers vs Colorado Rockies
-https://embed.st/embed/admin/ppv-colorado-rockies-vs-detroit-tigers/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",00:40 - Detroit Tigers vs Colorado Rockies
-https://embed.st/embed/admin/ppv-colorado-rockies-vs-detroit-tigers/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",00:40 - Detroit Tigers vs Colorado Rockies
-https://embed.st/embed/delta/live_mlb_tigers-rockies-live-streaming-594291600/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",00:40 - Detroit Tigers vs Colorado Rockies
-https://embed.st/embed/delta/live_mlb_tigers-rockies-live-streaming-594291600/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",00:40 - Detroit Tigers vs Colorado Rockies
-https://embed.st/embed/golf/1150/1#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Baseball",00:45 - Washington Nationals vs Los Angeles Angels
 https://embed.st/embed/admin/ppv-los-angeles-angels-vs-washington-nationals/1#player=clappr&autoplay=true
 
@@ -36,3 +15,15 @@ https://embed.st/embed/delta/live_mlb_nationals-angels-live-streaming-594292032/
 
 #EXTINF:-1 group-title="Baseball",00:45 - Washington Nationals vs Los Angeles Angels
 https://embed.st/embed/golf/1151/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Detroit Tigers vs Colorado Rockies
+https://embed.st/embed/golf/1150/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Detroit Tigers vs Colorado Rockies
+https://embed.st/embed/golf/1150/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Other",00:30 - World 100 Eldora
+https://sportora.ru/watch/ppv-event-10-world-100-eldora-ppv-10
+
+#EXTINF:-1 group-title="Football",00:15 - Defensa y Justicia vs Gimnasia y Esgrima de Mendoza
+https://sportora.ru/watch/defensa-y-justicia-vs-gimnasia-y-esgrima-de-mendoza-2398075

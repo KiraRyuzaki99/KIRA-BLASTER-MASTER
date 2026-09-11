@@ -13,13 +13,6 @@ from datetime import datetime
 
 OUTPUT_DIR = "output"
 
-# Script della repo originale (nella radice)
-REPO_SCRIPTS = [
-    "scripts/repo/script_lista_livetv_sx.py"
-    "scripts/repo/script_canales_acestream.py",
-    "scripts/repo/script_logo.py",
-]
-
 # TUOI script (in ordine)
 TUOI_SCRIPTS = [
     "scripts/personali/Pydroid_Spo.py",
@@ -31,9 +24,11 @@ TUOI_SCRIPTS = [
     "scripts/personali/kiraht_od.py",
     "scripts/personali/PyGenHtmlM3U.py",
     "scripts/personali/genera_livetv.py",
+    "scripts/personali/scraper_mamahd.py",
     "scripts/personali/mamahdday.py",
     "scripts/personali/sportora.py",
     "scripts/personali/ppvvt.py",
+    "scripts/personali/kira_foo.py",
     "scripts/personali/genera_index.py",
 ]
 
@@ -77,17 +72,12 @@ def main():
     if not os.path.exists(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
     
-    # 1. Script repo originale
-    print("\n📦 FASE 1: Script repo originale")
-    for script in REPO_SCRIPTS:
-        run_script(script)
-    
-    # 2. Tuoi script
+    # 1. Tuoi script
     print("\n📦 FASE 2: Tuoi script")
     for script in TUOI_SCRIPTS:
         run_script(script)
     
-    # 3. Sposta file (escludi index.html)
+    # 2. Sposta file (escludi index.html)
     print("\n📦 FASE 3: Spostamento file")
     for pattern in ["*.xml", "*.m3u", "*.json", "*.html", "*.txt"]:
         for f in glob.glob(pattern):

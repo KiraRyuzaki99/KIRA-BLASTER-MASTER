@@ -1,84 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Fight",18:00 - Harry Powell - Nathan Sheppard
-https://embed.st/embed/golf/1198/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Fight",18:00 - Harry Powell - Nathan Sheppard
-https://embed.st/embed/golf/1198/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:00 - Raków Częstochowa vs Motor Lublin
-https://sportora.ru/watch/rak-w-cz-stochowa-vs-motor-lublin-2490259
-
-#EXTINF:-1 group-title="Hockey",18:00 - Bílí Tygři Liberec vs Herning Blue Fox
-https://embed.st/embed/admin/ppv-b-l-tyg-i-liberec-vs-herning-blue-fox/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Hockey",18:00 - Bílí Tygři Liberec vs Herning Blue Fox
-https://embed.st/embed/admin/ppv-b-l-tyg-i-liberec-vs-herning-blue-fox/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",17:45 - Al-Faisaly vs Al-Ittihad
-https://sportora.ru/watch/al-faisaly-vs-al-ittihad-2573357
-
-#EXTINF:-1 group-title="Football",17:25 - Al-Qadisiyah FC vs Al-Ettifaq
-https://sportora.ru/watch/al-qadisiyah-fc-vs-al-ettifaq-football-1603030
-
-#EXTINF:-1 group-title="Motor-sports",17:00 - 2nd Practice |  |
-https://sportora.ru/watch/2nd-practice-formula-1-2583
-
-#EXTINF:-1 group-title="Motor-sports",17:00 - Spanish Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-spanish-grand-prix-practice-2/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Motor-sports",17:00 - Spanish Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-spanish-grand-prix-practice-2/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Motor-sports",17:00 - Spanish Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-spanish-grand-prix-practice-2/3#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Motor-sports",17:00 - Spanish Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-spanish-grand-prix-practice-2/4#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Motor-sports",17:00 - Spanish Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-spanish-grand-prix-practice-2/5#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:30 - Werder Bremen W vs Hamburger SV W
-https://sportora.ru/watch/werder-bremen-w-vs-hamburger-sv-w-football-1593134
-
-#EXTINF:-1 group-title="Football",18:30 - 2. Bundesliga - Freitags-Konferenz
-https://embed.st/embed/admin/ppv-2-bundesliga-freitags-konferenz/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:30 - 2. Bundesliga - Freitags-Konferenz
-https://embed.st/embed/admin/ppv-2-bundesliga-freitags-konferenz/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:30 - Darmstadt vs Arminia Bielefeld
-https://embed.st/embed/admin/ppv-sv-darmstadt-98-vs-arminia-bielefeld/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:30 - Darmstadt vs Arminia Bielefeld
-https://embed.st/embed/admin/ppv-sv-darmstadt-98-vs-arminia-bielefeld/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:30 - Nürnberg vs Hannover 96
-https://embed.st/embed/admin/ppv-1-fc-n-rnberg-vs-hannover-96/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:30 - Nürnberg vs Hannover 96
-https://embed.st/embed/admin/ppv-1-fc-n-rnberg-vs-hannover-96/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",19:00 - Beşiktaş vs Erzurumspor
-https://sportora.ru/watch/be-ikta--vs-erzurumspor-2527760
-
-#EXTINF:-1 group-title="Football",19:00 - Viktoria Köln vs Hansa Rostock
-https://sportora.ru/watch/viktoria-k-ln-vs-hansa-rostock-2525362
-
-#EXTINF:-1 group-title="Football",19:00 - FC Copenhagen vs AC Horsens
-https://sportora.ru/watch/fc-copenhagen-vs-ac-horsens-2481836
-
-#EXTINF:-1 group-title="Football",19:00 - Häcken vs Mjällby
-https://embed.st/embed/admin/ppv-bk-h-cken-vs-mj-llby-aif/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",19:00 - Häcken vs Mjällby
-https://embed.st/embed/admin/ppv-bk-h-cken-vs-mj-llby-aif/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",19:45 - Torreense vs Leixoes
-https://sportora.ru/watch/torreense-vs-leixoes-football-1576493
-
 #EXTINF:-1 group-title="Football",20:00 - Al-Ahli Jeddah vs Al-Hazm
 https://sportora.ru/watch/al-ahli-jeddah-vs-al-hazm-football-1603026
 
@@ -103,11 +25,59 @@ https://sportora.ru/watch/dijon-vs-laval-2488752
 #EXTINF:-1 group-title="Football",20:00 - Montpellier vs Pau
 https://sportora.ru/watch/montpellier-vs-pau-2488751
 
+#EXTINF:-1 group-title="Football",19:45 - Torreense vs Leixoes
+https://sportora.ru/watch/torreense-vs-leixoes-football-1576493
+
+#EXTINF:-1 group-title="Football",19:00 - Beşiktaş vs Erzurumspor
+https://sportora.ru/watch/be-ikta--vs-erzurumspor-2527760
+
+#EXTINF:-1 group-title="Football",19:00 - Viktoria Köln vs Hansa Rostock
+https://sportora.ru/watch/viktoria-k-ln-vs-hansa-rostock-2525362
+
+#EXTINF:-1 group-title="Football",19:00 - FC Copenhagen vs AC Horsens
+https://sportora.ru/watch/fc-copenhagen-vs-ac-horsens-2481836
+
+#EXTINF:-1 group-title="Football",19:00 - Häcken vs Mjällby
+https://embed.st/embed/admin/ppv-bk-h-cken-vs-mj-llby-aif/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",19:00 - Häcken vs Mjällby
+https://embed.st/embed/admin/ppv-bk-h-cken-vs-mj-llby-aif/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:30 - Werder Bremen W vs Hamburger SV W
+https://sportora.ru/watch/werder-bremen-w-vs-hamburger-sv-w-football-1593134
+
+#EXTINF:-1 group-title="Football",18:30 - Darmstadt vs Arminia Bielefeld
+https://embed.st/embed/admin/ppv-sv-darmstadt-98-vs-arminia-bielefeld/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:30 - Darmstadt vs Arminia Bielefeld
+https://embed.st/embed/admin/ppv-sv-darmstadt-98-vs-arminia-bielefeld/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:30 - Nürnberg vs Hannover 96
+https://embed.st/embed/admin/ppv-1-fc-n-rnberg-vs-hannover-96/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:30 - Nürnberg vs Hannover 96
+https://embed.st/embed/admin/ppv-1-fc-n-rnberg-vs-hannover-96/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",18:00 - Harry Powell - Nathan Sheppard
+https://embed.st/embed/golf/1198/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",18:00 - Harry Powell - Nathan Sheppard
+https://embed.st/embed/golf/1198/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Hockey",18:00 - Bílí Tygři Liberec vs Herning Blue Fox
+https://embed.st/embed/admin/ppv-b-l-tyg-i-liberec-vs-herning-blue-fox/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Hockey",18:00 - Bílí Tygři Liberec vs Herning Blue Fox
+https://embed.st/embed/admin/ppv-b-l-tyg-i-liberec-vs-herning-blue-fox/2#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Baseball",20:20 - Chicago Cubs vs Pittsburgh Pirates
 https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-chicago-cubs/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",20:20 - Chicago Cubs vs Pittsburgh Pirates
 https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-chicago-cubs/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",20:20 - Chicago Cubs vs Pittsburgh Pirates
+https://embed.st/embed/delta/live_mlb_cubs-pirates-live-streaming-594291168/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",20:20 - Chicago Cubs vs Pittsburgh Pirates
 https://embed.st/embed/golf/1149/1#player=clappr&autoplay=true
@@ -168,6 +138,9 @@ https://embed.st/embed/admin/ppv-venezia-vs-fiorentina/3#player=clappr&autoplay=
 
 #EXTINF:-1 group-title="Football",20:45 - Venezia vs Fiorentina
 https://embed.st/embed/admin/ppv-venezia-vs-fiorentina/4#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Venezia vs Fiorentina
+https://embed.st/embed/delta/live_serie-a_venezia-fiorentina-live-streaming-615054816/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Other",21:00 -  Powell v Shepard 🔥
 https://sportora.ru/watch/ppv-event-02-powell-v-shepard-ppv-02

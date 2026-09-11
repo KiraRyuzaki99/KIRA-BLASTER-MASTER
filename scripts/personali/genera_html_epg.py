@@ -12,7 +12,7 @@ import re
 from datetime import datetime, timezone, timedelta
 from xml.etree import ElementTree as ET
 
-DEFAULT_TEMPLATE = "templates/epg-template.html"
+DEFAULT_TEMPLATE = "template/epg-template.html"
 
 def parse_epg_date(s):
     if not s:

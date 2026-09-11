@@ -1,42 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 18:00 - AZ Alkmaar vs. Willem II [ESPN2]
-https://august.ppvtv.icu/embed.html?match=f10v4tv0&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 18:20 - Pittsburgh Pirates vs. Chicago Cubs [Marquee Sports Net]
-https://august.ppvtv.icu/embed.html?match=f1klzefx&server=0
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 18:30 - 1. FC Union Berlin vs. Schalke 04 [Fandango]
-https://august.ppvtv.icu/embed.html?match=f18p2j0h&server=0
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 18:30 - 1. FC Union Berlin vs. Schalke 04 [Sky Sport Bundesliga 1]
-https://august.ppvtv.icu/embed.html?match=f18p2j0h&server=1
-
-#EXTINF:-1 group-title="Football – Serie A",Oggi 18:45 - Venezia vs. Fiorentina [Paramount+]
-https://august.ppvtv.icu/embed.html?match=f1lmc95j&server=0
-
-#EXTINF:-1 group-title="Football – Serie A",Oggi 18:45 - Venezia vs. Fiorentina [DAZN 1]
-https://august.ppvtv.icu/embed.html?match=f1lmc95j&server=1
-
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 18:45 - Stade Rennais vs. Marseille [Ligue 1+]
-https://august.ppvtv.icu/embed.html?match=fe5p3yt&server=0
-
-#EXTINF:-1 group-title="Football – National League",Oggi 18:45 - Kidderminster Harriers vs. Hartlepool United [DAZN National League]
-https://august.ppvtv.icu/embed.html?match=flw578c&server=0
-
-#EXTINF:-1 group-title="Football – Belgian Pro League",Oggi 18:45 - KV Mechelen vs. Anderlecht [DAZN]
-https://august.ppvtv.icu/embed.html?match=f9wa8gd&server=0
-
-#EXTINF:-1 group-title="Football – LaLiga",Oggi 19:00 - Sevilla vs. Valencia [ESPN+]
-https://august.ppvtv.icu/embed.html?match=f1bfnxii&server=0
-
-#EXTINF:-1 group-title="Football – LaLiga",Oggi 19:00 - Sevilla vs. Valencia [ESPN+]
-https://august.ppvtv.icu/embed.html?match=f1bfnxii&server=1
-
-#EXTINF:-1 group-title="Football – EFL Championship",Oggi 19:00 - West Ham United vs. Wrexham [Sky Sports Football]
-https://august.ppvtv.icu/embed.html?match=f1un7qul&server=0
-
 #EXTINF:-1 group-title="Baseball – MLB",Oggi 22:40 - Colorado Rockies vs. Detroit Tigers [Tigers.TV]
 https://august.ppvtv.icu/embed.html?match=fc4j3fy&server=0
 
@@ -142,6 +106,9 @@ https://august.ppvtv.icu/embed.html?match=f1vh3qcl&server=0
 #EXTINF:-1 group-title="Football – MLS",Domani 00:30 - St. Louis CITY SC vs. Minnesota United FC [Apple TV]
 https://august.ppvtv.icu/embed.html?match=f1stihv3&server=0
 
+#EXTINF:-1 group-title="Football – Liga MX",Domani 01:00 - Necaxa vs. Puebla [FOX Deportes]
+https://august.ppvtv.icu/embed.html?match=f12k8ggy&server=0
+
 #EXTINF:-1 group-title="Football – Liga MX",Domani 01:00 - Monterrey vs. Tigres UANL [Liga MX]
 https://august.ppvtv.icu/embed.html?match=f16i6w7m&server=0
 
@@ -181,8 +148,14 @@ https://august.ppvtv.icu/embed.html?match=f738q8b&server=0
 #EXTINF:-1 group-title="American Football – College Football",Domani 03:00 - Louisiana Ragin' Cajuns at USC Trojans [BTN]
 https://august.ppvtv.icu/embed.html?match=c1wvk4uu&server=0
 
+#EXTINF:-1 group-title="Football – Liga MX",Domani 03:00 - Atlante vs. Pachuca [ViX Premium Deportes 1]
+https://august.ppvtv.icu/embed.html?match=fxqoprr&server=0
+
 #EXTINF:-1 group-title="Football – Liga MX",Domani 03:00 - Cruz Azul vs. América [Liga MX]
 https://august.ppvtv.icu/embed.html?match=fikhmfb&server=0
+
+#EXTINF:-1 group-title="Football – Liga MX",Domani 03:10 - Tijuana vs. Querétaro [TUDN]
+https://august.ppvtv.icu/embed.html?match=f1k8llkv&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 05:00 - 24/7 COWS [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1dc895w&server=0
@@ -247,6 +220,9 @@ https://august.ppvtv.icu/embed.html?match=f10cfufb&server=0
 #EXTINF:-1 group-title="Football – Scottish League Cup",Domani 11:00 - Rangers vs. Celtic [Premier Sports 1]
 https://august.ppvtv.icu/embed.html?match=fcvc7fd&server=0
 
+#EXTINF:-1 group-title="Football – EFL League One",Domani 11:30 - Notts County vs. Bradford City [EFL League One]
+https://august.ppvtv.icu/embed.html?match=fngtj3e&server=0
+
 #EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 11:30 - 1. FC Heidenheim 1846 vs. Holstein Kiel [2. Bundesliga]
 https://august.ppvtv.icu/embed.html?match=f1jvfxhn&server=0
 
@@ -255,6 +231,9 @@ https://august.ppvtv.icu/embed.html?match=fo7rx2p&server=0
 
 #EXTINF:-1 group-title="Football – 2. Bundesliga",Domani 11:30 - VfL Osnabruck vs. Hertha Berlin [2. Bundesliga]
 https://august.ppvtv.icu/embed.html?match=fjldf25&server=0
+
+#EXTINF:-1 group-title="Arm Wrestling – Arm Wrestling",Domani 12:00 - East vs West 26: China [PPV]
+https://august.ppvtv.icu/embed.html?match=fj5snyb&server=0
 
 #EXTINF:-1 group-title="Football – LaLiga",Domani 12:00 - Racing Santander vs. Alavés [LaLiga]
 https://august.ppvtv.icu/embed.html?match=ffdpii5&server=0

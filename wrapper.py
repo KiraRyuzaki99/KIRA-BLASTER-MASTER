@@ -42,19 +42,18 @@ TUOI_SCRIPTS = [
 def log(msg: str):
     print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}")
 
-def run_script(script_path: str, args: list = None) -> bool:
+def run_script(script_path: str) -> bool:
     if not os.path.exists(script_path):
         log(f"⚠️ File non trovato: {script_path}")
         return False
     
     log(f"▶️ Esecuzione: {script_path}")
-    cmd = [sys.executable, script_path] + (args or [])
     try:
         result = subprocess.run(
-            cmd,
+            [sys.executable, script_path],
             capture_output=True,
             text=True,
-            timeout=300
+            timeout=120
         )
         if result.stdout:
             for line in result.stdout.splitlines():

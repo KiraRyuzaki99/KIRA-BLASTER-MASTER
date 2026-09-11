@@ -620,7 +620,7 @@ def main():
         footer="KIRA GSI SPORT • Tutti gli Sport in Diretta • 2026 • Developed by KIRA GSI GROUP"
     )
 
-    filename = "htsport_all_sports.html"
+    filename = "kira_hat.html"
     with open(filename, "w", encoding="utf-8") as f:
         f.write(html_output)
     print(f"\n✅ HTML generato con successo: {filename}")

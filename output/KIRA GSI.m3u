@@ -1,28 +1,57 @@
 #EXTM3U
+#EXTGRP:Brasileirão
+#EXTINF:-1 group-title="Brasileirão",⏳NEXT 12/09 02:00 - Coritiba vs Athletico Paranaense
+https://streamxhd.com/live1.php?stream=premiere1
+#EXTGRP:Bundesliga
+#EXTINF:-1 group-title="Bundesliga",⏳NEXT 11/09 20:30 - Union Berlin vs Schalke 04
+https://streamxhd.com/live1.php?stream=universo
+#EXTGRP:Championship
+#EXTINF:-1 group-title="Championship",⏳NEXT 11/09 21:00 - West Ham vs Wrexham
+https://streamxhd.com/live1.php?stream=disney16
 #EXTGRP:Copa Bolivia
-#EXTINF:-1 group-title="Copa Bolivia",⏳NEXT 11/09 02:30 - Bolívar vs Independiente Petrolero
+#EXTINF:-1 group-title="Copa Bolivia",⏳NEXT 12/09 02:30 - Bolívar vs Independiente Petrolero
 https://streamxhd.com/live1.php?stream=entelgol
 #EXTGRP:Copa Centroamericana
-#EXTINF:-1 group-title="Copa Centroamericana",⏳NEXT 11/09 03:06 - Marathón vs Alajuelense
+#EXTINF:-1 group-title="Copa Centroamericana",⏳NEXT 12/09 03:06 - Marathón vs Alajuelense
 https://streamxhd.com/live1.php?stream=disney9
-#EXTINF:-1 group-title="Copa Centroamericana",⏳NEXT 11/09 05:06 - Firpo vs Olimpia
+#EXTINF:-1 group-title="Copa Centroamericana",⏳NEXT 12/09 05:06 - Firpo vs Olimpia
 https://streamxhd.com/live1.php?stream=disney10
-#EXTGRP:Copa Ecuador
-#EXTINF:-1 group-title="Copa Ecuador",🔴LIVE 10/09 22:00 - Astillero vs Universidad Católica
-https://streamxhd.com/live1.php?stream=zapping_ec
 #EXTGRP:Copa Libertadores
-#EXTINF:-1 group-title="Copa Libertadores",⏳NEXT 11/09 02:30 - Independiente del Valle vs Flamengo
+#EXTINF:-1 group-title="Copa Libertadores",⏳NEXT 12/09 02:30 - Independiente del Valle vs Flamengo
 https://streamxhd.com/live1.php?stream=disney8
 #EXTGRP:Copa Mundial Sub-20 (F)
-#EXTINF:-1 group-title="Copa Mundial Sub-20 (F)",✅END 10/09 15:00 - España vs Nueva Caledonia
-https://streamxhd.com/live1.php?stream=tudnmx
-#EXTINF:-1 group-title="Copa Mundial Sub-20 (F)",✅END 10/09 15:00 - Corea del Norte vs Costa Rica
+#EXTINF:-1 group-title="Copa Mundial Sub-20 (F)",⏳NEXT 11/09 15:00 - Inglaterra vs Brasil
 https://streamxhd.com/live1.php?stream=dsports2
-#EXTINF:-1 group-title="Copa Mundial Sub-20 (F)",✅END 10/09 18:00 - Colombia vs Portugal
+#EXTINF:-1 group-title="Copa Mundial Sub-20 (F)",⏳NEXT 11/09 18:00 - Argentina vs México
 https://streamxhd.com/live1.php?stream=dsports2
 #EXTGRP:Copa Sudamericana
-#EXTINF:-1 group-title="Copa Sudamericana",⏳NEXT 11/09 02:30 - Cienciano vs Torque
+#EXTINF:-1 group-title="Copa Sudamericana",⏳NEXT 12/09 02:30 - Cienciano vs Torque
 https://streamxhd.com/live1.php?stream=dsports
+#EXTGRP:ESPN Knockout
+#EXTINF:-1 group-title="ESPN Knockout",⏳NEXT 12/09 02:00 - Vinicius Pires vs Rafael Pereira
+https://streamxhd.com/live1.php?stream=espn4
+#EXTINF:-1 group-title="ESPN Knockout",⏳NEXT 12/09 03:00 - Maximiliano Maidana vs Luciano Baldor
+https://streamxhd.com/live1.php?stream=espn3
+#EXTGRP:Eredivisie
+#EXTINF:-1 group-title="Eredivisie",⏳NEXT 11/09 20:00 - AZ Alkmaar vs Willem II
+https://streamxhd.com/live1.php?stream=disney11
+#EXTGRP:F1
+#EXTINF:-1 group-title="F1",⏳NEXT 11/09 13:30 - GP España - Práctica #1
+https://streamxhd.com/live1.php?stream=disney2
+#EXTINF:-1 group-title="F1",⏳NEXT 11/09 13:30 - GP España - Práctica #1 - Cámara On Board
+https://streamxhd.com/live1.php?stream=disney3
+#EXTINF:-1 group-title="F1",⏳NEXT 11/09 13:30 - GP España - Práctica #1 - On Board Colapinto
+https://streamxhd.com/live1.php?stream=disney4
+#EXTINF:-1 group-title="F1",⏳NEXT 11/09 13:30 - GP España - Práctica #1 - On Board Piastri
+https://streamxhd.com/live1.php?stream=disney5
+#EXTINF:-1 group-title="F1",⏳NEXT 11/09 17:00 - GP España - Práctica #2
+https://streamxhd.com/live1.php?stream=disney6
+#EXTINF:-1 group-title="F1",⏳NEXT 11/09 17:00 - GP España - Práctica #2 - Cámara On Board
+https://streamxhd.com/live1.php?stream=disney7
+#EXTINF:-1 group-title="F1",⏳NEXT 11/09 17:00 - GP España - Práctica #2 - On Board Colapinto
+https://streamxhd.com/live1.php?stream=disney8
+#EXTINF:-1 group-title="F1",⏳NEXT 11/09 17:00 - GP España - Práctica #2 - On Board Piastri
+https://streamxhd.com/live1.php?stream=disney9
 #EXTGRP:Fútbol
 #EXTINF:-1 group-title="Fútbol",✅END 10/09 18:45 - UEFA Champions League: Fenerbahçe vs Roma
 https://streamx305.sbs/channel/tnt2uk.html
@@ -44,41 +73,41 @@ https://streamx305.sbs/global1.php?channel=disney2
 https://streamx305.sbs/global1.php?channel=foxone1
 #EXTINF:-1 group-title="Fútbol",✅END 10/09 18:45 - UEFA Champions League: PSV vs Shakhtar Donetsk
 https://streamx305.sbs/global1.php?channel=espn2
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 10/09 21:00 - UEFA Champions League: Bayern München vs Bodø / Glimt
+#EXTINF:-1 group-title="Fútbol",✅END 10/09 21:00 - UEFA Champions League: Bayern München vs Bodø / Glimt
 https://streamx305.sbs/channel/tnt2uk.html
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 10/09 21:00 - UEFA Champions League: Bayern München vs Bodø / Glimt
+#EXTINF:-1 group-title="Fútbol",✅END 10/09 21:00 - UEFA Champions League: Bayern München vs Bodø / Glimt
 https://streamx305.sbs/global1.php?channel=disney3
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 10/09 21:00 - UEFA Champions League: Bayern München vs Bodø / Glimt
+#EXTINF:-1 group-title="Fútbol",✅END 10/09 21:00 - UEFA Champions League: Bayern München vs Bodø / Glimt
 https://streamx305.sbs/global1.php?channel=foxone2
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 10/09 21:00 - UEFA Champions League: Bayern München vs Bodø / Glimt
+#EXTINF:-1 group-title="Fútbol",✅END 10/09 21:00 - UEFA Champions League: Bayern München vs Bodø / Glimt
 https://streamx305.sbs/global1.php?channel=espn
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 10/09 21:00 - UEFA Champions League: Bayern München vs Bodø / Glimt
+#EXTINF:-1 group-title="Fútbol",✅END 10/09 21:00 - UEFA Champions League: Bayern München vs Bodø / Glimt
 https://streamx305.sbs/global1.php?channel=tudnus
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 10/09 21:00 - UEFA Champions League: Manchester United vs Sabah
+#EXTINF:-1 group-title="Fútbol",✅END 10/09 21:00 - UEFA Champions League: Manchester United vs Sabah
 https://streamx305.sbs/channel/tnt1uk.html
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 10/09 21:00 - UEFA Champions League: Manchester United vs Sabah
+#EXTINF:-1 group-title="Fútbol",✅END 10/09 21:00 - UEFA Champions League: Manchester United vs Sabah
 https://streamx305.sbs/global1.php?channel=disney4
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 10/09 21:00 - UEFA Champions League: Manchester United vs Sabah
+#EXTINF:-1 group-title="Fútbol",✅END 10/09 21:00 - UEFA Champions League: Manchester United vs Sabah
 https://streamx305.sbs/global1.php?channel=max2
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 10/09 21:00 - UEFA Champions League: Manchester United vs Sabah
+#EXTINF:-1 group-title="Fútbol",✅END 10/09 21:00 - UEFA Champions League: Manchester United vs Sabah
 https://streamx305.sbs/global1.php?channel=espn2
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 10/09 21:00 - UEFA Champions League: Slavia Praha vs Lens
+#EXTINF:-1 group-title="Fútbol",✅END 10/09 21:00 - UEFA Champions League: Slavia Praha vs Lens
 https://streamx305.sbs/global1.php?channel=disney5
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 10/09 21:00 - UEFA Champions League: Slavia Praha vs Lens
+#EXTINF:-1 group-title="Fútbol",✅END 10/09 21:00 - UEFA Champions League: Slavia Praha vs Lens
 https://streamx305.sbs/global1.php?channel=foxone3
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 10/09 21:00 - UEFA Champions League: Slavia Praha vs Lens
+#EXTINF:-1 group-title="Fútbol",✅END 10/09 21:00 - UEFA Champions League: Slavia Praha vs Lens
 https://streamx305.sbs/global1.php?channel=espn3
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 10/09 21:00 - UEFA Champions League: Como vs RB Leipzig
+#EXTINF:-1 group-title="Fútbol",✅END 10/09 21:00 - UEFA Champions League: Como vs RB Leipzig
 https://streamx305.sbs/channel/tnt3uk.html
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 10/09 21:00 - UEFA Champions League: Como vs RB Leipzig
+#EXTINF:-1 group-title="Fútbol",✅END 10/09 21:00 - UEFA Champions League: Como vs RB Leipzig
 https://streamx305.sbs/global1.php?channel=disney6
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 10/09 21:00 - UEFA Champions League: Como vs RB Leipzig
+#EXTINF:-1 group-title="Fútbol",✅END 10/09 21:00 - UEFA Champions League: Como vs RB Leipzig
 https://streamx305.sbs/global1.php?channel=max3
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 10/09 21:00 - UEFA Champions League: Como vs RB Leipzig
+#EXTINF:-1 group-title="Fútbol",✅END 10/09 21:00 - UEFA Champions League: Como vs RB Leipzig
 https://streamx305.sbs/global1.php?channel=espn5
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 10/09 21:00 - UEFA Champions League: Como vs RB Leipzig
+#EXTINF:-1 group-title="Fútbol",✅END 10/09 21:00 - UEFA Champions League: Como vs RB Leipzig
 https://streamx305.sbs/global1.php?channel=fox1ar
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 10/09 21:00 - League One: Stevenage vs Luton Town
+#EXTINF:-1 group-title="Fútbol",✅END 10/09 21:00 - League One: Stevenage vs Luton Town
 https://streamx305.sbs/global1.php?channel=disney7
 #EXTINF:-1 group-title="Fútbol",⏳NEXT 11/09 02:30 - Copa Libertadores: Independiente del Valle vs Flamengo
 https://streamx305.sbs/global1.php?channel=disney8
@@ -104,34 +133,67 @@ https://streamx305.sbs/global1.php?channel=disney9
 https://streamx305.sbs/global1.php?channel=tudnus
 #EXTINF:-1 group-title="Fútbol",⏳NEXT 11/09 05:06 - Copa Centroamericana de CONCACAF: Firpo vs Olimpia
 https://streamx305.sbs/global1.php?channel=disney10
-#EXTGRP:La Vuelta
-#EXTINF:-1 group-title="La Vuelta",✅END 10/09 14:45 - Etapa #18
-https://streamxhd.com/live1.php?stream=espn2
-#EXTGRP:League One
-#EXTINF:-1 group-title="League One",🔴LIVE 10/09 21:00 - Stevenage vs Luton Town
-https://streamxhd.com/live1.php?stream=disney7
+#EXTGRP:LaLiga
+#EXTINF:-1 group-title="LaLiga",⏳NEXT 11/09 21:00 - Sevilla vs Valencia
+https://streamxhd.com/live1.php?stream=disney15
+#EXTGRP:Liga 1
+#EXTINF:-1 group-title="Liga 1",⏳NEXT 11/09 22:00 - UTC Cajamarca vs Juan Pablo II College
+https://streamxhd.com/live1.php?stream=l1max
+#EXTINF:-1 group-title="Liga 1",⏳NEXT 12/09 02:00 - Cusco vs Melgar
+https://streamxhd.com/live1.php?stream=l1max
 #EXTGRP:Liga Colombia
-#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 11/09 03:00 - Millonarios vs Deportivo Cali
+#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 12/09 01:15 - Jaguares de Córdoba vs Fortaleza CEIF
 https://streamxhd.com/live1.php?stream=fanatiz3
+#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 12/09 03:00 - Millonarios vs Deportivo Cali
+https://streamxhd.com/live1.php?stream=fanatiz3
+#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 12/09 03:30 - Santa Fe vs Deportes Tolima
+https://streamxhd.com/live1.php?stream=fanatiz5
 #EXTGRP:Liga MX
-#EXTINF:-1 group-title="Liga MX",⏳NEXT 11/09 05:05 - Pumas vs León
+#EXTINF:-1 group-title="Liga MX",⏳NEXT 12/09 03:00 - Necaxa vs Puebla
+https://streamxhd.com/live1.php?stream=foxone
+#EXTINF:-1 group-title="Liga MX",⏳NEXT 12/09 05:00 - Atlante vs Pachuca
+https://streamxhd.com/live1.php?stream=disney19
+#EXTINF:-1 group-title="Liga MX",⏳NEXT 12/09 05:00 - Tijuana vs Querétaro
 https://streamxhd.com/live1.php?stream=tudn_usa
+#EXTINF:-1 group-title="Liga MX",⏳NEXT 12/09 05:05 - Pumas vs León
+https://streamxhd.com/live1.php?stream=tudn_usa
+#EXTGRP:Liga Paraguay
+#EXTINF:-1 group-title="Liga Paraguay",⏳NEXT 11/09 21:00 - Sportivo Ameliano vs Sportivo San Lorenzo
+https://streamxhd.com/live1.php?stream=tigo1
+#EXTINF:-1 group-title="Liga Paraguay",⏳NEXT 11/09 23:30 - 2 de Mayo vs Libertad
+https://streamxhd.com/live1.php?stream=tigo1
+#EXTGRP:Liga Profesional
+#EXTINF:-1 group-title="Liga Profesional",⏳NEXT 11/09 22:00 - Newell's Old Boys vs Vélez Sarsfield
+https://streamxhd.com/live1.php?stream=espnpremium
+#EXTINF:-1 group-title="Liga Profesional",⏳NEXT 12/09 00:15 - Defensa y Justicia vs Gimnasia Mendoza
+https://streamxhd.com/live1.php?stream=tntsports
+#EXTINF:-1 group-title="Liga Profesional",⏳NEXT 12/09 02:30 - Boca Juniors vs Central Córdoba SdE
+https://streamxhd.com/live1.php?stream=espnpremium
+#EXTGRP:Liga de Expansión MX
+#EXTINF:-1 group-title="Liga de Expansión MX",⏳NEXT 12/09 03:00 - Correcaminos UAT vs Cancún
+https://streamxhd.com/live1.php?stream=disney18
+#EXTGRP:Ligue 1
+#EXTINF:-1 group-title="Ligue 1",⏳NEXT 11/09 20:45 - Rennes vs Olympique Marseille
+https://streamxhd.com/live1.php?stream=disney14
 #EXTGRP:MLB
-#EXTINF:-1 group-title="MLB",✅END 10/09 18:00 - Atlanta Braves vs Tampa Bay Rays
+#EXTINF:-1 group-title="MLB",⏳NEXT 12/09 01:00 - NY Yankees vs NY Mets
 https://streamxhd.com/live1.php?stream=espn7
-#EXTGRP:UEFA Champions League
-#EXTINF:-1 group-title="UEFA Champions League",✅END 10/09 18:45 - Fenerbahçe vs Roma
+#EXTGRP:MotoGP
+#EXTINF:-1 group-title="MotoGP",⏳NEXT 11/09 13:10 - GP San Marino - Práctica Libre (Moto3/Moto2/MotoGP)
 https://streamxhd.com/live1.php?stream=disney1
-#EXTINF:-1 group-title="UEFA Champions League",✅END 10/09 18:45 - PSV vs Shakhtar Donetsk
-https://streamxhd.com/live1.php?stream=disney2
-#EXTINF:-1 group-title="UEFA Champions League",🔴LIVE 10/09 21:00 - Bayern München vs Bodø / Glimt
-https://streamxhd.com/live1.php?stream=disney3
-#EXTINF:-1 group-title="UEFA Champions League",🔴LIVE 10/09 21:00 - Como vs RB Leipzig
-https://streamxhd.com/live1.php?stream=disney4
-#EXTINF:-1 group-title="UEFA Champions League",🔴LIVE 10/09 21:00 - Manchester United vs Sabah
-https://streamxhd.com/live1.php?stream=disney5
-#EXTINF:-1 group-title="UEFA Champions League",🔴LIVE 10/09 21:00 - Slavia Praha vs Lens
-https://streamxhd.com/live1.php?stream=disney6
+#EXTGRP:NFL
+#EXTINF:-1 group-title="NFL",⏳NEXT 12/09 02:35 - Los Angeles Rams vs San Francisco 49ers
+https://streamxhd.com/live1.php?stream=evento1
+#EXTGRP:Serie A
+#EXTINF:-1 group-title="Serie A",⏳NEXT 11/09 20:45 - Venezia vs Fiorentina
+https://streamxhd.com/live1.php?stream=disney13
+#EXTGRP:Super Lig
+#EXTINF:-1 group-title="Super Lig",⏳NEXT 11/09 19:00 - Beşiktaş vs Erzurumspor FK
+https://streamxhd.com/live1.php?stream=disney10
 #EXTGRP:US Open
-#EXTINF:-1 group-title="US Open",⏳NEXT 11/09 01:00 - Semifinales Femeninas
+#EXTINF:-1 group-title="US Open",⏳NEXT 11/09 21:00 - Alexander Zverev vs Karen Khachanov - Semifinales
+https://streamxhd.com/live1.php?stream=espn2
+#EXTINF:-1 group-title="US Open",⏳NEXT 12/09 01:00 - Semifinales Femeninas
+https://streamxhd.com/live1.php?stream=espn2
+#EXTINF:-1 group-title="US Open",⏳NEXT 12/09 01:00 - Frances Tiafoe vs Ben Shelton - Semifinales Masculinas
 https://streamxhd.com/live1.php?stream=espn2

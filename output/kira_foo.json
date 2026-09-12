@@ -175,224 +175,6 @@
     ]
   },
   {
-    "title": "Liverpool Fulham",
-    "category": "Liverpool",
-    "logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-    "start_iso": "2026-09-12T14:00:00.000Z",
-    "end_iso": "2026-09-12T16:15:00.000Z",
-    "date": "Saturday, 12 September 2026",
-    "time": "16:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/liverpool-vs-fulham-live-stream",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/liverpool-vs-fulham-live-stream/1853",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/liverpool-vs-fulham-live-stream/1854",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/liverpool-vs-fulham-live-stream/1855",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/liverpool-vs-fulham-live-stream/1856",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Chelsea Hull City",
-    "category": "Chelsea",
-    "logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-    "start_iso": "2026-09-12T14:00:00.000Z",
-    "end_iso": "2026-09-12T16:15:00.000Z",
-    "date": "Saturday, 12 September 2026",
-    "time": "16:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/chelsea-vs-hull-city",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/chelsea-vs-hull-city/1849",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/chelsea-vs-hull-city/1850",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/chelsea-vs-hull-city/1851",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/chelsea-vs-hull-city/1857",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Brentford AFC Bournemouth",
-    "category": "Brentford",
-    "logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
-    "start_iso": "2026-09-12T14:00:00.000Z",
-    "end_iso": "2026-09-12T16:15:00.000Z",
-    "date": "Saturday, 12 September 2026",
-    "time": "16:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/brentford-vs-bournemouth",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/brentford-vs-bournemouth/1848",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Aston Villa Nottingham Forest",
-    "category": "Aston Villa",
-    "logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-    "start_iso": "2026-09-12T14:00:00.000Z",
-    "end_iso": "2026-09-12T16:15:00.000Z",
-    "date": "Saturday, 12 September 2026",
-    "time": "16:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/aston-villa-vs-nottm-forest",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/aston-villa-vs-nottm-forest/1843",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/aston-villa-vs-nottm-forest/1844",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Ipswich Town Crystal Palace",
-    "category": "Ipswich Town",
-    "logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
-    "start_iso": "2026-09-12T14:00:00.000Z",
-    "end_iso": "2026-09-12T16:15:00.000Z",
-    "date": "Saturday, 12 September 2026",
-    "time": "16:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/ipswich-vs-crystal-palace",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/ipswich-vs-crystal-palace/1852",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Espanyol Osasuna",
-    "category": "Espanyol",
-    "logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-    "start_iso": "2026-09-12T14:15:00.000Z",
-    "end_iso": "2026-09-12T16:30:00.000Z",
-    "date": "Saturday, 12 September 2026",
-    "time": "16:15",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/espanyol-vs-osasuna",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/espanyol-vs-osasuna/1838",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/espanyol-vs-osasuna/1839",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
     "title": "AC Milan Lazio",
     "category": "AC Milan",
     "logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
@@ -423,7 +205,7 @@
     "end_iso": "2026-09-12T18:45:00.000Z",
     "date": "Saturday, 12 September 2026",
     "time": "18:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/spurs-vs-everton",
     "servers": [
       {
@@ -496,7 +278,7 @@
     "end_iso": "2026-09-12T18:45:00.000Z",
     "date": "Saturday, 12 September 2026",
     "time": "18:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/elche-vs-athletic-club",
     "servers": [
       {
@@ -539,7 +321,7 @@
     "end_iso": "2026-09-12T18:45:00.000Z",
     "date": "Saturday, 12 September 2026",
     "time": "18:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/koln-vs-werder-bremen",
     "servers": [
       {
@@ -606,6 +388,26 @@
           "quality": "720p",
           "ads": "2",
           "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://footystream.pk/alpha/real-madrid-vs-rayo-vallecano/1879",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://footystream.pk/alpha/real-madrid-vs-rayo-vallecano/1880",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
         }
       }
     ]
@@ -757,18 +559,6 @@
     "servers": []
   },
   {
-    "title": "Bayern München Elversberg",
-    "category": "Bayern München",
-    "logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-    "start_iso": "2026-09-13T15:30:00.000Z",
-    "end_iso": "2026-09-13T17:45:00.000Z",
-    "date": "Sunday, 13 September 2026",
-    "time": "17:30",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/bayern-munich-vs-elversberg",
-    "servers": []
-  },
-  {
     "title": "Manchester United Manchester City",
     "category": "Manchester United",
     "logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
@@ -778,6 +568,18 @@
     "time": "17:30",
     "status": "next",
     "event_url": "https://footystream.pk/events/manchester-united-vs-manchester-city",
+    "servers": []
+  },
+  {
+    "title": "Bayern München Elversberg",
+    "category": "Bayern München",
+    "logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+    "start_iso": "2026-09-13T15:30:00.000Z",
+    "end_iso": "2026-09-13T17:45:00.000Z",
+    "date": "Sunday, 13 September 2026",
+    "time": "17:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/bayern-munich-vs-elversberg",
     "servers": []
   },
   {

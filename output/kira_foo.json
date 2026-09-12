@@ -175,95 +175,6 @@
     ]
   },
   {
-    "title": "Racing Santander Deportivo Alavés",
-    "category": "Racing Santander",
-    "logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-    "start_iso": "2026-09-12T12:00:00.000Z",
-    "end_iso": "2026-09-12T14:15:00.000Z",
-    "date": "Saturday, 12 September 2026",
-    "time": "14:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/racing-santander-vs-alaves",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/racing-santander-vs-alaves/1835",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/racing-santander-vs-alaves/1836",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/racing-santander-vs-alaves/1837",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Genoa Frosinone Calcio",
-    "category": "Genoa",
-    "logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-    "start_iso": "2026-09-12T13:00:00.000Z",
-    "end_iso": "2026-09-12T15:15:00.000Z",
-    "date": "Saturday, 12 September 2026",
-    "time": "15:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/genoa-vs-frosinone",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/genoa-vs-frosinone/1841",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "SD",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Borussia Dortmund Paderborn",
-    "category": "Borussia Dortmund",
-    "logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
-    "start_iso": "2026-09-12T13:30:00.000Z",
-    "end_iso": "2026-09-12T15:45:00.000Z",
-    "date": "Saturday, 12 September 2026",
-    "time": "15:30",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/borussia-dortmund-vs-paderborn",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/borussia-dortmund-vs-paderborn/1845",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Liverpool Fulham",
     "category": "Liverpool",
     "logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
@@ -456,7 +367,7 @@
     "end_iso": "2026-09-12T16:30:00.000Z",
     "date": "Saturday, 12 September 2026",
     "time": "16:15",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/espanyol-vs-osasuna",
     "servers": [
       {
@@ -489,7 +400,7 @@
     "end_iso": "2026-09-12T18:15:00.000Z",
     "date": "Saturday, 12 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/milan-vs-lazio",
     "servers": [
       {
@@ -686,7 +597,18 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/real-madrid-vs-rayo-vallecano",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/real-madrid-vs-rayo-vallecano/1878",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Arsenal Sunderland",

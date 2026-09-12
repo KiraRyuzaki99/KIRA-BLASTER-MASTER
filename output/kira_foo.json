@@ -225,7 +225,7 @@
     "end_iso": "2026-09-12T15:15:00.000Z",
     "date": "Saturday, 12 September 2026",
     "time": "15:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/genoa-vs-frosinone",
     "servers": [
       {
@@ -248,7 +248,7 @@
     "end_iso": "2026-09-12T15:45:00.000Z",
     "date": "Saturday, 12 September 2026",
     "time": "15:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/borussia-dortmund-vs-paderborn",
     "servers": [
       {
@@ -271,7 +271,7 @@
     "end_iso": "2026-09-12T16:15:00.000Z",
     "date": "Saturday, 12 September 2026",
     "time": "16:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/liverpool-vs-fulham-live-stream",
     "servers": [
       {
@@ -303,6 +303,16 @@
           "ads": "2",
           "language": "Español"
         }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/liverpool-vs-fulham-live-stream/1856",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
       }
     ]
   },
@@ -314,7 +324,7 @@
     "end_iso": "2026-09-12T16:15:00.000Z",
     "date": "Saturday, 12 September 2026",
     "time": "16:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/chelsea-vs-hull-city",
     "servers": [
       {
@@ -346,6 +356,16 @@
           "ads": "2",
           "language": "Español"
         }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/chelsea-vs-hull-city/1857",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
       }
     ]
   },
@@ -357,7 +377,7 @@
     "end_iso": "2026-09-12T16:15:00.000Z",
     "date": "Saturday, 12 September 2026",
     "time": "16:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/brentford-vs-bournemouth",
     "servers": [
       {
@@ -380,7 +400,7 @@
     "end_iso": "2026-09-12T16:15:00.000Z",
     "date": "Saturday, 12 September 2026",
     "time": "16:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/aston-villa-vs-nottm-forest",
     "servers": [
       {
@@ -413,7 +433,7 @@
     "end_iso": "2026-09-12T16:15:00.000Z",
     "date": "Saturday, 12 September 2026",
     "time": "16:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/ipswich-vs-crystal-palace",
     "servers": [
       {
@@ -485,6 +505,122 @@
     ]
   },
   {
+    "title": "Tottenham Hotspur Everton",
+    "category": "Tottenham Hotspur",
+    "logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+    "start_iso": "2026-09-12T16:30:00.000Z",
+    "end_iso": "2026-09-12T18:45:00.000Z",
+    "date": "Saturday, 12 September 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/spurs-vs-everton",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/spurs-vs-everton/1863",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/spurs-vs-everton/1864",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/spurs-vs-everton/1865",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/spurs-vs-everton/1866",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://footystream.pk/alpha/spurs-vs-everton/1867",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://footystream.pk/alpha/spurs-vs-everton/1868",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Elche CF Athletic Club",
+    "category": "Elche CF",
+    "logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+    "start_iso": "2026-09-12T16:30:00.000Z",
+    "end_iso": "2026-09-12T18:45:00.000Z",
+    "date": "Saturday, 12 September 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/elche-vs-athletic-club",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/elche-vs-athletic-club/1875",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/elche-vs-athletic-club/1876",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://footystream.pk/alpha/elche-vs-athletic-club/1877",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
+  },
+  {
     "title": "Köln Werder Bremen",
     "category": "Köln",
     "logo": "https://cdn.img4every1.org/team/koln/logo.webp",
@@ -518,30 +654,6 @@
     ]
   },
   {
-    "title": "Tottenham Hotspur Everton",
-    "category": "Tottenham Hotspur",
-    "logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-    "start_iso": "2026-09-12T16:30:00.000Z",
-    "end_iso": "2026-09-12T18:45:00.000Z",
-    "date": "Saturday, 12 September 2026",
-    "time": "18:30",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/spurs-vs-everton",
-    "servers": []
-  },
-  {
-    "title": "Elche CF Athletic Club",
-    "category": "Elche CF",
-    "logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-    "start_iso": "2026-09-12T16:30:00.000Z",
-    "end_iso": "2026-09-12T18:45:00.000Z",
-    "date": "Saturday, 12 September 2026",
-    "time": "18:30",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/elche-vs-athletic-club",
-    "servers": []
-  },
-  {
     "title": "Atalanta Cagliari",
     "category": "Atalanta",
     "logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
@@ -565,18 +677,6 @@
     ]
   },
   {
-    "title": "Arsenal Sunderland",
-    "category": "Arsenal",
-    "logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-    "start_iso": "2026-09-12T19:00:00.000Z",
-    "end_iso": "2026-09-12T21:05:00.000Z",
-    "date": "Saturday, 12 September 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/arsenal-vs-sunderland",
-    "servers": []
-  },
-  {
     "title": "Real Madrid Rayo Vallecano",
     "category": "Real Madrid",
     "logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
@@ -589,6 +689,200 @@
     "servers": []
   },
   {
+    "title": "Arsenal Sunderland",
+    "category": "Arsenal",
+    "logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+    "start_iso": "2026-09-12T19:00:00.000Z",
+    "end_iso": "2026-09-12T21:05:00.000Z",
+    "date": "Saturday, 12 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/arsenal-vs-sunderland",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/arsenal-vs-sunderland/1869",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/arsenal-vs-sunderland/1870",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/arsenal-vs-sunderland/1871",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://footystream.pk/alpha/arsenal-vs-sunderland/1872",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://footystream.pk/alpha/arsenal-vs-sunderland/1873",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Wolverhampton Wanderers Sheffield United",
+    "category": "Wolverhampton Wanderers",
+    "logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+    "start_iso": "2026-09-13T11:00:00.000Z",
+    "end_iso": "2026-09-13T13:15:00.000Z",
+    "date": "Sunday, 13 September 2026",
+    "time": "13:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/wolves-vs-sheffield-united",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/wolves-vs-sheffield-united/1874",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Málaga Celta de Vigo",
+    "category": "Málaga",
+    "logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+    "start_iso": "2026-09-13T12:00:00.000Z",
+    "end_iso": "2026-09-13T14:15:00.000Z",
+    "date": "Sunday, 13 September 2026",
+    "time": "14:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/malaga-vs-celta-de-vigo",
+    "servers": []
+  },
+  {
+    "title": "Lecce Monza",
+    "category": "Lecce",
+    "logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+    "start_iso": "2026-09-13T13:00:00.000Z",
+    "end_iso": "2026-09-13T15:15:00.000Z",
+    "date": "Sunday, 13 September 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/lecce-vs-monza",
+    "servers": []
+  },
+  {
+    "title": "Brighton & Hove Albion Coventry City",
+    "category": "Brighton & Hove Albion",
+    "logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+    "start_iso": "2026-09-13T13:00:00.000Z",
+    "end_iso": "2026-09-13T15:15:00.000Z",
+    "date": "Sunday, 13 September 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/brighton-vs-coventry-city",
+    "servers": []
+  },
+  {
+    "title": "RB Leipzig Hamburger SV",
+    "category": "RB Leipzig",
+    "logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+    "start_iso": "2026-09-13T13:30:00.000Z",
+    "end_iso": "2026-09-13T15:45:00.000Z",
+    "date": "Sunday, 13 September 2026",
+    "time": "15:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/rb-leipzig-vs-hamburger-sv",
+    "servers": []
+  },
+  {
+    "title": "FC Barcelona Levante",
+    "category": "FC Barcelona",
+    "logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+    "start_iso": "2026-09-13T14:15:00.000Z",
+    "end_iso": "2026-09-13T16:30:00.000Z",
+    "date": "Sunday, 13 September 2026",
+    "time": "16:15",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/barcelona-vs-levante",
+    "servers": []
+  },
+  {
+    "title": "Bayern München Elversberg",
+    "category": "Bayern München",
+    "logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+    "start_iso": "2026-09-13T15:30:00.000Z",
+    "end_iso": "2026-09-13T17:45:00.000Z",
+    "date": "Sunday, 13 September 2026",
+    "time": "17:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/bayern-munich-vs-elversberg",
+    "servers": []
+  },
+  {
+    "title": "Manchester United Manchester City",
+    "category": "Manchester United",
+    "logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+    "start_iso": "2026-09-13T15:30:00.000Z",
+    "end_iso": "2026-09-13T17:45:00.000Z",
+    "date": "Sunday, 13 September 2026",
+    "time": "17:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/manchester-united-vs-manchester-city",
+    "servers": []
+  },
+  {
+    "title": "Bologna Napoli",
+    "category": "Bologna",
+    "logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+    "start_iso": "2026-09-13T16:00:00.000Z",
+    "end_iso": "2026-09-13T18:15:00.000Z",
+    "date": "Sunday, 13 September 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/bologna-vs-napoli",
+    "servers": []
+  },
+  {
+    "title": "Getafe Deportivo La Coruña",
+    "category": "Getafe",
+    "logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+    "start_iso": "2026-09-13T16:30:00.000Z",
+    "end_iso": "2026-09-13T18:45:00.000Z",
+    "date": "Sunday, 13 September 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/getafe-vs-deportivo-la-coruna",
+    "servers": []
+  },
+  {
     "title": "Chicago Bears Carolina Panthers",
     "category": "Chicago Bears",
     "logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
@@ -598,6 +892,42 @@
     "time": "19:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/bears-vs-panthers",
+    "servers": []
+  },
+  {
+    "title": "Juventus Sassuolo",
+    "category": "Juventus",
+    "logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+    "start_iso": "2026-09-13T18:45:00.000Z",
+    "end_iso": "2026-09-13T21:00:00.000Z",
+    "date": "Sunday, 13 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/juventus-vs-sassuolo",
+    "servers": []
+  },
+  {
+    "title": "PSG Brest",
+    "category": "PSG",
+    "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+    "start_iso": "2026-09-13T18:45:00.000Z",
+    "end_iso": "2026-09-13T21:00:00.000Z",
+    "date": "Sunday, 13 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/psg-vs-brest",
+    "servers": []
+  },
+  {
+    "title": "Atlético Madrid Real Sociedad",
+    "category": "Atlético Madrid",
+    "logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+    "start_iso": "2026-09-13T19:00:00.000Z",
+    "end_iso": "2026-09-13T21:15:00.000Z",
+    "date": "Sunday, 13 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/atletico-madrid-vs-real-sociedad",
     "servers": []
   }
 ]

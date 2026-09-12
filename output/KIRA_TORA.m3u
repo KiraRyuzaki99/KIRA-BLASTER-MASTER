@@ -1,23 +1,41 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Rugby",08:05 - New Zealand Warriors vs Dolphins
-https://embed.st/embed/admin/ppv-warriors-vs-dolphins/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Rugby",08:05 - New Zealand Warriors vs Dolphins
-https://embed.st/embed/admin/ppv-warriors-vs-dolphins/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Other",08:40 - MotoGP San Marino Grand Prix  🏁
-https://sportora.ru/watch/motogp-san-marino-grand-prix-game-122273
-
 #EXTINF:-1 group-title="Fight",09:00 - Regie Suganob vs Sivenathi Nontshinga
 https://sportora.ru/watch/live-event_regie-suganob-vs-sivenathi-nontshinga-live-stream
 
 #EXTINF:-1 group-title="Rugby",09:00 - Fiji Rugby vs Canada Rugby
 https://sportora.ru/watch/fiji-rugby-vs-canada-rugby-2539652
 
-#EXTINF:-1 group-title="Other",11:15 - England vs Pakistan
-https://sportora.ru/watch/england-vs-pakistan-third-test-cricket-hundred-1
+#EXTINF:-1 group-title="Other",08:40 - MotoGP San Marino Grand Prix  🏁
+https://sportora.ru/watch/motogp-san-marino-grand-prix-game-122273
+
+#EXTINF:-1 group-title="Fight",10:30 - ONE Samurai 3
+https://embed.st/embed/admin/ppv-one-samurai-3/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",10:30 - ONE Samurai 3
+https://embed.st/embed/admin/ppv-one-samurai-3/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",11:00 - 2026 ADCC World Championships | Day 1
+https://embed.st/embed/admin/ppv-2026-adcc-world-championships-day-1/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",11:00 - 2026 ADCC World Championships | Day 1
+https://embed.st/embed/admin/ppv-2026-adcc-world-championships-day-1/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",11:00 - 2026 ADCC World Championships | Day 1
+https://embed.st/embed/admin/ppv-2026-adcc-world-championships-day-1/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",11:00 - 2026 ADCC World Championships | Day 1
+https://embed.st/embed/admin/ppv-2026-adcc-world-championships-day-1/4#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",11:00 - 2026 ADCC World Championships | Day 1
+https://embed.st/embed/admin/ppv-2026-adcc-world-championships-day-1/5#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Cricket",11:15 - 3rd Test: England vs. Pakistan
+https://embed.st/embed/admin/ppv-3-rd-test-england-vs-pakistan/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Cricket",11:15 - 3rd Test: England vs. Pakistan
+https://embed.st/embed/admin/ppv-3-rd-test-england-vs-pakistan/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Afl",11:35 - Brisbane Lions vs Adelaide Football Club
 https://sportora.ru/watch/brisbane-lions-vs-adelaide-football-club-2600650
@@ -27,6 +45,12 @@ https://embed.st/embed/admin/ppv-sharks-vs-cowboys/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Rugby",11:50 - Cronulla Sharks vs North Queensland Cowboys
 https://embed.st/embed/admin/ppv-sharks-vs-cowboys/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",12:00 - Eternal MMA 110: Gold Coast
+https://embed.st/embed/admin/ppv-eternal-mma-110-gold-coast/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",12:00 - Eternal MMA 110: Gold Coast
+https://embed.st/embed/admin/ppv-eternal-mma-110-gold-coast/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",12:00 - RB Leipzig Women vs Nürnberg Women
 https://sportora.ru/watch/rb-leipzig-women-vs-n-rnberg-women-2539452
@@ -80,7 +104,7 @@ https://embed.st/embed/admin/ppv-vf-l-bochum-vs-sp-vgg-greuther-f-rth/2#player=c
 https://sportora.ru/watch/west-brom-vs-qpr-football-1563165
 
 #EXTINF:-1 group-title="Football",13:30 - Derby County vs Birmingham City
-https://sportora.ru/watch/derby-county-vs-birmingham-city-2501329
+https://embed.st/embed/delta/live_championship_derby-birmingham-live-streaming-615068640/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",13:30 - Bolton Wanderers vs Cardiff City
 https://sportora.ru/watch/bolton-wanderers-vs-cardiff-city-2501328
@@ -145,8 +169,14 @@ https://sportora.ru/watch/sochaux-vs-nantes-2488757
 #EXTINF:-1 group-title="Football",14:00 - Guingamp vs Annecy
 https://sportora.ru/watch/guingamp-vs-annecy-2488753
 
+#EXTINF:-1 group-title="Motor-sports",14:15 - Spanish Sprint Race
+https://sportora.ru/watch/spanish-sprint-race-2409309
+
 #EXTINF:-1 group-title="Football",14:45 - Slask Wroclaw vs Korona Kielce
 https://sportora.ru/watch/slask-wroclaw-vs-korona-kielce-football-1553169
+
+#EXTINF:-1 group-title="American-football",15:00 - College GameDay
+https://embed.st/embed/delta/live-event_college-gameday-live-stream/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",15:00 - Felgueiras vs Penafiel
 https://sportora.ru/watch/felgueiras-vs-penafiel-2512975
@@ -673,12 +703,6 @@ https://embed.st/embed/golf/1064/1#player=clappr&autoplay=true
 #EXTINF:-1 group-title="American-football",18:45 - Georgia vs Western Kentucky
 https://embed.st/embed/golf/1064/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="American-football",18:55 - NFL RedZone
-https://embed.st/embed/admin/ppv-nfl-red-zone/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",18:55 - NFL RedZone
-https://embed.st/embed/admin/ppv-nfl-red-zone/2#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Fight",19:00 - Brandon Daord vs Ndabezinhle Phiri
 https://sportora.ru/watch/live-event_brandon-daord-vs-ndabezinhle-phiri-live-stream
 
@@ -964,18 +988,6 @@ https://sportora.ru/watch/live_cfb_barton-bulldogs-bluefield-rams-live-streaming
 #EXTINF:-1 group-title="American-football",20:00 - Augustana University Vikings vs Minot State Beavers
 https://sportora.ru/watch/live_cfb_augustana-university-vikings-minot-state-beavers-live-streaming-587722176
 
-#EXTINF:-1 group-title="Fight",20:00 - ONE Samurai 3
-https://embed.st/embed/admin/ppv-one-samurai-3/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Fight",20:00 - ONE Samurai 3
-https://embed.st/embed/admin/ppv-one-samurai-3/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Fight",20:00 - ONE Samurai 3
-https://embed.st/embed/admin/ppv-one-samurai-3/3#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Fight",20:00 - ONE Samurai 3
-https://embed.st/embed/admin/ppv-one-samurai-3/4#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Football",20:00 - Al-Shabab vs Al-Fayha
 https://sportora.ru/watch/al-shabab-vs-al-fayha-2573360
 
@@ -995,7 +1007,19 @@ https://embed.st/embed/admin/ppv-fortuna-sittard-vs-ajax-amsterdam/2#player=clap
 https://sportora.ru/watch/dunkerque-vs-saint--tienne-2488759
 
 #EXTINF:-1 group-title="Fight",20:00 - UFC Fight Night 288 Silva vs Delgado
-https://sportora.ru/watch/ufc-fight-night-288-silva-vs-delgado-2541769
+https://embed.st/embed/admin/ppv-noche-ufc-silva-vs-delgado/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",20:00 - UFC Fight Night 288 Silva vs Delgado
+https://embed.st/embed/admin/ppv-noche-ufc-silva-vs-delgado/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",20:00 - UFC Fight Night 288 Silva vs Delgado
+https://embed.st/embed/admin/ppv-noche-ufc-silva-vs-delgado/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",20:00 - UFC Fight Night 288 Silva vs Delgado
+https://embed.st/embed/admin/ppv-noche-ufc-silva-vs-delgado/4#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",20:00 - UFC Fight Night 288 Silva vs Delgado
+https://embed.st/embed/admin/ppv-noche-ufc-silva-vs-delgado/5#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="American-football",20:00 - Saint Thomas (MN) vs Northern Michigan
 https://sportora.ru/watch/saint-thomas--mn--vs-northern-michigan-2598780
@@ -1122,9 +1146,6 @@ https://embed.st/embed/admin/ppv-sc-cambuur-vs-nec-nijmegen/2#player=clappr&auto
 
 #EXTINF:-1 group-title="Football",21:00 - Grêmio vs Vasco da Gama
 https://sportora.ru/watch/gr-mio-vs-vasco-da-gama-2398457
-
-#EXTINF:-1 group-title="Rugby",21:00 - South Africa Rugby vs New Zealand Rugby
-https://sportora.ru/watch/south-africa-rugby-vs-new-zealand-rugby-2496234
 
 #EXTINF:-1 group-title="American-football",21:00 - Delaware State vs Bowie State
 https://sportora.ru/watch/delaware-state-vs-bowie-state-2598517
@@ -1384,8 +1405,8 @@ https://sportora.ru/watch/atletico-tucuman-vs-river-plate-football-1493123
 #EXTINF:-1 group-title="American-football",23:00 - Lane Dragons vs Allen Yellow Jackets
 https://sportora.ru/watch/live_cfb_lane-dragons-allen-yellow-jackets-live-streaming-587729952
 
-#EXTINF:-1 group-title="Fight",23:00 - Ryan Garcia vs Conor Benn
-https://sportora.ru/watch/ryan-garcia-vs-conor-benn-2548270
+#EXTINF:-1 group-title="Rugby",23:00 - South Africa Rugby vs New Zealand Rugby
+https://sportora.ru/watch/south-africa-rugby-vs-new-zealand-rugby-2496234
 
 #EXTINF:-1 group-title="American-football",23:00 - Northern Arizona vs Incarnate Word
 https://sportora.ru/watch/northern-arizona-vs-incarnate-word-2593888

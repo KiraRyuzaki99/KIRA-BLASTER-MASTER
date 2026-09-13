@@ -86,138 +86,6 @@
     ]
   },
   {
-    "title": "Irish Open PGA Tour",
-    "category": "Irish Open",
-    "logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-    "start_iso": "2026-09-10T12:30:00.000Z",
-    "end_iso": "2026-09-13T20:30:00.000Z",
-    "date": "Thursday, 10 September 2026",
-    "time": "14:30",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/irish-open",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/irish-open/1762",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "PSG Brest",
-    "category": "PSG",
-    "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-    "start_iso": "2026-09-13T18:45:00.000Z",
-    "end_iso": "2026-09-13T21:00:00.000Z",
-    "date": "Sunday, 13 September 2026",
-    "time": "20:45",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/psg-vs-brest",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/psg-vs-brest/1913",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://footystream.pk/alpha/psg-vs-brest/1914",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Juventus Sassuolo",
-    "category": "Juventus",
-    "logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-    "start_iso": "2026-09-13T18:45:00.000Z",
-    "end_iso": "2026-09-13T21:00:00.000Z",
-    "date": "Sunday, 13 September 2026",
-    "time": "20:45",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/juventus-vs-sassuolo",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/juventus-vs-sassuolo/1907",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/juventus-vs-sassuolo/1911",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "SD",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Atlético Madrid Real Sociedad",
-    "category": "Atlético Madrid",
-    "logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-    "start_iso": "2026-09-13T19:00:00.000Z",
-    "end_iso": "2026-09-13T21:15:00.000Z",
-    "date": "Sunday, 13 September 2026",
-    "time": "21:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/atletico-madrid-vs-real-sociedad",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/atletico-madrid-vs-real-sociedad/1903",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/atletico-madrid-vs-real-sociedad/1904",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/atletico-madrid-vs-real-sociedad/1905",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
     "title": "Philadelphia Eagles Washington Commanders",
     "category": "Philadelphia Eagles",
     "logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
@@ -225,7 +93,7 @@
     "end_iso": "2026-09-13T23:35:00.000Z",
     "date": "Sunday, 13 September 2026",
     "time": "22:25",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/eagles-vs-commanders-live",
     "servers": [
       {
@@ -757,6 +625,54 @@
     "time": "20:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/liverpool-vs-manchester-city",
+    "servers": []
+  },
+  {
+    "title": "Bayern München Union Berlin",
+    "category": "Bayern München",
+    "logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+    "start_iso": "2026-09-18T18:30:00.000Z",
+    "end_iso": "2026-09-18T20:45:00.000Z",
+    "date": "Friday, 18 September 2026",
+    "time": "20:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/bayern-munchen-vs-union-berlin",
+    "servers": []
+  },
+  {
+    "title": "Monza Sassuolo",
+    "category": "Monza",
+    "logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+    "start_iso": "2026-09-18T18:45:00.000Z",
+    "end_iso": "2026-09-18T21:00:00.000Z",
+    "date": "Friday, 18 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/monza-vs-sassuolo",
+    "servers": []
+  },
+  {
+    "title": "Lens AS Monaco",
+    "category": "Lens",
+    "logo": "https://cdn.img4every1.org/team/lens/logo.webp",
+    "start_iso": "2026-09-18T18:45:00.000Z",
+    "end_iso": "2026-09-18T21:00:00.000Z",
+    "date": "Friday, 18 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/lens-vs-monaco",
+    "servers": []
+  },
+  {
+    "title": "Chelsea Brentford",
+    "category": "Chelsea",
+    "logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+    "start_iso": "2026-09-18T19:00:00.000Z",
+    "end_iso": "2026-09-18T21:15:00.000Z",
+    "date": "Friday, 18 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/chelsea-vs-brentford",
     "servers": []
   }
 ]

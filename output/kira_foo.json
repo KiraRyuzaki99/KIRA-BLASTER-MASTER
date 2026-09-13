@@ -175,29 +175,6 @@
     ]
   },
   {
-    "title": "Wolverhampton Wanderers Sheffield United",
-    "category": "Wolverhampton Wanderers",
-    "logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
-    "start_iso": "2026-09-13T11:00:00.000Z",
-    "end_iso": "2026-09-13T13:15:00.000Z",
-    "date": "Sunday, 13 September 2026",
-    "time": "13:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/wolves-vs-sheffield-united",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/wolves-vs-sheffield-united/1874",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Málaga Celta de Vigo",
     "category": "Málaga",
     "logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
@@ -248,7 +225,7 @@
     "end_iso": "2026-09-13T15:15:00.000Z",
     "date": "Sunday, 13 September 2026",
     "time": "15:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/brighton-vs-coventry-city",
     "servers": [
       {
@@ -311,7 +288,7 @@
     "end_iso": "2026-09-13T15:15:00.000Z",
     "date": "Sunday, 13 September 2026",
     "time": "15:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/lecce-vs-monza",
     "servers": [
       {
@@ -334,7 +311,7 @@
     "end_iso": "2026-09-13T15:45:00.000Z",
     "date": "Sunday, 13 September 2026",
     "time": "15:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/rb-leipzig-vs-hamburger-sv",
     "servers": [
       {

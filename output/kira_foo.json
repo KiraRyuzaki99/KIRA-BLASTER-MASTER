@@ -109,29 +109,6 @@
     ]
   },
   {
-    "title": "MotoGP San Marino Grand Prix MotoGP",
-    "category": "MotoGP San Marino Grand Prix",
-    "logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-    "start_iso": "2026-09-11T07:00:00.000Z",
-    "end_iso": "2026-09-13T15:00:00.000Z",
-    "date": "Friday, 11 September 2026",
-    "time": "09:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/motogp-san-marino-grand-prix",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/motogp-san-marino-grand-prix/1805",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "f1 Spanish Grand Prix Formula 1",
     "category": "f1 Spanish Grand Prix",
     "logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
@@ -175,158 +152,6 @@
     ]
   },
   {
-    "title": "Málaga Celta de Vigo",
-    "category": "Málaga",
-    "logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-    "start_iso": "2026-09-13T12:00:00.000Z",
-    "end_iso": "2026-09-13T14:15:00.000Z",
-    "date": "Sunday, 13 September 2026",
-    "time": "14:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/malaga-vs-celta-de-vigo",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/malaga-vs-celta-de-vigo/1892",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/malaga-vs-celta-de-vigo/1893",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/malaga-vs-celta-de-vigo/1894",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Brighton & Hove Albion Coventry City",
-    "category": "Brighton & Hove Albion",
-    "logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-    "start_iso": "2026-09-13T13:00:00.000Z",
-    "end_iso": "2026-09-13T15:15:00.000Z",
-    "date": "Sunday, 13 September 2026",
-    "time": "15:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/brighton-vs-coventry-city",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/brighton-vs-coventry-city/1881",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/brighton-vs-coventry-city/1882",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/brighton-vs-coventry-city/1883",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Portuguese",
-        "url": "https://footystream.pk/alpha/brighton-vs-coventry-city/1884",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/brighton-vs-coventry-city/1885",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Lecce Monza",
-    "category": "Lecce",
-    "logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-    "start_iso": "2026-09-13T13:00:00.000Z",
-    "end_iso": "2026-09-13T15:15:00.000Z",
-    "date": "Sunday, 13 September 2026",
-    "time": "15:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/lecce-vs-monza",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/lecce-vs-monza/1906",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "SD",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "RB Leipzig Hamburger SV",
-    "category": "RB Leipzig",
-    "logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
-    "start_iso": "2026-09-13T13:30:00.000Z",
-    "end_iso": "2026-09-13T15:45:00.000Z",
-    "date": "Sunday, 13 September 2026",
-    "time": "15:30",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/rb-leipzig-vs-hamburger-sv",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/rb-leipzig-vs-hamburger-sv/1909",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "FC Barcelona Levante",
     "category": "FC Barcelona",
     "logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
@@ -334,7 +159,7 @@
     "end_iso": "2026-09-13T16:30:00.000Z",
     "date": "Sunday, 13 September 2026",
     "time": "16:15",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/barcelona-vs-levante",
     "servers": [
       {
@@ -397,7 +222,7 @@
     "end_iso": "2026-09-13T17:45:00.000Z",
     "date": "Sunday, 13 September 2026",
     "time": "17:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/manchester-united-vs-manchester-city",
     "servers": [
       {
@@ -470,7 +295,7 @@
     "end_iso": "2026-09-13T17:45:00.000Z",
     "date": "Sunday, 13 September 2026",
     "time": "17:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/bayern-munich-vs-elversberg",
     "servers": [
       {
@@ -493,7 +318,7 @@
     "end_iso": "2026-09-13T18:15:00.000Z",
     "date": "Sunday, 13 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/bologna-vs-napoli",
     "servers": [
       {
@@ -564,6 +389,18 @@
     "servers": []
   },
   {
+    "title": "PSG Brest",
+    "category": "PSG",
+    "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+    "start_iso": "2026-09-13T18:45:00.000Z",
+    "end_iso": "2026-09-13T21:00:00.000Z",
+    "date": "Sunday, 13 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/psg-vs-brest",
+    "servers": []
+  },
+  {
     "title": "Juventus Sassuolo",
     "category": "Juventus",
     "logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
@@ -595,18 +432,6 @@
         }
       }
     ]
-  },
-  {
-    "title": "PSG Brest",
-    "category": "PSG",
-    "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-    "start_iso": "2026-09-13T18:45:00.000Z",
-    "end_iso": "2026-09-13T21:00:00.000Z",
-    "date": "Sunday, 13 September 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/psg-vs-brest",
-    "servers": []
   },
   {
     "title": "Atlético Madrid Real Sociedad",

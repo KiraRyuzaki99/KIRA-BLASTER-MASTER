@@ -109,84 +109,6 @@
     ]
   },
   {
-    "title": "Getafe Deportivo La Coruña",
-    "category": "Getafe",
-    "logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-    "start_iso": "2026-09-13T16:30:00.000Z",
-    "end_iso": "2026-09-13T18:45:00.000Z",
-    "date": "Sunday, 13 September 2026",
-    "time": "18:30",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/getafe-vs-deportivo-la-coruna",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/getafe-vs-deportivo-la-coruna/1900",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/getafe-vs-deportivo-la-coruna/1901",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/getafe-vs-deportivo-la-coruna/1902",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Parma Como",
-    "category": "Parma",
-    "logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-    "start_iso": "2026-09-13T16:30:00.000Z",
-    "end_iso": "2026-09-13T18:45:00.000Z",
-    "date": "Sunday, 13 September 2026",
-    "time": "18:30",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/parma-vs-como",
-    "servers": []
-  },
-  {
-    "title": "Chicago Bears Carolina Panthers",
-    "category": "Chicago Bears",
-    "logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
-    "start_iso": "2026-09-13T17:00:00.000Z",
-    "end_iso": "2026-09-13T20:10:00.000Z",
-    "date": "Sunday, 13 September 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/bears-vs-panthers",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/bears-vs-panthers/1912",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "PSG Brest",
     "category": "PSG",
     "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
@@ -194,7 +116,7 @@
     "end_iso": "2026-09-13T21:00:00.000Z",
     "date": "Sunday, 13 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/psg-vs-brest",
     "servers": [
       {
@@ -227,7 +149,7 @@
     "end_iso": "2026-09-13T21:00:00.000Z",
     "date": "Sunday, 13 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/juventus-vs-sassuolo",
     "servers": [
       {
@@ -260,7 +182,7 @@
     "end_iso": "2026-09-13T21:15:00.000Z",
     "date": "Sunday, 13 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/atletico-madrid-vs-real-sociedad",
     "servers": [
       {
@@ -291,6 +213,62 @@
           "quality": "720p",
           "ads": "2",
           "language": "Español"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Philadelphia Eagles Washington Commanders",
+    "category": "Philadelphia Eagles",
+    "logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
+    "start_iso": "2026-09-13T20:25:00.000Z",
+    "end_iso": "2026-09-13T23:35:00.000Z",
+    "date": "Sunday, 13 September 2026",
+    "time": "22:25",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/eagles-vs-commanders-live",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/eagles-vs-commanders-live/1924",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Dallas Cowboys New York Giants",
+    "category": "Dallas Cowboys",
+    "logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
+    "start_iso": "2026-09-14T00:20:00.000Z",
+    "end_iso": "2026-09-14T03:30:00.000Z",
+    "date": "Monday, 14 September 2026",
+    "time": "02:20",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/dallas-cowboys-vs-giants-live-stream",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/dallas-cowboys-vs-giants-live-stream/1925",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/dallas-cowboys-vs-giants-live-stream/1926",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
         }
       }
     ]
@@ -544,6 +522,78 @@
     "servers": []
   },
   {
+    "title": "Ararat-Armenia Sparta Praha",
+    "category": "Ararat-Armenia",
+    "logo": "https://cdn.img4every1.org/team/ararat-armenia/logo.webp",
+    "start_iso": "2026-09-16T16:45:00.000Z",
+    "end_iso": "2026-09-16T19:00:00.000Z",
+    "date": "Wednesday, 16 September 2026",
+    "time": "18:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/ararat-armenia-vs-sparta-praha",
+    "servers": []
+  },
+  {
+    "title": "Celta de Vigo Omonia Nicosia",
+    "category": "Celta de Vigo",
+    "logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+    "start_iso": "2026-09-16T16:45:00.000Z",
+    "end_iso": "2026-09-16T19:00:00.000Z",
+    "date": "Wednesday, 16 September 2026",
+    "time": "18:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/celta-vigo-vs-omonia-nicosia",
+    "servers": []
+  },
+  {
+    "title": "Osasuna Atlético Madrid",
+    "category": "Osasuna",
+    "logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+    "start_iso": "2026-09-16T17:00:00.000Z",
+    "end_iso": "2026-09-16T19:15:00.000Z",
+    "date": "Wednesday, 16 September 2026",
+    "time": "19:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/osasuna-vs-atletico-madrid",
+    "servers": []
+  },
+  {
+    "title": "Sevilla Deportivo La Coruña",
+    "category": "Sevilla",
+    "logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+    "start_iso": "2026-09-16T17:00:00.000Z",
+    "end_iso": "2026-09-16T19:15:00.000Z",
+    "date": "Wednesday, 16 September 2026",
+    "time": "19:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/sevilla-vs-deportivo-la-coruna",
+    "servers": []
+  },
+  {
+    "title": "Fleetwood Town Sheffield United",
+    "category": "Fleetwood Town",
+    "logo": "https://cdn.img4every1.org/team/fleetwood-town/logo.webp",
+    "start_iso": "2026-09-16T18:45:00.000Z",
+    "end_iso": "2026-09-16T21:00:00.000Z",
+    "date": "Wednesday, 16 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/fleetwood-town-vs-sheffield-united",
+    "servers": []
+  },
+  {
+    "title": "Everton Wolverhampton Wanderers",
+    "category": "Everton",
+    "logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+    "start_iso": "2026-09-16T18:45:00.000Z",
+    "end_iso": "2026-09-16T21:00:00.000Z",
+    "date": "Wednesday, 16 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/everton-vs-wolves",
+    "servers": []
+  },
+  {
     "title": "AC Milan Benfica",
     "category": "AC Milan",
     "logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
@@ -580,6 +630,101 @@
     "servers": []
   },
   {
+    "title": "Olympique Lyonnais Anderlecht",
+    "category": "Olympique Lyonnais",
+    "logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+    "start_iso": "2026-09-16T19:00:00.000Z",
+    "end_iso": "2026-09-16T21:15:00.000Z",
+    "date": "Wednesday, 16 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/lyon-vs-anderlecht",
+    "servers": []
+  },
+  {
+    "title": "OFI Hoffenheim",
+    "category": "OFI",
+    "logo": "https://cdn.img4every1.org/team/ofi/logo.webp",
+    "start_iso": "2026-09-17T16:45:00.000Z",
+    "end_iso": "2026-09-17T19:00:00.000Z",
+    "date": "Thursday, 17 September 2026",
+    "time": "18:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/ofi-vs-hoffenheim",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/ofi-vs-hoffenheim/1927",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Salzburg Levski Sofia",
+    "category": "Salzburg",
+    "logo": "https://cdn.img4every1.org/team/salzburg/logo.webp",
+    "start_iso": "2026-09-17T16:45:00.000Z",
+    "end_iso": "2026-09-17T19:00:00.000Z",
+    "date": "Thursday, 17 September 2026",
+    "time": "18:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/salzburg-vs-le-vs-ki-sofia",
+    "servers": []
+  },
+  {
+    "title": "Juventus NEC",
+    "category": "Juventus",
+    "logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+    "start_iso": "2026-09-17T19:00:00.000Z",
+    "end_iso": "2026-09-17T21:15:00.000Z",
+    "date": "Thursday, 17 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/juventus-vs-nec",
+    "servers": []
+  },
+  {
+    "title": "Celtic Ferencváros",
+    "category": "Celtic",
+    "logo": "https://cdn.img4every1.org/team/celtic/logo.webp",
+    "start_iso": "2026-09-17T19:00:00.000Z",
+    "end_iso": "2026-09-17T21:15:00.000Z",
+    "date": "Thursday, 17 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/celtic-vs-ferencvaros",
+    "servers": []
+  },
+  {
+    "title": "Crystal Palace Lech Poznan",
+    "category": "Crystal Palace",
+    "logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+    "start_iso": "2026-09-17T19:00:00.000Z",
+    "end_iso": "2026-09-17T21:15:00.000Z",
+    "date": "Thursday, 17 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/crystal-palace-vs-lech-poznan",
+    "servers": []
+  },
+  {
+    "title": "AFC Bournemouth Real Sociedad",
+    "category": "AFC Bournemouth",
+    "logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+    "start_iso": "2026-09-17T19:00:00.000Z",
+    "end_iso": "2026-09-17T21:15:00.000Z",
+    "date": "Thursday, 17 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/bournemouth-vs-real-sociedad",
+    "servers": []
+  },
+  {
     "title": "MotoGP Austria Grand Prix MotoGP",
     "category": "MotoGP Austria Grand Prix",
     "logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
@@ -603,15 +748,15 @@
     ]
   },
   {
-    "title": "Bologna Napoli",
-    "category": "Bologna",
-    "logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-    "start_iso": "2026-09-13T16:00:00.000Z",
-    "end_iso": "2026-09-13T18:15:00.000Z",
-    "date": "Sunday, 13 September 2026",
-    "time": "18:00",
-    "status": "finished",
-    "event_url": "https://footystream.pk/events/bologna-vs-napoli",
+    "title": "Liverpool Manchester City",
+    "category": "Liverpool",
+    "logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+    "start_iso": "2026-09-18T18:00:00.000Z",
+    "end_iso": "2026-09-18T20:15:00.000Z",
+    "date": "Friday, 18 September 2026",
+    "time": "20:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/liverpool-vs-manchester-city",
     "servers": []
   }
 ]

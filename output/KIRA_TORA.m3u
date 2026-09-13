@@ -1,30 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Rugby",08:05 - Penrith Panthers vs Sydney Roosters
-https://embed.st/embed/admin/ppv-panthers-vs-roosters/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Rugby",08:05 - Penrith Panthers vs Sydney Roosters
-https://embed.st/embed/admin/ppv-panthers-vs-roosters/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",05:59 - Hawaii vs New Mexico State
-https://sportora.ru/watch/hawaii-vs-new-mexico-state-2498674
-
-#EXTINF:-1 group-title="American-football",05:00 - USC vs Louisiana
-https://embed.st/embed/admin/ppv-louisiana-ragin-cajuns-at-usc-trojans/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",05:00 - USC vs Louisiana
-https://embed.st/embed/admin/ppv-louisiana-ragin-cajuns-at-usc-trojans/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",05:00 - USC vs Louisiana
-https://embed.st/embed/delta/live_cfb_usc-lafayette-live-streaming-587759328/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",05:00 - USC vs Louisiana
-https://embed.st/embed/golf/1094/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",05:00 - USC vs Louisiana
-https://embed.st/embed/golf/1094/2#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Motor-sports",10:45 - Nascar Cup Series 2026 - Enjoy Illinois 300
 https://sportora.ru/watch/live-event_nascar-cup-series-2026-enjoy-illinois-300-live-stream
 
@@ -139,11 +115,11 @@ https://sportora.ru/watch/pogo--szczecin-vs-wieczysta-krak-w-2490258
 #EXTINF:-1 group-title="Motor-sports",15:00 - Race | Circuit De Espana | 308.5 Kms
 https://sportora.ru/watch/race-circuit-de-espana-3085-kms-formula-1-2586
 
-#EXTINF:-1 group-title="Football",15:00 - Birmingham City W vs Brighton W
-https://sportora.ru/watch/birmingham-city-w-vs-brighton-w-football-1607672
-
 #EXTINF:-1 group-title="Football",15:00 - Everton W vs Charlton Athletic W
 https://sportora.ru/watch/everton-w-vs-charlton-athletic-w-football-1607673
+
+#EXTINF:-1 group-title="Football",15:00 - Birmingham City W vs Brighton W
+https://sportora.ru/watch/birmingham-city-w-vs-brighton-w-football-1607672
 
 #EXTINF:-1 group-title="Football",15:00 - Liverpool FC Women vs Tottenham Women
 https://sportora.ru/watch/liverpool-fc-women-vs-tottenham-women-2554335
@@ -219,9 +195,6 @@ https://embed.st/embed/golf/1148/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",16:15 - Levante vs Barcelona
 https://embed.st/embed/golf/1148/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",16:15 - Levante vs Barcelona
-https://embed.st/embed/golf/1148/3#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",16:15 - Real Valladolid vs Real Oviedo
 https://sportora.ru/watch/real-valladolid-vs-real-oviedo-2505755

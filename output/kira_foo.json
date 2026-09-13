@@ -352,5 +352,28 @@
     "status": "next",
     "event_url": "https://footystream.pk/events/atletico-madrid-vs-real-sociedad",
     "servers": []
+  },
+  {
+    "title": "MotoGP Austria Grand Prix MotoGP",
+    "category": "MotoGP Austria Grand Prix",
+    "logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+    "start_iso": "2026-09-18T07:00:00.000Z",
+    "end_iso": "2026-09-20T15:00:00.000Z",
+    "date": "Friday, 18 September 2026",
+    "time": "09:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/motogp-austria-grand-prix",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/motogp-austria-grand-prix/1806",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   }
 ]

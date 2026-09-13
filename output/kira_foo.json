@@ -182,7 +182,7 @@
     "end_iso": "2026-09-13T13:15:00.000Z",
     "date": "Sunday, 13 September 2026",
     "time": "13:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/wolves-vs-sheffield-united",
     "servers": [
       {
@@ -205,7 +205,7 @@
     "end_iso": "2026-09-13T14:15:00.000Z",
     "date": "Sunday, 13 September 2026",
     "time": "14:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/malaga-vs-celta-de-vigo",
     "servers": [
       {
@@ -313,7 +313,18 @@
     "time": "15:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/lecce-vs-monza",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/lecce-vs-monza/1906",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "SD",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "RB Leipzig Hamburger SV",
@@ -325,7 +336,18 @@
     "time": "15:30",
     "status": "next",
     "event_url": "https://footystream.pk/events/rb-leipzig-vs-hamburger-sv",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/rb-leipzig-vs-hamburger-sv/1909",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "FC Barcelona Levante",
@@ -337,7 +359,58 @@
     "time": "16:15",
     "status": "next",
     "event_url": "https://footystream.pk/events/barcelona-vs-levante",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/barcelona-vs-levante/1895",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/barcelona-vs-levante/1896",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://footystream.pk/alpha/barcelona-vs-levante/1897",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://footystream.pk/alpha/barcelona-vs-levante/1898",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://footystream.pk/alpha/barcelona-vs-levante/1899",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "Manchester United Manchester City",
@@ -422,7 +495,18 @@
     "time": "17:30",
     "status": "next",
     "event_url": "https://footystream.pk/events/bayern-munich-vs-elversberg",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/bayern-munich-vs-elversberg/1910",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Bologna Napoli",
@@ -434,7 +518,18 @@
     "time": "18:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/bologna-vs-napoli",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/bologna-vs-napoli/1908",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "SD",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Getafe Deportivo La Coruña",
@@ -446,7 +541,38 @@
     "time": "18:30",
     "status": "next",
     "event_url": "https://footystream.pk/events/getafe-vs-deportivo-la-coruna",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/getafe-vs-deportivo-la-coruna/1900",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/getafe-vs-deportivo-la-coruna/1901",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://footystream.pk/alpha/getafe-vs-deportivo-la-coruna/1902",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
   },
   {
     "title": "Chicago Bears Carolina Panthers",
@@ -470,7 +596,28 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://footystream.pk/events/juventus-vs-sassuolo",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/juventus-vs-sassuolo/1907",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/juventus-vs-sassuolo/1911",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "SD",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "PSG Brest",
@@ -494,7 +641,38 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/atletico-madrid-vs-real-sociedad",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/atletico-madrid-vs-real-sociedad/1903",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/atletico-madrid-vs-real-sociedad/1904",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://footystream.pk/alpha/atletico-madrid-vs-real-sociedad/1905",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
   },
   {
     "title": "MotoGP Austria Grand Prix MotoGP",

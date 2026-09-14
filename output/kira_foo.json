@@ -1,114 +1,5 @@
 [
   {
-    "title": "US Open 2026 ATP Tour",
-    "category": "US Open 2026",
-    "logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-    "start_iso": "2026-08-24T14:00:00.000Z",
-    "end_iso": "2026-09-13T23:50:00.000Z",
-    "date": "Monday, 24 August 2026",
-    "time": "16:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/us-open-2026",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/us-open-2026/1437",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/us-open-2026/1438",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/us-open-2026/1439",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/us-open-2026/1440",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "English Open Snooker Snooker",
-    "category": "English Open Snooker",
-    "logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-    "start_iso": "2026-09-08T10:00:00.000Z",
-    "end_iso": "2026-09-13T23:00:00.000Z",
-    "date": "Tuesday, 08 September 2026",
-    "time": "12:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/english-open-snooker",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/english-open-snooker/1758",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/english-open-snooker/1759",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Philadelphia Eagles Washington Commanders",
-    "category": "Philadelphia Eagles",
-    "logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
-    "start_iso": "2026-09-13T20:25:00.000Z",
-    "end_iso": "2026-09-13T23:35:00.000Z",
-    "date": "Sunday, 13 September 2026",
-    "time": "22:25",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/eagles-vs-commanders-live",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/eagles-vs-commanders-live/1924",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Dallas Cowboys New York Giants",
     "category": "Dallas Cowboys",
     "logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
@@ -116,7 +7,7 @@
     "end_iso": "2026-09-14T03:30:00.000Z",
     "date": "Monday, 14 September 2026",
     "time": "02:20",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/dallas-cowboys-vs-giants-live-stream",
     "servers": [
       {

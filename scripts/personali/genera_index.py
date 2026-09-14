@@ -11,12 +11,13 @@ FILE_DA_MOSTRARE = [
     "kira_spo.html",
     "kira_hat.html",
     "kira_ultra.html",
-    "kira_liv.html",
+    "kira_foo.html",
     "Kira_Ica.html",
     "kira_hat_od.html",
     "kira_tora.html",
     "kira_ppvvt.html",
     "kira_mam.html",
+    "kira_xust.html",
     "requirements.txt",
 ]
 

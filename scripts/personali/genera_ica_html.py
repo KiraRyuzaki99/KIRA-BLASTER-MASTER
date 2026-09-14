@@ -13,7 +13,7 @@ import html as html_lib
 from datetime import datetime
 
 INPUT_TXT = os.path.join("output", "lista_icastresana_intermedia.txt")
-OUTPUT_HTML = os.path.join("output", "Kira_Ica.html")
+OUTPUT_HTML = os.path.join("output", "kira_ica.html")
 OUTPUT_M3U = os.path.join("output", "lista_icastresana_playlist.m3u")
 
 ACESTREAM_HASH_RE = re.compile(r'[a-fA-F0-9]{40}')

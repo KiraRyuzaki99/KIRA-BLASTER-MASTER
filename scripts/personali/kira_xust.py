@@ -3,8 +3,8 @@
 kira_wizard.py
 
 Scarica TUTTI i match di oggi da streamed.pk, genera:
-  - kira_ultra.html  (stile KIRA GATE)
-  - kira_playlist.m3u
+  - kira_xust.html  (stile KIRA GATE)
+  - kira_xust.m3u
 
 Funziona sia in locale (Pydroid) sia nella repo GitHub.
 Dipendenze: solo requests.
@@ -264,7 +264,7 @@ def build_html(events: list[dict]) -> str:
         "<!DOCTYPE html>",
         '<html lang="it"><head><meta charset="UTF-8">',
         '<meta name="viewport" content="width=device-width,initial-scale=1">',
-        "<title>KIRA GATE ACCESS</title>",
+        "<title>CYBER GATE ACCESS</title>",
         f"<style>{CSS}</style></head><body>",
         '<div class="container">',
         '<header class="header">',

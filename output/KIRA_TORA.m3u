@@ -1,26 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",18:00 - Bayer Leverkusen Women vs Bayern Munich Women
-https://sportora.ru/watch/bayer-leverkusen-women-vs-bayern-munich-women-2539447
-
-#EXTINF:-1 group-title="Football",18:30 - Como vs Parma
-https://embed.st/embed/admin/ppv-como-vs-parma/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:30 - Como vs Parma
-https://embed.st/embed/admin/ppv-como-vs-parma/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:30 - Como vs Parma
-https://embed.st/embed/delta/live_serie-a_como-parma-live-streaming-615395232/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:30 - Torino vs Roma
-https://embed.st/embed/admin/ppv-torino-vs-as-roma/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:30 - Torino vs Roma
-https://embed.st/embed/admin/ppv-torino-vs-as-roma/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:30 - Torino vs Roma
-https://embed.st/embed/delta/live_serie-a_torino-roma-live-streaming-615394800/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Football",19:45 - Rio Ave vs Estrela Amadora
+https://sportora.ru/watch/rio-ave-vs-estrela-amadora-2513983
 
 #EXTINF:-1 group-title="Football",19:00 - FC Midtjylland vs Brondby
 https://sportora.ru/watch/fc-midtjylland-vs-brondby-football-1549018
@@ -49,8 +31,23 @@ https://embed.st/embed/admin/ppv-djurg-rden-vs-gais/1#player=clappr&autoplay=tru
 #EXTINF:-1 group-title="Football",19:00 - Djurgården vs GAIS
 https://embed.st/embed/admin/ppv-djurg-rden-vs-gais/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",19:45 - Rio Ave vs Estrela Amadora
-https://sportora.ru/watch/rio-ave-vs-estrela-amadora-2513983
+#EXTINF:-1 group-title="Football",18:30 - Como vs Parma
+https://embed.st/embed/admin/ppv-como-vs-parma/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:30 - Como vs Parma
+https://embed.st/embed/admin/ppv-como-vs-parma/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:30 - Como vs Parma
+https://embed.st/embed/delta/live_serie-a_como-parma-live-streaming-615395232/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:30 - Torino vs Roma
+https://embed.st/embed/admin/ppv-torino-vs-as-roma/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:30 - Torino vs Roma
+https://embed.st/embed/admin/ppv-torino-vs-as-roma/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:30 - Torino vs Roma
+https://embed.st/embed/delta/live_serie-a_torino-roma-live-streaming-615394800/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:30 - Celta de Vigo II vs Eibar
 https://sportora.ru/watch/celta-de-vigo-ii-vs-eibar-football-1569918
@@ -64,11 +61,17 @@ https://embed.st/embed/admin/ppv-inter-milan-vs-udinese/1#player=clappr&autoplay
 #EXTINF:-1 group-title="Football",20:45 - Inter Milan vs Udinese
 https://embed.st/embed/admin/ppv-inter-milan-vs-udinese/2#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Football",20:45 - Inter Milan vs Udinese
+https://embed.st/embed/delta/live_serie-a_inter-udinese-live-streaming-616037184/1#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Football",21:00 - Villarreal vs Real Betis
 https://embed.st/embed/admin/ppv-villarreal-vs-real-betis/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Villarreal vs Real Betis
 https://embed.st/embed/admin/ppv-villarreal-vs-real-betis/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Villarreal vs Real Betis
+https://embed.st/embed/delta/live_laliga_villarreal-real-betis-live-streaming-615784464/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Leeds United vs Newcastle United
 https://embed.st/embed/admin/ppv-leeds-united-vs-newcastle-united/1#player=clappr&autoplay=true

@@ -28,10 +28,11 @@
 | **PPVVT** | `kira_ppvvt.html` | Multi |
 | **StreamX** | `kira_ultra.html` | Multi |
 | **MamaHD** | `kira_mam.html` | Multi |
-| **LiveTV** | `kira_liv.html` | Multi |
+| **GolXu** | `kira_xust.html` | Multi |
 | **Sportsonline** | `kira_spo.html` | Multi |
 | **Icastresana** | `kira_Ica.html` | Multi |
 | **Sportora** | `kira_tora.html` | Multi |
+| **Footystream** | `kira_foo.html` | Multi |
 
 ---
 
@@ -64,12 +65,13 @@ python wrapper.py
 https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_spo.html
 https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/Kira_Ica.html
 https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_ultra.html
-https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_liv.html
+https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_xust.html
 https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_ppvvt.html
 https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_mam.html
 https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_tora.html
 https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_hat.html
 https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_hat_od.html
+https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_foo.html
 
 
 📁 KIRA-BLASTER-MASTER/
@@ -77,7 +79,6 @@ https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/
 │   └── update.yml
 ├── output/                     # File generati (fonti multiple)
 ├── scripts/                    # Script Python
-│   ├── repo/                   # Script da altre repo
 │   └── personali/              # Script personali
 ├── wrapper.py                  # Esecutore principale
 ├── requirements.txt            # Dipendenze

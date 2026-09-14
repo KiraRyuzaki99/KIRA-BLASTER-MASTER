@@ -46,6 +46,29 @@
     ]
   },
   {
+    "title": "Rio Ave Estrela",
+    "category": "Rio Ave",
+    "logo": "https://cdn.img4every1.org/team/rio-ave/logo.webp",
+    "start_iso": "2026-09-14T17:45:00.000Z",
+    "end_iso": "2026-09-14T20:00:00.000Z",
+    "date": "Monday, 14 September 2026",
+    "time": "19:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/rio-ave-vs-estrela",
+    "servers": [
+      {
+        "label": "Portuguese",
+        "url": "https://footystream.pk/alpha/rio-ave-vs-estrela/1932",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
+  },
+  {
     "title": "Inter Milan Udinese",
     "category": "Inter Milan",
     "logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
@@ -59,6 +82,16 @@
       {
         "label": "English",
         "url": "https://footystream.pk/alpha/inter-milan-vs-udinese/1930",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/inter-milan-vs-udinese/1934",
         "meta": {
           "mobile": "Yes",
           "quality": "SD",
@@ -180,6 +213,29 @@
           "quality": "720p",
           "ads": "2",
           "language": "Español"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Sporting Braga Estoril",
+    "category": "Sporting Braga",
+    "logo": "https://cdn.img4every1.org/team/sporting-braga/logo.webp",
+    "start_iso": "2026-09-14T19:45:00.000Z",
+    "end_iso": "2026-09-14T22:00:00.000Z",
+    "date": "Monday, 14 September 2026",
+    "time": "21:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/sporting-braga-vs-estoril",
+    "servers": [
+      {
+        "label": "Portuguese",
+        "url": "https://footystream.pk/alpha/sporting-braga-vs-estoril/1933",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
         }
       }
     ]

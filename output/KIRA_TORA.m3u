@@ -1,60 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",03:15 - Cucuta vs Millonarios
-https://sportora.ru/watch/cucuta-vs-millonarios-football-1549777
-
-#EXTINF:-1 group-title="Football",03:07 - CD Guadalajara vs Pumas UNAM
-https://embed.st/embed/admin/ppv-guadalajara-vs-pumas-unam/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",03:07 - CD Guadalajara vs Pumas UNAM
-https://embed.st/embed/admin/ppv-guadalajara-vs-pumas-unam/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",03:00 - Santos Laguna vs Juárez
-https://sportora.ru/watch/santos-laguna-vs-ju-rez-2487522
-
-#EXTINF:-1 group-title="Football",03:00 - San Diego FC vs Philadelphia Union
-https://embed.st/embed/admin/ppv-san-diego-fc-vs-philadelphia-union/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",03:00 - San Diego FC vs Philadelphia Union
-https://embed.st/embed/admin/ppv-san-diego-fc-vs-philadelphia-union/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",03:00 - San Diego FC vs Philadelphia Union
-https://embed.st/embed/delta/live_mls_san-diego-philadelphia-live-streaming-539230176/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",02:30 - Huracán vs Racing Club
-https://sportora.ru/watch/hurac-n-vs-racing-club-2398078
-
-#EXTINF:-1 group-title="American-football",02:20 - New York Giants vs Dallas Cowboys
-https://embed.st/embed/admin/ppv-dallas-cowboys-at-new-york-giants/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",02:20 - New York Giants vs Dallas Cowboys
-https://embed.st/embed/admin/ppv-dallas-cowboys-at-new-york-giants/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",02:20 - New York Giants vs Dallas Cowboys
-https://embed.st/embed/delta/live_nfl_giants-cowboys-live-streaming-587783952/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",02:20 - New York Giants vs Dallas Cowboys
-https://embed.st/embed/delta/live_nfl_giants-cowboys-live-streaming-587783952/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",02:20 - New York Giants vs Dallas Cowboys
-https://embed.st/embed/delta/live_nfl_giants-cowboys-live-streaming-587783952/3#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",01:20 - San Francisco Giants vs San Diego Padres
-https://embed.st/embed/admin/ppv-san-diego-padres-vs-san-francisco-giants/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",01:20 - San Francisco Giants vs San Diego Padres
-https://embed.st/embed/admin/ppv-san-diego-padres-vs-san-francisco-giants/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",01:20 - San Francisco Giants vs San Diego Padres
-https://embed.st/embed/delta/live_mlb_giants-padres-live-streaming-594346896/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",01:20 - San Francisco Giants vs San Diego Padres
-https://embed.st/embed/golf/1196/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",01:20 - San Francisco Giants vs San Diego Padres
-https://embed.st/embed/golf/1196/2#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Football",18:00 - Bayer Leverkusen Women vs Bayern Munich Women
 https://sportora.ru/watch/bayer-leverkusen-women-vs-bayern-munich-women-2539447
 
@@ -143,10 +89,22 @@ https://sportora.ru/watch/deportivo-riestra-vs-lan-s-2398076
 https://sportora.ru/watch/banfield-vs-barracas-central-2398073
 
 #EXTINF:-1 group-title="Baseball",00:40 - Cleveland Guardians vs Chicago White Sox
+https://embed.st/embed/admin/ppv-chicago-white-sox-vs-cleveland-guardians/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Cleveland Guardians vs Chicago White Sox
+https://embed.st/embed/admin/ppv-chicago-white-sox-vs-cleveland-guardians/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Cleveland Guardians vs Chicago White Sox
 https://embed.st/embed/golf/1324/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Cleveland Guardians vs Chicago White Sox
 https://embed.st/embed/golf/1324/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Cincinnati Reds vs Los Angeles Dodgers
+https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-cincinnati-reds/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Cincinnati Reds vs Los Angeles Dodgers
+https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-cincinnati-reds/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Cincinnati Reds vs Los Angeles Dodgers
 https://embed.st/embed/golf/1323/1#player=clappr&autoplay=true

@@ -1,57 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",21:45 - Braga vs Estoril Praia
-https://sportora.ru/watch/braga-vs-estoril-praia-2513981
-
-#EXTINF:-1 group-title="Football",21:15 - Moreirense vs Maritimo
-https://sportora.ru/watch/moreirense-vs-maritimo-football-1575497
-
-#EXTINF:-1 group-title="Football",21:00 - Villarreal vs Real Betis
-https://embed.st/embed/admin/ppv-villarreal-vs-real-betis/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",21:00 - Villarreal vs Real Betis
-https://embed.st/embed/admin/ppv-villarreal-vs-real-betis/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",21:00 - Villarreal vs Real Betis
-https://embed.st/embed/delta/live_laliga_villarreal-real-betis-live-streaming-615784464/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",21:00 - Leeds United vs Newcastle United
-https://embed.st/embed/admin/ppv-leeds-united-vs-newcastle-united/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",21:00 - Leeds United vs Newcastle United
-https://embed.st/embed/admin/ppv-leeds-united-vs-newcastle-united/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",21:00 - Leeds United vs Newcastle United
-https://embed.st/embed/admin/ppv-leeds-united-vs-newcastle-united/3#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",21:00 - Leeds United vs Newcastle United
-https://embed.st/embed/admin/ppv-leeds-united-vs-newcastle-united/4#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",21:00 - Leeds United vs Newcastle United
-https://embed.st/embed/admin/ppv-leeds-united-vs-newcastle-united/5#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:45 - Red Star vs Metz
-https://sportora.ru/watch/red-star-vs-metz-2488756
-
-#EXTINF:-1 group-title="Football",20:45 - Inter Milan vs Udinese
-https://embed.st/embed/admin/ppv-inter-milan-vs-udinese/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:45 - Inter Milan vs Udinese
-https://embed.st/embed/admin/ppv-inter-milan-vs-udinese/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:45 - Inter Milan vs Udinese
-https://embed.st/embed/admin/ppv-inter-milan-vs-udinese/3#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:45 - Inter Milan vs Udinese
-https://embed.st/embed/admin/ppv-inter-milan-vs-udinese/4#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:45 - Inter Milan vs Udinese
-https://embed.st/embed/delta/live_serie-a_inter-udinese-live-streaming-616037184/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:30 - Celta de Vigo II vs Eibar
-https://sportora.ru/watch/celta-de-vigo-ii-vs-eibar-football-1569918
-
 #EXTINF:-1 group-title="Football",00:00 - Deportivo Riestra vs Lanús
 https://sportora.ru/watch/deportivo-riestra-vs-lan-s-2398076
 
@@ -65,6 +14,9 @@ https://embed.st/embed/admin/ppv-chicago-white-sox-vs-cleveland-guardians/1#play
 https://embed.st/embed/admin/ppv-chicago-white-sox-vs-cleveland-guardians/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Cleveland Guardians vs Chicago White Sox
+https://embed.st/embed/delta/live_mlb_guardians-white-sox-live-streaming-594366768/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Cleveland Guardians vs Chicago White Sox
 https://embed.st/embed/golf/1324/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Cleveland Guardians vs Chicago White Sox
@@ -75,6 +27,9 @@ https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-cincinnati-reds/1#player
 
 #EXTINF:-1 group-title="Baseball",00:40 - Cincinnati Reds vs Los Angeles Dodgers
 https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-cincinnati-reds/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Cincinnati Reds vs Los Angeles Dodgers
+https://embed.st/embed/delta/live_mlb_reds-dodgers-live-streaming-594366336/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Cincinnati Reds vs Los Angeles Dodgers
 https://embed.st/embed/golf/1323/1#player=clappr&autoplay=true

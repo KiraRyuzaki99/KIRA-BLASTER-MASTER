@@ -1,8 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",18:00 - Genoa vs Sudtirol
-https://sportora.ru/watch/genoa-vs-sudtirol-football-1628957
+#EXTINF:-1 group-title="Other",18:00 - WTA 500 Guadlajara / WTA 250 Sao Paulo 🎾
+https://sportora.ru/watch/wta-500-guadlajara-wta-250-sao-paulo-roland-2026
+
+#EXTINF:-1 group-title="Football",18:00 - Genoa vs. Sudtirol
+https://embed.st/embed/admin/ppv-genoa-vs-sudtirol/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:00 - Genoa vs. Sudtirol
+https://embed.st/embed/admin/ppv-genoa-vs-sudtirol/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:00 - Raków Częstochowa vs Zagłębie Lubin
 https://sportora.ru/watch/rak-w-cz-stochowa-vs-zag--bie-lubin-2490214
@@ -27,6 +33,9 @@ https://embed.st/embed/admin/ppv-rayo-vallecano-vs-espanyol/1#player=clappr&auto
 
 #EXTINF:-1 group-title="Football",19:00 - Rayo Vallecano vs Espanyol
 https://embed.st/embed/admin/ppv-rayo-vallecano-vs-espanyol/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",19:00 - Rayo Vallecano vs Espanyol
+https://embed.st/embed/delta/live_laliga_rayo-vallecano-espanyol-live-streaming-616683888/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",19:00 - Grasshoppers vs Sion
 https://sportora.ru/watch/grasshoppers-vs-sion-2493348
@@ -62,10 +71,19 @@ https://embed.st/embed/admin/ppv-ajax-amsterdam-vs-willem-ii/1#player=clappr&aut
 https://embed.st/embed/admin/ppv-ajax-amsterdam-vs-willem-ii/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:30 - Peterborough United vs Barnsley
-https://sportora.ru/watch/peterborough-united-vs-barnsley-2594464
+https://embed.st/embed/admin/ppv-peterborough-united-vs-barnsley/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:30 - Peterborough United vs Barnsley
+https://embed.st/embed/admin/ppv-peterborough-united-vs-barnsley/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:30 - Korona Kielce vs Górnik Zabrze
 https://sportora.ru/watch/korona-kielce-vs-g-rnik-zabrze-2490201
+
+#EXTINF:-1 group-title="Football",20:45 - West Ham United vs Fulham
+https://embed.st/embed/admin/ppv-west-ham-united-vs-fulham/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - West Ham United vs Fulham
+https://embed.st/embed/admin/ppv-west-ham-united-vs-fulham/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - West Ham United vs Fulham
 https://embed.st/embed/golf/1365/1#player=clappr&autoplay=true
@@ -74,10 +92,16 @@ https://embed.st/embed/golf/1365/1#player=clappr&autoplay=true
 https://embed.st/embed/golf/1365/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Middlesbrough vs Millwall
-https://sportora.ru/watch/middlesbrough-vs-millwall-2501316
+https://embed.st/embed/admin/ppv-middlesbrough-vs-millwall/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Middlesbrough vs Millwall
+https://embed.st/embed/admin/ppv-middlesbrough-vs-millwall/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Bristol City vs Lincoln City
-https://sportora.ru/watch/bristol-city-vs-lincoln-city-2501313
+https://embed.st/embed/admin/ppv-bristol-city-vs-lincoln-city/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Bristol City vs Lincoln City
+https://embed.st/embed/admin/ppv-bristol-city-vs-lincoln-city/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Falkirk vs Heart of Midlothian
 https://sportora.ru/watch/falkirk-vs-heart-of-midlothian-2494427
@@ -89,10 +113,22 @@ https://sportora.ru/watch/motherwell-vs-aberdeen-2494423
 https://sportora.ru/watch/hibernian-vs-kilmarnock-2494422
 
 #EXTINF:-1 group-title="Football",21:00 - Ipswich Town vs Arsenal
+https://embed.st/embed/admin/ppv-ipswich-town-vs-arsenal/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Ipswich Town vs Arsenal
+https://embed.st/embed/admin/ppv-ipswich-town-vs-arsenal/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Ipswich Town vs Arsenal
 https://embed.st/embed/golf/1368/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Ipswich Town vs Arsenal
 https://embed.st/embed/golf/1368/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Reading vs Brentford
+https://embed.st/embed/admin/ppv-reading-vs-brentford/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Reading vs Brentford
+https://embed.st/embed/admin/ppv-reading-vs-brentford/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Reading vs Brentford
 https://embed.st/embed/golf/1367/1#player=clappr&autoplay=true
@@ -101,13 +137,22 @@ https://embed.st/embed/golf/1367/1#player=clappr&autoplay=true
 https://embed.st/embed/golf/1367/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Liverpool vs Tottenham Hotspur
+https://embed.st/embed/admin/ppv-liverpool-vs-tottenham-hotspur/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Liverpool vs Tottenham Hotspur
+https://embed.st/embed/admin/ppv-liverpool-vs-tottenham-hotspur/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Liverpool vs Tottenham Hotspur
 https://embed.st/embed/golf/1366/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Liverpool vs Tottenham Hotspur
 https://embed.st/embed/golf/1366/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Fiorentina vs Pisa
-https://sportora.ru/watch/fiorentina-vs-pisa-2579099
+https://embed.st/embed/admin/ppv-fiorentina-vs-pisa/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Fiorentina vs Pisa
+https://embed.st/embed/admin/ppv-fiorentina-vs-pisa/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:30 - Elche vs Real Madrid
 https://embed.st/embed/admin/ppv-elche-vs-real-madrid/1#player=clappr&autoplay=true

@@ -7,7 +7,7 @@
     "end_iso": "2026-09-15T18:15:00.000Z",
     "date": "Tuesday, 15 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/genoa-vs-sudtirol",
     "servers": [
       {
@@ -95,7 +95,28 @@
     "time": "20:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/valencia-vs-alaves",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/valencia-vs-alaves/1941",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://footystream.pk/alpha/valencia-vs-alaves/1942",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
   },
   {
     "title": "Barnsley Peterborough United",
@@ -119,19 +140,28 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://footystream.pk/events/fulham-vs-west-ham-united",
-    "servers": []
-  },
-  {
-    "title": "Pisa Fiorentina",
-    "category": "Pisa",
-    "logo": "https://cdn.img4every1.org/team/pisa/logo.webp",
-    "start_iso": "2026-09-15T19:00:00.000Z",
-    "end_iso": "2026-09-15T21:15:00.000Z",
-    "date": "Tuesday, 15 September 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/pisa-vs-fiorentina",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/fulham-vs-west-ham-united/1943",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/fulham-vs-west-ham-united/1944",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Liverpool Tottenham Hotspur",
@@ -155,6 +185,18 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/reading-vs-brentford",
+    "servers": []
+  },
+  {
+    "title": "Pisa Fiorentina",
+    "category": "Pisa",
+    "logo": "https://cdn.img4every1.org/team/pisa/logo.webp",
+    "start_iso": "2026-09-15T19:00:00.000Z",
+    "end_iso": "2026-09-15T21:15:00.000Z",
+    "date": "Tuesday, 15 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/pisa-vs-fiorentina",
     "servers": []
   },
   {

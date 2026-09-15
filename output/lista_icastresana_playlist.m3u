@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="20:30 Segunda -  Celta B - Eibar" group-title="Segunda",20:30 Segunda -  Celta B - Eibar
-acestream://60952921b847a9c560741b0d8048a2d8ad194a7f
-#EXTINF:-1 tvg-name="21:00 Primera -  Villarreal - Real Betis" group-title="Primera",21:00 Primera -  Villarreal - Real Betis
-acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1 tvg-name="21:00 Premier -  Leeds Utd - Newcastle" group-title="Premier",21:00 Premier -  Leeds Utd - Newcastle
+#EXTINF:-1 tvg-name="13:35 WTA Torneo de Guadalajara -  Etapa 1 - Cupello › Casalincontrada (155 km)" group-title="WTA Torneo de Guadalajara",13:35 WTA Torneo de Guadalajara -  Etapa 1 - Cupello › Casalincontrada (155 km)
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
+#EXTINF:-1 tvg-name="19:00 Primera -  Rayo Vallecano - Espanyol" group-title="Primera",19:00 Primera -  Rayo Vallecano - Espanyol
+acestream://b8eb9c9868d487402569bba2d97a8af113d033fe
+#EXTINF:-1 tvg-name="20:00 Primera -  Alavés - Valencia CF" group-title="Primera",20:00 Primera -  Alavés - Valencia CF
+acestream://f43ef903dc750610978b47df47a0cb389413fe61
+#EXTINF:-1 tvg-name="21:00 Coppa Italia -  Fiorentina - Pisa Sporting Club" group-title="Coppa Italia",21:00 Coppa Italia -  Fiorentina - Pisa Sporting Club
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-name="21:30 Primera -  Elche - Real Madrid" group-title="Primera",21:30 Primera -  Elche - Real Madrid
+acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-name="22:00 WTA Torneo de Guadalajara -  1ª Ronda - WTA 500" group-title="WTA Torneo de Guadalajara",22:00 WTA Torneo de Guadalajara -  1ª Ronda - WTA 500
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
-#EXTINF:-1 tvg-name="02:15 NFL - Liga Regular Kansas City Chiefs - Denver Broncos" group-title="NFL",02:15 NFL - Liga Regular Kansas City Chiefs - Denver Broncos
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-name="02:30 Copa Sudamericana - 1/4 de Final São Paulo - Boca Juniors" group-title="Copa Sudamericana",02:30 Copa Sudamericana - 1/4 de Final São Paulo - Boca Juniors
+acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8

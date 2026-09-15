@@ -66,7 +66,7 @@ font-size:0.85rem;cursor:pointer;outline:none}
 <div class="events-grid">
 <div class="event-card">
     <div class="event-info">
-        <h3>Genoa Südtirol <span class="status-next">⏳ PROSSIMO</span></h3>
+        <h3>Genoa Südtirol <span class="status-live">🔴 LIVE</span></h3>
         <p class="competition">🏆 Genoa</p>
         <p class="datetime">🕒 18:00 • 📅 Tuesday, 15 September 2026</p>
         <span class="fonte-badge">📡 footystream.pk</span>
@@ -110,7 +110,13 @@ font-size:0.85rem;cursor:pointer;outline:none}
         <span class="fonte-badge">📡 footystream.pk</span>
     </div>
     <div class="event-links">
-        <span class="no-link">⏳ Server disponibili poco prima dell'inizio</span>
+        <div class="dropdown">
+            <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                <option value="">📡 Scegli il server (2)...</option>
+                    <option value="https://footystream.pk/alpha/valencia-vs-alaves/1941">English (720p English)</option>
+                    <option value="https://footystream.pk/alpha/valencia-vs-alaves/1942">Español (720p Español)</option>
+            </select>
+        </div>
     </div>
 </div>
 
@@ -134,19 +140,13 @@ font-size:0.85rem;cursor:pointer;outline:none}
         <span class="fonte-badge">📡 footystream.pk</span>
     </div>
     <div class="event-links">
-        <span class="no-link">⏳ Server disponibili poco prima dell'inizio</span>
-    </div>
-</div>
-
-<div class="event-card">
-    <div class="event-info">
-        <h3>Pisa Fiorentina <span class="status-next">⏳ PROSSIMO</span></h3>
-        <p class="competition">🏆 Pisa</p>
-        <p class="datetime">🕒 21:00 • 📅 Tuesday, 15 September 2026</p>
-        <span class="fonte-badge">📡 footystream.pk</span>
-    </div>
-    <div class="event-links">
-        <span class="no-link">⏳ Server disponibili poco prima dell'inizio</span>
+        <div class="dropdown">
+            <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                <option value="">📡 Scegli il server (2)...</option>
+                    <option value="https://footystream.pk/alpha/fulham-vs-west-ham-united/1943">English (720p English)</option>
+                    <option value="https://footystream.pk/alpha/fulham-vs-west-ham-united/1944">English (720p English)</option>
+            </select>
+        </div>
     </div>
 </div>
 
@@ -166,6 +166,18 @@ font-size:0.85rem;cursor:pointer;outline:none}
     <div class="event-info">
         <h3>Brentford Reading <span class="status-next">⏳ PROSSIMO</span></h3>
         <p class="competition">🏆 Brentford</p>
+        <p class="datetime">🕒 21:00 • 📅 Tuesday, 15 September 2026</p>
+        <span class="fonte-badge">📡 footystream.pk</span>
+    </div>
+    <div class="event-links">
+        <span class="no-link">⏳ Server disponibili poco prima dell'inizio</span>
+    </div>
+</div>
+
+<div class="event-card">
+    <div class="event-info">
+        <h3>Pisa Fiorentina <span class="status-next">⏳ PROSSIMO</span></h3>
+        <p class="competition">🏆 Pisa</p>
         <p class="datetime">🕒 21:00 • 📅 Tuesday, 15 September 2026</p>
         <span class="fonte-badge">📡 footystream.pk</span>
     </div>

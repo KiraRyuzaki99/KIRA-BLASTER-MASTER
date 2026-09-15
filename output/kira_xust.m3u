@@ -1,16 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Football Americano",Kansas City Chiefs vs Denver Broncos [Server 3 (echo)]
 https://golxu.st/eventostop.html?id=kansas-city-chiefs-vs-denver-broncos-american-football-21528
-#EXTINF:-1 group-title="Fight (UFC/Boxe)",WWE Monday Night RAW 💥 [Server 3 (echo)]
+#EXTINF:-1 group-title="Altro",WWE Monday Night RAW 💥 [Server 3 (echo)]
 https://golxu.st/eventostop.html?id=ppv-event-01-wwe-monday-night-raw-ppv-01
-#EXTINF:-1 group-title="Fight (UFC/Boxe)",WWE Monday Night RAW 💥 [golf]
-https://golxu.st/eventostop.html?id=1362
 #EXTINF:-1 group-title="Altro",World of Outlaws Sprints El Paso 🔥 [Server 3 (echo)]
 https://golxu.st/eventostop.html?id=ppv-event-02-world-of-outlaws-sprints-el-paso-ppv-02
-#EXTINF:-1 group-title="Baseball",Los Angeles Angels vs Seattle Mariners [golf]
-https://golxu.st/eventostop.html?id=1333
-#EXTINF:-1 group-title="Baseball",Arizona Diamondbacks vs Miami Marlins [golf]
-https://golxu.st/eventostop.html?id=1334
 #EXTINF:-1 group-title="Calcio",Genoa vs Sudtirol [Server 3 (echo)]
 https://golxu.st/eventostop.html?id=genoa-vs-sudtirol-football-1628957
 #EXTINF:-1 group-title="Calcio",Raków Częstochowa vs Zagłębie Lubin [Server 3 (echo)]
@@ -93,6 +87,8 @@ https://golxu.st/eventostop.html?id=1366
 https://golxu.st/eventostop.html?id=fiorentina-vs-pisa-football-1629058
 #EXTINF:-1 group-title="Calcio",Elche vs Real Madrid [Server 1 (admin)]
 https://golxu.st/eventostop.html?id=ppv-elche-vs-real-madrid
+#EXTINF:-1 group-title="Calcio",Elche vs Real Madrid [Server 2 (delta)]
+https://golxu.st/eventostop.html?id=live_laliga_elche-real-madrid-live-streaming-616682160
 #EXTINF:-1 group-title="Calcio",Elche vs Real Madrid [Server 3 (echo)]
 https://golxu.st/eventostop.html?id=elche-vs-real-madrid-football-1570388
 #EXTINF:-1 group-title="Calcio",Elche vs Real Madrid [golf]

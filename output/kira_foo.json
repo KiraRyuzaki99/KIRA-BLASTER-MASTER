@@ -50,7 +50,7 @@
     "end_iso": "2026-09-15T19:15:00.000Z",
     "date": "Tuesday, 15 September 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/rayo-vallecano-vs-espanyol",
     "servers": [
       {
@@ -93,7 +93,7 @@
     "end_iso": "2026-09-15T20:15:00.000Z",
     "date": "Tuesday, 15 September 2026",
     "time": "20:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/valencia-vs-alaves",
     "servers": [
       {
@@ -164,6 +164,39 @@
     ]
   },
   {
+    "title": "Arsenal Ipswich Town",
+    "category": "Arsenal",
+    "logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+    "start_iso": "2026-09-15T19:00:00.000Z",
+    "end_iso": "2026-09-15T21:15:00.000Z",
+    "date": "Tuesday, 15 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/arsenal-vs-ipswich",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/arsenal-vs-ipswich/1948",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://footystream.pk/alpha/arsenal-vs-ipswich/1949",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
+  },
+  {
     "title": "Liverpool Tottenham Hotspur",
     "category": "Liverpool",
     "logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
@@ -173,7 +206,48 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/liverpool-vs-spurs",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/liverpool-vs-spurs/1945",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/liverpool-vs-spurs/1946",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/liverpool-vs-spurs/1947",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://footystream.pk/alpha/liverpool-vs-spurs/1950",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "Brentford Reading",
@@ -185,7 +259,28 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/reading-vs-brentford",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/reading-vs-brentford/1954",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://footystream.pk/alpha/reading-vs-brentford/1955",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "Pisa Fiorentina",
@@ -197,7 +292,38 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/pisa-vs-fiorentina",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/pisa-vs-fiorentina/1951",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/pisa-vs-fiorentina/1952",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "SD",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Italiano",
+        "url": "https://footystream.pk/alpha/pisa-vs-fiorentina/1953",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Italiano"
+        }
+      }
+    ]
   },
   {
     "title": "Real Madrid Elche CF",
@@ -209,7 +335,68 @@
     "time": "21:30",
     "status": "next",
     "event_url": "https://footystream.pk/events/real-madrid-vs-elche",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/real-madrid-vs-elche/1956",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/real-madrid-vs-elche/1957",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/real-madrid-vs-elche/1958",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://footystream.pk/alpha/real-madrid-vs-elche/1959",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://footystream.pk/alpha/real-madrid-vs-elche/1960",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://footystream.pk/alpha/real-madrid-vs-elche/1961",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "Ararat-Armenia Sparta Praha",
@@ -281,6 +468,18 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://footystream.pk/events/everton-vs-wolves",
+    "servers": []
+  },
+  {
+    "title": "Manchester United Brighton & Hove Albion",
+    "category": "Manchester United",
+    "logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+    "start_iso": "2026-09-16T19:00:00.000Z",
+    "end_iso": "2026-09-16T21:15:00.000Z",
+    "date": "Wednesday, 16 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/manchester-united-vs-brighton",
     "servers": []
   },
   {
@@ -368,18 +567,6 @@
     "servers": []
   },
   {
-    "title": "Manchester United Brighton & Hove Albion",
-    "category": "Manchester United",
-    "logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-    "start_iso": "2026-09-16T19:00:00.000Z",
-    "end_iso": "2026-09-16T21:15:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/manchester-united-vs-brighton",
-    "servers": []
-  },
-  {
     "title": "Aston Villa Coventry City",
     "category": "Aston Villa",
     "logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
@@ -451,6 +638,18 @@
     "servers": []
   },
   {
+    "title": "Real Betis Getafe",
+    "category": "Real Betis",
+    "logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+    "start_iso": "2026-09-17T17:00:00.000Z",
+    "end_iso": "2026-09-17T19:15:00.000Z",
+    "date": "Thursday, 17 September 2026",
+    "time": "19:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/real-betis-vs-getafe",
+    "servers": []
+  },
+  {
     "title": "Juventus NEC",
     "category": "Juventus",
     "logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
@@ -496,6 +695,18 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/bournemouth-vs-real-sociedad",
+    "servers": []
+  },
+  {
+    "title": "Málaga Villarreal",
+    "category": "Málaga",
+    "logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+    "start_iso": "2026-09-17T19:30:00.000Z",
+    "end_iso": "2026-09-17T21:45:00.000Z",
+    "date": "Thursday, 17 September 2026",
+    "time": "21:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/malaga-vs-villarreal",
     "servers": []
   },
   {

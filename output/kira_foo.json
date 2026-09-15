@@ -9,7 +9,38 @@
     "time": "18:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/genoa-vs-sudtirol",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/genoa-vs-sudtirol/1935",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/genoa-vs-sudtirol/1936",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "SD",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Italiano",
+        "url": "https://footystream.pk/alpha/genoa-vs-sudtirol/1937",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Italiano"
+        }
+      }
+    ]
   },
   {
     "title": "Rayo Vallecano Espanyol",
@@ -21,7 +52,38 @@
     "time": "19:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/rayo-vallecano-vs-espanyol",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/rayo-vallecano-vs-espanyol/1938",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/rayo-vallecano-vs-espanyol/1939",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://footystream.pk/alpha/rayo-vallecano-vs-espanyol/1940",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
   },
   {
     "title": "Valencia Deportivo Alavés",

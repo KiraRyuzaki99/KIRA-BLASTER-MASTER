@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Ararat-Armenia Sparta Praha" tvg-logo="https://cdn.img4every1.org/team/ararat-armenia/logo.webp" group-title="Ararat-Armenia",Ararat-Armenia Sparta Praha
-https://footystream.pk/alpha/ararat-armenia-vs-sparta-praha/1963
-#EXTINF:-1 tvg-name="Celta de Vigo Omonia Nicosia" tvg-logo="https://cdn.img4every1.org/team/celta-de-vigo/logo.webp" group-title="Celta de Vigo",Celta de Vigo Omonia Nicosia
-https://footystream.pk/alpha/celta-vigo-vs-omonia-nicosia/1964
-#EXTINF:-1 tvg-name="Osasuna Atlético Madrid" tvg-logo="https://cdn.img4every1.org/team/osasuna/logo.webp" group-title="Osasuna",Osasuna Atlético Madrid - English
-https://footystream.pk/alpha/osasuna-vs-atletico-madrid/1965
-#EXTINF:-1 tvg-name="Osasuna Atlético Madrid" tvg-logo="https://cdn.img4every1.org/team/osasuna/logo.webp" group-title="Osasuna",Osasuna Atlético Madrid - English
-https://footystream.pk/alpha/osasuna-vs-atletico-madrid/1966
-#EXTINF:-1 tvg-name="Osasuna Atlético Madrid" tvg-logo="https://cdn.img4every1.org/team/osasuna/logo.webp" group-title="Osasuna",Osasuna Atlético Madrid - Español
-https://footystream.pk/alpha/osasuna-vs-atletico-madrid/1967
-#EXTINF:-1 tvg-name="Osasuna Atlético Madrid" tvg-logo="https://cdn.img4every1.org/team/osasuna/logo.webp" group-title="Osasuna",Osasuna Atlético Madrid - Spanish
-https://footystream.pk/alpha/osasuna-vs-atletico-madrid/1968
-#EXTINF:-1 tvg-name="Sevilla Deportivo La Coruña" tvg-logo="https://cdn.img4every1.org/team/sevilla/logo.webp" group-title="Sevilla",Sevilla Deportivo La Coruña - English
-https://footystream.pk/alpha/sevilla-vs-deportivo-la-coruna/1969
-#EXTINF:-1 tvg-name="Sevilla Deportivo La Coruña" tvg-logo="https://cdn.img4every1.org/team/sevilla/logo.webp" group-title="Sevilla",Sevilla Deportivo La Coruña - Español
-https://footystream.pk/alpha/sevilla-vs-deportivo-la-coruna/1970
 #EXTINF:-1 tvg-name="Fleetwood Town Sheffield United" tvg-logo="https://cdn.img4every1.org/team/fleetwood-town/logo.webp" group-title="Fleetwood Town",Fleetwood Town Sheffield United
 https://footystream.pk/alpha/fleetwood-town-vs-sheffield-united/1973
 #EXTINF:-1 tvg-name="Everton Wolverhampton Wanderers" tvg-logo="https://cdn.img4every1.org/team/everton/logo.webp" group-title="Everton",Everton Wolverhampton Wanderers
@@ -23,10 +7,6 @@ https://footystream.pk/alpha/everton-vs-wolves/1972
 https://footystream.pk/alpha/manchester-united-vs-brighton/1974
 #EXTINF:-1 tvg-name="Manchester United Brighton & Hove Albion" tvg-logo="https://cdn.img4every1.org/team/manchester-united/logo.webp" group-title="Manchester United",Manchester United Brighton & Hove Albion - English
 https://footystream.pk/alpha/manchester-united-vs-brighton/1975
-#EXTINF:-1 tvg-name="Aston Villa Coventry City" tvg-logo="https://cdn.img4every1.org/team/aston-villa/logo.webp" group-title="Aston Villa",Aston Villa Coventry City - English
-https://footystream.pk/alpha/aston-villa-vs-coventry-city/1976
-#EXTINF:-1 tvg-name="Aston Villa Coventry City" tvg-logo="https://cdn.img4every1.org/team/aston-villa/logo.webp" group-title="Aston Villa",Aston Villa Coventry City - English
-https://footystream.pk/alpha/aston-villa-vs-coventry-city/1977
 #EXTINF:-1 tvg-name="AC Milan Benfica" tvg-logo="https://cdn.img4every1.org/team/ac-milan/logo.webp" group-title="AC Milan",AC Milan Benfica - English
 https://footystream.pk/alpha/milan-vs-benfica/1980
 #EXTINF:-1 tvg-name="AC Milan Benfica" tvg-logo="https://cdn.img4every1.org/team/ac-milan/logo.webp" group-title="AC Milan",AC Milan Benfica - English
@@ -43,8 +23,28 @@ https://footystream.pk/alpha/sunderland-vs-az/1978
 https://footystream.pk/alpha/sunderland-vs-az/1985
 #EXTINF:-1 tvg-name="Olympique Lyonnais Anderlecht" tvg-logo="https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp" group-title="Olympique Lyonnais",Olympique Lyonnais Anderlecht
 https://footystream.pk/alpha/lyon-vs-anderlecht/1984
+#EXTINF:-1 tvg-name="Rennes Sturm Graz" tvg-logo="https://cdn.img4every1.org/team/rennes/logo.webp" group-title="Rennes",Rennes Sturm Graz
+https://footystream.pk/alpha/rennes-vs-sturm-graz/1994
+#EXTINF:-1 tvg-name="Aston Villa Coventry City" tvg-logo="https://cdn.img4every1.org/team/aston-villa/logo.webp" group-title="Aston Villa",Aston Villa Coventry City - English
+https://footystream.pk/alpha/aston-villa-vs-coventry-city/1976
+#EXTINF:-1 tvg-name="Aston Villa Coventry City" tvg-logo="https://cdn.img4every1.org/team/aston-villa/logo.webp" group-title="Aston Villa",Aston Villa Coventry City - English
+https://footystream.pk/alpha/aston-villa-vs-coventry-city/1977
 #EXTINF:-1 tvg-name="Olympiakos Piraeus Jagiellonia Bialystok" tvg-logo="https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp" group-title="Olympiakos Piraeus",Olympiakos Piraeus Jagiellonia Bialystok
 https://footystream.pk/alpha/olympiakos-piraeus-vs-jagiellonia-bia-ystok/1986
+#EXTINF:-1 tvg-name="Levante Athletic Club" tvg-logo="https://cdn.img4every1.org/team/levante/logo.webp" group-title="Levante",Levante Athletic Club - English
+https://footystream.pk/alpha/levante-vs-athletic-club/1987
+#EXTINF:-1 tvg-name="Levante Athletic Club" tvg-logo="https://cdn.img4every1.org/team/levante/logo.webp" group-title="Levante",Levante Athletic Club - Español
+https://footystream.pk/alpha/levante-vs-athletic-club/1988
+#EXTINF:-1 tvg-name="FC Barcelona Racing Santander" tvg-logo="https://cdn.img4every1.org/team/fc-barcelona/logo.webp" group-title="FC Barcelona",FC Barcelona Racing Santander - English
+https://footystream.pk/alpha/barcelona-vs-racing/1989
+#EXTINF:-1 tvg-name="FC Barcelona Racing Santander" tvg-logo="https://cdn.img4every1.org/team/fc-barcelona/logo.webp" group-title="FC Barcelona",FC Barcelona Racing Santander - English
+https://footystream.pk/alpha/barcelona-vs-racing/1990
+#EXTINF:-1 tvg-name="FC Barcelona Racing Santander" tvg-logo="https://cdn.img4every1.org/team/fc-barcelona/logo.webp" group-title="FC Barcelona",FC Barcelona Racing Santander - Español
+https://footystream.pk/alpha/barcelona-vs-racing/1991
+#EXTINF:-1 tvg-name="FC Barcelona Racing Santander" tvg-logo="https://cdn.img4every1.org/team/fc-barcelona/logo.webp" group-title="FC Barcelona",FC Barcelona Racing Santander - Spanish
+https://footystream.pk/alpha/barcelona-vs-racing/1992
+#EXTINF:-1 tvg-name="FC Barcelona Racing Santander" tvg-logo="https://cdn.img4every1.org/team/fc-barcelona/logo.webp" group-title="FC Barcelona",FC Barcelona Racing Santander - Portuguese
+https://footystream.pk/alpha/barcelona-vs-racing/1993
 #EXTINF:-1 tvg-name="OFI Hoffenheim" tvg-logo="https://cdn.img4every1.org/team/ofi/logo.webp" group-title="OFI",OFI Hoffenheim
 https://footystream.pk/alpha/ofi-vs-hoffenheim/1927
 #EXTINF:-1 tvg-name="Milton Keynes Dons AFC Wimbledon" tvg-logo="https://cdn.img4every1.org/team/milton-keynes-dons/logo.webp" group-title="Milton Keynes Dons",Milton Keynes Dons AFC Wimbledon

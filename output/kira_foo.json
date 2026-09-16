@@ -1,137 +1,5 @@
 [
   {
-    "title": "Ararat-Armenia Sparta Praha",
-    "category": "Ararat-Armenia",
-    "logo": "https://cdn.img4every1.org/team/ararat-armenia/logo.webp",
-    "start_iso": "2026-09-16T16:45:00.000Z",
-    "end_iso": "2026-09-16T19:00:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "18:45",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/ararat-armenia-vs-sparta-praha",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/ararat-armenia-vs-sparta-praha/1963",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Celta de Vigo Omonia Nicosia",
-    "category": "Celta de Vigo",
-    "logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-    "start_iso": "2026-09-16T16:45:00.000Z",
-    "end_iso": "2026-09-16T19:00:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "18:45",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/celta-vigo-vs-omonia-nicosia",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/celta-vigo-vs-omonia-nicosia/1964",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Osasuna Atlético Madrid",
-    "category": "Osasuna",
-    "logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-    "start_iso": "2026-09-16T17:00:00.000Z",
-    "end_iso": "2026-09-16T19:15:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/osasuna-vs-atletico-madrid",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/osasuna-vs-atletico-madrid/1965",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/osasuna-vs-atletico-madrid/1966",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/osasuna-vs-atletico-madrid/1967",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://footystream.pk/alpha/osasuna-vs-atletico-madrid/1968",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Sevilla Deportivo La Coruña",
-    "category": "Sevilla",
-    "logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-    "start_iso": "2026-09-16T17:00:00.000Z",
-    "end_iso": "2026-09-16T19:15:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/sevilla-vs-deportivo-la-coruna",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/sevilla-vs-deportivo-la-coruna/1969",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/sevilla-vs-deportivo-la-coruna/1970",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
     "title": "Fleetwood Town Sheffield United",
     "category": "Fleetwood Town",
     "logo": "https://cdn.img4every1.org/team/fleetwood-town/logo.webp",
@@ -139,7 +7,7 @@
     "end_iso": "2026-09-16T21:00:00.000Z",
     "date": "Wednesday, 16 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/fleetwood-town-vs-sheffield-united",
     "servers": [
       {
@@ -162,7 +30,7 @@
     "end_iso": "2026-09-16T21:00:00.000Z",
     "date": "Wednesday, 16 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/everton-vs-wolves",
     "servers": [
       {
@@ -185,7 +53,7 @@
     "end_iso": "2026-09-16T21:15:00.000Z",
     "date": "Wednesday, 16 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/manchester-united-vs-brighton",
     "servers": [
       {
@@ -211,39 +79,6 @@
     ]
   },
   {
-    "title": "Aston Villa Coventry City",
-    "category": "Aston Villa",
-    "logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-    "start_iso": "2026-09-16T19:00:00.000Z",
-    "end_iso": "2026-09-16T21:15:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/aston-villa-vs-coventry-city",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/aston-villa-vs-coventry-city/1976",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/aston-villa-vs-coventry-city/1977",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "AC Milan Benfica",
     "category": "AC Milan",
     "logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
@@ -251,7 +86,7 @@
     "end_iso": "2026-09-16T21:15:00.000Z",
     "date": "Wednesday, 16 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/milan-vs-benfica",
     "servers": [
       {
@@ -304,7 +139,7 @@
     "end_iso": "2026-09-16T21:15:00.000Z",
     "date": "Wednesday, 16 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/bayer-leverkusen-vs-celje",
     "servers": [
       {
@@ -327,7 +162,7 @@
     "end_iso": "2026-09-16T21:15:00.000Z",
     "date": "Wednesday, 16 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/sunderland-vs-az",
     "servers": [
       {
@@ -360,7 +195,7 @@
     "end_iso": "2026-09-16T21:15:00.000Z",
     "date": "Wednesday, 16 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/lyon-vs-anderlecht",
     "servers": [
       {
@@ -383,7 +218,7 @@
     "end_iso": "2026-09-16T21:15:00.000Z",
     "date": "Wednesday, 16 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/hapoel-beer-sheva-vs-dinamo-zagreb",
     "servers": []
   },
@@ -395,9 +230,53 @@
     "end_iso": "2026-09-16T21:15:00.000Z",
     "date": "Wednesday, 16 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/rennes-vs-sturm-graz",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/rennes-vs-sturm-graz/1994",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Aston Villa Coventry City",
+    "category": "Aston Villa",
+    "logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+    "start_iso": "2026-09-16T19:00:00.000Z",
+    "end_iso": "2026-09-16T21:15:00.000Z",
+    "date": "Wednesday, 16 September 2026",
+    "time": "21:00",
+    "status": "live",
+    "event_url": "https://footystream.pk/events/aston-villa-vs-coventry-city",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/aston-villa-vs-coventry-city/1976",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/aston-villa-vs-coventry-city/1977",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Olympiakos Piraeus Jagiellonia Bialystok",
@@ -407,7 +286,7 @@
     "end_iso": "2026-09-16T21:15:00.000Z",
     "date": "Wednesday, 16 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/olympiakos-piraeus-vs-jagiellonia-bia-ystok",
     "servers": [
       {
@@ -430,9 +309,30 @@
     "end_iso": "2026-09-16T21:45:00.000Z",
     "date": "Wednesday, 16 September 2026",
     "time": "21:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/levante-vs-athletic-club",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/levante-vs-athletic-club/1987",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://footystream.pk/alpha/levante-vs-athletic-club/1988",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
   },
   {
     "title": "FC Barcelona Racing Santander",
@@ -442,9 +342,60 @@
     "end_iso": "2026-09-16T21:45:00.000Z",
     "date": "Wednesday, 16 September 2026",
     "time": "21:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/barcelona-vs-racing",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/barcelona-vs-racing/1989",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/barcelona-vs-racing/1990",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://footystream.pk/alpha/barcelona-vs-racing/1991",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://footystream.pk/alpha/barcelona-vs-racing/1992",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://footystream.pk/alpha/barcelona-vs-racing/1993",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "OFI Hoffenheim",
@@ -506,29 +457,6 @@
     "servers": []
   },
   {
-    "title": "Milton Keynes Dons AFC Wimbledon",
-    "category": "Milton Keynes Dons",
-    "logo": "https://cdn.img4every1.org/team/milton-keynes-dons/logo.webp",
-    "start_iso": "2026-09-17T19:00:00.000Z",
-    "end_iso": "2026-09-17T21:15:00.000Z",
-    "date": "Thursday, 17 September 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/mk-dons-vs-wimbledon",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/mk-dons-vs-wimbledon/1928",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Juventus NEC",
     "category": "Juventus",
     "logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
@@ -575,6 +503,29 @@
     "status": "next",
     "event_url": "https://footystream.pk/events/bournemouth-vs-real-sociedad",
     "servers": []
+  },
+  {
+    "title": "Milton Keynes Dons AFC Wimbledon",
+    "category": "Milton Keynes Dons",
+    "logo": "https://cdn.img4every1.org/team/milton-keynes-dons/logo.webp",
+    "start_iso": "2026-09-17T19:00:00.000Z",
+    "end_iso": "2026-09-17T21:15:00.000Z",
+    "date": "Thursday, 17 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/mk-dons-vs-wimbledon",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/mk-dons-vs-wimbledon/1928",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Málaga Villarreal",
@@ -669,6 +620,18 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/espanyol-vs-elche",
+    "servers": []
+  },
+  {
+    "title": "Bristol City Watford",
+    "category": "Bristol City",
+    "logo": "https://cdn.img4every1.org/team/bristol-city/logo.webp",
+    "start_iso": "2026-09-18T19:00:00.000Z",
+    "end_iso": "2026-09-18T21:15:00.000Z",
+    "date": "Friday, 18 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/bristol-city-vs-watford",
     "servers": []
   },
   {

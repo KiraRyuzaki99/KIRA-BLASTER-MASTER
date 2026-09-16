@@ -1,36 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Baseball",03:40 - Arizona Diamondbacks vs Miami Marlins
-https://embed.st/embed/admin/ppv-miami-marlins-vs-arizona-diamondbacks/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:40 - Arizona Diamondbacks vs Miami Marlins
-https://embed.st/embed/admin/ppv-miami-marlins-vs-arizona-diamondbacks/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:40 - Arizona Diamondbacks vs Miami Marlins
-https://embed.st/embed/delta/live_mlb_diamondbacks-marlins-live-streaming-594378864/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:40 - Arizona Diamondbacks vs Miami Marlins
-https://embed.st/embed/delta/live_mlb_diamondbacks-marlins-live-streaming-594378864/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:40 - Arizona Diamondbacks vs Miami Marlins
-https://embed.st/embed/golf/1351/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs Seattle Mariners
-https://embed.st/embed/admin/ppv-seattle-mariners-vs-los-angeles-angels/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs Seattle Mariners
-https://embed.st/embed/admin/ppv-seattle-mariners-vs-los-angeles-angels/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs Seattle Mariners
-https://embed.st/embed/delta/live_mlb_angels-mariners-live-streaming-594378432/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs Seattle Mariners
-https://embed.st/embed/delta/live_mlb_angels-mariners-live-streaming-594378432/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs Seattle Mariners
-https://embed.st/embed/golf/1350/1#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Football",14:00 - Niki Volos vs Asteras Tripolis
 https://sportora.ru/watch/niki-volos-vs-asteras-tripolis-2600187
 
@@ -42,6 +12,9 @@ https://sportora.ru/watch/kifisia-vs-panathinaikos-2593110
 
 #EXTINF:-1 group-title="Football",17:00 - Niki Volos vs Levadiakos
 https://sportora.ru/watch/niki-volos-vs-levadiakos-2593111
+
+#EXTINF:-1 group-title="Other",18:00 - WTA 500 Guadlajara / WTA 250 Sao Paulo 🎾
+https://sportora.ru/watch/wta-500-guadlajara-wta-250-sao-paulo-roland-2026
 
 #EXTINF:-1 group-title="Motor-sports",18:00 - Max vs 100
 https://embed.st/embed/admin/ppv-max-vs-100/1#player=clappr&autoplay=true

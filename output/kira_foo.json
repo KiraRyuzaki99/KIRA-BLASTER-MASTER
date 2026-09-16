@@ -1,18 +1,18 @@
 [
   {
-    "title": "Fleetwood Town Sheffield United",
-    "category": "Fleetwood Town",
-    "logo": "https://cdn.img4every1.org/team/fleetwood-town/logo.webp",
-    "start_iso": "2026-09-16T18:45:00.000Z",
-    "end_iso": "2026-09-16T21:00:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "20:45",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/fleetwood-town-vs-sheffield-united",
+    "title": "BMW Championship PGA Tour",
+    "category": "BMW Championship",
+    "logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+    "start_iso": "2026-09-17T07:30:00.000Z",
+    "end_iso": "2026-09-20T15:00:00.000Z",
+    "date": "Thursday, 17 September 2026",
+    "time": "09:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/bmw-championship",
     "servers": [
       {
         "label": "English",
-        "url": "https://footystream.pk/alpha/fleetwood-town-vs-sheffield-united/1973",
+        "url": "https://footystream.pk/alpha/bmw-championship/1996",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -23,376 +23,24 @@
     ]
   },
   {
-    "title": "Everton Wolverhampton Wanderers",
-    "category": "Everton",
-    "logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-    "start_iso": "2026-09-16T18:45:00.000Z",
-    "end_iso": "2026-09-16T21:00:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "20:45",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/everton-vs-wolves",
+    "title": "Biltmore Championship PGA Tour",
+    "category": "Biltmore Championship",
+    "logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+    "start_iso": "2026-09-17T16:00:00.000Z",
+    "end_iso": "2026-09-20T23:00:00.000Z",
+    "date": "Thursday, 17 September 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/biltmore-championship",
     "servers": [
       {
         "label": "English",
-        "url": "https://footystream.pk/alpha/everton-vs-wolves/1972",
+        "url": "https://footystream.pk/alpha/biltmore-championship/1997",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
           "ads": "2",
           "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Manchester United Brighton & Hove Albion",
-    "category": "Manchester United",
-    "logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-    "start_iso": "2026-09-16T19:00:00.000Z",
-    "end_iso": "2026-09-16T21:15:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "21:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/manchester-united-vs-brighton",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/manchester-united-vs-brighton/1974",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/manchester-united-vs-brighton/1975",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "AC Milan Benfica",
-    "category": "AC Milan",
-    "logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-    "start_iso": "2026-09-16T19:00:00.000Z",
-    "end_iso": "2026-09-16T21:15:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "21:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/milan-vs-benfica",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/milan-vs-benfica/1980",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/milan-vs-benfica/1981",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Portuguese",
-        "url": "https://footystream.pk/alpha/milan-vs-benfica/1982",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
-        }
-      },
-      {
-        "label": "Italiano",
-        "url": "https://footystream.pk/alpha/milan-vs-benfica/1983",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Italiano"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Bayer Leverkusen Celje",
-    "category": "Bayer Leverkusen",
-    "logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-    "start_iso": "2026-09-16T19:00:00.000Z",
-    "end_iso": "2026-09-16T21:15:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "21:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/bayer-leverkusen-vs-celje",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/bayer-leverkusen-vs-celje/1979",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Sunderland AZ Alkmaar",
-    "category": "Sunderland",
-    "logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-    "start_iso": "2026-09-16T19:00:00.000Z",
-    "end_iso": "2026-09-16T21:15:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "21:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/sunderland-vs-az",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/sunderland-vs-az/1978",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/sunderland-vs-az/1985",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Olympique Lyonnais Anderlecht",
-    "category": "Olympique Lyonnais",
-    "logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-    "start_iso": "2026-09-16T19:00:00.000Z",
-    "end_iso": "2026-09-16T21:15:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "21:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/lyon-vs-anderlecht",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/lyon-vs-anderlecht/1984",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Hapoel Be'er Sheva Dinamo Zagreb",
-    "category": "Hapoel Be'er Sheva",
-    "logo": "https://cdn.img4every1.org/team/hapoel-beer-sheva/logo.webp",
-    "start_iso": "2026-09-16T19:00:00.000Z",
-    "end_iso": "2026-09-16T21:15:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "21:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/hapoel-beer-sheva-vs-dinamo-zagreb",
-    "servers": []
-  },
-  {
-    "title": "Rennes Sturm Graz",
-    "category": "Rennes",
-    "logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
-    "start_iso": "2026-09-16T19:00:00.000Z",
-    "end_iso": "2026-09-16T21:15:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "21:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/rennes-vs-sturm-graz",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/rennes-vs-sturm-graz/1994",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Aston Villa Coventry City",
-    "category": "Aston Villa",
-    "logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-    "start_iso": "2026-09-16T19:00:00.000Z",
-    "end_iso": "2026-09-16T21:15:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "21:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/aston-villa-vs-coventry-city",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/aston-villa-vs-coventry-city/1976",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/aston-villa-vs-coventry-city/1977",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Olympiakos Piraeus Jagiellonia Bialystok",
-    "category": "Olympiakos Piraeus",
-    "logo": "https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp",
-    "start_iso": "2026-09-16T19:00:00.000Z",
-    "end_iso": "2026-09-16T21:15:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "21:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/olympiakos-piraeus-vs-jagiellonia-bia-ystok",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/olympiakos-piraeus-vs-jagiellonia-bia-ystok/1986",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Levante Athletic Club",
-    "category": "Levante",
-    "logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-    "start_iso": "2026-09-16T19:30:00.000Z",
-    "end_iso": "2026-09-16T21:45:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "21:30",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/levante-vs-athletic-club",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/levante-vs-athletic-club/1987",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/levante-vs-athletic-club/1988",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
-    "title": "FC Barcelona Racing Santander",
-    "category": "FC Barcelona",
-    "logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-    "start_iso": "2026-09-16T19:30:00.000Z",
-    "end_iso": "2026-09-16T21:45:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "21:30",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/barcelona-vs-racing",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/barcelona-vs-racing/1989",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/barcelona-vs-racing/1990",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/barcelona-vs-racing/1991",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://footystream.pk/alpha/barcelona-vs-racing/1992",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      },
-      {
-        "label": "Portuguese",
-        "url": "https://footystream.pk/alpha/barcelona-vs-racing/1993",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
         }
       }
     ]
@@ -540,6 +188,39 @@
     "servers": []
   },
   {
+    "title": "Buffalo Bills Detroit Lions",
+    "category": "Buffalo Bills",
+    "logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
+    "start_iso": "2026-09-18T00:15:00.000Z",
+    "end_iso": "2026-09-18T03:25:00.000Z",
+    "date": "Friday, 18 September 2026",
+    "time": "02:15",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/buffalo-bills-vs-lions",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/buffalo-bills-vs-lions/1998",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/buffalo-bills-vs-lions/1999",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
     "title": "MotoGP Austria Grand Prix MotoGP",
     "category": "MotoGP Austria Grand Prix",
     "logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
@@ -553,6 +234,52 @@
       {
         "label": "English",
         "url": "https://footystream.pk/alpha/motogp-austria-grand-prix/1806",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Goodwood Festival of Speed MotorSports",
+    "category": "Goodwood Festival of Speed",
+    "logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
+    "start_iso": "2026-09-18T07:30:00.000Z",
+    "end_iso": "2026-09-20T18:00:00.000Z",
+    "date": "Friday, 18 September 2026",
+    "time": "09:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/goodwood-festival-of-speed",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/goodwood-festival-of-speed/2000",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Sydney Swans Fremantle",
+    "category": "Sydney Swans",
+    "logo": "https://cdn.img4every1.org/team/sydney-swans/logo.webp",
+    "start_iso": "2026-09-18T09:30:00.000Z",
+    "end_iso": "2026-09-18T12:40:00.000Z",
+    "date": "Friday, 18 September 2026",
+    "time": "11:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/sydney-swans-vs-fremantle",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/sydney-swans-vs-fremantle/2001",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",

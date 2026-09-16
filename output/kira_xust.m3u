@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Fight (UFC/Boxe)",Dana Whites Contender Series season 10 Week 6 [golf]
 https://golxu.st/eventostop.html?id=1363
-#EXTINF:-1 group-title="Altro",Dana White Contender Series S10W06 💥 [Server 3 (echo)]
-https://golxu.st/eventostop.html?id=ppv-event-01-dana-white-contender-series-s10w06-ppv-01
-#EXTINF:-1 group-title="Baseball",Los Angeles Angels vs Seattle Mariners [golf]
-https://golxu.st/eventostop.html?id=1350
-#EXTINF:-1 group-title="Baseball",Arizona Diamondbacks vs Miami Marlins [golf]
-https://golxu.st/eventostop.html?id=1351
 #EXTINF:-1 group-title="Calcio",Niki Volos vs Asteras Tripolis [Server 3 (echo)]
 https://golxu.st/eventostop.html?id=niki-volos-vs-asteras-tripolis-football-1638574
 #EXTINF:-1 group-title="Calcio",Aris vs Marko [Server 3 (echo)]
@@ -147,8 +141,12 @@ https://golxu.st/eventostop.html?id=live_mlb_blue-jays-tigers-live-streaming-594
 https://golxu.st/eventostop.html?id=toronto-blue-jays-vs-detroit-tigers-baseball-185861
 #EXTINF:-1 group-title="Baseball",Toronto Blue Jays vs Detroit Tigers [golf]
 https://golxu.st/eventostop.html?id=1355
+#EXTINF:-1 group-title="Calcio",FC Barcelona vs Real Racing Club [Server 2 (delta)]
+https://golxu.st/eventostop.html?id=live_laliga_barcelona-r-racing-club-live-streaming-616682592
 #EXTINF:-1 group-title="Calcio",Levante vs Athletic Bilbao [Server 1 (admin)]
 https://golxu.st/eventostop.html?id=ppv-levante-vs-athletic-club
+#EXTINF:-1 group-title="Calcio",Levante vs Athletic Bilbao [Server 2 (delta)]
+https://golxu.st/eventostop.html?id=live_laliga_levante-athletic-club-live-streaming-616683024
 #EXTINF:-1 group-title="Calcio",Levante vs Athletic Bilbao [Server 3 (echo)]
 https://golxu.st/eventostop.html?id=levante-vs-athletic-club-football-1570389
 #EXTINF:-1 group-title="Calcio",Barcelona vs Racing de Santander [Server 1 (admin)]

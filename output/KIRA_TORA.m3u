@@ -1,15 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",15:45 - Aris vs Marko
-https://sportora.ru/watch/aris-vs-marko-2593108
-
-#EXTINF:-1 group-title="Football",16:45 - Kifisia vs Panathinaikos
-https://sportora.ru/watch/kifisia-vs-panathinaikos-2593110
-
-#EXTINF:-1 group-title="Football",17:00 - Niki Volos vs Levadiakos
-https://sportora.ru/watch/niki-volos-vs-levadiakos-2593111
-
 #EXTINF:-1 group-title="Other",18:00 - WTA 500 Guadlajara / WTA 250 Sao Paulo 🎾
 https://sportora.ru/watch/wta-500-guadlajara-wta-250-sao-paulo-roland-2026
 
@@ -19,11 +10,23 @@ https://embed.st/embed/admin/ppv-max-vs-100/1#player=clappr&autoplay=true
 #EXTINF:-1 group-title="Motor-sports",18:00 - Max vs 100
 https://embed.st/embed/admin/ppv-max-vs-100/2#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Football",17:00 - Niki Volos vs Levadiakos
+https://sportora.ru/watch/niki-volos-vs-levadiakos-2593111
+
+#EXTINF:-1 group-title="Football",16:45 - Kifisia vs Panathinaikos
+https://sportora.ru/watch/kifisia-vs-panathinaikos-2593110
+
 #EXTINF:-1 group-title="Football",18:45 - Ararat-Armenia vs Sparta Prague
 https://embed.st/embed/admin/ppv-ararat-armenia-vs-sparta-prague/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:45 - Ararat-Armenia vs Sparta Prague
 https://embed.st/embed/admin/ppv-ararat-armenia-vs-sparta-prague/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:45 - Ararat-Armenia vs Sparta Prague
+https://embed.st/embed/admin/ppv-ararat-armenia-vs-sparta-prague/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:45 - Ararat-Armenia vs Sparta Prague
+https://embed.st/embed/admin/ppv-ararat-armenia-vs-sparta-prague/4#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:45 - Omonia Nicosia vs Celta Vigo
 https://embed.st/embed/admin/ppv-omonia-nicosia-vs-celta-vigo/1#player=clappr&autoplay=true
@@ -58,11 +61,17 @@ https://embed.st/embed/admin/ppv-deportivo-vs-sevilla/1#player=clappr&autoplay=t
 #EXTINF:-1 group-title="Football",19:00 - Deportivo de A Coruña vs Sevilla
 https://embed.st/embed/admin/ppv-deportivo-vs-sevilla/2#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Football",19:00 - Deportivo de A Coruña vs Sevilla
+https://embed.st/embed/delta/live_laliga_deportivo-sevilla-live-streaming-616681728/1#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Football",19:00 - Atlético Madrid vs Osasuna
 https://embed.st/embed/admin/ppv-atl-tico-madrid-vs-osasuna/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",19:00 - Atlético Madrid vs Osasuna
 https://embed.st/embed/admin/ppv-atl-tico-madrid-vs-osasuna/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",19:00 - Atlético Madrid vs Osasuna
+https://embed.st/embed/delta/live_laliga_atl-madrid-osasuna-live-streaming-616680864/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",19:00 - Thun vs Servette
 https://sportora.ru/watch/thun-vs-servette-2493349
@@ -136,12 +145,6 @@ https://embed.st/embed/golf/1369/2#player=clappr&autoplay=true
 #EXTINF:-1 group-title="Football",21:00 - Olympiakos Piraeus vs Jagiellonia
 https://sportora.ru/watch/olympiakos-piraeus-vs-jagiellonia-football-1636309
 
-#EXTINF:-1 group-title="Football",21:00 - SK Sturm Graz vs. Stade Rennais
-https://embed.st/embed/admin/ppv-sk-sturm-graz-vs-stade-rennais/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",21:00 - SK Sturm Graz vs. Stade Rennais
-https://embed.st/embed/admin/ppv-sk-sturm-graz-vs-stade-rennais/2#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Football",21:00 - Olympiacos vs. Jagiellonia Bialystok
 https://embed.st/embed/admin/ppv-olympiacos-vs-jagiellonia-bialystok/1#player=clappr&autoplay=true
 
@@ -153,6 +156,12 @@ https://embed.st/embed/golf/1396/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Olympiacos vs. Jagiellonia Bialystok
 https://embed.st/embed/golf/1396/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - SK Sturm Graz vs. Stade Rennais
+https://embed.st/embed/admin/ppv-sk-sturm-graz-vs-stade-rennais/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - SK Sturm Graz vs. Stade Rennais
+https://embed.st/embed/admin/ppv-sk-sturm-graz-vs-stade-rennais/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Sunderland vs AZ Alkmaar
 https://embed.st/embed/admin/ppv-sunderland-vs-az-alkmaar/1#player=clappr&autoplay=true

@@ -9,7 +9,18 @@
     "time": "18:45",
     "status": "next",
     "event_url": "https://footystream.pk/events/ararat-armenia-vs-sparta-praha",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/ararat-armenia-vs-sparta-praha/1963",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Celta de Vigo Omonia Nicosia",
@@ -21,7 +32,18 @@
     "time": "18:45",
     "status": "next",
     "event_url": "https://footystream.pk/events/celta-vigo-vs-omonia-nicosia",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/celta-vigo-vs-omonia-nicosia/1964",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Osasuna Atlético Madrid",
@@ -33,7 +55,48 @@
     "time": "19:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/osasuna-vs-atletico-madrid",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/osasuna-vs-atletico-madrid/1965",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/osasuna-vs-atletico-madrid/1966",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://footystream.pk/alpha/osasuna-vs-atletico-madrid/1967",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://footystream.pk/alpha/osasuna-vs-atletico-madrid/1968",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      }
+    ]
   },
   {
     "title": "Sevilla Deportivo La Coruña",
@@ -45,7 +108,28 @@
     "time": "19:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/sevilla-vs-deportivo-la-coruna",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/sevilla-vs-deportivo-la-coruna/1969",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://footystream.pk/alpha/sevilla-vs-deportivo-la-coruna/1970",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
   },
   {
     "title": "Fleetwood Town Sheffield United",
@@ -57,7 +141,18 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://footystream.pk/events/fleetwood-town-vs-sheffield-united",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/fleetwood-town-vs-sheffield-united/1973",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Everton Wolverhampton Wanderers",
@@ -69,7 +164,18 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://footystream.pk/events/everton-vs-wolves",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/everton-vs-wolves/1972",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "AC Milan Benfica",

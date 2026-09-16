@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",14:00 - Niki Volos vs Asteras Tripolis
-https://sportora.ru/watch/niki-volos-vs-asteras-tripolis-2600187
-
 #EXTINF:-1 group-title="Football",15:45 - Aris vs Marko
 https://sportora.ru/watch/aris-vs-marko-2593108
 
@@ -119,7 +116,16 @@ https://embed.st/embed/golf/1354/2#player=clappr&autoplay=true
 https://sportora.ru/watch/everton-vs-wolves-football-1635559
 
 #EXTINF:-1 group-title="Football",20:45 - Fleetwood Town vs Sheffield United
-https://sportora.ru/watch/fleetwood-town-vs-sheffield-united-2594462
+https://embed.st/embed/admin/ppv-fleetwood-town-vs-sheffield-united/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Fleetwood Town vs Sheffield United
+https://embed.st/embed/admin/ppv-fleetwood-town-vs-sheffield-united/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Everton vs Wolverhampton Wanderers
+https://embed.st/embed/admin/ppv-everton-vs-wolverhampton-wanderers/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Everton vs Wolverhampton Wanderers
+https://embed.st/embed/admin/ppv-everton-vs-wolverhampton-wanderers/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Everton vs Wolverhampton Wanderers
 https://embed.st/embed/golf/1369/1#player=clappr&autoplay=true
@@ -209,10 +215,22 @@ https://embed.st/embed/golf/1392/1#player=clappr&autoplay=true
 https://embed.st/embed/golf/1392/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Coventry City vs Aston Villa
+https://embed.st/embed/admin/ppv-coventry-city-vs-aston-villa/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Coventry City vs Aston Villa
+https://embed.st/embed/admin/ppv-coventry-city-vs-aston-villa/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Coventry City vs Aston Villa
 https://embed.st/embed/golf/1372/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Coventry City vs Aston Villa
 https://embed.st/embed/golf/1372/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Manchester United vs Brighton and Hove Albion
+https://embed.st/embed/admin/ppv-manchester-united-vs-brighton-hove-albion/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Manchester United vs Brighton and Hove Albion
+https://embed.st/embed/admin/ppv-manchester-united-vs-brighton-hove-albion/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Manchester United vs Brighton and Hove Albion
 https://embed.st/embed/golf/1371/1#player=clappr&autoplay=true

@@ -7,7 +7,7 @@
     "end_iso": "2026-09-16T19:00:00.000Z",
     "date": "Wednesday, 16 September 2026",
     "time": "18:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/ararat-armenia-vs-sparta-praha",
     "servers": [
       {
@@ -30,7 +30,7 @@
     "end_iso": "2026-09-16T19:00:00.000Z",
     "date": "Wednesday, 16 September 2026",
     "time": "18:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/celta-vigo-vs-omonia-nicosia",
     "servers": [
       {
@@ -53,7 +53,7 @@
     "end_iso": "2026-09-16T19:15:00.000Z",
     "date": "Wednesday, 16 September 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/osasuna-vs-atletico-madrid",
     "servers": [
       {
@@ -106,7 +106,7 @@
     "end_iso": "2026-09-16T19:15:00.000Z",
     "date": "Wednesday, 16 September 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/sevilla-vs-deportivo-la-coruna",
     "servers": [
       {
@@ -178,54 +178,6 @@
     ]
   },
   {
-    "title": "AC Milan Benfica",
-    "category": "AC Milan",
-    "logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-    "start_iso": "2026-09-16T19:00:00.000Z",
-    "end_iso": "2026-09-16T21:15:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/milan-vs-benfica",
-    "servers": []
-  },
-  {
-    "title": "Bayer Leverkusen Celje",
-    "category": "Bayer Leverkusen",
-    "logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-    "start_iso": "2026-09-16T19:00:00.000Z",
-    "end_iso": "2026-09-16T21:15:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/bayer-leverkusen-vs-celje",
-    "servers": []
-  },
-  {
-    "title": "Sunderland AZ Alkmaar",
-    "category": "Sunderland",
-    "logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-    "start_iso": "2026-09-16T19:00:00.000Z",
-    "end_iso": "2026-09-16T21:15:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/sunderland-vs-az",
-    "servers": []
-  },
-  {
-    "title": "Olympique Lyonnais Anderlecht",
-    "category": "Olympique Lyonnais",
-    "logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-    "start_iso": "2026-09-16T19:00:00.000Z",
-    "end_iso": "2026-09-16T21:15:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/lyon-vs-anderlecht",
-    "servers": []
-  },
-  {
     "title": "Manchester United Brighton & Hove Albion",
     "category": "Manchester United",
     "logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
@@ -235,7 +187,28 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/manchester-united-vs-brighton",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/manchester-united-vs-brighton/1974",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/manchester-united-vs-brighton/1975",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Aston Villa Coventry City",
@@ -247,7 +220,160 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/aston-villa-vs-coventry-city",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/aston-villa-vs-coventry-city/1976",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/aston-villa-vs-coventry-city/1977",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "AC Milan Benfica",
+    "category": "AC Milan",
+    "logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+    "start_iso": "2026-09-16T19:00:00.000Z",
+    "end_iso": "2026-09-16T21:15:00.000Z",
+    "date": "Wednesday, 16 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/milan-vs-benfica",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/milan-vs-benfica/1980",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/milan-vs-benfica/1981",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://footystream.pk/alpha/milan-vs-benfica/1982",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      },
+      {
+        "label": "Italiano",
+        "url": "https://footystream.pk/alpha/milan-vs-benfica/1983",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Italiano"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Bayer Leverkusen Celje",
+    "category": "Bayer Leverkusen",
+    "logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
+    "start_iso": "2026-09-16T19:00:00.000Z",
+    "end_iso": "2026-09-16T21:15:00.000Z",
+    "date": "Wednesday, 16 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/bayer-leverkusen-vs-celje",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/bayer-leverkusen-vs-celje/1979",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Sunderland AZ Alkmaar",
+    "category": "Sunderland",
+    "logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+    "start_iso": "2026-09-16T19:00:00.000Z",
+    "end_iso": "2026-09-16T21:15:00.000Z",
+    "date": "Wednesday, 16 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/sunderland-vs-az",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/sunderland-vs-az/1978",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/sunderland-vs-az/1985",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Olympique Lyonnais Anderlecht",
+    "category": "Olympique Lyonnais",
+    "logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+    "start_iso": "2026-09-16T19:00:00.000Z",
+    "end_iso": "2026-09-16T21:15:00.000Z",
+    "date": "Wednesday, 16 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/lyon-vs-anderlecht",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/lyon-vs-anderlecht/1984",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Hapoel Be'er Sheva Dinamo Zagreb",
@@ -262,18 +388,6 @@
     "servers": []
   },
   {
-    "title": "Olympiakos Piraeus Jagiellonia Bialystok",
-    "category": "Olympiakos Piraeus",
-    "logo": "https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp",
-    "start_iso": "2026-09-16T19:00:00.000Z",
-    "end_iso": "2026-09-16T21:15:00.000Z",
-    "date": "Wednesday, 16 September 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/olympiakos-piraeus-vs-jagiellonia-bia-ystok",
-    "servers": []
-  },
-  {
     "title": "Rennes Sturm Graz",
     "category": "Rennes",
     "logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
@@ -284,6 +398,29 @@
     "status": "next",
     "event_url": "https://footystream.pk/events/rennes-vs-sturm-graz",
     "servers": []
+  },
+  {
+    "title": "Olympiakos Piraeus Jagiellonia Bialystok",
+    "category": "Olympiakos Piraeus",
+    "logo": "https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp",
+    "start_iso": "2026-09-16T19:00:00.000Z",
+    "end_iso": "2026-09-16T21:15:00.000Z",
+    "date": "Wednesday, 16 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/olympiakos-piraeus-vs-jagiellonia-bia-ystok",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/olympiakos-piraeus-vs-jagiellonia-bia-ystok/1986",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Levante Athletic Club",
@@ -520,6 +657,18 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://footystream.pk/events/monza-vs-sassuolo",
+    "servers": []
+  },
+  {
+    "title": "Espanyol Elche CF",
+    "category": "Espanyol",
+    "logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+    "start_iso": "2026-09-18T19:00:00.000Z",
+    "end_iso": "2026-09-18T21:15:00.000Z",
+    "date": "Friday, 18 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/espanyol-vs-elche",
     "servers": []
   },
   {

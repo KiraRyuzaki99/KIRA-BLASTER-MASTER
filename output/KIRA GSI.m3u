@@ -1,39 +1,67 @@
 #EXTM3U
 #EXTGRP:Brasileirão
-#EXTINF:-1 group-title="Brasileirão",⏳NEXT 17/09 01:00 - Bahia vs Remo
+#EXTINF:-1 group-title="Brasileirão",⏳NEXT 17/09 00:30 - Botafogo vs Grêmio
 https://streamxhd.com/live1.php?stream=premiere1
+#EXTGRP:Campeones Cup
+#EXTINF:-1 group-title="Campeones Cup",⏳NEXT 17/09 02:00 - Inter Miami vs Cruz Azul
+https://streamxhd.com/live1.php?stream=tudnmx
 #EXTGRP:Carabao Cup
-#EXTINF:-1 group-title="Carabao Cup",⏳NEXT 16/09 20:45 - West Ham United vs Fulham
-https://streamxhd.com/live1.php?stream=disney6
-#EXTINF:-1 group-title="Carabao Cup",⏳NEXT 16/09 21:00 - Liverpool vs Tottenham Hotspur
-https://streamxhd.com/live1.php?stream=disney7
-#EXTINF:-1 group-title="Carabao Cup",⏳NEXT 16/09 21:00 - Reading vs Brentford
-https://streamxhd.com/live1.php?stream=disney8
-#EXTINF:-1 group-title="Carabao Cup",⏳NEXT 16/09 21:00 - Ipswich Town vs Arsenal
-https://streamxhd.com/live1.php?stream=disney9
-#EXTGRP:Champions League
-#EXTINF:-1 group-title="Champions League",⏳NEXT 16/09 14:15 - Beijing Guoan vs Pohang Steelers
-https://streamxhd.com/live1.php?stream=disney1
-#EXTINF:-1 group-title="Champions League",⏳NEXT 16/09 18:00 - Al Ain vs Al Nassr
-https://streamxhd.com/live1.php?stream=disney2
-#EXTINF:-1 group-title="Champions League",⏳NEXT 16/09 20:15 - Al Hilal vs Al Gharafa
+#EXTINF:-1 group-title="Carabao Cup",⏳NEXT 16/09 20:45 - Everton vs Wolverhampton Wanderers
 https://streamxhd.com/live1.php?stream=disney5
-#EXTGRP:Copa Italia
-#EXTINF:-1 group-title="Copa Italia",⏳NEXT 16/09 18:00 - Genoa vs Südtirol
-https://streamxhd.com/live1.php?stream=dsportsplus
-#EXTINF:-1 group-title="Copa Italia",⏳NEXT 16/09 21:00 - Fiorentina vs Pisa
-https://streamxhd.com/live1.php?stream=dsportsplus
+#EXTINF:-1 group-title="Carabao Cup",⏳NEXT 16/09 21:00 - Manchester United vs Brighton & Hove Albion
+https://streamxhd.com/live1.php?stream=disney13
+#EXTINF:-1 group-title="Carabao Cup",⏳NEXT 16/09 21:00 - Coventry City vs Aston Villa
+https://streamxhd.com/live1.php?stream=disney14
+#EXTGRP:Copa Argentina
+#EXTINF:-1 group-title="Copa Argentina",⏳NEXT 17/09 00:00 - Independiente Rivadavia vs Atlético Tucumán
+https://streamxhd.com/live1.php?stream=tycsports
+#EXTGRP:Copa Centroamericana
+#EXTINF:-1 group-title="Copa Centroamericana",⏳NEXT 17/09 02:30 - Cartaginés vs Deportivo Saprissa
+https://streamxhd.com/live1.php?stream=disney19
+#EXTINF:-1 group-title="Copa Centroamericana",⏳NEXT 17/09 05:15 - Alianza vs Motagua
+https://streamxhd.com/live1.php?stream=disney20
+#EXTGRP:Copa Ecuador
+#EXTINF:-1 group-title="Copa Ecuador",⏳NEXT 17/09 02:00 - LDU Portoviejo vs Delfín
+https://streamxhd.com/live1.php?stream=zapping_ec
 #EXTGRP:Copa Libertadores
-#EXTINF:-1 group-title="Copa Libertadores",⏳NEXT 17/09 00:00 - Platense vs Fluminense
-https://streamxhd.com/live1.php?stream=disney11
+#EXTINF:-1 group-title="Copa Libertadores",⏳NEXT 17/09 00:00 - LDU Quito vs Palmeiras
+https://streamxhd.com/live1.php?stream=disney17
+#EXTINF:-1 group-title="Copa Libertadores",⏳NEXT 17/09 02:30 - Corinthians vs Estudiantes
+https://streamxhd.com/live1.php?stream=disney18
+#EXTGRP:Copa Mundial Sub-20 (F)
+#EXTINF:-1 group-title="Copa Mundial Sub-20 (F)",⏳NEXT 16/09 15:00 - Argentina vs Corea del Sur
+https://streamxhd.com/live1.php?stream=dsports2
+#EXTINF:-1 group-title="Copa Mundial Sub-20 (F)",⏳NEXT 16/09 15:00 - Brasil vs Estados Unidos
+https://streamxhd.com/live1.php?stream=dsportsplus
+#EXTINF:-1 group-title="Copa Mundial Sub-20 (F)",⏳NEXT 16/09 18:30 - España vs Portugal
+https://streamxhd.com/live1.php?stream=tudnmx
 #EXTGRP:Copa Sudamericana
-#EXTINF:-1 group-title="Copa Sudamericana",⏳NEXT 17/09 00:00 - Vasco da Gama vs Santa Fe
-https://streamxhd.com/live1.php?stream=disney10
+#EXTINF:-1 group-title="Copa Sudamericana",⏳NEXT 17/09 00:00 - Atlético Mineiro vs Santos
+https://streamxhd.com/live1.php?stream=dsports
 #EXTINF:-1 group-title="Copa Sudamericana",⏳NEXT 17/09 02:30 - São Paulo vs Boca Juniors
 https://streamxhd.click/channel/?id=dsports
-#EXTGRP:Eredivisie
-#EXTINF:-1 group-title="Eredivisie",⏳NEXT 16/09 20:00 - Ajax vs Willem II
-https://streamxhd.com/live1.php?stream=disney4
+#EXTGRP:Copa Uruguay
+#EXTINF:-1 group-title="Copa Uruguay",⏳NEXT 16/09 20:00 - Progreso vs Nacional
+https://streamxhd.com/live1.php?stream=evento1
+#EXTGRP:Europa League
+#EXTINF:-1 group-title="Europa League",⏳NEXT 16/09 18:45 - Ararat-Armenia vs Sparta Praha
+https://streamxhd.com/live1.php?stream=disney1
+#EXTINF:-1 group-title="Europa League",⏳NEXT 16/09 18:45 - Omonia Nicosia vs Celta de Vigo
+https://streamxhd.com/live1.php?stream=disney2
+#EXTINF:-1 group-title="Europa League",⏳NEXT 16/09 21:00 - Sturm Graz vs Rennes
+https://streamxhd.com/live1.php?stream=disney6
+#EXTINF:-1 group-title="Europa League",⏳NEXT 16/09 21:00 - Olympiakos Piraeus vs Jagiellonia Białystok
+https://streamxhd.com/live1.php?stream=disney7
+#EXTINF:-1 group-title="Europa League",⏳NEXT 16/09 21:00 - Hapoel Be'er Sheva vs Dinamo Zagreb
+https://streamxhd.com/live1.php?stream=disney8
+#EXTINF:-1 group-title="Europa League",⏳NEXT 16/09 21:00 - Bayer Leverkusen vs Celje
+https://streamxhd.com/live1.php?stream=disney9
+#EXTINF:-1 group-title="Europa League",⏳NEXT 16/09 21:00 - Anderlecht vs Olympique Lyonnais
+https://streamxhd.com/live1.php?stream=disney10
+#EXTINF:-1 group-title="Europa League",⏳NEXT 16/09 21:00 - Milan vs Benfica
+https://streamxhd.com/live1.php?stream=disney11
+#EXTINF:-1 group-title="Europa League",⏳NEXT 16/09 21:00 - Sunderland vs AZ
+https://streamxhd.com/live1.php?stream=disney12
 #EXTGRP:Fútbol
 #EXTINF:-1 group-title="Fútbol",✅END 15/09 18:00 - AFC Champions League Elite: Al Ain vs Al Nassr
 https://streamx305.sbs/global1.php?channel=disney1
@@ -93,23 +121,23 @@ https://streamx305.sbs/global1.php?channel=espnplus3
 https://streamx305.sbs/global1.php?channel=espndeportes
 #EXTINF:-1 group-title="Fútbol",✅END 15/09 21:30 - LaLiga: Elche vs Real Madrid
 https://streamx305.sbs/global1.php?channel=mlaliga
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 16/09 00:00 - Copa Libertadores: Platense vs Fluminense
+#EXTINF:-1 group-title="Fútbol",✅END 16/09 00:00 - Copa Libertadores: Platense vs Fluminense
 https://streamx305.sbs/global1.php?channel=disney9
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 16/09 00:00 - Copa Libertadores: Platense vs Fluminense
+#EXTINF:-1 group-title="Fútbol",✅END 16/09 00:00 - Copa Libertadores: Platense vs Fluminense
 https://streamx305.sbs/global1.php?channel=fox1ar
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 16/09 00:00 - Copa Libertadores: Platense vs Fluminense
+#EXTINF:-1 group-title="Fútbol",✅END 16/09 00:00 - Copa Libertadores: Platense vs Fluminense
 https://streamx305.sbs/global1.php?channel=espn2
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 16/09 00:00 - Copa Libertadores: Platense vs Fluminense
+#EXTINF:-1 group-title="Fútbol",✅END 16/09 00:00 - Copa Libertadores: Platense vs Fluminense
 https://streamx305.sbs/global1.php?channel=espnpe
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 16/09 00:00 - Copa Libertadores: Platense vs Fluminense
+#EXTINF:-1 group-title="Fútbol",✅END 16/09 00:00 - Copa Libertadores: Platense vs Fluminense
 https://streamx305.sbs/global1.php?channel=espn3mx
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 16/09 00:00 - Copa Sudamericana: Vasco da Gama vs Santa Fe
+#EXTINF:-1 group-title="Fútbol",✅END 16/09 00:00 - Copa Sudamericana: Vasco da Gama vs Santa Fe
 https://streamx305.sbs/global1.php?channel=disney10
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 16/09 00:00 - Copa Sudamericana: Vasco da Gama vs Santa Fe
+#EXTINF:-1 group-title="Fútbol",✅END 16/09 00:00 - Copa Sudamericana: Vasco da Gama vs Santa Fe
 https://streamx305.sbs/global1.php?channel=dsports2
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 16/09 00:00 - Copa Sudamericana: Vasco da Gama vs Santa Fe
+#EXTINF:-1 group-title="Fútbol",✅END 16/09 00:00 - Copa Sudamericana: Vasco da Gama vs Santa Fe
 https://streamx305.sbs/global1.php?channel=espn
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 16/09 00:00 - Copa Sudamericana: Vasco da Gama vs Santa Fe
+#EXTINF:-1 group-title="Fútbol",✅END 16/09 00:00 - Copa Sudamericana: Vasco da Gama vs Santa Fe
 https://streamx305.sbs/global1.php?channel=espn2pe
 #EXTINF:-1 group-title="Fútbol",⏳NEXT 16/09 02:30 - Copa Sudamericana: São Paulo vs Boca Juniors
 https://latamplay1.click/channel/dsports.html
@@ -124,44 +152,26 @@ https://streamx305.sbs/global1.php?channel=tudnus
 #EXTINF:-1 group-title="Fútbol",⏳NEXT 16/09 03:00 - Liga MX: Puebla vs Toluca
 https://streamx305.sbs/global1.php?channel=espnmx
 #EXTGRP:LaLiga
-#EXTINF:-1 group-title="LaLiga",⏳NEXT 16/09 19:00 - Rayo Vallecano vs Espanyol
+#EXTINF:-1 group-title="LaLiga",⏳NEXT 16/09 19:00 - Atlético Madrid vs Osasuna
 https://streamxhd.com/live1.php?stream=disney3
-#EXTINF:-1 group-title="LaLiga",⏳NEXT 16/09 20:00 - Deportivo Alavés vs Valencia
-https://streamxhd.com/live1.php?stream=dsports2
-#EXTINF:-1 group-title="LaLiga",⏳NEXT 16/09 21:30 - Elche vs Real Madrid
-https://streamxhd.click/channel/?id=dsports
-#EXTGRP:Liga Chile
-#EXTINF:-1 group-title="Liga Chile",⏳NEXT 17/09 01:30 - Unión La Calera vs Deportes Limache
-https://streamxhd.com/live1.php?stream=tntsportschile
+#EXTINF:-1 group-title="LaLiga",⏳NEXT 16/09 19:00 - Deportivo La Coruña vs Sevilla
+https://streamxhd.com/live1.php?stream=disney4
+#EXTINF:-1 group-title="LaLiga",⏳NEXT 16/09 21:30 - Barcelona vs Racing Santander
+https://streamxhd.com/live1.php?stream=disney15
+#EXTINF:-1 group-title="LaLiga",⏳NEXT 16/09 21:30 - Levante vs Athletic Club
+https://streamxhd.com/live1.php?stream=dsports
 #EXTGRP:Liga Colombia
+#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 17/09 01:15 - Once Caldas vs Deportes Tolima
+https://streamxhd.com/live1.php?stream=winplus
 #EXTINF:-1 group-title="Liga Colombia",⏳NEXT 17/09 02:30 - Boyacá Chicó vs Alianza
 https://streamxhd.com/live1.php?stream=winplus
-#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 17/09 03:00 - América de Cali vs Deportivo Pasto
+#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 17/09 03:20 - Inter Bogotá vs Atlético Nacional
 https://streamxhd.com/live1.php?stream=winplus
-#EXTGRP:Liga Ecuador
-#EXTINF:-1 group-title="Liga Ecuador",⏳NEXT 17/09 02:00 - Universidad Católica vs Orense
-https://streamxhd.com/live1.php?stream=zapping_ec
-#EXTGRP:Liga MX
-#EXTINF:-1 group-title="Liga MX",⏳NEXT 17/09 03:00 - León vs Atlético San Luis
-https://streamxhd.com/live1.php?stream=foxone
-#EXTGRP:Liga Profesional
-#EXTINF:-1 group-title="Liga Profesional",⏳NEXT 17/09 00:00 - Deportivo Riestra vs Lanús
-https://streamxhd.com/live1.php?stream=espnpremium
-#EXTINF:-1 group-title="Liga Profesional",⏳NEXT 17/09 00:00 - Banfield vs Barracas Central
-https://streamxhd.com/live1.php?stream=tntsports
-#EXTINF:-1 group-title="Liga Profesional",⏳NEXT 17/09 02:15 - Instituto vs Estudiantes Río Cuarto
-https://streamxhd.com/live1.php?stream=tntsports
-#EXTGRP:Liga Uruguay
-#EXTINF:-1 group-title="Liga Uruguay",⏳NEXT 17/09 00:00 - Torque vs Liverpool
-https://streamxhd.com/live1.php?stream=disney10
 #EXTGRP:Liga de Expansión MX
 #EXTINF:-1 group-title="Liga de Expansión MX",⏳NEXT 17/09 03:00 - Dorados vs Cancún
 https://streamxhd.com/live1.php?stream=disney12
 #EXTGRP:MLB
-#EXTINF:-1 group-title="MLB",⏳NEXT 17/09 01:30 - Chicago Cubs vs Atlanta Braves
-https://streamxhd.com/live1.php?stream=espn3
 #EXTINF:-1 group-title="MLB",⏳NEXT 17/09 02:00 - Texas Rangers vs Boston Red Sox
 https://streamxhd.com/live1.php?stream=espn2
-#EXTGRP:NFL
-#EXTINF:-1 group-title="NFL",⏳NEXT 17/09 02:00 - Kansas City Chiefs vs Denver Broncos
-https://streamxhd.com/live1.php?stream=espn2
+#EXTINF:-1 group-title="MLB",⏳NEXT 17/09 03:30 - Arizona Diamondbacks vs Miami Marlins
+https://streamxhd.com/live1.php?stream=espn3

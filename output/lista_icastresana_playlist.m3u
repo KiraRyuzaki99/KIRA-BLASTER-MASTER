@@ -1,45 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="13:35 GP de Valonia -  Etapa 2 - Popoli Terme › Caramanico Terme (143 km)" group-title="GP de Valonia",13:35 GP de Valonia -  Etapa 2 - Popoli Terme › Caramanico Terme (143 km)
+#EXTINF:-1 tvg-name="13:35 WTA Torneo de Guadalajara -  Etapa 3 - Oricola (Piana del Cavaliere) › San Benedetto dei Marsi (159 km)" group-title="WTA Torneo de Guadalajara",13:35 WTA Torneo de Guadalajara -  Etapa 3 - Oricola (Piana del Cavaliere) › San Benedetto dei Marsi (159 km)
 acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1 tvg-name="15:30 GP de Valonia -  UCI ProSeries - Seraing › Namur (196,8 km)" group-title="GP de Valonia",15:30 GP de Valonia -  UCI ProSeries - Seraing › Namur (196,8 km)
+#EXTINF:-1 tvg-name="16:00 BMW PGA Championship -  Jornada 1" group-title="BMW PGA Championship",16:00 BMW PGA Championship -  Jornada 1
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 tvg-name="16:20 Tour de Luxemburgo -  Etapa 2 - Niederkorn (Differdange) › Junglinster (166,8 km)" group-title="Tour de Luxemburgo",16:20 Tour de Luxemburgo -  Etapa 2 - Niederkorn (Differdange) › Junglinster (166,8 km)
 acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1 tvg-name="17:30 Tour de Luxemburgo -  Etapa 1 - Luxembourg-Knuedler › Luxembourg-Fëschmaart (157,5 km)" group-title="Tour de Luxemburgo",17:30 Tour de Luxemburgo -  Etapa 1 - Luxembourg-Knuedler › Luxembourg-Fëschmaart (157,5 km)
-acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1 tvg-name="18:30 Primera -  España - Portugal" group-title="Primera",18:30 Primera -  España - Portugal
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="18:45 Europa League - Fase Liga AC Omonia - Celta" group-title="Europa League",18:45 Europa League - Fase Liga AC Omonia - Celta
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-name="18:45 Europa League - Fase Liga FC Ararat-Armenia - Sparta Praha" group-title="Europa League",18:45 Europa League - Fase Liga FC Ararat-Armenia - Sparta Praha
-acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
-#EXTINF:-1 tvg-name="19:00 Primera -  Deportivo - Sevilla FC" group-title="Primera",19:00 Primera -  Deportivo - Sevilla FC
-acestream://465075c02b7284f564911bd63d1c6f0a8d464be7
-#EXTINF:-1 tvg-name="19:00 Primera -  At. Madrid - Osasuna" group-title="Primera",19:00 Primera -  At. Madrid - Osasuna
-acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1 tvg-name="20:30 Liga Guerreras -  BM Granollers - BM Morvedre" group-title="Liga Guerreras",20:30 Liga Guerreras -  BM Granollers - BM Morvedre
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga Bayer Leverkusen - NK Celje" group-title="Europa League",21:00 Europa League - Fase Liga Bayer Leverkusen - NK Celje
-acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
-#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga Sunderland - AZ Alkmaar" group-title="Europa League",21:00 Europa League - Fase Liga Sunderland - AZ Alkmaar
-acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga AC Milan - Benfica" group-title="Europa League",21:00 Europa League - Fase Liga AC Milan - Benfica
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga Anderlecht - O. Lyonnais" group-title="Europa League",21:00 Europa League - Fase Liga Anderlecht - O. Lyonnais
-acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga Olympiacos - Jagiellonia Bialystok" group-title="Europa League",21:00 Europa League - Fase Liga Olympiacos - Jagiellonia Bialystok
+#EXTINF:-1 tvg-name="17:00 La Sella Open -  Jornada 1" group-title="La Sella Open",17:00 La Sella Open -  Jornada 1
+acestream://882074140fca664e119a43294afa2fb4a64917ef
+#EXTINF:-1 tvg-name="18:24 Biltmore Championship Asheville -  Portugal - Catalunya" group-title="Biltmore Championship Asheville",18:24 Biltmore Championship Asheville -  Portugal - Catalunya
+acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
+#EXTINF:-1 tvg-name="18:30 Golden Cat Femenina -  Portugal - Cataluña" group-title="Golden Cat Femenina",18:30 Golden Cat Femenina -  Portugal - Cataluña
+acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
+#EXTINF:-1 tvg-name="18:45 Europa League - Fase Liga OFI Creta - Hoffenheim" group-title="Europa League",18:45 Europa League - Fase Liga OFI Creta - Hoffenheim
 acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
-#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga Sturm Graz - Rennes" group-title="Europa League",21:00 Europa League - Fase Liga Sturm Graz - Rennes
+#EXTINF:-1 tvg-name="18:45 Europa League - Fase Liga Levski Sofia - Red Bull Salzburg" group-title="Europa League",18:45 Europa League - Fase Liga Levski Sofia - Red Bull Salzburg
+acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+#EXTINF:-1 tvg-name="19:00 Primera -  Real Betis - Getafe" group-title="Primera",19:00 Primera -  Real Betis - Getafe
+acestream://f43ef903dc750610978b47df47a0cb389413fe61
+#EXTINF:-1 tvg-name="20:45 EHF Champions League - Fase de grupos Montpellier HB - Barça BM" group-title="EHF Champions League",20:45 EHF Champions League - Fase de grupos Montpellier HB - Barça BM
+acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
+#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga Juventus - NEC Nijmegen" group-title="Europa League",21:00 Europa League - Fase Liga Juventus - NEC Nijmegen
+acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga Real Sociedad - Bournemouth" group-title="Europa League",21:00 Europa League - Fase Liga Real Sociedad - Bournemouth
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga Celtic FC - Ferencvaros" group-title="Europa League",21:00 Europa League - Fase Liga Celtic FC - Ferencvaros
 acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga Hapoel Beer Sheva - GNK Dinamo Zagreb" group-title="Europa League",21:00 Europa League - Fase Liga Hapoel Beer Sheva - GNK Dinamo Zagreb
+#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga Viktoria Plzen - Saint-Gilloise" group-title="Europa League",21:00 Europa League - Fase Liga Viktoria Plzen - Saint-Gilloise
 acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-name="21:30 Primera -  Levante - Athletic Club" group-title="Primera",21:30 Primera -  Levante - Athletic Club
-acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1 tvg-name="21:30 Primera -  FC Barcelona - Racing Santander" group-title="Primera",21:30 Primera -  FC Barcelona - Racing Santander
+#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga Crystal Palace - Lech Poznan" group-title="Europa League",21:00 Europa League - Fase Liga Crystal Palace - Lech Poznan
+acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga Besiktas - O. Marseille" group-title="Europa League",21:00 Europa League - Fase Liga Besiktas - O. Marseille
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga Lillestrøm SK - SCU Torreense" group-title="Europa League",21:00 Europa League - Fase Liga Lillestrøm SK - SCU Torreense
+acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+#EXTINF:-1 tvg-name="21:00 Biltmore Championship Asheville -  Jornada 1" group-title="Biltmore Championship Asheville",21:00 Biltmore Championship Asheville -  Jornada 1
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 tvg-name="21:30 Primera -  Málaga - Villarreal" group-title="Primera",21:30 Primera -  Málaga - Villarreal
 acestream://f43ef903dc750610978b47df47a0cb389413fe61
 #EXTINF:-1 tvg-name="22:00 WTA Torneo de Guadalajara -  2ª Ronda - WTA 500" group-title="WTA Torneo de Guadalajara",22:00 WTA Torneo de Guadalajara -  2ª Ronda - WTA 500
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
-#EXTINF:-1 tvg-name="00:00 Copa Libertadores - 1/4 de Final LDU Quito - Palmeiras" group-title="Copa Libertadores",00:00 Copa Libertadores - 1/4 de Final LDU Quito - Palmeiras
-acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
-#EXTINF:-1 tvg-name="00:00 Copa Sudamericana - 1/4 de Final Atlético Mineiro - Santos" group-title="Copa Sudamericana",00:00 Copa Sudamericana - 1/4 de Final Atlético Mineiro - Santos
-acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
-#EXTINF:-1 tvg-name="08:30 BMW PGA Championship -  Jornada 1" group-title="BMW PGA Championship",08:30 BMW PGA Championship -  Jornada 1
+#EXTINF:-1 tvg-name="08:30 BMW PGA Championship -  Jornada 2" group-title="BMW PGA Championship",08:30 BMW PGA Championship -  Jornada 2
 acestream://882074140fca664e119a43294afa2fb4a64917ef

@@ -61,7 +61,7 @@ font-size:0.85rem;cursor:pointer;outline:none}
     <p class="subtitle">• Eventi di Oggi •</p>
 </header>
 <div style="text-align:center;">
-    <div class="event-counter">🎯 <span>23</span> eventi disponibili</div>
+    <div class="event-counter">🎯 <span>26</span> eventi disponibili</div>
 </div>
 <div class="events-grid">
 <div class="event-card">
@@ -90,7 +90,7 @@ font-size:0.85rem;cursor:pointer;outline:none}
 
 <div class="event-card">
     <div class="event-info">
-        <h3>OFI Hoffenheim <span class="status-next">⏳ PROSSIMO</span></h3>
+        <h3>OFI Hoffenheim <span class="status-live">🔴 LIVE</span></h3>
         <p class="competition">🏆 OFI</p>
         <p class="datetime">🕒 18:45 • 📅 Thursday, 17 September 2026</p>
         <span class="fonte-badge">📡 footystream.pk</span>
@@ -102,7 +102,7 @@ font-size:0.85rem;cursor:pointer;outline:none}
 
 <div class="event-card">
     <div class="event-info">
-        <h3>Salzburg Levski Sofia <span class="status-next">⏳ PROSSIMO</span></h3>
+        <h3>Salzburg Levski Sofia <span class="status-live">🔴 LIVE</span></h3>
         <p class="competition">🏆 Salzburg</p>
         <p class="datetime">🕒 18:45 • 📅 Thursday, 17 September 2026</p>
         <span class="fonte-badge">📡 footystream.pk</span>
@@ -114,7 +114,7 @@ font-size:0.85rem;cursor:pointer;outline:none}
 
 <div class="event-card">
     <div class="event-info">
-        <h3>Real Betis Getafe <span class="status-next">⏳ PROSSIMO</span></h3>
+        <h3>Real Betis Getafe <span class="status-live">🔴 LIVE</span></h3>
         <p class="competition">🏆 Real Betis</p>
         <p class="datetime">🕒 19:00 • 📅 Thursday, 17 September 2026</p>
         <span class="fonte-badge">📡 footystream.pk</span>
@@ -145,9 +145,45 @@ font-size:0.85rem;cursor:pointer;outline:none}
                 <option value="">📡 Scegli il server (3)...</option>
                     <option value="https://footystream.pk/alpha/manchester-city-vs-norwich-city/2002">English (720p English)</option>
                     <option value="https://footystream.pk/alpha/manchester-city-vs-norwich-city/2003">English (720p English)</option>
-                    <option value="https://footystream.pk/alpha/manchester-city-vs-norwich-city/2004">Portuguese (720p Portuguese)</option>
+                    <option value="https://footystream.pk/alpha/manchester-city-vs-norwich-city/2024">Portuguese (720p Portuguese)</option>
             </select>
         </div>
+    </div>
+</div>
+
+<div class="event-card">
+    <div class="event-info">
+        <h3>Milton Keynes Dons AFC Wimbledon <span class="status-next">⏳ PROSSIMO</span></h3>
+        <p class="competition">🏆 Milton Keynes Dons</p>
+        <p class="datetime">🕒 21:00 • 📅 Thursday, 17 September 2026</p>
+        <span class="fonte-badge">📡 footystream.pk</span>
+    </div>
+    <div class="event-links">
+        <a href="https://footystream.pk/alpha/mk-dons-vs-wimbledon/1928" target="_blank" class="server-link">▶ English</a>
+    </div>
+</div>
+
+<div class="event-card">
+    <div class="event-info">
+        <h3>Viktoria Plzen Union Saint-Gilloise <span class="status-next">⏳ PROSSIMO</span></h3>
+        <p class="competition">🏆 Viktoria Plzen</p>
+        <p class="datetime">🕒 21:00 • 📅 Thursday, 17 September 2026</p>
+        <span class="fonte-badge">📡 footystream.pk</span>
+    </div>
+    <div class="event-links">
+        <a href="https://footystream.pk/alpha/viktoria-plzen-vs-union-sg/2022" target="_blank" class="server-link">▶ English</a>
+    </div>
+</div>
+
+<div class="event-card">
+    <div class="event-info">
+        <h3>Lillestrøm Torreense <span class="status-next">⏳ PROSSIMO</span></h3>
+        <p class="competition">🏆 Lillestrøm</p>
+        <p class="datetime">🕒 21:00 • 📅 Thursday, 17 September 2026</p>
+        <span class="fonte-badge">📡 footystream.pk</span>
+    </div>
+    <div class="event-links">
+        <a href="https://footystream.pk/alpha/lillestr-m-vs-torreense/2023" target="_blank" class="server-link">▶ English</a>
     </div>
 </div>
 
@@ -177,7 +213,7 @@ font-size:0.85rem;cursor:pointer;outline:none}
         <span class="fonte-badge">📡 footystream.pk</span>
     </div>
     <div class="event-links">
-        <span class="no-link">⏳ Server disponibili poco prima dell'inizio</span>
+        <a href="https://footystream.pk/alpha/celtic-vs-ferencvaros/2018" target="_blank" class="server-link">▶ English</a>
     </div>
 </div>
 
@@ -189,7 +225,13 @@ font-size:0.85rem;cursor:pointer;outline:none}
         <span class="fonte-badge">📡 footystream.pk</span>
     </div>
     <div class="event-links">
-        <span class="no-link">⏳ Server disponibili poco prima dell'inizio</span>
+        <div class="dropdown">
+            <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                <option value="">📡 Scegli il server (2)...</option>
+                    <option value="https://footystream.pk/alpha/crystal-palace-vs-lech-poznan/2019">English (720p English)</option>
+                    <option value="https://footystream.pk/alpha/crystal-palace-vs-lech-poznan/2025">English (720p English)</option>
+            </select>
+        </div>
     </div>
 </div>
 
@@ -201,19 +243,19 @@ font-size:0.85rem;cursor:pointer;outline:none}
         <span class="fonte-badge">📡 footystream.pk</span>
     </div>
     <div class="event-links">
-        <span class="no-link">⏳ Server disponibili poco prima dell'inizio</span>
+        <a href="https://footystream.pk/alpha/bournemouth-vs-real-sociedad/2020" target="_blank" class="server-link">▶ English</a>
     </div>
 </div>
 
 <div class="event-card">
     <div class="event-info">
-        <h3>Milton Keynes Dons AFC Wimbledon <span class="status-next">⏳ PROSSIMO</span></h3>
-        <p class="competition">🏆 Milton Keynes Dons</p>
+        <h3>Besiktas Olympique Marseille <span class="status-next">⏳ PROSSIMO</span></h3>
+        <p class="competition">🏆 Besiktas</p>
         <p class="datetime">🕒 21:00 • 📅 Thursday, 17 September 2026</p>
         <span class="fonte-badge">📡 footystream.pk</span>
     </div>
     <div class="event-links">
-        <a href="https://footystream.pk/alpha/mk-dons-vs-wimbledon/1928" target="_blank" class="server-link">▶ English</a>
+        <a href="https://footystream.pk/alpha/besiktas-vs-marseille/2021" target="_blank" class="server-link">▶ English</a>
     </div>
 </div>
 
@@ -341,8 +383,8 @@ font-size:0.85rem;cursor:pointer;outline:none}
 
 <div class="event-card">
     <div class="event-info">
-        <h3>Espanyol Elche CF <span class="status-next">⏳ PROSSIMO</span></h3>
-        <p class="competition">🏆 Espanyol</p>
+        <h3>Bristol City Watford <span class="status-next">⏳ PROSSIMO</span></h3>
+        <p class="competition">🏆 Bristol City</p>
         <p class="datetime">🕒 21:00 • 📅 Friday, 18 September 2026</p>
         <span class="fonte-badge">📡 footystream.pk</span>
     </div>
@@ -353,8 +395,8 @@ font-size:0.85rem;cursor:pointer;outline:none}
 
 <div class="event-card">
     <div class="event-info">
-        <h3>Bristol City Watford <span class="status-next">⏳ PROSSIMO</span></h3>
-        <p class="competition">🏆 Bristol City</p>
+        <h3>Espanyol Elche CF <span class="status-next">⏳ PROSSIMO</span></h3>
+        <p class="competition">🏆 Espanyol</p>
         <p class="datetime">🕒 21:00 • 📅 Friday, 18 September 2026</p>
         <span class="fonte-badge">📡 footystream.pk</span>
     </div>

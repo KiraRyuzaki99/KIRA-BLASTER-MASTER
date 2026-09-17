@@ -1,36 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Baseball",03:40 - Arizona Diamondbacks vs Miami Marlins
-https://embed.st/embed/admin/ppv-miami-marlins-vs-arizona-diamondbacks/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:40 - Arizona Diamondbacks vs Miami Marlins
-https://embed.st/embed/admin/ppv-miami-marlins-vs-arizona-diamondbacks/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:40 - Arizona Diamondbacks vs Miami Marlins
-https://embed.st/embed/delta/live_mlb_diamondbacks-marlins-live-streaming-594393552/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:40 - Arizona Diamondbacks vs Miami Marlins
-https://embed.st/embed/golf/1381/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:40 - Arizona Diamondbacks vs Miami Marlins
-https://embed.st/embed/golf/1381/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs Seattle Mariners
-https://embed.st/embed/admin/ppv-seattle-mariners-vs-los-angeles-angels/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs Seattle Mariners
-https://embed.st/embed/admin/ppv-seattle-mariners-vs-los-angeles-angels/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs Seattle Mariners
-https://embed.st/embed/delta/live_mlb_angels-mariners-live-streaming-594393120/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs Seattle Mariners
-https://embed.st/embed/delta/live_mlb_angels-mariners-live-streaming-594393120/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs Seattle Mariners
-https://embed.st/embed/golf/1380/1#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Football",15:30 - Kalamata vs Larisa
 https://sportora.ru/watch/kalamata-vs-larisa-football-1635501
 
@@ -94,6 +64,12 @@ https://embed.st/embed/golf/1384/2#player=clappr&autoplay=true
 #EXTINF:-1 group-title="Hockey",19:30 - Eisbären Berlin vs Straubing Tigers
 https://sportora.ru/watch/eisb-ren-berlin-vs-straubing-tigers-2518140
 
+#EXTINF:-1 group-title="Cricket",19:30 - England Cricket vs Sri Lanka Cricket
+https://sportora.ru/watch/england-cricket-vs-sri-lanka-cricket-2524747
+
+#EXTINF:-1 group-title="Other",20:00 - WTA 500 Guadlajara / WTA 250 Sao Paulo 🎾
+https://sportora.ru/watch/wta-500-guadlajara-wta-250-sao-paulo-roland-2026
+
 #EXTINF:-1 group-title="Football",20:30 - Manchester City vs Norwich City
 https://embed.st/embed/golf/1373/1#player=clappr&autoplay=true
 
@@ -106,35 +82,35 @@ https://sportora.ru/watch/goals-show-game-1888922
 #EXTINF:-1 group-title="Football",21:00 - Plzen vs Union St. Gilloise
 https://sportora.ru/watch/plzen-vs-union-st-gilloise-football-1636316
 
-#EXTINF:-1 group-title="Football",21:00 - Besiktas vs. Marseille
+#EXTINF:-1 group-title="Football",21:00 - Besiktas vs Olympique de Marseille
 https://embed.st/embed/admin/ppv-besiktas-vs-marseille/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",21:00 - Besiktas vs. Marseille
+#EXTINF:-1 group-title="Football",21:00 - Besiktas vs Olympique de Marseille
 https://embed.st/embed/admin/ppv-besiktas-vs-marseille/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",21:00 - Besiktas vs. Marseille
+#EXTINF:-1 group-title="Football",21:00 - Besiktas vs Olympique de Marseille
 https://embed.st/embed/golf/1408/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",21:00 - Besiktas vs. Marseille
+#EXTINF:-1 group-title="Football",21:00 - Besiktas vs Olympique de Marseille
 https://embed.st/embed/golf/1408/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",21:00 - Lillestrom vs. Torreense
-https://embed.st/embed/admin/ppv-lillestrom-vs-torreense/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",21:00 - Lillestrom vs. Torreense
-https://embed.st/embed/admin/ppv-lillestrom-vs-torreense/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",21:00 - Celtic vs. Ferencvaros
+#EXTINF:-1 group-title="Football",21:00 - Celtic vs Ferencvaros
 https://embed.st/embed/admin/ppv-celtic-vs-ferencvaros/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",21:00 - Celtic vs. Ferencvaros
+#EXTINF:-1 group-title="Football",21:00 - Celtic vs Ferencvaros
 https://embed.st/embed/admin/ppv-celtic-vs-ferencvaros/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",21:00 - Celtic vs. Ferencvaros
+#EXTINF:-1 group-title="Football",21:00 - Celtic vs Ferencvaros
 https://embed.st/embed/golf/1404/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",21:00 - Celtic vs. Ferencvaros
+#EXTINF:-1 group-title="Football",21:00 - Celtic vs Ferencvaros
 https://embed.st/embed/golf/1404/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Lillestrom vs Torreense
+https://embed.st/embed/admin/ppv-lillestrom-vs-torreense/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Lillestrom vs Torreense
+https://embed.st/embed/admin/ppv-lillestrom-vs-torreense/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Viktoria Plzeň vs Union Saint-Gilloise
 https://embed.st/embed/admin/ppv-viktoria-plzen-vs-union-st-gilloise/1#player=clappr&autoplay=true
@@ -206,7 +182,7 @@ https://embed.st/embed/golf/1385/1#player=clappr&autoplay=true
 https://embed.st/embed/golf/1385/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:30 - Malaga vs Villarreal
-https://sportora.ru/watch/malaga-vs-villarreal-football-1570390
+https://sportora.ru/watch/malaga-vs-villarreal-4750853
 
 #EXTINF:-1 group-title="Football",21:30 - Málaga vs Villarreal
 https://embed.st/embed/admin/ppv-m-laga-vs-villarreal/1#player=clappr&autoplay=true

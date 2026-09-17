@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Golf",BMW PGA Championship Round 1 [Server 3 (echo)]
 https://golxu.st/eventostop.html?id=bmw-pga-championship-dp-world-tour-game-162626
-#EXTINF:-1 group-title="Baseball",Los Angeles Angels vs Seattle Mariners [golf]
-https://golxu.st/eventostop.html?id=1380
-#EXTINF:-1 group-title="Baseball",Arizona Diamondbacks vs Miami Marlins [golf]
-https://golxu.st/eventostop.html?id=1381
 #EXTINF:-1 group-title="Calcio",Kalamata vs Larisa [Server 3 (echo)]
 https://golxu.st/eventostop.html?id=kalamata-vs-larisa-football-1635501
 #EXTINF:-1 group-title="Calcio",AEK Athens vs Panserraikos [Server 3 (echo)]
@@ -49,6 +45,8 @@ https://golxu.st/eventostop.html?id=tampa-bay-rays-vs-athletics-baseball-186581
 https://golxu.st/eventostop.html?id=1384
 #EXTINF:-1 group-title="Altro",WTA 500 Guadlajara / WTA 250 Sao Paulo 🎾 [Server 3 (echo)]
 https://golxu.st/eventostop.html?id=wta-500-guadlajara-wta-250-sao-paulo-roland-2026
+#EXTINF:-1 group-title="Calcio",Manchester City vs Norwich City [Server 1 (admin)]
+https://golxu.st/eventostop.html?id=ppv-manchester-city-vs-norwich-city
 #EXTINF:-1 group-title="Calcio",Manchester City vs Norwich City [Server 2 (delta)]
 https://golxu.st/eventostop.html?id=live_efl-cup_man-city-norwich-live-streaming-625719168
 #EXTINF:-1 group-title="Calcio",Manchester City vs Norwich City [Server 3 (echo)]

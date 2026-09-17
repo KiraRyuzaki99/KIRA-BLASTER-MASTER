@@ -46,105 +46,6 @@
     ]
   },
   {
-    "title": "OFI Hoffenheim",
-    "category": "OFI",
-    "logo": "https://cdn.img4every1.org/team/ofi/logo.webp",
-    "start_iso": "2026-09-17T16:45:00.000Z",
-    "end_iso": "2026-09-17T19:00:00.000Z",
-    "date": "Thursday, 17 September 2026",
-    "time": "18:45",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/ofi-vs-hoffenheim",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/ofi-vs-hoffenheim/1927",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Salzburg Levski Sofia",
-    "category": "Salzburg",
-    "logo": "https://cdn.img4every1.org/team/salzburg/logo.webp",
-    "start_iso": "2026-09-17T16:45:00.000Z",
-    "end_iso": "2026-09-17T19:00:00.000Z",
-    "date": "Thursday, 17 September 2026",
-    "time": "18:45",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/salzburg-vs-le-vs-ki-sofia",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/salzburg-vs-le-vs-ki-sofia/2013",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Real Betis Getafe",
-    "category": "Real Betis",
-    "logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-    "start_iso": "2026-09-17T17:00:00.000Z",
-    "end_iso": "2026-09-17T19:15:00.000Z",
-    "date": "Thursday, 17 September 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/real-betis-vs-getafe",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/real-betis-vs-getafe/2005",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/real-betis-vs-getafe/2006",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/real-betis-vs-getafe/2007",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://footystream.pk/alpha/real-betis-vs-getafe/2008",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      }
-    ]
-  },
-  {
     "title": "Manchester City Norwich City",
     "category": "Manchester City",
     "logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
@@ -152,7 +53,7 @@
     "end_iso": "2026-09-17T20:45:00.000Z",
     "date": "Thursday, 17 September 2026",
     "time": "20:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/manchester-city-vs-norwich-city",
     "servers": [
       {
@@ -188,29 +89,6 @@
     ]
   },
   {
-    "title": "Milton Keynes Dons AFC Wimbledon",
-    "category": "Milton Keynes Dons",
-    "logo": "https://cdn.img4every1.org/team/milton-keynes-dons/logo.webp",
-    "start_iso": "2026-09-17T19:00:00.000Z",
-    "end_iso": "2026-09-17T21:15:00.000Z",
-    "date": "Thursday, 17 September 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/mk-dons-vs-wimbledon",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/mk-dons-vs-wimbledon/1928",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Viktoria Plzen Union Saint-Gilloise",
     "category": "Viktoria Plzen",
     "logo": "https://cdn.img4every1.org/team/viktoria-plzen/logo.webp",
@@ -218,7 +96,7 @@
     "end_iso": "2026-09-17T21:15:00.000Z",
     "date": "Thursday, 17 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/viktoria-plzen-vs-union-sg",
     "servers": [
       {
@@ -241,7 +119,7 @@
     "end_iso": "2026-09-17T21:15:00.000Z",
     "date": "Thursday, 17 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/lillestr-m-vs-torreense",
     "servers": [
       {
@@ -264,7 +142,7 @@
     "end_iso": "2026-09-17T21:15:00.000Z",
     "date": "Thursday, 17 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/juventus-vs-nec",
     "servers": [
       {
@@ -297,7 +175,7 @@
     "end_iso": "2026-09-17T21:15:00.000Z",
     "date": "Thursday, 17 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/celtic-vs-ferencvaros",
     "servers": [
       {
@@ -320,7 +198,7 @@
     "end_iso": "2026-09-17T21:15:00.000Z",
     "date": "Thursday, 17 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/crystal-palace-vs-lech-poznan",
     "servers": [
       {
@@ -353,12 +231,35 @@
     "end_iso": "2026-09-17T21:15:00.000Z",
     "date": "Thursday, 17 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/bournemouth-vs-real-sociedad",
     "servers": [
       {
         "label": "English",
         "url": "https://footystream.pk/alpha/bournemouth-vs-real-sociedad/2020",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Milton Keynes Dons AFC Wimbledon",
+    "category": "Milton Keynes Dons",
+    "logo": "https://cdn.img4every1.org/team/milton-keynes-dons/logo.webp",
+    "start_iso": "2026-09-17T19:00:00.000Z",
+    "end_iso": "2026-09-17T21:15:00.000Z",
+    "date": "Thursday, 17 September 2026",
+    "time": "21:00",
+    "status": "live",
+    "event_url": "https://footystream.pk/events/mk-dons-vs-wimbledon",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/mk-dons-vs-wimbledon/1928",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -376,7 +277,7 @@
     "end_iso": "2026-09-17T21:15:00.000Z",
     "date": "Thursday, 17 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/besiktas-vs-marseille",
     "servers": [
       {
@@ -399,7 +300,7 @@
     "end_iso": "2026-09-17T21:45:00.000Z",
     "date": "Thursday, 17 September 2026",
     "time": "21:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/malaga-vs-villarreal",
     "servers": [
       {
@@ -595,6 +496,18 @@
     "servers": []
   },
   {
+    "title": "Chelsea Brentford",
+    "category": "Chelsea",
+    "logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+    "start_iso": "2026-09-18T19:00:00.000Z",
+    "end_iso": "2026-09-18T21:15:00.000Z",
+    "date": "Friday, 18 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/chelsea-vs-brentford",
+    "servers": []
+  },
+  {
     "title": "Bristol City Watford",
     "category": "Bristol City",
     "logo": "https://cdn.img4every1.org/team/bristol-city/logo.webp",
@@ -619,15 +532,219 @@
     "servers": []
   },
   {
-    "title": "Chelsea Brentford",
-    "category": "Chelsea",
-    "logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-    "start_iso": "2026-09-18T19:00:00.000Z",
-    "end_iso": "2026-09-18T21:15:00.000Z",
-    "date": "Friday, 18 September 2026",
+    "title": "Tottenham Hotspur Aston Villa",
+    "category": "Tottenham Hotspur",
+    "logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+    "start_iso": "2026-09-19T11:30:00.000Z",
+    "end_iso": "2026-09-19T13:45:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "13:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/tottenham-hotspur-vs-aston-villa",
+    "servers": []
+  },
+  {
+    "title": "West Ham United Millwall FC",
+    "category": "West Ham United",
+    "logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+    "start_iso": "2026-09-19T11:30:00.000Z",
+    "end_iso": "2026-09-19T13:45:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "13:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/west-ham-united-vs-millwall",
+    "servers": []
+  },
+  {
+    "title": "Barnsley Leicester City",
+    "category": "Barnsley",
+    "logo": "https://cdn.img4every1.org/team/barnsley/logo.webp",
+    "start_iso": "2026-09-19T11:30:00.000Z",
+    "end_iso": "2026-09-19T13:45:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "13:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/barnsley-vs-leicester-city",
+    "servers": []
+  },
+  {
+    "title": "Osasuna Rayo Vallecano",
+    "category": "Osasuna",
+    "logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+    "start_iso": "2026-09-19T12:00:00.000Z",
+    "end_iso": "2026-09-19T14:15:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "14:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/osasuna-vs-rayo-vallecano",
+    "servers": []
+  },
+  {
+    "title": "Bologna Torino",
+    "category": "Bologna",
+    "logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+    "start_iso": "2026-09-19T13:00:00.000Z",
+    "end_iso": "2026-09-19T15:15:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/bologna-vs-torino",
+    "servers": []
+  },
+  {
+    "title": "Cagliari Udinese",
+    "category": "Cagliari",
+    "logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+    "start_iso": "2026-09-19T13:00:00.000Z",
+    "end_iso": "2026-09-19T15:15:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/cagliari-vs-udinese",
+    "servers": []
+  },
+  {
+    "title": "Eintracht Frankfurt Freiburg",
+    "category": "Eintracht Frankfurt",
+    "logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
+    "start_iso": "2026-09-19T13:30:00.000Z",
+    "end_iso": "2026-09-19T15:45:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "15:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/eintracht-frankfurt-vs-freiburg",
+    "servers": []
+  },
+  {
+    "title": "Hull City Newcastle United",
+    "category": "Hull City",
+    "logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
+    "start_iso": "2026-09-19T14:00:00.000Z",
+    "end_iso": "2026-09-19T16:15:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/hull-city-vs-newcastle-united",
+    "servers": []
+  },
+  {
+    "title": "Ipswich Town Everton",
+    "category": "Ipswich Town",
+    "logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+    "start_iso": "2026-09-19T14:00:00.000Z",
+    "end_iso": "2026-09-19T16:15:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/ipswich-town-vs-everton",
+    "servers": []
+  },
+  {
+    "title": "Arsenal Brighton & Hove Albion",
+    "category": "Arsenal",
+    "logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+    "start_iso": "2026-09-19T14:00:00.000Z",
+    "end_iso": "2026-09-19T16:15:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/arsenal-vs-brighton",
+    "servers": []
+  },
+  {
+    "title": "Deportivo Alavés Athletic Club",
+    "category": "Deportivo Alavés",
+    "logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+    "start_iso": "2026-09-19T14:15:00.000Z",
+    "end_iso": "2026-09-19T16:30:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "16:15",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/alaves-vs-athletic-club",
+    "servers": []
+  },
+  {
+    "title": "Paris FC Strasbourg",
+    "category": "Paris FC",
+    "logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
+    "start_iso": "2026-09-19T15:15:00.000Z",
+    "end_iso": "2026-09-19T17:30:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "17:15",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/paris-vs-strasbourg",
+    "servers": []
+  },
+  {
+    "title": "Inter Milan AS Roma",
+    "category": "Inter Milan",
+    "logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+    "start_iso": "2026-09-19T16:00:00.000Z",
+    "end_iso": "2026-09-19T18:15:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/inter-milan-vs-roma",
+    "servers": []
+  },
+  {
+    "title": "Borussia Dortmund Stuttgart",
+    "category": "Borussia Dortmund",
+    "logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+    "start_iso": "2026-09-19T16:30:00.000Z",
+    "end_iso": "2026-09-19T18:45:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/borussia-dortmund-vs-stuttgart",
+    "servers": []
+  },
+  {
+    "title": "Nottingham Forest Coventry City",
+    "category": "Nottingham Forest",
+    "logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+    "start_iso": "2026-09-19T16:30:00.000Z",
+    "end_iso": "2026-09-19T18:45:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/nottm-forest-vs-coventry-city",
+    "servers": []
+  },
+  {
+    "title": "Celta de Vigo Racing Santander",
+    "category": "Celta de Vigo",
+    "logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+    "start_iso": "2026-09-19T16:30:00.000Z",
+    "end_iso": "2026-09-19T18:45:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/celta-vigo-vs-racing",
+    "servers": []
+  },
+  {
+    "title": "Lazio Venezia",
+    "category": "Lazio",
+    "logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+    "start_iso": "2026-09-19T18:45:00.000Z",
+    "end_iso": "2026-09-19T21:00:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/lazio-vs-venezia",
+    "servers": []
+  },
+  {
+    "title": "FC Barcelona Sevilla",
+    "category": "FC Barcelona",
+    "logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+    "start_iso": "2026-09-19T19:00:00.000Z",
+    "end_iso": "2026-09-19T21:15:00.000Z",
+    "date": "Saturday, 19 September 2026",
     "time": "21:00",
     "status": "next",
-    "event_url": "https://footystream.pk/events/chelsea-vs-brentford",
+    "event_url": "https://footystream.pk/events/barcelona-vs-sevilla",
     "servers": []
   }
 ]

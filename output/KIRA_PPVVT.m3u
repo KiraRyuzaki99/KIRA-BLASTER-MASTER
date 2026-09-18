@@ -1,27 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Darts – Darts",Oggi 17:00 - World Series of Darts Finals - Day 2 [PDC.TV]
-https://august.ppvtv.icu/embed.html?match=c1ln3if5&server=0
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 18:00 - FC Groningen vs. PEC Zwolle [ESPN2]
-https://august.ppvtv.icu/embed.html?match=f129u9fv&server=0
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 18:30 - Bayern Munich vs. 1. FC Union Berlin [Fandango]
-https://august.ppvtv.icu/embed.html?match=f1x4ux6j&server=0
-
-#EXTINF:-1 group-title="Football – Serie A",Oggi 18:45 - Monza vs. Sassuolo [Paramount+]
-https://august.ppvtv.icu/embed.html?match=fjgqbsw&server=0
-
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 18:45 - AS Monaco vs. Lens [Ligue 1+]
-https://august.ppvtv.icu/embed.html?match=f1cvvkmx&server=0
-
-#EXTINF:-1 group-title="Football – LaLiga",Oggi 19:00 - Espanyol vs. Elche [ESPN+]
-https://august.ppvtv.icu/embed.html?match=f1ncltuj&server=0
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 19:00 - Brentford vs. Chelsea [Sky Sports Premier League]
-https://august.ppvtv.icu/embed.html?match=f1qdjnr&server=0
-
 #EXTINF:-1 group-title="Baseball – MLB",Oggi 22:40 - Chicago Cubs vs. Cincinnati Reds [Reds.TV]
 https://august.ppvtv.icu/embed.html?match=fvz2bu1&server=0
 
@@ -40,7 +19,7 @@ https://august.ppvtv.icu/embed.html?match=f1wi5em0&server=0
 #EXTINF:-1 group-title="Baseball – MLB",Oggi 23:10 - Philadelphia Phillies vs. New York Mets [Apple TV]
 https://august.ppvtv.icu/embed.html?match=fsd6n49&server=0
 
-#EXTINF:-1 group-title="American Football – Canadian Football",Oggi 23:30 - Montreal Alouettes at Hamilton Tiger-Cats [CFL+]
+#EXTINF:-1 group-title="American Football – Canadian Football",Oggi 23:30 - Montreal Alouettes at Hamilton Tiger-Cats [TSN1]
 https://august.ppvtv.icu/embed.html?match=c11zkduo&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Oggi 23:30 - Miami Hurricanes at Wake Forest Demon Deacons [ESPN]
@@ -142,9 +121,6 @@ https://august.ppvtv.icu/embed.html?match=febwfbh&server=0
 #EXTINF:-1 group-title="Football – MLS",Domani 00:30 - St. Louis CITY SC vs. Toronto FC [Apple TV]
 https://august.ppvtv.icu/embed.html?match=fh85fgj&server=0
 
-#EXTINF:-1 group-title="Football – Liga MX",Domani 01:00 - Puebla vs. Atlante [SportsGrid]
-https://august.ppvtv.icu/embed.html?match=ftjvtd9&server=0
-
 #EXTINF:-1 group-title="Football – Liga MX",Domani 01:00 - Monterrey vs. Cruz Azul [Liga MX]
 https://august.ppvtv.icu/embed.html?match=f1jzlqp0&server=0
 
@@ -181,7 +157,7 @@ https://august.ppvtv.icu/embed.html?match=c1jp4177&server=0
 #EXTINF:-1 group-title="Football – MLS",Domani 02:30 - Portland Timbers vs. Atlanta United FC [Apple TV]
 https://august.ppvtv.icu/embed.html?match=f6cjgww&server=0
 
-#EXTINF:-1 group-title="Football – Liga MX",Domani 03:00 - FC Juarez vs. Tigres UANL [Liga MX]
+#EXTINF:-1 group-title="Football – Liga MX",Domani 03:00 - FC Juarez vs. Tigres UANL [SportsGrid]
 https://august.ppvtv.icu/embed.html?match=fsbq7o9&server=0
 
 #EXTINF:-1 group-title="Football – Liga MX",Domani 03:00 - América vs. Guadalajara [Liga MX]
@@ -532,7 +508,7 @@ https://august.ppvtv.icu/embed.html?match=fhd2bb7&server=0
 #EXTINF:-1 group-title="Football – Ligue 1",Domani 18:45 - Marseille vs. Paris Saint-Germain [Ligue 1]
 https://august.ppvtv.icu/embed.html?match=f1v06mz8&server=0
 
-#EXTINF:-1 group-title="American Football – Canadian Football",Domani 19:00 - Edmonton Elks at Toronto Argonauts [CFL+]
+#EXTINF:-1 group-title="American Football – Canadian Football",Domani 19:00 - Edmonton Elks at Toronto Argonauts [TSN1]
 https://august.ppvtv.icu/embed.html?match=c1jhnean&server=0
 
 #EXTINF:-1 group-title="Football – LaLiga",Domani 19:00 - Sevilla vs. Barcelona [LaLiga]
@@ -589,7 +565,7 @@ https://august.ppvtv.icu/embed.html?match=cu4wma1&server=0
 #EXTINF:-1 group-title="American Football – NFL",Domani 20:25 - Miami Dolphins at San Francisco 49ers [FOX]
 https://august.ppvtv.icu/embed.html?match=c9x6br0&server=0
 
-#EXTINF:-1 group-title="American Football – Canadian Football",Domani 23:00 - Ottawa RedBlacks at Calgary Stampeders [CFL+]
+#EXTINF:-1 group-title="American Football – Canadian Football",Domani 23:00 - Ottawa RedBlacks at Calgary Stampeders [TSN1]
 https://august.ppvtv.icu/embed.html?match=c1f3346b&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Domani 23:00 - Troy Trojans at Missouri Tigers [SECN+]

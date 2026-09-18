@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Motor-sports",13:15 - Austria Free Practice 1
-https://embed.st/embed/admin/ppv-austria-practice/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Motor-sports",13:15 - Austria Free Practice 1
-https://embed.st/embed/admin/ppv-austria-practice/2#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Darts",19:00 - World Series of Darts Finals Day 3
 https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-2/1#player=clappr&autoplay=true
 
@@ -24,12 +18,6 @@ https://embed.st/embed/admin/ppv-bayern-munich-vs-1-fc-union-berlin/1#player=cla
 
 #EXTINF:-1 group-title="Football",20:30 - Bayern Munich vs Union Berlin
 https://embed.st/embed/admin/ppv-bayern-munich-vs-1-fc-union-berlin/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:45 - Gent vs Standard Liège
-https://embed.st/embed/admin/ppv-kaa-gent-vs-standard-liege/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:45 - Gent vs Standard Liège
-https://embed.st/embed/admin/ppv-kaa-gent-vs-standard-liege/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Monaco vs Lens
 https://embed.st/embed/admin/ppv-as-monaco-vs-lens/1#player=clappr&autoplay=true

@@ -1,56 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Basketball",04:00 - Portland Fire vs Phoenix Mercury
-https://embed.st/embed/admin/ppv-phoenix-mercury-vs-portland-fire/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",04:00 - Portland Fire vs Phoenix Mercury
-https://embed.st/embed/admin/ppv-phoenix-mercury-vs-portland-fire/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",04:00 - Portland Fire vs Phoenix Mercury
-https://embed.st/embed/delta/live_wnba_fire-mercury-live-streaming-524101536/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",04:00 - Seattle Storm vs Las Vegas Aces
-https://embed.st/embed/admin/ppv-las-vegas-aces-vs-seattle-storm/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",04:00 - Seattle Storm vs Las Vegas Aces
-https://embed.st/embed/admin/ppv-las-vegas-aces-vs-seattle-storm/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",04:00 - Seattle Storm vs Las Vegas Aces
-https://embed.st/embed/delta/live_wnba_storm-aces-live-streaming-524101968/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs Minnesota Twins
-https://embed.st/embed/admin/ppv-minnesota-twins-vs-los-angeles-angels/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs Minnesota Twins
-https://embed.st/embed/admin/ppv-minnesota-twins-vs-los-angeles-angels/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs Minnesota Twins
-https://embed.st/embed/delta/live_mlb_angels-twins-live-streaming-594406512/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs Minnesota Twins
-https://embed.st/embed/delta/live_mlb_angels-twins-live-streaming-594406512/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",03:38 - Los Angeles Angels vs Minnesota Twins
-https://embed.st/embed/foxtrot/twins-v-angels-401816981/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Darts",13:00 - World Series of Darts Finals Day 2
-https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-2-afternoon/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Darts",13:00 - World Series of Darts Finals Day 2
-https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-2-afternoon/2#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Motor-sports",13:15 - Austria Free Practice 1
 https://embed.st/embed/admin/ppv-austria-practice-1/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Motor-sports",13:15 - Austria Free Practice 1
 https://embed.st/embed/admin/ppv-austria-practice-1/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Darts",19:00 - World Series of Darts Finals Day 3
-https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-2-evening/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Darts",19:00 - World Series of Darts Finals Day 2
+https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-2-afternoon/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Darts",19:00 - World Series of Darts Finals Day 3
-https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-2-evening/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Darts",19:00 - World Series of Darts Finals Day 2
+https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-2-afternoon/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:00 - Groningen vs PEC Zwolle
 https://embed.st/embed/admin/ppv-fc-groningen-vs-pec-zwolle/1#player=clappr&autoplay=true
@@ -107,10 +68,22 @@ https://sportora.ru/watch/live_ncaa-women_post-eagles-lindenwood-lady-lions-live
 https://sportora.ru/watch/live_ncaa-women_mercyhurst-lakers-rensselaer-engineers-live-streaming-623860704
 
 #EXTINF:-1 group-title="Baseball",00:40 - Pittsburgh Pirates vs Kansas City Royals
+https://embed.st/embed/admin/ppv-kansas-city-royals-vs-pittsburgh-pirates/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Pittsburgh Pirates vs Kansas City Royals
+https://embed.st/embed/admin/ppv-kansas-city-royals-vs-pittsburgh-pirates/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Pittsburgh Pirates vs Kansas City Royals
 https://embed.st/embed/golf/1413/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Pittsburgh Pirates vs Kansas City Royals
 https://embed.st/embed/golf/1413/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Cincinnati Reds vs Chicago Cubs
+https://embed.st/embed/admin/ppv-chicago-cubs-vs-cincinnati-reds/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Cincinnati Reds vs Chicago Cubs
+https://embed.st/embed/admin/ppv-chicago-cubs-vs-cincinnati-reds/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Cincinnati Reds vs Chicago Cubs
 https://embed.st/embed/golf/1412/1#player=clappr&autoplay=true

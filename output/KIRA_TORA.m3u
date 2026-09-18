@@ -1,17 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
+#EXTINF:-1 group-title="Motor-sports",09:50 - Red Bull Ring — Free Practice 1
+https://embed.st/embed/hotel/red-bull-ring-free-practice-1-moto2-1789717800/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Darts",13:00 - World Series of Darts Finals Day 2
+https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-2-afternoon/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Darts",13:00 - World Series of Darts Finals Day 2
+https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-2-afternoon/2#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Motor-sports",13:15 - Austria Free Practice 1
 https://embed.st/embed/admin/ppv-austria-practice-1/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Motor-sports",13:15 - Austria Free Practice 1
 https://embed.st/embed/admin/ppv-austria-practice-1/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Darts",19:00 - World Series of Darts Finals Day 2
-https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-2-afternoon/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Darts",19:00 - World Series of Darts Finals Day 3
+https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-2-evening/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Darts",19:00 - World Series of Darts Finals Day 2
-https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-2-afternoon/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Darts",19:00 - World Series of Darts Finals Day 3
+https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-2-evening/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:00 - Groningen vs PEC Zwolle
 https://embed.st/embed/admin/ppv-fc-groningen-vs-pec-zwolle/1#player=clappr&autoplay=true

@@ -122,7 +122,7 @@
     "end_iso": "2026-09-18T20:45:00.000Z",
     "date": "Friday, 18 September 2026",
     "time": "20:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/bayern-munchen-vs-union-berlin",
     "servers": [
       {
@@ -145,7 +145,7 @@
     "end_iso": "2026-09-18T21:00:00.000Z",
     "date": "Friday, 18 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/lens-vs-monaco",
     "servers": [
       {
@@ -178,7 +178,7 @@
     "end_iso": "2026-09-18T21:00:00.000Z",
     "date": "Friday, 18 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/monza-vs-sassuolo",
     "servers": [
       {
@@ -201,7 +201,7 @@
     "end_iso": "2026-09-18T21:15:00.000Z",
     "date": "Friday, 18 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/chelsea-vs-brentford",
     "servers": [
       {
@@ -274,7 +274,7 @@
     "end_iso": "2026-09-18T21:15:00.000Z",
     "date": "Friday, 18 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/wakefield-trinity-vs-leigh-leopards",
     "servers": [
       {
@@ -297,7 +297,7 @@
     "end_iso": "2026-09-18T21:15:00.000Z",
     "date": "Friday, 18 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/bristol-city-vs-watford",
     "servers": [
       {
@@ -320,7 +320,7 @@
     "end_iso": "2026-09-18T21:15:00.000Z",
     "date": "Friday, 18 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/espanyol-vs-elche",
     "servers": [
       {
@@ -671,6 +671,30 @@
     "servers": []
   },
   {
+    "title": "Nottingham Forest Coventry City",
+    "category": "Nottingham Forest",
+    "logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+    "start_iso": "2026-09-19T16:30:00.000Z",
+    "end_iso": "2026-09-19T18:45:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/nottm-forest-vs-coventry-city",
+    "servers": []
+  },
+  {
+    "title": "Celta de Vigo Racing Santander",
+    "category": "Celta de Vigo",
+    "logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+    "start_iso": "2026-09-19T16:30:00.000Z",
+    "end_iso": "2026-09-19T18:45:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/celta-vigo-vs-racing",
+    "servers": []
+  },
+  {
     "title": "Borussia Dortmund Stuttgart",
     "category": "Borussia Dortmund",
     "logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
@@ -692,30 +716,6 @@
         }
       }
     ]
-  },
-  {
-    "title": "Celta de Vigo Racing Santander",
-    "category": "Celta de Vigo",
-    "logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-    "start_iso": "2026-09-19T16:30:00.000Z",
-    "end_iso": "2026-09-19T18:45:00.000Z",
-    "date": "Saturday, 19 September 2026",
-    "time": "18:30",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/celta-vigo-vs-racing",
-    "servers": []
-  },
-  {
-    "title": "Nottingham Forest Coventry City",
-    "category": "Nottingham Forest",
-    "logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
-    "start_iso": "2026-09-19T16:30:00.000Z",
-    "end_iso": "2026-09-19T18:45:00.000Z",
-    "date": "Saturday, 19 September 2026",
-    "time": "18:30",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/nottm-forest-vs-coventry-city",
-    "servers": []
   },
   {
     "title": "Lazio Venezia",

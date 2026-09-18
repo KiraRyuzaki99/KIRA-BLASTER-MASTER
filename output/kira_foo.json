@@ -99,7 +99,7 @@
     "end_iso": "2026-09-18T20:15:00.000Z",
     "date": "Friday, 18 September 2026",
     "time": "20:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/liverpool-vs-manchester-city",
     "servers": [
       {
@@ -194,29 +194,6 @@
     ]
   },
   {
-    "title": "Leigh Leopards Wakefield Trinity",
-    "category": "Leigh Leopards",
-    "logo": "https://cdn.img4every1.org/team/leigh-leopards/logo.webp",
-    "start_iso": "2026-09-18T19:00:00.000Z",
-    "end_iso": "2026-09-18T21:15:00.000Z",
-    "date": "Friday, 18 September 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/wakefield-trinity-vs-leigh-leopards",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/wakefield-trinity-vs-leigh-leopards/2040",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Chelsea Brentford",
     "category": "Chelsea",
     "logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
@@ -285,6 +262,29 @@
           "quality": "720p",
           "ads": "2",
           "language": "Portuguese"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Leigh Leopards Wakefield Trinity",
+    "category": "Leigh Leopards",
+    "logo": "https://cdn.img4every1.org/team/leigh-leopards/logo.webp",
+    "start_iso": "2026-09-18T19:00:00.000Z",
+    "end_iso": "2026-09-18T21:15:00.000Z",
+    "date": "Friday, 18 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/wakefield-trinity-vs-leigh-leopards",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/wakefield-trinity-vs-leigh-leopards/2040",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
         }
       }
     ]
@@ -448,41 +448,6 @@
     ]
   },
   {
-    "title": "Charlton Athletic London City Lionesses",
-    "category": "Charlton Athletic",
-    "logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
-    "start_iso": "2026-09-19T11:30:00.000Z",
-    "end_iso": "2026-09-19T13:45:00.000Z",
-    "date": "Saturday, 19 September 2026",
-    "time": "13:30",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/charlton-athletic-vs-london-lionesses",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/charlton-athletic-vs-london-lionesses/2047",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Tottenham Hotspur Aston Villa",
-    "category": "Tottenham Hotspur",
-    "logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-    "start_iso": "2026-09-19T11:30:00.000Z",
-    "end_iso": "2026-09-19T13:45:00.000Z",
-    "date": "Saturday, 19 September 2026",
-    "time": "13:30",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/tottenham-hotspur-vs-aston-villa",
-    "servers": []
-  },
-  {
     "title": "West Ham United Millwall FC",
     "category": "West Ham United",
     "logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
@@ -526,6 +491,41 @@
     "status": "next",
     "event_url": "https://footystream.pk/events/barnsley-vs-leicester-city",
     "servers": []
+  },
+  {
+    "title": "Tottenham Hotspur Aston Villa",
+    "category": "Tottenham Hotspur",
+    "logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+    "start_iso": "2026-09-19T11:30:00.000Z",
+    "end_iso": "2026-09-19T13:45:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "13:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/tottenham-hotspur-vs-aston-villa",
+    "servers": []
+  },
+  {
+    "title": "Charlton Athletic London City Lionesses",
+    "category": "Charlton Athletic",
+    "logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
+    "start_iso": "2026-09-19T11:30:00.000Z",
+    "end_iso": "2026-09-19T13:45:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "13:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/charlton-athletic-vs-london-lionesses",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/charlton-athletic-vs-london-lionesses/2047",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Chelsea Birmingham City",
@@ -694,18 +694,6 @@
     ]
   },
   {
-    "title": "Nottingham Forest Coventry City",
-    "category": "Nottingham Forest",
-    "logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
-    "start_iso": "2026-09-19T16:30:00.000Z",
-    "end_iso": "2026-09-19T18:45:00.000Z",
-    "date": "Saturday, 19 September 2026",
-    "time": "18:30",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/nottm-forest-vs-coventry-city",
-    "servers": []
-  },
-  {
     "title": "Celta de Vigo Racing Santander",
     "category": "Celta de Vigo",
     "logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
@@ -715,6 +703,18 @@
     "time": "18:30",
     "status": "next",
     "event_url": "https://footystream.pk/events/celta-vigo-vs-racing",
+    "servers": []
+  },
+  {
+    "title": "Nottingham Forest Coventry City",
+    "category": "Nottingham Forest",
+    "logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+    "start_iso": "2026-09-19T16:30:00.000Z",
+    "end_iso": "2026-09-19T18:45:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/nottm-forest-vs-coventry-city",
     "servers": []
   },
   {

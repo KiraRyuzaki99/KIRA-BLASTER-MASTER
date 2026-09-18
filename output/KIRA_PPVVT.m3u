@@ -1,20 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Basketball – WNBA",Oggi 00:00 - Washington Mystics vs. Chicago Sky [CW26]
-https://august.ppvtv.icu/embed.html?match=f1ef1fhc&server=0
-
-#EXTINF:-1 group-title="Basketball – WNBA",Oggi 00:00 - Los Angeles Sparks vs. Dallas Wings [USA Net]
-https://august.ppvtv.icu/embed.html?match=f1932bjv&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 00:05 - Boston Red Sox vs. Texas Rangers [Rangers Sports Network]
-https://august.ppvtv.icu/embed.html?match=f1we9vlj&server=0
-
 #EXTINF:-1 group-title="American Football – NFL",Oggi 00:15 - Detroit Lions at Buffalo Bills [Prime Video]
 https://august.ppvtv.icu/embed.html?match=cgx8cfk&server=0
-
-#EXTINF:-1 group-title="Wrestling – Wrestling",Oggi 01:00 - TNA Impact [AMC]
-https://august.ppvtv.icu/embed.html?match=c1se54xr&server=0
 
 #EXTINF:-1 group-title="Baseball – MLB",Oggi 01:38 - Minnesota Twins vs. Los Angeles Angels [Angels.TV]
 https://august.ppvtv.icu/embed.html?match=fv5rpsq&server=0
@@ -25,11 +13,17 @@ https://august.ppvtv.icu/embed.html?match=f1mnqh4l&server=0
 #EXTINF:-1 group-title="Basketball – WNBA",Oggi 02:00 - Las Vegas Aces vs. Seattle Storm [USA Net]
 https://august.ppvtv.icu/embed.html?match=f1pnm7ie&server=0
 
+#EXTINF:-1 group-title="Motorsports – MotoGP",Oggi 07:00 - Austria - Practice 1 [TNT Sports 2]
+https://august.ppvtv.icu/embed.html?match=cadw68l&server=0
+
 #EXTINF:-1 group-title="Australian Football – AFL",Oggi 09:40 - Sydney Swans vs. Fremantle [AFL]
 https://august.ppvtv.icu/embed.html?match=f1nzen3q&server=0
 
 #EXTINF:-1 group-title="Darts – Darts",Oggi 11:00 - World Series of Darts Finals - Day 2 Afternoon [PDC.TV]
 https://august.ppvtv.icu/embed.html?match=c1y0ye4p&server=0
+
+#EXTINF:-1 group-title="Motorsports – MotoGP",Oggi 11:15 - Austria - Practice [TNT Sports 2]
+https://august.ppvtv.icu/embed.html?match=c1abqemi&server=0
 
 #EXTINF:-1 group-title="Darts – Darts",Oggi 17:00 - World Series of Darts Finals - Day 2 Evening [PDC.TV]
 https://august.ppvtv.icu/embed.html?match=c13rgbd5&server=0
@@ -160,8 +154,17 @@ https://august.ppvtv.icu/embed.html?match=c1dc895w&server=0
 #EXTINF:-1 group-title="Rugby – Rugby League (NRL)",Domani 06:05 - Warriors vs. Knights [Fox League]
 https://august.ppvtv.icu/embed.html?match=f18j0jpn&server=0
 
+#EXTINF:-1 group-title="Motorsports – MotoGP",Domani 06:30 - Austria - Practice 2 [TNT Sports 2]
+https://august.ppvtv.icu/embed.html?match=c1p3gwb8&server=0
+
 #EXTINF:-1 group-title="Australian Football – AFL",Domani 07:15 - Hawthorn vs. Brisbane Lions [AFL]
 https://august.ppvtv.icu/embed.html?match=fpdf97i&server=0
+
+#EXTINF:-1 group-title="Motorsports – MotoGP",Domani 08:00 - Austria - Qualifying [TNT Sports 2]
+https://august.ppvtv.icu/embed.html?match=ckzvjuy&server=0
+
+#EXTINF:-1 group-title="Motorsports – MotoGP",Domani 08:00 - Austria - Race [TNT Sports 2]
+https://august.ppvtv.icu/embed.html?match=c1rke02q&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 08:00 - 24/7 Family Guy [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c418ukt&server=0
@@ -309,6 +312,9 @@ https://august.ppvtv.icu/embed.html?match=f1hms2hn&server=0
 
 #EXTINF:-1 group-title="Football – Eredivisie",Domani 12:30 - FC Twente vs. PSV Eindhoven [ESPN]
 https://august.ppvtv.icu/embed.html?match=f1vvj553&server=0
+
+#EXTINF:-1 group-title="Motorsports – MotoGP",Domani 12:45 - Austria - Sprint [TNT Sports 2]
+https://august.ppvtv.icu/embed.html?match=cw0dgnf&server=0
 
 #EXTINF:-1 group-title="Football – Serie A",Domani 13:00 - Bologna vs. Torino [Serie A]
 https://august.ppvtv.icu/embed.html?match=f7463in&server=0
@@ -538,15 +544,6 @@ https://august.ppvtv.icu/embed.html?match=f1tbe87s&server=0
 #EXTINF:-1 group-title="Football – MLS",Domani 23:00 - Inter Miami CF vs. San Diego FC [Apple TV]
 https://august.ppvtv.icu/embed.html?match=fx67wii&server=0
 
-#EXTINF:-1 group-title="Baseball – MLB",Passato 23:15 - Philadelphia Phillies vs. New York Mets [MLB.TV]
-https://august.ppvtv.icu/embed.html?match=fsd6n49&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Passato 23:15 - Kansas City Royals vs. Houston Astros [MLB.TV]
-https://august.ppvtv.icu/embed.html?match=fn1nvum&server=0
-
-#EXTINF:-1 group-title="Basketball – WNBA",Passato 23:30 - Connecticut Sun vs. Atlanta Dream [Atlanta News First]
-https://august.ppvtv.icu/embed.html?match=fvucrve&server=0
-
 #EXTINF:-1 group-title="Football – MLS",Domani 23:30 - CF Montréal vs. Columbus Crew [Apple TV]
 https://august.ppvtv.icu/embed.html?match=f1bjrfpf&server=0
 
@@ -558,6 +555,3 @@ https://august.ppvtv.icu/embed.html?match=f1kww847&server=0
 
 #EXTINF:-1 group-title="Football – MLS",Domani 23:30 - San Jose Earthquakes vs. LAFC [Apple TV]
 https://august.ppvtv.icu/embed.html?match=f3y3l5o&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Passato 23:40 - Detroit Tigers vs. Chicago White Sox [CHSN]
-https://august.ppvtv.icu/embed.html?match=fzxw10i&server=0

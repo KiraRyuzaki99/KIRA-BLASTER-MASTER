@@ -46,39 +46,6 @@
     ]
   },
   {
-    "title": "Buffalo Bills Detroit Lions",
-    "category": "Buffalo Bills",
-    "logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
-    "start_iso": "2026-09-18T00:15:00.000Z",
-    "end_iso": "2026-09-18T03:25:00.000Z",
-    "date": "Friday, 18 September 2026",
-    "time": "02:15",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/buffalo-bills-vs-lions",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/buffalo-bills-vs-lions/1998",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/buffalo-bills-vs-lions/1999",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "MotoGP Austria Grand Prix MotoGP",
     "category": "MotoGP Austria Grand Prix",
     "logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",

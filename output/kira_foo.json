@@ -92,52 +92,6 @@
     ]
   },
   {
-    "title": "Canada USA",
-    "category": "Canada",
-    "logo": "https://cdn.img4every1.org/team/canada/logo.webp",
-    "start_iso": "2026-09-19T07:00:00.000Z",
-    "end_iso": "2026-09-19T09:15:00.000Z",
-    "date": "Saturday, 19 September 2026",
-    "time": "09:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/canada-vs-usa",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/canada-vs-usa/2042",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Hawthorn Hawks Brisbane Lions",
-    "category": "Hawthorn Hawks",
-    "logo": "https://cdn.img4every1.org/team/hawthorn-hawks/logo.webp",
-    "start_iso": "2026-09-19T07:00:00.000Z",
-    "end_iso": "2026-09-19T10:10:00.000Z",
-    "date": "Saturday, 19 September 2026",
-    "time": "09:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/hawthorn-vs-brisbane-lions",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/hawthorn-vs-brisbane-lions/2041",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Sydney Roosters Cronulla Sharks",
     "category": "Sydney Roosters",
     "logo": "https://cdn.img4every1.org/team/sydney-roosters/logo.webp",
@@ -145,7 +99,7 @@
     "end_iso": "2026-09-19T12:00:00.000Z",
     "date": "Saturday, 19 September 2026",
     "time": "11:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/sydney-roosters-vs-sharks",
     "servers": [
       {
@@ -168,7 +122,7 @@
     "end_iso": "2026-09-19T12:15:00.000Z",
     "date": "Saturday, 19 September 2026",
     "time": "12:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/fiji-vs-japan",
     "servers": [
       {
@@ -249,7 +203,18 @@
     "time": "13:30",
     "status": "next",
     "event_url": "https://footystream.pk/events/barnsley-vs-leicester-city",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/barnsley-vs-leicester-city/2063",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Tottenham Hotspur Aston Villa",
@@ -261,7 +226,48 @@
     "time": "13:30",
     "status": "next",
     "event_url": "https://footystream.pk/events/tottenham-hotspur-vs-aston-villa",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/tottenham-hotspur-vs-aston-villa/2056",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/tottenham-hotspur-vs-aston-villa/2057",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/tottenham-hotspur-vs-aston-villa/2058",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://footystream.pk/alpha/tottenham-hotspur-vs-aston-villa/2059",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
   },
   {
     "title": "Charlton Athletic London City Lionesses",
@@ -319,7 +325,38 @@
     "time": "14:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/osasuna-vs-rayo-vallecano",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/osasuna-vs-rayo-vallecano/2070",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/osasuna-vs-rayo-vallecano/2071",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://footystream.pk/alpha/osasuna-vs-rayo-vallecano/2072",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
   },
   {
     "title": "Bologna Torino",
@@ -367,7 +404,28 @@
     "time": "16:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/hull-city-vs-newcastle-united",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/hull-city-vs-newcastle-united/2068",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/hull-city-vs-newcastle-united/2069",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Ipswich Town Everton",
@@ -379,7 +437,28 @@
     "time": "16:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/ipswich-town-vs-everton",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/ipswich-town-vs-everton/2066",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/ipswich-town-vs-everton/2067",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Arsenal Brighton & Hove Albion",
@@ -391,7 +470,48 @@
     "time": "16:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/arsenal-vs-brighton",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/arsenal-vs-brighton/2060",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/arsenal-vs-brighton/2061",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/arsenal-vs-brighton/2062",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://footystream.pk/alpha/arsenal-vs-brighton/2065",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
   },
   {
     "title": "Deportivo Alavés Athletic Club",
@@ -797,18 +917,6 @@
     "servers": []
   },
   {
-    "title": "AC Milan Lecce",
-    "category": "AC Milan",
-    "logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-    "start_iso": "2026-09-20T18:45:00.000Z",
-    "end_iso": "2026-09-20T21:00:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/milan-vs-lecce",
-    "servers": []
-  },
-  {
     "title": "PSG Olympique Marseille",
     "category": "PSG",
     "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
@@ -818,6 +926,18 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://footystream.pk/events/psg-vs-marseille",
+    "servers": []
+  },
+  {
+    "title": "AC Milan Lecce",
+    "category": "AC Milan",
+    "logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+    "start_iso": "2026-09-20T18:45:00.000Z",
+    "end_iso": "2026-09-20T21:00:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/milan-vs-lecce",
     "servers": []
   },
   {

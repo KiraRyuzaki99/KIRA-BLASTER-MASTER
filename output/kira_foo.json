@@ -184,6 +184,29 @@
     ]
   },
   {
+    "title": "World Series of Darts Finals Darts",
+    "category": "World Series of Darts Finals",
+    "logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
+    "start_iso": "2026-09-19T11:00:00.000Z",
+    "end_iso": "2026-09-20T21:00:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "13:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/world-series-of-darts-finals",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/world-series-of-darts-finals/2052",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
     "title": "West Ham United Millwall FC",
     "category": "West Ham United",
     "logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
@@ -454,6 +477,29 @@
     ]
   },
   {
+    "title": "Warrington Wolves Hull KR",
+    "category": "Warrington Wolves",
+    "logo": "https://cdn.img4every1.org/team/warrington-wolves/logo.webp",
+    "start_iso": "2026-09-19T16:30:00.000Z",
+    "end_iso": "2026-09-19T18:45:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/warrington-wolves-vs-hull-kr",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/warrington-wolves-vs-hull-kr/2051",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
     "title": "Lazio Venezia",
     "category": "Lazio",
     "logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
@@ -475,6 +521,315 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/barcelona-vs-sevilla",
+    "servers": []
+  },
+  {
+    "title": "Joshua Van Alexandre Pantoja",
+    "category": "Joshua Van",
+    "logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+    "start_iso": "2026-09-19T23:00:00.000Z",
+    "end_iso": "2026-09-20T05:00:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "01:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/joshua-van-vs-alexandre-pantoja",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/joshua-van-vs-alexandre-pantoja/2053",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Newcastle Knights Warriors",
+    "category": "Newcastle Knights",
+    "logo": "https://cdn.img4every1.org/team/newcastle-knights/logo.webp",
+    "start_iso": "2026-09-20T06:00:00.000Z",
+    "end_iso": "2026-09-20T08:15:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "08:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/newcastle-knights-vs-warriors",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/newcastle-knights-vs-warriors/2055",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Napoli Fiorentina",
+    "category": "Napoli",
+    "logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+    "start_iso": "2026-09-20T10:30:00.000Z",
+    "end_iso": "2026-09-20T12:45:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "12:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/napoli-vs-fiorentina",
+    "servers": []
+  },
+  {
+    "title": "Wolverhampton Wanderers West Bromwich Albion",
+    "category": "Wolverhampton Wanderers",
+    "logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+    "start_iso": "2026-09-20T11:00:00.000Z",
+    "end_iso": "2026-09-20T13:15:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "13:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/wolves-vs-west-brom",
+    "servers": []
+  },
+  {
+    "title": "Getafe Málaga",
+    "category": "Getafe",
+    "logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+    "start_iso": "2026-09-20T12:00:00.000Z",
+    "end_iso": "2026-09-20T14:15:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "14:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/getafe-vs-malaga",
+    "servers": []
+  },
+  {
+    "title": "Manchester City Sunderland",
+    "category": "Manchester City",
+    "logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+    "start_iso": "2026-09-20T13:00:00.000Z",
+    "end_iso": "2026-09-20T15:15:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/manchester-city-vs-sunderland",
+    "servers": []
+  },
+  {
+    "title": "Como Frosinone Calcio",
+    "category": "Como",
+    "logo": "https://cdn.img4every1.org/team/como/logo.webp",
+    "start_iso": "2026-09-20T13:00:00.000Z",
+    "end_iso": "2026-09-20T15:15:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/como-vs-frosinone",
+    "servers": []
+  },
+  {
+    "title": "Auxerre Brest",
+    "category": "Auxerre",
+    "logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
+    "start_iso": "2026-09-20T13:00:00.000Z",
+    "end_iso": "2026-09-20T15:15:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/auxerre-vs-brest",
+    "servers": []
+  },
+  {
+    "title": "Genoa Parma",
+    "category": "Genoa",
+    "logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
+    "start_iso": "2026-09-20T13:00:00.000Z",
+    "end_iso": "2026-09-20T15:15:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/genoa-vs-parma",
+    "servers": []
+  },
+  {
+    "title": "Leeds United Crystal Palace",
+    "category": "Leeds United",
+    "logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
+    "start_iso": "2026-09-20T13:00:00.000Z",
+    "end_iso": "2026-09-20T15:15:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/leeds-united-vs-crystal-palace",
+    "servers": []
+  },
+  {
+    "title": "Liverpool AFC Bournemouth",
+    "category": "Liverpool",
+    "logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+    "start_iso": "2026-09-20T13:00:00.000Z",
+    "end_iso": "2026-09-20T15:15:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/liverpool-vs-bournemouth",
+    "servers": []
+  },
+  {
+    "title": "Bayer Leverkusen RB Leipzig",
+    "category": "Bayer Leverkusen",
+    "logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
+    "start_iso": "2026-09-20T13:30:00.000Z",
+    "end_iso": "2026-09-20T15:45:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "15:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/bayer-leverkusen-vs-rb-leipzig",
+    "servers": []
+  },
+  {
+    "title": "Real Madrid Atlético Madrid",
+    "category": "Real Madrid",
+    "logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+    "start_iso": "2026-09-20T14:15:00.000Z",
+    "end_iso": "2026-09-20T16:30:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "16:15",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/real-madrid-vs-atletico",
+    "servers": []
+  },
+  {
+    "title": "Nice Lille",
+    "category": "Nice",
+    "logo": "https://cdn.img4every1.org/team/nice/logo.webp",
+    "start_iso": "2026-09-20T15:15:00.000Z",
+    "end_iso": "2026-09-20T17:30:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "17:15",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/nice-vs-lille",
+    "servers": []
+  },
+  {
+    "title": "Schalke 04 Elversberg",
+    "category": "Schalke 04",
+    "logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
+    "start_iso": "2026-09-20T15:30:00.000Z",
+    "end_iso": "2026-09-20T17:45:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "17:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/schalke-04-vs-elversberg",
+    "servers": []
+  },
+  {
+    "title": "Fulham Manchester United",
+    "category": "Fulham",
+    "logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
+    "start_iso": "2026-09-20T15:30:00.000Z",
+    "end_iso": "2026-09-20T17:45:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "17:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/fulham-vs-manchester-united",
+    "servers": []
+  },
+  {
+    "title": "Juventus Atalanta",
+    "category": "Juventus",
+    "logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+    "start_iso": "2026-09-20T16:00:00.000Z",
+    "end_iso": "2026-09-20T18:15:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/juventus-vs-atalanta",
+    "servers": []
+  },
+  {
+    "title": "Deportivo La Coruña Real Betis",
+    "category": "Deportivo La Coruña",
+    "logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+    "start_iso": "2026-09-20T16:30:00.000Z",
+    "end_iso": "2026-09-20T18:45:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/deportivo-la-coruna-vs-real-betis",
+    "servers": []
+  },
+  {
+    "title": "Levante Villarreal",
+    "category": "Levante",
+    "logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+    "start_iso": "2026-09-20T16:30:00.000Z",
+    "end_iso": "2026-09-20T18:45:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/levante-vs-villarreal",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/levante-vs-villarreal/2054",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Paderborn Hoffenheim",
+    "category": "Paderborn",
+    "logo": "https://cdn.img4every1.org/team/paderborn/logo.webp",
+    "start_iso": "2026-09-20T17:30:00.000Z",
+    "end_iso": "2026-09-20T19:45:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "19:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/paderborn-vs-hoffenheim",
+    "servers": []
+  },
+  {
+    "title": "AC Milan Lecce",
+    "category": "AC Milan",
+    "logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+    "start_iso": "2026-09-20T18:45:00.000Z",
+    "end_iso": "2026-09-20T21:00:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/milan-vs-lecce",
+    "servers": []
+  },
+  {
+    "title": "PSG Olympique Marseille",
+    "category": "PSG",
+    "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+    "start_iso": "2026-09-20T18:45:00.000Z",
+    "end_iso": "2026-09-20T21:00:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/psg-vs-marseille",
+    "servers": []
+  },
+  {
+    "title": "Real Sociedad Valencia",
+    "category": "Real Sociedad",
+    "logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+    "start_iso": "2026-09-20T19:00:00.000Z",
+    "end_iso": "2026-09-20T21:15:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/real-sociedad-vs-valencia",
     "servers": []
   }
 ]

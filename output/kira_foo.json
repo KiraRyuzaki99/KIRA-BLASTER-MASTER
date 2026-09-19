@@ -115,214 +115,6 @@
     ]
   },
   {
-    "title": "Hull City Newcastle United",
-    "category": "Hull City",
-    "logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
-    "start_iso": "2026-09-19T14:00:00.000Z",
-    "end_iso": "2026-09-19T16:15:00.000Z",
-    "date": "Saturday, 19 September 2026",
-    "time": "16:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/hull-city-vs-newcastle-united",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/hull-city-vs-newcastle-united/2068",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/hull-city-vs-newcastle-united/2069",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Birmingham City Middlesbrough",
-    "category": "Birmingham City",
-    "logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
-    "start_iso": "2026-09-19T14:00:00.000Z",
-    "end_iso": "2026-09-19T16:15:00.000Z",
-    "date": "Saturday, 19 September 2026",
-    "time": "16:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/birmingham-city-vs-middlesbrough",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/birmingham-city-vs-middlesbrough/2092",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Ipswich Town Everton",
-    "category": "Ipswich Town",
-    "logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
-    "start_iso": "2026-09-19T14:00:00.000Z",
-    "end_iso": "2026-09-19T16:15:00.000Z",
-    "date": "Saturday, 19 September 2026",
-    "time": "16:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/ipswich-town-vs-everton",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/ipswich-town-vs-everton/2066",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/ipswich-town-vs-everton/2067",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Arsenal Brighton & Hove Albion",
-    "category": "Arsenal",
-    "logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-    "start_iso": "2026-09-19T14:00:00.000Z",
-    "end_iso": "2026-09-19T16:15:00.000Z",
-    "date": "Saturday, 19 September 2026",
-    "time": "16:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/arsenal-vs-brighton",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/arsenal-vs-brighton/2060",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/arsenal-vs-brighton/2061",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/arsenal-vs-brighton/2062",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/arsenal-vs-brighton/2065",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Deportivo Alavés Athletic Club",
-    "category": "Deportivo Alavés",
-    "logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-    "start_iso": "2026-09-19T14:15:00.000Z",
-    "end_iso": "2026-09-19T16:30:00.000Z",
-    "date": "Saturday, 19 September 2026",
-    "time": "16:15",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/alaves-vs-athletic-club",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/alaves-vs-athletic-club/2073",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/alaves-vs-athletic-club/2074",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Paris FC Strasbourg",
-    "category": "Paris FC",
-    "logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
-    "start_iso": "2026-09-19T15:15:00.000Z",
-    "end_iso": "2026-09-19T17:30:00.000Z",
-    "date": "Saturday, 19 September 2026",
-    "time": "17:15",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/paris-vs-strasbourg",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/paris-vs-strasbourg/2094",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://footystream.pk/alpha/paris-vs-strasbourg/2095",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      }
-    ]
-  },
-  {
     "title": "Inter Milan AS Roma",
     "category": "Inter Milan",
     "logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
@@ -353,7 +145,7 @@
     "end_iso": "2026-09-19T18:45:00.000Z",
     "date": "Saturday, 19 September 2026",
     "time": "18:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/nottm-forest-vs-coventry-city",
     "servers": [
       {
@@ -406,7 +198,7 @@
     "end_iso": "2026-09-19T18:45:00.000Z",
     "date": "Saturday, 19 September 2026",
     "time": "18:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/celta-vigo-vs-racing",
     "servers": [
       {
@@ -449,7 +241,7 @@
     "end_iso": "2026-09-19T18:45:00.000Z",
     "date": "Saturday, 19 September 2026",
     "time": "18:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/man-united-vs-arsenal",
     "servers": [
       {
@@ -482,12 +274,22 @@
     "end_iso": "2026-09-19T18:45:00.000Z",
     "date": "Saturday, 19 September 2026",
     "time": "18:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/borussia-dortmund-vs-stuttgart",
     "servers": [
       {
         "label": "English",
         "url": "https://footystream.pk/alpha/borussia-dortmund-vs-stuttgart/2049",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/borussia-dortmund-vs-stuttgart/2098",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -505,7 +307,7 @@
     "end_iso": "2026-09-19T18:45:00.000Z",
     "date": "Saturday, 19 September 2026",
     "time": "18:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/warrington-wolves-vs-hull-kr",
     "servers": [
       {
@@ -626,6 +428,16 @@
           "ads": "2",
           "language": "Spanish"
         }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/barcelona-vs-sevilla/2099",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
       }
     ]
   },
@@ -712,42 +524,6 @@
     "servers": []
   },
   {
-    "title": "Manchester City Sunderland",
-    "category": "Manchester City",
-    "logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-    "start_iso": "2026-09-20T13:00:00.000Z",
-    "end_iso": "2026-09-20T15:15:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "15:00",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/manchester-city-vs-sunderland",
-    "servers": []
-  },
-  {
-    "title": "Leeds United Crystal Palace",
-    "category": "Leeds United",
-    "logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
-    "start_iso": "2026-09-20T13:00:00.000Z",
-    "end_iso": "2026-09-20T15:15:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "15:00",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/leeds-united-vs-crystal-palace",
-    "servers": []
-  },
-  {
-    "title": "Liverpool AFC Bournemouth",
-    "category": "Liverpool",
-    "logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-    "start_iso": "2026-09-20T13:00:00.000Z",
-    "end_iso": "2026-09-20T15:15:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "15:00",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/liverpool-vs-bournemouth",
-    "servers": []
-  },
-  {
     "title": "Como Frosinone Calcio",
     "category": "Como",
     "logo": "https://cdn.img4every1.org/team/como/logo.webp",
@@ -781,6 +557,42 @@
     "time": "15:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/auxerre-vs-brest",
+    "servers": []
+  },
+  {
+    "title": "Manchester City Sunderland",
+    "category": "Manchester City",
+    "logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+    "start_iso": "2026-09-20T13:00:00.000Z",
+    "end_iso": "2026-09-20T15:15:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/manchester-city-vs-sunderland",
+    "servers": []
+  },
+  {
+    "title": "Leeds United Crystal Palace",
+    "category": "Leeds United",
+    "logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
+    "start_iso": "2026-09-20T13:00:00.000Z",
+    "end_iso": "2026-09-20T15:15:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/leeds-united-vs-crystal-palace",
+    "servers": []
+  },
+  {
+    "title": "Liverpool AFC Bournemouth",
+    "category": "Liverpool",
+    "logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+    "start_iso": "2026-09-20T13:00:00.000Z",
+    "end_iso": "2026-09-20T15:15:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/liverpool-vs-bournemouth",
     "servers": []
   },
   {

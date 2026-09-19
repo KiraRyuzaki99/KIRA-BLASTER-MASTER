@@ -115,130 +115,6 @@
     ]
   },
   {
-    "title": "Osasuna Rayo Vallecano",
-    "category": "Osasuna",
-    "logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-    "start_iso": "2026-09-19T12:00:00.000Z",
-    "end_iso": "2026-09-19T14:15:00.000Z",
-    "date": "Saturday, 19 September 2026",
-    "time": "14:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/osasuna-vs-rayo-vallecano",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/osasuna-vs-rayo-vallecano/2070",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/osasuna-vs-rayo-vallecano/2071",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/osasuna-vs-rayo-vallecano/2072",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Mamelodi Sundowns Al Ahli",
-    "category": "Mamelodi Sundowns",
-    "logo": "https://cdn.img4every1.org/team/mamelodi-sundowns/logo.webp",
-    "start_iso": "2026-09-19T13:00:00.000Z",
-    "end_iso": "2026-09-19T15:15:00.000Z",
-    "date": "Saturday, 19 September 2026",
-    "time": "15:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/mamelodi-sundowns-vs-al-ahli",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/mamelodi-sundowns-vs-al-ahli/2091",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "SD",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Bologna Torino",
-    "category": "Bologna",
-    "logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-    "start_iso": "2026-09-19T13:00:00.000Z",
-    "end_iso": "2026-09-19T15:15:00.000Z",
-    "date": "Saturday, 19 September 2026",
-    "time": "15:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/bologna-vs-torino",
-    "servers": [
-      {
-        "label": "Portuguese",
-        "url": "https://footystream.pk/alpha/bologna-vs-torino/2085",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Cagliari Udinese",
-    "category": "Cagliari",
-    "logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-    "start_iso": "2026-09-19T13:00:00.000Z",
-    "end_iso": "2026-09-19T15:15:00.000Z",
-    "date": "Saturday, 19 September 2026",
-    "time": "15:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/cagliari-vs-udinese",
-    "servers": []
-  },
-  {
-    "title": "Eintracht Frankfurt Freiburg",
-    "category": "Eintracht Frankfurt",
-    "logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
-    "start_iso": "2026-09-19T13:30:00.000Z",
-    "end_iso": "2026-09-19T15:45:00.000Z",
-    "date": "Saturday, 19 September 2026",
-    "time": "15:30",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/eintracht-frankfurt-vs-freiburg",
-    "servers": [
-      {
-        "label": "Portuguese",
-        "url": "https://footystream.pk/alpha/eintracht-frankfurt-vs-freiburg/2093",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
-        }
-      }
-    ]
-  },
-  {
     "title": "Hull City Newcastle United",
     "category": "Hull City",
     "logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
@@ -388,7 +264,7 @@
     "end_iso": "2026-09-19T16:30:00.000Z",
     "date": "Saturday, 19 September 2026",
     "time": "16:15",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/alaves-vs-athletic-club",
     "servers": [
       {
@@ -421,7 +297,7 @@
     "end_iso": "2026-09-19T17:30:00.000Z",
     "date": "Saturday, 19 September 2026",
     "time": "17:15",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/paris-vs-strasbourg",
     "servers": [
       {
@@ -454,7 +330,7 @@
     "end_iso": "2026-09-19T18:15:00.000Z",
     "date": "Saturday, 19 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/inter-milan-vs-roma",
     "servers": [
       {
@@ -465,49 +341,6 @@
           "quality": "SD",
           "ads": "2",
           "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Celta de Vigo Racing Santander",
-    "category": "Celta de Vigo",
-    "logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-    "start_iso": "2026-09-19T16:30:00.000Z",
-    "end_iso": "2026-09-19T18:45:00.000Z",
-    "date": "Saturday, 19 September 2026",
-    "time": "18:30",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/celta-vigo-vs-racing",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/celta-vigo-vs-racing/2075",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/celta-vigo-vs-racing/2076",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/celta-vigo-vs-racing/2077",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
         }
       }
     ]
@@ -561,6 +394,49 @@
           "quality": "720p",
           "ads": "2",
           "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Celta de Vigo Racing Santander",
+    "category": "Celta de Vigo",
+    "logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+    "start_iso": "2026-09-19T16:30:00.000Z",
+    "end_iso": "2026-09-19T18:45:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/celta-vigo-vs-racing",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/celta-vigo-vs-racing/2075",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/celta-vigo-vs-racing/2076",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://footystream.pk/alpha/celta-vigo-vs-racing/2077",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
         }
       }
     ]
@@ -645,39 +521,6 @@
     ]
   },
   {
-    "title": "Rennes Olympique Lyonnais",
-    "category": "Rennes",
-    "logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
-    "start_iso": "2026-09-19T18:45:00.000Z",
-    "end_iso": "2026-09-19T21:00:00.000Z",
-    "date": "Saturday, 19 September 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/rennes-vs-lyon",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/rennes-vs-lyon/2096",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://footystream.pk/alpha/rennes-vs-lyon/2097",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      }
-    ]
-  },
-  {
     "title": "Lazio Venezia",
     "category": "Lazio",
     "logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
@@ -706,6 +549,39 @@
           "quality": "720p",
           "ads": "2",
           "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Rennes Olympique Lyonnais",
+    "category": "Rennes",
+    "logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
+    "start_iso": "2026-09-19T18:45:00.000Z",
+    "end_iso": "2026-09-19T21:00:00.000Z",
+    "date": "Saturday, 19 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/rennes-vs-lyon",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/rennes-vs-lyon/2096",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://footystream.pk/alpha/rennes-vs-lyon/2097",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
         }
       }
     ]
@@ -836,42 +712,6 @@
     "servers": []
   },
   {
-    "title": "Auxerre Brest",
-    "category": "Auxerre",
-    "logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
-    "start_iso": "2026-09-20T13:00:00.000Z",
-    "end_iso": "2026-09-20T15:15:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "15:00",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/auxerre-vs-brest",
-    "servers": []
-  },
-  {
-    "title": "Como Frosinone Calcio",
-    "category": "Como",
-    "logo": "https://cdn.img4every1.org/team/como/logo.webp",
-    "start_iso": "2026-09-20T13:00:00.000Z",
-    "end_iso": "2026-09-20T15:15:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "15:00",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/como-vs-frosinone",
-    "servers": []
-  },
-  {
-    "title": "Genoa Parma",
-    "category": "Genoa",
-    "logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-    "start_iso": "2026-09-20T13:00:00.000Z",
-    "end_iso": "2026-09-20T15:15:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "15:00",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/genoa-vs-parma",
-    "servers": []
-  },
-  {
     "title": "Manchester City Sunderland",
     "category": "Manchester City",
     "logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
@@ -905,6 +745,42 @@
     "time": "15:00",
     "status": "next",
     "event_url": "https://footystream.pk/events/liverpool-vs-bournemouth",
+    "servers": []
+  },
+  {
+    "title": "Como Frosinone Calcio",
+    "category": "Como",
+    "logo": "https://cdn.img4every1.org/team/como/logo.webp",
+    "start_iso": "2026-09-20T13:00:00.000Z",
+    "end_iso": "2026-09-20T15:15:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/como-vs-frosinone",
+    "servers": []
+  },
+  {
+    "title": "Genoa Parma",
+    "category": "Genoa",
+    "logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
+    "start_iso": "2026-09-20T13:00:00.000Z",
+    "end_iso": "2026-09-20T15:15:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/genoa-vs-parma",
+    "servers": []
+  },
+  {
+    "title": "Auxerre Brest",
+    "category": "Auxerre",
+    "logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
+    "start_iso": "2026-09-20T13:00:00.000Z",
+    "end_iso": "2026-09-20T15:15:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/auxerre-vs-brest",
     "servers": []
   },
   {
@@ -1027,18 +903,6 @@
     "servers": []
   },
   {
-    "title": "PSG Olympique Marseille",
-    "category": "PSG",
-    "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-    "start_iso": "2026-09-20T18:45:00.000Z",
-    "end_iso": "2026-09-20T21:00:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/psg-vs-marseille",
-    "servers": []
-  },
-  {
     "title": "AC Milan Lecce",
     "category": "AC Milan",
     "logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
@@ -1048,6 +912,18 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://footystream.pk/events/milan-vs-lecce",
+    "servers": []
+  },
+  {
+    "title": "PSG Olympique Marseille",
+    "category": "PSG",
+    "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+    "start_iso": "2026-09-20T18:45:00.000Z",
+    "end_iso": "2026-09-20T21:00:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/psg-vs-marseille",
     "servers": []
   },
   {

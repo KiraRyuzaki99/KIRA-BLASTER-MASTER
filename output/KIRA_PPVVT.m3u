@@ -1,36 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="American Football – College Football",Oggi 16:00 - Georgia Bulldogs at Arkansas Razorbacks [ABC]
-https://august.ppvtv.icu/embed.html?match=c12dh9i3&server=0
-
-#EXTINF:-1 group-title="American Football – College Football",Oggi 16:00 - Georgia Bulldogs at Arkansas Razorbacks [SkyCast]
-https://august.ppvtv.icu/embed.html?match=c12dh9i3&server=1
-
-#EXTINF:-1 group-title="American Football – College Football",Oggi 16:00 - Kent State Golden Flashes at Ohio State Buckeyes [FOX]
-https://august.ppvtv.icu/embed.html?match=c13hsjw6&server=0
-
-#EXTINF:-1 group-title="American Football – College Football",Oggi 16:00 - Buffalo Bulls at Penn State Nittany Lions [BTN]
-https://august.ppvtv.icu/embed.html?match=csjtlq4&server=0
-
-#EXTINF:-1 group-title="Football – Serie A",Oggi 16:00 - AS Roma vs. Inter Milan [Paramount+]
-https://august.ppvtv.icu/embed.html?match=f1yzrudm&server=0
-
-#EXTINF:-1 group-title="Football – LaLiga",Oggi 16:30 - Celta Vigo vs. Racing Santander [ESPN+]
-https://august.ppvtv.icu/embed.html?match=f19zv4ip&server=0
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 16:30 - VfB Stuttgart vs. Borussia Dortmund [Fandango]
-https://august.ppvtv.icu/embed.html?match=f1me5lng&server=0
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 16:30 - Nottingham Forest vs. Coventry City [Sky Sports Premier League]
-https://august.ppvtv.icu/embed.html?match=f1uzozun&server=0
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 16:45 - Sparta Rotterdam vs. Heerenveen [ESPN]
-https://august.ppvtv.icu/embed.html?match=fome3dc&server=0
-
-#EXTINF:-1 group-title="Basketball – WNBA",Oggi 17:00 - Phoenix Mercury vs. Dallas Wings [CBS]
-https://august.ppvtv.icu/embed.html?match=fxs8ekc&server=0
-
 #EXTINF:-1 group-title="Darts – Darts",Oggi 17:00 - World Series of Darts Finals | Day 3 - Evening Session [PDC.TV]
 https://august.ppvtv.icu/embed.html?match=c1xz6i2q&server=0
 
@@ -67,6 +37,9 @@ https://august.ppvtv.icu/embed.html?match=c1jhnean&server=0
 #EXTINF:-1 group-title="Football – LaLiga",Oggi 19:00 - Sevilla vs. Barcelona [ESPN+]
 https://august.ppvtv.icu/embed.html?match=f19hqnzi&server=0
 
+#EXTINF:-1 group-title="Football – LaLiga",Oggi 19:00 - Sevilla vs. Barcelona [ESPN Deportes]
+https://august.ppvtv.icu/embed.html?match=f19hqnzi&server=1
+
 #EXTINF:-1 group-title="Football – Eredivisie",Oggi 19:00 - Willem II vs. Fortuna Sittard [ESPN]
 https://august.ppvtv.icu/embed.html?match=f1oi05t2&server=0
 
@@ -93,6 +66,9 @@ https://august.ppvtv.icu/embed.html?match=c4oxgaj&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Oggi 19:30 - UTEP Miners at Michigan Wolverines [BTN]
 https://august.ppvtv.icu/embed.html?match=c1md32ut&server=0
+
+#EXTINF:-1 group-title="American Football – College Football",Oggi 19:30 - Duquesne Dukes at Washington State Cougars [USA]
+https://august.ppvtv.icu/embed.html?match=c17si2pk&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Oggi 20:00 - Western Kentucky Hilltoppers at Indiana Hoosiers [Peacock]
 https://august.ppvtv.icu/embed.html?match=c1f7d1vb&server=0

@@ -23,29 +23,6 @@
     ]
   },
   {
-    "title": "Goodwood Festival of Speed MotorSports",
-    "category": "Goodwood Festival of Speed",
-    "logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
-    "start_iso": "2026-09-18T07:30:00.000Z",
-    "end_iso": "2026-09-20T18:00:00.000Z",
-    "date": "Friday, 18 September 2026",
-    "time": "09:30",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/goodwood-festival-of-speed",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/goodwood-festival-of-speed/2000",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "World Series of Darts Finals Darts",
     "category": "World Series of Darts Finals",
     "logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
@@ -64,188 +41,6 @@
           "quality": "720p",
           "ads": "2",
           "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Real Madrid Atlético Madrid",
-    "category": "Real Madrid",
-    "logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-    "start_iso": "2026-09-20T14:15:00.000Z",
-    "end_iso": "2026-09-20T16:30:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "16:15",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/real-madrid-vs-atletico",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/real-madrid-vs-atletico/2110",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/real-madrid-vs-atletico/2111",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/real-madrid-vs-atletico/2112",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://footystream.pk/alpha/real-madrid-vs-atletico/2113",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/real-madrid-vs-atletico/2177",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Nice Lille",
-    "category": "Nice",
-    "logo": "https://cdn.img4every1.org/team/nice/logo.webp",
-    "start_iso": "2026-09-20T15:15:00.000Z",
-    "end_iso": "2026-09-20T17:30:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "17:15",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/nice-vs-lille",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/nice-vs-lille/2142",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://footystream.pk/alpha/nice-vs-lille/2143",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Schalke 04 Elversberg",
-    "category": "Schalke 04",
-    "logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
-    "start_iso": "2026-09-20T15:30:00.000Z",
-    "end_iso": "2026-09-20T17:45:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "17:30",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/schalke-04-vs-elversberg",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/schalke-04-vs-elversberg/2147",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Deutsch",
-        "url": "https://footystream.pk/alpha/schalke-04-vs-elversberg/2148",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Deutsch"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Fulham Manchester United",
-    "category": "Fulham",
-    "logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
-    "start_iso": "2026-09-20T15:30:00.000Z",
-    "end_iso": "2026-09-20T17:45:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "17:30",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/fulham-vs-manchester-united",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/fulham-vs-manchester-united/2149",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/fulham-vs-manchester-united/2150",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/fulham-vs-manchester-united/2151",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/fulham-vs-manchester-united/2152",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
         }
       }
     ]
@@ -311,7 +106,7 @@
     "end_iso": "2026-09-20T18:45:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "18:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/deportivo-la-coruna-vs-real-betis",
     "servers": [
       {
@@ -374,7 +169,7 @@
     "end_iso": "2026-09-20T18:45:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "18:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/levante-vs-villarreal",
     "servers": [
       {
@@ -407,7 +202,7 @@
     "end_iso": "2026-09-20T20:10:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/eagles-vs-titans",
     "servers": [
       {
@@ -430,7 +225,7 @@
     "end_iso": "2026-09-20T20:10:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/jets-vs-packers",
     "servers": [
       {
@@ -453,7 +248,7 @@
     "end_iso": "2026-09-20T20:10:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/texans-vs-bengals",
     "servers": [
       {
@@ -476,7 +271,7 @@
     "end_iso": "2026-09-20T20:10:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/chicago-bears-vs-minnesota-vikings",
     "servers": [
       {
@@ -499,7 +294,7 @@
     "end_iso": "2026-09-20T20:10:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/patriots-vs-steelers",
     "servers": [
       {
@@ -522,7 +317,7 @@
     "end_iso": "2026-09-20T20:10:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/falcons-vs-panthers",
     "servers": [
       {
@@ -545,7 +340,7 @@
     "end_iso": "2026-09-20T19:45:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "19:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/paderborn-vs-hoffenheim",
     "servers": [
       {

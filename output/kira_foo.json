@@ -115,29 +115,6 @@
     ]
   },
   {
-    "title": "Joshua Van Alexandre Pantoja",
-    "category": "Joshua Van",
-    "logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-    "start_iso": "2026-09-19T23:00:00.000Z",
-    "end_iso": "2026-09-20T05:00:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "01:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/joshua-van-vs-alexandre-pantoja",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/joshua-van-vs-alexandre-pantoja/2053",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Newcastle Knights Warriors",
     "category": "Newcastle Knights",
     "logo": "https://cdn.img4every1.org/team/newcastle-knights/logo.webp",
@@ -145,7 +122,7 @@
     "end_iso": "2026-09-20T08:15:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "08:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/newcastle-knights-vs-warriors",
     "servers": [
       {

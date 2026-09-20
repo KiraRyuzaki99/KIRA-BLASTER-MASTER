@@ -23,181 +23,6 @@
     ]
   },
   {
-    "title": "World Series of Darts Finals Darts",
-    "category": "World Series of Darts Finals",
-    "logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
-    "start_iso": "2026-09-19T11:00:00.000Z",
-    "end_iso": "2026-09-20T21:00:00.000Z",
-    "date": "Saturday, 19 September 2026",
-    "time": "13:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/world-series-of-darts-finals",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/world-series-of-darts-finals/2052",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "AC Milan Lecce",
-    "category": "AC Milan",
-    "logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-    "start_iso": "2026-09-20T18:45:00.000Z",
-    "end_iso": "2026-09-20T21:00:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "20:45",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/milan-vs-lecce",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/milan-vs-lecce/2156",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/milan-vs-lecce/2157",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "SD",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "PSG Olympique Marseille",
-    "category": "PSG",
-    "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-    "start_iso": "2026-09-20T18:45:00.000Z",
-    "end_iso": "2026-09-20T21:00:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "20:45",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/psg-vs-marseille",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/psg-vs-marseille/2171",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://footystream.pk/alpha/psg-vs-marseille/2172",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/psg-vs-marseille/2173",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Real Sociedad Valencia",
-    "category": "Real Sociedad",
-    "logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-    "start_iso": "2026-09-20T19:00:00.000Z",
-    "end_iso": "2026-09-20T21:15:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "21:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/real-sociedad-vs-valencia",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/real-sociedad-vs-valencia/2120",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/real-sociedad-vs-valencia/2121",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/real-sociedad-vs-valencia/2122",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://footystream.pk/alpha/real-sociedad-vs-valencia/2123",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Porto Benfica",
-    "category": "Porto",
-    "logo": "https://cdn.img4every1.org/team/porto/logo.webp",
-    "start_iso": "2026-09-20T19:30:00.000Z",
-    "end_iso": "2026-09-20T21:45:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "21:30",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/porto-vs-benfica",
-    "servers": [
-      {
-        "label": "Portuguese",
-        "url": "https://footystream.pk/alpha/porto-vs-benfica/2176",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
-        }
-      }
-    ]
-  },
-  {
     "title": "Denver Broncos Jacksonville Jaguars",
     "category": "Denver Broncos",
     "logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
@@ -251,7 +76,7 @@
     "end_iso": "2026-09-20T23:35:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "22:25",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/dolphins-vs-49ers-live-stream",
     "servers": [
       {
@@ -274,7 +99,7 @@
     "end_iso": "2026-09-20T23:35:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "22:25",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/dallas-cowboys-vs-commanders-live1",
     "servers": [
       {
@@ -297,7 +122,7 @@
     "end_iso": "2026-09-20T23:35:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "22:25",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/seattle-seahawks-vs-cardinals",
     "servers": [
       {

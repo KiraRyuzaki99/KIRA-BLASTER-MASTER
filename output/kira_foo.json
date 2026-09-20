@@ -1,28 +1,5 @@
 [
   {
-    "title": "BMW Championship PGA Tour",
-    "category": "BMW Championship",
-    "logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-    "start_iso": "2026-09-17T07:30:00.000Z",
-    "end_iso": "2026-09-20T15:00:00.000Z",
-    "date": "Thursday, 17 September 2026",
-    "time": "09:30",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/bmw-championship",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/bmw-championship/1996",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Biltmore Championship PGA Tour",
     "category": "Biltmore Championship",
     "logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -41,39 +18,6 @@
           "quality": "720p",
           "ads": "2",
           "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "MotoGP Austria Grand Prix MotoGP",
-    "category": "MotoGP Austria Grand Prix",
-    "logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-    "start_iso": "2026-09-18T07:00:00.000Z",
-    "end_iso": "2026-09-20T15:00:00.000Z",
-    "date": "Friday, 18 September 2026",
-    "time": "09:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/motogp-austria-grand-prix",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/motogp-austria-grand-prix/1806",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://footystream.pk/alpha/motogp-austria-grand-prix/2137",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
         }
       }
     ]
@@ -125,353 +69,6 @@
     ]
   },
   {
-    "title": "Getafe Málaga",
-    "category": "Getafe",
-    "logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-    "start_iso": "2026-09-20T12:00:00.000Z",
-    "end_iso": "2026-09-20T14:15:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "14:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/getafe-vs-malaga",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/getafe-vs-malaga/2106",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/getafe-vs-malaga/2107",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/getafe-vs-malaga/2108",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://footystream.pk/alpha/getafe-vs-malaga/2109",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Manchester City Sunderland",
-    "category": "Manchester City",
-    "logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-    "start_iso": "2026-09-20T13:00:00.000Z",
-    "end_iso": "2026-09-20T15:15:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "15:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/manchester-city-vs-sunderland",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/manchester-city-vs-sunderland/2129",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/manchester-city-vs-sunderland/2130",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/manchester-city-vs-sunderland/2131",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/manchester-city-vs-sunderland/2132",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Liverpool AFC Bournemouth",
-    "category": "Liverpool",
-    "logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-    "start_iso": "2026-09-20T13:00:00.000Z",
-    "end_iso": "2026-09-20T15:15:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "15:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/liverpool-vs-bournemouth",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/liverpool-vs-bournemouth/2124",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/liverpool-vs-bournemouth/2125",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/liverpool-vs-bournemouth/2126",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/liverpool-vs-bournemouth/2127",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Como Frosinone Calcio",
-    "category": "Como",
-    "logo": "https://cdn.img4every1.org/team/como/logo.webp",
-    "start_iso": "2026-09-20T13:00:00.000Z",
-    "end_iso": "2026-09-20T15:15:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "15:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/como-vs-frosinone",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/como-vs-frosinone/2105",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "SD",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Auxerre Brest",
-    "category": "Auxerre",
-    "logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
-    "start_iso": "2026-09-20T13:00:00.000Z",
-    "end_iso": "2026-09-20T15:15:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "15:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/auxerre-vs-brest",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/auxerre-vs-brest/2138",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://footystream.pk/alpha/auxerre-vs-brest/2139",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/auxerre-vs-brest/2140",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Leeds United Crystal Palace",
-    "category": "Leeds United",
-    "logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
-    "start_iso": "2026-09-20T13:00:00.000Z",
-    "end_iso": "2026-09-20T15:15:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "15:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/leeds-united-vs-crystal-palace",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/leeds-united-vs-crystal-palace/2134",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/leeds-united-vs-crystal-palace/2135",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/leeds-united-vs-crystal-palace/2136",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Crystal Palace Tottenham Hotspur",
-    "category": "Crystal Palace",
-    "logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-    "start_iso": "2026-09-20T13:00:00.000Z",
-    "end_iso": "2026-09-20T15:15:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "15:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/crystal-palace-vs-tottenham",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/crystal-palace-vs-tottenham/2169",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Genoa Parma",
-    "category": "Genoa",
-    "logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-    "start_iso": "2026-09-20T13:00:00.000Z",
-    "end_iso": "2026-09-20T15:15:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "15:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/genoa-vs-parma",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/genoa-vs-parma/2104",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Bayer Leverkusen RB Leipzig",
-    "category": "Bayer Leverkusen",
-    "logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-    "start_iso": "2026-09-20T13:30:00.000Z",
-    "end_iso": "2026-09-20T15:45:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "15:30",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/bayer-leverkusen-vs-rb-leipzig",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/bayer-leverkusen-vs-rb-leipzig/2141",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Deutsch",
-        "url": "https://footystream.pk/alpha/bayer-leverkusen-vs-rb-leipzig/2144",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Deutsch"
-        }
-      }
-    ]
-  },
-  {
     "title": "Real Madrid Atlético Madrid",
     "category": "Real Madrid",
     "logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
@@ -479,7 +76,7 @@
     "end_iso": "2026-09-20T16:30:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "16:15",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/real-madrid-vs-atletico",
     "servers": [
       {
@@ -521,6 +118,16 @@
           "ads": "2",
           "language": "Spanish"
         }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/real-madrid-vs-atletico/2177",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
       }
     ]
   },
@@ -532,7 +139,7 @@
     "end_iso": "2026-09-20T17:30:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "17:15",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/nice-vs-lille",
     "servers": [
       {
@@ -565,7 +172,7 @@
     "end_iso": "2026-09-20T17:45:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "17:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/schalke-04-vs-elversberg",
     "servers": [
       {
@@ -598,7 +205,7 @@
     "end_iso": "2026-09-20T17:45:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "17:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/fulham-vs-manchester-united",
     "servers": [
       {
@@ -651,7 +258,7 @@
     "end_iso": "2026-09-20T18:15:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/juventus-vs-atalanta",
     "servers": [
       {
@@ -964,6 +571,39 @@
     ]
   },
   {
+    "title": "AC Milan Lecce",
+    "category": "AC Milan",
+    "logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+    "start_iso": "2026-09-20T18:45:00.000Z",
+    "end_iso": "2026-09-20T21:00:00.000Z",
+    "date": "Sunday, 20 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/milan-vs-lecce",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/milan-vs-lecce/2156",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/milan-vs-lecce/2157",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "SD",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
     "title": "PSG Olympique Marseille",
     "category": "PSG",
     "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
@@ -1000,39 +640,6 @@
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "AC Milan Lecce",
-    "category": "AC Milan",
-    "logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-    "start_iso": "2026-09-20T18:45:00.000Z",
-    "end_iso": "2026-09-20T21:00:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://footystream.pk/events/milan-vs-lecce",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/milan-vs-lecce/2156",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/milan-vs-lecce/2157",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "SD",
           "ads": "2",
           "language": "English"
         }

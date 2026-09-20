@@ -46,326 +46,6 @@
     ]
   },
   {
-    "title": "Juventus Atalanta",
-    "category": "Juventus",
-    "logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-    "start_iso": "2026-09-20T16:00:00.000Z",
-    "end_iso": "2026-09-20T18:15:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "18:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/juventus-vs-atalanta",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/juventus-vs-atalanta/2153",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/juventus-vs-atalanta/2154",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "SD",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Italiano",
-        "url": "https://footystream.pk/alpha/juventus-vs-atalanta/2155",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Italiano"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/juventus-vs-atalanta/2170",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Deportivo La Coruña Real Betis",
-    "category": "Deportivo La Coruña",
-    "logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-    "start_iso": "2026-09-20T16:30:00.000Z",
-    "end_iso": "2026-09-20T18:45:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "18:30",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/deportivo-la-coruna-vs-real-betis",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/deportivo-la-coruna-vs-real-betis/2114",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/deportivo-la-coruna-vs-real-betis/2115",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/deportivo-la-coruna-vs-real-betis/2116",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://footystream.pk/alpha/deportivo-la-coruna-vs-real-betis/2117",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/deportivo-la-coruna-vs-real-betis/2118",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Levante Villarreal",
-    "category": "Levante",
-    "logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-    "start_iso": "2026-09-20T16:30:00.000Z",
-    "end_iso": "2026-09-20T18:45:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "18:30",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/levante-vs-villarreal",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/levante-vs-villarreal/2054",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://footystream.pk/alpha/levante-vs-villarreal/2119",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Philadelphia Eagles Tennessee Titans",
-    "category": "Philadelphia Eagles",
-    "logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
-    "start_iso": "2026-09-20T17:00:00.000Z",
-    "end_iso": "2026-09-20T20:10:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/eagles-vs-titans",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/eagles-vs-titans/2160",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "New York Jets Green Bay Packers",
-    "category": "New York Jets",
-    "logo": "https://cdn.img4every1.org/team/new-york-jets/logo.webp",
-    "start_iso": "2026-09-20T17:00:00.000Z",
-    "end_iso": "2026-09-20T20:10:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/jets-vs-packers",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/jets-vs-packers/2161",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Houston Texans Cincinnati Bengals",
-    "category": "Houston Texans",
-    "logo": "https://cdn.img4every1.org/team/houston-texans/logo.webp",
-    "start_iso": "2026-09-20T17:00:00.000Z",
-    "end_iso": "2026-09-20T20:10:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/texans-vs-bengals",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/texans-vs-bengals/2162",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Chicago Bears Minnesota Vikings",
-    "category": "Chicago Bears",
-    "logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
-    "start_iso": "2026-09-20T17:00:00.000Z",
-    "end_iso": "2026-09-20T20:10:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/chicago-bears-vs-minnesota-vikings",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/chicago-bears-vs-minnesota-vikings/2158",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "New England Patriots Pittsburgh Steelers",
-    "category": "New England Patriots",
-    "logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
-    "start_iso": "2026-09-20T17:00:00.000Z",
-    "end_iso": "2026-09-20T20:10:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/patriots-vs-steelers",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/patriots-vs-steelers/2159",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Atlanta Falcons Carolina Panthers",
-    "category": "Atlanta Falcons",
-    "logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
-    "start_iso": "2026-09-20T17:00:00.000Z",
-    "end_iso": "2026-09-20T20:10:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/falcons-vs-panthers",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/falcons-vs-panthers/2163",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Paderborn Hoffenheim",
-    "category": "Paderborn",
-    "logo": "https://cdn.img4every1.org/team/paderborn/logo.webp",
-    "start_iso": "2026-09-20T17:30:00.000Z",
-    "end_iso": "2026-09-20T19:45:00.000Z",
-    "date": "Sunday, 20 September 2026",
-    "time": "19:30",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/paderborn-vs-hoffenheim",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://footystream.pk/alpha/paderborn-vs-hoffenheim/2145",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Deutsch",
-        "url": "https://footystream.pk/alpha/paderborn-vs-hoffenheim/2146",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Deutsch"
-        }
-      }
-    ]
-  },
-  {
     "title": "AC Milan Lecce",
     "category": "AC Milan",
     "logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
@@ -373,7 +53,7 @@
     "end_iso": "2026-09-20T21:00:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/milan-vs-lecce",
     "servers": [
       {
@@ -406,7 +86,7 @@
     "end_iso": "2026-09-20T21:00:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/psg-vs-marseille",
     "servers": [
       {
@@ -449,7 +129,7 @@
     "end_iso": "2026-09-20T21:15:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/real-sociedad-vs-valencia",
     "servers": [
       {
@@ -502,7 +182,7 @@
     "end_iso": "2026-09-20T21:45:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "21:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/porto-vs-benfica",
     "servers": [
       {
@@ -525,7 +205,7 @@
     "end_iso": "2026-09-20T23:15:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "22:05",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/broncos-vs-jaguars",
     "servers": [
       {
@@ -548,7 +228,7 @@
     "end_iso": "2026-09-20T23:15:00.000Z",
     "date": "Sunday, 20 September 2026",
     "time": "22:05",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystream.pk/events/raiders-vs-chargers",
     "servers": [
       {

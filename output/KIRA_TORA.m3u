@@ -1,35 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Motor-sports",10:00 - Austria GP
-https://embed.st/embed/admin/ppv-austria-race/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Motor-sports",12:15 - Red Bull Ring — Race: Grand Prix of Austria
+https://embed.st/embed/hotel/red-bull-ring-race-grand-prix-of-austria-moto2-1789899300/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Motor-sports",10:00 - Austria GP
-https://embed.st/embed/admin/ppv-austria-race/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Motor-sports",12:15 - Red Bull Ring — Race: Grand Prix of Austria
+https://embed.st/embed/hotel/red-bull-ring-race-grand-prix-of-austria-moto2-1789899300/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Motor-sports",10:00 - Austria GP
-https://embed.st/embed/admin/ppv-austria-race/3#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Motor-sports",12:15 - Red Bull Ring — Race: Grand Prix of Austria
+https://embed.st/embed/hotel/red-bull-ring-race-grand-prix-of-austria-moto2-1789899300/3#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Motor-sports",10:00 - Austria GP
-https://embed.st/embed/admin/ppv-austria-race/4#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",09:00 - Sydney Kings vs Cairns Taipans
-https://embed.st/embed/admin/ppv-sydney-kings-vs-cairns-taipans/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",09:00 - Sydney Kings vs Cairns Taipans
-https://embed.st/embed/admin/ppv-sydney-kings-vs-cairns-taipans/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Motor-sports",11:00 - Red Bull Ring — Race: Grand Prix of Austria
-https://embed.st/embed/hotel/red-bull-ring-race-grand-prix-of-austria-moto3-1789894800/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Motor-sports",11:00 - Red Bull Ring — Race: Grand Prix of Austria
-https://embed.st/embed/hotel/red-bull-ring-race-grand-prix-of-austria-moto3-1789894800/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Motor-sports",11:00 - Red Bull Ring — Race: Grand Prix of Austria
-https://embed.st/embed/hotel/red-bull-ring-race-grand-prix-of-austria-moto3-1789894800/3#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Motor-sports",11:00 - Red Bull Ring — Race: Grand Prix of Austria
-https://embed.st/embed/hotel/red-bull-ring-race-grand-prix-of-austria-moto3-1789894800/4#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Motor-sports",12:15 - Red Bull Ring — Race: Grand Prix of Austria
+https://embed.st/embed/hotel/red-bull-ring-race-grand-prix-of-austria-moto2-1789899300/4#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",12:15 - Feyenoord vs Utrecht
 https://embed.st/embed/admin/ppv-feyenoord-rotterdam-vs-fc-utrecht/1#player=clappr&autoplay=true
@@ -44,13 +26,28 @@ https://embed.st/embed/admin/ppv-fiorentina-vs-napoli/1#player=clappr&autoplay=t
 https://embed.st/embed/admin/ppv-fiorentina-vs-napoli/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",12:30 - Fiorentina vs Napoli
+https://embed.st/embed/delta/live_serie-a_fiorentina-napoli-live-streaming-617512464/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",12:30 - Fiorentina vs Napoli
 https://embed.st/embed/hotel/fiorentina-vs-napoli-serie-a-1789900200/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",13:00 - Wolverhampton Wanderers vs West Bromwich Albion
 https://embed.st/embed/delta/live_championship_wolves-west-brom-live-streaming-617553504/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",13:00 - Celtic vs Rangers
+https://embed.st/embed/admin/ppv-celtic-vs-rangers/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",13:00 - Celtic vs Rangers
+https://embed.st/embed/admin/ppv-celtic-vs-rangers/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",13:00 - Celtic vs Rangers
 https://embed.st/embed/delta/live_premiership_celtic-rangers-live-streaming-617540976/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Darts",13:00 - World Series of Darts Finals Day 4
+https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-4-evening-session/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Darts",13:00 - World Series of Darts Finals Day 4
+https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-4-evening-session/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",14:00 - Getafe vs Málaga
 https://embed.st/embed/admin/ppv-getafe-vs-m-laga/1#player=clappr&autoplay=true
@@ -181,6 +178,12 @@ https://embed.st/embed/golf/1485/1#player=clappr&autoplay=true
 #EXTINF:-1 group-title="Football",16:15 - Atletico Madrid vs Real Madrid
 https://embed.st/embed/golf/1485/2#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Football",16:15 - Atletico Madrid vs Real Madrid
+https://embed.st/embed/golf/1485/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",16:15 - Atletico Madrid vs Real Madrid
+https://embed.st/embed/golf/1485/4#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Football",16:15 - Atlético Madrid vs Real Madrid
 https://embed.st/embed/admin/ppv-atl-tico-madrid-vs-real-madrid/1#player=clappr&autoplay=true
 
@@ -275,10 +278,13 @@ https://embed.st/embed/admin/ppv-nfl-red-zone/1#player=clappr&autoplay=true
 https://embed.st/embed/admin/ppv-nfl-red-zone/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="American-football",18:55 - NFL RedZone
-https://embed.st/embed/golf/-20260920/1#player=clappr&autoplay=true
+https://embed.st/embed/delta/live-event_nfl-redzone-live-stream/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="American-football",18:55 - NFL RedZone
-https://embed.st/embed/golf/-20260920/2#player=clappr&autoplay=true
+https://embed.st/embed/delta/live-event_nfl-redzone-live-stream/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="American-football",18:55 - NFL RedZone
+https://embed.st/embed/delta/live-event_nfl-redzone-live-stream/3#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Hockey",19:00 - New Jersey Devils vs New York Islanders
 https://embed.st/embed/admin/ppv-new-york-islanders-vs-new-jersey-devils/1#player=clappr&autoplay=true
@@ -291,12 +297,6 @@ https://embed.st/embed/golf/1490/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Hockey",19:00 - New Jersey Devils vs New York Islanders
 https://embed.st/embed/golf/1490/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Darts",19:00 - World Series of Darts Finals Day 4
-https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-4-afternoon-session/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Darts",19:00 - World Series of Darts Finals Day 4
-https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-4-afternoon-session/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Basketball",19:00 - Connecticut Sun vs Minnesota Lynx
 https://embed.st/embed/admin/ppv-minnesota-lynx-vs-connecticut-sun/1#player=clappr&autoplay=true
@@ -536,10 +536,10 @@ https://embed.st/embed/admin/ppv-san-jose-sharks-vs-anaheim-ducks/1#player=clapp
 https://embed.st/embed/admin/ppv-san-jose-sharks-vs-anaheim-ducks/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Hockey",22:00 - Anaheim Ducks vs San Jose Sharks
-https://embed.st/embed/golf/1491/1#player=clappr&autoplay=true
+https://embed.st/embed/golf/1599/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Hockey",22:00 - Anaheim Ducks vs San Jose Sharks
-https://embed.st/embed/golf/1491/2#player=clappr&autoplay=true
+https://embed.st/embed/golf/1599/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Basketball",22:00 - Indiana Fever vs Washington Mystics
 https://embed.st/embed/admin/ppv-washington-mystics-vs-indiana-fever/1#player=clappr&autoplay=true

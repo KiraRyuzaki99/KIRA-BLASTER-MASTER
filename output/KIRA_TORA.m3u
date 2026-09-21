@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",04:10 - Querétaro vs León
-https://sportora.ru/watch/quer-taro-vs-le-n-2487532
-
 #EXTINF:-1 group-title="Basketball",11:30 - Tasmania JackJumpers vs South East Melbourne Phoenix
 https://embed.st/embed/admin/ppv-tasmania-jack-jumpers-vs-south-east-melbourne-phoenix/1#player=clappr&autoplay=true
 
@@ -11,10 +8,22 @@ https://embed.st/embed/admin/ppv-tasmania-jack-jumpers-vs-south-east-melbourne-p
 https://embed.st/embed/admin/ppv-tasmania-jack-jumpers-vs-south-east-melbourne-phoenix/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:35 - Baltimore Orioles vs Toronto Blue Jays
+https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-baltimore-orioles/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:35 - Baltimore Orioles vs Toronto Blue Jays
+https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-baltimore-orioles/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:35 - Baltimore Orioles vs Toronto Blue Jays
 https://embed.st/embed/golf/1609/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:35 - Baltimore Orioles vs Toronto Blue Jays
 https://embed.st/embed/golf/1609/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Detroit Tigers vs Washington Nationals
+https://embed.st/embed/admin/ppv-washington-nationals-vs-detroit-tigers/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Detroit Tigers vs Washington Nationals
+https://embed.st/embed/admin/ppv-washington-nationals-vs-detroit-tigers/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Detroit Tigers vs Washington Nationals
 https://embed.st/embed/golf/1610/1#player=clappr&autoplay=true

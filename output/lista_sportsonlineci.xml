@@ -1,2 +1,72 @@
 <?xml version="1.0" ?>
-<playlist version="1"/>
+<playlist version="1">
+  <track>
+    <title>16:00 Oţelul x Corvinul Hunedoara</title>
+    <url>https://w6.sportsonliine.click/channels/hd/hd5.php</url>
+  </track>
+  <track>
+    <title>17:00 Werder Bremen W x Stuttgart W</title>
+    <url>https://w6.sportsonliine.click/channels/hd/hd4.php</url>
+  </track>
+  <track>
+    <title>17:30 Montana x Hebar 1918</title>
+    <url>https://w6.sportsonliine.click/channels/hd/hd11.php</url>
+  </track>
+  <track>
+    <title>18:00 HB Køge x Hobro</title>
+    <url>https://w6.sportsonliine.click/channels/hd/hd3.php</url>
+  </track>
+  <track>
+    <title>18:30 Aldosivi x Atlético Tucumán</title>
+    <url>https://w6.sportsonliine.click/channels/hd/hd10.php</url>
+  </track>
+  <track>
+    <title>19:00 Petrolul 52 x Csikszereda</title>
+    <url>https://w6.sportsonliine.click/channels/hd/hd5.php</url>
+  </track>
+  <track>
+    <title>19:30 Nuova Monterosi x Livorno</title>
+    <url>https://w6.sportsonliine.click/channels/hd/hd7.php</url>
+  </track>
+  <track>
+    <title>19:30 Spezia x Vis Pesaro</title>
+    <url>https://w6.sportsonliine.click/channels/hd/hd8.php</url>
+  </track>
+  <track>
+    <title>19:30 Pianese x Sambenedettese</title>
+    <url>https://w6.sportsonliine.click/channels/hd/hd9.php</url>
+  </track>
+  <track>
+    <title>19:30 Treviso x Desenzano Calvina</title>
+    <url>https://w6.sportsonliine.click/channels/hd/hd2.php</url>
+  </track>
+  <track>
+    <title>23:00 Barracas Central x Independiente Rivadavia</title>
+    <url>https://w6.sportsonliine.click/channels/hd/hd10.php</url>
+  </track>
+  <track>
+    <title>23:30 Criciúma x Operário PR</title>
+    <url>https://w6.sportsonliine.click/channels/bra/br2.php</url>
+  </track>
+  <track>
+    <title>01:15 Lanús x Estudiantes</title>
+    <url>https://w6.sportsonliine.click/channels/hd/hd11.php</url>
+  </track>
+  <track>
+    <title>01:30 Corinthians W x Bahia W</title>
+    <url>https://w6.sportsonliine.click/channels/bra/br1.php</url>
+  </track>
+  <additional>
+    <item>HD2 ITALIAN</item>
+    <item>HD3 DANISH</item>
+    <item>HD4 GERMAN</item>
+    <item>HD5 ROMANIAN</item>
+    <item>HD7 ITALIAN</item>
+    <item>HD8 ITALIAN</item>
+    <item>HD9 ITALIAN</item>
+    <item>HD10 SPANISH</item>
+    <item>HD11 BULGARIAN &amp; SPANISH</item>
+    <item>BR1 BRAZILIAN</item>
+    <item>BR2 BRAZILIAN</item>
+  </additional>
+</playlist>

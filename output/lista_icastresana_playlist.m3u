@@ -1,13 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="12:30 WTA Torneo de Singapur - 1ª Ronda K. Okamura - L. Fernández" group-title="WTA Torneo de Singapur",12:30 WTA Torneo de Singapur - 1ª Ronda K. Okamura - L. Fernández
+#EXTINF:-1 tvg-name="12:30 WTA Torneo de Singapur - 1ª Ronda B. Krejcikova - A. Friedsam" group-title="WTA Torneo de Singapur",12:30 WTA Torneo de Singapur - 1ª Ronda B. Krejcikova - A. Friedsam
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
-#EXTINF:-1 tvg-name="14:00 WTA Torneo de Singapur - 1ª Ronda S. Hunter - J. Garland" group-title="WTA Torneo de Singapur",14:00 WTA Torneo de Singapur - 1ª Ronda S. Hunter - J. Garland
+#EXTINF:-1 tvg-name="14:00 WTA Torneo de Singapur - 1ª Ronda M. Sakkari - L. Fruhvirtova" group-title="WTA Torneo de Singapur",14:00 WTA Torneo de Singapur - 1ª Ronda M. Sakkari - L. Fruhvirtova
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
-#EXTINF:-1 tvg-name="14:50 Mundial de Ciclismo en Ruta -  Contrarreloj Sub-23 Femenina - Montreal › Montreal (20,3 km)" group-title="Mundial de Ciclismo en Ruta",14:50 Mundial de Ciclismo en Ruta -  Contrarreloj Sub-23 Femenina - Montreal › Montreal (20,3 km)
+#EXTINF:-1 tvg-name="14:00 Tour de Croacia -  Etapa 1 - Split › Seget Donji (167 km)" group-title="Tour de Croacia",14:00 Tour de Croacia -  Etapa 1 - Split › Seget Donji (167 km)
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
+#EXTINF:-1 tvg-name="15:00 Mundial de Ciclismo en Ruta -  Contrarreloj por Equipos Mixtos - Montreal › Montreal (40,6 km)" group-title="Mundial de Ciclismo en Ruta",15:00 Mundial de Ciclismo en Ruta -  Contrarreloj por Equipos Mixtos - Montreal › Montreal (40,6 km)
 acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="17:50 Mundial de Ciclismo en Ruta -  Contrarreloj Sub-23 Masculina - Montreal › Montreal (31,3 km)" group-title="Mundial de Ciclismo en Ruta",17:50 Mundial de Ciclismo en Ruta -  Contrarreloj Sub-23 Masculina - Montreal › Montreal (31,3 km)
+#EXTINF:-1 tvg-name="18:05 Mundial de Ciclismo en Ruta -  Contrarreloj Junior Masculina - Montreal › Montreal (20,3 km)" group-title="Mundial de Ciclismo en Ruta",18:05 Mundial de Ciclismo en Ruta -  Contrarreloj Junior Masculina - Montreal › Montreal (20,3 km)
 acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="02:15 NFL - Liga Regular Los Angeles Rams - New York Giants" group-title="NFL",02:15 NFL - Liga Regular Los Angeles Rams - New York Giants
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-name="05:00 WTA Torneo de Singapur -  1ª Ronda - WTA 500" group-title="WTA Torneo de Singapur",05:00 WTA Torneo de Singapur -  1ª Ronda - WTA 500
+#EXTINF:-1 tvg-name="21:00 Champions Fem - Fase Liga Real Madrid Femenino - PSG Femenino" group-title="Champions Fem",21:00 Champions Fem - Fase Liga Real Madrid Femenino - PSG Femenino
+acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
+#EXTINF:-1 tvg-name="21:05 Mundial de Ciclismo en Ruta -  Contrarreloj Junior Femenina - Montreal › Montreal (10,7 km)" group-title="Mundial de Ciclismo en Ruta",21:05 Mundial de Ciclismo en Ruta -  Contrarreloj Junior Femenina - Montreal › Montreal (10,7 km)
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-name="05:00 WTA Torneo de Singapur -  2ª Ronda - WTA 500" group-title="WTA Torneo de Singapur",05:00 WTA Torneo de Singapur -  2ª Ronda - WTA 500
 acestream://a4cbadd19442b800727be713270fa9c917cc8582

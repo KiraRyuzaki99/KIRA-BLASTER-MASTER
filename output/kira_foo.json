@@ -1,71 +1,5 @@
 [
   {
-    "title": "Manchester City Bayern München",
-    "category": "Manchester City",
-    "logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-    "start_iso": "2026-09-22T16:45:00.000Z",
-    "end_iso": "2026-09-22T19:00:00.000Z",
-    "date": "Tuesday, 22 September 2026",
-    "time": "18:45",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/manchester-city-vs-bayern",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/manchester-city-vs-bayern/2178",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/manchester-city-vs-bayern/2179",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Inter Milan Häcken",
-    "category": "Inter Milan",
-    "logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-    "start_iso": "2026-09-22T16:45:00.000Z",
-    "end_iso": "2026-09-22T19:00:00.000Z",
-    "date": "Tuesday, 22 September 2026",
-    "time": "18:45",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/inter-milano-vs-hacken",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/inter-milano-vs-hacken/2182",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/inter-milano-vs-hacken/2183",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Salford City Sheffield Wednesday",
     "category": "Salford City",
     "logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
@@ -96,7 +30,7 @@
     "end_iso": "2026-09-22T21:15:00.000Z",
     "date": "Tuesday, 22 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/arsenal-vs-k-ge",
     "servers": [
       {
@@ -129,7 +63,7 @@
     "end_iso": "2026-09-22T21:15:00.000Z",
     "date": "Tuesday, 22 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/real-madrid-vs-psg",
     "servers": [
       {
@@ -162,7 +96,7 @@
     "end_iso": "2026-09-22T21:15:00.000Z",
     "date": "Tuesday, 22 September 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/benfica-vs-juventus",
     "servers": [
       {
@@ -452,6 +386,42 @@
     "time": "12:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/india-vs-panama",
+    "servers": []
+  },
+  {
+    "title": "Colombia Mexico",
+    "category": "Colombia",
+    "logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
+    "start_iso": "2026-09-26T20:00:00.000Z",
+    "end_iso": "2026-09-26T22:15:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/colombia-vs-mexico",
+    "servers": []
+  },
+  {
+    "title": "USA Peru",
+    "category": "USA",
+    "logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+    "start_iso": "2026-09-26T20:30:00.000Z",
+    "end_iso": "2026-09-26T22:45:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "22:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/usa-vs-peru",
+    "servers": []
+  },
+  {
+    "title": "Canada Chile",
+    "category": "Canada",
+    "logo": "https://cdn.img4every1.org/team/canada/logo.webp",
+    "start_iso": "2026-09-26T23:00:00.000Z",
+    "end_iso": "2026-09-27T01:15:00.000Z",
+    "date": "Sunday, 27 September 2026",
+    "time": "01:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/canada-vs-chile",
     "servers": []
   }
 ]

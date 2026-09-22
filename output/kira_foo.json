@@ -1,18 +1,18 @@
 [
   {
-    "title": "Kansas City Chiefs Indianapolis Colts",
-    "category": "Kansas City Chiefs",
-    "logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
-    "start_iso": "2026-09-21T00:20:00.000Z",
-    "end_iso": "2026-09-21T03:30:00.000Z",
-    "date": "Monday, 21 September 2026",
-    "time": "02:20",
-    "status": "live",
-    "event_url": "https://footystream.pk/events/kansas-city-chiefs-vs-indianapolis-colts",
+    "title": "Manchester City Bayern München",
+    "category": "Manchester City",
+    "logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+    "start_iso": "2026-09-22T16:45:00.000Z",
+    "end_iso": "2026-09-22T19:00:00.000Z",
+    "date": "Tuesday, 22 September 2026",
+    "time": "18:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/manchester-city-vs-bayern",
     "servers": [
       {
         "label": "English",
-        "url": "https://footystream.pk/alpha/kansas-city-chiefs-vs-indianapolis-colts/2174",
+        "url": "https://footystream.pk/alpha/manchester-city-vs-bayern/2178",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -22,7 +22,152 @@
       },
       {
         "label": "English",
-        "url": "https://footystream.pk/alpha/kansas-city-chiefs-vs-indianapolis-colts/2175",
+        "url": "https://footystream.pk/alpha/manchester-city-vs-bayern/2179",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Inter Milan Häcken",
+    "category": "Inter Milan",
+    "logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+    "start_iso": "2026-09-22T16:45:00.000Z",
+    "end_iso": "2026-09-22T19:00:00.000Z",
+    "date": "Tuesday, 22 September 2026",
+    "time": "18:45",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/inter-milano-vs-hacken",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/inter-milano-vs-hacken/2182",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/inter-milano-vs-hacken/2183",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Salford City Sheffield Wednesday",
+    "category": "Salford City",
+    "logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
+    "start_iso": "2026-09-22T18:00:00.000Z",
+    "end_iso": "2026-09-22T20:15:00.000Z",
+    "date": "Tuesday, 22 September 2026",
+    "time": "20:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/salford-city-vs-sheffield-wednesday",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/salford-city-vs-sheffield-wednesday/2187",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Arsenal Køge",
+    "category": "Arsenal",
+    "logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+    "start_iso": "2026-09-22T19:00:00.000Z",
+    "end_iso": "2026-09-22T21:15:00.000Z",
+    "date": "Tuesday, 22 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/arsenal-vs-k-ge",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/arsenal-vs-k-ge/2180",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/arsenal-vs-k-ge/2181",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Real Madrid PSG",
+    "category": "Real Madrid",
+    "logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+    "start_iso": "2026-09-22T19:00:00.000Z",
+    "end_iso": "2026-09-22T21:15:00.000Z",
+    "date": "Tuesday, 22 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/real-madrid-vs-psg",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/real-madrid-vs-psg/2184",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/real-madrid-vs-psg/2185",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Benfica Juventus",
+    "category": "Benfica",
+    "logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
+    "start_iso": "2026-09-22T19:00:00.000Z",
+    "end_iso": "2026-09-22T21:15:00.000Z",
+    "date": "Tuesday, 22 September 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://footystream.pk/events/benfica-vs-juventus",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://footystream.pk/alpha/benfica-vs-juventus/2186",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",

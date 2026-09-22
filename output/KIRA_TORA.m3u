@@ -1,17 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",20:30 - Bromley vs Brentford U21
-https://embed.st/embed/admin/ppv-bromley-vs-brentford-u-21/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:30 - Bromley vs Brentford U21
-https://embed.st/embed/admin/ppv-bromley-vs-brentford-u-21/2#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Baseball",00:35 - Baltimore Orioles vs Toronto Blue Jays
 https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-baltimore-orioles/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:35 - Baltimore Orioles vs Toronto Blue Jays
 https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-baltimore-orioles/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:35 - Baltimore Orioles vs Toronto Blue Jays
+https://embed.st/embed/delta/live_mlb_orioles-blue-jays-live-streaming-594470448/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:35 - Baltimore Orioles vs Toronto Blue Jays
 https://embed.st/embed/golf/1613/1#player=clappr&autoplay=true
@@ -26,10 +23,13 @@ https://embed.st/embed/admin/ppv-washington-nationals-vs-detroit-tigers/1#player
 https://embed.st/embed/admin/ppv-washington-nationals-vs-detroit-tigers/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Detroit Tigers vs Washington Nationals
-https://embed.st/embed/golf/1616/1#player=clappr&autoplay=true
+https://embed.st/embed/delta/live_mlb_tigers-nationals-live-streaming-594470880/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Detroit Tigers vs Washington Nationals
-https://embed.st/embed/golf/1616/2#player=clappr&autoplay=true
+https://embed.st/embed/delta/live_mlb_tigers-nationals-live-streaming-594470880/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Detroit Tigers vs Washington Nationals
+https://embed.st/embed/golf/1616/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Philadelphia Phillies vs Milwaukee Brewers
 https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-philadelphia-phillies/1#player=clappr&autoplay=true
@@ -38,16 +38,22 @@ https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-philadelphia-phillies/1#pl
 https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-philadelphia-phillies/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Philadelphia Phillies vs Milwaukee Brewers
-https://embed.st/embed/golf/1615/1#player=clappr&autoplay=true
+https://embed.st/embed/delta/live_mlb_phillies-brewers-live-streaming-594471312/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Philadelphia Phillies vs Milwaukee Brewers
-https://embed.st/embed/golf/1615/2#player=clappr&autoplay=true
+https://embed.st/embed/delta/live_mlb_phillies-brewers-live-streaming-594471312/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Philadelphia Phillies vs Milwaukee Brewers
+https://embed.st/embed/golf/1615/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Pittsburgh Pirates vs St. Louis Cardinals
 https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-pittsburgh-pirates/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Pittsburgh Pirates vs St. Louis Cardinals
 https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-pittsburgh-pirates/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Pittsburgh Pirates vs St. Louis Cardinals
+https://embed.st/embed/delta/live_mlb_pirates-cardinals-live-streaming-594471744/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Pittsburgh Pirates vs St. Louis Cardinals
 https://embed.st/embed/golf/1614/1#player=clappr&autoplay=true
@@ -62,7 +68,10 @@ https://embed.st/embed/admin/ppv-cleveland-guardians-vs-boston-red-sox/1#player=
 https://embed.st/embed/admin/ppv-cleveland-guardians-vs-boston-red-sox/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:45 - Boston Red Sox vs Cleveland Guardians
-https://embed.st/embed/golf/1617/1#player=clappr&autoplay=true
+https://embed.st/embed/delta/live_mlb_red-sox-guardians-live-streaming-594472176/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:45 - Boston Red Sox vs Cleveland Guardians
-https://embed.st/embed/golf/1617/2#player=clappr&autoplay=true
+https://embed.st/embed/delta/live_mlb_red-sox-guardians-live-streaming-594472176/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:45 - Boston Red Sox vs Cleveland Guardians
+https://embed.st/embed/golf/1617/1#player=clappr&autoplay=true

@@ -1,23 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 22:35 - Toronto Blue Jays vs. Baltimore Orioles [MASN]
-https://august.ppvtv.icu/embed.html?match=f1q5hz78&server=0
+#EXTINF:-1 group-title="Basketball – WNBA",Oggi 00:00 - Atlanta Dream vs. New York Liberty [Peacock]
+https://august.ppvtv.icu/embed.html?match=feay97t&server=0
 
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 22:40 - Washington Nationals vs. Detroit Tigers [Tigers.TV]
-https://august.ppvtv.icu/embed.html?match=ffjuir0&server=0
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 00:00 - Minnesota Wild vs. Chicago Blackhawks [CHSN]
+https://august.ppvtv.icu/embed.html?match=f1cndpa2&server=0
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:00 - Philadelphia Flyers vs. Washington Capitals [MNMT]
-https://august.ppvtv.icu/embed.html?match=f1nitv7w&server=0
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 00:00 - St. Louis Blues vs. Dallas Stars [Blues App]
+https://august.ppvtv.icu/embed.html?match=f1oqjwi3&server=0
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:00 - Buffalo Sabres vs. Pittsburgh Penguins [ESPN+]
-https://august.ppvtv.icu/embed.html?match=f1nmznbf&server=0
+#EXTINF:-1 group-title="American Football – NFL",Oggi 00:15 - New York Giants at Los Angeles Rams [ESPN]
+https://august.ppvtv.icu/embed.html?match=cl1jvhe&server=0
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:00 - New York Rangers vs. New Jersey Devils [MSGSN]
-https://august.ppvtv.icu/embed.html?match=fqyked5&server=0
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 01:45 - Minnesota Twins vs. San Francisco Giants [NBC Sports BA]
+https://august.ppvtv.icu/embed.html?match=f1hrdr3j&server=0
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:00 - Ottawa Senators vs. Montreal Canadiens [Sportsnet One]
-https://august.ppvtv.icu/embed.html?match=f1g55q0q&server=0
+#EXTINF:-1 group-title="Basketball – WNBA",Oggi 02:00 - Dallas Wings vs. Phoenix Mercury [USA Net]
+https://august.ppvtv.icu/embed.html?match=f109dxgo&server=0
+
+#EXTINF:-1 group-title="Basketball – NBL",Oggi 09:30 - Brisbane Bullets vs. New Zealand Breakers [ESPN]
+https://august.ppvtv.icu/embed.html?match=fsabmmk&server=0
+
+#EXTINF:-1 group-title="Combat Sports – Mixed Martial Arts (MMA)",Oggi 23:00 - Dana White's Contender Series [Paramount+]
+https://august.ppvtv.icu/embed.html?match=c6pokmk&server=0
 
 #EXTINF:-1 group-title="American Football – 24/7 channel",Oggi N/A - NFL Network [NFL Network (ESPN)]
 https://august.ppvtv.icu/embed.html?match=c15q87wa&server=0
@@ -49,15 +55,6 @@ https://august.ppvtv.icu/embed.html?match=c1ed9edx&server=0
 #EXTINF:-1 group-title="American Football – Canadian Football",Domani 00:00 - Toronto Argonauts at Winnipeg Blue Bombers [CFL+]
 https://august.ppvtv.icu/embed.html?match=c20c2zd&server=0
 
-#EXTINF:-1 group-title="Basketball – WNBA",Domani 00:00 - Atlanta Dream vs. New York Liberty [Peacock]
-https://august.ppvtv.icu/embed.html?match=feay97t&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Minnesota Wild vs. Chicago Blackhawks [CHSN]
-https://august.ppvtv.icu/embed.html?match=f1cndpa2&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - St. Louis Blues vs. Dallas Stars [Blues App]
-https://august.ppvtv.icu/embed.html?match=f1oqjwi3&server=0
-
 #EXTINF:-1 group-title="Wrestling – Wrestling",Domani 00:00 - WWE NXT [CW on ESPN]
 https://august.ppvtv.icu/embed.html?match=c12z1szz&server=0
 
@@ -75,9 +72,6 @@ https://august.ppvtv.icu/embed.html?match=c10yqzo0&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 00:00 - Rally TV [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1ml51ic&server=0
-
-#EXTINF:-1 group-title="American Football – NFL",Domani 00:15 - New York Giants at Los Angeles Rams [ESPN]
-https://august.ppvtv.icu/embed.html?match=cl1jvhe&server=0
 
 #EXTINF:-1 group-title="American Football – NFL",Domani 00:15 - Atlanta Falcons at Green Bay Packers [Prime Video]
 https://august.ppvtv.icu/embed.html?match=c1c2e8dk&server=0
@@ -123,12 +117,6 @@ https://august.ppvtv.icu/embed.html?match=fcvmtcc&server=0
 
 #EXTINF:-1 group-title="Football – MLS",Domani 01:30 - Real Salt Lake vs. New England Revolution [Apple TV]
 https://august.ppvtv.icu/embed.html?match=fs8zj4i&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Domani 01:45 - Minnesota Twins vs. San Francisco Giants [NBC Sports BA]
-https://august.ppvtv.icu/embed.html?match=f1hrdr3j&server=0
-
-#EXTINF:-1 group-title="Basketball – WNBA",Domani 02:00 - Dallas Wings vs. Phoenix Mercury [USA Net]
-https://august.ppvtv.icu/embed.html?match=f109dxgo&server=0
 
 #EXTINF:-1 group-title="American Football – Canadian Football",Domani 02:30 - Saskatchewan Roughriders at BC Lions [CFL+]
 https://august.ppvtv.icu/embed.html?match=c7z2lq2&server=0
@@ -201,9 +189,6 @@ https://august.ppvtv.icu/embed.html?match=cmkurr8&server=5
 
 #EXTINF:-1 group-title="Motorsports – Formula 1",Domani 08:30 - Azerbaijan Grand Prix - Practice 3 [Viaplay]
 https://august.ppvtv.icu/embed.html?match=cmkurr8&server=6
-
-#EXTINF:-1 group-title="Basketball – NBL",Domani 09:30 - Brisbane Bullets vs. New Zealand Breakers [ESPN]
-https://august.ppvtv.icu/embed.html?match=fsabmmk&server=0
 
 #EXTINF:-1 group-title="Rugby – Rugby League (NRL)",Domani 09:50 - Dolphins vs. Roosters [Fox League]
 https://august.ppvtv.icu/embed.html?match=ft9u0tk&server=0
@@ -319,17 +304,32 @@ https://august.ppvtv.icu/embed.html?match=c1ukpzm6&server=0
 #EXTINF:-1 group-title="American Football – NFL",Domani 20:25 - Las Vegas Raiders at New Orleans Saints [CBS]
 https://august.ppvtv.icu/embed.html?match=c1s0qa9f&server=0
 
+#EXTINF:-1 group-title="Baseball – MLB",Passato 22:35 - Toronto Blue Jays vs. Baltimore Orioles [MASN]
+https://august.ppvtv.icu/embed.html?match=f1q5hz78&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Passato 22:40 - Washington Nationals vs. Detroit Tigers [Tigers.TV]
+https://august.ppvtv.icu/embed.html?match=ffjuir0&server=0
+
 #EXTINF:-1 group-title="American Football – Canadian Football",Domani 23:00 - Hamilton Tiger-Cats at Edmonton Elks [CFL+]
 https://august.ppvtv.icu/embed.html?match=c93e6rz&server=0
-
-#EXTINF:-1 group-title="Combat Sports – Mixed Martial Arts (MMA)",Domani 23:00 - Dana White's Contender Series [Paramount+]
-https://august.ppvtv.icu/embed.html?match=c6pokmk&server=0
 
 #EXTINF:-1 group-title="Football – Liga MX",Domani 23:00 - Cruz Azul vs. Toluca [Liga MX]
 https://august.ppvtv.icu/embed.html?match=f1ukihlv&server=0
 
 #EXTINF:-1 group-title="Football – MLS",Domani 23:00 - Columbus Crew vs. Inter Miami CF [Apple TV]
 https://august.ppvtv.icu/embed.html?match=fxa1868&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Passato 23:00 - Philadelphia Flyers vs. Washington Capitals [MNMT]
+https://august.ppvtv.icu/embed.html?match=f1nitv7w&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Passato 23:00 - Buffalo Sabres vs. Pittsburgh Penguins [ESPN+]
+https://august.ppvtv.icu/embed.html?match=f1nmznbf&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Passato 23:00 - New York Rangers vs. New Jersey Devils [MSGSN]
+https://august.ppvtv.icu/embed.html?match=fqyked5&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Passato 23:00 - Ottawa Senators vs. Montreal Canadiens [Sportsnet One]
+https://august.ppvtv.icu/embed.html?match=f1g55q0q&server=0
 
 #EXTINF:-1 group-title="Football – Liga MX",Domani 23:07 - Guadalajara vs. Querétaro [Liga MX]
 https://august.ppvtv.icu/embed.html?match=fvgrvrk&server=0

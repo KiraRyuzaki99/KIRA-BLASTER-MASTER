@@ -7,7 +7,7 @@
     "end_iso": "2026-09-22T19:00:00.000Z",
     "date": "Tuesday, 22 September 2026",
     "time": "18:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/manchester-city-vs-bayern",
     "servers": [
       {
@@ -40,7 +40,7 @@
     "end_iso": "2026-09-22T19:00:00.000Z",
     "date": "Tuesday, 22 September 2026",
     "time": "18:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/inter-milano-vs-hacken",
     "servers": [
       {
@@ -73,7 +73,7 @@
     "end_iso": "2026-09-22T20:15:00.000Z",
     "date": "Tuesday, 22 September 2026",
     "time": "20:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/salford-city-vs-sheffield-wednesday",
     "servers": [
       {
@@ -178,6 +178,62 @@
     ]
   },
   {
+    "title": "Boston Red Sox Cleveland Guardians",
+    "category": "Boston Red Sox",
+    "logo": "https://cdn.img4every1.org/team/boston-red-sox/logo.webp",
+    "start_iso": "2026-09-22T22:45:00.000Z",
+    "end_iso": "2026-09-23T01:30:00.000Z",
+    "date": "Wednesday, 23 September 2026",
+    "time": "00:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/red-sox-vs-guardians",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/red-sox-vs-guardians/2188",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/red-sox-vs-guardians/2189",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Houston Astros Central Coast Mariners",
+    "category": "Houston Astros",
+    "logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
+    "start_iso": "2026-09-23T01:40:00.000Z",
+    "end_iso": "2026-09-23T04:40:00.000Z",
+    "date": "Wednesday, 23 September 2026",
+    "time": "03:40",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/astros-vs-mariners",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/astros-vs-mariners/2190",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
     "title": "Azerbaijan Tajikistan",
     "category": "Azerbaijan",
     "logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
@@ -211,6 +267,167 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/chelsea-vs-austria-wien",
+    "servers": []
+  },
+  {
+    "title": "F1 Azerbaijan Grand Prix Formula 1",
+    "category": "F1 Azerbaijan Grand Prix",
+    "logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+    "start_iso": "2026-09-24T06:00:00.000Z",
+    "end_iso": "2026-09-26T15:00:00.000Z",
+    "date": "Thursday, 24 September 2026",
+    "time": "08:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/f1-azerbaijan-grand-prix",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/f1-azerbaijan-grand-prix/2191",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/f1-azerbaijan-grand-prix/2192",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://pogo.pk/alpha/f1-azerbaijan-grand-prix/2193",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Open de France PGA Tour",
+    "category": "Open de France",
+    "logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+    "start_iso": "2026-09-24T11:30:00.000Z",
+    "end_iso": "2026-09-27T16:30:00.000Z",
+    "date": "Thursday, 24 September 2026",
+    "time": "13:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/open-de-france",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/open-de-france/2194",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Malta Andorra",
+    "category": "Malta",
+    "logo": "https://cdn.img4every1.org/team/malta/logo.webp",
+    "start_iso": "2026-09-24T16:00:00.000Z",
+    "end_iso": "2026-09-24T18:15:00.000Z",
+    "date": "Thursday, 24 September 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/malta-vs-andorra-live",
+    "servers": []
+  },
+  {
+    "title": "Presidents Cup PGA Tour",
+    "category": "Presidents Cup",
+    "logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+    "start_iso": "2026-09-24T16:30:00.000Z",
+    "end_iso": "2026-09-27T22:00:00.000Z",
+    "date": "Thursday, 24 September 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/presidents-cup",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/presidents-cup/2195",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Portugal Wales",
+    "category": "Portugal",
+    "logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
+    "start_iso": "2026-09-24T18:45:00.000Z",
+    "end_iso": "2026-09-24T20:50:00.000Z",
+    "date": "Thursday, 24 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/portugal-vs-wales",
+    "servers": []
+  },
+  {
+    "title": "Germany Netherlands",
+    "category": "Germany",
+    "logo": "https://cdn.img4every1.org/team/germany/logo.webp",
+    "start_iso": "2026-09-24T18:45:00.000Z",
+    "end_iso": "2026-09-24T21:00:00.000Z",
+    "date": "Thursday, 24 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/germany-vs-netherlands",
+    "servers": []
+  },
+  {
+    "title": "Norway Denmark",
+    "category": "Norway",
+    "logo": "https://cdn.img4every1.org/team/norway/logo.webp",
+    "start_iso": "2026-09-24T18:45:00.000Z",
+    "end_iso": "2026-09-24T21:00:00.000Z",
+    "date": "Thursday, 24 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/norway-vs-denmark",
+    "servers": []
+  },
+  {
+    "title": "Ireland Kosovo",
+    "category": "Ireland",
+    "logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
+    "start_iso": "2026-09-24T18:45:00.000Z",
+    "end_iso": "2026-09-24T21:00:00.000Z",
+    "date": "Thursday, 24 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/ireland-vs-kosovo",
+    "servers": []
+  },
+  {
+    "title": "Serbia Greece",
+    "category": "Serbia",
+    "logo": "https://cdn.img4every1.org/team/serbia/logo.webp",
+    "start_iso": "2026-09-24T18:45:00.000Z",
+    "end_iso": "2026-09-24T21:00:00.000Z",
+    "date": "Thursday, 24 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/serbia-vs-greece",
     "servers": []
   },
   {

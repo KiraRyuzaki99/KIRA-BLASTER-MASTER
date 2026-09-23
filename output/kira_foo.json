@@ -1,38 +1,5 @@
 [
   {
-    "title": "Azerbaijan Tajikistan",
-    "category": "Azerbaijan",
-    "logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
-    "start_iso": "2026-09-23T16:00:00.000Z",
-    "end_iso": "2026-09-23T18:15:00.000Z",
-    "date": "Wednesday, 23 September 2026",
-    "time": "18:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/azerbaijan-vs-tajikistan",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/azerbaijan-vs-tajikistan/2196",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/azerbaijan-vs-tajikistan/2197",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "FC Barcelona Paris FC",
     "category": "FC Barcelona",
     "logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",

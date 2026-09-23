@@ -7,9 +7,30 @@
     "end_iso": "2026-09-23T18:15:00.000Z",
     "date": "Wednesday, 23 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/azerbaijan-vs-tajikistan",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/azerbaijan-vs-tajikistan/2196",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/azerbaijan-vs-tajikistan/2197",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "FC Barcelona Paris FC",
@@ -21,7 +42,28 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/barcelona-vs-paris-fc",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/barcelona-vs-paris-fc/2198",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/barcelona-vs-paris-fc/2199",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Chelsea Austria Wien",
@@ -33,7 +75,28 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/chelsea-vs-austria-wien",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/chelsea-vs-austria-wien/2200",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/chelsea-vs-austria-wien/2201",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "F1 Azerbaijan Grand Prix Formula 1",

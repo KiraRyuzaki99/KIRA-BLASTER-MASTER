@@ -1,6 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
+#EXTINF:-1 group-title="Darts – Darts",Oggi 11:00 - Players Championship 30 - Den Bosch [Board 1]
+https://august.ppvtv.icu/embed.html?match=c1aid8ww&server=0
+
+#EXTINF:-1 group-title="Darts – Darts",Oggi 11:00 - Players Championship 30 - Den Bosch [Board 2]
+https://august.ppvtv.icu/embed.html?match=c1aid8ww&server=1
+
+#EXTINF:-1 group-title="Darts – Darts",Oggi 11:00 - Players Championship 30 - Den Bosch [Board 3]
+https://august.ppvtv.icu/embed.html?match=c1aid8ww&server=2
+
+#EXTINF:-1 group-title="Darts – Darts",Oggi 11:00 - Players Championship 30 - Den Bosch [Board 4]
+https://august.ppvtv.icu/embed.html?match=c1aid8ww&server=3
+
+#EXTINF:-1 group-title="Darts – Darts",Oggi 11:00 - Players Championship 30 - Den Bosch [Board 1]
+https://august.ppvtv.icu/embed.html?match=c1aid8ww&server=4
+
 #EXTINF:-1 group-title="Baseball – MLB",Oggi 17:10 - Washington Nationals vs. Detroit Tigers [Tigers.TV]
 https://august.ppvtv.icu/embed.html?match=ffjuir0&server=0
 

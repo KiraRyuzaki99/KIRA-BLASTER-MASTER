@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Fight",09:45 - Kyonosuke Kameda vs Sebastian Hernandez
-https://embed.st/embed/delta/live-event_kyonosuke-kameda-vs-sebastian-hernandez-live-stream/1#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Basketball",11:30 - Cairns Taipans vs Tasmania JackJumpers
 https://embed.st/embed/admin/ppv-cairns-taipans-vs-tasmania-jack-jumpers/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Basketball",11:30 - Cairns Taipans vs Tasmania JackJumpers
 https://embed.st/embed/admin/ppv-cairns-taipans-vs-tasmania-jack-jumpers/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",09:45 - Kyonosuke Kameda vs Sebastian Hernandez
+https://embed.st/embed/delta/live-event_kyonosuke-kameda-vs-sebastian-hernandez-live-stream/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",19:10 - Detroit Tigers vs Washington Nationals
 https://embed.st/embed/admin/ppv-washington-nationals-vs-detroit-tigers/1#player=clappr&autoplay=true
@@ -22,6 +22,18 @@ https://embed.st/embed/golf/1628/1#player=clappr&autoplay=true
 #EXTINF:-1 group-title="Baseball",19:10 - Detroit Tigers vs Washington Nationals
 https://embed.st/embed/golf/1628/2#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Baseball",19:35 - Baltimore Orioles vs Toronto Blue Jays
+https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-baltimore-orioles/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:35 - Baltimore Orioles vs Toronto Blue Jays
+https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-baltimore-orioles/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:35 - Baltimore Orioles vs Toronto Blue Jays
+https://embed.st/embed/golf/1613/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:35 - Baltimore Orioles vs Toronto Blue Jays
+https://embed.st/embed/golf/1613/2#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Baseball",21:45 - San Francisco Giants vs Minnesota Twins
 https://embed.st/embed/admin/ppv-minnesota-twins-vs-san-francisco-giants/1#player=clappr&autoplay=true
 
@@ -33,18 +45,6 @@ https://embed.st/embed/golf/1629/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",21:45 - San Francisco Giants vs Minnesota Twins
 https://embed.st/embed/golf/1629/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",00:35 - Baltimore Orioles vs Toronto Blue Jays
-https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-baltimore-orioles/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",00:35 - Baltimore Orioles vs Toronto Blue Jays
-https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-baltimore-orioles/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",00:35 - Baltimore Orioles vs Toronto Blue Jays
-https://embed.st/embed/golf/1613/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",00:35 - Baltimore Orioles vs Toronto Blue Jays
-https://embed.st/embed/golf/1613/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Philadelphia Phillies vs Milwaukee Brewers
 https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-philadelphia-phillies/1#player=clappr&autoplay=true

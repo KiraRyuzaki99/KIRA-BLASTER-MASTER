@@ -1,11 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
+#EXTINF:-1 group-title="Motor-sports",00:00 - High Limit Racing at Kokomo Speedway
+https://embed.st/embed/foxtrot/high-limit-racing-at-kokomo-speedway/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Motor-sports",23:00 - FloRacing Night in America at Lincoln Park Speedway
+https://embed.st/embed/foxtrot/floracing-night-in-america-at-lincoln-park-speedway/1#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Baseball",21:45 - San Francisco Giants vs Minnesota Twins
 https://embed.st/embed/admin/ppv-minnesota-twins-vs-san-francisco-giants/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",21:45 - San Francisco Giants vs Minnesota Twins
 https://embed.st/embed/admin/ppv-minnesota-twins-vs-san-francisco-giants/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",21:45 - San Francisco Giants vs Minnesota Twins
+https://embed.st/embed/foxtrot/twins-v-giants-401817058/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",21:45 - San Francisco Giants vs Minnesota Twins
 https://embed.st/embed/golf/1629/1#player=clappr&autoplay=true
@@ -20,6 +29,9 @@ https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-baltimore-orioles/1#player
 https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-baltimore-orioles/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:35 - Baltimore Orioles vs Toronto Blue Jays
+https://embed.st/embed/foxtrot/blue-jays-v-orioles-401817050/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:35 - Baltimore Orioles vs Toronto Blue Jays
 https://embed.st/embed/golf/1613/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:35 - Baltimore Orioles vs Toronto Blue Jays
@@ -32,6 +44,9 @@ https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-philadelphia-phillies/1#pl
 https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-philadelphia-phillies/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Philadelphia Phillies vs Milwaukee Brewers
+https://embed.st/embed/foxtrot/brewers-v-phillies-401817047/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Philadelphia Phillies vs Milwaukee Brewers
 https://embed.st/embed/golf/1632/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Philadelphia Phillies vs Milwaukee Brewers
@@ -42,6 +57,9 @@ https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-pittsburgh-pirates/1#play
 
 #EXTINF:-1 group-title="Baseball",00:40 - Pittsburgh Pirates vs St. Louis Cardinals
 https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-pittsburgh-pirates/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Pittsburgh Pirates vs St. Louis Cardinals
+https://embed.st/embed/foxtrot/cardinals-v-pirates-401817048/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Pittsburgh Pirates vs St. Louis Cardinals
 https://embed.st/embed/golf/1631/1#player=clappr&autoplay=true

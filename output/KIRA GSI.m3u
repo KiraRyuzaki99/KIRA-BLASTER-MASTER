@@ -1,11 +1,28 @@
 #EXTM3U
 #EXTGRP:Copa Chile
-#EXTINF:-1 group-title="Copa Chile",⏳NEXT 22/09 23:00 - Puerto Montt vs Ñublense
+#EXTINF:-1 group-title="Copa Chile",⏳NEXT 23/09 23:00 - Curicó Unido vs Deportes Concepción
 https://streamxhd.com/live1.php?stream=tntsportschile
-#EXTINF:-1 group-title="Copa Chile",⏳NEXT 23/09 01:30 - Audax Italiano vs Colo-Colo
+#EXTINF:-1 group-title="Copa Chile",⏳NEXT 24/09 01:30 - Audax Italiano vs Colo-Colo
 https://streamxhd.com/live1.php?stream=max1
-#EXTINF:-1 group-title="Copa Chile",⏳NEXT 23/09 01:30 - Cobreloa vs Coquimbo Unido
+#EXTINF:-1 group-title="Copa Chile",⏳NEXT 24/09 01:30 - Cobreloa vs Coquimbo Unido
 https://streamxhd.com/live1.php?stream=tntsportschile
+#EXTINF:-1 group-title="Copa Chile",⏳NEXT 24/09 01:30 - Deportes Iquique vs Antofagasta
+https://streamxhd.com/live1.php?stream=tntsportschile
+#EXTINF:-1 group-title="Copa Chile",⏳NEXT 24/09 01:30 - Unión La Calera vs Universidad Católica
+https://streamxhd.com/live1.php?stream=max1
+#EXTGRP:Copa Mundial Sub-20 (F)
+#EXTINF:-1 group-title="Copa Mundial Sub-20 (F)",⏳NEXT 23/09 15:00 - Italia vs España
+https://streamxhd.com/live1.php?stream=dsports2
+#EXTINF:-1 group-title="Copa Mundial Sub-20 (F)",⏳NEXT 23/09 18:30 - Corea del Norte vs Colombia
+https://streamxhd.com/live1.php?stream=dsports2
+#EXTGRP:Copa del Golfo de Naciones
+#EXTINF:-1 group-title="Copa del Golfo de Naciones",⏳NEXT 23/09 16:30 - Iraq vs Omán
+https://streamxhd.com/live1.php?stream=espnplus1
+#EXTINF:-1 group-title="Copa del Golfo de Naciones",⏳NEXT 23/09 20:00 - Arabia Saudita vs Kuwait
+https://streamxhd.com/live1.php?stream=espnplus2
+#EXTGRP:ESPN Knockout
+#EXTINF:-1 group-title="ESPN Knockout",⏳NEXT 23/09 09:45 - Kyonosuke Kameda vs Sebastian Hernandez Reyes
+https://streamxhd.com/live1.php?stream=espn2
 #EXTGRP:Fútbol
 #EXTINF:-1 group-title="Fútbol",✅END 22/09 18:45 - UEFA Women's Champions League: Bayern vs Manchester City
 https://streamx305.sbs/global1.php?channel=espn2
@@ -13,13 +30,13 @@ https://streamx305.sbs/global1.php?channel=espn2
 https://streamx305.sbs/global1.php?channel=espndeportes
 #EXTINF:-1 group-title="Fútbol",✅END 22/09 18:45 - UEFA Women's Champions League: Inter Milano vs Häcken Damer
 https://streamx305.sbs/global1.php?channel=disney1
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 22/09 21:00 - UEFA Women's Champions League: Real Madrid vs PSG
+#EXTINF:-1 group-title="Fútbol",✅END 22/09 21:00 - UEFA Women's Champions League: Real Madrid vs PSG
 https://streamx305.sbs/global1.php?channel=espn
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 22/09 21:00 - UEFA Women's Champions League: Arsenal vs Køge
+#EXTINF:-1 group-title="Fútbol",✅END 22/09 21:00 - UEFA Women's Champions League: Arsenal vs Køge
 https://streamx305.sbs/global1.php?channel=espndeportes
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 22/09 21:00 - UEFA Women's Champions League: Juventus vs SL Benfica
+#EXTINF:-1 group-title="Fútbol",✅END 22/09 21:00 - UEFA Women's Champions League: Juventus vs SL Benfica
 https://streamx305.sbs/global1.php?channel=disney3
-#EXTINF:-1 group-title="Fútbol",⏳NEXT 22/09 23:00 - Copa Chile: Puerto Montt vs Ñublense
+#EXTINF:-1 group-title="Fútbol",🔴LIVE 22/09 23:00 - Copa Chile: Puerto Montt vs Ñublense
 https://streamx305.sbs/global1.php?channel=tntsportscl
 #EXTINF:-1 group-title="Fútbol",⏳NEXT 23/09 01:00 - Liga BetPlay: Medellín vs Jaguares de Córdoba
 https://streamx305.sbs/global1.php?channel=winplus
@@ -29,27 +46,36 @@ https://streamx305.sbs/global1.php?channel=max1
 https://streamx305.sbs/global1.php?channel=tntsportscl
 #EXTINF:-1 group-title="Fútbol",⏳NEXT 23/09 03:00 - Liga BetPlay: Santa Fe vs Deportivo Cali
 https://streamx305.sbs/global1.php?channel=winplus
+#EXTGRP:Liga 1
+#EXTINF:-1 group-title="Liga 1",⏳NEXT 23/09 22:00 - ADT vs Cienciano
+https://streamxhd.com/live1.php?stream=l1max
 #EXTGRP:Liga Colombia
-#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 23/09 01:00 - Medellín vs Jaguares de Córdoba
+#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 24/09 01:00 - Medellín vs Jaguares de Córdoba
 https://streamxhd.com/live1.php?stream=winplus
-#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 23/09 03:00 - Santa Fe vs Deportivo Cali
+#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 24/09 02:30 - América de Cali vs Rionegro Águilas
+https://streamxhd.com/live1.php?stream=winplus
+#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 24/09 03:00 - Santa Fe vs Deportivo Cali
 https://streamxhd.com/live1.php?stream=winplus
 #EXTGRP:MLB
-#EXTINF:-1 group-title="MLB",✅END 22/09 19:00 - NY Yankees vs Tampa Bay Rays
+#EXTINF:-1 group-title="MLB",⏳NEXT 23/09 19:00 - Detroit Tigers vs Washington Nationals
 https://streamxhd.com/live1.php?stream=espn5
+#EXTGRP:MLS
+#EXTINF:-1 group-title="MLS",⏳NEXT 24/09 03:30 - Seattle Sounders FC vs Real Salt Lake
+https://streamxhd.com/live1.php?stream=appletv1
+#EXTGRP:Primera División
+#EXTINF:-1 group-title="Primera División",⏳NEXT 24/09 03:00 - Alianza vs Fuerte San Francisco
+https://streamxhd.com/live1.php?stream=evento2
 #EXTGRP:UEFA Champions League Femenina
-#EXTINF:-1 group-title="UEFA Champions League Femenina",✅END 22/09 18:45 - Bayern vs Manchester City
-https://streamxhd.com/live1.php?stream=espn2
-#EXTINF:-1 group-title="UEFA Champions League Femenina",✅END 22/09 18:45 - Inter Milano vs Häcken
+#EXTINF:-1 group-title="UEFA Champions League Femenina",⏳NEXT 23/09 18:45 - OH Leuven vs Roma
+https://streamxhd.com/live1.php?stream=disney1
+#EXTINF:-1 group-title="UEFA Champions League Femenina",⏳NEXT 23/09 18:45 - Servette Chênois Féminin vs OL Lyonnes
 https://streamxhd.com/live1.php?stream=disney2
-#EXTINF:-1 group-title="UEFA Champions League Femenina",🔴LIVE 22/09 21:00 - Arsenal vs Køge
+#EXTINF:-1 group-title="UEFA Champions League Femenina",⏳NEXT 23/09 21:00 - Barcelona vs Paris FC
 https://streamxhd.com/live1.php?stream=disney3
-#EXTINF:-1 group-title="UEFA Champions League Femenina",🔴LIVE 22/09 21:00 - Juventus vs SL Benfica
+#EXTINF:-1 group-title="UEFA Champions League Femenina",⏳NEXT 23/09 21:00 - Chelsea FC vs Austria Wien
 https://streamxhd.com/live1.php?stream=disney4
-#EXTINF:-1 group-title="UEFA Champions League Femenina",🔴LIVE 22/09 21:00 - Real Madrid vs PSG
-https://streamxhd.com/live1.php?stream=espn2
 #EXTGRP:WNBA
-#EXTINF:-1 group-title="WNBA",⏳NEXT 23/09 02:00 - Indiana vs Minnesota
+#EXTINF:-1 group-title="WNBA",⏳NEXT 24/09 02:00 - Indiana vs Minnesota
 https://streamxhd.com/live1.php?stream=espn2
-#EXTINF:-1 group-title="WNBA",⏳NEXT 23/09 04:00 - Las Vegas vs Los Angeles
+#EXTINF:-1 group-title="WNBA",⏳NEXT 24/09 04:00 - Las Vegas vs Los Angeles
 https://streamxhd.com/live1.php?stream=espn2

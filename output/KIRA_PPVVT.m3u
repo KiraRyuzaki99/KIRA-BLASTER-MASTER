@@ -1,27 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 08:30 - Azerbaijan Grand Prix - Practice 1 [Sky Sports F1]
-https://august.ppvtv.icu/embed.html?match=cjcn9l6&server=0
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 08:30 - Azerbaijan Grand Prix - Practice 1 [Apple TV (F1TV)]
-https://august.ppvtv.icu/embed.html?match=cjcn9l6&server=1
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 08:30 - Azerbaijan Grand Prix - Practice 1 [DAZN F1]
-https://august.ppvtv.icu/embed.html?match=cjcn9l6&server=2
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 08:30 - Azerbaijan Grand Prix - Practice 1 [Sky Sport F1]
-https://august.ppvtv.icu/embed.html?match=cjcn9l6&server=3
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 08:30 - Azerbaijan Grand Prix - Practice 1 [Sky Sport F1]
-https://august.ppvtv.icu/embed.html?match=cjcn9l6&server=4
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 08:30 - Azerbaijan Grand Prix - Practice 1 [V Sport Motor]
-https://august.ppvtv.icu/embed.html?match=cjcn9l6&server=5
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 08:30 - Azerbaijan Grand Prix - Practice 1 [Viaplay]
-https://august.ppvtv.icu/embed.html?match=cjcn9l6&server=6
-
 #EXTINF:-1 group-title="Basketball – NBL",Oggi 09:30 - South East Melbourne Phoenix vs. Melbourne United [ESPN]
 https://august.ppvtv.icu/embed.html?match=f1r8ea5f&server=0
 
@@ -48,6 +27,81 @@ https://august.ppvtv.icu/embed.html?match=c2h5laf&server=5
 
 #EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 12:00 - Azerbaijan Grand Prix - Practice 2 [Viaplay]
 https://august.ppvtv.icu/embed.html?match=c2h5laf&server=6
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 16:00 - Andorra vs. Malta [FOX Soccer Plus]
+https://august.ppvtv.icu/embed.html?match=fpu4t9v&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 16:35 - St. Louis Cardinals vs. Pittsburgh Pirates [MLB.TV]
+https://august.ppvtv.icu/embed.html?match=f7tq6ti&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 18:10 - Chicago White Sox vs. Kansas City Royals [Royals.TV]
+https://august.ppvtv.icu/embed.html?match=f1x9et2b&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 18:20 - Miami Marlins vs. Chicago Cubs [Marquee Sports Net]
+https://august.ppvtv.icu/embed.html?match=f1je3fme&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 18:35 - New York Mets vs. Texas Rangers [Rangers Sports Network]
+https://august.ppvtv.icu/embed.html?match=f1tp13tt&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - Austria vs. Israel [Fubo Sports 2]
+https://august.ppvtv.icu/embed.html?match=f1oibzp0&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - Kosovo vs. Republic of Ireland [Fubo Sports 3]
+https://august.ppvtv.icu/embed.html?match=f1ebdyvw&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - Liechtenstein vs. Lithuania [Fubo Sports 4]
+https://august.ppvtv.icu/embed.html?match=fqzh78p&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - Netherlands vs. Germany [PPV]
+https://august.ppvtv.icu/embed.html?match=f1k82ki&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - Norway vs. Denmark [FS1]
+https://august.ppvtv.icu/embed.html?match=fefblv5&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - Serbia vs. Greece [Fubo Sports]
+https://august.ppvtv.icu/embed.html?match=f1ezz9zm&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - Portugal vs. Wales [FOX Soccer Plus]
+https://august.ppvtv.icu/embed.html?match=fqbgq7j&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 19:10 - Arizona Diamondbacks vs. Colorado Rockies [Rockies.TV]
+https://august.ppvtv.icu/embed.html?match=f1wfiunx&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 22:05 - Milwaukee Brewers vs. Philadelphia Phillies [NBC Sports Phil]
+https://august.ppvtv.icu/embed.html?match=fptbgbh&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 22:45 - Cleveland Guardians vs. Boston Red Sox [NESN]
+https://august.ppvtv.icu/embed.html?match=f19q20rm&server=0
+
+#EXTINF:-1 group-title="Basketball – WNBA",Oggi 23:00 - Toronto Tempo vs. Connecticut Sun [NBA TV]
+https://august.ppvtv.icu/embed.html?match=f19gxo6k&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:00 - Boston Bruins vs. Philadelphia Flyers [NBC Sports Phil +]
+https://august.ppvtv.icu/embed.html?match=ffslhhp&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:00 - Buffalo Sabres vs. Detroit Red Wings [DSN]
+https://august.ppvtv.icu/embed.html?match=fgeb8cs&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:00 - Pittsburgh Penguins vs. Columbus Blue Jackets [NHL]
+https://august.ppvtv.icu/embed.html?match=f1rfl517&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:00 - New Jersey Devils vs. New York Rangers [MSG]
+https://august.ppvtv.icu/embed.html?match=f11y9gzv&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:00 - Nashville Predators vs. Carolina Hurricanes [ESPN+]
+https://august.ppvtv.icu/embed.html?match=fqppkbk&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:00 - Florida Panthers vs. Tampa Bay Lightning [The Spot - MTN]
+https://august.ppvtv.icu/embed.html?match=f1qb7kbi&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 23:05 - Tampa Bay Rays vs. New York Yankees [YES]
+https://august.ppvtv.icu/embed.html?match=fixsn49&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 23:15 - Cincinnati Reds vs. Atlanta Braves [BravesVision]
+https://august.ppvtv.icu/embed.html?match=fy5m2m4&server=0
+
+#EXTINF:-1 group-title="Basketball – WNBA",Oggi 23:30 - Chicago Sky vs. Washington Mystics [MNMT]
+https://august.ppvtv.icu/embed.html?match=f145h75a&server=0
 
 #EXTINF:-1 group-title="American Football – 24/7 channel",Oggi N/A - NFL Network [NFL Network (ESPN)]
 https://august.ppvtv.icu/embed.html?match=c15q87wa&server=0
@@ -79,8 +133,14 @@ https://august.ppvtv.icu/embed.html?match=c1ed9edx&server=0
 #EXTINF:-1 group-title="American Football – Canadian Football",Domani 00:00 - Toronto Argonauts at Winnipeg Blue Bombers [CFL+]
 https://august.ppvtv.icu/embed.html?match=c20c2zd&server=0
 
+#EXTINF:-1 group-title="Basketball – WNBA",Domani 00:00 - Indiana Fever vs. Minnesota Lynx [USA Net]
+https://august.ppvtv.icu/embed.html?match=f101qgeo&server=0
+
 #EXTINF:-1 group-title="Combat Sports – Brazillian Jiu-Jitsu",Domani 00:00 - UFC BJJ 11: Musumeci vs. Mitchell [Sportsnet+]
 https://august.ppvtv.icu/embed.html?match=fgyb1xv&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Chicago Blackhawks vs. St. Louis Blues [Blues App]
+https://august.ppvtv.icu/embed.html?match=f1hb4bs2&server=0
 
 #EXTINF:-1 group-title="Wrestling – Wrestling",Domani 00:00 - WWE Friday Night Smackdown [USA]
 https://august.ppvtv.icu/embed.html?match=c1auumh5&server=0
@@ -130,11 +190,38 @@ https://august.ppvtv.icu/embed.html?match=fixk69o&server=0
 #EXTINF:-1 group-title="Football – Liga MX",Domani 01:00 - León vs. FC Juarez [Liga MX]
 https://august.ppvtv.icu/embed.html?match=f147p9lf&server=0
 
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 01:00 - Edmonton Oilers vs. Vancouver Canucks [ESPN+]
+https://august.ppvtv.icu/embed.html?match=f6jv8y4&server=0
+
 #EXTINF:-1 group-title="Wrestling – Wrestling",Domani 01:00 - TNA Impact [AMC]
 https://august.ppvtv.icu/embed.html?match=c1se54xr&server=0
 
 #EXTINF:-1 group-title="Football – MLS",Domani 01:30 - Real Salt Lake vs. New England Revolution [Apple TV]
 https://august.ppvtv.icu/embed.html?match=fs8zj4i&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Domani 01:40 - Los Angeles Angels vs. Seattle Mariners [Mariners.TV]
+https://august.ppvtv.icu/embed.html?match=f1h0pxlq&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Domani 01:40 - Houston Astros vs. Athletics [NBC Sports CA]
+https://august.ppvtv.icu/embed.html?match=fey3psj&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 01:40 - Calgary Flames vs. Seattle Kraken [KONG]
+https://august.ppvtv.icu/embed.html?match=fhdhdn6&server=0
+
+#EXTINF:-1 group-title="Basketball – WNBA",Domani 02:00 - Golden State Valkyries vs. Los Angeles Sparks [Spectrum Sports Net]
+https://august.ppvtv.icu/embed.html?match=ffj7nmm&server=0
+
+#EXTINF:-1 group-title="Basketball – WNBA",Domani 02:00 - Las Vegas Aces vs. Phoenix Mercury [USA Net]
+https://august.ppvtv.icu/embed.html?match=f1xgj0fr&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 02:00 - Utah Mammoth vs. Vegas Golden Knights [Scripps Sports]
+https://august.ppvtv.icu/embed.html?match=fgvgzuj&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 02:00 - Anaheim Ducks vs. San Jose Sharks [NHL]
+https://august.ppvtv.icu/embed.html?match=f1pmie7d&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Domani 02:10 - San Diego Padres vs. Los Angeles Dodgers [SportsNet LA]
+https://august.ppvtv.icu/embed.html?match=fjgjc48&server=0
 
 #EXTINF:-1 group-title="American Football – Canadian Football",Domani 02:30 - Saskatchewan Roughriders at BC Lions [CFL+]
 https://august.ppvtv.icu/embed.html?match=c7z2lq2&server=0
@@ -186,6 +273,9 @@ https://august.ppvtv.icu/embed.html?match=cmkurr8&server=5
 
 #EXTINF:-1 group-title="Motorsports – Formula 1",Domani 08:30 - Azerbaijan Grand Prix - Practice 3 [Viaplay]
 https://august.ppvtv.icu/embed.html?match=cmkurr8&server=6
+
+#EXTINF:-1 group-title="Basketball – NBL",Domani 09:30 - Brisbane Bullets vs. Illawarra Hawks [ESPN]
+https://august.ppvtv.icu/embed.html?match=f29rir7&server=0
 
 #EXTINF:-1 group-title="Rugby – Rugby League (NRL)",Domani 09:50 - Dolphins vs. Roosters [Fox League]
 https://august.ppvtv.icu/embed.html?match=ft9u0tk&server=0

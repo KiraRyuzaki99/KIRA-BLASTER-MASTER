@@ -1,72 +1,6 @@
 <?xml version="1.0" ?>
 <playlist version="1">
   <track>
-    <title>14:00 Namibia x Congo</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd10.php</url>
-    <url>https://w6.sportsonliine.click/channels/hd/hd9.php</url>
-  </track>
-  <track>
-    <title>17:00 Congo DR x Equatorial Guinea</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd10.php</url>
-  </track>
-  <track>
-    <title>17:00 Mauritania x Central African Republic</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd9.php</url>
-  </track>
-  <track>
-    <title>17:00 Andorra x Malta</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd8.php</url>
-    <url>https://w6.sportsonliine.click/channels/pt/sporttv2.php</url>
-    <url>https://w6.sportsonliine.click/channels/bra/br6.php</url>
-  </track>
-  <track>
-    <title>19:45 Austria x Israel</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd11.php</url>
-    <url>https://w6.sportsonliine.click/channels/hd/hd10.php</url>
-    <url>https://w6.sportsonliine.click/channels/bra/br3.php</url>
-  </track>
-  <track>
-    <title>19:45 Netherlands x Germany</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd3.php</url>
-    <url>https://w6.sportsonliine.click/channels/hd/hd4.php</url>
-    <url>https://w6.sportsonliine.click/channels/pt/sporttv2.php</url>
-    <url>https://w6.sportsonliine.click/channels/bra/br2.php</url>
-  </track>
-  <track>
-    <title>19:45 Liechtenstein x Lithuania</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd8.php</url>
-  </track>
-  <track>
-    <title>19:45 Kosovo x Ireland Republic</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd5.php</url>
-  </track>
-  <track>
-    <title>19:45 Norway x Denmark</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd2.php</url>
-    <url>https://w6.sportsonliine.click/channels/pt/sporttv3.php</url>
-  </track>
-  <track>
-    <title>19:45 Portugal x Wales</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd1.php</url>
-    <url>https://w6.sportsonliine.click/channels/pt/sporttv1.php</url>
-    <url>https://w6.sportsonliine.click/channels/bra/br1.php</url>
-  </track>
-  <track>
-    <title>19:45 Serbia x Greece</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd7.php</url>
-    <url>https://w6.sportsonliine.click/channels/pt/sporttv4.php</url>
-    <url>https://w6.sportsonliine.click/channels/bra/br6.php</url>
-  </track>
-  <track>
-    <title>20:00 Côte d'Ivoire x Ghana</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd10.php</url>
-    <url>https://w6.sportsonliine.click/channels/pt/sporttv5.php</url>
-  </track>
-  <track>
-    <title>20:00 Cameroon x Comoros</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd9.php</url>
-  </track>
-  <track>
     <title>01:00 Dominican Republic x Nicaragua</title>
     <url>https://w6.sportsonliine.click/channels/hd/hd2.php</url>
   </track>
@@ -83,22 +17,7 @@
     <url>https://w6.sportsonliine.click/channels/hd/hd2.php</url>
   </track>
   <additional>
-    <item>HD1 ENGLISH</item>
     <item>HD2 ENGLISH</item>
-    <item>HD3 GERMAN</item>
-    <item>HD4 DUTCH</item>
-    <item>HD5 ENGLISH</item>
-    <item>HD6 SPANISH</item>
-    <item>HD7 ITALIAN &amp; GREEK</item>
-    <item>HD8 ITALIAN &amp; ENGLISH</item>
-    <item>HD9 SPANISH</item>
-    <item>HD10 ENGLISH</item>
-    <item>HD11 GERMAN &amp; SPANISH</item>
-    <item>BR1 BRAZILIAN</item>
-    <item>BR2 BRAZILIAN</item>
-    <item>BR3 BRAZILIAN</item>
-    <item>BR4 BRAZILIAN</item>
-    <item>BR5 BRAZILIAN</item>
-    <item>BR6 BRAZILIAN</item>
+    <item>HD11 SPANISH</item>
   </additional>
 </playlist>

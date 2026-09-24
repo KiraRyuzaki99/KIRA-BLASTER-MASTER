@@ -96,7 +96,7 @@
     "end_iso": "2026-09-24T20:50:00.000Z",
     "date": "Thursday, 24 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/portugal-vs-wales",
     "servers": [
       {
@@ -149,7 +149,7 @@
     "end_iso": "2026-09-24T21:00:00.000Z",
     "date": "Thursday, 24 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/germany-vs-netherlands",
     "servers": [
       {
@@ -182,7 +182,7 @@
     "end_iso": "2026-09-24T21:00:00.000Z",
     "date": "Thursday, 24 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/norway-vs-denmark",
     "servers": [
       {
@@ -205,7 +205,7 @@
     "end_iso": "2026-09-24T21:00:00.000Z",
     "date": "Thursday, 24 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/ireland-vs-kosovo",
     "servers": [
       {
@@ -228,7 +228,7 @@
     "end_iso": "2026-09-24T21:00:00.000Z",
     "date": "Thursday, 24 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/serbia-vs-greece",
     "servers": [
       {
@@ -261,9 +261,43 @@
     "end_iso": "2026-09-24T21:00:00.000Z",
     "date": "Thursday, 24 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/liechtenstein-vs-lithuania",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/liechtenstein-vs-lithuania/2216",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Austria Israel",
+    "category": "Austria",
+    "logo": "https://cdn.img4every1.org/team/austria/logo.webp",
+    "start_iso": "2026-09-24T18:45:00.000Z",
+    "end_iso": "2026-09-24T21:00:00.000Z",
+    "date": "Thursday, 24 September 2026",
+    "time": "20:45",
+    "status": "live",
+    "event_url": "https://pogo.pk/events/austria-vs-israel",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/austria-vs-israel/2215",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Australia Brazil",
@@ -287,6 +321,78 @@
     "time": "12:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/india-vs-panama",
+    "servers": []
+  },
+  {
+    "title": "Georgia Northern Ireland",
+    "category": "Georgia",
+    "logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
+    "start_iso": "2026-09-25T16:00:00.000Z",
+    "end_iso": "2026-09-25T18:15:00.000Z",
+    "date": "Friday, 25 September 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/georgia-vs-northern-ireland",
+    "servers": []
+  },
+  {
+    "title": "Armenia Latvia",
+    "category": "Armenia",
+    "logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
+    "start_iso": "2026-09-25T16:00:00.000Z",
+    "end_iso": "2026-09-25T18:15:00.000Z",
+    "date": "Friday, 25 September 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/armenia-vs-latvia",
+    "servers": []
+  },
+  {
+    "title": "Turkiye France",
+    "category": "Turkiye",
+    "logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
+    "start_iso": "2026-09-25T18:45:00.000Z",
+    "end_iso": "2026-09-25T21:00:00.000Z",
+    "date": "Friday, 25 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/turkiye-vs-france",
+    "servers": []
+  },
+  {
+    "title": "Sweden Romania",
+    "category": "Sweden",
+    "logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
+    "start_iso": "2026-09-25T18:45:00.000Z",
+    "end_iso": "2026-09-25T21:00:00.000Z",
+    "date": "Friday, 25 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/sweden-vs-romania",
+    "servers": []
+  },
+  {
+    "title": "Bosnia and Herzegovina Poland",
+    "category": "Bosnia and Herzegovina",
+    "logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
+    "start_iso": "2026-09-25T18:45:00.000Z",
+    "end_iso": "2026-09-25T21:00:00.000Z",
+    "date": "Friday, 25 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/bosnia-vs-poland",
+    "servers": []
+  },
+  {
+    "title": "Hungary Ukraine",
+    "category": "Hungary",
+    "logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
+    "start_iso": "2026-09-25T18:45:00.000Z",
+    "end_iso": "2026-09-25T21:00:00.000Z",
+    "date": "Friday, 25 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/hungary-vs-ukraine",
     "servers": []
   },
   {

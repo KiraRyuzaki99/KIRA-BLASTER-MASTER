@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Motori",Formula 1 2026 - Azerbaijan GP [Server 2 (delta)]
 https://golxu.st/eventostop.html?id=live-event_formula-1-2026-azerbaijan-gp-live-stream
-#EXTINF:-1 group-title="Calcio",Andorra vs Malta [Server 1 (admin)]
-https://golxu.st/eventostop.html?id=ppv-andorra-vs-malta
-#EXTINF:-1 group-title="Calcio",Andorra vs Malta [foxtrot]
-https://golxu.st/eventostop.html?id=malta-v-andorra-unl-401861047
-#EXTINF:-1 group-title="Calcio",Andorra vs Malta [hotel]
-https://golxu.st/eventostop.html?id=andorra-vs-malta-uefa-nations-league-1790265600
-#EXTINF:-1 group-title="Basket",Hapoel Tel Aviv BC vs Bayern München Basketball [Server 1 (admin)]
-https://golxu.st/eventostop.html?id=ppv-hapoel-tel-aviv-vs-bayern-m-nchen
-#EXTINF:-1 group-title="Baseball",Pittsburgh Pirates vs St. Louis Cardinals [Server 1 (admin)]
-https://golxu.st/eventostop.html?id=ppv-st-louis-cardinals-vs-pittsburgh-pirates
-#EXTINF:-1 group-title="Baseball",Pittsburgh Pirates vs St. Louis Cardinals [Server 2 (delta)]
-https://golxu.st/eventostop.html?id=live_mlb_pirates-cardinals-live-streaming-594489024
 #EXTINF:-1 group-title="Baseball",Pittsburgh Pirates vs St. Louis Cardinals [foxtrot]
 https://golxu.st/eventostop.html?id=cardinals-v-pirates-401817063
 #EXTINF:-1 group-title="Baseball",Pittsburgh Pirates vs St. Louis Cardinals [golf]
@@ -43,8 +31,6 @@ https://golxu.st/eventostop.html?id=live_mlb_rangers-mets-live-streaming-5944903
 https://golxu.st/eventostop.html?id=mets-v-rangers-401817067
 #EXTINF:-1 group-title="Baseball",Texas Rangers vs New York Mets [golf]
 https://golxu.st/eventostop.html?id=1658
-#EXTINF:-1 group-title="Calcio",Slovenia vs North Macedonia [Server 2 (delta)]
-https://golxu.st/eventostop.html?id=live_uefa-nations-league-league-b-gr-1_slovenia-north-macedonia-live-streaming-539380944
 #EXTINF:-1 group-title="Calcio",Liechtenstein vs Lithuania [Server 1 (admin)]
 https://golxu.st/eventostop.html?id=ppv-liechtenstein-vs-lithuania
 #EXTINF:-1 group-title="Calcio",Liechtenstein vs Lithuania [Server 2 (delta)]

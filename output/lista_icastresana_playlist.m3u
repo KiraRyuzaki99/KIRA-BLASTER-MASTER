@@ -1,23 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="11:00 Billie Jean King Cup - 1/4 de Final Kazajistán - España" group-title="Billie Jean King Cup",11:00 Billie Jean King Cup - 1/4 de Final Kazajistán - España
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="12:00  -  Real Madrid Academy - Getafe Academy" group-title="12",12:00  -  Real Madrid Academy - Getafe Academy
-acestream://44ea3d00ee2abfd5d89792a32851d7af61f16f0a
-#EXTINF:-1 tvg-name="12:30 Billie Jean King Cup - 1/4 de Final Kazajistán - España" group-title="Billie Jean King Cup",12:30 Billie Jean King Cup - 1/4 de Final Kazajistán - España
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="12:30 WTA Torneo de Singapur - 2ª Ronda M. Andreeva - A. Sasnovich" group-title="WTA Torneo de Singapur",12:30 WTA Torneo de Singapur - 2ª Ronda M. Andreeva - A. Sasnovich
+#EXTINF:-1 tvg-name="10:30 Euroliga - Liga Regular Libres 1" group-title="Euroliga",10:30 Euroliga - Liga Regular Libres 1
+acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-name="12:00 Euroliga - Liga Regular Clasificación" group-title="Euroliga",12:00 Euroliga - Liga Regular Clasificación
+acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-name="12:30 WTA Torneo de Singapur - 2ª Ronda T. Prozorova - A. Eala" group-title="WTA Torneo de Singapur",12:30 WTA Torneo de Singapur - 2ª Ronda T. Prozorova - A. Eala
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
-#EXTINF:-1 tvg-name="14:00 WTA Torneo de Singapur - 2ª Ronda A. Parks - L. Fernández" group-title="WTA Torneo de Singapur",14:00 WTA Torneo de Singapur - 2ª Ronda A. Parks - L. Fernández
+#EXTINF:-1 tvg-name="13:30 Open de France -  Jornada 1" group-title="Open de France",13:30 Open de France -  Jornada 1
+acestream://882074140fca664e119a43294afa2fb4a64917ef
+#EXTINF:-1 tvg-name="14:00 Euroliga - Liga Regular Libres 2" group-title="Euroliga",14:00 Euroliga - Liga Regular Libres 2
+acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-name="14:00 WTA Torneo de Singapur - 2ª Ronda M. Sakkari - N. Hibino" group-title="WTA Torneo de Singapur",14:00 WTA Torneo de Singapur - 2ª Ronda M. Sakkari - N. Hibino
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
-#EXTINF:-1 tvg-name="14:00 Tour de Croacia -  Etapa 2 - Biograd na Moru › Novalja (114,5 km)" group-title="Tour de Croacia",14:00 Tour de Croacia -  Etapa 2 - Biograd na Moru › Novalja (114,5 km)
+#EXTINF:-1 tvg-name="14:00 Tour de Croacia -  Etapa 3 - Krk › Labin (174.5 km)" group-title="Tour de Croacia",14:00 Tour de Croacia -  Etapa 3 - Krk › Labin (174.5 km)
 acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1 tvg-name="15:00  -  Italia - España" group-title="15",15:00  -  Italia - España
+#EXTINF:-1 tvg-name="16:00 Mundial de Ciclismo en Ruta -  Carrera Sub-23 Femenina - Montreal › Montreal (134 km)" group-title="Mundial de Ciclismo en Ruta",16:00 Mundial de Ciclismo en Ruta -  Carrera Sub-23 Femenina - Montreal › Montreal (134 km)
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
+#EXTINF:-1 tvg-name="18:00 Euroliga - Liga Regular Dubai Basketball - Real Madrid Baloncesto" group-title="Euroliga",18:00 Euroliga - Liga Regular Dubai Basketball - Real Madrid Baloncesto
+acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
+#EXTINF:-1 tvg-name="18:30 Presidents Cup -  Jornada 1" group-title="Presidents Cup",18:30 Presidents Cup -  Jornada 1
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 tvg-name="18:45 Las Carreras -  Hipódromo de La Zarzuela 24/09/2026" group-title="Las Carreras",18:45 Las Carreras -  Hipódromo de La Zarzuela 24/09/2026
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 tvg-name="19:20 Mundial de Ciclismo en Ruta -  Carrera Junior Masculina - Montreal › Montreal (134 km)" group-title="Mundial de Ciclismo en Ruta",19:20 Mundial de Ciclismo en Ruta -  Carrera Junior Masculina - Montreal › Montreal (134 km)
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
+#EXTINF:-1 tvg-name="20:30 Euroliga - Liga Regular Barça Basket - Anadolu Efes Istanbul" group-title="Euroliga",20:30 Euroliga - Liga Regular Barça Basket - Anadolu Efes Istanbul
+acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
+#EXTINF:-1 tvg-name="20:30 Ultimate Sevens -  Brentford" group-title="Ultimate Sevens",20:30 Ultimate Sevens -  Brentford
 acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="18:30  -  Corea del Norte - Colombia" group-title="18",18:30  -  Corea del Norte - Colombia
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="20:30 Liga Catalana Femenina -  Spar Girona - Cadi La Seu" group-title="Liga Catalana Femenina",20:30 Liga Catalana Femenina -  Spar Girona - Cadi La Seu
-acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1 tvg-name="21:00 1RFEF - Grupo 2 Sant Andreu - RM Castilla" group-title="1RFEF",21:00 1RFEF - Grupo 2 Sant Andreu - RM Castilla
-acestream://177796041773be99b489dd3ce86144f243e7355f
-#EXTINF:-1 tvg-name="05:00 WTA Torneo de Singapur -  2ª Ronda - WTA 500" group-title="WTA Torneo de Singapur",05:00 WTA Torneo de Singapur -  2ª Ronda - WTA 500
+#EXTINF:-1 tvg-name="20:45 UEFA Nations League - Fase de grupos Holanda - Alemania" group-title="UEFA Nations League",20:45 UEFA Nations League - Fase de grupos Holanda - Alemania
+acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e
+#EXTINF:-1 tvg-name="02:15 NFL - Liga Regular Green Bay Packers - Atlanta Falcons" group-title="NFL",02:15 NFL - Liga Regular Green Bay Packers - Atlanta Falcons
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-name="05:00 WTA Torneo de Singapur -  1/4 de Final - WTA 500" group-title="WTA Torneo de Singapur",05:00 WTA Torneo de Singapur -  1/4 de Final - WTA 500
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1 tvg-name="06:15 Ultimate Sevens -  Carrera 1" group-title="Ultimate Sevens",06:15 Ultimate Sevens -  Carrera 1
+acestream://d65257bb934b73647374224fd62d836815804be2

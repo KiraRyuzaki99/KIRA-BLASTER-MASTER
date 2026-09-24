@@ -1,26 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",18:00 - Andorra vs Malta
-https://embed.st/embed/admin/ppv-andorra-vs-malta/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Hockey",19:00 - Luleå HF vs Frölunda HC
+https://embed.st/embed/admin/ppv-lule-hf-vs-fr-lunda-hc/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Football",18:00 - Andorra vs Malta
-https://embed.st/embed/admin/ppv-andorra-vs-malta/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:00 - Andorra vs Malta
-https://embed.st/embed/delta/live_uefa-nations-league-league-d-gr-1_andorra-malta-live-streaming-539383536/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:00 - Andorra vs Malta
-https://embed.st/embed/foxtrot/malta-v-andorra-unl-401861047/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:00 - Andorra vs Malta
-https://embed.st/embed/hotel/andorra-vs-malta-uefa-nations-league-1790265600/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",18:00 - Hapoel Tel Aviv BC vs Bayern München Basketball
-https://embed.st/embed/admin/ppv-hapoel-tel-aviv-vs-bayern-m-nchen/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",18:00 - Hapoel Tel Aviv BC vs Bayern München Basketball
-https://embed.st/embed/admin/ppv-hapoel-tel-aviv-vs-bayern-m-nchen/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Hockey",19:00 - Luleå HF vs Frölunda HC
+https://embed.st/embed/admin/ppv-lule-hf-vs-fr-lunda-hc/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",18:35 - Pittsburgh Pirates vs St. Louis Cardinals
 https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-pittsburgh-pirates/1#player=clappr&autoplay=true
@@ -37,11 +22,11 @@ https://embed.st/embed/foxtrot/cardinals-v-pirates-401817063/1#player=clappr&aut
 #EXTINF:-1 group-title="Baseball",18:35 - Pittsburgh Pirates vs St. Louis Cardinals
 https://embed.st/embed/golf/1655/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Hockey",19:00 - Luleå HF vs Frölunda HC
-https://embed.st/embed/admin/ppv-lule-hf-vs-fr-lunda-hc/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Basketball",18:00 - Hapoel Tel Aviv BC vs Bayern München Basketball
+https://embed.st/embed/admin/ppv-hapoel-tel-aviv-vs-bayern-m-nchen/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Hockey",19:00 - Luleå HF vs Frölunda HC
-https://embed.st/embed/admin/ppv-lule-hf-vs-fr-lunda-hc/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Basketball",18:00 - Hapoel Tel Aviv BC vs Bayern München Basketball
+https://embed.st/embed/admin/ppv-hapoel-tel-aviv-vs-bayern-m-nchen/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",20:10 - Kansas City Royals vs Chicago White Sox
 https://embed.st/embed/admin/ppv-chicago-white-sox-vs-kansas-city-royals/1#player=clappr&autoplay=true
@@ -50,13 +35,13 @@ https://embed.st/embed/admin/ppv-chicago-white-sox-vs-kansas-city-royals/1#playe
 https://embed.st/embed/admin/ppv-chicago-white-sox-vs-kansas-city-royals/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",20:10 - Kansas City Royals vs Chicago White Sox
+https://embed.st/embed/delta/live_mlb_royals-white-sox-live-streaming-594489456/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",20:10 - Kansas City Royals vs Chicago White Sox
+https://embed.st/embed/delta/live_mlb_royals-white-sox-live-streaming-594489456/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",20:10 - Kansas City Royals vs Chicago White Sox
 https://embed.st/embed/foxtrot/white-sox-v-royals-401817065/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",20:10 - Kansas City Royals vs Chicago White Sox
-https://embed.st/embed/golf/1656/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",20:10 - Kansas City Royals vs Chicago White Sox
-https://embed.st/embed/golf/1656/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Basketball",20:15 - Panathinaikos BC vs Paris Basketball
 https://embed.st/embed/admin/ppv-panathinaikos-bc-vs-paris-basketball/1#player=clappr&autoplay=true
@@ -71,13 +56,13 @@ https://embed.st/embed/admin/ppv-miami-marlins-vs-chicago-cubs/1#player=clappr&a
 https://embed.st/embed/admin/ppv-miami-marlins-vs-chicago-cubs/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",20:20 - Chicago Cubs vs Miami Marlins
+https://embed.st/embed/delta/live_mlb_cubs-marlins-live-streaming-594489888/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",20:20 - Chicago Cubs vs Miami Marlins
 https://embed.st/embed/foxtrot/marlins-v-cubs-401817066/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",20:20 - Chicago Cubs vs Miami Marlins
 https://embed.st/embed/golf/1657/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",20:20 - Chicago Cubs vs Miami Marlins
-https://embed.st/embed/golf/1657/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",20:35 - Texas Rangers vs New York Mets
 https://embed.st/embed/admin/ppv-new-york-mets-vs-texas-rangers/1#player=clappr&autoplay=true
@@ -86,22 +71,25 @@ https://embed.st/embed/admin/ppv-new-york-mets-vs-texas-rangers/1#player=clappr&
 https://embed.st/embed/admin/ppv-new-york-mets-vs-texas-rangers/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",20:35 - Texas Rangers vs New York Mets
+https://embed.st/embed/delta/live_mlb_rangers-mets-live-streaming-594490320/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",20:35 - Texas Rangers vs New York Mets
+https://embed.st/embed/delta/live_mlb_rangers-mets-live-streaming-594490320/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",20:35 - Texas Rangers vs New York Mets
 https://embed.st/embed/foxtrot/mets-v-rangers-401817067/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",20:35 - Texas Rangers vs New York Mets
-https://embed.st/embed/golf/1658/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",20:35 - Texas Rangers vs New York Mets
-https://embed.st/embed/golf/1658/2#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Football",20:45 - North Macedonia vs Slovenia
-https://sportora.ru/watch/live_uefa-nations-league-league-b-gr-1_north-macedonia-slovenia-live-streaming-539378352
+https://embed.st/embed/delta/live_uefa-nations-league-league-b-gr-1_north-macedonia-slovenia-live-streaming-539378352/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Liechtenstein vs Lithuania
 https://embed.st/embed/admin/ppv-liechtenstein-vs-lithuania/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Liechtenstein vs Lithuania
 https://embed.st/embed/admin/ppv-liechtenstein-vs-lithuania/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Liechtenstein vs Lithuania
+https://embed.st/embed/delta/live_uefa-nations-league-league-d-gr-2_liechtenstein-lithuania-live-streaming-539383968/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Liechtenstein vs Lithuania
 https://embed.st/embed/foxtrot/lithuania-v-liechtenstein-unl-401861043/1#player=clappr&autoplay=true
@@ -116,6 +104,9 @@ https://embed.st/embed/admin/ppv-kosovo-vs-republic-of-ireland/1#player=clappr&a
 https://embed.st/embed/admin/ppv-kosovo-vs-republic-of-ireland/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Kosovo vs Ireland
+https://embed.st/embed/delta/live_uefa-nations-league-league-b-gr-3_kosovo-ireland-live-streaming-539383104/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Kosovo vs Ireland
 https://embed.st/embed/foxtrot/republic-of-ireland-v-kosovo-unl-401861045/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Kosovo vs Ireland
@@ -126,6 +117,9 @@ https://embed.st/embed/admin/ppv-austria-vs-israel/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Austria vs Israel
 https://embed.st/embed/admin/ppv-austria-vs-israel/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Austria vs Israel
+https://embed.st/embed/delta/live_uefa-nations-league-league-b-gr-3_austria-israel-live-streaming-539382672/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Austria vs Israel
 https://embed.st/embed/foxtrot/israel-v-austria-unl-401861048/1#player=clappr&autoplay=true
@@ -140,6 +134,9 @@ https://embed.st/embed/admin/ppv-norway-vs-denmark/1#player=clappr&autoplay=true
 https://embed.st/embed/admin/ppv-norway-vs-denmark/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Norway vs Denmark
+https://embed.st/embed/delta/live_uefa-nations-league-league-a-gr-4_norway-denmark-live-streaming-539376624/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Norway vs Denmark
 https://embed.st/embed/foxtrot/denmark-v-norway-unl-401861046/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Norway vs Denmark
@@ -150,6 +147,9 @@ https://embed.st/embed/admin/ppv-portugal-vs-wales/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Portugal vs Wales
 https://embed.st/embed/admin/ppv-portugal-vs-wales/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Portugal vs Wales
+https://embed.st/embed/delta/live_uefa-nations-league-league-a-gr-4_portugal-wales-live-streaming-539377056/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Portugal vs Wales
 https://embed.st/embed/foxtrot/wales-v-portugal-unl-401861044/1#player=clappr&autoplay=true
@@ -164,6 +164,9 @@ https://embed.st/embed/admin/ppv-serbia-vs-greece/1#player=clappr&autoplay=true
 https://embed.st/embed/admin/ppv-serbia-vs-greece/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Serbia vs Greece
+https://embed.st/embed/delta/live_uefa-nations-league-league-a-gr-2_serbia-greece-live-streaming-539376192/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Serbia vs Greece
 https://embed.st/embed/foxtrot/greece-v-serbia-unl-401861042/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Serbia vs Greece
@@ -174,6 +177,9 @@ https://embed.st/embed/admin/ppv-netherlands-vs-germany/1#player=clappr&autoplay
 
 #EXTINF:-1 group-title="Football",20:45 - Netherlands vs Germany
 https://embed.st/embed/admin/ppv-netherlands-vs-germany/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Netherlands vs Germany
+https://embed.st/embed/delta/live_uefa-nations-league-league-a-gr-2_netherlands-germany-live-streaming-539375760/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Netherlands vs Germany
 https://embed.st/embed/foxtrot/germany-v-netherlands-unl-401861041/1#player=clappr&autoplay=true

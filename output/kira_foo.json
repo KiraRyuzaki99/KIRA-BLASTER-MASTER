@@ -96,7 +96,7 @@
     "end_iso": "2026-09-25T21:00:00.000Z",
     "date": "Friday, 25 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/turkiye-vs-france",
     "servers": [
       {
@@ -149,7 +149,7 @@
     "end_iso": "2026-09-25T21:00:00.000Z",
     "date": "Friday, 25 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/sweden-vs-romania",
     "servers": [
       {
@@ -172,7 +172,7 @@
     "end_iso": "2026-09-25T21:00:00.000Z",
     "date": "Friday, 25 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/bosnia-vs-poland",
     "servers": [
       {
@@ -195,7 +195,7 @@
     "end_iso": "2026-09-25T21:00:00.000Z",
     "date": "Friday, 25 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/hungary-vs-ukraine",
     "servers": [
       {
@@ -218,9 +218,43 @@
     "end_iso": "2026-09-25T21:00:00.000Z",
     "date": "Friday, 25 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/montenegro-vs-cyprus",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/montenegro-vs-cyprus/2240",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Edinburgh Ulster",
+    "category": "Edinburgh",
+    "logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+    "start_iso": "2026-09-25T18:45:00.000Z",
+    "end_iso": "2026-09-25T21:00:00.000Z",
+    "date": "Friday, 25 September 2026",
+    "time": "20:45",
+    "status": "live",
+    "event_url": "https://pogo.pk/events/edinburgh-vs-ulster",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/edinburgh-vs-ulster/2236",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Italy Belgium",
@@ -230,7 +264,7 @@
     "end_iso": "2026-09-25T21:00:00.000Z",
     "date": "Friday, 25 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/italy-vs-belgium-live-stream",
     "servers": [
       {
@@ -286,52 +320,6 @@
     ]
   },
   {
-    "title": "Edinburgh Ulster",
-    "category": "Edinburgh",
-    "logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
-    "start_iso": "2026-09-25T18:45:00.000Z",
-    "end_iso": "2026-09-25T21:00:00.000Z",
-    "date": "Friday, 25 September 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/edinburgh-vs-ulster",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/edinburgh-vs-ulster/2236",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Stormers Connacht",
-    "category": "Stormers",
-    "logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
-    "start_iso": "2026-09-25T18:45:00.000Z",
-    "end_iso": "2026-09-25T21:00:00.000Z",
-    "date": "Friday, 25 September 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/stormers-vs-connacht",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/stormers-vs-connacht/2235",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Northampton Saints Newcastle Red Bulls",
     "category": "Northampton Saints",
     "logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
@@ -339,7 +327,7 @@
     "end_iso": "2026-09-25T21:00:00.000Z",
     "date": "Friday, 25 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/northampton-vs-newcastle",
     "servers": [
       {
@@ -362,7 +350,7 @@
     "end_iso": "2026-09-25T21:00:00.000Z",
     "date": "Friday, 25 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/bath-rugby-vs-harlequins",
     "servers": [
       {
@@ -376,6 +364,134 @@
         }
       }
     ]
+  },
+  {
+    "title": "Stormers Connacht",
+    "category": "Stormers",
+    "logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
+    "start_iso": "2026-09-25T18:45:00.000Z",
+    "end_iso": "2026-09-25T21:00:00.000Z",
+    "date": "Friday, 25 September 2026",
+    "time": "20:45",
+    "status": "live",
+    "event_url": "https://pogo.pk/events/stormers-vs-connacht",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/stormers-vs-connacht/2235",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Leeds Rhinos Warrington Wolves",
+    "category": "Leeds Rhinos",
+    "logo": "https://cdn.img4every1.org/team/leeds-rhinos/logo.webp",
+    "start_iso": "2026-09-25T19:00:00.000Z",
+    "end_iso": "2026-09-25T21:15:00.000Z",
+    "date": "Friday, 25 September 2026",
+    "time": "21:00",
+    "status": "live",
+    "event_url": "https://pogo.pk/events/leeds-rhinos-vs-warrington-wolves",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/leeds-rhinos-vs-warrington-wolves/2241",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/leeds-rhinos-vs-warrington-wolves/2242",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Scotland Slovenia",
+    "category": "Scotland",
+    "logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+    "start_iso": "2026-09-26T13:00:00.000Z",
+    "end_iso": "2026-09-26T15:15:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/scotland-vs-slovenia",
+    "servers": []
+  },
+  {
+    "title": "Bulgaria Luxembourg",
+    "category": "Bulgaria",
+    "logo": "https://cdn.img4every1.org/team/bulgaria/logo.webp",
+    "start_iso": "2026-09-26T16:00:00.000Z",
+    "end_iso": "2026-09-26T18:15:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/bulgaria-vs-luxembourg",
+    "servers": []
+  },
+  {
+    "title": "Faroe Islands Kazakhstan",
+    "category": "Faroe Islands",
+    "logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
+    "start_iso": "2026-09-26T16:00:00.000Z",
+    "end_iso": "2026-09-26T18:15:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/faroe-islands-vs-kazakhstan",
+    "servers": []
+  },
+  {
+    "title": "Iceland Estonia",
+    "category": "Iceland",
+    "logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
+    "start_iso": "2026-09-26T16:00:00.000Z",
+    "end_iso": "2026-09-26T18:15:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/iceland-vs-estonia",
+    "servers": []
+  },
+  {
+    "title": "Finland San Marino",
+    "category": "Finland",
+    "logo": "https://cdn.img4every1.org/team/finland/logo.webp",
+    "start_iso": "2026-09-26T16:00:00.000Z",
+    "end_iso": "2026-09-26T18:15:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/finland-vs-san-marino",
+    "servers": []
+  },
+  {
+    "title": "England Spain",
+    "category": "England",
+    "logo": "https://cdn.img4every1.org/team/england/logo.webp",
+    "start_iso": "2026-09-26T18:45:00.000Z",
+    "end_iso": "2026-09-26T21:00:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/england-vs-spain",
+    "servers": []
   },
   {
     "title": "Colombia Mexico",
@@ -411,30 +527,6 @@
     "time": "01:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/canada-vs-chile",
-    "servers": []
-  },
-  {
-    "title": "Georgia Northern Ireland",
-    "category": "Georgia",
-    "logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
-    "start_iso": "2026-09-25T16:00:00.000Z",
-    "end_iso": "2026-09-25T18:15:00.000Z",
-    "date": "Friday, 25 September 2026",
-    "time": "18:00",
-    "status": "finished",
-    "event_url": "https://pogo.pk/events/georgia-vs-northern-ireland",
-    "servers": []
-  },
-  {
-    "title": "Armenia Latvia",
-    "category": "Armenia",
-    "logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
-    "start_iso": "2026-09-25T16:00:00.000Z",
-    "end_iso": "2026-09-25T18:15:00.000Z",
-    "date": "Friday, 25 September 2026",
-    "time": "18:00",
-    "status": "finished",
-    "event_url": "https://pogo.pk/events/armenia-vs-latvia",
     "servers": []
   }
 ]

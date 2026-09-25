@@ -96,9 +96,30 @@
     "end_iso": "2026-09-25T18:15:00.000Z",
     "date": "Friday, 25 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/georgia-vs-northern-ireland",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/georgia-vs-northern-ireland/2219",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/georgia-vs-northern-ireland/2220",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Armenia Latvia",
@@ -108,9 +129,30 @@
     "end_iso": "2026-09-25T18:15:00.000Z",
     "date": "Friday, 25 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/armenia-vs-latvia",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/armenia-vs-latvia/2217",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/armenia-vs-latvia/2218",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Turkiye France",
@@ -122,7 +164,48 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/turkiye-vs-france",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/turkiye-vs-france/2221",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/turkiye-vs-france/2222",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Deutsch",
+        "url": "https://pogo.pk/alpha/turkiye-vs-france/2223",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://pogo.pk/alpha/turkiye-vs-france/2224",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "Sweden Romania",
@@ -134,7 +217,18 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/sweden-vs-romania",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/sweden-vs-romania/2232",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Bosnia and Herzegovina Poland",
@@ -146,7 +240,18 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/bosnia-vs-poland",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/bosnia-vs-poland/2233",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Hungary Ukraine",
@@ -158,7 +263,93 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/hungary-vs-ukraine",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/hungary-vs-ukraine/2234",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Montenegro Cyprus",
+    "category": "Montenegro",
+    "logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
+    "start_iso": "2026-09-25T18:45:00.000Z",
+    "end_iso": "2026-09-25T21:00:00.000Z",
+    "date": "Friday, 25 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/montenegro-vs-cyprus",
     "servers": []
+  },
+  {
+    "title": "Italy Belgium",
+    "category": "Italy",
+    "logo": "https://cdn.img4every1.org/team/italy/logo.webp",
+    "start_iso": "2026-09-25T18:45:00.000Z",
+    "end_iso": "2026-09-25T21:00:00.000Z",
+    "date": "Friday, 25 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/italy-vs-belgium-live-stream",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/italy-vs-belgium-live-stream/2227",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/italy-vs-belgium-live-stream/2228",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Italiano",
+        "url": "https://pogo.pk/alpha/italy-vs-belgium-live-stream/2229",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Italiano"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://pogo.pk/alpha/italy-vs-belgium-live-stream/2230",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      },
+      {
+        "label": "Deutsch",
+        "url": "https://pogo.pk/alpha/italy-vs-belgium-live-stream/2231",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
+        }
+      }
+    ]
   },
   {
     "title": "Colombia Mexico",
@@ -194,6 +385,18 @@
     "time": "01:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/canada-vs-chile",
+    "servers": []
+  },
+  {
+    "title": "India Panama",
+    "category": "India",
+    "logo": "https://cdn.img4every1.org/team/india/logo.webp",
+    "start_iso": "2026-09-25T14:00:00.000Z",
+    "end_iso": "2026-09-25T16:15:00.000Z",
+    "date": "Friday, 25 September 2026",
+    "time": "16:00",
+    "status": "finished",
+    "event_url": "https://pogo.pk/events/india-vs-panama",
     "servers": []
   }
 ]

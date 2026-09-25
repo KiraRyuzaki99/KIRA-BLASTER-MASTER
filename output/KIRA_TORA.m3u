@@ -1,23 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Other",10:20 - Cremona — Free Practice 1
-https://embed.st/embed/hotel/cremona-free-practice-1-worldsbk-1790324400/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Rugby",11:50 - Dolphins vs Sydney Roosters
+https://embed.st/embed/admin/ppv-dolphins-vs-roosters/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Motor-sports",10:30 - 3rd Practice | Baku City Circuit |
-https://embed.st/embed/hotel/baku-city-circuit-free-practice-3-formula-1-1790325000/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Rugby",11:50 - Dolphins vs Sydney Roosters
+https://embed.st/embed/admin/ppv-dolphins-vs-roosters/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Motor-sports",10:30 - 3rd Practice | Baku City Circuit |
-https://embed.st/embed/hotel/baku-city-circuit-free-practice-3-formula-1-1790325000/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Basketball",11:30 - Brisbane Bullets vs Illawarra Hawks
+https://embed.st/embed/admin/ppv-brisbane-bullets-vs-illawarra-hawks/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Motor-sports",10:30 - 3rd Practice | Baku City Circuit |
-https://embed.st/embed/hotel/baku-city-circuit-free-practice-3-formula-1-1790325000/3#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Motor-sports",10:30 - 3rd Practice | Baku City Circuit |
-https://embed.st/embed/hotel/baku-city-circuit-free-practice-3-formula-1-1790325000/4#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Motor-sports",10:30 - 3rd Practice | Baku City Circuit |
-https://embed.st/embed/hotel/baku-city-circuit-free-practice-3-formula-1-1790325000/5#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Basketball",11:30 - Brisbane Bullets vs Illawarra Hawks
+https://embed.st/embed/admin/ppv-brisbane-bullets-vs-illawarra-hawks/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Motor-sports",10:30 - Azerbaijan Grand Prix Practice 3
 https://embed.st/embed/admin/ppv-azerbaijan-grand-prix-qualifying/1#player=clappr&autoplay=true
@@ -34,32 +28,38 @@ https://embed.st/embed/admin/ppv-azerbaijan-grand-prix-qualifying/4#player=clapp
 #EXTINF:-1 group-title="Motor-sports",10:30 - Azerbaijan Grand Prix Practice 3
 https://embed.st/embed/admin/ppv-azerbaijan-grand-prix-qualifying/5#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Basketball",11:30 - Brisbane Bullets vs Illawarra Hawks
-https://embed.st/embed/admin/ppv-brisbane-bullets-vs-illawarra-hawks/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",11:30 - Brisbane Bullets vs Illawarra Hawks
-https://embed.st/embed/admin/ppv-brisbane-bullets-vs-illawarra-hawks/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Rugby",11:50 - Dolphins vs Sydney Roosters
-https://embed.st/embed/admin/ppv-dolphins-vs-roosters/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Rugby",11:50 - Dolphins vs Sydney Roosters
-https://embed.st/embed/admin/ppv-dolphins-vs-roosters/2#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Motor-sports",12:15 - Baku City Circuit — Feature Race 1
 https://embed.st/embed/hotel/baku-city-circuit-feature-race-1-formula-2-1790331300/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Motor-sports",14:00 - 1st Qualifying | Baku City Circuit |
 https://embed.st/embed/hotel/baku-city-circuit-qualifying-formula-1-1790337600/1#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Other",15:00 - Cremona — Free Practice 2
+https://embed.st/embed/hotel/cremona-free-practice-2-worldsbk-1790341200/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Other",15:00 - Cremona — Free Practice 2
+https://embed.st/embed/hotel/cremona-free-practice-2-worldsbk-1790341200/2#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Hockey",18:00 - Minnesota State Mavericks vs Rensselaer Engineers
 https://sportora.ru/watch/live_ncaa-women_minnesota-state-mavericks-rensselaer-engineers-live-streaming-653304960
+
+#EXTINF:-1 group-title="Football",18:00 - Armenia vs Latvia
+https://embed.st/embed/admin/ppv-armenia-vs-latvia/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:00 - Armenia vs Latvia
+https://embed.st/embed/admin/ppv-armenia-vs-latvia/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:00 - Armenia vs Latvia
 https://embed.st/embed/delta/live_uefa-nations-league-league-c-gr-2_armenia-latvia-live-streaming-539391312/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:00 - Armenia vs Latvia
 https://embed.st/embed/hotel/armenia-vs-latvia-uefa-nations-league-1790352000/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:00 - Georgia vs N.Ireland
+https://embed.st/embed/admin/ppv-georgia-vs-northern-ireland/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",18:00 - Georgia vs N.Ireland
+https://embed.st/embed/admin/ppv-georgia-vs-northern-ireland/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:00 - Georgia vs N.Ireland
 https://embed.st/embed/delta/live_uefa-nations-league-league-b-gr-2_georgia-northern-ireland-live-streaming-539389584/1#player=clappr&autoplay=true
@@ -73,20 +73,56 @@ https://sportora.ru/watch/live_ncaa-women_merrimack-warriors-lindenwood-lady-lio
 #EXTINF:-1 group-title="Hockey",20:00 - Franklin Pierce Ravens vs Union Dutchwomen
 https://sportora.ru/watch/live_ncaa-women_franklin-pierce-ravens-union-dutchwomen-live-streaming-653305392
 
-#EXTINF:-1 group-title="Football",20:45 - Türkiye vs France
+#EXTINF:-1 group-title="Football",20:45 - Türkiye vs. France
+https://embed.st/embed/admin/ppv-t-rkiye-vs-france/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Türkiye vs. France
+https://embed.st/embed/admin/ppv-t-rkiye-vs-france/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Türkiye vs. France
 https://embed.st/embed/hotel/t-rkiye-vs-france-uefa-nations-league-1790361900/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Montenegro vs Cyprus
+https://embed.st/embed/admin/ppv-montenegro-vs-cyprus/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Montenegro vs Cyprus
+https://embed.st/embed/admin/ppv-montenegro-vs-cyprus/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Montenegro vs Cyprus
 https://embed.st/embed/hotel/montenegro-vs-cyprus-uefa-nations-league-1790361900/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Sweden vs Romania
+https://embed.st/embed/admin/ppv-sweden-vs-romania/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Sweden vs Romania
+https://embed.st/embed/admin/ppv-sweden-vs-romania/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Sweden vs Romania
 https://embed.st/embed/hotel/sweden-vs-romania-uefa-nations-league-1790361900/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Poland vs Bosnia-Herzegovina
+https://embed.st/embed/admin/ppv-poland-vs-bosnia-herzegovina/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Poland vs Bosnia-Herzegovina
+https://embed.st/embed/admin/ppv-poland-vs-bosnia-herzegovina/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Poland vs Bosnia-Herzegovina
 https://embed.st/embed/hotel/poland-vs-bosnia-herzegovina-uefa-nations-league-1790361900/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Hungary vs Ukraine
+https://embed.st/embed/admin/ppv-hungary-vs-ukraine/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Hungary vs Ukraine
+https://embed.st/embed/admin/ppv-hungary-vs-ukraine/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Hungary vs Ukraine
 https://embed.st/embed/hotel/hungary-vs-ukraine-uefa-nations-league-1790361900/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Italy vs Belgium
+https://embed.st/embed/admin/ppv-italy-vs-belgium/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Italy vs Belgium
+https://embed.st/embed/admin/ppv-italy-vs-belgium/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Italy vs Belgium
 https://embed.st/embed/hotel/italy-vs-belgium-uefa-nations-league-1790361900/1#player=clappr&autoplay=true

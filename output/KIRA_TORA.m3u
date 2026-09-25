@@ -1,6 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
+#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs San Diego Padres
+https://embed.st/embed/admin/ppv-san-diego-padres-vs-los-angeles-dodgers/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs San Diego Padres
+https://embed.st/embed/admin/ppv-san-diego-padres-vs-los-angeles-dodgers/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs San Diego Padres
+https://embed.st/embed/delta/live_mlb_dodgers-padres-live-streaming-594493776/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs San Diego Padres
+https://embed.st/embed/delta/live_mlb_dodgers-padres-live-streaming-594493776/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs San Diego Padres
+https://embed.st/embed/foxtrot/padres-v-dodgers-401817071/1#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Hockey",04:00 - San Jose Sharks vs Anaheim Ducks
 https://embed.st/embed/golf/1699/1#player=clappr&autoplay=true
 
@@ -40,21 +55,6 @@ https://embed.st/embed/admin/ppv-golden-state-valkyries-vs-los-angeles-sparks/2#
 #EXTINF:-1 group-title="Basketball",04:00 - Los Angeles Sparks vs Golden State Valkyries
 https://embed.st/embed/delta/live_wnba_sparks-valkyries-live-streaming-589256208/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Hockey",03:40 - Seattle Kraken vs Calgary Flames
-https://embed.st/embed/admin/ppv-calgary-flames-vs-seattle-kraken/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Hockey",03:40 - Seattle Kraken vs Calgary Flames
-https://embed.st/embed/admin/ppv-calgary-flames-vs-seattle-kraken/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Hockey",03:40 - Seattle Kraken vs Calgary Flames
-https://embed.st/embed/delta/live_nhl-preseason_kraken-flames-live-streaming-624002832/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Hockey",03:40 - Seattle Kraken vs Calgary Flames
-https://embed.st/embed/golf/1697/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Hockey",03:40 - Seattle Kraken vs Calgary Flames
-https://embed.st/embed/golf/1697/2#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Baseball",03:40 - Athletics vs Houston Astros
 https://embed.st/embed/admin/ppv-houston-astros-vs-athletics/1#player=clappr&autoplay=true
 
@@ -84,123 +84,6 @@ https://embed.st/embed/delta/live_mlb_mariners-angels-live-streaming-594493344/2
 
 #EXTINF:-1 group-title="Baseball",03:40 - Seattle Mariners vs Los Angeles Angels
 https://embed.st/embed/foxtrot/angels-v-mariners-401817069/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Fight",03:00 - TNA Impact
-https://embed.st/embed/admin/ppv-tna-impact/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Fight",03:00 - TNA Impact
-https://embed.st/embed/admin/ppv-tna-impact/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Hockey",03:00 - Vancouver Canucks vs Edmonton Oilers
-https://embed.st/embed/admin/ppv-edmonton-oilers-vs-vancouver-canucks/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Hockey",03:00 - Vancouver Canucks vs Edmonton Oilers
-https://embed.st/embed/admin/ppv-edmonton-oilers-vs-vancouver-canucks/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Hockey",03:00 - Vancouver Canucks vs Edmonton Oilers
-https://embed.st/embed/delta/live_nhl-preseason_canucks-oilers-live-streaming-624002400/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Hockey",03:00 - Vancouver Canucks vs Edmonton Oilers
-https://embed.st/embed/golf/1696/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Hockey",03:00 - Vancouver Canucks vs Edmonton Oilers
-https://embed.st/embed/golf/1696/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",02:15 - Green Bay Packers vs Atlanta Falcons
-https://embed.st/embed/admin/ppv-atlanta-falcons-at-green-bay-packers/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",02:15 - Green Bay Packers vs Atlanta Falcons
-https://embed.st/embed/admin/ppv-atlanta-falcons-at-green-bay-packers/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",02:15 - Green Bay Packers vs Atlanta Falcons
-https://embed.st/embed/delta/live_nfl_packers-falcons-live-streaming-587869920/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",02:15 - Green Bay Packers vs Atlanta Falcons
-https://embed.st/embed/delta/live_nfl_packers-falcons-live-streaming-587869920/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",02:15 - Green Bay Packers vs Atlanta Falcons
-https://embed.st/embed/delta/live_nfl_packers-falcons-live-streaming-587869920/3#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Fight",02:00 - UFC BJJ 111
-https://embed.st/embed/hotel/ufc-bjj-111-ufc-1790294400/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Fight",02:00 - UFC BJJ 11: Musumeci vs. Mitchell
-https://embed.st/embed/admin/ppv-ufc-bjj-11-musumeci-vs-mitchell/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Fight",02:00 - UFC BJJ 11: Musumeci vs. Mitchell
-https://embed.st/embed/admin/ppv-ufc-bjj-11-musumeci-vs-mitchell/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Fight",02:00 - UFC BJJ 11: Musumeci vs. Mitchell
-https://embed.st/embed/delta/live-event_bjj-11-musumeci-vs-mitchell-live-stream/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Fight",02:00 - UFC BJJ 11: Musumeci vs. Mitchell
-https://embed.st/embed/foxtrot/ufc-bjj-11-musumeci-vs-mitchell/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Hockey",02:00 - St. Louis Blues vs Chicago Blackhawks
-https://embed.st/embed/admin/ppv-chicago-blackhawks-vs-st-louis-blues/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Hockey",02:00 - St. Louis Blues vs Chicago Blackhawks
-https://embed.st/embed/admin/ppv-chicago-blackhawks-vs-st-louis-blues/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Hockey",02:00 - St. Louis Blues vs Chicago Blackhawks
-https://embed.st/embed/delta/live_nhl-preseason_blues-blackhawks-live-streaming-624001968/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Hockey",02:00 - St. Louis Blues vs Chicago Blackhawks
-https://embed.st/embed/golf/1695/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Hockey",02:00 - St. Louis Blues vs Chicago Blackhawks
-https://embed.st/embed/golf/1695/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",02:00 - Minnesota Lynx vs Indiana Fever
-https://embed.st/embed/admin/ppv-indiana-fever-vs-minnesota-lynx/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",02:00 - Minnesota Lynx vs Indiana Fever
-https://embed.st/embed/admin/ppv-indiana-fever-vs-minnesota-lynx/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",02:00 - Minnesota Lynx vs Indiana Fever
-https://embed.st/embed/delta/live_wnba_lynx-fever-live-streaming-589255776/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",01:30 - Coastal Carolina vs Liberty
-https://embed.st/embed/delta/live_cfb_coastal-carolina-liberty-flames-live-streaming-587870784/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",01:30 - Coastal Carolina vs Liberty
-https://embed.st/embed/golf/1640/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",01:30 - Coastal Carolina vs Liberty
-https://embed.st/embed/golf/1640/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",01:15 - Atlanta Braves vs Cincinnati Reds
-https://embed.st/embed/admin/ppv-cincinnati-reds-vs-atlanta-braves/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",01:15 - Atlanta Braves vs Cincinnati Reds
-https://embed.st/embed/admin/ppv-cincinnati-reds-vs-atlanta-braves/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",01:15 - Atlanta Braves vs Cincinnati Reds
-https://embed.st/embed/foxtrot/reds-v-braves-401817060/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",01:15 - Atlanta Braves vs Cincinnati Reds
-https://embed.st/embed/golf/1663/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",01:15 - Atlanta Braves vs Cincinnati Reds
-https://embed.st/embed/golf/1663/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",01:00 - Tuskegee Golden Tigers vs Benedict Tigers
-https://sportora.ru/watch/live_cfb_tuskegee-golden-tigers-benedict-tigers-live-streaming-587870352
-
-#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs San Diego Padres
-https://embed.st/embed/admin/ppv-san-diego-padres-vs-los-angeles-dodgers/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs San Diego Padres
-https://embed.st/embed/admin/ppv-san-diego-padres-vs-los-angeles-dodgers/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs San Diego Padres
-https://embed.st/embed/delta/live_mlb_dodgers-padres-live-streaming-594493776/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs San Diego Padres
-https://embed.st/embed/delta/live_mlb_dodgers-padres-live-streaming-594493776/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",04:10 - Los Angeles Dodgers vs San Diego Padres
-https://embed.st/embed/foxtrot/padres-v-dodgers-401817071/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Motor-sports",06:15 - Baku City Circuit — Sprint Race
 https://embed.st/embed/hotel/baku-city-circuit-sprint-race-formula-2-1790309700/1#player=clappr&autoplay=true
@@ -241,6 +124,9 @@ https://embed.st/embed/admin/ppv-azerbaijan-grand-prix-practice-3/4#player=clapp
 #EXTINF:-1 group-title="Motor-sports",14:00 - Azerbaijan Grand Prix Practice 3
 https://embed.st/embed/admin/ppv-azerbaijan-grand-prix-practice-3/5#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Hockey",18:00 - Minnesota State Mavericks vs Rensselaer Engineers
+https://sportora.ru/watch/live_ncaa-women_minnesota-state-mavericks-rensselaer-engineers-live-streaming-653304960
+
 #EXTINF:-1 group-title="Football",18:00 - Armenia vs Latvia
 https://embed.st/embed/delta/live_uefa-nations-league-league-c-gr-2_armenia-latvia-live-streaming-539391312/1#player=clappr&autoplay=true
 
@@ -252,6 +138,24 @@ https://embed.st/embed/delta/live_uefa-nations-league-league-b-gr-2_georgia-nort
 
 #EXTINF:-1 group-title="Football",18:00 - Georgia vs N.Ireland
 https://embed.st/embed/hotel/georgia-vs-northern-ireland-uefa-nations-league-1790352000/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:05 - Boston Red Sox vs Chicago Cubs
+https://embed.st/embed/admin/ppv-chicago-cubs-vs-boston-red-sox/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:05 - Boston Red Sox vs Chicago Cubs
+https://embed.st/embed/admin/ppv-chicago-cubs-vs-boston-red-sox/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:05 - Boston Red Sox vs Chicago Cubs
+https://embed.st/embed/golf/1710/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:05 - Boston Red Sox vs Chicago Cubs
+https://embed.st/embed/golf/1710/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Hockey",20:00 - Merrimack Warriors vs Lindenwood Lady Lions
+https://sportora.ru/watch/live_ncaa-women_merrimack-warriors-lindenwood-lady-lions-live-streaming-653305824
+
+#EXTINF:-1 group-title="Hockey",20:00 - Franklin Pierce Ravens vs Union Dutchwomen
+https://sportora.ru/watch/live_ncaa-women_franklin-pierce-ravens-union-dutchwomen-live-streaming-653305392
 
 #EXTINF:-1 group-title="Football",20:45 - Türkiye vs France
 https://embed.st/embed/hotel/t-rkiye-vs-france-uefa-nations-league-1790361900/1#player=clappr&autoplay=true
@@ -271,6 +175,15 @@ https://embed.st/embed/hotel/hungary-vs-ukraine-uefa-nations-league-1790361900/1
 #EXTINF:-1 group-title="Football",20:45 - Italy vs Belgium
 https://embed.st/embed/hotel/italy-vs-belgium-uefa-nations-league-1790361900/1#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Hockey",21:00 - Saint Thomas Tommies vs New Hampshire Wildcats
+https://sportora.ru/watch/live_ncaa-women_saint-thomas-tommies-new-hampshire-wildcats-live-streaming-653306256
+
+#EXTINF:-1 group-title="Hockey",21:50 - Assumption Greyhounds vs Saint Michaels Purple Knights
+https://sportora.ru/watch/live_ncaa-women_assumption-greyhounds-saint-michaels-purple-knights-live-streaming-653306688
+
+#EXTINF:-1 group-title="Hockey",22:00 - Penn State Nittany Lions vs Ohio State Buckeyes
+https://sportora.ru/watch/live_ncaa-women_penn-state-ohio-state-buckeyes-live-streaming-653307120
+
 #EXTINF:-1 group-title="American-football",22:00 - Temple vs Army
 https://embed.st/embed/golf/1641/1#player=clappr&autoplay=true
 
@@ -280,11 +193,29 @@ https://embed.st/embed/golf/1641/2#player=clappr&autoplay=true
 #EXTINF:-1 group-title="Motor-sports",23:00 - Kansas Speedway — Free Practice
 https://embed.st/embed/hotel/kansas-speedway-free-practice-nascar-craftsman-trucks-series-1790370000/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",00:05 - Boston Red Sox vs Chicago Cubs
-https://embed.st/embed/golf/1710/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Hockey",00:00 - Syracuse Orange vs Stonehill Skyhawks
+https://sportora.ru/watch/live_ncaa-women_syracuse-orange-stonehill-skyhawks-live-streaming-653309712
 
-#EXTINF:-1 group-title="Baseball",00:05 - Boston Red Sox vs Chicago Cubs
-https://embed.st/embed/golf/1710/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Hockey",00:00 - Saint Lawrence Saints vs Wisconsin Badgers
+https://sportora.ru/watch/live_ncaa-women_saint-lawrence-saints-wisconsin-badgers-live-streaming-653309280
+
+#EXTINF:-1 group-title="Hockey",00:00 - Sacred Heart Pioneers vs Providence Friars
+https://sportora.ru/watch/live_ncaa-women_sacred-heart-pioneers-providence-friars-live-streaming-653308848
+
+#EXTINF:-1 group-title="Hockey",00:00 - Maine Black Bears vs Quinnipiac Bobcats
+https://sportora.ru/watch/live_ncaa-women_maine-black-bears-quinnipiac-bobcats-live-streaming-653308416
+
+#EXTINF:-1 group-title="Hockey",00:00 - Holy Cross Crusaders vs Delaware Blue Hens
+https://sportora.ru/watch/live_ncaa-women_holy-cross-crusaders-delaware-blue-hens-live-streaming-653307984
+
+#EXTINF:-1 group-title="Hockey",00:00 - Clarkson Golden Knights vs RIT Tigers
+https://sportora.ru/watch/live_ncaa-women_clarkson-golden-knights-rit-tigers-live-streaming-653307552
+
+#EXTINF:-1 group-title="Baseball",00:40 - Philadelphia Phillies vs Tampa Bay Rays
+https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-philadelphia-phillies/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Philadelphia Phillies vs Tampa Bay Rays
+https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-philadelphia-phillies/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Philadelphia Phillies vs Tampa Bay Rays
 https://embed.st/embed/golf/1706/1#player=clappr&autoplay=true
@@ -293,10 +224,22 @@ https://embed.st/embed/golf/1706/1#player=clappr&autoplay=true
 https://embed.st/embed/golf/1706/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Detroit Tigers vs Pittsburgh Pirates
+https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-detroit-tigers/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Detroit Tigers vs Pittsburgh Pirates
+https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-detroit-tigers/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:40 - Detroit Tigers vs Pittsburgh Pirates
 https://embed.st/embed/golf/1705/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:40 - Detroit Tigers vs Pittsburgh Pirates
 https://embed.st/embed/golf/1705/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:45 - Washington Nationals vs New York Mets
+https://embed.st/embed/admin/ppv-new-york-mets-vs-washington-nationals/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:45 - Washington Nationals vs New York Mets
+https://embed.st/embed/admin/ppv-new-york-mets-vs-washington-nationals/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:45 - Washington Nationals vs New York Mets
 https://embed.st/embed/golf/1707/1#player=clappr&autoplay=true

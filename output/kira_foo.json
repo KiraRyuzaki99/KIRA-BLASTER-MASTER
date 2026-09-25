@@ -89,72 +89,6 @@
     ]
   },
   {
-    "title": "Georgia Northern Ireland",
-    "category": "Georgia",
-    "logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
-    "start_iso": "2026-09-25T16:00:00.000Z",
-    "end_iso": "2026-09-25T18:15:00.000Z",
-    "date": "Friday, 25 September 2026",
-    "time": "18:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/georgia-vs-northern-ireland",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/georgia-vs-northern-ireland/2219",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/georgia-vs-northern-ireland/2220",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Armenia Latvia",
-    "category": "Armenia",
-    "logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
-    "start_iso": "2026-09-25T16:00:00.000Z",
-    "end_iso": "2026-09-25T18:15:00.000Z",
-    "date": "Friday, 25 September 2026",
-    "time": "18:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/armenia-vs-latvia",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/armenia-vs-latvia/2217",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/armenia-vs-latvia/2218",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Turkiye France",
     "category": "Turkiye",
     "logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
@@ -352,6 +286,98 @@
     ]
   },
   {
+    "title": "Edinburgh Ulster",
+    "category": "Edinburgh",
+    "logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+    "start_iso": "2026-09-25T18:45:00.000Z",
+    "end_iso": "2026-09-25T21:00:00.000Z",
+    "date": "Friday, 25 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/edinburgh-vs-ulster",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/edinburgh-vs-ulster/2236",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Stormers Connacht",
+    "category": "Stormers",
+    "logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
+    "start_iso": "2026-09-25T18:45:00.000Z",
+    "end_iso": "2026-09-25T21:00:00.000Z",
+    "date": "Friday, 25 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/stormers-vs-connacht",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/stormers-vs-connacht/2235",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Northampton Saints Newcastle Red Bulls",
+    "category": "Northampton Saints",
+    "logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
+    "start_iso": "2026-09-25T18:45:00.000Z",
+    "end_iso": "2026-09-25T21:00:00.000Z",
+    "date": "Friday, 25 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/northampton-vs-newcastle",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/northampton-vs-newcastle/2239",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Bath Rugby Harlequins",
+    "category": "Bath Rugby",
+    "logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
+    "start_iso": "2026-09-25T18:45:00.000Z",
+    "end_iso": "2026-09-25T21:00:00.000Z",
+    "date": "Friday, 25 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/bath-rugby-vs-harlequins",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/bath-rugby-vs-harlequins/2238",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
     "title": "Colombia Mexico",
     "category": "Colombia",
     "logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
@@ -388,15 +414,27 @@
     "servers": []
   },
   {
-    "title": "India Panama",
-    "category": "India",
-    "logo": "https://cdn.img4every1.org/team/india/logo.webp",
-    "start_iso": "2026-09-25T14:00:00.000Z",
-    "end_iso": "2026-09-25T16:15:00.000Z",
+    "title": "Georgia Northern Ireland",
+    "category": "Georgia",
+    "logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
+    "start_iso": "2026-09-25T16:00:00.000Z",
+    "end_iso": "2026-09-25T18:15:00.000Z",
     "date": "Friday, 25 September 2026",
-    "time": "16:00",
+    "time": "18:00",
     "status": "finished",
-    "event_url": "https://pogo.pk/events/india-vs-panama",
+    "event_url": "https://pogo.pk/events/georgia-vs-northern-ireland",
+    "servers": []
+  },
+  {
+    "title": "Armenia Latvia",
+    "category": "Armenia",
+    "logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
+    "start_iso": "2026-09-25T16:00:00.000Z",
+    "end_iso": "2026-09-25T18:15:00.000Z",
+    "date": "Friday, 25 September 2026",
+    "time": "18:00",
+    "status": "finished",
+    "event_url": "https://pogo.pk/events/armenia-vs-latvia",
     "servers": []
   }
 ]

@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="F1 Azerbaijan Grand Prix Formula 1" tvg-logo="https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp" group-title="F1 Azerbaijan Grand Prix",F1 Azerbaijan Grand Prix Formula 1 - English
-https://pogo.pk/alpha/f1-azerbaijan-grand-prix/2191
-#EXTINF:-1 tvg-name="F1 Azerbaijan Grand Prix Formula 1" tvg-logo="https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp" group-title="F1 Azerbaijan Grand Prix",F1 Azerbaijan Grand Prix Formula 1 - English
-https://pogo.pk/alpha/f1-azerbaijan-grand-prix/2192
-#EXTINF:-1 tvg-name="F1 Azerbaijan Grand Prix Formula 1" tvg-logo="https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp" group-title="F1 Azerbaijan Grand Prix",F1 Azerbaijan Grand Prix Formula 1 - Español
-https://pogo.pk/alpha/f1-azerbaijan-grand-prix/2193
-#EXTINF:-1 tvg-name="F1 Azerbaijan Grand Prix Formula 1" tvg-logo="https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp" group-title="F1 Azerbaijan Grand Prix",F1 Azerbaijan Grand Prix Formula 1 - English
-https://pogo.pk/alpha/f1-azerbaijan-grand-prix/2243
 #EXTINF:-1 tvg-name="Open de France PGA Tour" tvg-logo="https://cdn.img4every1.org/league/pga-tour/logo.webp" group-title="Open de France",Open de France PGA Tour
 https://pogo.pk/alpha/open-de-france/2194
 #EXTINF:-1 tvg-name="Presidents Cup PGA Tour" tvg-logo="https://cdn.img4every1.org/league/pga-tour/logo.webp" group-title="Presidents Cup",Presidents Cup PGA Tour
@@ -15,10 +7,6 @@ https://pogo.pk/alpha/presidents-cup/2195
 https://pogo.pk/alpha/laver-cup/2262
 #EXTINF:-1 tvg-name="Laver Cup ATP Tour" tvg-logo="https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp" group-title="Laver Cup",Laver Cup ATP Tour - English
 https://pogo.pk/alpha/laver-cup/2263
-#EXTINF:-1 tvg-name="Scotland Slovenia" tvg-logo="https://cdn.img4every1.org/team/scotland/logo.webp" group-title="Scotland",Scotland Slovenia - English
-https://pogo.pk/alpha/scotland-vs-slovenia/2255
-#EXTINF:-1 tvg-name="Scotland Slovenia" tvg-logo="https://cdn.img4every1.org/team/scotland/logo.webp" group-title="Scotland",Scotland Slovenia - English
-https://pogo.pk/alpha/scotland-vs-slovenia/2256
 #EXTINF:-1 tvg-name="Gloucester Rugby Exeter Chiefs" tvg-logo="https://cdn.img4every1.org/team/gloucester-rugby/logo.webp" group-title="Gloucester Rugby",Gloucester Rugby Exeter Chiefs
 https://pogo.pk/alpha/gloucester-vs-exeter/2247
 #EXTINF:-1 tvg-name="Cambridge United AFC Wimbledon" tvg-logo="https://cdn.img4every1.org/team/cambridge-united/logo.webp" group-title="Cambridge United",Cambridge United AFC Wimbledon
@@ -29,8 +17,12 @@ https://pogo.pk/alpha/ospreys-vs-sharks/2246
 https://pogo.pk/alpha/bulgaria-vs-luxembourg/2260
 #EXTINF:-1 tvg-name="Bulgaria Luxembourg" tvg-logo="https://cdn.img4every1.org/team/bulgaria/logo.webp" group-title="Bulgaria",Bulgaria Luxembourg - English
 https://pogo.pk/alpha/bulgaria-vs-luxembourg/2261
+#EXTINF:-1 tvg-name="Faroe Islands Kazakhstan" tvg-logo="https://cdn.img4every1.org/team/faroe-islands/logo.webp" group-title="Faroe Islands",Faroe Islands Kazakhstan
+https://pogo.pk/alpha/faroe-islands-vs-kazakhstan/2266
 #EXTINF:-1 tvg-name="Iceland Estonia" tvg-logo="https://cdn.img4every1.org/team/iceland/logo.webp" group-title="Iceland",Iceland Estonia
 https://pogo.pk/alpha/iceland-vs-estonia/2264
+#EXTINF:-1 tvg-name="Finland San Marino" tvg-logo="https://cdn.img4every1.org/team/finland/logo.webp" group-title="Finland",Finland San Marino
+https://pogo.pk/alpha/finland-vs-san-marino/2267
 #EXTINF:-1 tvg-name="London City Lionesses Brighton & Hove Albion" tvg-logo="https://cdn.img4every1.org/team/london-city-lionesses/logo.webp" group-title="London City Lionesses",London City Lionesses Brighton & Hove Albion - English
 https://pogo.pk/alpha/london-lionesses-vs-brighton/2258
 #EXTINF:-1 tvg-name="London City Lionesses Brighton & Hove Albion" tvg-logo="https://cdn.img4every1.org/team/london-city-lionesses/logo.webp" group-title="London City Lionesses",London City Lionesses Brighton & Hove Albion - English
@@ -47,9 +39,37 @@ https://pogo.pk/alpha/bristol-bears-vs-sale-sharks/2251
 https://pogo.pk/alpha/glasgow-warriors-vs-munster/2248
 #EXTINF:-1 tvg-name="Bulls Zebre" tvg-logo="https://cdn.img4every1.org/team/bulls/logo.webp" group-title="Bulls",Bulls Zebre
 https://pogo.pk/alpha/bulls-vs-zebre/2249
-#EXTINF:-1 tvg-name="Czechia Croatia" tvg-logo="https://cdn.img4every1.org/team/czechia/logo.webp" group-title="Czechia",Czechia Croatia
-https://pogo.pk/alpha/czechia-vs-croatia/2265
 #EXTINF:-1 tvg-name="Scarlets Cardiff Blues" tvg-logo="https://cdn.img4every1.org/team/scarlets/logo.webp" group-title="Scarlets",Scarlets Cardiff Blues
 https://pogo.pk/alpha/scarlets-vs-cardiff-rugby/2254
+#EXTINF:-1 tvg-name="England Spain" tvg-logo="https://cdn.img4every1.org/team/england/logo.webp" group-title="England",England Spain - English
+https://pogo.pk/alpha/england-vs-spain/2268
+#EXTINF:-1 tvg-name="England Spain" tvg-logo="https://cdn.img4every1.org/team/england/logo.webp" group-title="England",England Spain - English
+https://pogo.pk/alpha/england-vs-spain/2269
+#EXTINF:-1 tvg-name="England Spain" tvg-logo="https://cdn.img4every1.org/team/england/logo.webp" group-title="England",England Spain - English
+https://pogo.pk/alpha/england-vs-spain/2270
+#EXTINF:-1 tvg-name="England Spain" tvg-logo="https://cdn.img4every1.org/team/england/logo.webp" group-title="England",England Spain - English
+https://pogo.pk/alpha/england-vs-spain/2271
+#EXTINF:-1 tvg-name="England Spain" tvg-logo="https://cdn.img4every1.org/team/england/logo.webp" group-title="England",England Spain - Español
+https://pogo.pk/alpha/england-vs-spain/2272
+#EXTINF:-1 tvg-name="England Spain" tvg-logo="https://cdn.img4every1.org/team/england/logo.webp" group-title="England",England Spain - Deutsch
+https://pogo.pk/alpha/england-vs-spain/2273
+#EXTINF:-1 tvg-name="Czechia Croatia" tvg-logo="https://cdn.img4every1.org/team/czechia/logo.webp" group-title="Czechia",Czechia Croatia - English
+https://pogo.pk/alpha/czechia-vs-croatia/2265
+#EXTINF:-1 tvg-name="Czechia Croatia" tvg-logo="https://cdn.img4every1.org/team/czechia/logo.webp" group-title="Czechia",Czechia Croatia - English
+https://pogo.pk/alpha/czechia-vs-croatia/2274
+#EXTINF:-1 tvg-name="Czechia Croatia" tvg-logo="https://cdn.img4every1.org/team/czechia/logo.webp" group-title="Czechia",Czechia Croatia - English
+https://pogo.pk/alpha/czechia-vs-croatia/2275
+#EXTINF:-1 tvg-name="Switzerland North Macedonia" tvg-logo="https://cdn.img4every1.org/team/switzerland/logo.webp" group-title="Switzerland",Switzerland North Macedonia - English
+https://pogo.pk/alpha/switzerland-vs-north-macedonia/2276
+#EXTINF:-1 tvg-name="Switzerland North Macedonia" tvg-logo="https://cdn.img4every1.org/team/switzerland/logo.webp" group-title="Switzerland",Switzerland North Macedonia - English
+https://pogo.pk/alpha/switzerland-vs-north-macedonia/2277
+#EXTINF:-1 tvg-name="Albania Belarus" tvg-logo="https://cdn.img4every1.org/team/albania/logo.webp" group-title="Albania",Albania Belarus
+https://pogo.pk/alpha/albania-vs-belarus/2279
+#EXTINF:-1 tvg-name="Slovakia Moldova" tvg-logo="https://cdn.img4every1.org/team/slovakia/logo.webp" group-title="Slovakia",Slovakia Moldova
+https://pogo.pk/alpha/slovakia-vs-moldova/2280
 #EXTINF:-1 tvg-name="Raul Rosas Jr Raoni Barcelos" tvg-logo="https://cdn.img4every1.org/league/ufc-streams-free/logo.webp" group-title="Raul Rosas Jr",Raul Rosas Jr Raoni Barcelos
 https://pogo.pk/alpha/raul-rosas-jr-vs-raoni-barcelos/2244
+#EXTINF:-1 tvg-name="Canada Chile" tvg-logo="https://cdn.img4every1.org/team/canada/logo.webp" group-title="Canada",Canada Chile - English
+https://pogo.pk/alpha/canada-vs-chile/2278
+#EXTINF:-1 tvg-name="Canada Chile" tvg-logo="https://cdn.img4every1.org/team/canada/logo.webp" group-title="Canada",Canada Chile - English
+https://pogo.pk/alpha/canada-vs-chile/2281

@@ -1,58 +1,5 @@
 [
   {
-    "title": "F1 Azerbaijan Grand Prix Formula 1",
-    "category": "F1 Azerbaijan Grand Prix",
-    "logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-    "start_iso": "2026-09-24T06:00:00.000Z",
-    "end_iso": "2026-09-26T15:00:00.000Z",
-    "date": "Thursday, 24 September 2026",
-    "time": "08:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/f1-azerbaijan-grand-prix",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/f1-azerbaijan-grand-prix/2191",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/f1-azerbaijan-grand-prix/2192",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://pogo.pk/alpha/f1-azerbaijan-grand-prix/2193",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/f1-azerbaijan-grand-prix/2243",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Open de France PGA Tour",
     "category": "Open de France",
     "logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -122,39 +69,6 @@
       {
         "label": "English",
         "url": "https://pogo.pk/alpha/laver-cup/2263",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Scotland Slovenia",
-    "category": "Scotland",
-    "logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
-    "start_iso": "2026-09-26T13:00:00.000Z",
-    "end_iso": "2026-09-26T15:15:00.000Z",
-    "date": "Saturday, 26 September 2026",
-    "time": "15:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/scotland-vs-slovenia",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/scotland-vs-slovenia/2255",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/scotland-vs-slovenia/2256",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -241,7 +155,7 @@
     "end_iso": "2026-09-26T18:15:00.000Z",
     "date": "Saturday, 26 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/bulgaria-vs-luxembourg",
     "servers": [
       {
@@ -274,9 +188,20 @@
     "end_iso": "2026-09-26T18:15:00.000Z",
     "date": "Saturday, 26 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/faroe-islands-vs-kazakhstan",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/faroe-islands-vs-kazakhstan/2266",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Iceland Estonia",
@@ -286,7 +211,7 @@
     "end_iso": "2026-09-26T18:15:00.000Z",
     "date": "Saturday, 26 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/iceland-vs-estonia",
     "servers": [
       {
@@ -309,9 +234,20 @@
     "end_iso": "2026-09-26T18:15:00.000Z",
     "date": "Saturday, 26 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/finland-vs-san-marino",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/finland-vs-san-marino/2267",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "London City Lionesses Brighton & Hove Albion",
@@ -321,7 +257,7 @@
     "end_iso": "2026-09-26T18:15:00.000Z",
     "date": "Saturday, 26 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/london-lionesses-vs-brighton",
     "servers": [
       {
@@ -472,6 +408,29 @@
     ]
   },
   {
+    "title": "Scarlets Cardiff Blues",
+    "category": "Scarlets",
+    "logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
+    "start_iso": "2026-09-26T18:45:00.000Z",
+    "end_iso": "2026-09-26T21:00:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/scarlets-vs-cardiff-rugby",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/scarlets-vs-cardiff-rugby/2254",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
     "title": "England Spain",
     "category": "England",
     "logo": "https://cdn.img4every1.org/team/england/logo.webp",
@@ -481,7 +440,68 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/england-vs-spain",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/england-vs-spain/2268",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/england-vs-spain/2269",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/england-vs-spain/2270",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/england-vs-spain/2271",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://pogo.pk/alpha/england-vs-spain/2272",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      },
+      {
+        "label": "Deutsch",
+        "url": "https://pogo.pk/alpha/england-vs-spain/2273",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
+        }
+      }
+    ]
   },
   {
     "title": "Czechia Croatia",
@@ -503,23 +523,99 @@
           "ads": "2",
           "language": "English"
         }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/czechia-vs-croatia/2274",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/czechia-vs-croatia/2275",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
       }
     ]
   },
   {
-    "title": "Scarlets Cardiff Blues",
-    "category": "Scarlets",
-    "logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
+    "title": "Switzerland North Macedonia",
+    "category": "Switzerland",
+    "logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
     "start_iso": "2026-09-26T18:45:00.000Z",
     "end_iso": "2026-09-26T21:00:00.000Z",
     "date": "Saturday, 26 September 2026",
     "time": "20:45",
     "status": "next",
-    "event_url": "https://pogo.pk/events/scarlets-vs-cardiff-rugby",
+    "event_url": "https://pogo.pk/events/switzerland-vs-north-macedonia",
     "servers": [
       {
         "label": "English",
-        "url": "https://pogo.pk/alpha/scarlets-vs-cardiff-rugby/2254",
+        "url": "https://pogo.pk/alpha/switzerland-vs-north-macedonia/2276",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/switzerland-vs-north-macedonia/2277",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Albania Belarus",
+    "category": "Albania",
+    "logo": "https://cdn.img4every1.org/team/albania/logo.webp",
+    "start_iso": "2026-09-26T18:45:00.000Z",
+    "end_iso": "2026-09-26T21:00:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/albania-vs-belarus",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/albania-vs-belarus/2279",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Slovakia Moldova",
+    "category": "Slovakia",
+    "logo": "https://cdn.img4every1.org/team/slovakia/logo.webp",
+    "start_iso": "2026-09-26T18:45:00.000Z",
+    "end_iso": "2026-09-26T21:00:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/slovakia-vs-moldova",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/slovakia-vs-moldova/2280",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -586,7 +682,28 @@
     "time": "01:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/canada-vs-chile",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/canada-vs-chile/2278",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/canada-vs-chile/2281",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "South Africa Australia",
@@ -598,6 +715,18 @@
     "time": "11:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/south-africa-vs-australia",
+    "servers": []
+  },
+  {
+    "title": "Azerbaijan Lithuania",
+    "category": "Azerbaijan",
+    "logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
+    "start_iso": "2026-09-27T13:00:00.000Z",
+    "end_iso": "2026-09-27T15:15:00.000Z",
+    "date": "Sunday, 27 September 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/azerbaijan-vs-lithuania",
     "servers": []
   }
 ]

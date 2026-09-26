@@ -11,8 +11,10 @@ https://pogo.pk/alpha/f1-azerbaijan-grand-prix/2243
 https://pogo.pk/alpha/open-de-france/2194
 #EXTINF:-1 tvg-name="Presidents Cup PGA Tour" tvg-logo="https://cdn.img4every1.org/league/pga-tour/logo.webp" group-title="Presidents Cup",Presidents Cup PGA Tour
 https://pogo.pk/alpha/presidents-cup/2195
-#EXTINF:-1 tvg-name="Lions Leinster" tvg-logo="https://cdn.img4every1.org/team/lions/logo.webp" group-title="Lions",Lions Leinster
-https://pogo.pk/alpha/lions-vs-leinster/2245
+#EXTINF:-1 tvg-name="Laver Cup ATP Tour" tvg-logo="https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp" group-title="Laver Cup",Laver Cup ATP Tour - English
+https://pogo.pk/alpha/laver-cup/2262
+#EXTINF:-1 tvg-name="Laver Cup ATP Tour" tvg-logo="https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp" group-title="Laver Cup",Laver Cup ATP Tour - English
+https://pogo.pk/alpha/laver-cup/2263
 #EXTINF:-1 tvg-name="Scotland Slovenia" tvg-logo="https://cdn.img4every1.org/team/scotland/logo.webp" group-title="Scotland",Scotland Slovenia - English
 https://pogo.pk/alpha/scotland-vs-slovenia/2255
 #EXTINF:-1 tvg-name="Scotland Slovenia" tvg-logo="https://cdn.img4every1.org/team/scotland/logo.webp" group-title="Scotland",Scotland Slovenia - English
@@ -27,22 +29,26 @@ https://pogo.pk/alpha/ospreys-vs-sharks/2246
 https://pogo.pk/alpha/bulgaria-vs-luxembourg/2260
 #EXTINF:-1 tvg-name="Bulgaria Luxembourg" tvg-logo="https://cdn.img4every1.org/team/bulgaria/logo.webp" group-title="Bulgaria",Bulgaria Luxembourg - English
 https://pogo.pk/alpha/bulgaria-vs-luxembourg/2261
+#EXTINF:-1 tvg-name="Iceland Estonia" tvg-logo="https://cdn.img4every1.org/team/iceland/logo.webp" group-title="Iceland",Iceland Estonia
+https://pogo.pk/alpha/iceland-vs-estonia/2264
 #EXTINF:-1 tvg-name="London City Lionesses Brighton & Hove Albion" tvg-logo="https://cdn.img4every1.org/team/london-city-lionesses/logo.webp" group-title="London City Lionesses",London City Lionesses Brighton & Hove Albion - English
 https://pogo.pk/alpha/london-lionesses-vs-brighton/2258
 #EXTINF:-1 tvg-name="London City Lionesses Brighton & Hove Albion" tvg-logo="https://cdn.img4every1.org/team/london-city-lionesses/logo.webp" group-title="London City Lionesses",London City Lionesses Brighton & Hove Albion - English
 https://pogo.pk/alpha/london-lionesses-vs-brighton/2259
-#EXTINF:-1 tvg-name="Bristol Bears Sale Sharks" tvg-logo="https://cdn.img4every1.org/team/bristol-bears/logo.webp" group-title="Bristol Bears",Bristol Bears Sale Sharks
-https://pogo.pk/alpha/bristol-bears-vs-sale-sharks/2251
 #EXTINF:-1 tvg-name="Oldham Athletic Salford City" tvg-logo="https://cdn.img4every1.org/team/oldham-athletic/logo.webp" group-title="Oldham Athletic",Oldham Athletic Salford City
 https://pogo.pk/alpha/oldham-athletic-vs-salford-city/2250
-#EXTINF:-1 tvg-name="Glasgow Warriors Munster" tvg-logo="https://cdn.img4every1.org/team/glasgow-warriors/logo.webp" group-title="Glasgow Warriors",Glasgow Warriors Munster
-https://pogo.pk/alpha/glasgow-warriors-vs-munster/2248
-#EXTINF:-1 tvg-name="Bulls Zebre" tvg-logo="https://cdn.img4every1.org/team/bulls/logo.webp" group-title="Bulls",Bulls Zebre
-https://pogo.pk/alpha/bulls-vs-zebre/2249
 #EXTINF:-1 tvg-name="Wigan Warriors Wakefield Trinity" tvg-logo="https://cdn.img4every1.org/team/wigan-warriors/logo.webp" group-title="Wigan Warriors",Wigan Warriors Wakefield Trinity - English
 https://pogo.pk/alpha/wigan-warriors-vs-wakefield-trinity/2252
 #EXTINF:-1 tvg-name="Wigan Warriors Wakefield Trinity" tvg-logo="https://cdn.img4every1.org/team/wigan-warriors/logo.webp" group-title="Wigan Warriors",Wigan Warriors Wakefield Trinity - English
 https://pogo.pk/alpha/wigan-warriors-vs-wakefield-trinity/2253
+#EXTINF:-1 tvg-name="Bristol Bears Sale Sharks" tvg-logo="https://cdn.img4every1.org/team/bristol-bears/logo.webp" group-title="Bristol Bears",Bristol Bears Sale Sharks
+https://pogo.pk/alpha/bristol-bears-vs-sale-sharks/2251
+#EXTINF:-1 tvg-name="Glasgow Warriors Munster" tvg-logo="https://cdn.img4every1.org/team/glasgow-warriors/logo.webp" group-title="Glasgow Warriors",Glasgow Warriors Munster
+https://pogo.pk/alpha/glasgow-warriors-vs-munster/2248
+#EXTINF:-1 tvg-name="Bulls Zebre" tvg-logo="https://cdn.img4every1.org/team/bulls/logo.webp" group-title="Bulls",Bulls Zebre
+https://pogo.pk/alpha/bulls-vs-zebre/2249
+#EXTINF:-1 tvg-name="Czechia Croatia" tvg-logo="https://cdn.img4every1.org/team/czechia/logo.webp" group-title="Czechia",Czechia Croatia
+https://pogo.pk/alpha/czechia-vs-croatia/2265
 #EXTINF:-1 tvg-name="Scarlets Cardiff Blues" tvg-logo="https://cdn.img4every1.org/team/scarlets/logo.webp" group-title="Scarlets",Scarlets Cardiff Blues
 https://pogo.pk/alpha/scarlets-vs-cardiff-rugby/2254
 #EXTINF:-1 tvg-name="Raul Rosas Jr Raoni Barcelos" tvg-logo="https://cdn.img4every1.org/league/ufc-streams-free/logo.webp" group-title="Raul Rosas Jr",Raul Rosas Jr Raoni Barcelos

@@ -1,8 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Fight",10:00 - Thanongsak Simsri vs Mark Vicelles
-https://embed.st/embed/delta/live-event_thanongsak-simsri-vs-mark-vicelles-live-stream/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Motor-sports",14:00 - MotoArena Toruń — Qualifying
+https://embed.st/embed/hotel/motoarena-toru-qualifying-fim-speedway-gp-1790424000/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Basketball",13:30 - Perth Wildcats vs New Zealand Breakers
+https://embed.st/embed/admin/ppv-perth-wildcats-vs-new-zealand-breakers/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Basketball",13:30 - Perth Wildcats vs New Zealand Breakers
+https://embed.st/embed/admin/ppv-perth-wildcats-vs-new-zealand-breakers/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Motor-sports",13:00 - Baku City Circuit — Race: Azerbaijan Grand Prix
 https://embed.st/embed/hotel/baku-city-circuit-race-azerbaijan-grand-prix-formula-1-1790420400/1#player=clappr&autoplay=true
@@ -34,15 +40,6 @@ https://embed.st/embed/admin/ppv-azerbaijan-grand-prix-race/4#player=clappr&auto
 #EXTINF:-1 group-title="Motor-sports",13:00 - Azerbaijan Grand Prix
 https://embed.st/embed/admin/ppv-azerbaijan-grand-prix-race/5#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Basketball",13:30 - Perth Wildcats vs New Zealand Breakers
-https://embed.st/embed/admin/ppv-perth-wildcats-vs-new-zealand-breakers/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",13:30 - Perth Wildcats vs New Zealand Breakers
-https://embed.st/embed/admin/ppv-perth-wildcats-vs-new-zealand-breakers/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Motor-sports",14:00 - MotoArena Toruń — Qualifying
-https://embed.st/embed/hotel/motoarena-toru-qualifying-fim-speedway-gp-1790424000/1#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Football",15:00 - Slovenia vs Scotland
 https://embed.st/embed/admin/ppv-slovenia-vs-scotland/1#player=clappr&autoplay=true
 
@@ -69,6 +66,12 @@ https://embed.st/embed/admin/ppv-scunthorpe-united-vs-hartlepool-united/1#player
 
 #EXTINF:-1 group-title="Football",16:00 - Scunthorpe United vs Hartlepool United
 https://embed.st/embed/admin/ppv-scunthorpe-united-vs-hartlepool-united/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",16:00 - Fleetwood Town vs Rochdale
+https://embed.st/embed/admin/ppv-fleetwood-town-vs-rochdale/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",16:00 - Fleetwood Town vs Rochdale
+https://embed.st/embed/admin/ppv-fleetwood-town-vs-rochdale/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="American-football",17:00 - Maine Maritime Mariners vs Curry Colonels
 https://sportora.ru/watch/live_cfb_maine-maritime-mariners-curry-colonels-live-streaming-660657168

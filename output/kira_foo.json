@@ -99,6 +99,29 @@
     ]
   },
   {
+    "title": "Lions Leinster",
+    "category": "Lions",
+    "logo": "https://cdn.img4every1.org/team/lions/logo.webp",
+    "start_iso": "2026-09-26T11:30:00.000Z",
+    "end_iso": "2026-09-26T13:45:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "13:30",
+    "status": "live",
+    "event_url": "https://pogo.pk/events/lions-vs-leinster",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/lions-vs-leinster/2245",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
     "title": "Scotland Slovenia",
     "category": "Scotland",
     "logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
@@ -108,7 +131,97 @@
     "time": "15:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/scotland-vs-slovenia",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/scotland-vs-slovenia/2255",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/scotland-vs-slovenia/2256",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Gloucester Rugby Exeter Chiefs",
+    "category": "Gloucester Rugby",
+    "logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
+    "start_iso": "2026-09-26T14:00:00.000Z",
+    "end_iso": "2026-09-26T16:15:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/gloucester-vs-exeter",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/gloucester-vs-exeter/2247",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Cambridge United AFC Wimbledon",
+    "category": "Cambridge United",
+    "logo": "https://cdn.img4every1.org/team/cambridge-united/logo.webp",
+    "start_iso": "2026-09-26T14:00:00.000Z",
+    "end_iso": "2026-09-26T16:15:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/cambridge-united-vs-afc-wimbledon",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/cambridge-united-vs-afc-wimbledon/2257",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Ospreys Sale Sharks",
+    "category": "Ospreys",
+    "logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
+    "start_iso": "2026-09-26T14:00:00.000Z",
+    "end_iso": "2026-09-26T16:15:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/ospreys-vs-sharks",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/ospreys-vs-sharks/2246",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Bulgaria Luxembourg",
@@ -120,7 +233,28 @@
     "time": "18:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/bulgaria-vs-luxembourg",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/bulgaria-vs-luxembourg/2260",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/bulgaria-vs-luxembourg/2261",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Faroe Islands Kazakhstan",
@@ -159,6 +293,164 @@
     "servers": []
   },
   {
+    "title": "London City Lionesses Brighton & Hove Albion",
+    "category": "London City Lionesses",
+    "logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
+    "start_iso": "2026-09-26T16:00:00.000Z",
+    "end_iso": "2026-09-26T18:15:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/london-lionesses-vs-brighton",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/london-lionesses-vs-brighton/2258",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/london-lionesses-vs-brighton/2259",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Bristol Bears Sale Sharks",
+    "category": "Bristol Bears",
+    "logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
+    "start_iso": "2026-09-26T16:30:00.000Z",
+    "end_iso": "2026-09-26T18:45:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/bristol-bears-vs-sale-sharks",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/bristol-bears-vs-sale-sharks/2251",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Oldham Athletic Salford City",
+    "category": "Oldham Athletic",
+    "logo": "https://cdn.img4every1.org/team/oldham-athletic/logo.webp",
+    "start_iso": "2026-09-26T16:30:00.000Z",
+    "end_iso": "2026-09-26T18:45:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/oldham-athletic-vs-salford-city",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/oldham-athletic-vs-salford-city/2250",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Glasgow Warriors Munster",
+    "category": "Glasgow Warriors",
+    "logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
+    "start_iso": "2026-09-26T16:30:00.000Z",
+    "end_iso": "2026-09-26T18:45:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/glasgow-warriors-vs-munster",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/glasgow-warriors-vs-munster/2248",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Bulls Zebre",
+    "category": "Bulls",
+    "logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
+    "start_iso": "2026-09-26T16:30:00.000Z",
+    "end_iso": "2026-09-26T18:45:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/bulls-vs-zebre",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/bulls-vs-zebre/2249",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Wigan Warriors Wakefield Trinity",
+    "category": "Wigan Warriors",
+    "logo": "https://cdn.img4every1.org/team/wigan-warriors/logo.webp",
+    "start_iso": "2026-09-26T16:30:00.000Z",
+    "end_iso": "2026-09-26T18:45:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/wigan-warriors-vs-wakefield-trinity",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/wigan-warriors-vs-wakefield-trinity/2252",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/wigan-warriors-vs-wakefield-trinity/2253",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
     "title": "England Spain",
     "category": "England",
     "logo": "https://cdn.img4every1.org/team/england/logo.webp",
@@ -169,6 +461,29 @@
     "status": "next",
     "event_url": "https://pogo.pk/events/england-vs-spain",
     "servers": []
+  },
+  {
+    "title": "Scarlets Cardiff Blues",
+    "category": "Scarlets",
+    "logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
+    "start_iso": "2026-09-26T18:45:00.000Z",
+    "end_iso": "2026-09-26T21:00:00.000Z",
+    "date": "Saturday, 26 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/scarlets-vs-cardiff-rugby",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/scarlets-vs-cardiff-rugby/2254",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Colombia Mexico",
@@ -193,6 +508,29 @@
     "status": "next",
     "event_url": "https://pogo.pk/events/usa-vs-peru",
     "servers": []
+  },
+  {
+    "title": "Raul Rosas Jr Raoni Barcelos",
+    "category": "Raul Rosas Jr",
+    "logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+    "start_iso": "2026-09-26T22:00:00.000Z",
+    "end_iso": "2026-09-27T04:00:00.000Z",
+    "date": "Sunday, 27 September 2026",
+    "time": "00:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/raul-rosas-jr-vs-raoni-barcelos",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/raul-rosas-jr-vs-raoni-barcelos/2244",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Canada Chile",

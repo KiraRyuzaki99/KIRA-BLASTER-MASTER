@@ -1,15 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Motor-sports",07:00 - Fuji Speedway — Qualifying
-https://embed.st/embed/hotel/fuji-speedway-qualifying-world-endurance-championship-1790398800/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Motor-sports",07:00 - Fuji Speedway — Qualifying
-https://embed.st/embed/hotel/fuji-speedway-qualifying-world-endurance-championship-1790398800/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Other",09:40 - Cremona — Free Practice 3
-https://embed.st/embed/hotel/cremona-free-practice-3-worldsbk-1790408400/1#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Fight",10:00 - Thanongsak Simsri vs Mark Vicelles
 https://embed.st/embed/delta/live-event_thanongsak-simsri-vs-mark-vicelles-live-stream/1#player=clappr&autoplay=true
 
@@ -139,6 +130,12 @@ https://embed.st/embed/hotel/faroe-islands-vs-kazakhstan-uefa-nations-league-179
 #EXTINF:-1 group-title="Football",18:00 - San Marino vs Finland
 https://embed.st/embed/hotel/san-marino-vs-finland-uefa-nations-league-1790438400/1#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Fight",18:00 - Oktagon 94 Eckerlin vs Kozma
+https://embed.st/embed/golf/1805/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",18:00 - Oktagon 94 Eckerlin vs Kozma
+https://embed.st/embed/golf/1805/2#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="American-football",18:00 - Duquesne vs Rio Grande
 https://sportora.ru/watch/duquesne-vs-rio-grande-2598784
 
@@ -229,8 +226,11 @@ https://embed.st/embed/hotel/motoarena-toru-race-fim-speedway-gp-of-poland-toru-
 #EXTINF:-1 group-title="Motor-sports",19:00 - Kansas Speedway — The Chase - Race: Race to Stop Suicide 200
 https://embed.st/embed/hotel/kansas-speedway-the-chase-race-race-to-stop-suicide-200-nascar-craftsman-trucks-series-1790442000/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Motor-sports",19:00 - 2026 Truck Playoff at Kansas
-https://sportora.ru/watch/live-event_2026-truck-playoff-at-kansas-live-stream
+#EXTINF:-1 group-title="Fight",19:00 - Sojar Boy v Scorpion
+https://embed.st/embed/golf/1804/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",19:00 - Sojar Boy v Scorpion
+https://embed.st/embed/golf/1804/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="American-football",19:00 - Worcester State Lancers vs Westfield State Owls
 https://sportora.ru/watch/live_cfb_worcester-state-lancers-westfield-state-owls-live-streaming-660675744
@@ -373,6 +373,9 @@ https://sportora.ru/watch/live_cfb_albany-state-golden-rams-kentucky-state-thoro
 #EXTINF:-1 group-title="American-football",19:00 - Gannon Golden Knights vs Lock Haven Bald Eagles
 https://sportora.ru/watch/live_cfb_gannon-golden-knights-lock-haven-bald-eagles-live-streaming-587877696
 
+#EXTINF:-1 group-title="Motor-sports",19:00 - 2026 Truck Playoff at Kansas
+https://sportora.ru/watch/live-event_2026-truck-playoff-at-kansas-live-stream
+
 #EXTINF:-1 group-title="American-football",19:00 - Merrimack vs New Haven
 https://sportora.ru/watch/merrimack-vs-new-haven-2598542
 
@@ -403,9 +406,6 @@ https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-detroit-tigers/1#player=c
 #EXTINF:-1 group-title="Baseball",19:10 - Detroit Tigers vs Pittsburgh Pirates
 https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-detroit-tigers/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Hockey",19:30 - Assumption Greyhounds vs Saint Michaels Purple Knights
-https://sportora.ru/watch/live_ncaa-women_assumption-greyhounds-saint-michaels-purple-knights-live-streaming-653405616
-
 #EXTINF:-1 group-title="American-football",19:30 - Wesleyan Cardinals vs Tufts Jumbos
 https://sportora.ru/watch/live_cfb_wesleyan-cardinals-tufts-jumbos-live-streaming-660677472
 
@@ -421,6 +421,9 @@ https://sportora.ru/watch/live_cfb_baldwin-wallace-yellow-jackets-capital-crusad
 #EXTINF:-1 group-title="American-football",19:30 - Erskine Flying Fleet vs Shorter Hawks
 https://sportora.ru/watch/live_cfb_erskine-flying-fleet-shorter-hawks-live-streaming-587890224
 
+#EXTINF:-1 group-title="Hockey",19:30 - Assumption Greyhounds vs Saint Michaels Purple Knights
+https://sportora.ru/watch/live_ncaa-women_assumption-greyhounds-saint-michaels-purple-knights-live-streaming-653405616
+
 #EXTINF:-1 group-title="American-football",19:30 - Wofford vs Tennessee Tech
 https://sportora.ru/watch/wofford-vs-tennessee-tech-2593954
 
@@ -431,19 +434,13 @@ https://embed.st/embed/golf/1682/1#player=clappr&autoplay=true
 https://embed.st/embed/golf/1682/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Fight",20:00 - Johnny Fisher vs Michael Pirotton
-https://sportora.ru/watch/live-event_johnny-fisher-vs-michael-pirotton-live-stream
+https://embed.st/embed/golf/1803/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",20:00 - Johnny Fisher vs Michael Pirotton
+https://embed.st/embed/golf/1803/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Fight",20:00 - Lee Cutler vs Louis Greene
 https://sportora.ru/watch/live-event_lee-cutler-vs-louis-greene-live-stream
-
-#EXTINF:-1 group-title="Hockey",20:00 - Saint Thomas Tommies vs New Hampshire Wildcats
-https://sportora.ru/watch/live_ncaa-women_saint-thomas-tommies-new-hampshire-wildcats-live-streaming-653406912
-
-#EXTINF:-1 group-title="Hockey",20:00 - Holy Cross Crusaders vs Delaware Blue Hens
-https://sportora.ru/watch/live_ncaa-women_holy-cross-crusaders-delaware-blue-hens-live-streaming-653406480
-
-#EXTINF:-1 group-title="Hockey",20:00 - Franklin Pierce Ravens vs Union Dutchwomen
-https://sportora.ru/watch/live_ncaa-women_franklin-pierce-ravens-union-dutchwomen-live-streaming-653406048
 
 #EXTINF:-1 group-title="American-football",20:00 - Wabash Little Giants vs Wooster Fighting Scots
 https://sportora.ru/watch/live_cfb_wabash-little-giants-wooster-fighting-scots-live-streaming-660685248
@@ -532,8 +529,20 @@ https://sportora.ru/watch/live_cfb_bloomsburg-huskies-shippensburg-raiders-live-
 #EXTINF:-1 group-title="American-football",20:00 - Anderson Trojans vs Lenoir Rhyne Bears
 https://sportora.ru/watch/live_cfb_anderson-trojans-lenoir-rhyne-bears-live-streaming-587880720
 
+#EXTINF:-1 group-title="Hockey",20:00 - Saint Thomas Tommies vs New Hampshire Wildcats
+https://sportora.ru/watch/live_ncaa-women_saint-thomas-tommies-new-hampshire-wildcats-live-streaming-653406912
+
+#EXTINF:-1 group-title="Hockey",20:00 - Holy Cross Crusaders vs Delaware Blue Hens
+https://sportora.ru/watch/live_ncaa-women_holy-cross-crusaders-delaware-blue-hens-live-streaming-653406480
+
+#EXTINF:-1 group-title="Hockey",20:00 - Franklin Pierce Ravens vs Union Dutchwomen
+https://sportora.ru/watch/live_ncaa-women_franklin-pierce-ravens-union-dutchwomen-live-streaming-653406048
+
 #EXTINF:-1 group-title="Fight",20:00 - Liam Davies vs Nathaniel Collins
-https://sportora.ru/watch/liam-davies-vs-nathaniel-collins-2607378
+https://embed.st/embed/golf/1800/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",20:00 - Liam Davies vs Nathaniel Collins
+https://embed.st/embed/golf/1800/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="American-football",20:00 - Saint Thomas (MN) vs San Diego
 https://sportora.ru/watch/saint-thomas--mn--vs-san-diego-2598785
@@ -577,30 +586,6 @@ https://embed.st/embed/hotel/albania-vs-belarus-uefa-nations-league-1790448300/1
 #EXTINF:-1 group-title="Football",20:45 - England vs Spain
 https://embed.st/embed/hotel/england-vs-spain-uefa-nations-league-1790448300/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Hockey",21:00 - Syracuse Orange vs Stonehill Skyhawks
-https://sportora.ru/watch/live_ncaa-women_syracuse-orange-stonehill-skyhawks-live-streaming-653410368
-
-#EXTINF:-1 group-title="Hockey",21:00 - St. Cloud State Huskies vs Connecticut Huskies
-https://sportora.ru/watch/live_ncaa-women_st-cloud-state-connecticut-huskies-live-streaming-653409936
-
-#EXTINF:-1 group-title="Hockey",21:00 - Saint Lawrence Saints vs Wisconsin Badgers
-https://sportora.ru/watch/live_ncaa-women_saint-lawrence-saints-wisconsin-badgers-live-streaming-653409504
-
-#EXTINF:-1 group-title="Hockey",21:00 - Robert Morris Lady Colonials vs Post Eagles
-https://sportora.ru/watch/live_ncaa-women_robert-morris-lady-colonials-post-eagles-live-streaming-653409072
-
-#EXTINF:-1 group-title="Hockey",21:00 - Providence Friars vs Sacred Heart Pioneers
-https://sportora.ru/watch/live_ncaa-women_providence-friars-sacred-heart-pioneers-live-streaming-653408640
-
-#EXTINF:-1 group-title="Hockey",21:00 - Minnesota State Mavericks vs Rensselaer Engineers
-https://sportora.ru/watch/live_ncaa-women_minnesota-state-mavericks-rensselaer-engineers-live-streaming-653408208
-
-#EXTINF:-1 group-title="Hockey",21:00 - Maine Black Bears vs Quinnipiac Bobcats
-https://sportora.ru/watch/live_ncaa-women_maine-black-bears-quinnipiac-bobcats-live-streaming-653407776
-
-#EXTINF:-1 group-title="Hockey",21:00 - Clarkson Golden Knights vs RIT Tigers
-https://sportora.ru/watch/live_ncaa-women_clarkson-golden-knights-rit-tigers-live-streaming-653407344
-
 #EXTINF:-1 group-title="American-football",21:00 - Thiel Tomcats vs Hiram Terriers
 https://sportora.ru/watch/live_cfb_thiel-tomcats-hiram-terriers-live-streaming-660687408
 
@@ -636,6 +621,30 @@ https://sportora.ru/watch/live_cfb_black-hills-state-yellow-jackets-fort-lewis-s
 
 #EXTINF:-1 group-title="American-football",21:00 - Bemidji State Beavers vs Minot State Beavers
 https://sportora.ru/watch/live_cfb_bemidji-state-beavers-minot-state-beavers-live-streaming-587894976
+
+#EXTINF:-1 group-title="Hockey",21:00 - Syracuse Orange vs Stonehill Skyhawks
+https://sportora.ru/watch/live_ncaa-women_syracuse-orange-stonehill-skyhawks-live-streaming-653410368
+
+#EXTINF:-1 group-title="Hockey",21:00 - St. Cloud State Huskies vs Connecticut Huskies
+https://sportora.ru/watch/live_ncaa-women_st-cloud-state-connecticut-huskies-live-streaming-653409936
+
+#EXTINF:-1 group-title="Hockey",21:00 - Saint Lawrence Saints vs Wisconsin Badgers
+https://sportora.ru/watch/live_ncaa-women_saint-lawrence-saints-wisconsin-badgers-live-streaming-653409504
+
+#EXTINF:-1 group-title="Hockey",21:00 - Robert Morris Lady Colonials vs Post Eagles
+https://sportora.ru/watch/live_ncaa-women_robert-morris-lady-colonials-post-eagles-live-streaming-653409072
+
+#EXTINF:-1 group-title="Hockey",21:00 - Providence Friars vs Sacred Heart Pioneers
+https://sportora.ru/watch/live_ncaa-women_providence-friars-sacred-heart-pioneers-live-streaming-653408640
+
+#EXTINF:-1 group-title="Hockey",21:00 - Minnesota State Mavericks vs Rensselaer Engineers
+https://sportora.ru/watch/live_ncaa-women_minnesota-state-mavericks-rensselaer-engineers-live-streaming-653408208
+
+#EXTINF:-1 group-title="Hockey",21:00 - Maine Black Bears vs Quinnipiac Bobcats
+https://sportora.ru/watch/live_ncaa-women_maine-black-bears-quinnipiac-bobcats-live-streaming-653407776
+
+#EXTINF:-1 group-title="Hockey",21:00 - Clarkson Golden Knights vs RIT Tigers
+https://sportora.ru/watch/live_ncaa-women_clarkson-golden-knights-rit-tigers-live-streaming-653407344
 
 #EXTINF:-1 group-title="Hockey",21:00 - Nashville Predators vs Carolina Hurricanes
 https://embed.st/embed/admin/ppv-carolina-hurricanes-vs-nashville-predators/1#player=clappr&autoplay=true
@@ -763,12 +772,6 @@ https://embed.st/embed/golf/1686/1#player=clappr&autoplay=true
 #EXTINF:-1 group-title="American-football",21:30 - Florida vs Ole Miss
 https://embed.st/embed/golf/1686/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Hockey",22:00 - Minnesota Duluth Bulldogs vs Mercyhurst Lakers
-https://sportora.ru/watch/live_ncaa-women_minnesota-duluth-bulldogs-mercyhurst-lakers-live-streaming-653411232
-
-#EXTINF:-1 group-title="Hockey",22:00 - Boston Terriers vs LIU Sharks
-https://sportora.ru/watch/live_ncaa-women_boston-terriers-liu-sharks-live-streaming-653410800
-
 #EXTINF:-1 group-title="American-football",22:00 - Simpson Storm vs Howard Payne Yellow Jackets
 https://sportora.ru/watch/live_cfb_simpson-storm-howard-payne-yellow-jackets-live-streaming-660689136
 
@@ -793,6 +796,12 @@ https://sportora.ru/watch/live_cfb_colorado-state-pueblo-thunderwolves-colorado-
 #EXTINF:-1 group-title="American-football",22:00 - Barton Bulldogs vs West Alabama Tigers
 https://sportora.ru/watch/live_cfb_barton-bulldogs-west-alabama-tigers-live-streaming-587898432
 
+#EXTINF:-1 group-title="Hockey",22:00 - Minnesota Duluth Bulldogs vs Mercyhurst Lakers
+https://sportora.ru/watch/live_ncaa-women_minnesota-duluth-bulldogs-mercyhurst-lakers-live-streaming-653411232
+
+#EXTINF:-1 group-title="Hockey",22:00 - Boston Terriers vs LIU Sharks
+https://sportora.ru/watch/live_ncaa-women_boston-terriers-liu-sharks-live-streaming-653410800
+
 #EXTINF:-1 group-title="Hockey",22:00 - Los Angeles Kings vs Anaheim Ducks
 https://embed.st/embed/admin/ppv-anaheim-ducks-vs-los-angeles-kings/1#player=clappr&autoplay=true
 
@@ -804,6 +813,12 @@ https://embed.st/embed/golf/1751/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Hockey",22:00 - Los Angeles Kings vs Anaheim Ducks
 https://embed.st/embed/golf/1751/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",22:00 - UFC Fight Night 289 Rosas Jr. vs Barcelos
+https://embed.st/embed/golf/1799/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",22:00 - UFC Fight Night 289 Rosas Jr. vs Barcelos
+https://embed.st/embed/golf/1799/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Fight",22:00 - UFC Fight Night 289 Rosas Jr. vs Barcelos
 https://embed.st/embed/hotel/ufc-fight-night-rosas-jr-vs-barcelos-ufc-1790456400/1#player=clappr&autoplay=true
@@ -957,6 +972,12 @@ https://embed.st/embed/golf/1754/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Hockey",00:00 - Florida Panthers vs Tampa Bay Lightning
 https://embed.st/embed/golf/1754/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",00:00 - Henry Cejudo vs Javon Walton
+https://embed.st/embed/golf/1801/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",00:00 - Henry Cejudo vs Javon Walton
+https://embed.st/embed/golf/1801/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="American-football",00:00 - Stephen F. Austin vs Northeastern State
 https://sportora.ru/watch/stephen-f--austin-vs-northeastern-state-2598545

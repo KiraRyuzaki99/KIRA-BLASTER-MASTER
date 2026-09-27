@@ -1,28 +1,5 @@
 [
   {
-    "title": "Presidents Cup PGA Tour",
-    "category": "Presidents Cup",
-    "logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-    "start_iso": "2026-09-24T16:30:00.000Z",
-    "end_iso": "2026-09-27T22:00:00.000Z",
-    "date": "Thursday, 24 September 2026",
-    "time": "18:30",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/presidents-cup",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/presidents-cup/2195",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "NFL Redzone NFL",
     "category": "NFL Redzone",
     "logo": "https://cdn.img4every1.org/league/nfl-streams/logo.webp",
@@ -44,124 +21,6 @@
         }
       }
     ]
-  },
-  {
-    "title": "Portugal Norway",
-    "category": "Portugal",
-    "logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
-    "start_iso": "2026-09-27T18:45:00.000Z",
-    "end_iso": "2026-09-27T21:00:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "20:45",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/portugal-vs-norway",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/portugal-vs-norway/2304",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/portugal-vs-norway/2310",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Deutsch",
-        "url": "https://pogo.pk/alpha/portugal-vs-norway/2311",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Deutsch"
-        }
-      },
-      {
-        "label": "Portuguese",
-        "url": "https://pogo.pk/alpha/portugal-vs-norway/2312",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Germany Greece",
-    "category": "Germany",
-    "logo": "https://cdn.img4every1.org/team/germany/logo.webp",
-    "start_iso": "2026-09-27T18:45:00.000Z",
-    "end_iso": "2026-09-27T21:00:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "20:45",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/germany-vs-greece",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/germany-vs-greece/2300",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/germany-vs-greece/2336",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/germany-vs-greece/2337",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Deutsch",
-        "url": "https://pogo.pk/alpha/germany-vs-greece/2338",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Deutsch"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Ireland Israel",
-    "category": "Ireland",
-    "logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-    "start_iso": "2026-09-27T18:45:00.000Z",
-    "end_iso": "2026-09-27T21:00:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "20:45",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/ireland-vs-israel",
-    "servers": []
   },
   {
     "title": "Tampa Bay Buccaneers Minnesota Vikings",
@@ -217,7 +76,7 @@
     "end_iso": "2026-09-27T23:35:00.000Z",
     "date": "Sunday, 27 September 2026",
     "time": "22:25",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/ravens-vs-cowboys",
     "servers": [
       {
@@ -250,7 +109,7 @@
     "end_iso": "2026-09-27T23:35:00.000Z",
     "date": "Sunday, 27 September 2026",
     "time": "22:25",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/saints-vs-raiders",
     "servers": [
       {

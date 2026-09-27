@@ -86,7 +86,7 @@
     "end_iso": "2026-09-27T15:15:00.000Z",
     "date": "Sunday, 27 September 2026",
     "time": "15:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/azerbaijan-vs-lithuania",
     "servers": [
       {
@@ -97,6 +97,26 @@
           "quality": "720p",
           "ads": "2",
           "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/azerbaijan-vs-lithuania/2302",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Deutsch",
+        "url": "https://pogo.pk/alpha/azerbaijan-vs-lithuania/2308",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
         }
       }
     ]
@@ -109,7 +129,7 @@
     "end_iso": "2026-09-27T16:15:00.000Z",
     "date": "Sunday, 27 September 2026",
     "time": "16:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/leicester-tigers-vs-saracens",
     "servers": [
       {
@@ -167,7 +187,38 @@
     "time": "18:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/wales-vs-denmark",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/wales-vs-denmark/2305",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/wales-vs-denmark/2306",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/wales-vs-denmark/2307",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Netherlands Serbia",
@@ -189,6 +240,26 @@
           "ads": "2",
           "language": "English"
         }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/netherlands-vs-serbia/2303",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Deutsch",
+        "url": "https://pogo.pk/alpha/netherlands-vs-serbia/2309",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
+        }
       }
     ]
   },
@@ -202,7 +273,18 @@
     "time": "18:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/kosovo-vs-austria",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/kosovo-vs-austria/2313",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Gibraltar Andorra",
@@ -214,7 +296,18 @@
     "time": "18:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/gibraltar-vs-andorra",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/gibraltar-vs-andorra/2314",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Indianapolis Colts Houston Texans",
@@ -238,7 +331,18 @@
     "time": "19:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/panthers-vs-browns",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/panthers-vs-browns/2317",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "New York Giants Tennessee Titans",
@@ -250,7 +354,18 @@
     "time": "19:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/giants-vs-titans",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/giants-vs-titans/2318",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Buffalo Bills Los Angeles Chargers",
@@ -295,7 +410,18 @@
     "time": "19:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/dolphins-vs-chiefs",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/dolphins-vs-chiefs/2319",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Jacksonville Jaguars New England Patriots",
@@ -319,6 +445,82 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/portugal-vs-norway",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/portugal-vs-norway/2304",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/portugal-vs-norway/2310",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Deutsch",
+        "url": "https://pogo.pk/alpha/portugal-vs-norway/2311",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://pogo.pk/alpha/portugal-vs-norway/2312",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Germany Greece",
+    "category": "Germany",
+    "logo": "https://cdn.img4every1.org/team/germany/logo.webp",
+    "start_iso": "2026-09-27T18:45:00.000Z",
+    "end_iso": "2026-09-27T21:00:00.000Z",
+    "date": "Sunday, 27 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/germany-vs-greece",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/germany-vs-greece/2300",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Bangladesh Singapore",
+    "category": "Bangladesh",
+    "logo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
+    "start_iso": "2026-09-28T08:00:00.000Z",
+    "end_iso": "2026-09-28T10:15:00.000Z",
+    "date": "Monday, 28 September 2026",
+    "time": "10:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/bangladesh-vs-singapore",
     "servers": []
   }
 ]

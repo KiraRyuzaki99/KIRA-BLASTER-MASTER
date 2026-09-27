@@ -23,39 +23,6 @@
     ]
   },
   {
-    "title": "Laver Cup ATP Tour",
-    "category": "Laver Cup",
-    "logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-    "start_iso": "2026-09-26T12:00:00.000Z",
-    "end_iso": "2026-09-27T18:30:00.000Z",
-    "date": "Saturday, 26 September 2026",
-    "time": "14:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/laver-cup",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/laver-cup/2262",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/laver-cup/2263",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "NFL Redzone NFL",
     "category": "NFL Redzone",
     "logo": "https://cdn.img4every1.org/league/nfl-streams/logo.webp",
@@ -79,233 +46,6 @@
     ]
   },
   {
-    "title": "Indianapolis Colts Houston Texans",
-    "category": "Indianapolis Colts",
-    "logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
-    "start_iso": "2026-09-27T17:00:00.000Z",
-    "end_iso": "2026-09-27T20:10:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/indianapolis-colts-vs-houston-texans",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/indianapolis-colts-vs-houston-texans/2322",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Carolina Panthers Cleveland Browns",
-    "category": "Carolina Panthers",
-    "logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
-    "start_iso": "2026-09-27T17:00:00.000Z",
-    "end_iso": "2026-09-27T20:10:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/panthers-vs-browns",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/panthers-vs-browns/2317",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "New York Giants Tennessee Titans",
-    "category": "New York Giants",
-    "logo": "https://cdn.img4every1.org/team/new-york-giants/logo.webp",
-    "start_iso": "2026-09-27T17:00:00.000Z",
-    "end_iso": "2026-09-27T20:10:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/giants-vs-titans",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/giants-vs-titans/2318",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Buffalo Bills Los Angeles Chargers",
-    "category": "Buffalo Bills",
-    "logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
-    "start_iso": "2026-09-27T17:00:00.000Z",
-    "end_iso": "2026-09-27T20:10:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/bills-vs-chargers",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/bills-vs-chargers/2286",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/bills-vs-chargers/2287",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Miami Dolphins Kansas City Chiefs",
-    "category": "Miami Dolphins",
-    "logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
-    "start_iso": "2026-09-27T17:00:00.000Z",
-    "end_iso": "2026-09-27T20:10:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/dolphins-vs-chiefs",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/dolphins-vs-chiefs/2319",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Jacksonville Jaguars New England Patriots",
-    "category": "Jacksonville Jaguars",
-    "logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
-    "start_iso": "2026-09-27T17:00:00.000Z",
-    "end_iso": "2026-09-27T20:10:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/jaguars-vs-patriots",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/jaguars-vs-patriots/2320",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Detroit Lions New York Jets",
-    "category": "Detroit Lions",
-    "logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
-    "start_iso": "2026-09-27T17:00:00.000Z",
-    "end_iso": "2026-09-27T20:10:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/lions-vs-jets",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/lions-vs-jets/2321",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Washington Commanders Seattle Seahawks",
-    "category": "Washington Commanders",
-    "logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
-    "start_iso": "2026-09-27T17:00:00.000Z",
-    "end_iso": "2026-09-27T20:10:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/commanders-vs-seahawks",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/commanders-vs-seahawks/2316",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Pittsburgh Steelers Cincinnati Bengals",
-    "category": "Pittsburgh Steelers",
-    "logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
-    "start_iso": "2026-09-27T17:00:00.000Z",
-    "end_iso": "2026-09-27T20:10:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/steelers-vs-bengals",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/steelers-vs-bengals/2285",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/steelers-vs-bengals/2335",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Portugal Norway",
     "category": "Portugal",
     "logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
@@ -313,7 +53,7 @@
     "end_iso": "2026-09-27T21:00:00.000Z",
     "date": "Sunday, 27 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/portugal-vs-norway",
     "servers": [
       {
@@ -366,7 +106,7 @@
     "end_iso": "2026-09-27T21:00:00.000Z",
     "date": "Sunday, 27 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/germany-vs-greece",
     "servers": [
       {
@@ -377,6 +117,36 @@
           "quality": "720p",
           "ads": "2",
           "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/germany-vs-greece/2336",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/germany-vs-greece/2337",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Deutsch",
+        "url": "https://pogo.pk/alpha/germany-vs-greece/2338",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
         }
       }
     ]
@@ -389,30 +159,9 @@
     "end_iso": "2026-09-27T21:00:00.000Z",
     "date": "Sunday, 27 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/ireland-vs-israel",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/ireland-vs-israel/2301",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/ireland-vs-israel/2315",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
+    "servers": []
   },
   {
     "title": "Tampa Bay Buccaneers Minnesota Vikings",
@@ -422,7 +171,7 @@
     "end_iso": "2026-09-27T23:15:00.000Z",
     "date": "Sunday, 27 September 2026",
     "time": "22:05",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/buccaneers-vs-vikings",
     "servers": [
       {
@@ -445,7 +194,7 @@
     "end_iso": "2026-09-27T23:15:00.000Z",
     "date": "Sunday, 27 September 2026",
     "time": "22:05",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/49ers-vs-cardinals",
     "servers": [
       {
@@ -662,51 +411,39 @@
     "servers": []
   },
   {
-    "title": "Wales Denmark",
-    "category": "Wales",
-    "logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-    "start_iso": "2026-09-27T16:00:00.000Z",
-    "end_iso": "2026-09-27T18:15:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "18:00",
-    "status": "finished",
-    "event_url": "https://pogo.pk/events/wales-vs-denmark",
+    "title": "Turkiye Italy",
+    "category": "Turkiye",
+    "logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
+    "start_iso": "2026-09-28T18:45:00.000Z",
+    "end_iso": "2026-09-28T21:00:00.000Z",
+    "date": "Monday, 28 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/turkey-vs-italy",
     "servers": []
   },
   {
-    "title": "Netherlands Serbia",
-    "category": "Netherlands",
-    "logo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
-    "start_iso": "2026-09-27T16:00:00.000Z",
-    "end_iso": "2026-09-27T18:15:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "18:00",
-    "status": "finished",
-    "event_url": "https://pogo.pk/events/netherlands-vs-serbia",
+    "title": "Northern Ireland Hungary",
+    "category": "Northern Ireland",
+    "logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
+    "start_iso": "2026-09-28T18:45:00.000Z",
+    "end_iso": "2026-09-28T21:00:00.000Z",
+    "date": "Monday, 28 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/northern-ireland-vs-hungary",
     "servers": []
   },
   {
-    "title": "Kosovo Austria",
-    "category": "Kosovo",
-    "logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
-    "start_iso": "2026-09-27T16:00:00.000Z",
-    "end_iso": "2026-09-27T18:15:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "18:00",
-    "status": "finished",
-    "event_url": "https://pogo.pk/events/kosovo-vs-austria",
-    "servers": []
-  },
-  {
-    "title": "Gibraltar Andorra",
-    "category": "Gibraltar",
-    "logo": "https://cdn.img4every1.org/team/gibraltar/logo.webp",
-    "start_iso": "2026-09-27T16:00:00.000Z",
-    "end_iso": "2026-09-27T18:15:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "18:00",
-    "status": "finished",
-    "event_url": "https://pogo.pk/events/gibraltar-vs-andorra",
+    "title": "Bosnia and Herzegovina Romania",
+    "category": "Bosnia and Herzegovina",
+    "logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
+    "start_iso": "2026-09-28T18:45:00.000Z",
+    "end_iso": "2026-09-28T21:00:00.000Z",
+    "date": "Monday, 28 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/bosnia-vs-romania",
     "servers": []
   }
 ]

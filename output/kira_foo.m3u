@@ -1,34 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Presidents Cup PGA Tour" tvg-logo="https://cdn.img4every1.org/league/pga-tour/logo.webp" group-title="Presidents Cup",Presidents Cup PGA Tour
 https://pogo.pk/alpha/presidents-cup/2195
-#EXTINF:-1 tvg-name="Laver Cup ATP Tour" tvg-logo="https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp" group-title="Laver Cup",Laver Cup ATP Tour - English
-https://pogo.pk/alpha/laver-cup/2262
-#EXTINF:-1 tvg-name="Laver Cup ATP Tour" tvg-logo="https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp" group-title="Laver Cup",Laver Cup ATP Tour - English
-https://pogo.pk/alpha/laver-cup/2263
 #EXTINF:-1 tvg-name="NFL Redzone NFL" tvg-logo="https://cdn.img4every1.org/league/nfl-streams/logo.webp" group-title="NFL Redzone",NFL Redzone NFL
 https://pogo.pk/alpha/nfl-redzone/2325
-#EXTINF:-1 tvg-name="Indianapolis Colts Houston Texans" tvg-logo="https://cdn.img4every1.org/team/indianapolis-colts/logo.webp" group-title="Indianapolis Colts",Indianapolis Colts Houston Texans
-https://pogo.pk/alpha/indianapolis-colts-vs-houston-texans/2322
-#EXTINF:-1 tvg-name="Carolina Panthers Cleveland Browns" tvg-logo="https://cdn.img4every1.org/team/carolina-panthers/logo.webp" group-title="Carolina Panthers",Carolina Panthers Cleveland Browns
-https://pogo.pk/alpha/panthers-vs-browns/2317
-#EXTINF:-1 tvg-name="New York Giants Tennessee Titans" tvg-logo="https://cdn.img4every1.org/team/new-york-giants/logo.webp" group-title="New York Giants",New York Giants Tennessee Titans
-https://pogo.pk/alpha/giants-vs-titans/2318
-#EXTINF:-1 tvg-name="Buffalo Bills Los Angeles Chargers" tvg-logo="https://cdn.img4every1.org/team/buffalo-bills/logo.webp" group-title="Buffalo Bills",Buffalo Bills Los Angeles Chargers - English
-https://pogo.pk/alpha/bills-vs-chargers/2286
-#EXTINF:-1 tvg-name="Buffalo Bills Los Angeles Chargers" tvg-logo="https://cdn.img4every1.org/team/buffalo-bills/logo.webp" group-title="Buffalo Bills",Buffalo Bills Los Angeles Chargers - English
-https://pogo.pk/alpha/bills-vs-chargers/2287
-#EXTINF:-1 tvg-name="Miami Dolphins Kansas City Chiefs" tvg-logo="https://cdn.img4every1.org/team/miami-dolphins/logo.webp" group-title="Miami Dolphins",Miami Dolphins Kansas City Chiefs
-https://pogo.pk/alpha/dolphins-vs-chiefs/2319
-#EXTINF:-1 tvg-name="Jacksonville Jaguars New England Patriots" tvg-logo="https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp" group-title="Jacksonville Jaguars",Jacksonville Jaguars New England Patriots
-https://pogo.pk/alpha/jaguars-vs-patriots/2320
-#EXTINF:-1 tvg-name="Detroit Lions New York Jets" tvg-logo="https://cdn.img4every1.org/team/detroit-lions/logo.webp" group-title="Detroit Lions",Detroit Lions New York Jets
-https://pogo.pk/alpha/lions-vs-jets/2321
-#EXTINF:-1 tvg-name="Washington Commanders Seattle Seahawks" tvg-logo="https://cdn.img4every1.org/team/washington-commanders/logo.webp" group-title="Washington Commanders",Washington Commanders Seattle Seahawks
-https://pogo.pk/alpha/commanders-vs-seahawks/2316
-#EXTINF:-1 tvg-name="Pittsburgh Steelers Cincinnati Bengals" tvg-logo="https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp" group-title="Pittsburgh Steelers",Pittsburgh Steelers Cincinnati Bengals - English
-https://pogo.pk/alpha/steelers-vs-bengals/2285
-#EXTINF:-1 tvg-name="Pittsburgh Steelers Cincinnati Bengals" tvg-logo="https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp" group-title="Pittsburgh Steelers",Pittsburgh Steelers Cincinnati Bengals - English
-https://pogo.pk/alpha/steelers-vs-bengals/2335
 #EXTINF:-1 tvg-name="Portugal Norway" tvg-logo="https://cdn.img4every1.org/team/portugal/logo.webp" group-title="Portugal",Portugal Norway - English
 https://pogo.pk/alpha/portugal-vs-norway/2304
 #EXTINF:-1 tvg-name="Portugal Norway" tvg-logo="https://cdn.img4every1.org/team/portugal/logo.webp" group-title="Portugal",Portugal Norway - English
@@ -37,12 +11,14 @@ https://pogo.pk/alpha/portugal-vs-norway/2310
 https://pogo.pk/alpha/portugal-vs-norway/2311
 #EXTINF:-1 tvg-name="Portugal Norway" tvg-logo="https://cdn.img4every1.org/team/portugal/logo.webp" group-title="Portugal",Portugal Norway - Portuguese
 https://pogo.pk/alpha/portugal-vs-norway/2312
-#EXTINF:-1 tvg-name="Germany Greece" tvg-logo="https://cdn.img4every1.org/team/germany/logo.webp" group-title="Germany",Germany Greece
+#EXTINF:-1 tvg-name="Germany Greece" tvg-logo="https://cdn.img4every1.org/team/germany/logo.webp" group-title="Germany",Germany Greece - English
 https://pogo.pk/alpha/germany-vs-greece/2300
-#EXTINF:-1 tvg-name="Ireland Israel" tvg-logo="https://cdn.img4every1.org/team/ireland/logo.webp" group-title="Ireland",Ireland Israel - English
-https://pogo.pk/alpha/ireland-vs-israel/2301
-#EXTINF:-1 tvg-name="Ireland Israel" tvg-logo="https://cdn.img4every1.org/team/ireland/logo.webp" group-title="Ireland",Ireland Israel - English
-https://pogo.pk/alpha/ireland-vs-israel/2315
+#EXTINF:-1 tvg-name="Germany Greece" tvg-logo="https://cdn.img4every1.org/team/germany/logo.webp" group-title="Germany",Germany Greece - English
+https://pogo.pk/alpha/germany-vs-greece/2336
+#EXTINF:-1 tvg-name="Germany Greece" tvg-logo="https://cdn.img4every1.org/team/germany/logo.webp" group-title="Germany",Germany Greece - English
+https://pogo.pk/alpha/germany-vs-greece/2337
+#EXTINF:-1 tvg-name="Germany Greece" tvg-logo="https://cdn.img4every1.org/team/germany/logo.webp" group-title="Germany",Germany Greece - Deutsch
+https://pogo.pk/alpha/germany-vs-greece/2338
 #EXTINF:-1 tvg-name="Tampa Bay Buccaneers Minnesota Vikings" tvg-logo="https://cdn.img4every1.org/team/tampa-bay-buccaneers/logo.webp" group-title="Tampa Bay Buccaneers",Tampa Bay Buccaneers Minnesota Vikings
 https://pogo.pk/alpha/buccaneers-vs-vikings/2323
 #EXTINF:-1 tvg-name="San Francisco 49ers Arizona Cardinals" tvg-logo="https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp" group-title="San Francisco 49ers",San Francisco 49ers Arizona Cardinals

@@ -79,39 +79,6 @@
     ]
   },
   {
-    "title": "South Africa Australia",
-    "category": "South Africa",
-    "logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
-    "start_iso": "2026-09-27T09:45:00.000Z",
-    "end_iso": "2026-09-27T12:00:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "11:45",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/south-africa-vs-australia",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/south-africa-vs-australia/2296",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/south-africa-vs-australia/2297",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Azerbaijan Lithuania",
     "category": "Azerbaijan",
     "logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
@@ -121,7 +88,18 @@
     "time": "15:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/azerbaijan-vs-lithuania",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/azerbaijan-vs-lithuania/2298",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Leicester Tigers Saracens",
@@ -201,7 +179,18 @@
     "time": "18:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/netherlands-vs-serbia",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/netherlands-vs-serbia/2299",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Kosovo Austria",

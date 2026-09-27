@@ -112,39 +112,6 @@
     ]
   },
   {
-    "title": "Canada Chile",
-    "category": "Canada",
-    "logo": "https://cdn.img4every1.org/team/canada/logo.webp",
-    "start_iso": "2026-09-26T23:00:00.000Z",
-    "end_iso": "2026-09-27T01:15:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "01:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/canada-vs-chile",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/canada-vs-chile/2278",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/canada-vs-chile/2281",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Colombia Mexico",
     "category": "Colombia",
     "logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
@@ -152,7 +119,7 @@
     "end_iso": "2026-09-27T03:15:00.000Z",
     "date": "Sunday, 27 September 2026",
     "time": "03:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/colombia-vs-mexico",
     "servers": [
       {

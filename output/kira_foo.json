@@ -79,49 +79,6 @@
     ]
   },
   {
-    "title": "Azerbaijan Lithuania",
-    "category": "Azerbaijan",
-    "logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
-    "start_iso": "2026-09-27T13:00:00.000Z",
-    "end_iso": "2026-09-27T15:15:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "15:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/azerbaijan-vs-lithuania",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/azerbaijan-vs-lithuania/2298",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/azerbaijan-vs-lithuania/2302",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Deutsch",
-        "url": "https://pogo.pk/alpha/azerbaijan-vs-lithuania/2308",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Deutsch"
-        }
-      }
-    ]
-  },
-  {
     "title": "Leicester Tigers Saracens",
     "category": "Leicester Tigers",
     "logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
@@ -152,7 +109,7 @@
     "end_iso": "2026-09-27T17:45:00.000Z",
     "date": "Sunday, 27 September 2026",
     "time": "17:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/chelsea-vs-arsenal",
     "servers": [
       {
@@ -185,7 +142,7 @@
     "end_iso": "2026-09-27T18:15:00.000Z",
     "date": "Sunday, 27 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/wales-vs-denmark",
     "servers": [
       {
@@ -228,7 +185,7 @@
     "end_iso": "2026-09-27T18:15:00.000Z",
     "date": "Sunday, 27 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/netherlands-vs-serbia",
     "servers": [
       {
@@ -271,7 +228,7 @@
     "end_iso": "2026-09-27T18:15:00.000Z",
     "date": "Sunday, 27 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/kosovo-vs-austria",
     "servers": [
       {
@@ -294,12 +251,35 @@
     "end_iso": "2026-09-27T18:15:00.000Z",
     "date": "Sunday, 27 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/gibraltar-vs-andorra",
     "servers": [
       {
         "label": "English",
         "url": "https://pogo.pk/alpha/gibraltar-vs-andorra/2314",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "NFL Redzone NFL",
+    "category": "NFL Redzone",
+    "logo": "https://cdn.img4every1.org/league/nfl-streams/logo.webp",
+    "start_iso": "2026-09-27T16:30:00.000Z",
+    "end_iso": "2026-09-27T23:30:00.000Z",
+    "date": "Sunday, 27 September 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/nfl-redzone",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/nfl-redzone/2325",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -319,7 +299,18 @@
     "time": "19:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/indianapolis-colts-vs-houston-texans",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/indianapolis-colts-vs-houston-texans/2322",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Carolina Panthers Cleveland Browns",
@@ -424,18 +415,6 @@
     ]
   },
   {
-    "title": "Jacksonville Jaguars New England Patriots",
-    "category": "Jacksonville Jaguars",
-    "logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
-    "start_iso": "2026-09-27T17:00:00.000Z",
-    "end_iso": "2026-09-27T20:10:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "19:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/jaguars-vs-patriots",
-    "servers": []
-  },
-  {
     "title": "Portugal Norway",
     "category": "Portugal",
     "logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
@@ -512,6 +491,82 @@
     ]
   },
   {
+    "title": "Ireland Israel",
+    "category": "Ireland",
+    "logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
+    "start_iso": "2026-09-27T18:45:00.000Z",
+    "end_iso": "2026-09-27T21:00:00.000Z",
+    "date": "Sunday, 27 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/ireland-vs-israel",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/ireland-vs-israel/2301",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/ireland-vs-israel/2315",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Shenzhen Open Snooker Snooker",
+    "category": "Shenzhen Open Snooker",
+    "logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+    "start_iso": "2026-09-28T06:00:00.000Z",
+    "end_iso": "2026-10-04T16:00:00.000Z",
+    "date": "Monday, 28 September 2026",
+    "time": "08:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/shenzhen-open-snooker",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/shenzhen-open-snooker/2330",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/shenzhen-open-snooker/2331",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/shenzhen-open-snooker/2332",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
     "title": "Bangladesh Singapore",
     "category": "Bangladesh",
     "logo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
@@ -521,6 +576,53 @@
     "time": "10:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/bangladesh-vs-singapore",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/bangladesh-vs-singapore/2329",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Armenia Montenegro",
+    "category": "Armenia",
+    "logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
+    "start_iso": "2026-09-28T16:00:00.000Z",
+    "end_iso": "2026-09-28T18:15:00.000Z",
+    "date": "Monday, 28 September 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/armenia-vs-montenegro",
+    "servers": []
+  },
+  {
+    "title": "Latvia Cyprus",
+    "category": "Latvia",
+    "logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
+    "start_iso": "2026-09-28T16:00:00.000Z",
+    "end_iso": "2026-09-28T18:15:00.000Z",
+    "date": "Monday, 28 September 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/latvia-vs-cyprus",
+    "servers": []
+  },
+  {
+    "title": "Georgia Ukraine",
+    "category": "Georgia",
+    "logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
+    "start_iso": "2026-09-28T16:00:00.000Z",
+    "end_iso": "2026-09-28T18:15:00.000Z",
+    "date": "Monday, 28 September 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/georgia-vs-ukraine",
     "servers": []
   }
 ]

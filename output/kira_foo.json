@@ -79,29 +79,6 @@
     ]
   },
   {
-    "title": "USA Peru",
-    "category": "USA",
-    "logo": "https://cdn.img4every1.org/team/usa/logo.webp",
-    "start_iso": "2026-09-26T20:30:00.000Z",
-    "end_iso": "2026-09-26T22:45:00.000Z",
-    "date": "Saturday, 26 September 2026",
-    "time": "22:30",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/usa-vs-peru",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/usa-vs-peru/2292",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Raul Rosas Jr Raoni Barcelos",
     "category": "Raul Rosas Jr",
     "logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
@@ -121,6 +98,16 @@
           "ads": "2",
           "language": "English"
         }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/raul-rosas-jr-vs-raoni-barcelos/2294",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
       }
     ]
   },
@@ -132,7 +119,7 @@
     "end_iso": "2026-09-27T01:15:00.000Z",
     "date": "Sunday, 27 September 2026",
     "time": "01:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/canada-vs-chile",
     "servers": [
       {
@@ -200,6 +187,16 @@
           "ads": "2",
           "language": "English"
         }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/newcastle-knights-vs-penrith-panthers/2295",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
       }
     ]
   },
@@ -213,7 +210,28 @@
     "time": "11:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/south-africa-vs-australia",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/south-africa-vs-australia/2296",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/south-africa-vs-australia/2297",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Azerbaijan Lithuania",

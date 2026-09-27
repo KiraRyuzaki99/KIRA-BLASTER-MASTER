@@ -79,39 +79,6 @@
     ]
   },
   {
-    "title": "Newcastle Knights Penrith Panthers",
-    "category": "Newcastle Knights",
-    "logo": "https://cdn.img4every1.org/team/newcastle-knights/logo.webp",
-    "start_iso": "2026-09-27T06:00:00.000Z",
-    "end_iso": "2026-09-27T08:15:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "08:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/newcastle-knights-vs-penrith-panthers",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/newcastle-knights-vs-penrith-panthers/2293",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/newcastle-knights-vs-penrith-panthers/2295",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "South Africa Australia",
     "category": "South Africa",
     "logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
@@ -119,7 +86,7 @@
     "end_iso": "2026-09-27T12:00:00.000Z",
     "date": "Sunday, 27 September 2026",
     "time": "11:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/south-africa-vs-australia",
     "servers": [
       {

@@ -1,36 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Rugby",08:00 - Penrith Panthers vs Newcastle Knights
-https://embed.st/embed/admin/ppv-panthers-vs-knights/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Rugby",08:00 - Penrith Panthers vs Newcastle Knights
-https://embed.st/embed/admin/ppv-panthers-vs-knights/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",08:00 - Adelaide 36ers vs Cairns Taipans
-https://embed.st/embed/admin/ppv-adelaide-36-ers-vs-cairns-taipans/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",08:00 - Adelaide 36ers vs Cairns Taipans
-https://embed.st/embed/admin/ppv-adelaide-36-ers-vs-cairns-taipans/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",05:00 - Missouri State Bears - SMU Mustangs
-https://embed.st/embed/golf/1741/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",05:00 - Missouri State Bears - SMU Mustangs
-https://embed.st/embed/golf/1741/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",05:00 - Washington vs Minnesota
-https://embed.st/embed/delta/live_cfb_washington-minnesota-live-streaming-660643776/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",05:00 - Washington vs Minnesota
-https://embed.st/embed/golf/1745/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="American-football",05:00 - Washington vs Minnesota
-https://embed.st/embed/golf/1745/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Other",09:00 - Cremona — Warm-Up
-https://embed.st/embed/hotel/cremona-warm-up-world-sportbike-championship-1790492400/1#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Fight",10:00 - Inoue vs. Nasukawa 2
 https://embed.st/embed/admin/ppv-inoue-vs-nasukawa-2/1#player=clappr&autoplay=true
 
@@ -49,20 +19,35 @@ https://embed.st/embed/admin/ppv-sydney-kings-vs-illawarra-hawks/1#player=clappr
 #EXTINF:-1 group-title="Basketball",10:00 - Sydney Kings vs Illawarra Hawks
 https://embed.st/embed/admin/ppv-sydney-kings-vs-illawarra-hawks/2#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Basketball",08:00 - Adelaide 36ers vs Cairns Taipans
+https://embed.st/embed/admin/ppv-adelaide-36-ers-vs-cairns-taipans/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Basketball",08:00 - Adelaide 36ers vs Cairns Taipans
+https://embed.st/embed/admin/ppv-adelaide-36-ers-vs-cairns-taipans/2#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Motor-sports",10:45 - Nascar Cup Series 2026 - Hollywood Casino 400
 https://sportora.ru/watch/live-event_nascar-cup-series-2026-hollywood-casino-400-live-stream
 
 #EXTINF:-1 group-title="Motor-sports",11:10 - Italian Superpole Race
 https://embed.st/embed/hotel/cremona-superpole-race-worldsbk-1790500200/1#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Motor-sports",11:10 - Italian Superpole Race
+https://embed.st/embed/hotel/cremona-superpole-race-worldsbk-1790500200/2#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Other",13:00 - Cremona — Race 2
 https://embed.st/embed/hotel/cremona-race-2-world-sportbike-championship-1790506800/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Other",13:00 - Cremona — Race 2
+https://embed.st/embed/hotel/cremona-race-2-world-sportbike-championship-1790506800/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",15:00 - Lithuania vs Azerbaijan
 https://embed.st/embed/hotel/lithuania-vs-azerbaijan-uefa-nations-league-1790514000/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Other",15:30 - Cremona — Race 2
 https://embed.st/embed/hotel/cremona-race-2-worldsbk-1790515800/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Other",15:30 - Cremona — Race 2
+https://embed.st/embed/hotel/cremona-race-2-worldsbk-1790515800/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:00 - Gibraltar vs Andorra
 https://embed.st/embed/hotel/gibraltar-vs-andorra-uefa-nations-league-1790524800/1#player=clappr&autoplay=true

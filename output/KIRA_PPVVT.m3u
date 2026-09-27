@@ -1,38 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Wrestling – Wrestling",Oggi 00:00 - AEW Saturday Night Collision [TNT]
-https://august.ppvtv.icu/embed.html?match=co5lsi2&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Oggi 00:30 - Austin FC vs. San Diego FC [Apple TV]
-https://august.ppvtv.icu/embed.html?match=fugw4k9&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Oggi 00:30 - FC Dallas vs. LAFC [Apple TV]
-https://august.ppvtv.icu/embed.html?match=f1t59nrx&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Oggi 00:30 - Houston Dynamo FC vs. Sporting Kansas City [Apple TV]
-https://august.ppvtv.icu/embed.html?match=f1su2qwy&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Oggi 00:30 - Nashville SC vs. Toronto FC [Apple TV]
-https://august.ppvtv.icu/embed.html?match=f7bm1c1&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Oggi 00:30 - Seattle Sounders FC vs. Minnesota United FC [Apple TV]
-https://august.ppvtv.icu/embed.html?match=fl3efbb&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 00:40 - Arizona Diamondbacks vs. San Diego Padres [Padres.TV]
-https://august.ppvtv.icu/embed.html?match=f1cgn8hp&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 00:40 - Arizona Diamondbacks vs. San Diego Padres [DBACKS.TV]
-https://august.ppvtv.icu/embed.html?match=f1cgn8hp&server=1
+#EXTINF:-1 group-title="Wrestling – Wrestling",Oggi 00:00 - AEW All Out 2026 [PPV]
+https://august.ppvtv.icu/embed.html?match=cix5tj4&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Oggi 01:00 - Missouri State Bears at SMU Mustangs [ACC Network]
 https://august.ppvtv.icu/embed.html?match=c2459ar&server=0
-
-#EXTINF:-1 group-title="Football – Liga MX",Oggi 01:00 - Santos vs. Pachuca [Liga MX]
-https://august.ppvtv.icu/embed.html?match=fcjy8he&server=0
-
-#EXTINF:-1 group-title="Football – Liga MX",Oggi 01:00 - Tigres UANL vs. Puebla [Liga MX]
-https://august.ppvtv.icu/embed.html?match=fixk69o&server=0
 
 #EXTINF:-1 group-title="Football – MLS",Oggi 01:30 - Real Salt Lake vs. New England Revolution [Apple TV]
 https://august.ppvtv.icu/embed.html?match=fs8zj4i&server=0
@@ -183,69 +156,3 @@ https://august.ppvtv.icu/embed.html?match=f12e4pqf&server=1
 
 #EXTINF:-1 group-title="Combat Sports – MMA",Passato 21:00 - UFC Fight Night: Rosas Jr. vs Barcelos [Paramount+]
 https://august.ppvtv.icu/embed.html?match=f12e4pqf&server=2
-
-#EXTINF:-1 group-title="Combat Sports – Boxing",Passato 22:00 - Misfits Boxing: Cejudo vs. Walton [DAZN]
-https://august.ppvtv.icu/embed.html?match=fkkiept&server=0
-
-#EXTINF:-1 group-title="American Football – College Football",Passato 22:30 - Central Michigan Chippewas at Miami Hurricanes [CW]
-https://august.ppvtv.icu/embed.html?match=c1ltzgcz&server=0
-
-#EXTINF:-1 group-title="American Football – Canadian Football",Passato 23:00 - Hamilton Tiger-Cats at Edmonton Elks [TSN1]
-https://august.ppvtv.icu/embed.html?match=c93e6rz&server=0
-
-#EXTINF:-1 group-title="American Football – College Football",Passato 23:00 - South Carolina Gamecocks at Alabama Crimson Tide [ESPN]
-https://august.ppvtv.icu/embed.html?match=cv0c7tq&server=0
-
-#EXTINF:-1 group-title="American Football – College Football",Passato 23:00 - South Carolina Gamecocks at Alabama Crimson Tide [SkyCast]
-https://august.ppvtv.icu/embed.html?match=cv0c7tq&server=1
-
-#EXTINF:-1 group-title="Baseball – MLB",Passato 23:10 - Cleveland Guardians vs. Kansas City Royals [Royals.TV]
-https://august.ppvtv.icu/embed.html?match=fwp6hmk&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Passato 23:10 - Cleveland Guardians vs. Kansas City Royals [CLEGuardians.TV]
-https://august.ppvtv.icu/embed.html?match=fwp6hmk&server=1
-
-#EXTINF:-1 group-title="Baseball – MLB",Passato 23:10 - Colorado Rockies vs. Chicago White Sox [CHSN]
-https://august.ppvtv.icu/embed.html?match=f4lh3ss&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Passato 23:10 - Colorado Rockies vs. Chicago White Sox [Rockies.TV]
-https://august.ppvtv.icu/embed.html?match=f4lh3ss&server=1
-
-#EXTINF:-1 group-title="Baseball – MLB",Passato 23:10 - St. Louis Cardinals vs. Milwaukee Brewers [Brewers.TV]
-https://august.ppvtv.icu/embed.html?match=f17a3x8k&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Passato 23:10 - St. Louis Cardinals vs. Milwaukee Brewers [Cardinals.TV]
-https://august.ppvtv.icu/embed.html?match=f17a3x8k&server=1
-
-#EXTINF:-1 group-title="Baseball – MLB",Passato 23:15 - Tampa Bay Rays vs. Philadelphia Phillies [MLB.TV]
-https://august.ppvtv.icu/embed.html?match=f4pdsvl&server=0
-
-#EXTINF:-1 group-title="American Football – College Football",Passato 23:30 - Texas A&M Aggies at LSU Tigers [ABC]
-https://august.ppvtv.icu/embed.html?match=cidf7qg&server=0
-
-#EXTINF:-1 group-title="American Football – College Football",Passato 23:30 - Texas A&M Aggies at LSU Tigers [SkyCast]
-https://august.ppvtv.icu/embed.html?match=cidf7qg&server=1
-
-#EXTINF:-1 group-title="American Football – College Football",Passato 23:30 - Oregon Ducks at USC Trojans [NBC]
-https://august.ppvtv.icu/embed.html?match=c1tmlazb&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Passato 23:30 - Atlanta United FC vs. New York City FC [Apple TV]
-https://august.ppvtv.icu/embed.html?match=f1t5ymnj&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Passato 23:30 - CF Montréal vs. FC Cincinnati [Apple TV]
-https://august.ppvtv.icu/embed.html?match=fp9at6f&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Passato 23:30 - Charlotte FC vs. Chicago Fire FC [Apple TV]
-https://august.ppvtv.icu/embed.html?match=f9jpwbn&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Passato 23:30 - Philadelphia Union vs. Orlando City SC [Apple TV]
-https://august.ppvtv.icu/embed.html?match=f1cw1p2x&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Passato 23:30 - Red Bull New York vs. St. Louis CITY SC [Apple TV]
-https://august.ppvtv.icu/embed.html?match=f18b3344&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Passato 23:30 - New Jersey Devils vs. New York Islanders [MSGSN]
-https://august.ppvtv.icu/embed.html?match=f1wnw8n2&server=0
-
-#EXTINF:-1 group-title="American Football – College Football",Passato 23:45 - Missouri Tigers at Mississippi State Bulldogs [SEC Network]
-https://august.ppvtv.icu/embed.html?match=cs7s6k&server=0

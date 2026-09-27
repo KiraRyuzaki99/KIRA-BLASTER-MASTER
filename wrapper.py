@@ -30,6 +30,9 @@ TUOI_SCRIPTS = [
     "scripts/personali/ppvvt.py",
     "scripts/personali/kira_foo.py",
     "scripts/personali/kira_xust.py",
+    "scripts/personali/kira_asi.py",
+    "scripts/personali/kira_asi_sett.py",
+    "scripts/personali/kira_asi_palin.py",
     "scripts/personali/genera_index.py",
 ]
 

@@ -113,17 +113,5 @@
     "status": "next",
     "event_url": "https://pogo.pk/events/bosnia-vs-romania",
     "servers": []
-  },
-  {
-    "title": "Bangladesh Singapore",
-    "category": "Bangladesh",
-    "logo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
-    "start_iso": "2026-09-28T08:00:00.000Z",
-    "end_iso": "2026-09-28T10:15:00.000Z",
-    "date": "Monday, 28 September 2026",
-    "time": "10:00",
-    "status": "finished",
-    "event_url": "https://pogo.pk/events/bangladesh-vs-singapore",
-    "servers": []
   }
 ]

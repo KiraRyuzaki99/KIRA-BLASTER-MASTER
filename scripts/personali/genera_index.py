@@ -12,7 +12,7 @@ FILE_DA_MOSTRARE = [
     "kira_hat.html",
     "kira_ultra.html",
     "kira_foo.html",
-    "Kira_Ica.html",
+    "kira_ica.html",
     "kira_hat_od.html",
     "kira_tora.html",
     "kira_ppvvt.html",

@@ -18,6 +18,9 @@ FILE_DA_MOSTRARE = [
     "kira_ppvvt.html",
     "kira_mam.html",
     "kira_xust.html",
+    "kira_asi.html",
+    "kira_asi_sett.html",
+    "Eventi della Settimana.html",
     "requirements.txt",
 ]
 

@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTGRP:Amistoso Internacional
-#EXTINF:-1 group-title="Amistoso Internacional",🔴LIVE 28/09 12:25 - Japón vs Venezuela
-https://streamxhd.com/live1.php?stream=evento1
-#EXTINF:-1 group-title="Amistoso Internacional",🔴LIVE 28/09 13:00 - Corea del Sur vs Uruguay
-https://streamxhd.com/live1.php?stream=evento2
 #EXTGRP:Fútbol
 #EXTINF:-1 group-title="Fútbol",✅END 27/09 22:00 - Copa Argentina: Racing Club vs Boca Juniors
 https://streamx305.sbs/global1.php?channel=tyc
@@ -71,9 +66,9 @@ https://streamx305.sbs/global1.php?channel=winplus
 https://streamx305.sbs/global1.php?channel=foxone6
 #EXTINF:-1 group-title="Fútbol",✅END 28/09 05:10 - Liga MX: Necaxa vs América
 https://streamx305.sbs/global1.php?channel=foxdeportes
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 28/09 12:25 - Amistoso Internacional: Japón vs Venezuela
+#EXTINF:-1 group-title="Fútbol",✅END 28/09 12:25 - Amistoso Internacional: Japón vs Venezuela
 https://streamx305.sbs/global1.php?channel=eventos1
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 28/09 12:25 - Amistoso Internacional: Japón vs Venezuela
+#EXTINF:-1 group-title="Fútbol",✅END 28/09 12:25 - Amistoso Internacional: Japón vs Venezuela
 https://streamx305.sbs/global1.php?channel=telemundo_deportes
 #EXTINF:-1 group-title="Fútbol",⏳NEXT 28/09 18:00 - Liga de Naciones de la UEFA: Georgia vs Ucrania
 https://streamx305.sbs/global1.php?channel=disney1

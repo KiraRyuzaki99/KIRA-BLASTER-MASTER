@@ -50,7 +50,7 @@
     "end_iso": "2026-09-28T18:15:00.000Z",
     "date": "Monday, 28 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/armenia-vs-montenegro",
     "servers": [
       {
@@ -93,7 +93,7 @@
     "end_iso": "2026-09-28T18:15:00.000Z",
     "date": "Monday, 28 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/latvia-vs-cyprus",
     "servers": [
       {
@@ -136,7 +136,7 @@
     "end_iso": "2026-09-28T18:15:00.000Z",
     "date": "Monday, 28 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/georgia-vs-ukraine",
     "servers": [
       {
@@ -311,6 +311,41 @@
     ]
   },
   {
+    "title": "Bosnia and Herzegovina Romania",
+    "category": "Bosnia and Herzegovina",
+    "logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
+    "start_iso": "2026-09-28T18:45:00.000Z",
+    "end_iso": "2026-09-28T21:00:00.000Z",
+    "date": "Monday, 28 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/bosnia-vs-romania",
+    "servers": []
+  },
+  {
+    "title": "Poland Sweden",
+    "category": "Poland",
+    "logo": "https://cdn.img4every1.org/team/poland/logo.webp",
+    "start_iso": "2026-09-28T18:45:00.000Z",
+    "end_iso": "2026-09-28T21:00:00.000Z",
+    "date": "Monday, 28 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/poland-vs-sweden",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/poland-vs-sweden/2354",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
     "title": "Chicago Bears Philadelphia Eagles",
     "category": "Chicago Bears",
     "logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
@@ -363,6 +398,18 @@
     "time": "12:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/australia-vs-brazil",
+    "servers": []
+  },
+  {
+    "title": "Finland Belarus",
+    "category": "Finland",
+    "logo": "https://cdn.img4every1.org/team/finland/logo.webp",
+    "start_iso": "2026-09-29T16:00:00.000Z",
+    "end_iso": "2026-09-29T18:15:00.000Z",
+    "date": "Tuesday, 29 September 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/finland-vs-belarus",
     "servers": []
   }
 ]

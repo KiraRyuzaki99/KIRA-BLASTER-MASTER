@@ -43,145 +43,6 @@
     ]
   },
   {
-    "title": "Armenia Montenegro",
-    "category": "Armenia",
-    "logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
-    "start_iso": "2026-09-28T16:00:00.000Z",
-    "end_iso": "2026-09-28T18:15:00.000Z",
-    "date": "Monday, 28 September 2026",
-    "time": "18:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/armenia-vs-montenegro",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/armenia-vs-montenegro/2349",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/armenia-vs-montenegro/2350",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/armenia-vs-montenegro/2351",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Latvia Cyprus",
-    "category": "Latvia",
-    "logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
-    "start_iso": "2026-09-28T16:00:00.000Z",
-    "end_iso": "2026-09-28T18:15:00.000Z",
-    "date": "Monday, 28 September 2026",
-    "time": "18:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/latvia-vs-cyprus",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/latvia-vs-cyprus/2353",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/latvia-vs-cyprus/2355",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/latvia-vs-cyprus/2356",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Georgia Ukraine",
-    "category": "Georgia",
-    "logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
-    "start_iso": "2026-09-28T16:00:00.000Z",
-    "end_iso": "2026-09-28T18:15:00.000Z",
-    "date": "Monday, 28 September 2026",
-    "time": "18:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/georgia-vs-ukraine",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/georgia-vs-ukraine/2342",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/georgia-vs-ukraine/2344",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Deutsch",
-        "url": "https://pogo.pk/alpha/georgia-vs-ukraine/2345",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Deutsch"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/georgia-vs-ukraine/2352",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "France Belgium",
     "category": "France",
     "logo": "https://cdn.img4every1.org/team/france/logo.webp",
@@ -320,7 +181,18 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/bosnia-vs-romania",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/bosnia-vs-romania/2362",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Poland Sweden",
@@ -336,6 +208,16 @@
       {
         "label": "English",
         "url": "https://pogo.pk/alpha/poland-vs-sweden/2354",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/poland-vs-sweden/2363",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -410,6 +292,42 @@
     "time": "18:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/finland-vs-belarus",
+    "servers": []
+  },
+  {
+    "title": "Armenia Montenegro",
+    "category": "Armenia",
+    "logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
+    "start_iso": "2026-09-28T16:00:00.000Z",
+    "end_iso": "2026-09-28T18:15:00.000Z",
+    "date": "Monday, 28 September 2026",
+    "time": "18:00",
+    "status": "finished",
+    "event_url": "https://pogo.pk/events/armenia-vs-montenegro",
+    "servers": []
+  },
+  {
+    "title": "Latvia Cyprus",
+    "category": "Latvia",
+    "logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
+    "start_iso": "2026-09-28T16:00:00.000Z",
+    "end_iso": "2026-09-28T18:15:00.000Z",
+    "date": "Monday, 28 September 2026",
+    "time": "18:00",
+    "status": "finished",
+    "event_url": "https://pogo.pk/events/latvia-vs-cyprus",
+    "servers": []
+  },
+  {
+    "title": "Georgia Ukraine",
+    "category": "Georgia",
+    "logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
+    "start_iso": "2026-09-28T16:00:00.000Z",
+    "end_iso": "2026-09-28T18:15:00.000Z",
+    "date": "Monday, 28 September 2026",
+    "time": "18:00",
+    "status": "finished",
+    "event_url": "https://pogo.pk/events/georgia-vs-ukraine",
     "servers": []
   }
 ]

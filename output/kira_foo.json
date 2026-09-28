@@ -52,7 +52,38 @@
     "time": "18:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/armenia-vs-montenegro",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/armenia-vs-montenegro/2349",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/armenia-vs-montenegro/2350",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/armenia-vs-montenegro/2351",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Latvia Cyprus",
@@ -64,7 +95,38 @@
     "time": "18:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/latvia-vs-cyprus",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/latvia-vs-cyprus/2353",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/latvia-vs-cyprus/2355",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/latvia-vs-cyprus/2356",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Georgia Ukraine",
@@ -76,7 +138,101 @@
     "time": "18:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/georgia-vs-ukraine",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/georgia-vs-ukraine/2342",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/georgia-vs-ukraine/2344",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Deutsch",
+        "url": "https://pogo.pk/alpha/georgia-vs-ukraine/2345",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/georgia-vs-ukraine/2352",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "France Belgium",
+    "category": "France",
+    "logo": "https://cdn.img4every1.org/team/france/logo.webp",
+    "start_iso": "2026-09-28T18:45:00.000Z",
+    "end_iso": "2026-09-28T21:00:00.000Z",
+    "date": "Monday, 28 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/france-vs-belgium",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/france-vs-belgium/2346",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/france-vs-belgium/2347",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Deutsch",
+        "url": "https://pogo.pk/alpha/france-vs-belgium/2348",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/france-vs-belgium/2357",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Turkiye Italy",
@@ -88,7 +244,48 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/turkey-vs-italy",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/turkey-vs-italy/2358",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/turkey-vs-italy/2359",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Italiano",
+        "url": "https://pogo.pk/alpha/turkey-vs-italy/2360",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Italiano"
+        }
+      },
+      {
+        "label": "Deutsch",
+        "url": "https://pogo.pk/alpha/turkey-vs-italy/2361",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
+        }
+      }
+    ]
   },
   {
     "title": "Northern Ireland Hungary",
@@ -100,18 +297,72 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/northern-ireland-vs-hungary",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/northern-ireland-vs-hungary/2343",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
-    "title": "Bosnia and Herzegovina Romania",
-    "category": "Bosnia and Herzegovina",
-    "logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
-    "start_iso": "2026-09-28T18:45:00.000Z",
-    "end_iso": "2026-09-28T21:00:00.000Z",
-    "date": "Monday, 28 September 2026",
-    "time": "20:45",
+    "title": "Chicago Bears Philadelphia Eagles",
+    "category": "Chicago Bears",
+    "logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
+    "start_iso": "2026-09-29T00:15:00.000Z",
+    "end_iso": "2026-09-29T03:25:00.000Z",
+    "date": "Tuesday, 29 September 2026",
+    "time": "02:15",
     "status": "next",
-    "event_url": "https://pogo.pk/events/bosnia-vs-romania",
+    "event_url": "https://pogo.pk/events/chicago-bears-vs-philadelphia-eagles",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/chicago-bears-vs-philadelphia-eagles/2339",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/chicago-bears-vs-philadelphia-eagles/2340",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/chicago-bears-vs-philadelphia-eagles/2341",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Australia Brazil",
+    "category": "Australia",
+    "logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+    "start_iso": "2026-09-29T10:00:00.000Z",
+    "end_iso": "2026-09-29T12:15:00.000Z",
+    "date": "Tuesday, 29 September 2026",
+    "time": "12:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/australia-vs-brazil",
     "servers": []
   }
 ]

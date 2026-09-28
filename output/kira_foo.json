@@ -1,130 +1,5 @@
 [
   {
-    "title": "NFL Redzone NFL",
-    "category": "NFL Redzone",
-    "logo": "https://cdn.img4every1.org/league/nfl-streams/logo.webp",
-    "start_iso": "2026-09-27T16:30:00.000Z",
-    "end_iso": "2026-09-27T23:30:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "18:30",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/nfl-redzone",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/nfl-redzone/2325",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Tampa Bay Buccaneers Minnesota Vikings",
-    "category": "Tampa Bay Buccaneers",
-    "logo": "https://cdn.img4every1.org/team/tampa-bay-buccaneers/logo.webp",
-    "start_iso": "2026-09-27T20:05:00.000Z",
-    "end_iso": "2026-09-27T23:15:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "22:05",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/buccaneers-vs-vikings",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/buccaneers-vs-vikings/2323",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "San Francisco 49ers Arizona Cardinals",
-    "category": "San Francisco 49ers",
-    "logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
-    "start_iso": "2026-09-27T20:05:00.000Z",
-    "end_iso": "2026-09-27T23:15:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "22:05",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/49ers-vs-cardinals",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/49ers-vs-cardinals/2288",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Baltimore Ravens Dallas Cowboys",
-    "category": "Baltimore Ravens",
-    "logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
-    "start_iso": "2026-09-27T20:25:00.000Z",
-    "end_iso": "2026-09-27T23:35:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "22:25",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/ravens-vs-cowboys",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/ravens-vs-cowboys/2289",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/ravens-vs-cowboys/2290",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "New Orleans Saints Las Vegas Raiders",
-    "category": "New Orleans Saints",
-    "logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
-    "start_iso": "2026-09-27T20:25:00.000Z",
-    "end_iso": "2026-09-27T23:35:00.000Z",
-    "date": "Sunday, 27 September 2026",
-    "time": "22:25",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/saints-vs-raiders",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/saints-vs-raiders/2324",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Los Angeles Rams Denver Broncos",
     "category": "Los Angeles Rams",
     "logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
@@ -132,7 +7,7 @@
     "end_iso": "2026-09-28T03:30:00.000Z",
     "date": "Monday, 28 September 2026",
     "time": "02:20",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/rams-vs-broncos",
     "servers": [
       {

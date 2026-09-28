@@ -50,7 +50,7 @@
     "end_iso": "2026-09-28T21:00:00.000Z",
     "date": "Monday, 28 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/france-vs-belgium",
     "servers": [
       {
@@ -103,7 +103,7 @@
     "end_iso": "2026-09-28T21:00:00.000Z",
     "date": "Monday, 28 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/turkey-vs-italy",
     "servers": [
       {
@@ -156,7 +156,7 @@
     "end_iso": "2026-09-28T21:00:00.000Z",
     "date": "Monday, 28 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/northern-ireland-vs-hungary",
     "servers": [
       {
@@ -179,7 +179,7 @@
     "end_iso": "2026-09-28T21:00:00.000Z",
     "date": "Monday, 28 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/bosnia-vs-romania",
     "servers": [
       {
@@ -202,7 +202,7 @@
     "end_iso": "2026-09-28T21:00:00.000Z",
     "date": "Monday, 28 September 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/poland-vs-sweden",
     "servers": [
       {
@@ -295,39 +295,63 @@
     "servers": []
   },
   {
-    "title": "Armenia Montenegro",
-    "category": "Armenia",
-    "logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
-    "start_iso": "2026-09-28T16:00:00.000Z",
-    "end_iso": "2026-09-28T18:15:00.000Z",
-    "date": "Monday, 28 September 2026",
+    "title": "Moldova Faroe Islands",
+    "category": "Moldova",
+    "logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
+    "start_iso": "2026-09-29T16:00:00.000Z",
+    "end_iso": "2026-09-29T18:15:00.000Z",
+    "date": "Tuesday, 29 September 2026",
     "time": "18:00",
-    "status": "finished",
-    "event_url": "https://pogo.pk/events/armenia-vs-montenegro",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/moldova-vs-faroe-islands",
     "servers": []
   },
   {
-    "title": "Latvia Cyprus",
-    "category": "Latvia",
-    "logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
-    "start_iso": "2026-09-28T16:00:00.000Z",
-    "end_iso": "2026-09-28T18:15:00.000Z",
-    "date": "Monday, 28 September 2026",
-    "time": "18:00",
-    "status": "finished",
-    "event_url": "https://pogo.pk/events/latvia-vs-cyprus",
+    "title": "Spain Croatia",
+    "category": "Spain",
+    "logo": "https://cdn.img4every1.org/team/spain/logo.webp",
+    "start_iso": "2026-09-29T18:45:00.000Z",
+    "end_iso": "2026-09-29T21:00:00.000Z",
+    "date": "Tuesday, 29 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/spain-vs-croatia",
     "servers": []
   },
   {
-    "title": "Georgia Ukraine",
-    "category": "Georgia",
-    "logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
-    "start_iso": "2026-09-28T16:00:00.000Z",
-    "end_iso": "2026-09-28T18:15:00.000Z",
-    "date": "Monday, 28 September 2026",
-    "time": "18:00",
-    "status": "finished",
-    "event_url": "https://pogo.pk/events/georgia-vs-ukraine",
+    "title": "England Czechia",
+    "category": "England",
+    "logo": "https://cdn.img4every1.org/team/england/logo.webp",
+    "start_iso": "2026-09-29T18:45:00.000Z",
+    "end_iso": "2026-09-29T21:00:00.000Z",
+    "date": "Tuesday, 29 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/england-vs-czechia",
+    "servers": []
+  },
+  {
+    "title": "Scotland Switzerland",
+    "category": "Scotland",
+    "logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+    "start_iso": "2026-09-29T18:45:00.000Z",
+    "end_iso": "2026-09-29T21:00:00.000Z",
+    "date": "Tuesday, 29 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/scotland-vs-switzerland",
+    "servers": []
+  },
+  {
+    "title": "Slovakia Kazakhstan",
+    "category": "Slovakia",
+    "logo": "https://cdn.img4every1.org/team/slovakia/logo.webp",
+    "start_iso": "2026-09-29T18:45:00.000Z",
+    "end_iso": "2026-09-29T21:00:00.000Z",
+    "date": "Tuesday, 29 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/slovakia-vs-kazakhstan",
     "servers": []
   }
 ]

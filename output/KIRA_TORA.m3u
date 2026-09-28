@@ -1,32 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Motor-sports",02:00 - Road to The Dome Coles
-https://embed.st/embed/foxtrot/road-to-the-dome-at-coles-county-speedway/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Basketball",03:00 - Dallas Wings vs. Golden State Valkyries
+https://embed.st/embed/admin/ppv-dallas-wings-vs-golden-state-valkyries/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Basketball",01:00 - Washington Mystics vs. Atlanta Dream
-https://embed.st/embed/admin/ppv-washington-mystics-vs-atlanta-dream/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Basketball",03:00 - Dallas Wings vs. Golden State Valkyries
+https://embed.st/embed/admin/ppv-dallas-wings-vs-golden-state-valkyries/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Basketball",01:00 - Washington Mystics vs. Atlanta Dream
-https://embed.st/embed/admin/ppv-washington-mystics-vs-atlanta-dream/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Basketball",03:00 - Dallas Wings vs. Golden State Valkyries
+https://embed.st/embed/delta/live_wnba-playoffs_valkyries-wings-live-streaming-663447888/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Basketball",01:00 - Washington Mystics vs. Atlanta Dream
-https://embed.st/embed/delta/live_wnba-playoffs_dream-mystics-live-streaming-663447456/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Football",03:00 - León vs Juárez
+https://embed.st/embed/admin/ppv-le-n-vs-fc-juarez/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Basketball",01:00 - Washington Mystics vs. Atlanta Dream
-https://embed.st/embed/delta/live_wnba-playoffs_dream-mystics-live-streaming-663447456/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",01:00 - Columbus Crew vs Inter Miami
-https://embed.st/embed/admin/ppv-columbus-crew-vs-inter-miami-cf/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",01:00 - Columbus Crew vs Inter Miami
-https://embed.st/embed/admin/ppv-columbus-crew-vs-inter-miami-cf/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",01:00 - Columbus Crew vs Inter Miami
-https://embed.st/embed/delta/live_mls_columbus-inter-miami-live-streaming-539451792/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",01:00 - Columbus Crew vs Inter Miami
-https://embed.st/embed/foxtrot/inter-miami-cf-v-columbus-crew-761844/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Football",03:00 - León vs Juárez
+https://embed.st/embed/admin/ppv-le-n-vs-fc-juarez/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="American-football",02:20 - Denver Broncos vs Los Angeles Rams
 https://embed.st/embed/admin/ppv-los-angeles-rams-at-denver-broncos/1#player=clappr&autoplay=true
@@ -42,21 +30,6 @@ https://embed.st/embed/delta/live_nfl_broncos-rams-live-streaming-587935152/2#pl
 
 #EXTINF:-1 group-title="American-football",02:20 - Denver Broncos vs Los Angeles Rams
 https://embed.st/embed/delta/live_nfl_broncos-rams-live-streaming-587935152/3#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",03:00 - Dallas Wings vs. Golden State Valkyries
-https://embed.st/embed/admin/ppv-dallas-wings-vs-golden-state-valkyries/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",03:00 - Dallas Wings vs. Golden State Valkyries
-https://embed.st/embed/admin/ppv-dallas-wings-vs-golden-state-valkyries/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",03:00 - Dallas Wings vs. Golden State Valkyries
-https://embed.st/embed/delta/live_wnba-playoffs_valkyries-wings-live-streaming-663447888/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",03:00 - León vs Juárez
-https://embed.st/embed/admin/ppv-le-n-vs-fc-juarez/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",03:00 - León vs Juárez
-https://embed.st/embed/admin/ppv-le-n-vs-fc-juarez/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",05:00 - Necaxa vs América
 https://embed.st/embed/admin/ppv-necaxa-vs-am-rica/1#player=clappr&autoplay=true

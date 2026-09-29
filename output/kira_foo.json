@@ -43,49 +43,6 @@
     ]
   },
   {
-    "title": "Chicago Bears Philadelphia Eagles",
-    "category": "Chicago Bears",
-    "logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
-    "start_iso": "2026-09-29T00:15:00.000Z",
-    "end_iso": "2026-09-29T03:25:00.000Z",
-    "date": "Tuesday, 29 September 2026",
-    "time": "02:15",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/chicago-bears-vs-philadelphia-eagles",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/chicago-bears-vs-philadelphia-eagles/2339",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/chicago-bears-vs-philadelphia-eagles/2340",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/chicago-bears-vs-philadelphia-eagles/2341",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Australia Brazil",
     "category": "Australia",
     "logo": "https://cdn.img4every1.org/team/australia/logo.webp",

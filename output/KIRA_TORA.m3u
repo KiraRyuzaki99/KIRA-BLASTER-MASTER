@@ -1,15 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Fight",02:00 - Monday Night RAW
-https://embed.st/embed/delta/live-event_monday-night-raw-live-stream/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Fight",02:00 - Monday Night RAW
-https://embed.st/embed/golf/1826/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Fight",02:00 - Monday Night RAW
-https://embed.st/embed/golf/1826/2#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="American-football",02:15 - Chicago Bears vs Philadelphia Eagles
 https://embed.st/embed/admin/ppv-philadelphia-eagles-at-chicago-bears/1#player=clappr&autoplay=true
 
@@ -24,6 +15,15 @@ https://embed.st/embed/delta/live_nfl_bears-eagles-live-streaming-662159664/2#pl
 
 #EXTINF:-1 group-title="American-football",02:15 - Chicago Bears vs Philadelphia Eagles
 https://embed.st/embed/delta/live_nfl_bears-eagles-live-streaming-662159664/3#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",02:00 - Monday Night RAW
+https://embed.st/embed/delta/live-event_monday-night-raw-live-stream/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",02:00 - Monday Night RAW
+https://embed.st/embed/golf/1826/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Fight",02:00 - Monday Night RAW
+https://embed.st/embed/golf/1826/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:00 - Moldova vs Faroe Islands
 https://embed.st/embed/hotel/moldova-vs-faroe-islands-uefa-nations-league-1790697600/1#player=clappr&autoplay=true
@@ -51,6 +51,9 @@ https://embed.st/embed/hotel/luxembourg-vs-iceland-uefa-nations-league-179070750
 
 #EXTINF:-1 group-title="Football",20:45 - Slovenia vs North Macedonia
 https://embed.st/embed/hotel/slovenia-vs-north-macedonia-uefa-nations-league-1790707500/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Bulgaria vs Estonia
+https://embed.st/embed/delta/live_uefa-nations-league-league-c-gr-4_bulgaria-estonia-live-streaming-539466048/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:45 - Bulgaria vs Estonia
 https://embed.st/embed/hotel/bulgaria-vs-estonia-uefa-nations-league-1790707500/1#player=clappr&autoplay=true

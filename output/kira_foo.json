@@ -43,29 +43,6 @@
     ]
   },
   {
-    "title": "Australia Brazil",
-    "category": "Australia",
-    "logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-    "start_iso": "2026-09-29T10:00:00.000Z",
-    "end_iso": "2026-09-29T12:15:00.000Z",
-    "date": "Tuesday, 29 September 2026",
-    "time": "12:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/australia-vs-brazil",
-    "servers": [
-      {
-        "label": "Brazilian PT",
-        "url": "https://pogo.pk/alpha/australia-vs-brazil/2364",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Brazilian PT"
-        }
-      }
-    ]
-  },
-  {
     "title": "Finland Belarus",
     "category": "Finland",
     "logo": "https://cdn.img4every1.org/team/finland/logo.webp",

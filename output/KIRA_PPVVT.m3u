@@ -1,11 +1,59 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 16:00 - Finland vs. Belarus [DAZN]
+https://august.ppvtv.icu/embed.html?match=f124wp5b&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 16:00 - Moldova vs. Faroe Islands [DAZN]
+https://august.ppvtv.icu/embed.html?match=fc22zl8&server=0
+
 #EXTINF:-1 group-title="Darts – Darts",Oggi 17:00 - 2026 World Grand Prix | Day 2 [Sky Sports+]
 https://august.ppvtv.icu/embed.html?match=c1ur6od2&server=0
 
+#EXTINF:-1 group-title="Ice Hockey – SHL",Oggi 17:00 - Brynäs IF vs. Timrå IK [TV4 Sport Live 1]
+https://august.ppvtv.icu/embed.html?match=fpunqun&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 18:00 - Philadelphia Phillies vs. Atlanta Braves [NBC]
+https://august.ppvtv.icu/embed.html?match=fs6kimb&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - Bulgaria vs. Estonia [DAZN]
+https://august.ppvtv.icu/embed.html?match=f985bfn&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - Czechia vs. England [DAZN]
+https://august.ppvtv.icu/embed.html?match=f3avn23&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - Luxembourg vs. Iceland [DAZN]
+https://august.ppvtv.icu/embed.html?match=f986yqj&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - San Marino vs. Albania [DAZN]
+https://august.ppvtv.icu/embed.html?match=f1wnlh5v&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - Scotland vs. Switzerland [DAZN]
+https://august.ppvtv.icu/embed.html?match=f171cv1g&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - Slovakia vs. Kazakhstan [DAZN]
+https://august.ppvtv.icu/embed.html?match=f1d3tpax&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - Slovenia vs. North Macedonia [DAZN]
+https://august.ppvtv.icu/embed.html?match=fmvnzjk&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - Spain vs. Croatia [DAZN]
+https://august.ppvtv.icu/embed.html?match=f1jb9d4v&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 21:00 - Chicago White Sox vs. Houston Astros [Peacock]
+https://august.ppvtv.icu/embed.html?match=fns63pf&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 21:00 - Florida Panthers vs. Carolina Hurricanes [ESPN]
+https://august.ppvtv.icu/embed.html?match=f1ibzd4e&server=0
+
+#EXTINF:-1 group-title="Basketball – WNBA",Oggi 22:30 - Las Vegas Aces vs. Indiana Fever [Prime Video]
+https://august.ppvtv.icu/embed.html?match=fkav8mp&server=0
+
 #EXTINF:-1 group-title="Combat Sports – Mixed Martial Arts (MMA)",Oggi 23:00 - Dana White's Contender Series [Paramount+]
 https://august.ppvtv.icu/embed.html?match=c6pokmk&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:00 - Montreal Canadiens vs. Toronto Maple Leafs [ESPN+]
+https://august.ppvtv.icu/embed.html?match=fryhd1a&server=0
 
 #EXTINF:-1 group-title="American Football – 24/7 channel",Oggi N/A - NFL Network [NFL Network (ESPN)]
 https://august.ppvtv.icu/embed.html?match=c15q87wa&server=0
@@ -37,6 +85,12 @@ https://august.ppvtv.icu/embed.html?match=c1ed9edx&server=0
 #EXTINF:-1 group-title="American Football – College Football",Domani 00:00 - Indiana Hoosiers at Rutgers Scarlet Knights [BTN]
 https://august.ppvtv.icu/embed.html?match=cn310zp&server=0
 
+#EXTINF:-1 group-title="Baseball – MLB",Domani 00:00 - Boston Red Sox vs. New York Yankees [NBC]
+https://august.ppvtv.icu/embed.html?match=f1hxbcer&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - New York Rangers vs. Boston Bruins [ESPN]
+https://august.ppvtv.icu/embed.html?match=fjholxe&server=0
+
 #EXTINF:-1 group-title="Wrestling – Wrestling",Domani 00:00 - WWE NXT [CW on ESPN]
 https://august.ppvtv.icu/embed.html?match=c12z1szz&server=0
 
@@ -64,6 +118,9 @@ https://august.ppvtv.icu/embed.html?match=c1xwnyp4&server=0
 #EXTINF:-1 group-title="American Football – NFL",Domani 00:20 - Detroit Lions at Carolina Panthers [NBC]
 https://august.ppvtv.icu/embed.html?match=c74iun5&server=0
 
+#EXTINF:-1 group-title="Basketball – WNBA",Domani 00:30 - Minnesota Lynx vs. New York Liberty [USA Net]
+https://august.ppvtv.icu/embed.html?match=fywr3pe&server=0
+
 #EXTINF:-1 group-title="Wrestling – Wrestling",Domani 01:00 - TNA Impact [AMC]
 https://august.ppvtv.icu/embed.html?match=c1se54xr&server=0
 
@@ -73,14 +130,29 @@ https://august.ppvtv.icu/embed.html?match=crkvp5v&server=0
 #EXTINF:-1 group-title="Football – MLS",Domani 01:30 - Seattle Sounders FC vs. Sporting Kansas City [Apple TV]
 https://august.ppvtv.icu/embed.html?match=fxtp2f&server=0
 
+#EXTINF:-1 group-title="Baseball – MLB",Domani 02:00 - Chicago Cubs vs. San Diego Padres [Peacock]
+https://august.ppvtv.icu/embed.html?match=f1x5s388&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 02:00 - Vancouver Canucks vs. Edmonton Oilers [ESPN+]
+https://august.ppvtv.icu/embed.html?match=fphz4rk&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 02:30 - Chicago Blackhawks vs. Vegas Golden Knights [ESPN]
+https://august.ppvtv.icu/embed.html?match=fqz5h4t&server=0
+
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 05:00 - 24/7 COWS [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1dc895w&server=0
+
+#EXTINF:-1 group-title="Basketball – NBL",Domani 07:30 - New Zealand Breakers vs. Cairns Taipans [ESPN]
+https://august.ppvtv.icu/embed.html?match=f1bz4wgp&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 08:00 - 24/7 Family Guy [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c418ukt&server=0
 
 #EXTINF:-1 group-title="Rugby – Rugby League (NRL)",Domani 08:30 - Roosters vs. Knights [Fox League]
 https://august.ppvtv.icu/embed.html?match=f1o1y1s9&server=0
+
+#EXTINF:-1 group-title="Basketball – NBL",Domani 09:30 - Sydney Kings vs. Brisbane Bullets [ESPN]
+https://august.ppvtv.icu/embed.html?match=fhovfae&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 10:28 - 24/7 The Simpsons [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1j7a3d7&server=0

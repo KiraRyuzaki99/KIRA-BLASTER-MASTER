@@ -1,6 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
+#EXTINF:-1 group-title="American Football – NFL",Oggi 00:15 - Philadelphia Eagles at Chicago Bears [ESPN]
+https://august.ppvtv.icu/embed.html?match=c16c5ig&server=0
+
+#EXTINF:-1 group-title="Darts – Darts",Oggi 17:00 - 2026 World Grand Prix | Day 2 [Sky Sports+]
+https://august.ppvtv.icu/embed.html?match=c1ur6od2&server=0
+
+#EXTINF:-1 group-title="Combat Sports – Mixed Martial Arts (MMA)",Oggi 23:00 - Dana White's Contender Series [Paramount+]
+https://august.ppvtv.icu/embed.html?match=c6pokmk&server=0
+
 #EXTINF:-1 group-title="American Football – 24/7 channel",Oggi N/A - NFL Network [NFL Network (ESPN)]
 https://august.ppvtv.icu/embed.html?match=c15q87wa&server=0
 
@@ -48,9 +57,6 @@ https://august.ppvtv.icu/embed.html?match=c10yqzo0&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 00:00 - Rally TV [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1ml51ic&server=0
-
-#EXTINF:-1 group-title="American Football – NFL",Domani 00:15 - Philadelphia Eagles at Chicago Bears [ESPN]
-https://august.ppvtv.icu/embed.html?match=c16c5ig&server=0
 
 #EXTINF:-1 group-title="American Football – NFL",Domani 00:15 - Pittsburgh Steelers at Cleveland Browns [Prime Video]
 https://august.ppvtv.icu/embed.html?match=c1qg90cn&server=0
@@ -130,8 +136,23 @@ https://august.ppvtv.icu/embed.html?match=c1n44u4&server=0
 #EXTINF:-1 group-title="American Football – NFL",Domani 17:00 - Dallas Cowboys at Houston Texans [FOX]
 https://august.ppvtv.icu/embed.html?match=chsqp7r&server=0
 
+#EXTINF:-1 group-title="Darts – Darts",Domani 18:00 - 2026 World Grand Prix | Day 3 [Sky Sports+]
+https://august.ppvtv.icu/embed.html?match=c10ygakd&server=0
+
+#EXTINF:-1 group-title="Darts – Darts",Domani 18:00 - 2026 World Grand Prix | Day 4 [Sky Sports+]
+https://august.ppvtv.icu/embed.html?match=c4533fc&server=0
+
+#EXTINF:-1 group-title="Darts – Darts",Domani 18:00 - 2026 World Grand Prix | Day 5 [Sky Sports+]
+https://august.ppvtv.icu/embed.html?match=c1ujnmgf&server=0
+
 #EXTINF:-1 group-title="American Football – Canadian Football",Domani 19:00 - BC Lions at Toronto Argonauts [CFL+]
 https://august.ppvtv.icu/embed.html?match=c1foehlu&server=0
+
+#EXTINF:-1 group-title="Darts – Darts",Domani 19:00 - 2026 World Grand Prix | Day 6 [Sky Sports+]
+https://august.ppvtv.icu/embed.html?match=c1hj94cy&server=0
+
+#EXTINF:-1 group-title="Darts – Darts",Domani 19:00 - 2026 World Grand Prix | Day 7 [Sky Sports Main Event]
+https://august.ppvtv.icu/embed.html?match=c1gjqsdl&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Domani 19:30 - Ohio State Buckeyes at Iowa Hawkeyes [CBS]
 https://august.ppvtv.icu/embed.html?match=chifdf1&server=0
@@ -168,9 +189,6 @@ https://august.ppvtv.icu/embed.html?match=cz2uwfq&server=1
 
 #EXTINF:-1 group-title="American Football – Canadian Football",Domani 23:00 - Winnipeg Blue Bombers at Montreal Alouettes [CFL+]
 https://august.ppvtv.icu/embed.html?match=c1t5wnva&server=0
-
-#EXTINF:-1 group-title="Combat Sports – Mixed Martial Arts (MMA)",Domani 23:00 - Dana White's Contender Series [Paramount+]
-https://august.ppvtv.icu/embed.html?match=c6pokmk&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Domani 23:30 - Miami Hurricanes at Clemson Tigers [ABC]
 https://august.ppvtv.icu/embed.html?match=c1iwpc9h&server=0

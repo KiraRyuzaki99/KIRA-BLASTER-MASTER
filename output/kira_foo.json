@@ -50,9 +50,30 @@
     "end_iso": "2026-09-29T18:15:00.000Z",
     "date": "Tuesday, 29 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/finland-vs-belarus",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/finland-vs-belarus/2365",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/finland-vs-belarus/2366",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Moldova Faroe Islands",
@@ -62,9 +83,30 @@
     "end_iso": "2026-09-29T18:15:00.000Z",
     "date": "Tuesday, 29 September 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/moldova-vs-faroe-islands",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/moldova-vs-faroe-islands/2367",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/moldova-vs-faroe-islands/2368",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Spain Croatia",
@@ -76,7 +118,58 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/spain-vs-croatia",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/spain-vs-croatia/2369",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/spain-vs-croatia/2370",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/spain-vs-croatia/2371",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://pogo.pk/alpha/spain-vs-croatia/2372",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://pogo.pk/alpha/spain-vs-croatia/2373",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "England Czechia",
@@ -88,7 +181,48 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/england-vs-czechia",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/england-vs-czechia/2374",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/england-vs-czechia/2375",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/england-vs-czechia/2376",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://pogo.pk/alpha/england-vs-czechia/2377",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "Scotland Switzerland",
@@ -100,7 +234,28 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/scotland-vs-switzerland",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/scotland-vs-switzerland/2378",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/scotland-vs-switzerland/2379",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Slovakia Kazakhstan",
@@ -112,6 +267,54 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/slovakia-vs-kazakhstan",
+    "servers": []
+  },
+  {
+    "title": "Albania San Marino",
+    "category": "Albania",
+    "logo": "https://cdn.img4every1.org/team/albania/logo.webp",
+    "start_iso": "2026-09-29T18:45:00.000Z",
+    "end_iso": "2026-09-29T21:00:00.000Z",
+    "date": "Tuesday, 29 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/albania-vs-san-marino",
+    "servers": []
+  },
+  {
+    "title": "Luxembourg Iceland",
+    "category": "Luxembourg",
+    "logo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
+    "start_iso": "2026-09-29T18:45:00.000Z",
+    "end_iso": "2026-09-29T21:00:00.000Z",
+    "date": "Tuesday, 29 September 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/luxembourg-vs-iceland",
+    "servers": []
+  },
+  {
+    "title": "USA Chile",
+    "category": "USA",
+    "logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+    "start_iso": "2026-09-30T00:00:00.000Z",
+    "end_iso": "2026-09-30T02:15:00.000Z",
+    "date": "Wednesday, 30 September 2026",
+    "time": "02:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/usa-vs-chile",
+    "servers": []
+  },
+  {
+    "title": "Mexico Peru",
+    "category": "Mexico",
+    "logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
+    "start_iso": "2026-09-30T01:00:00.000Z",
+    "end_iso": "2026-09-30T03:15:00.000Z",
+    "date": "Wednesday, 30 September 2026",
+    "time": "03:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/mexico-vs-peru",
     "servers": []
   }
 ]

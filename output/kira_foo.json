@@ -50,9 +50,20 @@
     "end_iso": "2026-09-29T12:15:00.000Z",
     "date": "Tuesday, 29 September 2026",
     "time": "12:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/australia-vs-brazil",
-    "servers": []
+    "servers": [
+      {
+        "label": "Brazilian PT",
+        "url": "https://pogo.pk/alpha/australia-vs-brazil/2364",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Brazilian PT"
+        }
+      }
+    ]
   },
   {
     "title": "Finland Belarus",

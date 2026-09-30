@@ -86,39 +86,6 @@
     ]
   },
   {
-    "title": "Chicago Cubs San Diego Padres",
-    "category": "Chicago Cubs",
-    "logo": "https://cdn.img4every1.org/team/chicago-cubs/logo.webp",
-    "start_iso": "2026-09-30T03:00:00.000Z",
-    "end_iso": "2026-09-30T06:00:00.000Z",
-    "date": "Wednesday, 30 September 2026",
-    "time": "05:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/cubs-vs-padres",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/cubs-vs-padres/2390",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/cubs-vs-padres/2391",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "FC Barcelona AS Roma",
     "category": "FC Barcelona",
     "logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",

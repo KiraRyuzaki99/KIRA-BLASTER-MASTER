@@ -1,17 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Basketball – NBL",Oggi 07:30 - New Zealand Breakers vs. Cairns Taipans [ESPN]
-https://august.ppvtv.icu/embed.html?match=f1bz4wgp&server=0
-
 #EXTINF:-1 group-title="Basketball – NBL",Oggi 09:30 - Sydney Kings vs. Brisbane Bullets [ESPN]
 https://august.ppvtv.icu/embed.html?match=fhovfae&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 18:00 - Philadelphia Phillies vs. Atlanta Braves [NBC]
+https://august.ppvtv.icu/embed.html?match=fs6kimb&server=0
 
 #EXTINF:-1 group-title="Darts – Darts",Oggi 18:00 - 2026 World Grand Prix | Day 3 [Sky Sports+]
 https://august.ppvtv.icu/embed.html?match=c10ygakd&server=0
 
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 21:00 - Chicago White Sox vs. Houston Astros [Peacock]
+https://august.ppvtv.icu/embed.html?match=fns63pf&server=0
+
+#EXTINF:-1 group-title="Basketball – WNBA",Oggi 23:00 - Atlanta Dream vs. Washington Mystics [ESPN]
+https://august.ppvtv.icu/embed.html?match=f1ogjnan&server=0
+
 #EXTINF:-1 group-title="Football – MLS",Oggi 23:30 - Red Bull New York vs. St. Louis CITY SC [Apple TV]
 https://august.ppvtv.icu/embed.html?match=f18b3344&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:30 - Pittsburgh Penguins vs. Philadelphia Flyers [TNT]
+https://august.ppvtv.icu/embed.html?match=ftlczu4&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:30 - New York Islanders vs. Toronto Maple Leafs [MSGSN]
+https://august.ppvtv.icu/embed.html?match=f13fgga4&server=0
 
 #EXTINF:-1 group-title="American Football – 24/7 channel",Oggi N/A - NFL Network [NFL Network (ESPN)]
 https://august.ppvtv.icu/embed.html?match=c15q87wa&server=0
@@ -43,6 +55,9 @@ https://august.ppvtv.icu/embed.html?match=c1ed9edx&server=0
 #EXTINF:-1 group-title="American Football – College Football",Domani 00:00 - Indiana Hoosiers at Rutgers Scarlet Knights [BTN]
 https://august.ppvtv.icu/embed.html?match=cn310zp&server=0
 
+#EXTINF:-1 group-title="Baseball – MLB",Domani 00:00 - Boston Red Sox vs. New York Yankees [NBC]
+https://august.ppvtv.icu/embed.html?match=f1hxbcer&server=0
+
 #EXTINF:-1 group-title="Wrestling – Wrestling",Domani 00:00 - AEW Wednesday Night Dynamite [TBS]
 https://august.ppvtv.icu/embed.html?match=c9mnosy&server=0
 
@@ -67,6 +82,9 @@ https://august.ppvtv.icu/embed.html?match=c1xwnyp4&server=0
 #EXTINF:-1 group-title="American Football – NFL",Domani 00:20 - Detroit Lions at Carolina Panthers [NBC]
 https://august.ppvtv.icu/embed.html?match=c74iun5&server=0
 
+#EXTINF:-1 group-title="Basketball – WNBA",Domani 01:00 - Golden State Valkyries vs. Dallas Wings [ESPN]
+https://august.ppvtv.icu/embed.html?match=fsugq2i&server=0
+
 #EXTINF:-1 group-title="Wrestling – Wrestling",Domani 01:00 - TNA Impact [AMC]
 https://august.ppvtv.icu/embed.html?match=c1se54xr&server=0
 
@@ -76,6 +94,12 @@ https://august.ppvtv.icu/embed.html?match=crkvp5v&server=0
 #EXTINF:-1 group-title="Football – MLS",Domani 01:30 - Seattle Sounders FC vs. Sporting Kansas City [Apple TV]
 https://august.ppvtv.icu/embed.html?match=fxtp2f&server=0
 
+#EXTINF:-1 group-title="Baseball – MLB",Domani 02:00 - Chicago Cubs vs. San Diego Padres [Peacock]
+https://august.ppvtv.icu/embed.html?match=f1x5s388&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 02:00 - Los Angeles Kings vs. Colorado Avalanche [TNT]
+https://august.ppvtv.icu/embed.html?match=froz464&server=0
+
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 05:00 - 24/7 COWS [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1dc895w&server=0
 
@@ -84,6 +108,9 @@ https://august.ppvtv.icu/embed.html?match=c418ukt&server=0
 
 #EXTINF:-1 group-title="Rugby – Rugby League (NRL)",Domani 08:30 - Roosters vs. Knights [Fox League]
 https://august.ppvtv.icu/embed.html?match=f1o1y1s9&server=0
+
+#EXTINF:-1 group-title="Basketball – NBL",Domani 09:30 - Tasmania JackJumpers vs. Melbourne United [ESPN]
+https://august.ppvtv.icu/embed.html?match=fgu495g&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 10:28 - 24/7 The Simpsons [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1j7a3d7&server=0

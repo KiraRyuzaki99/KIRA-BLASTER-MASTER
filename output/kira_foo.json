@@ -93,9 +93,30 @@
     "end_iso": "2026-09-30T19:00:00.000Z",
     "date": "Wednesday, 30 September 2026",
     "time": "18:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/barcelona-vs-roma",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/barcelona-vs-roma/2415",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/barcelona-vs-roma/2416",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Paris FC Arsenal",
@@ -105,9 +126,20 @@
     "end_iso": "2026-09-30T19:00:00.000Z",
     "date": "Wednesday, 30 September 2026",
     "time": "18:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/paris-vs-arsenal",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/paris-vs-arsenal/2417",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Häcken Juventus",
@@ -117,9 +149,20 @@
     "end_iso": "2026-09-30T19:00:00.000Z",
     "date": "Wednesday, 30 September 2026",
     "time": "18:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/hacken-vs-juventus",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/hacken-vs-juventus/2418",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Atlanta Braves Philadelphia Phillies",
@@ -129,7 +172,7 @@
     "end_iso": "2026-09-30T21:00:00.000Z",
     "date": "Wednesday, 30 September 2026",
     "time": "20:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/philadelphia-phillies-vs-braves",
     "servers": [
       {
@@ -154,7 +197,28 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/benfica-vs-bayern-munchen",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/benfica-vs-bayern-munchen/2419",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/benfica-vs-bayern-munchen/2420",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Chelsea Olympique Lyonnais",
@@ -166,7 +230,28 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/chelsea-vs-lyon",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/chelsea-vs-lyon/2421",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://pogo.pk/alpha/chelsea-vs-lyon/2422",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Chicago White Sox Houston Astros",
@@ -349,6 +434,30 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/kosovo-vs-israel",
+    "servers": []
+  },
+  {
+    "title": "Manchester City Real Madrid",
+    "category": "Manchester City",
+    "logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+    "start_iso": "2026-10-01T19:00:00.000Z",
+    "end_iso": "2026-10-01T21:15:00.000Z",
+    "date": "Thursday, 01 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/manchester-city-vs-real-madrid",
+    "servers": []
+  },
+  {
+    "title": "PSG Oud-Heverlee Leuven",
+    "category": "PSG",
+    "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+    "start_iso": "2026-10-01T19:00:00.000Z",
+    "end_iso": "2026-10-01T21:15:00.000Z",
+    "date": "Thursday, 01 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/psg-vs-oh-leuven",
     "servers": []
   },
   {

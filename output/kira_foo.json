@@ -43,108 +43,6 @@
     ]
   },
   {
-    "title": "Houston Astros Chicago White Sox",
-    "category": "Houston Astros",
-    "logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
-    "start_iso": "2026-09-29T21:00:00.000Z",
-    "end_iso": "2026-09-30T00:00:00.000Z",
-    "date": "Tuesday, 29 September 2026",
-    "time": "23:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/astros-vs-white-sox",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/astros-vs-white-sox/2386",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/astros-vs-white-sox/2387",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "USA Chile",
-    "category": "USA",
-    "logo": "https://cdn.img4every1.org/team/usa/logo.webp",
-    "start_iso": "2026-09-30T00:00:00.000Z",
-    "end_iso": "2026-09-30T02:15:00.000Z",
-    "date": "Wednesday, 30 September 2026",
-    "time": "02:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/usa-vs-chile",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/usa-vs-chile/2407",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "New York Yankees Boston Red Sox",
-    "category": "New York Yankees",
-    "logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
-    "start_iso": "2026-09-30T00:00:00.000Z",
-    "end_iso": "2026-09-30T03:00:00.000Z",
-    "date": "Wednesday, 30 September 2026",
-    "time": "02:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/yankees-vs-red-sox",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/yankees-vs-red-sox/2389",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Mexico Peru",
-    "category": "Mexico",
-    "logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
-    "start_iso": "2026-09-30T01:00:00.000Z",
-    "end_iso": "2026-09-30T03:15:00.000Z",
-    "date": "Wednesday, 30 September 2026",
-    "time": "03:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/mexico-vs-peru",
-    "servers": [
-      {
-        "label": "Español",
-        "url": "https://pogo.pk/alpha/mexico-vs-peru/2408",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
     "title": "Japan Open Tennis Championships ATP Tour",
     "category": "Japan Open Tennis Championships",
     "logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
@@ -152,7 +50,7 @@
     "end_iso": "2026-10-04T12:00:00.000Z",
     "date": "Wednesday, 30 September 2026",
     "time": "04:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/japan-open-tennis-championships",
     "servers": [
       {
@@ -195,7 +93,7 @@
     "end_iso": "2026-09-30T06:00:00.000Z",
     "date": "Wednesday, 30 September 2026",
     "time": "05:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/cubs-vs-padres",
     "servers": [
       {

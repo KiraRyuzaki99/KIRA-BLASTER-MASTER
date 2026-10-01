@@ -1,63 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="10:52 Las Carreras -  Hipódromo de San Sebastián 30/09/2026" group-title="Las Carreras",10:52 Las Carreras -  Hipódromo de San Sebastián 30/09/2026
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-name="11:00 Torneo de Tokio - 1ª Ronda M. Arnaldi - R. Sakamoto" group-title="Torneo de Tokio",11:00 Torneo de Tokio - 1ª Ronda M. Arnaldi - R. Sakamoto
+#EXTINF:-1 tvg-name="10:30 Torneo de Tokio - 1ª Ronda A.D. Vallejo - R. Jódar" group-title="Torneo de Tokio",10:30 Torneo de Tokio - 1ª Ronda A.D. Vallejo - R. Jódar
 acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-name="12:05 Torneo de Tokio - 1ª Ronda Zh. Zhang - A. Gea" group-title="Torneo de Tokio",12:05 Torneo de Tokio - 1ª Ronda Zh. Zhang - A. Gea
-acestream://8b5f9d967384afab226dd759e6e9dfaee9993869
-#EXTINF:-1 tvg-name="13:10 Torneo de Tokio - 1ª Ronda N. Borges - N. Djokovic" group-title="Torneo de Tokio",13:10 Torneo de Tokio - 1ª Ronda N. Borges - N. Djokovic
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 tvg-name="13:55 Torneo de Tokio - 1ª Ronda E. Jacquemot - M. Frech" group-title="Torneo de Tokio",13:55 Torneo de Tokio - 1ª Ronda E. Jacquemot - M. Frech
+#EXTINF:-1 tvg-name="11:00 Torneo de Tokio - 1ª Ronda A. Parks - L. Zhu" group-title="Torneo de Tokio",11:00 Torneo de Tokio - 1ª Ronda A. Parks - L. Zhu
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
-#EXTINF:-1 tvg-name="15:25 Torneo de Tokio - 1ª Ronda A. Bondar - R. Zarazúa" group-title="Torneo de Tokio",15:25 Torneo de Tokio - 1ª Ronda A. Bondar - R. Zarazúa
+#EXTINF:-1 tvg-name="13:00 Torneo de Tokio - 1ª Ronda E. Lys - X. Sun" group-title="Torneo de Tokio",13:00 Torneo de Tokio - 1ª Ronda E. Lys - X. Sun
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
-#EXTINF:-1 tvg-name="18:45 EHF European League -  Flensburg-Handewitt - BM Granollers" group-title="EHF European League",18:45 EHF European League -  Flensburg-Handewitt - BM Granollers
-acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1 tvg-name="19:00 Eurocup - Liga Regular PAOK Salónica - Kids&Us Manresa" group-title="Eurocup",19:00 Eurocup - Liga Regular PAOK Salónica - Kids&Us Manresa
-acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
-#EXTINF:-1 tvg-name="20:00 Euroliga Fem - Fase de Clasificación Spar Girona - Emlak Konut SK" group-title="Euroliga Fem",20:00 Euroliga Fem - Fase de Clasificación Spar Girona - Emlak Konut SK
-acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884
-#EXTINF:-1 tvg-name="20:15 Euroliga - Liga Regular Panathinaikos BC - ASVEL Lyon-Villeurbanne" group-title="Euroliga",20:15 Euroliga - Liga Regular Panathinaikos BC - ASVEL Lyon-Villeurbanne
-acestream://7b0193004089d4d29821a5cdf17f407d0d192314
-#EXTINF:-1 tvg-name="20:30 Amistoso -  España - México" group-title="Amistoso",20:30 Amistoso -  España - México
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="20:30 Eurocup - Liga Regular San Pablo Burgos - Olimpija Ljubljana" group-title="Eurocup",20:30 Eurocup - Liga Regular San Pablo Burgos - Olimpija Ljubljana
-acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
-#EXTINF:-1 tvg-name="21:00 Eurocup - Liga Regular La Laguna Tenerife - Türk Telekom Ankara" group-title="Eurocup",21:00 Eurocup - Liga Regular La Laguna Tenerife - Türk Telekom Ankara
-acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
-#EXTINF:-1 tvg-name="01:00 WNBA - Playoffs Washington Mystics - Atlanta Dream" group-title="WNBA",01:00 WNBA - Playoffs Washington Mystics - Atlanta Dream
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="02:00 Amistoso -  Argentina - Bolivia" group-title="Amistoso",02:00 Amistoso -  Argentina - Bolivia
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 tvg-name="04:00 Torneo de Tokio - 1ª Ronda T. Fritz - J. Munar" group-title="Torneo de Tokio",04:00 Torneo de Tokio - 1ª Ronda T. Fritz - J. Munar
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-name="04:00 Torneo de Tokio - 1ª Ronda L. Darderi - C. Ruud" group-title="Torneo de Tokio",04:00 Torneo de Tokio - 1ª Ronda L. Darderi - C. Ruud
-acestream://8b5f9d967384afab226dd759e6e9dfaee9993869
-#EXTINF:-1 tvg-name="05:00 Torneo de Tokio - 1ª Ronda A. De Miñaur - M. Navone" group-title="Torneo de Tokio",05:00 Torneo de Tokio - 1ª Ronda A. De Miñaur - M. Navone
+#EXTINF:-1 tvg-name="13:00 Torneo de Tokio - 1ª Ronda L. Tien - H. Hurkacz" group-title="Torneo de Tokio",13:00 Torneo de Tokio - 1ª Ronda L. Tien - H. Hurkacz
 acestream://3230cdca852a10325222e3c546e499e31d547a90
-#EXTINF:-1 tvg-name="05:00 Torneo de Tokio - 1ª Ronda Q. Zheng - H. Shi" group-title="Torneo de Tokio",05:00 Torneo de Tokio - 1ª Ronda Q. Zheng - H. Shi
-acestream://a4cbadd19442b800727be713270fa9c917cc8582
-#EXTINF:-1 tvg-name="05:30 Torneo de Tokio - 1ª Ronda K. Nishikori - F. Tiafoe" group-title="Torneo de Tokio",05:30 Torneo de Tokio - 1ª Ronda K. Nishikori - F. Tiafoe
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-name="05:30 Torneo de Tokio - 1ª Ronda H. Rune - K. Jacquet" group-title="Torneo de Tokio",05:30 Torneo de Tokio - 1ª Ronda H. Rune - K. Jacquet
-acestream://8b5f9d967384afab226dd759e6e9dfaee9993869
-#EXTINF:-1 tvg-name="06:30 Torneo de Tokio - 1ª Ronda R. Safiullin - F. Cobolli" group-title="Torneo de Tokio",06:30 Torneo de Tokio - 1ª Ronda R. Safiullin - F. Cobolli
+#EXTINF:-1 tvg-name="13:00 Alfred Dunhill Links Championship -  Jornada 1" group-title="Alfred Dunhill Links Championship",13:00 Alfred Dunhill Links Championship -  Jornada 1
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 tvg-name="14:30 Torneo de Tokio - 1ª Ronda A. Bublik - J. Mensik" group-title="Torneo de Tokio",14:30 Torneo de Tokio - 1ª Ronda A. Bublik - J. Mensik
 acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-name="06:30 Torneo de Tokio - 1ª Ronda P. Badosa - D. Kasatkina" group-title="Torneo de Tokio",06:30 Torneo de Tokio - 1ª Ronda P. Badosa - D. Kasatkina
+#EXTINF:-1 tvg-name="18:00 Euroliga - Liga Regular Hapoel Tel Aviv BC - Real Madrid Baloncesto" group-title="Euroliga",18:00 Euroliga - Liga Regular Hapoel Tel Aviv BC - Real Madrid Baloncesto
+acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
+#EXTINF:-1 tvg-name="20:00 Euroliga - Liga Regular Crvena Zvezda MTS Belgrade - Anadolu Efes Istanbul" group-title="Euroliga",20:00 Euroliga - Liga Regular Crvena Zvezda MTS Belgrade - Anadolu Efes Istanbul
+acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
+#EXTINF:-1 tvg-name="20:00 IHF Super Globe - Final Barça BM - Veszprém HC" group-title="IHF Super Globe",20:00 IHF Super Globe - Final Barça BM - Veszprém HC
+acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
+#EXTINF:-1 tvg-name="20:15 UEFA Nations League - Fase de grupos San Marino - España" group-title="UEFA Nations League",20:15 UEFA Nations League - Fase de grupos San Marino - España
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-name="20:30 Euroliga - Liga Regular Virtus Bologna - Olympiacos Piraeus" group-title="Euroliga",20:30 Euroliga - Liga Regular Virtus Bologna - Olympiacos Piraeus
+acestream://7b0193004089d4d29821a5cdf17f407d0d192314
+#EXTINF:-1 tvg-name="23:00 Bank of Utah Championship -  Jornada 1" group-title="Bank of Utah Championship",23:00 Bank of Utah Championship -  Jornada 1
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 tvg-name="02:15 NFL - Liga Regular Cleveland Browns - Pittsburgh Steelers" group-title="NFL",02:15 NFL - Liga Regular Cleveland Browns - Pittsburgh Steelers
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-name="03:00 WNBA - Playoffs Indiana Fever - Las Vegas Aces" group-title="WNBA",03:00 WNBA - Playoffs Indiana Fever - Las Vegas Aces
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-name="03:45 MotoGP - G.P. Japón (Motegi) Libres 1" group-title="MotoGP",03:45 MotoGP - G.P. Japón (Motegi) Libres 1
+acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
+#EXTINF:-1 tvg-name="05:05 MotoGP - G.P. Japón (Motegi) 2ª Ronda - WTA 1000" group-title="MotoGP",05:05 MotoGP - G.P. Japón (Motegi) 2ª Ronda - WTA 1000
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
-#EXTINF:-1 tvg-name="07:00 Torneo de Tokio - 1ª Ronda J. Lehecka - Z. Bergs" group-title="Torneo de Tokio",07:00 Torneo de Tokio - 1ª Ronda J. Lehecka - Z. Bergs
-acestream://8b5f9d967384afab226dd759e6e9dfaee9993869
-#EXTINF:-1 tvg-name="08:00 Torneo de Tokio - 1ª Ronda D. Shapovalov - S. Shimabukuro" group-title="Torneo de Tokio",08:00 Torneo de Tokio - 1ª Ronda D. Shapovalov - S. Shimabukuro
-acestream://8b5f9d967384afab226dd759e6e9dfaee9993869
-#EXTINF:-1 tvg-name="08:00 Torneo de Tokio - 1ª Ronda Y. Shao - A. Zakharova" group-title="Torneo de Tokio",08:00 Torneo de Tokio - 1ª Ronda Y. Shao - A. Zakharova
-acestream://a4cbadd19442b800727be713270fa9c917cc8582
-#EXTINF:-1 tvg-name="08:00 Abierto de Shenzhen -  Ronda 4" group-title="Abierto de Shenzhen",08:00 Abierto de Shenzhen -  Ronda 4
-acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1 tvg-name="09:00 WRC Rally - Rally de Cerdeña Shakedown › SS1" group-title="WRC Rally",09:00 WRC Rally - Rally de Cerdeña Shakedown › SS1
+#EXTINF:-1 tvg-name="06:30 WNBA - Playoffs Libres 1" group-title="WNBA",06:30 WNBA - Playoffs Libres 1
+acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-name="08:00 WRC Rally - Rally de Cerdeña SS2 › SS7" group-title="WRC Rally",08:00 WRC Rally - Rally de Cerdeña SS2 › SS7
 acestream://12404b00d2787995d639ccf71a80da5d39d153f9
-#EXTINF:-1 tvg-name="09:00 Torneo de Tokio - 1ª Ronda C. Alcaraz - A. Michelsen" group-title="Torneo de Tokio",09:00 Torneo de Tokio - 1ª Ronda C. Alcaraz - A. Michelsen
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 tvg-name="09:00 Torneo de Tokio - 1ª Ronda A. Zverev - C. Norrie" group-title="Torneo de Tokio",09:00 Torneo de Tokio - 1ª Ronda A. Zverev - C. Norrie
-acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-name="09:30 Torneo de Tokio - 1ª Ronda A. Davidovich - M. Berrettini" group-title="Torneo de Tokio",09:30 Torneo de Tokio - 1ª Ronda A. Davidovich - M. Berrettini
-acestream://8b5f9d967384afab226dd759e6e9dfaee9993869
+#EXTINF:-1 tvg-name="08:00 MotoGP - G.P. Japón (Motegi) Libres" group-title="MotoGP",08:00 MotoGP - G.P. Japón (Motegi) Libres
+acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
+#EXTINF:-1 tvg-name="08:00 Abierto de Shenzhen -  Cuartos de final" group-title="Abierto de Shenzhen",08:00 Abierto de Shenzhen -  Cuartos de final
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9

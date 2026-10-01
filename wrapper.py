@@ -24,7 +24,6 @@ TUOI_SCRIPTS = [
     "scripts/personali/kiraht_od.py",
     "scripts/personali/PyGenHtmlM3U.py",
     "scripts/personali/genera_livetv.py",
-    "scripts/personali/scraper_mamahd.py",
     "scripts/personali/mamahdday.py",
     "scripts/personali/sportora.py",
     "scripts/personali/ppvvt.py",

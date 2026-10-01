@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTGRP:Amistoso Internacional
-#EXTINF:-1 group-title="Amistoso Internacional",🔴LIVE 01/10 12:10 - Japón vs Ecuador
-https://streamxhd.com/live1.php?stream=evento1
-#EXTINF:-1 group-title="Amistoso Internacional",⏳NEXT 02/10 02:00 - Argentina vs Bolivia
-https://streamxhd.com/live1.php?stream=tycsports
 #EXTINF:-1 group-title="Amistoso Internacional",⏳NEXT 02/10 04:30 - Cruz Azul vs América
 https://streamxhd.com/live1.php?stream=tudnmx
 #EXTGRP:Copa Argentina
@@ -20,11 +16,11 @@ https://streamxhd.com/live1.php?stream=espn
 #EXTINF:-1 group-title="F1",⏳NEXT 02/10 06:30 - GP Bahréin - Práctica #1 - On Board Colapinto
 https://streamxhd.com/live1.php?stream=disney16
 #EXTGRP:Fútbol
-#EXTINF:-1 group-title="Fútbol",✅END 30/09 18:00 - Amistoso Internacional: Lituania vs Andorra
+#EXTINF:-1 group-title="Fútbol",🔴LIVE 30/09 18:00 - Amistoso Internacional: Lituania vs Andorra
 https://streamx305.sbs/global1.php?channel=disney1
-#EXTINF:-1 group-title="Fútbol",✅END 30/09 18:45 - UEFA Women's Champions League: Roma vs Barcelona
+#EXTINF:-1 group-title="Fútbol",🔴LIVE 30/09 18:45 - UEFA Women's Champions League: Roma vs Barcelona
 https://streamx305.sbs/global1.php?channel=espn2
-#EXTINF:-1 group-title="Fútbol",✅END 30/09 18:45 - UEFA Women's Champions League: Roma vs Barcelona
+#EXTINF:-1 group-title="Fútbol",🔴LIVE 30/09 18:45 - UEFA Women's Champions League: Roma vs Barcelona
 https://streamx305.sbs/global1.php?channel=espndeportes
 #EXTINF:-1 group-title="Fútbol",✅END 30/09 21:00 - UEFA Women's Champions League: OL Lyonnes vs Chelsea FC
 https://streamx305.sbs/global1.php?channel=espn
@@ -54,17 +50,17 @@ https://streamx305.sbs/global1.php?channel=vix1
 https://streamx305.sbs/global1.php?channel=sportv1
 #EXTINF:-1 group-title="Fútbol",✅END 01/10 03:00 - Liga BetPlay: Atlético Nacional vs Junior
 https://streamx305.sbs/global1.php?channel=winplus
-#EXTINF:-1 group-title="Fútbol",🔴LIVE 01/10 12:10 - Amistoso Internacional: Japón vs Ecuador
+#EXTINF:-1 group-title="Fútbol",✅END 01/10 12:10 - Amistoso Internacional: Japón vs Ecuador
 https://streamx305.sbs/global1.php?channel=telemundo_deportes
-#EXTINF:-1 group-title="Fútbol",⏳NEXT 01/10 18:00 - Liga de Naciones de la UEFA: Azerbaiyán vs Liechtenstein
+#EXTINF:-1 group-title="Fútbol",🔴LIVE 01/10 18:00 - Liga de Naciones de la UEFA: Azerbaiyán vs Liechtenstein
 https://streamx305.sbs/global1.php?channel=disney1
-#EXTINF:-1 group-title="Fútbol",⏳NEXT 01/10 18:00 - Liga de Naciones de la UEFA: Azerbaiyán vs Liechtenstein
+#EXTINF:-1 group-title="Fútbol",🔴LIVE 01/10 18:00 - Liga de Naciones de la UEFA: Azerbaiyán vs Liechtenstein
 https://streamx305.sbs/global1.php?channel=espn2
-#EXTINF:-1 group-title="Fútbol",⏳NEXT 01/10 18:00 - Liga de Naciones de la UEFA: Azerbaiyán vs Liechtenstein
+#EXTINF:-1 group-title="Fútbol",🔴LIVE 01/10 18:00 - Liga de Naciones de la UEFA: Azerbaiyán vs Liechtenstein
 https://streamx305.sbs/global1.php?channel=foxsoccerplus
-#EXTINF:-1 group-title="Fútbol",⏳NEXT 01/10 18:45 - UEFA Women's Champions League: Austria Wien vs Inter Milano
+#EXTINF:-1 group-title="Fútbol",🔴LIVE 01/10 18:45 - UEFA Women's Champions League: Austria Wien vs Inter Milano
 https://streamx305.sbs/global1.php?channel=espn4
-#EXTINF:-1 group-title="Fútbol",⏳NEXT 01/10 18:45 - UEFA Women's Champions League: Austria Wien vs Inter Milano
+#EXTINF:-1 group-title="Fútbol",🔴LIVE 01/10 18:45 - UEFA Women's Champions League: Austria Wien vs Inter Milano
 https://streamx305.sbs/global1.php?channel=espndeportes
 #EXTINF:-1 group-title="Fútbol",⏳NEXT 01/10 20:45 - Liga de Naciones de la UEFA: Dinamarca vs Portugal
 https://streamx305.sbs/global1.php?channel=disney2
@@ -133,12 +129,10 @@ https://streamx305.sbs/global1.php?channel=foxsoccerplus
 #EXTINF:-1 group-title="Fútbol",⏳NEXT 02/10 04:30 - Amistoso: Cruz Azul vs América
 https://streamx061.sbs/global1.php?channel=tudnus
 #EXTGRP:Liga Colombia
-#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 02/10 03:00 - Atlético Nacional vs Junior
-https://streamxhd.com/live1.php?stream=winplus
 #EXTINF:-1 group-title="Liga Colombia",⏳NEXT 02/10 03:00 - Inter Bogotá vs Once Caldas
 https://streamxhd.com/live1.php?stream=winplus
 #EXTGRP:Liga de Naciones
-#EXTINF:-1 group-title="Liga de Naciones",⏳NEXT 01/10 18:00 - Azerbaiyán vs Liechtenstein
+#EXTINF:-1 group-title="Liga de Naciones",🔴LIVE 01/10 18:00 - Azerbaiyán vs Liechtenstein
 https://streamxhd.com/live1.php?stream=disney1
 #EXTINF:-1 group-title="Liga de Naciones",⏳NEXT 01/10 20:45 - Malta vs Gibraltar
 https://streamxhd.com/live1.php?stream=disney4
@@ -169,8 +163,6 @@ https://streamxhd.com/live1.php?stream=vix6
 #EXTINF:-1 group-title="MLB",⏳NEXT 02/10 02:00 - Boston Red Sox vs New York Yankees
 https://streamxhd.com/live1.php?stream=espn3
 #EXTGRP:MLS
-#EXTINF:-1 group-title="MLS",⏳NEXT 02/10 01:30 - New York RB vs St. Louis City
-https://streamxhd.com/live1.php?stream=appletv1
 #EXTINF:-1 group-title="MLS",⏳NEXT 02/10 03:30 - Seattle Sounders FC vs Sporting KC
 https://streamxhd.com/live1.php?stream=appletv1
 #EXTGRP:MotoGP
@@ -180,16 +172,11 @@ https://streamxhd.com/live1.php?stream=disney13
 #EXTINF:-1 group-title="NFL",⏳NEXT 02/10 02:00 - Pittsburgh Steelers vs Cleveland Browns
 https://streamxhd.com/live1.php?stream=espn5
 #EXTGRP:UEFA Champions League Femenina
-#EXTINF:-1 group-title="UEFA Champions League Femenina",⏳NEXT 01/10 18:45 - Køge Kvinder vs Servette Chênois
+#EXTINF:-1 group-title="UEFA Champions League Femenina",🔴LIVE 01/10 18:45 - Køge Kvinder vs Servette Chênois
 https://streamxhd.com/live1.php?stream=disney3
-#EXTINF:-1 group-title="UEFA Champions League Femenina",⏳NEXT 01/10 18:45 - Austria Wien vs Inter Milano
+#EXTINF:-1 group-title="UEFA Champions League Femenina",🔴LIVE 01/10 18:45 - Austria Wien vs Inter Milano
 https://streamxhd.com/live1.php?stream=disney2
 #EXTINF:-1 group-title="UEFA Champions League Femenina",⏳NEXT 01/10 21:00 - PSG vs OH Leuven
 https://streamxhd.com/live1.php?stream=disney11
 #EXTINF:-1 group-title="UEFA Champions League Femenina",⏳NEXT 01/10 21:00 - Manchester City vs Real Madrid
 https://streamxhd.com/live1.php?stream=disney12
-#EXTGRP:WNBA
-#EXTINF:-1 group-title="WNBA",⏳NEXT 02/10 01:00 - Atlanta Dream vs Washington Mystics
-https://streamxhd.com/live1.php?stream=espn2
-#EXTINF:-1 group-title="WNBA",⏳NEXT 02/10 03:00 - Golden State Valkyries vs Dallas Wings
-https://streamxhd.com/live1.php?stream=espn2

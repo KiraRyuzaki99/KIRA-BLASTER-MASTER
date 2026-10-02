@@ -145,39 +145,6 @@
     ]
   },
   {
-    "title": "Chicago Cubs San Diego Padres",
-    "category": "Chicago Cubs",
-    "logo": "https://cdn.img4every1.org/team/chicago-cubs/logo.webp",
-    "start_iso": "2026-10-02T02:00:00.000Z",
-    "end_iso": "2026-10-02T05:00:00.000Z",
-    "date": "Friday, 02 October 2026",
-    "time": "04:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/cubs-vs-padres",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/cubs-vs-padres/2450",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/cubs-vs-padres/2451",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "f1 Bahrain Grand Prix Formula 1",
     "category": "f1 Bahrain Grand Prix",
     "logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
@@ -228,7 +195,7 @@
     "end_iso": "2026-10-02T10:15:00.000Z",
     "date": "Friday, 02 October 2026",
     "time": "10:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/pakistan-vs-vietnam",
     "servers": [
       {

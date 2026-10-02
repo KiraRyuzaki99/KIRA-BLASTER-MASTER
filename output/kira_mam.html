@@ -1,1 +1,1382 @@
-<h1>Nessun evento per oggi</h1>
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CYBER GATE ACCESS</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Audiowide&family=Grotesk:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Grotesk', sans-serif;
+            background: #0a0a0a;
+            color: #00ffcc;
+            min-height: 100vh;
+            overflow-x: hidden;
+            position: relative;
+        }
+        .matrix-bg {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; background: #0a0a0a; overflow: hidden;
+        }
+        .matrix-bg::before {
+            content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0, 255, 204, 0.03) 2px, rgba(0, 255, 204, 0.03) 4px);
+            animation: matrixScroll 15s linear infinite;
+        }
+        @keyframes matrixScroll { 0% { transform: translateY(0); } 100% { transform: translateY(100%); } }
+        
+        .container { max-width: 1200px; margin: 0 auto; padding: 20px; position: relative; z-index: 1; }
+        
+        .header {
+            text-align: center;
+            padding: 30px 0 40px;
+            border-bottom: 2px solid rgba(0, 255, 204, 0.3);
+            margin-bottom: 40px;
+        }
+        .header h1 {
+            font-family: 'Orbitron', sans-serif;
+            font-weight: 900;
+            font-size: 3.5rem;
+            text-shadow: 0 0 20px rgba(0, 255, 204, 0.5);
+            background: linear-gradient(135deg, #00ffcc, #00ccff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            letter-spacing: 4px;
+        }
+        .header .subtitle {
+            font-family: 'Audiowide', cursive;
+            color: #88ffdd;
+            font-size: 1.2rem;
+            margin-top: 10px;
+        }
+        
+        .event-counter {
+            text-align: center;
+            font-family: 'Orbitron', monospace;
+            font-size: 1.2rem;
+            color: #00ffcc;
+            background: rgba(0, 255, 204, 0.08);
+            border: 1px solid rgba(0, 255, 204, 0.2);
+            padding: 12px 20px;
+            border-radius: 30px;
+            display: inline-block;
+            margin: 0 auto 30px;
+        }
+        .event-counter span { font-weight: 900; font-size: 1.5rem; }
+        
+        .day-section {
+            background: rgba(0, 30, 30, 0.5);
+            border: 1px solid rgba(0, 255, 204, 0.15);
+            border-radius: 15px;
+            margin-bottom: 20px;
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+        .day-section:hover {
+            border-color: rgba(0, 255, 204, 0.4);
+        }
+        .day-header {
+            font-family: 'Orbitron', sans-serif;
+            font-weight: 700;
+            font-size: 1.2rem;
+            padding: 15px 20px;
+            background: rgba(0, 255, 204, 0.05);
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            color: #00ffcc;
+            transition: all 0.3s ease;
+            user-select: none;
+        }
+        .day-header:hover {
+            background: rgba(0, 255, 204, 0.1);
+        }
+        .day-header.active {
+            background: rgba(0, 255, 204, 0.15);
+            border-bottom: 1px solid rgba(0, 255, 204, 0.2);
+        }
+        .day-arrow {
+            transition: transform 0.3s ease;
+            font-size: 0.8rem;
+        }
+        .day-header.active .day-arrow {
+            transform: rotate(180deg);
+        }
+        .day-count {
+            font-size: 0.8rem;
+            color: #88ddff;
+            opacity: 0.7;
+            font-weight: 400;
+        }
+        .day-content {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.5s ease-out;
+            padding: 0 20px;
+        }
+        .day-content.open {
+            max-height: 20000px;
+            padding: 20px;
+        }
+        
+        .events-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 20px;
+        }
+        
+        .event-card {
+            background: rgba(0, 30, 30, 0.7);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(0, 255, 204, 0.2);
+            border-radius: 15px;
+            padding: 20px;
+            transition: all 0.3s ease;
+            display: flex;
+            flex-direction: column;
+        }
+        .event-card:hover {
+            transform: translateY(-5px);
+            border-color: rgba(0, 255, 204, 0.6);
+            box-shadow: 0 0 40px rgba(0, 255, 204, 0.15);
+        }
+        .event-info h3 {
+            font-family: 'Orbitron', sans-serif;
+            font-weight: 700;
+            font-size: 1.1rem;
+            color: #00ffcc;
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        .event-info .competition {
+            font-family: 'Audiowide', cursive;
+            color: #88ddff;
+            font-size: 0.8rem;
+            background: rgba(0, 255, 204, 0.1);
+            padding: 3px 12px;
+            border-radius: 20px;
+            display: inline-block;
+            margin-bottom: 8px;
+        }
+        .event-info .datetime {
+            color: #88ddff;
+            font-size: 0.85rem;
+            opacity: 0.8;
+        }
+        .fonte-badge {
+            display: inline-block;
+            font-size: 0.7rem;
+            background: rgba(0, 255, 204, 0.15);
+            color: #88ffdd;
+            padding: 2px 12px;
+            border-radius: 12px;
+            margin-top: 5px;
+            border: 1px solid rgba(0, 255, 204, 0.2);
+        }
+        .status-next {
+            display: inline-block;
+            font-size: 0.65rem;
+            background: rgba(0, 100, 255, 0.3);
+            color: #4488ff;
+            padding: 2px 10px;
+            border-radius: 12px;
+        }
+        .event-links {
+            margin-top: 12px;
+            padding-top: 12px;
+            border-top: 1px solid rgba(0, 255, 204, 0.15);
+        }
+        .server-link {
+            display: inline-block;
+            font-family: 'Orbitron', monospace;
+            font-weight: 700;
+            color: #0a0a0a;
+            background: #00ffcc;
+            padding: 10px 20px;
+            border-radius: 8px;
+            text-decoration: none;
+            text-align: center;
+            width: 100%;
+            transition: all 0.3s ease;
+            font-size: 0.8rem;
+        }
+        .server-link:hover {
+            background: #00ddbb;
+            box-shadow: 0 0 40px rgba(0, 255, 204, 0.5);
+        }
+        .dropdown select {
+            width: 100%;
+            padding: 10px 15px;
+            background: rgba(0, 20, 20, 0.9);
+            color: #00ffcc;
+            border: 1px solid rgba(0, 255, 204, 0.4);
+            border-radius: 10px;
+            font-family: 'Orbitron', monospace;
+            font-size: 0.75rem;
+            cursor: pointer;
+            outline: none;
+        }
+        .dropdown select option {
+            background: #0a1a1a;
+            color: #88ffdd;
+            padding: 8px;
+        }
+        .no-link {
+            display: inline-block;
+            font-family: 'Orbitron', monospace;
+            color: #666;
+            text-align: center;
+            width: 100%;
+            padding: 10px;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 40px 0 20px;
+            margin-top: 40px;
+            border-top: 1px solid rgba(0, 255, 204, 0.2);
+            color: #88ddff;
+            opacity: 0.7;
+        }
+        .footer .neon-text {
+            font-family: 'Orbitron', monospace;
+            color: #00ffcc;
+            font-size: 1rem;
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 { font-size: 2rem; }
+            .events-grid { grid-template-columns: 1fr; }
+            .container { padding: 15px; }
+            .event-card { padding: 18px; }
+            .day-header { font-size: 1rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="matrix-bg"></div>
+    <div class="container">
+        <header class="header">
+            <h1>KIRA GATE ACCESS</h1>
+            <p class="subtitle">• Eventi di Oggi •</p>
+        </header>
+        
+        <div style="text-align: center;">
+            <div class="event-counter">
+                🎯 <span>52</span> eventi disponibili per oggi
+            </div>
+        </div>
+        
+        <div id="days-container">
+            
+        <div class="day-section">
+            <div class="day-header" onclick="toggleDay(this)">
+                📅 Friday, 02 October 2026 <span style="background: #ff00cc; padding: 2px 10px; border-radius: 12px; font-size: 0.7rem; margin-left: 10px;">OGGI</span> <span class="day-arrow">▼</span>
+                <span class="day-count">(52 eventi)</span>
+            </div>
+            <div class="day-content">
+                <div class="events-grid">
+                    
+            <div class="event-card">
+                <div class="event-info">
+                    <h3> <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 MotoGP</p>
+                    <p class="datetime">🕒 03:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=2">stream?id=2</option>
+<option value="https://playfa.st/ch.php?id=2">ch.php?id=2</option>
+<option value="https://ch.nexa.st/stream?id=93">stream?id=93</option>
+<option value="https://playfa.st/ch.php?id=93">ch.php?id=93</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>San Diego Padres VS Chicago Cubs <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 MLB</p>
+                    <p class="datetime">🕒 05:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=4">stream?id=4</option>
+<option value="https://playfa.st/ch.php?id=4">ch.php?id=4</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Vancouver Canucks VS Edmonton Oilers <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 NHL</p>
+                    <p class="datetime">🕒 05:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=37">stream?id=37</option>
+<option value="https://playfa.st/ch.php?id=37">ch.php?id=37</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>San Jose Sharks VS Florida Panthers <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 NHL</p>
+                    <p class="datetime">🕒 05:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=38">stream?id=38</option>
+<option value="https://playfa.st/ch.php?id=38">ch.php?id=38</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3> <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Formula 1</p>
+                    <p class="datetime">🕒 07:30 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=7">stream?id=7</option>
+<option value="https://playfa.st/ch.php?id=7">ch.php?id=7</option>
+<option value="https://ch.nexa.st/stream?id=20">stream?id=20</option>
+<option value="https://playfa.st/ch.php?id=20">ch.php?id=20</option>
+<option value="https://ch.nexa.st/stream?id=29">stream?id=29</option>
+<option value="https://playfa.st/ch.php?id=29">ch.php?id=29</option>
+<option value="https://ch.nexa.st/stream?id=47">stream?id=47</option>
+<option value="https://playfa.st/ch.php?id=47">ch.php?id=47</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3> <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Formula 1</p>
+                    <p class="datetime">🕒 11:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=7">stream?id=7</option>
+<option value="https://playfa.st/ch.php?id=7">ch.php?id=7</option>
+<option value="https://ch.nexa.st/stream?id=20">stream?id=20</option>
+<option value="https://playfa.st/ch.php?id=20">ch.php?id=20</option>
+<option value="https://ch.nexa.st/stream?id=29">stream?id=29</option>
+<option value="https://playfa.st/ch.php?id=29">ch.php?id=29</option>
+<option value="https://ch.nexa.st/stream?id=47">stream?id=47</option>
+<option value="https://playfa.st/ch.php?id=47">ch.php?id=47</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3> <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 One</p>
+                    <p class="datetime">🕒 16:30 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=39">stream?id=39</option>
+<option value="https://playfa.st/ch.php?id=39">ch.php?id=39</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Kazakhstan VS Moldova <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Europe UEFA Nations League</p>
+                    <p class="datetime">🕒 17:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=17">stream?id=17</option>
+<option value="https://playfa.st/ch.php?id=17">ch.php?id=17</option>
+<option value="https://ch.nexa.st/stream?id=82">stream?id=82</option>
+<option value="https://playfa.st/ch.php?id=82">ch.php?id=82</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Vitkovice VS Karlovy Vary <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Czech Republic Extraliga</p>
+                    <p class="datetime">🕒 18:30 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=41">stream?id=41</option>
+<option value="https://playfa.st/ch.php?id=41">ch.php?id=41</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Assat VS Lukko <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Finland Liiga</p>
+                    <p class="datetime">🕒 18:30 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=72">stream?id=72</option>
+<option value="https://playfa.st/ch.php?id=72">ch.php?id=72</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>HPK VS JYP <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Finland Liiga</p>
+                    <p class="datetime">🕒 18:30 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=73">stream?id=73</option>
+<option value="https://playfa.st/ch.php?id=73">ch.php?id=73</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>KalPa VS SaiPa <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Finland Liiga</p>
+                    <p class="datetime">🕒 18:30 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=74">stream?id=74</option>
+<option value="https://playfa.st/ch.php?id=74">ch.php?id=74</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Kiekko Espoo VS Karpat <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Finland Liiga</p>
+                    <p class="datetime">🕒 18:30 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=75">stream?id=75</option>
+<option value="https://playfa.st/ch.php?id=75">ch.php?id=75</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Hermes VS JoKP <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Finland Mestis</p>
+                    <p class="datetime">🕒 18:30 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=76">stream?id=76</option>
+<option value="https://playfa.st/ch.php?id=76">ch.php?id=76</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>KeuPa HT VS IPK <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Finland Mestis</p>
+                    <p class="datetime">🕒 18:30 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=77">stream?id=77</option>
+<option value="https://playfa.st/ch.php?id=77">ch.php?id=77</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>RoKi VS K-Vantaa <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Finland Mestis</p>
+                    <p class="datetime">🕒 18:30 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=78">stream?id=78</option>
+<option value="https://playfa.st/ch.php?id=78">ch.php?id=78</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>TuTo VS Pyry <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Finland Mestis</p>
+                    <p class="datetime">🕒 18:30 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=79">stream?id=79</option>
+<option value="https://playfa.st/ch.php?id=79">ch.php?id=79</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Latvia VS Montenegro <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Europe UEFA Nations League</p>
+                    <p class="datetime">🕒 19:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=17">stream?id=17</option>
+<option value="https://playfa.st/ch.php?id=17">ch.php?id=17</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Cyprus VS Armenia <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Europe UEFA Nations League</p>
+                    <p class="datetime">🕒 19:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=18">stream?id=18</option>
+<option value="https://playfa.st/ch.php?id=18">ch.php?id=18</option>
+<option value="https://ch.nexa.st/stream?id=83">stream?id=83</option>
+<option value="https://playfa.st/ch.php?id=83">ch.php?id=83</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Dynamo Pardubice VS Plzen <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Czech Republic Extraliga</p>
+                    <p class="datetime">🕒 19:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=42">stream?id=42</option>
+<option value="https://playfa.st/ch.php?id=42">ch.php?id=42</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Kometa Brno VS Mlada vs Boleslav <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Czech Republic Extraliga</p>
+                    <p class="datetime">🕒 19:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=43">stream?id=43</option>
+<option value="https://playfa.st/ch.php?id=43">ch.php?id=43</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Bili Tygri Liberec VS Olomouc <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Czech Republic Extraliga</p>
+                    <p class="datetime">🕒 19:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=44">stream?id=44</option>
+<option value="https://playfa.st/ch.php?id=44">ch.php?id=44</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Rytiri Kladno VS Mountfield <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Czech Republic Extraliga</p>
+                    <p class="datetime">🕒 19:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=45">stream?id=45</option>
+<option value="https://playfa.st/ch.php?id=45">ch.php?id=45</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Rapid Bucuresti VS Genoa <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Club Friendly</p>
+                    <p class="datetime">🕒 19:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=57">stream?id=57</option>
+<option value="https://playfa.st/ch.php?id=57">ch.php?id=57</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Tappara VS Jokerit <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Finland Liiga</p>
+                    <p class="datetime">🕒 19:30 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=71">stream?id=71</option>
+<option value="https://playfa.st/ch.php?id=71">ch.php?id=71</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Sodertalje SK VS Ostersunds IK <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Hockeyallsvenskan</p>
+                    <p class="datetime">🕒 20:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=61">stream?id=61</option>
+<option value="https://playfa.st/ch.php?id=61">ch.php?id=61</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Kalmar HC VS Mora IK <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Hockeyallsvenskan</p>
+                    <p class="datetime">🕒 20:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=62">stream?id=62</option>
+<option value="https://playfa.st/ch.php?id=62">ch.php?id=62</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Nybro Vikings IF VS AIK <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Hockeyallsvenskan</p>
+                    <p class="datetime">🕒 20:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=63">stream?id=63</option>
+<option value="https://playfa.st/ch.php?id=63">ch.php?id=63</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Vasteras IK VS IK Oskarshamn <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Hockeyallsvenskan</p>
+                    <p class="datetime">🕒 20:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=64">stream?id=64</option>
+<option value="https://playfa.st/ch.php?id=64">ch.php?id=64</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>BIK Karlskoga VS Leksands IF <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Hockeyallsvenskan</p>
+                    <p class="datetime">🕒 20:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=65">stream?id=65</option>
+<option value="https://playfa.st/ch.php?id=65">ch.php?id=65</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Visby/Roma HK VS Modo Hockey <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Hockeyallsvenskan</p>
+                    <p class="datetime">🕒 20:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=66">stream?id=66</option>
+<option value="https://playfa.st/ch.php?id=66">ch.php?id=66</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Vimmerby HC VS Almtuna IS <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Hockeyallsvenskan</p>
+                    <p class="datetime">🕒 20:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=67">stream?id=67</option>
+<option value="https://playfa.st/ch.php?id=67">ch.php?id=67</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Besiktas VS Barcelona <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Euroleague</p>
+                    <p class="datetime">🕒 20:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=100">stream?id=100</option>
+<option value="https://playfa.st/ch.php?id=100">ch.php?id=100</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Augsburger Panther VS Grizzly Wolfsburg <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Germany DEL</p>
+                    <p class="datetime">🕒 20:30 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=11">stream?id=11</option>
+<option value="https://playfa.st/ch.php?id=11">ch.php?id=11</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Lowen Frankfurt VS Eisbaren Berlin <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Germany DEL</p>
+                    <p class="datetime">🕒 20:30 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=12">stream?id=12</option>
+<option value="https://playfa.st/ch.php?id=12">ch.php?id=12</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Kolner Haie VS EHC Red Bull Munchen <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Germany DEL</p>
+                    <p class="datetime">🕒 20:30 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=13">stream?id=13</option>
+<option value="https://playfa.st/ch.php?id=13">ch.php?id=13</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Krefeld Pinguine VS ERC Ingolstadt <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Germany DEL</p>
+                    <p class="datetime">🕒 20:30 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=14">stream?id=14</option>
+<option value="https://playfa.st/ch.php?id=14">ch.php?id=14</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Nurnberg Ice Tigers VS Schwenninger <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Germany DEL</p>
+                    <p class="datetime">🕒 20:30 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=15">stream?id=15</option>
+<option value="https://playfa.st/ch.php?id=15">ch.php?id=15</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Straubing Tigers VS Bremerhaven <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Germany DEL</p>
+                    <p class="datetime">🕒 20:30 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=16">stream?id=16</option>
+<option value="https://playfa.st/ch.php?id=16">ch.php?id=16</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Fenerbahce VS Dubai <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Euroleague</p>
+                    <p class="datetime">🕒 20:45 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=99">stream?id=99</option>
+<option value="https://playfa.st/ch.php?id=99">ch.php?id=99</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>FC Bayern Munchen VS Partizan Mozzart Belgrad <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Euroleague</p>
+                    <p class="datetime">🕒 21:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=97">stream?id=97</option>
+<option value="https://playfa.st/ch.php?id=97">ch.php?id=97</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Lyon Villeurbanne VS Valencia <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Euroleague</p>
+                    <p class="datetime">🕒 21:00 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=98">stream?id=98</option>
+<option value="https://playfa.st/ch.php?id=98">ch.php?id=98</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Panathinaikos VS Maccabi Tel Aviv <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Euroleague</p>
+                    <p class="datetime">🕒 21:15 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=25">stream?id=25</option>
+<option value="https://playfa.st/ch.php?id=25">ch.php?id=25</option>
+<option value="https://ch.nexa.st/stream?id=96">stream?id=96</option>
+<option value="https://playfa.st/ch.php?id=96">ch.php?id=96</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Eldense VS Real Oviedo <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Spain Segunda Division</p>
+                    <p class="datetime">🕒 21:30 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=26">stream?id=26</option>
+<option value="https://playfa.st/ch.php?id=26">ch.php?id=26</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Saski Baskonia VS Olimpia Milano <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Euroleague</p>
+                    <p class="datetime">🕒 21:30 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=95">stream?id=95</option>
+<option value="https://playfa.st/ch.php?id=95">ch.php?id=95</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Belgium VS Turkey <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Europe UEFA Nations League</p>
+                    <p class="datetime">🕒 21:45 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=18">stream?id=18</option>
+<option value="https://playfa.st/ch.php?id=18">ch.php?id=18</option>
+<option value="https://ch.nexa.st/stream?id=49">stream?id=49</option>
+<option value="https://playfa.st/ch.php?id=49">ch.php?id=49</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Hungary VS Georgia <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Europe UEFA Nations League</p>
+                    <p class="datetime">🕒 21:45 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=46">stream?id=46</option>
+<option value="https://playfa.st/ch.php?id=46">ch.php?id=46</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>France VS Italy <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Europe UEFA Nations League</p>
+                    <p class="datetime">🕒 21:45 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=47">stream?id=47</option>
+<option value="https://playfa.st/ch.php?id=47">ch.php?id=47</option>
+<option value="https://ch.nexa.st/stream?id=50">stream?id=50</option>
+<option value="https://playfa.st/ch.php?id=50">ch.php?id=50</option>
+<option value="https://ch.nexa.st/stream?id=81">stream?id=81</option>
+<option value="https://playfa.st/ch.php?id=81">ch.php?id=81</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Ukraine VS Northern Ireland <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Europe UEFA Nations League</p>
+                    <p class="datetime">🕒 21:45 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=58">stream?id=58</option>
+<option value="https://playfa.st/ch.php?id=58">ch.php?id=58</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Faroe Islands VS Slovakia <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Europe UEFA Nations League</p>
+                    <p class="datetime">🕒 21:45 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=59">stream?id=59</option>
+<option value="https://playfa.st/ch.php?id=59">ch.php?id=59</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Poland VS Romania <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Europe UEFA Nations League</p>
+                    <p class="datetime">🕒 21:45 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=60">stream?id=60</option>
+<option value="https://playfa.st/ch.php?id=60">ch.php?id=60</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-info">
+                    <h3>Bosnia and Herzegovina VS Sweden <span class="status-next">⏳ PROSSIMO</span></h3>
+                    <p class="competition">🏆 Europe UEFA Nations League</p>
+                    <p class="datetime">🕒 21:45 • 📅 Friday, 02 October 2026</p>
+                    <span class="fonte-badge">📡 MamaHD</span>
+                </div>
+                <div class="event-links">
+                    
+                <div class="dropdown">
+                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
+                        <option value="">📡 Scegli il canale...</option>
+                        <option value="https://ch.nexa.st/stream?id=80">stream?id=80</option>
+<option value="https://playfa.st/ch.php?id=80">ch.php?id=80</option>
+<option value="https://ch.nexa.st/stream?id=83">stream?id=83</option>
+<option value="https://playfa.st/ch.php?id=83">ch.php?id=83</option>
+                    </select>
+                </div>
+                
+                </div>
+            </div>
+            
+                </div>
+            </div>
+        </div>
+        
+        </div>
+        
+        <footer class="footer">
+            <p class="neon-text">KIRA GSI SPORT • Eventi in Diretta • 2026 • Developed by KIRA GSI GROUP</p>
+        </footer>
+    </div>
+    
+    <script>
+        function toggleDay(header) {
+            header.classList.toggle('active');
+            const content = header.nextElementSibling;
+            content.classList.toggle('open');
+        }
+        
+        // Apri automaticamente il giorno di oggi
+        document.addEventListener('DOMContentLoaded', function() {
+            const headers = document.querySelectorAll('.day-header');
+            for (let header of headers) {
+                if (header.textContent.includes('OGGI')) {
+                    toggleDay(header);
+                    break;
+                }
+            }
+        });
+    </script>
+</body>
+</html>

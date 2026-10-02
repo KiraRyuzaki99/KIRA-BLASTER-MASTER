@@ -1,17 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Darts – Darts",Oggi 18:00 - 2026 World Grand Prix | Day 4 [Sky Sports+]
-https://august.ppvtv.icu/embed.html?match=c4533fc&server=0
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 02:00 - Florida Panthers vs. San Jose Sharks [NBC Sports BA]
+https://august.ppvtv.icu/embed.html?match=fis9cs8&server=0
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:00 - Buffalo Sabres vs. Columbus Blue Jackets [CBJNHL]
-https://august.ppvtv.icu/embed.html?match=f1d3u79h&server=0
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 02:00 - Edmonton Oilers vs. Vancouver Canucks [ESPN+]
+https://august.ppvtv.icu/embed.html?match=f6jv8y4&server=0
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:00 - Philadelphia Flyers vs. New Jersey Devils [Disney+]
-https://august.ppvtv.icu/embed.html?match=ftvl4im&server=0
+#EXTINF:-1 group-title="Basketball – NBL",Oggi 09:30 - Illawarra Hawks vs. Adelaide 36ers [ESPN]
+https://august.ppvtv.icu/embed.html?match=f5a2712&server=0
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:00 - Tampa Bay Lightning vs. New York Rangers [MSG]
-https://august.ppvtv.icu/embed.html?match=fp6ahth&server=0
+#EXTINF:-1 group-title="Basketball – NBL",Oggi 11:30 - Perth Wildcats vs. South East Melbourne Phoenix [ESPN]
+https://august.ppvtv.icu/embed.html?match=f32gfdd&server=0
+
+#EXTINF:-1 group-title="Darts – Darts",Oggi 18:00 - 2026 World Grand Prix | Day 5 [Sky Sports+]
+https://august.ppvtv.icu/embed.html?match=c1ujnmgf&server=0
+
+#EXTINF:-1 group-title="American Football – Canadian Football",Oggi 23:00 - Hamilton Tiger-Cats at Ottawa RedBlacks [CFL+]
+https://august.ppvtv.icu/embed.html?match=czia0xf&server=0
 
 #EXTINF:-1 group-title="American Football – 24/7 channel",Oggi N/A - NFL Network [NFL Network (ESPN)]
 https://august.ppvtv.icu/embed.html?match=c15q87wa&server=0
@@ -43,12 +49,6 @@ https://august.ppvtv.icu/embed.html?match=c1ed9edx&server=0
 #EXTINF:-1 group-title="American Football – College Football",Domani 00:00 - Indiana Hoosiers at Rutgers Scarlet Knights [BTN]
 https://august.ppvtv.icu/embed.html?match=cn310zp&server=0
 
-#EXTINF:-1 group-title="Baseball – MLB",Domani 00:00 - Philadelphia Phillies vs. Atlanta Braves [NBC]
-https://august.ppvtv.icu/embed.html?match=fs6kimb&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Minnesota Wild vs. Nashville Predators [Scripps Sports]
-https://august.ppvtv.icu/embed.html?match=fr67hql&server=0
-
 #EXTINF:-1 group-title="Wrestling – Wrestling",Domani 00:00 - WWE Friday Night Smackdown [USA]
 https://august.ppvtv.icu/embed.html?match=c1auumh5&server=0
 
@@ -61,41 +61,17 @@ https://august.ppvtv.icu/embed.html?match=c10yqzo0&server=0
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 00:00 - Rally TV [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1ml51ic&server=0
 
-#EXTINF:-1 group-title="American Football – NFL",Domani 00:15 - Pittsburgh Steelers at Cleveland Browns [Prime Video]
-https://august.ppvtv.icu/embed.html?match=c1qg90cn&server=0
-
 #EXTINF:-1 group-title="American Football – NFL",Domani 00:15 - Atlanta Falcons at New Orleans Saints [ESPN]
 https://august.ppvtv.icu/embed.html?match=c1xwnyp4&server=0
 
 #EXTINF:-1 group-title="American Football – NFL",Domani 00:20 - Detroit Lions at Carolina Panthers [NBC]
 https://august.ppvtv.icu/embed.html?match=c74iun5&server=0
 
-#EXTINF:-1 group-title="Basketball – WNBA",Domani 01:00 - Indiana Fever vs. Las Vegas Aces [USA Net]
-https://august.ppvtv.icu/embed.html?match=fka2c3l&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 01:00 - Seattle Kraken vs. Calgary Flames [ESPN+]
-https://august.ppvtv.icu/embed.html?match=fym9q9c&server=0
-
-#EXTINF:-1 group-title="Wrestling – Wrestling",Domani 01:00 - TNA Impact [AMC]
-https://august.ppvtv.icu/embed.html?match=c1se54xr&server=0
-
 #EXTINF:-1 group-title="American Football – Canadian Football",Domani 01:30 - Calgary Stampeders at Saskatchewan Roughriders [CFL+]
 https://august.ppvtv.icu/embed.html?match=crkvp5v&server=0
 
-#EXTINF:-1 group-title="Football – MLS",Domani 01:30 - Seattle Sounders FC vs. Sporting Kansas City [Apple TV]
-https://august.ppvtv.icu/embed.html?match=fxtp2f&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 01:30 - Chicago Blackhawks vs. Utah Mammoth [Disney+]
-https://august.ppvtv.icu/embed.html?match=ftr524d&server=0
-
 #EXTINF:-1 group-title="Football – CONCACAF Nations League",Domani 02:00 - El Salvador vs. Jamaica [FS2]
 https://august.ppvtv.icu/embed.html?match=fqhyia3&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 02:00 - Florida Panthers vs. San Jose Sharks [NBC Sports BA]
-https://august.ppvtv.icu/embed.html?match=fis9cs8&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 02:00 - Edmonton Oilers vs. Vancouver Canucks [ESPN+]
-https://august.ppvtv.icu/embed.html?match=f6jv8y4&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 05:00 - 24/7 COWS [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1dc895w&server=0
@@ -106,14 +82,8 @@ https://august.ppvtv.icu/embed.html?match=c418ukt&server=0
 #EXTINF:-1 group-title="Rugby – Rugby League (NRL)",Domani 08:30 - Roosters vs. Knights [Fox League]
 https://august.ppvtv.icu/embed.html?match=f1o1y1s9&server=0
 
-#EXTINF:-1 group-title="Basketball – NBL",Domani 09:30 - Illawarra Hawks vs. Adelaide 36ers [ESPN]
-https://august.ppvtv.icu/embed.html?match=f5a2712&server=0
-
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 10:28 - 24/7 The Simpsons [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1j7a3d7&server=0
-
-#EXTINF:-1 group-title="Basketball – NBL",Domani 11:30 - Perth Wildcats vs. South East Melbourne Phoenix [ESPN]
-https://august.ppvtv.icu/embed.html?match=f32gfdd&server=0
 
 #EXTINF:-1 group-title="American Football – NFL",Domani 13:30 - Indianapolis Colts at Washington Commanders [NFL Network]
 https://august.ppvtv.icu/embed.html?match=c18sih92&server=0
@@ -163,9 +133,6 @@ https://august.ppvtv.icu/embed.html?match=c1n44u4&server=0
 #EXTINF:-1 group-title="American Football – NFL",Domani 17:00 - Dallas Cowboys at Houston Texans [FOX]
 https://august.ppvtv.icu/embed.html?match=chsqp7r&server=0
 
-#EXTINF:-1 group-title="Darts – Darts",Domani 18:00 - 2026 World Grand Prix | Day 5 [Sky Sports+]
-https://august.ppvtv.icu/embed.html?match=c1ujnmgf&server=0
-
 #EXTINF:-1 group-title="American Football – Canadian Football",Domani 19:00 - BC Lions at Toronto Argonauts [CFL+]
 https://august.ppvtv.icu/embed.html?match=c1foehlu&server=0
 
@@ -198,9 +165,6 @@ https://august.ppvtv.icu/embed.html?match=csf42bk&server=0
 
 #EXTINF:-1 group-title="American Football – NFL",Domani 20:25 - Los Angeles Chargers at Seattle Seahawks [CBS]
 https://august.ppvtv.icu/embed.html?match=c14jvtd4&server=0
-
-#EXTINF:-1 group-title="American Football – Canadian Football",Domani 23:00 - Hamilton Tiger-Cats at Ottawa RedBlacks [CFL+]
-https://august.ppvtv.icu/embed.html?match=czia0xf&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Domani 23:00 - BYU Cougars at TCU Horned Frogs [ESPN]
 https://august.ppvtv.icu/embed.html?match=cz2uwfq&server=0

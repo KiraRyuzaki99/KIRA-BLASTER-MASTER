@@ -1,26 +1,155 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA SPO - Playlist
 
-#EXTINF:-1 group-title="SPO",01/10/2026 23:00 - Curaçao x Trinidad and Tobago - hd1
-https://w6.sportsonliine.click/channels/hd/hd1.php
-
-#EXTINF:-1 group-title="SPO",01/10/2026 01:00 - Dominican Republic x Haiti - hd1
-https://w6.sportsonliine.click/channels/hd/hd1.php
-
-#EXTINF:-1 group-title="SPO",01/10/2026 01:00 - MotoGP: Japan Free Practice - hd2
+#EXTINF:-1 group-title="SPO",02/10/2026 05:15 - MotoGP: Japan Practice - hd2
 https://w6.sportsonliine.click/channels/hd/hd2.php
 
-#EXTINF:-1 group-title="SPO",01/10/2026 01:00 - MotoGP: Japan Free Practice - sporttv4
+#EXTINF:-1 group-title="SPO",02/10/2026 05:15 - MotoGP: Japan Practice - sporttv4
 https://w6.sportsonliine.click/channels/pt/sporttv4.php
 
-#EXTINF:-1 group-title="SPO",01/10/2026 01:00 - MotoGP: Japan Free Practice - br6
+#EXTINF:-1 group-title="SPO",02/10/2026 05:15 - MotoGP: Japan Practice - br6
 https://w6.sportsonliine.click/channels/bra/br6.php
 
-#EXTINF:-1 group-title="SPO",01/10/2026 01:15 - Platense x Estudiantes - sporttv1
+#EXTINF:-1 group-title="SPO",02/10/2026 05:15 - Bahrain F1 GP: Practice 1 - hd5
+https://w6.sportsonliine.click/channels/hd/hd5.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 05:15 - Bahrain F1 GP: Practice 1 - hd7
+https://w6.sportsonliine.click/channels/hd/hd7.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 05:15 - Bahrain F1 GP: Practice 1 - br4
+https://w6.sportsonliine.click/channels/bra/br4.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 06:00 - Tennis: ATP World Tour 500: Beijing - sporttv1
 https://w6.sportsonliine.click/channels/pt/sporttv1.php
 
-#EXTINF:-1 group-title="SPO",01/10/2026 03:00 - Nicaragua x Costa Rica - hd1
+#EXTINF:-1 group-title="SPO",02/10/2026 08:00 - Tennis: ATP World Tour 500: Tokyo - sporttv2
+https://w6.sportsonliine.click/channels/pt/sporttv2.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 09:00 - Bahrain F1 GP: Practice 2 - hd5
+https://w6.sportsonliine.click/channels/hd/hd5.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 09:00 - Bahrain F1 GP: Practice 2 - hd7
+https://w6.sportsonliine.click/channels/hd/hd7.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 09:00 - Bahrain F1 GP: Practice 2 - br4
+https://w6.sportsonliine.click/channels/bra/br4.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 15:00 - Kazakhstan x Moldova - hd1
 https://w6.sportsonliine.click/channels/hd/hd1.php
 
-#EXTINF:-1 group-title="SPO",01/10/2026 03:00 - Tennis: ATP World Tour 500: Tokyo - sporttv2
+#EXTINF:-1 group-title="SPO",02/10/2026 15:00 - Kazakhstan X Moldova - sporttv2
 https://w6.sportsonliine.click/channels/pt/sporttv2.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 15:00 - Kazakhstan X Moldova - br6
+https://w6.sportsonliine.click/channels/bra/br6.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 17:00 - Latvia x Montenegro - hd11
+https://w6.sportsonliine.click/channels/hd/hd11.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 17:00 - Latvia X Montenegro - sporttv2
+https://w6.sportsonliine.click/channels/pt/sporttv2.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 17:00 - Cyprus x Armenia - hd3
+https://w6.sportsonliine.click/channels/hd/hd3.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 17:00 - Cyprus x Armenia - sporttv3
+https://w6.sportsonliine.click/channels/pt/sporttv3.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 18:00 - Deportivo Coruña x Porto - sporttv1
+https://w6.sportsonliine.click/channels/pt/sporttv1.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 19:45 - Belgium x Turkey - hd3
+https://w6.sportsonliine.click/channels/hd/hd3.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 19:45 - Belgium x Turkey - hd11
+https://w6.sportsonliine.click/channels/hd/hd11.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 19:45 - Belgium x Turkey - sporttv3
+https://w6.sportsonliine.click/channels/pt/sporttv3.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 19:45 - Belgium x Turkey - br1
+https://w6.sportsonliine.click/channels/bra/br1.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 19:45 - France x Italy - hd2
+https://w6.sportsonliine.click/channels/hd/hd2.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 19:45 - France x Italy - hd4
+https://w6.sportsonliine.click/channels/hd/hd4.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 19:45 - France x Italy - hd7
+https://w6.sportsonliine.click/channels/hd/hd7.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 19:45 - France X Italy - sporttv2
+https://w6.sportsonliine.click/channels/pt/sporttv2.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 19:45 - France X Italy - br2
+https://w6.sportsonliine.click/channels/bra/br2.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 19:45 - Bosnia and Herzegovina x Sweden - sporttv5
+https://w6.sportsonliine.click/channels/pt/sporttv5.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 19:45 - Poland x Romania - hd9
+https://w6.sportsonliine.click/channels/hd/hd9.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 19:45 - Poland x Romania - sporttv4
+https://w6.sportsonliine.click/channels/pt/sporttv4.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 19:45 - Poland x Romania - br6
+https://w6.sportsonliine.click/channels/bra/br6.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 19:45 - Ukraine x Northern Ireland - hd5
+https://w6.sportsonliine.click/channels/hd/hd5.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 19:45 - Faroe Islands x Slovakia - hd10
+https://w6.sportsonliine.click/channels/hd/hd10.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 19:45 - Hungary x Georgia - hd8
+https://w6.sportsonliine.click/channels/hd/hd8.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 23:00 - Suriname x Guatemala - hd1
+https://w6.sportsonliine.click/channels/hd/hd1.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 23:15 - Independiente x Instituto - hd8
+https://w6.sportsonliine.click/channels/hd/hd8.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 00:00 - São Paulo x Santos - br1
+https://w6.sportsonliine.click/channels/bra/br1.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 01:00 - Martinique x Honduras - hd1
+https://w6.sportsonliine.click/channels/hd/hd1.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 01:00 - Colombia x Paraguay - hd9
+https://w6.sportsonliine.click/channels/hd/hd9.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 01:30 - Boca Juniors x Unión Santa Fe - hd8
+https://w6.sportsonliine.click/channels/hd/hd8.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 01:30 - Boca Juniors x Unión Santa Fe - sporttv1
+https://w6.sportsonliine.click/channels/pt/sporttv1.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 01:30 - Independiente Rivadavia x Gimnasia La Plata - hd6
+https://w6.sportsonliine.click/channels/hd/hd6.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 01:30 - Fortaleza x Náutico - br2
+https://w6.sportsonliine.click/channels/bra/br2.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 01:45 - Deportivo Cali x Alianza - hd11
+https://w6.sportsonliine.click/channels/hd/hd11.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 02:00 - MotoGP: Japan Qualifying - hd2
+https://w6.sportsonliine.click/channels/hd/hd2.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 02:00 - MotoGP: Japan Qualifying - sporttv4
+https://w6.sportsonliine.click/channels/pt/sporttv4.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 02:00 - MotoGP: Japan Qualifying - br6
+https://w6.sportsonliine.click/channels/bra/br6.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 03:00 - El Salvador x Jamaica - hd1
+https://w6.sportsonliine.click/channels/hd/hd1.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 03:00 - Tennis: ATP World Tour 500: Tokyo - sporttv2
+https://w6.sportsonliine.click/channels/pt/sporttv2.php
+
+#EXTINF:-1 group-title="SPO",02/10/2026 04:00 - Tennis: ATP World Tour 500: Beijing - sporttv1
+https://w6.sportsonliine.click/channels/pt/sporttv1.php

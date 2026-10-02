@@ -9,28 +9,7 @@
     "time": "08:00",
     "status": "live",
     "event_url": "https://pogo.pk/events/shenzhen-open-snooker",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/shenzhen-open-snooker/2330",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/shenzhen-open-snooker/2332",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
+    "servers": []
   },
   {
     "title": "Japan Open Tennis Championships ATP Tour",
@@ -42,38 +21,7 @@
     "time": "04:00",
     "status": "live",
     "event_url": "https://pogo.pk/events/japan-open-tennis-championships",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/japan-open-tennis-championships/2395",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/japan-open-tennis-championships/2396",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/japan-open-tennis-championships/2397",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
+    "servers": []
   },
   {
     "title": "Bank of Utah Championship PGA Tour",
@@ -85,18 +33,7 @@
     "time": "18:00",
     "status": "live",
     "event_url": "https://pogo.pk/events/bank-of-utah-championship",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/bank-of-utah-championship/2444",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
+    "servers": []
   },
   {
     "title": "LPGA Lotte Championship PGA Tour",
@@ -108,18 +45,7 @@
     "time": "02:00",
     "status": "live",
     "event_url": "https://pogo.pk/events/lpga-lotte-championship",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/lpga-lotte-championship/2449",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
+    "servers": []
   },
   {
     "title": "MotoGP Japanese GP MotoGP",
@@ -131,18 +57,7 @@
     "time": "02:00",
     "status": "live",
     "event_url": "https://pogo.pk/events/japanese-gp",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/japanese-gp/2414",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
+    "servers": []
   },
   {
     "title": "f1 Bahrain Grand Prix Formula 1",
@@ -154,38 +69,7 @@
     "time": "06:00",
     "status": "live",
     "event_url": "https://pogo.pk/events/f1-bahrain-grand-prix",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/f1-bahrain-grand-prix/2399",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/f1-bahrain-grand-prix/2400",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://pogo.pk/alpha/f1-bahrain-grand-prix/2401",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
+    "servers": []
   },
   {
     "title": "Alfred Dunhill Championship PGA Tour",
@@ -197,353 +81,7 @@
     "time": "12:00",
     "status": "live",
     "event_url": "https://pogo.pk/events/alfred-dunhill-championship",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/alfred-dunhill-championship/2452",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Armenia Cyprus",
-    "category": "Armenia",
-    "logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
-    "start_iso": "2026-10-02T16:00:00.000Z",
-    "end_iso": "2026-10-02T18:15:00.000Z",
-    "date": "Friday, 02 October 2026",
-    "time": "18:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/armenia-vs-cyprus",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/armenia-vs-cyprus/2461",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/armenia-vs-cyprus/2462",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Latvia Montenegro",
-    "category": "Latvia",
-    "logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
-    "start_iso": "2026-10-02T16:00:00.000Z",
-    "end_iso": "2026-10-02T18:15:00.000Z",
-    "date": "Friday, 02 October 2026",
-    "time": "18:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/latvia-vs-montenegro",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/latvia-vs-montenegro/2463",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/latvia-vs-montenegro/2464",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Turkiye Belgium",
-    "category": "Turkiye",
-    "logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
-    "start_iso": "2026-10-02T18:45:00.000Z",
-    "end_iso": "2026-10-02T21:00:00.000Z",
-    "date": "Friday, 02 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/turkey-vs-belgium",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/turkey-vs-belgium/2465",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/turkey-vs-belgium/2466",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/turkey-vs-belgium/2470",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Ukraine Northern Ireland",
-    "category": "Ukraine",
-    "logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
-    "start_iso": "2026-10-02T18:45:00.000Z",
-    "end_iso": "2026-10-02T21:00:00.000Z",
-    "date": "Friday, 02 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/ukraine-vs-northern-ireland",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/ukraine-vs-northern-ireland/2471",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/ukraine-vs-northern-ireland/2472",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Hungary Georgia",
-    "category": "Hungary",
-    "logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
-    "start_iso": "2026-10-02T18:45:00.000Z",
-    "end_iso": "2026-10-02T21:00:00.000Z",
-    "date": "Friday, 02 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/hungary-vs-georgia",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/hungary-vs-georgia/2474",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Poland Romania",
-    "category": "Poland",
-    "logo": "https://cdn.img4every1.org/team/poland/logo.webp",
-    "start_iso": "2026-10-02T18:45:00.000Z",
-    "end_iso": "2026-10-02T21:00:00.000Z",
-    "date": "Friday, 02 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/poland-vs-romania",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/poland-vs-romania/2475",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/poland-vs-romania/2477",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Bosnia and Herzegovina Sweden",
-    "category": "Bosnia and Herzegovina",
-    "logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
-    "start_iso": "2026-10-02T18:45:00.000Z",
-    "end_iso": "2026-10-02T21:00:00.000Z",
-    "date": "Friday, 02 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/bosnia-vs-sweden",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/bosnia-vs-sweden/2476",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/bosnia-vs-sweden/2478",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Faroe Islands Slovakia",
-    "category": "Faroe Islands",
-    "logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
-    "start_iso": "2026-10-02T18:45:00.000Z",
-    "end_iso": "2026-10-02T21:00:00.000Z",
-    "date": "Friday, 02 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/faroe-islands-vs-slovakia",
     "servers": []
-  },
-  {
-    "title": "Stormers Edinburgh",
-    "category": "Stormers",
-    "logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
-    "start_iso": "2026-10-02T18:45:00.000Z",
-    "end_iso": "2026-10-02T21:00:00.000Z",
-    "date": "Friday, 02 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/stormers-vs-edinburgh",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/stormers-vs-edinburgh/2454",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Benetton Connacht",
-    "category": "Benetton",
-    "logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
-    "start_iso": "2026-10-02T18:45:00.000Z",
-    "end_iso": "2026-10-02T21:00:00.000Z",
-    "date": "Friday, 02 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/benetton-treviso-vs-connacht",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/benetton-treviso-vs-connacht/2455",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Cardiff Blues Zebre",
-    "category": "Cardiff Blues",
-    "logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-    "start_iso": "2026-10-02T18:45:00.000Z",
-    "end_iso": "2026-10-02T21:00:00.000Z",
-    "date": "Friday, 02 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/cardiff-blues-vs-zebre",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/cardiff-blues-vs-zebre/2453",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Bath Rugby Exeter Chiefs",
-    "category": "Bath Rugby",
-    "logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
-    "start_iso": "2026-10-02T18:45:00.000Z",
-    "end_iso": "2026-10-02T21:00:00.000Z",
-    "date": "Friday, 02 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/bath-vs-exeter",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/bath-vs-exeter/2456",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
   },
   {
     "title": "Colombia Paraguay",
@@ -555,18 +93,7 @@
     "time": "02:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/colombia-vs-paraguay",
-    "servers": [
-      {
-        "label": "Español",
-        "url": "https://pogo.pk/alpha/colombia-vs-paraguay/2484",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
+    "servers": []
   },
   {
     "title": "Chesterfield Tranmere Rovers",
@@ -578,28 +105,7 @@
     "time": "13:30",
     "status": "next",
     "event_url": "https://pogo.pk/events/chesterfield-vs-tranmere-rovers",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/chesterfield-vs-tranmere-rovers/2481",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/chesterfield-vs-tranmere-rovers/2482",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
+    "servers": []
   },
   {
     "title": "Manchester United Liverpool",
@@ -611,18 +117,19 @@
     "time": "14:30",
     "status": "next",
     "event_url": "https://pogo.pk/events/man-united-vs-liverpool",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/man-united-vs-liverpool/2483",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
+    "servers": []
+  },
+  {
+    "title": "Albania Finland",
+    "category": "Albania",
+    "logo": "https://cdn.img4every1.org/team/albania/logo.webp",
+    "start_iso": "2026-10-03T13:00:00.000Z",
+    "end_iso": "2026-10-03T15:15:00.000Z",
+    "date": "Saturday, 03 October 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/albania-vs-finland",
+    "servers": []
   },
   {
     "title": "India Brazil",
@@ -634,48 +141,7 @@
     "time": "16:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/india-vs-brazil",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/india-vs-brazil/2485",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/india-vs-brazil/2486",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/india-vs-brazil/2487",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Portuguese",
-        "url": "https://pogo.pk/alpha/india-vs-brazil/2488",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
-        }
-      }
-    ]
+    "servers": []
   },
   {
     "title": "Burton Albion Huddersfield Town",
@@ -687,18 +153,7 @@
     "time": "16:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/burton-albion-vs-huddersfield-town",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/burton-albion-vs-huddersfield-town/2479",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
+    "servers": []
   },
   {
     "title": "Bradford City Reading",
@@ -710,18 +165,55 @@
     "time": "16:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/bradford-city-vs-reading",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/bradford-city-vs-reading/2480",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
+    "servers": []
+  },
+  {
+    "title": "England Croatia",
+    "category": "England",
+    "logo": "https://cdn.img4every1.org/team/england/logo.webp",
+    "start_iso": "2026-10-03T16:00:00.000Z",
+    "end_iso": "2026-10-03T18:15:00.000Z",
+    "date": "Saturday, 03 October 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/england-vs-croatia",
+    "servers": []
+  },
+  {
+    "title": "Belarus San Marino",
+    "category": "Belarus",
+    "logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
+    "start_iso": "2026-10-03T16:00:00.000Z",
+    "end_iso": "2026-10-03T18:15:00.000Z",
+    "date": "Saturday, 03 October 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/belarus-vs-san-marino",
+    "servers": []
+  },
+  {
+    "title": "Estonia Luxembourg",
+    "category": "Estonia",
+    "logo": "https://cdn.img4every1.org/team/estonia/logo.webp",
+    "start_iso": "2026-10-03T16:00:00.000Z",
+    "end_iso": "2026-10-03T18:15:00.000Z",
+    "date": "Saturday, 03 October 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/estonia-vs-luxembourg",
+    "servers": []
+  },
+  {
+    "title": "Iceland Bulgaria",
+    "category": "Iceland",
+    "logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
+    "start_iso": "2026-10-03T16:00:00.000Z",
+    "end_iso": "2026-10-03T18:15:00.000Z",
+    "date": "Saturday, 03 October 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/iceland-vs-bulgaria",
+    "servers": []
   },
   {
     "title": "Canada Peru",
@@ -733,6 +225,18 @@
     "time": "20:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/canada-vs-peru",
+    "servers": []
+  },
+  {
+    "title": "Spain Czechia",
+    "category": "Spain",
+    "logo": "https://cdn.img4every1.org/team/spain/logo.webp",
+    "start_iso": "2026-10-03T18:45:00.000Z",
+    "end_iso": "2026-10-03T21:00:00.000Z",
+    "date": "Saturday, 03 October 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/spain-vs-czechia",
     "servers": []
   },
   {
@@ -769,27 +273,6 @@
     "time": "15:30",
     "status": "next",
     "event_url": "https://pogo.pk/events/commanders-vs-colts",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/commanders-vs-colts/2405",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/commanders-vs-colts/2406",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
+    "servers": []
   }
 ]

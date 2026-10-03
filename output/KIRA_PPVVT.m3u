@@ -1,44 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="American Football – College Football",Oggi 16:00 - Notre Dame Fighting Irish at North Carolina Tar Heels [ESPN]
-https://august.ppvtv.icu/embed.html?match=c1u9o0y7&server=0
-
-#EXTINF:-1 group-title="American Football – College Football",Oggi 16:00 - Notre Dame Fighting Irish at North Carolina Tar Heels [SkyCast]
-https://august.ppvtv.icu/embed.html?match=c1u9o0y7&server=1
-
-#EXTINF:-1 group-title="American Football – College Football",Oggi 16:00 - Alabama Crimson Tide at Mississippi State Bulldogs [ABC]
-https://august.ppvtv.icu/embed.html?match=c6hskf7&server=0
-
-#EXTINF:-1 group-title="American Football – College Football",Oggi 16:00 - Alabama Crimson Tide at Mississippi State Bulldogs [SkyCast]
-https://august.ppvtv.icu/embed.html?match=c6hskf7&server=1
-
-#EXTINF:-1 group-title="American Football – College Football",Oggi 16:00 - UCF Knights at Houston Cougars [ESPN2]
-https://august.ppvtv.icu/embed.html?match=c1yu6jer&server=0
-
-#EXTINF:-1 group-title="American Football – College Football",Oggi 16:00 - Boston College Eagles at SMU Mustangs [CW]
-https://august.ppvtv.icu/embed.html?match=c179a4ur&server=0
-
-#EXTINF:-1 group-title="American Football – College Football",Oggi 16:45 - Vanderbilt Commodores at Georgia Bulldogs [SEC Network]
-https://august.ppvtv.icu/embed.html?match=c1hhw4js&server=0
-
-#EXTINF:-1 group-title="Baseball – MLB",Oggi 17:00 - Chicago White Sox vs. Cleveland Guardians [TBS]
-https://august.ppvtv.icu/embed.html?match=f1ut6rtf&server=0
-
 #EXTINF:-1 group-title="Combat Sports – Boxing",Oggi 18:00 - Whittaker vs. Wallace [DAZN]
 https://august.ppvtv.icu/embed.html?match=f1xbbvzk&server=0
-
-#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - North Macedonia vs. Scotland [DAZN]
-https://august.ppvtv.icu/embed.html?match=fompj7j&server=0
-
-#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - Spain vs. Czechia [DAZN]
-https://august.ppvtv.icu/embed.html?match=f1p0w9en&server=0
-
-#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - Switzerland vs. Slovenia [DAZN]
-https://august.ppvtv.icu/embed.html?match=f12tzgjh&server=0
-
-#EXTINF:-1 group-title="American Football – Canadian Football",Oggi 19:00 - BC Lions at Toronto Argonauts [CFL+]
-https://august.ppvtv.icu/embed.html?match=c1foehlu&server=0
 
 #EXTINF:-1 group-title="Darts – Darts",Oggi 19:00 - 2026 World Grand Prix | Day 6 [Sky Sports+]
 https://august.ppvtv.icu/embed.html?match=c1hj94cy&server=0
@@ -76,7 +40,7 @@ https://august.ppvtv.icu/embed.html?match=cz2uwfq&server=0
 #EXTINF:-1 group-title="American Football – College Football",Oggi 23:00 - BYU Cougars at TCU Horned Frogs [SkyCast]
 https://august.ppvtv.icu/embed.html?match=cz2uwfq&server=1
 
-#EXTINF:-1 group-title="American Football – Canadian Football",Oggi 23:00 - Winnipeg Blue Bombers at Montreal Alouettes [CFL+]
+#EXTINF:-1 group-title="American Football – Canadian Football",Oggi 23:00 - Winnipeg Blue Bombers at Montreal Alouettes [TSN5]
 https://august.ppvtv.icu/embed.html?match=c1t5wnva&server=0
 
 #EXTINF:-1 group-title="Basketball – NBA",Oggi 23:00 - Miami Heat vs. Toronto Raptors [NBA TV]
@@ -145,6 +109,9 @@ https://august.ppvtv.icu/embed.html?match=catannm&server=0
 #EXTINF:-1 group-title="Golf – 24/7 channel",Oggi N/A - Sky Sports Golf [NOWTV]
 https://august.ppvtv.icu/embed.html?match=cn95ea5&server=0
 
+#EXTINF:-1 group-title="Ice Hockey – 24/7 channel",Oggi N/A - NHL Network [NHL Network]
+https://august.ppvtv.icu/embed.html?match=c1812uod&server=0
+
 #EXTINF:-1 group-title="Rugby – 24/7 channel",Oggi N/A - Fox League [Kayo]
 https://august.ppvtv.icu/embed.html?match=chsgr4k&server=0
 
@@ -186,6 +153,9 @@ https://august.ppvtv.icu/embed.html?match=f7iuhyn&server=0
 
 #EXTINF:-1 group-title="Ice Hockey – NHL",Domani 02:00 - Los Angeles Kings vs. San Jose Sharks [NBC Sports BA]
 https://august.ppvtv.icu/embed.html?match=f1qth8kb&server=0
+
+#EXTINF:-1 group-title="American Football – College Football",Domani 02:30 - Texas State Bobcats at San Diego State Aztecs [CW]
+https://august.ppvtv.icu/embed.html?match=c1tn55ma&server=0
 
 #EXTINF:-1 group-title="Basketball – NBL",Domani 04:00 - South East Melbourne Phoenix vs. Illawarra Hawks [ESPN]
 https://august.ppvtv.icu/embed.html?match=fapzxyo&server=0

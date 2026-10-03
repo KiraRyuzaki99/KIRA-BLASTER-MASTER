@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 13:00 - Finland vs. Albania [DAZN]
-https://august.ppvtv.icu/embed.html?match=f2d8oj&server=0
-
-#EXTINF:-1 group-title="Football – National League",Oggi 14:00 - Eastleigh vs. Woking [DAZN National League]
-https://august.ppvtv.icu/embed.html?match=f93gbj5&server=0
-
-#EXTINF:-1 group-title="Football – EFL League Two",Oggi 14:00 - Rochdale vs. Swindon Town [Sky Sports+]
-https://august.ppvtv.icu/embed.html?match=f1r74a7f&server=0
-
-#EXTINF:-1 group-title="Football – National League",Oggi 14:00 - Hartlepool United vs. Tamworth [DAZN National League]
-https://august.ppvtv.icu/embed.html?match=fd4jl6d&server=0
-
 #EXTINF:-1 group-title="American Football – College Football",Oggi 16:00 - Notre Dame Fighting Irish at North Carolina Tar Heels [ESPN]
 https://august.ppvtv.icu/embed.html?match=c1u9o0y7&server=0
 
@@ -30,18 +18,6 @@ https://august.ppvtv.icu/embed.html?match=c1yu6jer&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Oggi 16:00 - Boston College Eagles at SMU Mustangs [CW]
 https://august.ppvtv.icu/embed.html?match=c179a4ur&server=0
-
-#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 16:00 - Belarus vs. San Marino [DAZN]
-https://august.ppvtv.icu/embed.html?match=f1xa2b73&server=0
-
-#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 16:00 - Croatia vs. England [DAZN]
-https://august.ppvtv.icu/embed.html?match=f1sr2amn&server=0
-
-#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 16:00 - Estonia vs. Luxembourg [DAZN]
-https://august.ppvtv.icu/embed.html?match=f57byho&server=0
-
-#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 16:00 - Iceland vs. Bulgaria [DAZN]
-https://august.ppvtv.icu/embed.html?match=f1emt2x6&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Oggi 16:45 - Vanderbilt Commodores at Georgia Bulldogs [SEC Network]
 https://august.ppvtv.icu/embed.html?match=c1hhw4js&server=0
@@ -240,6 +216,9 @@ https://august.ppvtv.icu/embed.html?match=cgdu5nb&server=5
 
 #EXTINF:-1 group-title="Motorsports – Formula 1",Domani 07:00 - Bahrain Grand Prix - Race [Viaplay]
 https://august.ppvtv.icu/embed.html?match=cgdu5nb&server=6
+
+#EXTINF:-1 group-title="Motorsports – Motocross",Domani 07:15 - Motocross of Nations | Day 3 [MXGP-TV]
+https://august.ppvtv.icu/embed.html?match=cpbmlrw&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 08:00 - 24/7 Family Guy [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c418ukt&server=0

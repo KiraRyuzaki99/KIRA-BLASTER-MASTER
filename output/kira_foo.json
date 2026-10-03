@@ -84,18 +84,6 @@
     "servers": []
   },
   {
-    "title": "Colombia Paraguay",
-    "category": "Colombia",
-    "logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
-    "start_iso": "2026-10-03T00:00:00.000Z",
-    "end_iso": "2026-10-03T02:15:00.000Z",
-    "date": "Saturday, 03 October 2026",
-    "time": "02:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/colombia-vs-paraguay",
-    "servers": []
-  },
-  {
     "title": "Chesterfield Tranmere Rovers",
     "category": "Chesterfield",
     "logo": "https://cdn.img4every1.org/team/chesterfield/logo.webp",
@@ -132,18 +120,6 @@
     "servers": []
   },
   {
-    "title": "India Brazil",
-    "category": "India",
-    "logo": "https://cdn.img4every1.org/team/india/logo.webp",
-    "start_iso": "2026-10-03T14:00:00.000Z",
-    "end_iso": "2026-10-03T16:15:00.000Z",
-    "date": "Saturday, 03 October 2026",
-    "time": "16:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/india-vs-brazil",
-    "servers": []
-  },
-  {
     "title": "Burton Albion Huddersfield Town",
     "category": "Burton Albion",
     "logo": "https://cdn.img4every1.org/team/burton-albion/logo.webp",
@@ -165,6 +141,18 @@
     "time": "16:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/bradford-city-vs-reading",
+    "servers": []
+  },
+  {
+    "title": "India Brazil",
+    "category": "India",
+    "logo": "https://cdn.img4every1.org/team/india/logo.webp",
+    "start_iso": "2026-10-03T14:00:00.000Z",
+    "end_iso": "2026-10-03T16:15:00.000Z",
+    "date": "Saturday, 03 October 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/india-vs-brazil",
     "servers": []
   },
   {

@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="10:00 Liga Fem -  Real Madrid Academy - FPA Las Rozas" group-title="Liga Fem",10:00 Liga Fem -  Real Madrid Academy - FPA Las Rozas
 acestream://44ea3d00ee2abfd5d89792a32851d7af61f16f0a
-#EXTINF:-1 tvg-name="10:30 Torneo de Tokio - 1/4 de Final J. Lehecka - A.D. Vallejo" group-title="Torneo de Tokio",10:30 Torneo de Tokio - 1/4 de Final J. Lehecka - A.D. Vallejo
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-name="10:30 Torneo de Tokio - 1/4 de Final D. Medvedev - F. Cerúndolo" group-title="Torneo de Tokio",10:30 Torneo de Tokio - 1/4 de Final D. Medvedev - F. Cerúndolo
+#EXTINF:-1 tvg-name="10:40 Nascar -  D. Medvedev - F. Cerúndolo" group-title="Nascar",10:40 Nascar -  D. Medvedev - F. Cerúndolo
 acestream://8b5f9d967384afab226dd759e6e9dfaee9993869
 #EXTINF:-1 tvg-name="11:00 Las Carreras -  Hipódromo de La Zarzuela 04/10/2026" group-title="Las Carreras",11:00 Las Carreras -  Hipódromo de La Zarzuela 04/10/2026
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 tvg-name="11:50 Torneo de Tokio - 1/4 de Final J. Lehecka - A.D. Vallejo" group-title="Torneo de Tokio",11:50 Torneo de Tokio - 1/4 de Final J. Lehecka - A.D. Vallejo
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTINF:-1 tvg-name="12:00 Liga Fem -  Costa Adeje Tenerife - Logroño United Femenino" group-title="Liga Fem",12:00 Liga Fem -  Costa Adeje Tenerife - Logroño United Femenino
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-name="12:00 Liga Fem -  Granada Femenino - Eibar Femenino" group-title="Liga Fem",12:00 Liga Fem -  Granada Femenino - Eibar Femenino
@@ -35,26 +35,26 @@ acestream://872608e734992db636eb79426802cd08f4029afb
 acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
 #EXTINF:-1 tvg-name="12:30 WXV Global Series Women -  CR El Salvador - CR Liceo Francés" group-title="WXV Global Series Women",12:30 WXV Global Series Women -  CR El Salvador - CR Liceo Francés
 acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
-#EXTINF:-1 tvg-name="13:00 Torneo de Tokio - 1/4 de Final A. Zverev - N. Djokovic" group-title="Torneo de Tokio",13:00 Torneo de Tokio - 1/4 de Final A. Zverev - N. Djokovic
+#EXTINF:-1 tvg-name="13:10 Nascar -  A. Zverev - N. Djokovic" group-title="Nascar",13:10 Nascar -  A. Zverev - N. Djokovic
 acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-name="13:00 Torneo de Tokio - 1/4 de Final S. Bejlek - N. Osaka" group-title="Torneo de Tokio",13:00 Torneo de Tokio - 1/4 de Final S. Bejlek - N. Osaka
+#EXTINF:-1 tvg-name="13:10 Torneo de Tokio - 1/4 de Final S. Bejlek - N. Osaka" group-title="Torneo de Tokio",13:10 Torneo de Tokio - 1/4 de Final S. Bejlek - N. Osaka
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1 tvg-name="13:59 Las Carreras -  CSIO Barcelona. Longines League of Nations Final Primera Manga" group-title="Las Carreras",13:59 Las Carreras -  CSIO Barcelona. Longines League of Nations Final Primera Manga
+acestream://8b5f9d967384afab226dd759e6e9dfaee9993869
 #EXTINF:-1 tvg-name="14:00 Segunda -  Real Sociedad B - Granada CF" group-title="Segunda",14:00 Segunda -  Real Sociedad B - Granada CF
 acestream://60952921b847a9c560741b0d8048a2d8ad194a7f
 #EXTINF:-1 tvg-name="14:15 1RFEF - Grupo 2 Huesca - CE Europa" group-title="1RFEF",14:15 1RFEF - Grupo 2 Huesca - CE Europa
 acestream://177796041773be99b489dd3ce86144f243e7355f
-#EXTINF:-1 tvg-name="14:30 Torneo de Tokio - 1/4 de Final K. Muchova - L. Samsonova" group-title="Torneo de Tokio",14:30 Torneo de Tokio - 1/4 de Final K. Muchova - L. Samsonova
-acestream://a4cbadd19442b800727be713270fa9c917cc8582
 #EXTINF:-1 tvg-name="14:40 CSIO Barcelona -  Liga de las Naciones - Segunda manga" group-title="CSIO Barcelona",14:40 CSIO Barcelona -  Liga de las Naciones - Segunda manga
 acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1 tvg-name="14:45 CSIO Barcelona -  CSIO Barcelona. Longines League of Nations Final Primera Manga" group-title="CSIO Barcelona",14:45 CSIO Barcelona -  CSIO Barcelona. Longines League of Nations Final Primera Manga
-acestream://8b5f9d967384afab226dd759e6e9dfaee9993869
 #EXTINF:-1 tvg-name="15:00 LaLiga Futures - Semifinales CR Flamengo Academy - River Plate Academy" group-title="LaLiga Futures",15:00 LaLiga Futures - Semifinales CR Flamengo Academy - River Plate Academy
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-name="15:30 NFL - Liga Regular Washington Commanders - Indianápolis Colts" group-title="NFL",15:30 NFL - Liga Regular Washington Commanders - Indianápolis Colts
 acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-name="15:45 LaLiga Futures - Semifinales At. Madrid Academy - Real Betis Academy" group-title="LaLiga Futures",15:45 LaLiga Futures - Semifinales At. Madrid Academy - Real Betis Academy
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1 tvg-name="15:45 Torneo de Tokio - 1/4 de Final K. Muchova - L. Samsonova" group-title="Torneo de Tokio",15:45 Torneo de Tokio - 1/4 de Final K. Muchova - L. Samsonova
+acestream://a4cbadd19442b800727be713270fa9c917cc8582
 #EXTINF:-1 tvg-name="16:00 Rotterdam Open -  Final Femenina - Premier Padel Tour" group-title="Rotterdam Open",16:00 Rotterdam Open -  Final Femenina - Premier Padel Tour
 acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
 #EXTINF:-1 tvg-name="16:00 Gallagher Premiership -  Saracens - Sale Sharks" group-title="Gallagher Premiership",16:00 Gallagher Premiership -  Saracens - Sale Sharks
@@ -63,6 +63,8 @@ acestream://3afe1af18f8ff78e9946856911b00c67477052b5
 acestream://60952921b847a9c560741b0d8048a2d8ad194a7f
 #EXTINF:-1 tvg-name="16:30 1RFEF - Grupo 1 Ponferradina - Mirandés" group-title="1RFEF",16:30 1RFEF - Grupo 1 Ponferradina - Mirandés
 acestream://177796041773be99b489dd3ce86144f243e7355f
+#EXTINF:-1 tvg-name="16:37 Las Carreras -  CSIO Barcelona. Longines League of Nations Final Segunda Manga" group-title="Las Carreras",16:37 Las Carreras -  CSIO Barcelona. Longines League of Nations Final Segunda Manga
+acestream://8b5f9d967384afab226dd759e6e9dfaee9993869
 #EXTINF:-1 tvg-name="17:00 LaLiga Futures -  Final Consolación" group-title="LaLiga Futures",17:00 LaLiga Futures -  Final Consolación
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-name="17:00 2RFEF - Grupo 2 Reus FC Reddis - CE Manresa" group-title="2RFEF",17:00 2RFEF - Grupo 2 Reus FC Reddis - CE Manresa
@@ -75,12 +77,8 @@ acestream://a9299052e9a16e5e2924e1fdd00b877c374f9e96
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-name="17:30 Rotterdam Open -  Final Masculina - Premier Padel Tour" group-title="Rotterdam Open",17:30 Rotterdam Open -  Final Masculina - Premier Padel Tour
 acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
-#EXTINF:-1 tvg-name="17:30 CSIO Barcelona -  CSIO Barcelona. Longines League of Nations Final Segunda Manga" group-title="CSIO Barcelona",17:30 CSIO Barcelona -  CSIO Barcelona. Longines League of Nations Final Segunda Manga
-acestream://8b5f9d967384afab226dd759e6e9dfaee9993869
 #EXTINF:-1 tvg-name="18:00 Liga Fem - Liga Regular BAXI Ferrol - Kutxabank Araski" group-title="Liga Fem",18:00 Liga Fem - Liga Regular BAXI Ferrol - Kutxabank Araski
 acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
-#EXTINF:-1 tvg-name="18:00 ACB - Liga Regular Baskonia - Basquet Girona" group-title="ACB",18:00 ACB - Liga Regular Baskonia - Basquet Girona
-acestream://853129258a5cb51f27829eddb934e58b45978344
 #EXTINF:-1 tvg-name="18:30 Segunda -  UD Las Palmas - Real Valladolid" group-title="Segunda",18:30 Segunda -  UD Las Palmas - Real Valladolid
 acestream://60952921b847a9c560741b0d8048a2d8ad194a7f
 #EXTINF:-1 tvg-name="18:30 Segunda -  CD Castellón - AD Ceuta" group-title="Segunda",18:30 Segunda -  CD Castellón - AD Ceuta
@@ -90,13 +88,17 @@ acestream://177796041773be99b489dd3ce86144f243e7355f
 #EXTINF:-1 tvg-name="18:45 Coppa Agostoni -  Descenso F" group-title="Coppa Agostoni",18:45 Coppa Agostoni -  Descenso F
 acestream://48a589dbeab3544662fafd79888aada7d834cfe9
 #EXTINF:-1 tvg-name="19:00 Liga Fem -  FC Barcelona Femenino - Real Madrid Femenino" group-title="Liga Fem",19:00 Liga Fem -  FC Barcelona Femenino - Real Madrid Femenino
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-name="19:00 ACB - Liga Regular UCAM Murcia CB - Barça Basket" group-title="ACB",19:00 ACB - Liga Regular UCAM Murcia CB - Barça Basket
 acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1 tvg-name="19:00 ACB - Liga Regular Baskonia - Basquet Girona" group-title="ACB",19:00 ACB - Liga Regular Baskonia - Basquet Girona
+acestream://853129258a5cb51f27829eddb934e58b45978344
 #EXTINF:-1 tvg-name="19:00 NFL - Liga Regular Philadelphia Eagles - Los Angeles Rams" group-title="NFL",19:00 NFL - Liga Regular Philadelphia Eagles - Los Angeles Rams
 acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-name="19:30 Liga Fem -  Valencia Féminas - Real Sociedad Femenino" group-title="Liga Fem",19:30 Liga Fem -  Valencia Féminas - Real Sociedad Femenino
 acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884
+#EXTINF:-1 tvg-name="20:00 WNBA -  Atlanta Dream - New York Liberty" group-title="WNBA",20:00 WNBA -  Atlanta Dream - New York Liberty
+acestream://4048be88f84250719e864868e537612f389df48e
 #EXTINF:-1 tvg-name="20:00 Coppa Agostoni -  Descenso M" group-title="Coppa Agostoni",20:00 Coppa Agostoni -  Descenso M
 acestream://48a589dbeab3544662fafd79888aada7d834cfe9
 #EXTINF:-1 tvg-name="20:45 UEFA Nations League - Fase de grupos Portugal - Noruega" group-title="UEFA Nations League",20:45 UEFA Nations League - Fase de grupos Portugal - Noruega
@@ -115,5 +117,13 @@ acestream://872608e734992db636eb79426802cd08f4029afb
 acestream://8ef4e74336a0114d6def70de9d15cc4817d2f350
 #EXTINF:-1 tvg-name="02:20 NFL - Liga Regular Carolina Panthers - Detroit Lions" group-title="NFL",02:20 NFL - Liga Regular Carolina Panthers - Detroit Lions
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-name="05:05 Mundial Femenino - Fase de grupos 3ª Ronda - WTA 1000" group-title="Mundial Femenino",05:05 Mundial Femenino - Fase de grupos 3ª Ronda - WTA 1000
+#EXTINF:-1 tvg-name="05:00 Mundial Femenino - Fase de grupos D. Vekic - I. Swiatek" group-title="Mundial Femenino",05:00 Mundial Femenino - Fase de grupos D. Vekic - I. Swiatek
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1 tvg-name="06:30 Mundial Femenino - Fase de grupos M. Bouzkova - Q. Zheng" group-title="Mundial Femenino",06:30 Mundial Femenino - Fase de grupos M. Bouzkova - Q. Zheng
+acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1 tvg-name="08:00 Mundial Femenino - Fase de grupos A. De Miñaur - H. Hurkacz" group-title="Mundial Femenino",08:00 Mundial Femenino - Fase de grupos A. De Miñaur - H. Hurkacz
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 tvg-name="09:00 Mundial Femenino - Fase de grupos B. Bencic - A. Li" group-title="Mundial Femenino",09:00 Mundial Femenino - Fase de grupos B. Bencic - A. Li
+acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1 tvg-name="09:00 Torneo de Tokio - Semifinal 1 C. Alcaraz - J. Munar" group-title="Torneo de Tokio",09:00 Torneo de Tokio - Semifinal 1 C. Alcaraz - J. Munar
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb

@@ -12,7 +12,7 @@
     "servers": [
       {
         "label": "English",
-        "url": "https://pogo.pk/alpha/bank-of-utah-championship/2444",
+        "url": "https://playerdee.top/alpha/bank-of-utah-championship/2444",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -35,195 +35,7 @@
     "servers": [
       {
         "label": "English",
-        "url": "https://pogo.pk/alpha/lpga-lotte-championship/2449",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Shenzhen Open Snooker Snooker",
-    "category": "Shenzhen Open Snooker",
-    "logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-    "start_iso": "2026-10-04T06:00:00.000Z",
-    "end_iso": "2026-10-04T16:00:00.000Z",
-    "date": "Sunday, 04 October 2026",
-    "time": "08:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/shenzhen-open-snooker",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/shenzhen-open-snooker/2330",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/shenzhen-open-snooker/2332",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Alfred Dunhill Championship PGA Tour",
-    "category": "Alfred Dunhill Championship",
-    "logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-    "start_iso": "2026-10-04T10:00:00.000Z",
-    "end_iso": "2026-10-04T15:00:00.000Z",
-    "date": "Sunday, 04 October 2026",
-    "time": "12:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/alfred-dunhill-championship",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/alfred-dunhill-championship/2452",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Azerbaijan Lithuania",
-    "category": "Azerbaijan",
-    "logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
-    "start_iso": "2026-10-04T13:00:00.000Z",
-    "end_iso": "2026-10-04T15:15:00.000Z",
-    "date": "Sunday, 04 October 2026",
-    "time": "15:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/azerbaijan-vs-lithuania",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/azerbaijan-vs-lithuania/2526",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/azerbaijan-vs-lithuania/2527",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Washington Commanders Indianapolis Colts",
-    "category": "Washington Commanders",
-    "logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
-    "start_iso": "2026-10-04T13:30:00.000Z",
-    "end_iso": "2026-10-04T16:40:00.000Z",
-    "date": "Sunday, 04 October 2026",
-    "time": "15:30",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/commanders-vs-colts",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/commanders-vs-colts/2405",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/commanders-vs-colts/2406",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Kosovo Austria",
-    "category": "Kosovo",
-    "logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
-    "start_iso": "2026-10-04T16:00:00.000Z",
-    "end_iso": "2026-10-04T18:15:00.000Z",
-    "date": "Sunday, 04 October 2026",
-    "time": "18:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/kosovo-vs-austria",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/kosovo-vs-austria/2528",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/kosovo-vs-austria/2529",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Malta Andorra",
-    "category": "Malta",
-    "logo": "https://cdn.img4every1.org/team/malta/logo.webp",
-    "start_iso": "2026-10-04T16:00:00.000Z",
-    "end_iso": "2026-10-04T18:15:00.000Z",
-    "date": "Sunday, 04 October 2026",
-    "time": "18:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/malta-vs-andorra-live",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/malta-vs-andorra-live/2530",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://pogo.pk/alpha/malta-vs-andorra-live/2531",
+        "url": "https://playerdee.top/alpha/lpga-lotte-championship/2449",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -241,12 +53,12 @@
     "end_iso": "2026-10-04T20:10:00.000Z",
     "date": "Sunday, 04 October 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/bills-vs-patriots-live",
     "servers": [
       {
         "label": "English",
-        "url": "https://pogo.pk/alpha/bills-vs-patriots-live/2532",
+        "url": "https://playerdee.top/alpha/bills-vs-patriots-live/2532",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -264,12 +76,35 @@
     "end_iso": "2026-10-04T20:10:00.000Z",
     "date": "Sunday, 04 October 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/bengals-vs-jaguars",
     "servers": [
       {
         "label": "English",
-        "url": "https://pogo.pk/alpha/bengals-vs-jaguars/2536",
+        "url": "https://playerdee.top/alpha/bengals-vs-jaguars/2536",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Los Angeles Rams Philadelphia Eagles",
+    "category": "Los Angeles Rams",
+    "logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
+    "start_iso": "2026-10-04T17:00:00.000Z",
+    "end_iso": "2026-10-04T20:10:00.000Z",
+    "date": "Sunday, 04 October 2026",
+    "time": "19:00",
+    "status": "live",
+    "event_url": "https://pogo.pk/events/los-angeles-rams-vs-eagles-live-stream",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/los-angeles-rams-vs-eagles-live-stream/2538",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -287,12 +122,12 @@
     "end_iso": "2026-10-04T20:10:00.000Z",
     "date": "Sunday, 04 October 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/bears-vs-jets",
     "servers": [
       {
         "label": "English",
-        "url": "https://pogo.pk/alpha/bears-vs-jets/2533",
+        "url": "https://playerdee.top/alpha/bears-vs-jets/2533",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -310,12 +145,12 @@
     "end_iso": "2026-10-04T20:10:00.000Z",
     "date": "Sunday, 04 October 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/ravens-vs-titans",
     "servers": [
       {
         "label": "English",
-        "url": "https://pogo.pk/alpha/ravens-vs-titans/2534",
+        "url": "https://playerdee.top/alpha/ravens-vs-titans/2534",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -333,17 +168,123 @@
     "end_iso": "2026-10-04T20:10:00.000Z",
     "date": "Sunday, 04 October 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/cowboys-vs-texans-live-1",
     "servers": [
       {
         "label": "English",
-        "url": "https://pogo.pk/alpha/cowboys-vs-texans-live-1/2537",
+        "url": "https://playerdee.top/alpha/cowboys-vs-texans-live-1/2537",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
           "ads": "2",
           "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Portugal Norway",
+    "category": "Portugal",
+    "logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
+    "start_iso": "2026-10-04T18:45:00.000Z",
+    "end_iso": "2026-10-04T21:00:00.000Z",
+    "date": "Sunday, 04 October 2026",
+    "time": "20:45",
+    "status": "live",
+    "event_url": "https://pogo.pk/events/portugal-vs-norway",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/portugal-vs-norway/2539",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/portugal-vs-norway/2540",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/portugal-vs-norway/2541",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/portugal-vs-norway/2542",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Germany Greece",
+    "category": "Germany",
+    "logo": "https://cdn.img4every1.org/team/germany/logo.webp",
+    "start_iso": "2026-10-04T18:45:00.000Z",
+    "end_iso": "2026-10-04T21:00:00.000Z",
+    "date": "Sunday, 04 October 2026",
+    "time": "20:45",
+    "status": "live",
+    "event_url": "https://pogo.pk/events/germany-vs-greece",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/germany-vs-greece/2543",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/germany-vs-greece/2544",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/germany-vs-greece/2545",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Deutsch",
+        "url": "https://playerdee.top/alpha/germany-vs-greece/2546",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
         }
       }
     ]
@@ -356,33 +297,30 @@
     "end_iso": "2026-10-04T21:00:00.000Z",
     "date": "Sunday, 04 October 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/wales-vs-denmark",
-    "servers": []
-  },
-  {
-    "title": "Portugal Norway",
-    "category": "Portugal",
-    "logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
-    "start_iso": "2026-10-04T18:45:00.000Z",
-    "end_iso": "2026-10-04T21:00:00.000Z",
-    "date": "Sunday, 04 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/portugal-vs-norway",
-    "servers": []
-  },
-  {
-    "title": "Germany Greece",
-    "category": "Germany",
-    "logo": "https://cdn.img4every1.org/team/germany/logo.webp",
-    "start_iso": "2026-10-04T18:45:00.000Z",
-    "end_iso": "2026-10-04T21:00:00.000Z",
-    "date": "Sunday, 04 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/germany-vs-greece",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/wales-vs-denmark/2548",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/wales-vs-denmark/2549",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Ireland Israel",
@@ -392,8 +330,286 @@
     "end_iso": "2026-10-04T21:00:00.000Z",
     "date": "Sunday, 04 October 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/ireland-vs-israel",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/ireland-vs-israel/2547",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Netherlands Serbia",
+    "category": "Netherlands",
+    "logo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
+    "start_iso": "2026-10-04T18:45:00.000Z",
+    "end_iso": "2026-10-04T21:00:00.000Z",
+    "date": "Sunday, 04 October 2026",
+    "time": "20:45",
+    "status": "live",
+    "event_url": "https://pogo.pk/events/netherlands-vs-serbia",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/netherlands-vs-serbia/2550",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/netherlands-vs-serbia/2551",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Minnesota Vikings Miami Dolphins",
+    "category": "Minnesota Vikings",
+    "logo": "https://cdn.img4every1.org/team/minnesota-vikings/logo.webp",
+    "start_iso": "2026-10-04T20:05:00.000Z",
+    "end_iso": "2026-10-04T23:15:00.000Z",
+    "date": "Sunday, 04 October 2026",
+    "time": "22:05",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/vikings-vs-dolphins",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/vikings-vs-dolphins/2552",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "San Francisco 49ers Denver Broncos",
+    "category": "San Francisco 49ers",
+    "logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
+    "start_iso": "2026-10-04T20:25:00.000Z",
+    "end_iso": "2026-10-04T23:35:00.000Z",
+    "date": "Sunday, 04 October 2026",
+    "time": "22:25",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/49ers-vs-broncos",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/49ers-vs-broncos/2553",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Los Angeles Chargers Seattle Seahawks",
+    "category": "Los Angeles Chargers",
+    "logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
+    "start_iso": "2026-10-04T20:25:00.000Z",
+    "end_iso": "2026-10-04T23:35:00.000Z",
+    "date": "Sunday, 04 October 2026",
+    "time": "22:25",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/chargers-vs-seahawks",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/chargers-vs-seahawks/2556",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Kansas City Chiefs Las Vegas Raiders",
+    "category": "Kansas City Chiefs",
+    "logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
+    "start_iso": "2026-10-04T20:25:00.000Z",
+    "end_iso": "2026-10-04T23:35:00.000Z",
+    "date": "Sunday, 04 October 2026",
+    "time": "22:25",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/chiefs-vs-raiders-live",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/chiefs-vs-raiders-live/2554",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/chiefs-vs-raiders-live/2555",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Latvia Cyprus",
+    "category": "Latvia",
+    "logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
+    "start_iso": "2026-10-05T16:00:00.000Z",
+    "end_iso": "2026-10-05T18:15:00.000Z",
+    "date": "Monday, 05 October 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/latvia-vs-cyprus",
+    "servers": []
+  },
+  {
+    "title": "Sweden Romania",
+    "category": "Sweden",
+    "logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
+    "start_iso": "2026-10-05T18:45:00.000Z",
+    "end_iso": "2026-10-05T21:00:00.000Z",
+    "date": "Monday, 05 October 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/sweden-vs-romania",
+    "servers": []
+  },
+  {
+    "title": "Bosnia and Herzegovina Poland",
+    "category": "Bosnia and Herzegovina",
+    "logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
+    "start_iso": "2026-10-05T18:45:00.000Z",
+    "end_iso": "2026-10-05T21:00:00.000Z",
+    "date": "Monday, 05 October 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/bosnia-vs-poland",
+    "servers": []
+  },
+  {
+    "title": "Hungary Ukraine",
+    "category": "Hungary",
+    "logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
+    "start_iso": "2026-10-05T18:45:00.000Z",
+    "end_iso": "2026-10-05T21:00:00.000Z",
+    "date": "Monday, 05 October 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/hungary-vs-ukraine",
+    "servers": []
+  },
+  {
+    "title": "Georgia Northern Ireland",
+    "category": "Georgia",
+    "logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
+    "start_iso": "2026-10-05T18:45:00.000Z",
+    "end_iso": "2026-10-05T21:00:00.000Z",
+    "date": "Monday, 05 October 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/georgia-vs-northern-ireland",
+    "servers": []
+  },
+  {
+    "title": "France Belgium",
+    "category": "France",
+    "logo": "https://cdn.img4every1.org/team/france/logo.webp",
+    "start_iso": "2026-10-05T18:45:00.000Z",
+    "end_iso": "2026-10-05T21:00:00.000Z",
+    "date": "Monday, 05 October 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/france-vs-belgium",
+    "servers": []
+  },
+  {
+    "title": "India Uruguay",
+    "category": "India",
+    "logo": "https://cdn.img4every1.org/team/india/logo.webp",
+    "start_iso": "2026-10-06T14:00:00.000Z",
+    "end_iso": "2026-10-06T16:15:00.000Z",
+    "date": "Tuesday, 06 October 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/india-vs-uruguay",
+    "servers": []
+  },
+  {
+    "title": "Argentina Benin",
+    "category": "Argentina",
+    "logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
+    "start_iso": "2026-10-06T23:00:00.000Z",
+    "end_iso": "2026-10-07T01:15:00.000Z",
+    "date": "Wednesday, 07 October 2026",
+    "time": "01:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/argentina-vs-benin",
+    "servers": []
+  },
+  {
+    "title": "Colombia Peru",
+    "category": "Colombia",
+    "logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
+    "start_iso": "2026-10-06T23:45:00.000Z",
+    "end_iso": "2026-10-07T02:00:00.000Z",
+    "date": "Wednesday, 07 October 2026",
+    "time": "01:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/colombia-vs-peru",
+    "servers": []
+  },
+  {
+    "title": "Canada USA",
+    "category": "Canada",
+    "logo": "https://cdn.img4every1.org/team/canada/logo.webp",
+    "start_iso": "2026-10-07T00:00:00.000Z",
+    "end_iso": "2026-10-07T02:15:00.000Z",
+    "date": "Wednesday, 07 October 2026",
+    "time": "02:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/canada-vs-usa",
+    "servers": []
+  },
+  {
+    "title": "Mexico Chile",
+    "category": "Mexico",
+    "logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
+    "start_iso": "2026-10-07T02:30:00.000Z",
+    "end_iso": "2026-10-07T04:45:00.000Z",
+    "date": "Wednesday, 07 October 2026",
+    "time": "04:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/mexico-vs-chile",
     "servers": []
   }
 ]

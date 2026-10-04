@@ -1,44 +1,41 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="American Football – College Football",Oggi 02:30 - Texas State Bobcats at San Diego State Aztecs [CW]
-https://august.ppvtv.icu/embed.html?match=c1tn55ma&server=0
-
-#EXTINF:-1 group-title="Basketball – NBL",Oggi 04:00 - South East Melbourne Phoenix vs. Illawarra Hawks [ESPN]
-https://august.ppvtv.icu/embed.html?match=fapzxyo&server=0
-
-#EXTINF:-1 group-title="Basketball – NBL",Oggi 06:00 - Adelaide 36ers vs. New Zealand Breakers [ESPN]
-https://august.ppvtv.icu/embed.html?match=f12tc6o5&server=0
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 07:00 - Bahrain Grand Prix - Race [Sky Sports F1]
-https://august.ppvtv.icu/embed.html?match=cgdu5nb&server=0
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 07:00 - Bahrain Grand Prix - Race [Apple TV (F1TV)]
-https://august.ppvtv.icu/embed.html?match=cgdu5nb&server=1
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 07:00 - Bahrain Grand Prix - Race [DAZN F1]
-https://august.ppvtv.icu/embed.html?match=cgdu5nb&server=2
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 07:00 - Bahrain Grand Prix - Race [Sky Sport F1]
-https://august.ppvtv.icu/embed.html?match=cgdu5nb&server=3
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 07:00 - Bahrain Grand Prix - Race [Sky Sport F1]
-https://august.ppvtv.icu/embed.html?match=cgdu5nb&server=4
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 07:00 - Bahrain Grand Prix - Race [V Sport Motor]
-https://august.ppvtv.icu/embed.html?match=cgdu5nb&server=5
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 07:00 - Bahrain Grand Prix - Race [Viaplay]
-https://august.ppvtv.icu/embed.html?match=cgdu5nb&server=6
-
 #EXTINF:-1 group-title="Motorsports – Motocross",Oggi 07:15 - Motocross of Nations | Day 3 [MXGP-TV]
 https://august.ppvtv.icu/embed.html?match=cpbmlrw&server=0
 
-#EXTINF:-1 group-title="Rugby – Rugby League (NRL)",Oggi 08:30 - Roosters vs. Knights [Fox League]
-https://august.ppvtv.icu/embed.html?match=f1o1y1s9&server=0
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 13:00 - Azerbaijan vs. Lithuania [DAZN]
+https://august.ppvtv.icu/embed.html?match=frphnc7&server=0
+
+#EXTINF:-1 group-title="Football – Women's Super League",Oggi 13:00 - Aston Villa vs. Crystal Palace [Paramount+]
+https://august.ppvtv.icu/embed.html?match=f1bxzhhg&server=0
+
+#EXTINF:-1 group-title="Football – Women's Super League",Oggi 13:00 - Brighton & Hove Albion vs. Charlton Athletic [Sky Sports Mix]
+https://august.ppvtv.icu/embed.html?match=fs9snus&server=0
+
+#EXTINF:-1 group-title="Football – Women's Super League",Oggi 13:00 - Everton vs. Birmingham City [Paramount+]
+https://august.ppvtv.icu/embed.html?match=fh57ugx&server=0
+
+#EXTINF:-1 group-title="Football – Women's Super League",Oggi 13:00 - Tottenham Hotspur vs. London City Lionesses [Sky Sports Football]
+https://august.ppvtv.icu/embed.html?match=f12fvri2&server=0
+
+#EXTINF:-1 group-title="Football – Women's Super League",Oggi 13:00 - West Ham United vs. Chelsea [Sky Sports Premier League]
+https://august.ppvtv.icu/embed.html?match=fq9wcp2&server=0
 
 #EXTINF:-1 group-title="American Football – NFL",Oggi 13:30 - Indianapolis Colts at Washington Commanders [NFL Network]
 https://august.ppvtv.icu/embed.html?match=c18sih92&server=0
+
+#EXTINF:-1 group-title="Football – Women's Super League",Oggi 15:30 - Manchester City vs. Arsenal [Sky Sports Premier League]
+https://august.ppvtv.icu/embed.html?match=ff5xzb0&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 16:00 - Kosovo vs. Austria [DAZN]
+https://august.ppvtv.icu/embed.html?match=f13msf15&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 16:00 - Malta vs. Andorra [DAZN]
+https://august.ppvtv.icu/embed.html?match=f9q2f93&server=0
+
+#EXTINF:-1 group-title="American Football – NFL",Oggi 16:50 - NFL RedZone [NFL RedZone]
+https://august.ppvtv.icu/embed.html?match=c1pwxmex&server=0
 
 #EXTINF:-1 group-title="American Football – NFL",Oggi 17:00 - New England Patriots at Buffalo Bills [CBS]
 https://august.ppvtv.icu/embed.html?match=c1h6xgap&server=0
@@ -64,8 +61,35 @@ https://august.ppvtv.icu/embed.html?match=c1n44u4&server=0
 #EXTINF:-1 group-title="American Football – NFL",Oggi 17:00 - Dallas Cowboys at Houston Texans [FOX]
 https://august.ppvtv.icu/embed.html?match=chsqp7r&server=0
 
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 17:00 - Winnipeg Jets vs. Detroit Red Wings [DSN]
+https://august.ppvtv.icu/embed.html?match=f13dn7pi&server=0
+
+#EXTINF:-1 group-title="Basketball – WNBA",Oggi 18:00 - New York Liberty vs. Atlanta Dream [ABC]
+https://august.ppvtv.icu/embed.html?match=f10gx0m9&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - Greece vs. Germany [DAZN]
+https://august.ppvtv.icu/embed.html?match=f1c8k9wr&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - Netherlands vs. Serbia [DAZN]
+https://august.ppvtv.icu/embed.html?match=fuu3kmv&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - Portugal vs. Norway [DAZN]
+https://august.ppvtv.icu/embed.html?match=fc8f67v&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - Republic of Ireland vs. Israel [DAZN]
+https://august.ppvtv.icu/embed.html?match=fwmfivj&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 18:45 - Wales vs. Denmark [DAZN]
+https://august.ppvtv.icu/embed.html?match=flk0m3p&server=0
+
 #EXTINF:-1 group-title="Darts – Darts",Oggi 19:00 - 2026 World Grand Prix | Day 7 [Sky Sports Main Event]
 https://august.ppvtv.icu/embed.html?match=c1gjqsdl&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 20:00 - San Diego Padres vs. Milwaukee Brewers [FS1]
+https://august.ppvtv.icu/embed.html?match=f49fftb&server=0
+
+#EXTINF:-1 group-title="Basketball – WNBA",Oggi 20:00 - Las Vegas Aces vs. Golden State Valkyries [NBC]
+https://august.ppvtv.icu/embed.html?match=f83sc0l&server=0
 
 #EXTINF:-1 group-title="American Football – NFL",Oggi 20:05 - Miami Dolphins at Minnesota Vikings [FOX]
 https://august.ppvtv.icu/embed.html?match=c1m5gg0e&server=0
@@ -78,6 +102,9 @@ https://august.ppvtv.icu/embed.html?match=csf42bk&server=0
 
 #EXTINF:-1 group-title="American Football – NFL",Oggi 20:25 - Los Angeles Chargers at Seattle Seahawks [CBS]
 https://august.ppvtv.icu/embed.html?match=c14jvtd4&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 22:00 - Utah Mammoth vs. New York Rangers [MSG]
+https://august.ppvtv.icu/embed.html?match=fkauz5&server=0
 
 #EXTINF:-1 group-title="Basketball – NBA",Oggi 23:00 - Utah Jazz vs. Denver Nuggets [NBA TV]
 https://august.ppvtv.icu/embed.html?match=f1lq7qjm&server=0
@@ -115,6 +142,18 @@ https://august.ppvtv.icu/embed.html?match=chsgr4k&server=0
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Oggi N/A - 24/7 South Park [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1ed9edx&server=0
 
+#EXTINF:-1 group-title="Baseball – MLB",Domani 00:00 - Atlanta Braves vs. Los Angeles Dodgers [FS1]
+https://august.ppvtv.icu/embed.html?match=f2p6kzd&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 00:00 - Minnesota Timberwolves vs. Milwaukee Bucks [NBA League Pass]
+https://august.ppvtv.icu/embed.html?match=f12t3zrt&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Florida Panthers vs. Anaheim Ducks [KCOP]
+https://august.ppvtv.icu/embed.html?match=f3g2r6w&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Calgary Flames vs. Seattle Kraken [KONG]
+https://august.ppvtv.icu/embed.html?match=fhdhdn6&server=0
+
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 00:00 - 24/7 SpongeBob Squarepants [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c10yqzo0&server=0
 
@@ -124,8 +163,14 @@ https://august.ppvtv.icu/embed.html?match=c1ml51ic&server=0
 #EXTINF:-1 group-title="American Football – NFL",Domani 00:15 - Atlanta Falcons at New Orleans Saints [ESPN]
 https://august.ppvtv.icu/embed.html?match=c1xwnyp4&server=0
 
-#EXTINF:-1 group-title="American Football – NFL",Domani 00:20 - Detroit Lions at Carolina Panthers [NBC]
+#EXTINF:-1 group-title="American Football – NFL",Domani 00:20 - Detroit Lions at Carolina Panthers [Peacock]
 https://august.ppvtv.icu/embed.html?match=c74iun5&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 01:00 - Vegas Golden Knights vs. Vancouver Canucks [ESPN+]
+https://august.ppvtv.icu/embed.html?match=f1rs3dcl&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 02:00 - Los Angeles Lakers vs. Sacramento Kings [NBA TV]
+https://august.ppvtv.icu/embed.html?match=f13amrvy&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 05:00 - 24/7 COWS [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1dc895w&server=0
@@ -135,3 +180,12 @@ https://august.ppvtv.icu/embed.html?match=c418ukt&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 10:28 - 24/7 The Simpsons [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1j7a3d7&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 23:00 - Memphis Grizzlies vs. Atlanta Hawks [NBA League Pass]
+https://august.ppvtv.icu/embed.html?match=f1cn56jr&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 23:00 - Phoenix Suns vs. Detroit Pistons [NBA League Pass]
+https://august.ppvtv.icu/embed.html?match=fwgahwx&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 23:00 - New York Knicks vs. Philadelphia 76ers [NBA TV]
+https://august.ppvtv.icu/embed.html?match=fgaj182&server=0

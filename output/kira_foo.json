@@ -7,9 +7,40 @@
     "end_iso": "2026-10-05T18:15:00.000Z",
     "date": "Monday, 05 October 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/latvia-vs-cyprus",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/latvia-vs-cyprus/2564",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/latvia-vs-cyprus/2565",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/latvia-vs-cyprus/2566",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Sweden Romania",
@@ -21,7 +52,18 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/sweden-vs-romania",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/sweden-vs-romania/2576",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Bosnia and Herzegovina Poland",
@@ -33,7 +75,18 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/bosnia-vs-poland",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bosnia-vs-poland/2574",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Hungary Ukraine",
@@ -45,7 +98,18 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/hungary-vs-ukraine",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/hungary-vs-ukraine/2573",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Georgia Northern Ireland",
@@ -57,7 +121,18 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/georgia-vs-northern-ireland",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/georgia-vs-northern-ireland/2575",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "France Belgium",
@@ -69,7 +144,61 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/france-vs-belgium",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/france-vs-belgium/2567",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/france-vs-belgium/2568",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Deutsch",
+        "url": "https://playerdee.top/alpha/france-vs-belgium/2569",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Armenia Montenegro",
+    "category": "Armenia",
+    "logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
+    "start_iso": "2026-10-05T18:45:00.000Z",
+    "end_iso": "2026-10-05T21:00:00.000Z",
+    "date": "Monday, 05 October 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/armenia-vs-montenegro",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/armenia-vs-montenegro/2577",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Atlanta Falcons New Orleans Saints",

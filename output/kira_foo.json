@@ -1,206 +1,5 @@
 [
   {
-    "title": "Latvia Cyprus",
-    "category": "Latvia",
-    "logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
-    "start_iso": "2026-10-05T16:00:00.000Z",
-    "end_iso": "2026-10-05T18:15:00.000Z",
-    "date": "Monday, 05 October 2026",
-    "time": "18:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/latvia-vs-cyprus",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/latvia-vs-cyprus/2564",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/latvia-vs-cyprus/2565",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/latvia-vs-cyprus/2566",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Sweden Romania",
-    "category": "Sweden",
-    "logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
-    "start_iso": "2026-10-05T18:45:00.000Z",
-    "end_iso": "2026-10-05T21:00:00.000Z",
-    "date": "Monday, 05 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/sweden-vs-romania",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/sweden-vs-romania/2576",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Bosnia and Herzegovina Poland",
-    "category": "Bosnia and Herzegovina",
-    "logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
-    "start_iso": "2026-10-05T18:45:00.000Z",
-    "end_iso": "2026-10-05T21:00:00.000Z",
-    "date": "Monday, 05 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/bosnia-vs-poland",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/bosnia-vs-poland/2574",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Hungary Ukraine",
-    "category": "Hungary",
-    "logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
-    "start_iso": "2026-10-05T18:45:00.000Z",
-    "end_iso": "2026-10-05T21:00:00.000Z",
-    "date": "Monday, 05 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/hungary-vs-ukraine",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/hungary-vs-ukraine/2573",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Georgia Northern Ireland",
-    "category": "Georgia",
-    "logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
-    "start_iso": "2026-10-05T18:45:00.000Z",
-    "end_iso": "2026-10-05T21:00:00.000Z",
-    "date": "Monday, 05 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/georgia-vs-northern-ireland",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/georgia-vs-northern-ireland/2575",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "France Belgium",
-    "category": "France",
-    "logo": "https://cdn.img4every1.org/team/france/logo.webp",
-    "start_iso": "2026-10-05T18:45:00.000Z",
-    "end_iso": "2026-10-05T21:00:00.000Z",
-    "date": "Monday, 05 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/france-vs-belgium",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/france-vs-belgium/2567",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/france-vs-belgium/2568",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Deutsch",
-        "url": "https://playerdee.top/alpha/france-vs-belgium/2569",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Deutsch"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Armenia Montenegro",
-    "category": "Armenia",
-    "logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
-    "start_iso": "2026-10-05T18:45:00.000Z",
-    "end_iso": "2026-10-05T21:00:00.000Z",
-    "date": "Monday, 05 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/armenia-vs-montenegro",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/armenia-vs-montenegro/2577",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Atlanta Falcons New Orleans Saints",
     "category": "Atlanta Falcons",
     "logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
@@ -208,7 +7,7 @@
     "end_iso": "2026-10-06T03:25:00.000Z",
     "date": "Tuesday, 06 October 2026",
     "time": "02:15",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/falcons-vs-saints-live-stream-3",
     "servers": [
       {
@@ -234,6 +33,18 @@
     ]
   },
   {
+    "title": "Faroe Islands Kazakhstan",
+    "category": "Faroe Islands",
+    "logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
+    "start_iso": "2026-10-06T14:00:00.000Z",
+    "end_iso": "2026-10-06T16:15:00.000Z",
+    "date": "Tuesday, 06 October 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/faroe-islands-vs-kazakhstan",
+    "servers": []
+  },
+  {
     "title": "India Uruguay",
     "category": "India",
     "logo": "https://cdn.img4every1.org/team/india/logo.webp",
@@ -243,6 +54,66 @@
     "time": "16:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/india-vs-uruguay",
+    "servers": []
+  },
+  {
+    "title": "Scotland Slovenia",
+    "category": "Scotland",
+    "logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+    "start_iso": "2026-10-06T18:45:00.000Z",
+    "end_iso": "2026-10-06T21:00:00.000Z",
+    "date": "Tuesday, 06 October 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/scotland-vs-slovenia",
+    "servers": []
+  },
+  {
+    "title": "Bulgaria Luxembourg",
+    "category": "Bulgaria",
+    "logo": "https://cdn.img4every1.org/team/bulgaria/logo.webp",
+    "start_iso": "2026-10-06T18:45:00.000Z",
+    "end_iso": "2026-10-06T21:00:00.000Z",
+    "date": "Tuesday, 06 October 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/bulgaria-vs-luxembourg",
+    "servers": []
+  },
+  {
+    "title": "Iceland Estonia",
+    "category": "Iceland",
+    "logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
+    "start_iso": "2026-10-06T18:45:00.000Z",
+    "end_iso": "2026-10-06T21:00:00.000Z",
+    "date": "Tuesday, 06 October 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/iceland-vs-estonia",
+    "servers": []
+  },
+  {
+    "title": "Switzerland North Macedonia",
+    "category": "Switzerland",
+    "logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
+    "start_iso": "2026-10-06T18:45:00.000Z",
+    "end_iso": "2026-10-06T21:00:00.000Z",
+    "date": "Tuesday, 06 October 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/switzerland-vs-north-macedonia",
+    "servers": []
+  },
+  {
+    "title": "Slovakia Moldova",
+    "category": "Slovakia",
+    "logo": "https://cdn.img4every1.org/team/slovakia/logo.webp",
+    "start_iso": "2026-10-06T18:45:00.000Z",
+    "end_iso": "2026-10-06T21:00:00.000Z",
+    "date": "Tuesday, 06 October 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/slovakia-vs-moldova",
     "servers": []
   },
   {

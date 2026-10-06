@@ -1,78 +1,6 @@
 <?xml version="1.0" ?>
 <playlist version="1">
   <track>
-    <title>10:00 Tennis: ATP World Tour 500: Tokyo</title>
-    <url>https://w6.sportsonliine.click/channels/pt/sporttv1.php</url>
-  </track>
-  <track>
-    <title>12:00 Tennis: ATP World Tour 500: Beijing</title>
-    <url>https://w6.sportsonliine.click/channels/pt/sporttv2.php</url>
-  </track>
-  <track>
-    <title>15:00 Kazakhstan x Faroe Islands</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd1.php</url>
-    <url>https://w6.sportsonliine.click/channels/pt/sporttv2.php</url>
-    <url>https://w6.sportsonliine.click/channels/bra/br3.php</url>
-  </track>
-  <track>
-    <title>15:00 India x Uruguay</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd5.php</url>
-    <url>https://w6.sportsonliine.click/channels/pt/sporttv1.php</url>
-  </track>
-  <track>
-    <title>19:00 Saudi Arabia x United Arab Emirates</title>
-    <url>https://w6.sportsonliine.click/channels/pt/sporttv5.php</url>
-  </track>
-  <track>
-    <title>19:45 England x Czech Republic</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd1.php</url>
-    <url>https://w6.sportsonliine.click/channels/pt/sporttv2.php</url>
-    <url>https://w6.sportsonliine.click/channels/bra/br1.php</url>
-  </track>
-  <track>
-    <title>19:45 Croatia x Spain</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd6.php</url>
-    <url>https://w6.sportsonliine.click/channels/pt/sporttv1.php</url>
-    <url>https://w6.sportsonliine.click/channels/bra/br2.php</url>
-  </track>
-  <track>
-    <title>19:45 Luxembourg x Bulgaria</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd11.php</url>
-  </track>
-  <track>
-    <title>19:45 Moldova x Slovakia</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd10.php</url>
-  </track>
-  <track>
-    <title>19:45 Estonia x Iceland</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd9.php</url>
-    <url>https://w6.sportsonliine.click/channels/bra/br4.php</url>
-  </track>
-  <track>
-    <title>19:45 Belarus x Finland</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd8.php</url>
-  </track>
-  <track>
-    <title>19:45 Albania x San Marino</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd4.php</url>
-  </track>
-  <track>
-    <title>19:45 Scotland x Slovenia</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd2.php</url>
-    <url>https://w6.sportsonliine.click/channels/pt/sporttv3.php</url>
-    <url>https://w6.sportsonliine.click/channels/bra/br6.php</url>
-  </track>
-  <track>
-    <title>19:45 Switzerland x North Macedonia</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd3.php</url>
-    <url>https://w6.sportsonliine.click/channels/pt/sporttv4.php</url>
-    <url>https://w6.sportsonliine.click/channels/bra/br3.php</url>
-  </track>
-  <track>
-    <title>22:00 Saint Vincent and the Grenadines x Sint Maarten</title>
-    <url>https://w6.sportsonliine.click/channels/hd/hd1.php</url>
-  </track>
-  <track>
     <title>00:00 Argentina x Benin</title>
     <url>https://w6.sportsonliine.click/channels/hd/hd2.php</url>
     <url>https://w6.sportsonliine.click/channels/hd/hd6.php</url>
@@ -104,18 +32,12 @@
   <additional>
     <item>HD1 ENGLISH</item>
     <item>HD2 ENGLISH</item>
-    <item>HD3 GERMAN</item>
-    <item>HD4 ALBANIAN</item>
     <item>HD5 SPANISH</item>
     <item>HD6 SPANISH</item>
-    <item>HD8 ARABIC</item>
-    <item>HD9 ESTONIAN &amp; SPANISH</item>
-    <item>HD10 ROMANIAN &amp; ENGLISH</item>
-    <item>HD11 BULGARIAN &amp; SPANISH</item>
+    <item>HD9 SPANISH</item>
+    <item>HD10 ENGLISH</item>
+    <item>HD11 SPANISH</item>
     <item>BR1 BRAZILIAN</item>
-    <item>BR2 BRAZILIAN</item>
-    <item>BR3 BRAZILIAN</item>
-    <item>BR4 BRAZILIAN</item>
     <item>BR6 BRAZILIAN</item>
   </additional>
 </playlist>

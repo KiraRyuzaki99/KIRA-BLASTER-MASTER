@@ -1,248 +1,5 @@
 [
   {
-    "title": "Spain Croatia",
-    "category": "Spain",
-    "logo": "https://cdn.img4every1.org/team/spain/logo.webp",
-    "start_iso": "2026-10-06T18:45:00.000Z",
-    "end_iso": "2026-10-06T21:00:00.000Z",
-    "date": "Tuesday, 06 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/spain-vs-croatia",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/spain-vs-croatia/2591",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/spain-vs-croatia/2592",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://playerdee.top/alpha/spain-vs-croatia/2593",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
-    "title": "England Czechia",
-    "category": "England",
-    "logo": "https://cdn.img4every1.org/team/england/logo.webp",
-    "start_iso": "2026-10-06T18:45:00.000Z",
-    "end_iso": "2026-10-06T21:00:00.000Z",
-    "date": "Tuesday, 06 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/england-vs-czechia",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/england-vs-czechia/2588",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/england-vs-czechia/2589",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/england-vs-czechia/2590",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Scotland Slovenia",
-    "category": "Scotland",
-    "logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
-    "start_iso": "2026-10-06T18:45:00.000Z",
-    "end_iso": "2026-10-06T21:00:00.000Z",
-    "date": "Tuesday, 06 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/scotland-vs-slovenia",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/scotland-vs-slovenia/2594",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/scotland-vs-slovenia/2595",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Bulgaria Luxembourg",
-    "category": "Bulgaria",
-    "logo": "https://cdn.img4every1.org/team/bulgaria/logo.webp",
-    "start_iso": "2026-10-06T18:45:00.000Z",
-    "end_iso": "2026-10-06T21:00:00.000Z",
-    "date": "Tuesday, 06 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/bulgaria-vs-luxembourg",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/bulgaria-vs-luxembourg/2598",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Bulgarian",
-        "url": "https://playerdee.top/alpha/bulgaria-vs-luxembourg/2599",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Bulgarian"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Iceland Estonia",
-    "category": "Iceland",
-    "logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
-    "start_iso": "2026-10-06T18:45:00.000Z",
-    "end_iso": "2026-10-06T21:00:00.000Z",
-    "date": "Tuesday, 06 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/iceland-vs-estonia",
-    "servers": []
-  },
-  {
-    "title": "Switzerland North Macedonia",
-    "category": "Switzerland",
-    "logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
-    "start_iso": "2026-10-06T18:45:00.000Z",
-    "end_iso": "2026-10-06T21:00:00.000Z",
-    "date": "Tuesday, 06 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/switzerland-vs-north-macedonia",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/switzerland-vs-north-macedonia/2596",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/switzerland-vs-north-macedonia/2597",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Slovakia Moldova",
-    "category": "Slovakia",
-    "logo": "https://cdn.img4every1.org/team/slovakia/logo.webp",
-    "start_iso": "2026-10-06T18:45:00.000Z",
-    "end_iso": "2026-10-06T21:00:00.000Z",
-    "date": "Tuesday, 06 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/slovakia-vs-moldova",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/slovakia-vs-moldova/2602",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Finland Belarus",
-    "category": "Finland",
-    "logo": "https://cdn.img4every1.org/team/finland/logo.webp",
-    "start_iso": "2026-10-06T18:45:00.000Z",
-    "end_iso": "2026-10-06T21:00:00.000Z",
-    "date": "Tuesday, 06 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/finland-vs-belarus",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/finland-vs-belarus/2600",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Atlanta Braves Los Angeles Dodgers",
     "category": "Atlanta Braves",
     "logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
@@ -250,7 +7,7 @@
     "end_iso": "2026-10-07T01:00:00.000Z",
     "date": "Wednesday, 07 October 2026",
     "time": "00:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/braves-vs-dodgers",
     "servers": [
       {
@@ -273,7 +30,7 @@
     "end_iso": "2026-10-07T01:15:00.000Z",
     "date": "Wednesday, 07 October 2026",
     "time": "01:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/argentina-vs-benin",
     "servers": [
       {
@@ -326,7 +83,7 @@
     "end_iso": "2026-10-07T02:00:00.000Z",
     "date": "Wednesday, 07 October 2026",
     "time": "01:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/colombia-vs-peru",
     "servers": [
       {

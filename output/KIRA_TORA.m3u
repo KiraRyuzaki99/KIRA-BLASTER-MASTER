@@ -1,15 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Motor-sports",09:10 - Mount Panorama — Pirtek Pit Stop Challenge - Finals
-https://embed.st/embed/hotel/mount-panorama-pirtek-pit-stop-challenge-finals-australian-supercars-championship-1791357000/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",10:30 - Adelaide 36ers vs Melbourne United
-https://embed.st/embed/admin/ppv-adelaide-36-ers-vs-melbourne-united/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",10:30 - Adelaide 36ers vs Melbourne United
-https://embed.st/embed/admin/ppv-adelaide-36-ers-vs-melbourne-united/2#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Baseball",22:00 - Chicago White Sox vs Cleveland Guardians
 https://embed.st/embed/admin/ppv-cleveland-guardians-vs-chicago-white-sox/1#player=clappr&autoplay=true
 
@@ -30,6 +21,12 @@ https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-atlanta-braves/1#player=
 
 #EXTINF:-1 group-title="Baseball",00:00 - Atlanta Braves vs Los Angeles Dodgers
 https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-atlanta-braves/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:00 - Atlanta Braves vs Los Angeles Dodgers
+https://embed.st/embed/golf/2135/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",00:00 - Atlanta Braves vs Los Angeles Dodgers
+https://embed.st/embed/golf/2135/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Baseball",00:00 - Atlanta Braves vs Los Angeles Dodgers
 https://embed.st/embed/hotel/los-angeles-dodgers-vs-atlanta-braves-mlb-1791410400/1#player=clappr&autoplay=true

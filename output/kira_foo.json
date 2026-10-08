@@ -43,75 +43,6 @@
     ]
   },
   {
-    "title": "Cleveland Guardians Chicago White Sox",
-    "category": "Cleveland Guardians",
-    "logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
-    "start_iso": "2026-10-07T20:00:00.000Z",
-    "end_iso": "2026-10-07T23:00:00.000Z",
-    "date": "Wednesday, 07 October 2026",
-    "time": "22:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/guardians-vs-white-sox",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/guardians-vs-white-sox/2617",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Los Angeles Dodgers Atlanta Braves",
-    "category": "Los Angeles Dodgers",
-    "logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
-    "start_iso": "2026-10-07T22:00:00.000Z",
-    "end_iso": "2026-10-08T01:00:00.000Z",
-    "date": "Thursday, 08 October 2026",
-    "time": "00:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/los-angeles-dodgers-vs-atlanta-braves",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/los-angeles-dodgers-vs-atlanta-braves/2618",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Tampa Bay Rays New York Yankees",
-    "category": "Tampa Bay Rays",
-    "logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-    "start_iso": "2026-10-08T00:00:00.000Z",
-    "end_iso": "2026-10-08T03:00:00.000Z",
-    "date": "Thursday, 08 October 2026",
-    "time": "02:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/rays-vs-yankees",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/rays-vs-yankees/2619",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Baycurrent Classic PGA Tour",
     "category": "Baycurrent Classic",
     "logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -119,7 +50,7 @@
     "end_iso": "2026-10-11T08:00:00.000Z",
     "date": "Thursday, 08 October 2026",
     "time": "05:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/baycurrent-classic",
     "servers": [
       {
@@ -752,6 +683,18 @@
     "time": "17:30",
     "status": "next",
     "event_url": "https://pogo.pk/events/freiburg-vs-schalke-04",
+    "servers": []
+  },
+  {
+    "title": "Troyes Olympique Marseille",
+    "category": "Troyes",
+    "logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
+    "start_iso": "2026-10-11T18:45:00.000Z",
+    "end_iso": "2026-10-11T21:00:00.000Z",
+    "date": "Sunday, 11 October 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/troyes-vs-marseille",
     "servers": []
   }
 ]

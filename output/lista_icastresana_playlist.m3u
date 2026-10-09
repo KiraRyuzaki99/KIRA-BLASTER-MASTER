@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="11:15 Masters Shanghai - 1ª Ronda M. Landaluce - JL. Struff" group-title="Masters Shanghai",11:15 Masters Shanghai - 1ª Ronda M. Landaluce - JL. Struff
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
 #EXTINF:-1 tvg-name="11:30 Masters Shanghai - 1ª Ronda B. Van de Zandschulp - D. Mérida" group-title="Masters Shanghai",11:30 Masters Shanghai - 1ª Ronda B. Van de Zandschulp - D. Mérida
 acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-name="12:00 Masters Shanghai - 1ª Ronda L. Van Assche - Y. Bu" group-title="Masters Shanghai",12:00 Masters Shanghai - 1ª Ronda L. Van Assche - Y. Bu
+#EXTINF:-1 tvg-name="11:35 Masters Shanghai - 1ª Ronda M. Landaluce - JL. Struff" group-title="Masters Shanghai",11:35 Masters Shanghai - 1ª Ronda M. Landaluce - JL. Struff
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1 tvg-name="12:10 Masters Shanghai - 1ª Ronda L. Van Assche - Y. Bu" group-title="Masters Shanghai",12:10 Masters Shanghai - 1ª Ronda L. Van Assche - Y. Bu
 acestream://8b5f9d967384afab226dd759e6e9dfaee9993869
-#EXTINF:-1 tvg-name="12:45 Masters Shanghai - 1ª Ronda V. Kopriva - Z. Bergs" group-title="Masters Shanghai",12:45 Masters Shanghai - 1ª Ronda V. Kopriva - Z. Bergs
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTINF:-1 tvg-name="13:10 Masters Shanghai - 1ª Ronda E. Alexandrova - M. Andreeva" group-title="Masters Shanghai",13:10 Masters Shanghai - 1ª Ronda E. Alexandrova - M. Andreeva
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
-#EXTINF:-1 tvg-name="13:30 Masters Shanghai - 1ª Ronda C. Norrie - D. Svrcina" group-title="Masters Shanghai",13:30 Masters Shanghai - 1ª Ronda C. Norrie - D. Svrcina
-acestream://8b5f9d967384afab226dd759e6e9dfaee9993869
+#EXTINF:-1 tvg-name="13:30 Masters Shanghai - 1ª Ronda V. Kopriva - Z. Bergs" group-title="Masters Shanghai",13:30 Masters Shanghai - 1ª Ronda V. Kopriva - Z. Bergs
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTINF:-1 tvg-name="14:00 EHF Champions League - Fase de grupos Jornada 1" group-title="EHF Champions League",14:00 EHF Champions League - Fase de grupos Jornada 1
 acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-name="14:10 Masters Shanghai - 1ª Ronda C. Norrie - D. Svrcina" group-title="Masters Shanghai",14:10 Masters Shanghai - 1ª Ronda C. Norrie - D. Svrcina
+acestream://8b5f9d967384afab226dd759e6e9dfaee9993869
 #EXTINF:-1 tvg-name="14:50 Giro del Piemonte -  UCI ProSeries - Asti › Bra (185 km)" group-title="Giro del Piemonte",14:50 Giro del Piemonte -  UCI ProSeries - Asti › Bra (185 km)
 acestream://48a589dbeab3544662fafd79888aada7d834cfe9
 #EXTINF:-1 tvg-name="18:00 Euroliga - Liga Regular Maccabi Tel Aviv BC - AX Olimpia Milano" group-title="Euroliga",18:00 Euroliga - Liga Regular Maccabi Tel Aviv BC - AX Olimpia Milano
@@ -41,11 +41,23 @@ acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-name="04:45 MotoGP - G.P. Indonesia (Mandalika) Libres 1" group-title="MotoGP",04:45 MotoGP - G.P. Indonesia (Mandalika) Libres 1
 acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
+#EXTINF:-1 tvg-name="05:00 MotoGP - G.P. Indonesia (Mandalika) E. Mertens - I. Swiatek" group-title="MotoGP",05:00 MotoGP - G.P. Indonesia (Mandalika) E. Mertens - I. Swiatek
+acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1 tvg-name="05:00 MotoGP - G.P. Indonesia (Mandalika) Q. Zheng - E. Svitolina" group-title="MotoGP",05:00 MotoGP - G.P. Indonesia (Mandalika) Q. Zheng - E. Svitolina
+acestream://a4cbadd19442b800727be713270fa9c917cc8582
 #EXTINF:-1 tvg-name="05:00 Baycurrent Classic -  Jornada 2" group-title="Baycurrent Classic",05:00 Baycurrent Classic -  Jornada 2
 acestream://872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 tvg-name="05:05 MotoGP - G.P. Indonesia (Mandalika) 1/4 de Final - WTA 1000" group-title="MotoGP",05:05 MotoGP - G.P. Indonesia (Mandalika) 1/4 de Final - WTA 1000
-acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1 tvg-name="06:00 Masters Shanghai - 2ª Ronda B. Shelton - D. Altmaier" group-title="Masters Shanghai",06:00 Masters Shanghai - 2ª Ronda B. Shelton - D. Altmaier
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
+#EXTINF:-1 tvg-name="06:00 Masters Shanghai - 2ª Ronda A. Gea - U. Humbert" group-title="Masters Shanghai",06:00 Masters Shanghai - 2ª Ronda A. Gea - U. Humbert
+acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
 #EXTINF:-1 tvg-name="06:30 LPGA Aramco Korea Championship -  Jornada 2" group-title="LPGA Aramco Korea Championship",06:30 LPGA Aramco Korea Championship -  Jornada 2
 acestream://882074140fca664e119a43294afa2fb4a64917ef
+#EXTINF:-1 tvg-name="07:30 Masters Shanghai - 2ª Ronda A. Zverev - Y. Wu" group-title="Masters Shanghai",07:30 Masters Shanghai - 2ª Ronda A. Zverev - Y. Wu
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
+#EXTINF:-1 tvg-name="07:30 Masters Shanghai - 2ª Ronda Q. Halys - A. Blockx" group-title="Masters Shanghai",07:30 Masters Shanghai - 2ª Ronda Q. Halys - A. Blockx
+acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
 #EXTINF:-1 tvg-name="09:00 MotoGP - G.P. Indonesia (Mandalika) Libres" group-title="MotoGP",09:00 MotoGP - G.P. Indonesia (Mandalika) Libres
 acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
+#EXTINF:-1 tvg-name="09:00 Masters Shanghai - 2ª Ronda A. Davidovich - J. Brooksby" group-title="Masters Shanghai",09:00 Masters Shanghai - 2ª Ronda A. Davidovich - J. Brooksby
+acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0

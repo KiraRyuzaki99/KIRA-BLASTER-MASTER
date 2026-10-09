@@ -99,39 +99,6 @@
     ]
   },
   {
-    "title": "Dallas Cowboys Tampa Bay Buccaneers",
-    "category": "Dallas Cowboys",
-    "logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-    "start_iso": "2026-10-09T00:15:00.000Z",
-    "end_iso": "2026-10-09T03:25:00.000Z",
-    "date": "Friday, 09 October 2026",
-    "time": "02:15",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/dallas-cowboys-vs-buccaneers-live/2561",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/dallas-cowboys-vs-buccaneers-live/2562",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "MotoGP Indonesia Grand Prix MotoGP",
     "category": "MotoGP Indonesia Grand Prix",
     "logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
@@ -139,7 +106,7 @@
     "end_iso": "2026-10-11T09:00:00.000Z",
     "date": "Friday, 09 October 2026",
     "time": "03:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/motogp-indonesia-grand-prix",
     "servers": [
       {
@@ -627,6 +594,18 @@
     "servers": []
   },
   {
+    "title": "Borussia M'gladbach Köln",
+    "category": "Borussia M'gladbach",
+    "logo": "https://cdn.img4every1.org/team/borussia-mgladbach/logo.webp",
+    "start_iso": "2026-10-11T13:30:00.000Z",
+    "end_iso": "2026-10-11T15:45:00.000Z",
+    "date": "Sunday, 11 October 2026",
+    "time": "15:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/borussia-mgladbach-vs-koln",
+    "servers": []
+  },
+  {
     "title": "Philadelphia Eagles Jacksonville Jaguars",
     "category": "Philadelphia Eagles",
     "logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
@@ -648,18 +627,6 @@
         }
       }
     ]
-  },
-  {
-    "title": "Borussia M'gladbach Köln",
-    "category": "Borussia M'gladbach",
-    "logo": "https://cdn.img4every1.org/team/borussia-mgladbach/logo.webp",
-    "start_iso": "2026-10-11T13:30:00.000Z",
-    "end_iso": "2026-10-11T15:45:00.000Z",
-    "date": "Sunday, 11 October 2026",
-    "time": "15:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/borussia-mgladbach-vs-koln",
-    "servers": []
   },
   {
     "title": "Rennes Auxerre",

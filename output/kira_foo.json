@@ -165,158 +165,6 @@
     ]
   },
   {
-    "title": "PSG Le Mans",
-    "category": "PSG",
-    "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-    "start_iso": "2026-10-10T18:45:00.000Z",
-    "end_iso": "2026-10-10T21:00:00.000Z",
-    "date": "Saturday, 10 October 2026",
-    "time": "20:45",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/psg-vs-le-mans",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/psg-vs-le-mans/2687",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://playerdee.top/alpha/psg-vs-le-mans/2688",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/psg-vs-le-mans/2689",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Napoli Frosinone Calcio",
-    "category": "Napoli",
-    "logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-    "start_iso": "2026-10-10T18:45:00.000Z",
-    "end_iso": "2026-10-10T21:00:00.000Z",
-    "date": "Saturday, 10 October 2026",
-    "time": "20:45",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/napoli-vs-frosinone",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/napoli-vs-frosinone/2674",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "SD",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/napoli-vs-frosinone/2686",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Cardiff Blues Leinster",
-    "category": "Cardiff Blues",
-    "logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-    "start_iso": "2026-10-10T18:45:00.000Z",
-    "end_iso": "2026-10-10T21:00:00.000Z",
-    "date": "Saturday, 10 October 2026",
-    "time": "20:45",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/cardiff-vs-leinster",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/cardiff-vs-leinster/2651",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Real Madrid Villarreal",
-    "category": "Real Madrid",
-    "logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-    "start_iso": "2026-10-10T19:00:00.000Z",
-    "end_iso": "2026-10-10T21:15:00.000Z",
-    "date": "Saturday, 10 October 2026",
-    "time": "21:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/real-madrid-vs-villarreal",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/real-madrid-vs-villarreal/2668",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/real-madrid-vs-villarreal/2690",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://playerdee.top/alpha/real-madrid-vs-villarreal/2691",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      },
-      {
-        "label": "Portuguese",
-        "url": "https://playerdee.top/alpha/real-madrid-vs-villarreal/2692",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
-        }
-      }
-    ]
-  },
-  {
     "title": "Brendan Allen Christian Leroy Duncan",
     "category": "Brendan Allen",
     "logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
@@ -324,7 +172,7 @@
     "end_iso": "2026-10-11T03:45:00.000Z",
     "date": "Sunday, 11 October 2026",
     "time": "00:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/brendan-allen-vs-christian-leroy-duncan",
     "servers": [
       {
@@ -347,7 +195,7 @@
     "end_iso": "2026-10-11T01:45:00.000Z",
     "date": "Sunday, 11 October 2026",
     "time": "01:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/inter-miami-vs-dc-united",
     "servers": []
   },

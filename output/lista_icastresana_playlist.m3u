@@ -11,15 +11,15 @@ acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
 acestream://44ea3d00ee2abfd5d89792a32851d7af61f16f0a
 #EXTINF:-1 tvg-name="12:15 Superbike - Tissot Estoril Round (Portugal) Superpole" group-title="Superbike",12:15 Superbike - Tissot Estoril Round (Portugal) Superpole
 acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-name="12:20 Masters Shanghai - 2ª Ronda L. Darderi - S. Tsitsipas" group-title="Masters Shanghai",12:20 Masters Shanghai - 2ª Ronda L. Darderi - S. Tsitsipas
+#EXTINF:-1 tvg-name="12:40 Masters Shanghai - 2ª Ronda L. Darderi - S. Tsitsipas" group-title="Masters Shanghai",12:40 Masters Shanghai - 2ª Ronda L. Darderi - S. Tsitsipas
 acestream://8b5f9d967384afab226dd759e6e9dfaee9993869
-#EXTINF:-1 tvg-name="12:40 Masters Shanghai - 2ª Ronda JM. Cerúndolo - C. Alcaraz" group-title="Masters Shanghai",12:40 Masters Shanghai - 2ª Ronda JM. Cerúndolo - C. Alcaraz
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 tvg-name="13:00 Torneo de Villena - Semifinal 1 Q. Zheng - E. Mertens" group-title="Torneo de Villena",13:00 Torneo de Villena - Semifinal 1 Q. Zheng - E. Mertens
-acestream://a4cbadd19442b800727be713270fa9c917cc8582
 #EXTINF:-1 tvg-name="13:00 Liga Prime - Torneo Apertura AD Sala 10 Zaragoza - Movistar Inter" group-title="Liga Prime",13:00 Liga Prime - Torneo Apertura AD Sala 10 Zaragoza - Movistar Inter
 acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="13:10 Masters Shanghai - 2ª Ronda T. Paul - A.D. Vallejo" group-title="Masters Shanghai",13:10 Masters Shanghai - 2ª Ronda T. Paul - A.D. Vallejo
+#EXTINF:-1 tvg-name="13:10 Torneo de Villena - Semifinal 1 Q. Zheng - E. Mertens" group-title="Torneo de Villena",13:10 Torneo de Villena - Semifinal 1 Q. Zheng - E. Mertens
+acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1 tvg-name="13:20 Masters Shanghai - 2ª Ronda JM. Cerúndolo - C. Alcaraz" group-title="Masters Shanghai",13:20 Masters Shanghai - 2ª Ronda JM. Cerúndolo - C. Alcaraz
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1 tvg-name="13:25 Masters Shanghai - 2ª Ronda T. Paul - A.D. Vallejo" group-title="Masters Shanghai",13:25 Masters Shanghai - 2ª Ronda T. Paul - A.D. Vallejo
 acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
 #EXTINF:-1 tvg-name="13:30 Premier -  Arsenal - Leeds Utd" group-title="Premier",13:30 Premier -  Arsenal - Leeds Utd
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
@@ -27,14 +27,14 @@ acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-name="13:30 Asobal -  Jornada 3" group-title="Asobal",13:30 Asobal -  Jornada 3
 acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 tvg-name="13:45 Masters Shanghai - 2ª Ronda B. Van de Zandschulp - A. Michelsen" group-title="Masters Shanghai",13:45 Masters Shanghai - 2ª Ronda B. Van de Zandschulp - A. Michelsen
+acestream://3230cdca852a10325222e3c546e499e31d547a90
 #EXTINF:-1 tvg-name="14:00 Primera -  Rayo Vallecano - Athletic Club" group-title="Primera",14:00 Primera -  Rayo Vallecano - Athletic Club
 acestream://f43ef903dc750610978b47df47a0cb389413fe61
 #EXTINF:-1 tvg-name="14:00 Alemania Open -  Semifinal Femenina - Premier Padel Tour" group-title="Alemania Open",14:00 Alemania Open -  Semifinal Femenina - Premier Padel Tour
 acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
-#EXTINF:-1 tvg-name="14:10 Masters Shanghai - 2ª Ronda S. Báez - V. Vacherot" group-title="Masters Shanghai",14:10 Masters Shanghai - 2ª Ronda S. Báez - V. Vacherot
+#EXTINF:-1 tvg-name="14:50 Masters Shanghai - 2ª Ronda S. Báez - V. Vacherot" group-title="Masters Shanghai",14:50 Masters Shanghai - 2ª Ronda S. Báez - V. Vacherot
 acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-name="14:15 Masters Shanghai - 2ª Ronda B. Van de Zandschulp - A. Michelsen" group-title="Masters Shanghai",14:15 Masters Shanghai - 2ª Ronda B. Van de Zandschulp - A. Michelsen
-acestream://3230cdca852a10325222e3c546e499e31d547a90
 #EXTINF:-1 tvg-name="15:00 ACB - Liga Regular Clasificación" group-title="ACB",15:00 ACB - Liga Regular Clasificación
 acestream://d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-name="16:00 Premier -  Chelsea - Bournemouth" group-title="Premier",16:00 Premier -  Chelsea - Bournemouth
@@ -107,9 +107,19 @@ acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 acestream://872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-name="06:00 Moto3 - G.P. Indonesia (Mandalika) Carrera" group-title="Moto3",06:00 Moto3 - G.P. Indonesia (Mandalika) Carrera
 acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
+#EXTINF:-1 tvg-name="06:00 Masters Shanghai - 3ª Ronda K. Khachanov - A. Mannarino" group-title="Masters Shanghai",06:00 Masters Shanghai - 3ª Ronda K. Khachanov - A. Mannarino
+acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
+#EXTINF:-1 tvg-name="06:00 Masters Shanghai - 3ª Ronda B. Shelton - A. Gea" group-title="Masters Shanghai",06:00 Masters Shanghai - 3ª Ronda B. Shelton - A. Gea
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTINF:-1 tvg-name="06:00 LPGA Aramco Korea Championship -  Jornada 4" group-title="LPGA Aramco Korea Championship",06:00 LPGA Aramco Korea Championship -  Jornada 4
 acestream://882074140fca664e119a43294afa2fb4a64917ef
 #EXTINF:-1 tvg-name="07:15 Moto2 - G.P. Indonesia (Mandalika) Carrera" group-title="Moto2",07:15 Moto2 - G.P. Indonesia (Mandalika) Carrera
 acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
+#EXTINF:-1 tvg-name="07:30 Masters Shanghai - 3ª Ronda A. De Miñaur - R. Sakamoto" group-title="Masters Shanghai",07:30 Masters Shanghai - 3ª Ronda A. De Miñaur - R. Sakamoto
+acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
+#EXTINF:-1 tvg-name="07:30 Masters Shanghai - 3ª Ronda H. Hurkacz - Y. Zhou" group-title="Masters Shanghai",07:30 Masters Shanghai - 3ª Ronda H. Hurkacz - Y. Zhou
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTINF:-1 tvg-name="09:00 MotoGP - G.P. Indonesia (Mandalika) Carrera" group-title="MotoGP",09:00 MotoGP - G.P. Indonesia (Mandalika) Carrera
 acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
+#EXTINF:-1 tvg-name="09:00 Masters Shanghai - 3ª Ronda F. Cerúndolo - J. Mensik" group-title="Masters Shanghai",09:00 Masters Shanghai - 3ª Ronda F. Cerúndolo - J. Mensik
+acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0

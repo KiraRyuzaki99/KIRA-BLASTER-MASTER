@@ -33,6 +33,8 @@
 | **Icastresana** | `kira_Ica.html` | Multi |
 | **Sportora** | `kira_tora.html` | Multi |
 | **Footystream** | `kira_foo.html` | Multi |
+| **Asiria** | `kira_asi.html` | Multi |
+| **Palinsesto Sportivo** | `Eventi_della_Settimana.html` | Multi |
 
 ---
 
@@ -72,6 +74,8 @@ https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/
 https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_hat.html
 https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_hat_od.html
 https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_foo.html
+https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_asi.html
+https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/kira_asi_palin.html
 
 
 📁 KIRA-BLASTER-MASTER/

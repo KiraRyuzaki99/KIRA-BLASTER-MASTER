@@ -109,39 +109,6 @@
     ]
   },
   {
-    "title": "Elche CF Celta de Vigo",
-    "category": "Elche CF",
-    "logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-    "start_iso": "2026-10-11T12:00:00.000Z",
-    "end_iso": "2026-10-11T14:15:00.000Z",
-    "date": "Sunday, 11 October 2026",
-    "time": "14:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/elche-vs-celta-vigo",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/elche-vs-celta-vigo/2700",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/elche-vs-celta-vigo/2701",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Monza Lazio",
     "category": "Monza",
     "logo": "https://cdn.img4every1.org/team/monza/logo.webp",
@@ -379,7 +346,7 @@
     "end_iso": "2026-10-11T16:30:00.000Z",
     "date": "Sunday, 11 October 2026",
     "time": "16:15",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/real-sociedad-vs-deportivo-la-coruna",
     "servers": [
       {
@@ -535,7 +502,28 @@
     "time": "18:15",
     "status": "next",
     "event_url": "https://pogo.pk/events/real-betis-vs-osasuna",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-betis-vs-osasuna/2727",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-betis-vs-osasuna/2728",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Troyes Olympique Marseille",
@@ -547,7 +535,28 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/troyes-vs-marseille",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/troyes-vs-marseille/2725",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://playerdee.top/alpha/troyes-vs-marseille/2726",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      }
+    ]
   },
   {
     "title": "Juventus Cagliari",
@@ -602,7 +611,28 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/racing-vs-valencia",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/racing-vs-valencia/2729",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/racing-vs-valencia/2730",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Atalanta Venezia",

@@ -1,148 +1,194 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
 """
-Genera un palinsesto settimanale da asiria.is
-- Estrae eventi da https://asiria.is/api_all.php
-- Raggruppa per giorno e per sport
-- Genera HTML con struttura simile a kira_ultra.html
+Palinsesto settimanale da asiria.is CON link streaming
+Fonte: indexgol.txt
+Raggruppa per giorno e sport, con nome canale leggibile
 """
 
+import re
 import json
 import urllib.request
-from datetime import datetime, date, timedelta
+from datetime import date, timedelta
 from collections import defaultdict
+from jinja2 import Environment
 
-# ============================================================
-# CONFIGURAZIONE
-# ============================================================
-API_URL = "https://asiria.is/api_all.php"
+URL_TXT = "https://asiria.is/indexgol.txt"
 API_CHANNELS = "https://asiria.is/channels_api.php"
 OUTPUT_HTML = "kira_asi_sett.html"
-GIORNI_DA_MOSTRARE = 7
+GIORNI = 7
+
+MESI = {
+    "january": 1, "february": 2, "march": 3, "april": 4,
+    "may": 5, "june": 6, "july": 7, "august": 8,
+    "september": 9, "october": 10, "november": 11, "december": 12
+}
+
 
 # ============================================================
 # UTILITY
 # ============================================================
 
-def scarica_json(url):
-    """Scarica JSON da URL con header browser-like."""
-    req = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36",
-            "Accept": "application/json"
-        }
-    )
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return json.loads(resp.read().decode("utf-8"))
+def scarica_testo(url):
+    req = urllib.request.Request(url, headers={
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36"
+    })
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return r.read().decode("utf-8", errors="replace")
 
 
 def carica_canali():
-    """Crea una mappa URL->nome canale per visualizzazione."""
+    """Crea mappa URL → nome canale."""
     try:
-        data = scarica_json(API_CHANNELS)
+        req = urllib.request.Request(API_CHANNELS, headers={
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10)"
+        })
+        with urllib.request.urlopen(req, timeout=30) as r:
+            data = json.loads(r.read().decode("utf-8"))
         mappa = {}
         for ch in data.get("channels", []):
-            url = ch.get("url", "")
-            nome = ch.get("name", "")
-            if url and nome:
-                mappa[url] = nome
+            if ch.get("url") and ch.get("name"):
+                mappa[ch["url"]] = ch["name"]
         return mappa
     except Exception as e:
-        print(f"⚠️ Impossibile caricare i canali: {e}")
+        print(f"⚠️ Canali non caricati: {e}")
         return {}
 
 
-def nome_canale(url, mappa_canali):
-    """Restituisce il nome del canale se disponibile, altrimenti l'URL."""
-    if url in mappa_canali:
-        return mappa_canali[url]
-    # Fallback: estrai il nome del file
-    return url.split("/")[-1].replace(".php", "")
+def nome_canale(url, mappa):
+    return mappa.get(url, url.split("/")[-1].replace(".php", ""))
+
+
+def parsa_data(stringa):
+    """Parsa 'Sunday, 11 October 2026' in date."""
+    m = re.match(
+        r"(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s+(\d+)\s+(\w+)\s+(\d{4})",
+        stringa.strip(), re.IGNORECASE
+    )
+    if not m:
+        return None
+    try:
+        return date(int(m.group(4)), MESI[m.group(3).lower()], int(m.group(2)))
+    except (ValueError, KeyError):
+        return None
 
 
 # ============================================================
-# ESTRAZIONE DATI
+# PARSING
 # ============================================================
 
-def estrai_eventi_settimana():
-    """Estrae gli eventi di una settimana da api_all.php."""
-    print("=" * 60)
-    print("  ESTRAZIONE EVENTI DA asiria.is")
-    print("=" * 60)
-    
-    print("\n📡 Scaricando eventi da api_all.php...")
-    data = scarica_json(API_URL)
-    
-    if data.get("status") != "ok":
-        print("❌ Errore: risposta API non valida")
-        return {}
-    
-    eventi_raw = data.get("events", [])
-    print(f"   ✅ Ricevuti {len(eventi_raw)} eventi totali")
-    
-    # Carica mappa canali
-    print("\n📺 Caricando lista canali...")
-    mappa_canali = carica_canali()
-    print(f"   ✅ {len(mappa_canali)} canali caricati")
-    
-    # Data di oggi e intervallo settimanale
-    oggi = date.today()
-    data_limite = oggi + timedelta(days=GIORNI_DA_MOSTRARE)
-    
-    print(f"\n📅 Intervallo: da {oggi.isoformat()} a {data_limite.isoformat()}")
-    print("-" * 60)
-    
-    # Struttura: {data_iso: {sport: [eventi]}}
+def parsa_indexgol_completo(testo, mappa_canali):
+    """
+    Parsa TUTTO indexgol.txt.
+    Ritorna: {data_iso: {sport: [eventi]}}
+    """
     palinsesto = defaultdict(lambda: defaultdict(list))
     
-    eventi_filtrati = 0
-    for ev in eventi_raw:
-        try:
-            data_ev = date.fromisoformat(ev.get("date", ""))
-        except (ValueError, TypeError):
+    pattern_data = re.compile(
+        r"(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s+\d+\s+\w+\s+\d{4}",
+        re.IGNORECASE
+    )
+    
+    matches = list(pattern_data.finditer(testo))
+    
+    for i, m in enumerate(matches):
+        data_str = m.group(0)
+        data_obj = parsa_data(data_str)
+        if not data_obj:
             continue
+        data_iso = data_obj.isoformat()
         
-        # Filtra solo eventi nell'intervallo settimanale
-        if not (oggi <= data_ev < data_limite):
-            continue
+        inizio = m.end()
+        fine = matches[i + 1].start() if i + 1 < len(matches) else len(testo)
+        sezione = testo[inizio:fine]
         
-        data_iso = ev["date"]
-        sport = ev.get("sport", "altro").capitalize()
+        blocchi = re.split(r"-{10,}", sezione)
         
-        # Arricchisci con nomi canali
-        links_arricchiti = []
-        for url in ev.get("links", []):
-            links_arricchiti.append({
-                "url": url,
-                "nome": nome_canale(url, mappa_canali)
+        for blocco in blocchi:
+            blocco = blocco.strip()
+            if not blocco:
+                continue
+            righe = [r.strip() for r in blocco.split("\n") if r.strip()]
+            if not righe:
+                continue
+            
+            prima = righe[0]
+            m2 = re.match(r"^(\d{1,2}:\d{2})\s+(.+)$", prima)
+            if not m2:
+                continue
+            
+            orario = m2.group(1)
+            resto = m2.group(2)
+            
+            if ":" in resto:
+                sport_raw, evento = resto.split(":", 1)
+                sport = sport_raw.strip().capitalize()
+                evento = evento.strip()
+            else:
+                if resto.lower().startswith("tennis"):
+                    sport = "Tennis"
+                else:
+                    sport = "Altro"
+                evento = resto
+            
+            # Estrai link
+            links_urls = [r for r in righe[1:] if r.startswith("http")]
+            links = [
+                {"url": u, "nome": nome_canale(u, mappa_canali)}
+                for u in links_urls
+            ]
+            
+            palinsesto[data_iso][sport].append({
+                "time": orario,
+                "event": evento,
+                "links": links
             })
-        
-        evento = {
-            "time": ev.get("time", "N/D"),
-            "event": ev.get("event", "Evento sconosciuto"),
-            "timestamp": ev.get("timestamp", 0),
-            "links": links_arricchiti
-        }
-        
-        palinsesto[data_iso][sport].append(evento)
-        eventi_filtrati += 1
     
-    print(f"\n   ✅ {eventi_filtrati} eventi nell'intervallo settimanale")
-    print("\n📊 Riepilogo per giorno:")
-    for data_iso in sorted(palinsesto.keys()):
-        d = date.fromisoformat(data_iso)
-        sport_count = {s: len(evs) for s, evs in palinsesto[data_iso].items()}
-        print(f"   📅 {d.strftime('%A %d %B')}: {sum(sport_count.values())} eventi")
-        for sport, count in sport_count.items():
-            print(f"      🏆 {sport}: {count}")
-    
-    return dict(palinsesto)
+    return {d: dict(s) for d, s in palinsesto.items()}
 
 
 # ============================================================
-# GENERAZIONE HTML
+# ESTRAZIONE
+# ============================================================
+
+def estrai_settimana():
+    print("=" * 55)
+    print("  ASIRIA.IS — PALINSESTO SETTIMANALE (CON LINK)")
+    print("=" * 55)
+    
+    testo = scarica_testo(URL_TXT)
+    print(f"\n📡 Scaricati {len(testo)} caratteri da indexgol.txt")
+    
+    mappa = carica_canali()
+    print(f"📺 {len(mappa)} canali caricati")
+    
+    completo = parsa_indexgol_completo(testo, mappa)
+    print(f"📅 Date totali nel file: {len(completo)}")
+    
+    oggi = date.today()
+    limite = oggi + timedelta(days=GIORNI)
+    print(f"📅 Intervallo: {oggi} → {limite}\n")
+    
+    palinsesto = {}
+    for d_iso, sport_dict in completo.items():
+        d = date.fromisoformat(d_iso)
+        if oggi <= d < limite:
+            palinsesto[d_iso] = sport_dict
+    
+    totale = sum(len(v) for sd in palinsesto.values() for v in sd.values())
+    print(f"✅ {totale} eventi nella settimana:")
+    for d_iso in sorted(palinsesto):
+        d = date.fromisoformat(d_iso)
+        n = sum(len(v) for v in palinsesto[d_iso].values())
+        print(f"   📅 {d.strftime('%A %d %B')}: {n} eventi")
+        for sport, evs in palinsesto[d_iso].items():
+            print(f"      🏆 {sport}: {len(evs)}")
+    
+    return palinsesto
+
+
+# ============================================================
+# TEMPLATE HTML
 # ============================================================
 
 HTML_TEMPLATE = r"""<!DOCTYPE html>
@@ -160,14 +206,14 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
             color: #00ffcc;
             min-height: 100vh;
             overflow-x: hidden;
-            position: relative;
         }
         .matrix-bg {
-            position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; background: #0a0a0a; overflow: hidden;
+            position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
+            z-index: -1; background: #0a0a0a; overflow: hidden;
         }
         .matrix-bg::before {
             content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%;
-            background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0, 255, 204, 0.03) 2px, rgba(0, 255, 204, 0.03) 4px);
+            background: repeating-linear-gradient(0deg, transparent, transparent 3px, rgba(0, 255, 204, 0.12) 3px, rgba(0, 255, 204, 0.12) 6px);
             animation: matrixScroll 15s linear infinite;
         }
         @keyframes matrixScroll { 0% { transform: translateY(0); } 100% { transform: translateY(100%); } }
@@ -281,42 +327,33 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
 
 
 def genera_html(palinsesto):
-    """Genera il file HTML finale."""
-    from jinja2 import Environment
-    
     if not palinsesto:
         print("❌ Nessun evento da mostrare")
         return
     
-    # Ordina giorni
     giorni_ordinati = sorted(palinsesto.keys())
     
-    # Label giorni
     giorno_label = {}
     for data_iso in giorni_ordinati:
         d = date.fromisoformat(data_iso)
         giorno_label[data_iso] = d.strftime("%A %d %B %Y").capitalize()
     
-    # Ordina sport per ogni giorno (prima football, poi altri alfabeticamente)
     sport_ordinati = {}
     for data_iso in giorni_ordinati:
         sport_list = list(palinsesto[data_iso].keys())
         sport_list.sort(key=lambda s: (s.lower() != "football", s))
         sport_ordinati[data_iso] = sport_list
     
-    # Label settimana
     inizio = date.fromisoformat(giorni_ordinati[0]).strftime("%d/%m/%Y")
     fine = date.fromisoformat(giorni_ordinati[-1]).strftime("%d/%m/%Y")
     settimana_label = f"{inizio} - {fine}"
     
-    # Totale eventi
     totale = sum(
         len(eventi)
         for sport_dict in palinsesto.values()
         for eventi in sport_dict.values()
     )
     
-    # Render
     env = Environment()
     template = env.from_string(HTML_TEMPLATE)
     html_output = template.render(
@@ -335,7 +372,6 @@ def genera_html(palinsesto):
     print(f"\n✅ File generato: {OUTPUT_HTML}")
     print(f"   Totale eventi: {totale}")
     print(f"   Giorni: {len(giorni_ordinati)}")
-    print(f"   Sport unici: {len(set(s for d in palinsesto.values() for s in d.keys()))}")
 
 
 # ============================================================
@@ -344,15 +380,11 @@ def genera_html(palinsesto):
 
 if __name__ == "__main__":
     try:
-        # Estrai eventi
-        palinsesto = estrai_eventi_settimana()
-        
-        # Genera HTML
+        palinsesto = estrai_settimana()
         if palinsesto:
             genera_html(palinsesto)
         else:
-            print("\n⚠️ Nessun evento trovato nell'intervallo settimanale")
-    
+            print("\n⚠️ Nessun evento trovato nella settimana")
     except Exception as e:
         print(f"\n❌ Errore: {e}")
         import traceback

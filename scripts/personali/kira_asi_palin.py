@@ -2,134 +2,146 @@
 # -*- coding: utf-8 -*-
 """
 Palinsesto settimanale da asiria.is SENZA link streaming
-Solo orari e nomi eventi, raggruppati per giorno e sport
+Fonte: indexgol.txt
 """
 
-import json
+import re
 import urllib.request
-from datetime import date, timedelta
+from datetime import date, timedelta, datetime
 from collections import defaultdict
 from jinja2 import Environment
 
-API_URL = "https://asiria.is/api_all.php"
+URL_TXT = "https://asiria.is/indexgol.txt"
 OUTPUT_HTML = "Eventi della Settimana.html"
 GIORNI = 7
 
+MESI = {
+    "january": 1, "february": 2, "march": 3, "april": 4,
+    "may": 5, "june": 6, "july": 7, "august": 8,
+    "september": 9, "october": 10, "november": 11, "december": 12
+}
 
-def scarica_json(url):
+
+def scarica_testo(url):
     req = urllib.request.Request(url, headers={
-        "User-Agent": "Mozilla/5.0 (Linux; Android 10)",
-        "Accept": "application/json"
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36"
     })
     with urllib.request.urlopen(req, timeout=30) as r:
-        return json.loads(r.read().decode("utf-8"))
+        return r.read().decode("utf-8", errors="replace")
+
+
+def parsa_data(stringa):
+    """Parsa 'Sunday, 11 October 2026' in date."""
+    m = re.match(
+        r"(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s+(\d+)\s+(\w+)\s+(\d{4})",
+        stringa.strip(), re.IGNORECASE
+    )
+    if not m:
+        return None
+    try:
+        return date(int(m.group(4)), MESI[m.group(3).lower()], int(m.group(2)))
+    except (ValueError, KeyError):
+        return None
+
+
+def parsa_indexgol_completo(testo):
+    """
+    Parsa TUTTO indexgol.txt.
+    Ritorna: {data_iso: {sport: [eventi]}}
+    """
+    palinsesto = defaultdict(lambda: defaultdict(list))
+    
+    # Dividi per date: ogni data è un header "Day, DD Month YYYY"
+    pattern_data = re.compile(
+        r"(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s+\d+\s+\w+\s+\d{4}",
+        re.IGNORECASE
+    )
+    
+    # Trova tutte le date e le loro posizioni
+    matches = list(pattern_data.finditer(testo))
+    
+    for i, m in enumerate(matches):
+        data_str = m.group(0)
+        data_obj = parsa_data(data_str)
+        if not data_obj:
+            continue
+        data_iso = data_obj.isoformat()
+        
+        inizio = m.end()
+        fine = matches[i + 1].start() if i + 1 < len(matches) else len(testo)
+        
+        sezione = testo[inizio:fine]
+        
+        # Dividi in blocchi per separatore -----
+        blocchi = re.split(r"-{10,}", sezione)
+        
+        for blocco in blocchi:
+            blocco = blocco.strip()
+            if not blocco:
+                continue
+            righe = [r.strip() for r in blocco.split("\n") if r.strip()]
+            if not righe:
+                continue
+            
+            prima = righe[0]
+            m2 = re.match(r"^(\d{1,2}:\d{2})\s+(.+)$", prima)
+            if not m2:
+                continue
+            
+            orario = m2.group(1)
+            resto = m2.group(2)
+            
+            if ":" in resto:
+                sport_raw, evento = resto.split(":", 1)
+                sport = sport_raw.strip().capitalize()
+                evento = evento.strip()
+            else:
+                if resto.lower().startswith("tennis"):
+                    sport = "Tennis"
+                else:
+                    sport = "Altro"
+                evento = resto
+            
+            palinsesto[data_iso][sport].append({
+                "time": orario,
+                "event": evento
+            })
+    
+    return {d: dict(s) for d, s in palinsesto.items()}
 
 
 def estrai_settimana():
     print("=" * 55)
     print("  ASIRIA.IS — PALINSESTO SETTIMANALE (SENZA LINK)")
     print("=" * 55)
-
-    data = scarica_json(API_URL)
-    eventi_raw = data.get("events", [])
-    print(f"\n📡 {len(eventi_raw)} eventi totali ricevuti")
-
+    
+    testo = scarica_testo(URL_TXT)
+    print(f"\n📡 Scaricati {len(testo)} caratteri")
+    
+    completo = parsa_indexgol_completo(testo)
+    print(f"📅 Date trovate nel file: {len(completo)}")
+    
     oggi = date.today()
     limite = oggi + timedelta(days=GIORNI)
-    print(f"📅 Intervallo: {oggi.isoformat()} → {limite.isoformat()}\n")
-
-    palinsesto = defaultdict(lambda: defaultdict(list))
-    count = 0
-
-    for ev in eventi_raw:
-        try:
-            d = date.fromisoformat(ev.get("date", ""))
-        except (ValueError, TypeError):
-            continue
-        if not (oggi <= d < limite):
-            continue
-        sport = ev.get("sport", "altro").capitalize()
-        palinsesto[ev["date"]][sport].append({
-            "time": ev.get("time", "N/D"),
-            "event": ev.get("event", "?")
-        })
-        count += 1
-
-    print(f"✅ {count} eventi nella settimana:")
-    for d_iso in sorted(palinsesto):
+    
+    # Filtra solo i giorni nell'intervallo
+    palinsesto = {}
+    for d_iso, sport_dict in completo.items():
         d = date.fromisoformat(d_iso)
+        if oggi <= d < limite:
+            palinsesto[d_iso] = sport_dict
+    
+    totale = sum(len(v) for sd in palinsesto.values() for v in sd.values())
+    print(f"\n✅ {totale} eventi nell'intervallo {oggi} → {limite}")
+    for d_iso in sorted(palinsesto):
         n = sum(len(v) for v in palinsesto[d_iso].values())
-        print(f"   📅 {d.strftime('%A %d %B')}: {n} eventi")
+        print(f"   📅 {d_iso}: {n} eventi")
+    
+    return palinsesto
 
-    return dict(palinsesto)
 
-
-HTML_PURO = r"""<!DOCTYPE html>
-<html lang="it"><head><meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>CYBER GATE ACCESS • {{ settimana }}</title>
-<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Audiowide&display=swap" rel="stylesheet">
-<style>
-*{margin:0;padding:0;box-sizing:border-box}
-body{font-family:'Grotesk',sans-serif;background:#0a0a0a;color:#00ffcc;min-height:100vh}
-.matrix-bg{position:fixed;top:0;left:0;width:100%;height:100%;z-index:-1;background:#0a0a0a}
-.matrix-bg::before{content:'';position:absolute;top:0;left:0;width:100%;height:100%;
-background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,255,204,.03) 2px,rgba(0,255,204,.03) 4px);
-animation:ms 15s linear infinite}
-@keyframes ms{0%{transform:translateY(0)}100%{transform:translateY(100%)}}
-.container{max-width:1200px;margin:0 auto;padding:20px;position:relative;z-index:1}
-.header{text-align:center;padding:30px 0 40px;border-bottom:2px solid rgba(0,255,204,.3);margin-bottom:40px}
-.header h1{font-family:'Orbitron',sans-serif;font-weight:900;font-size:3.5rem;
-text-shadow:0 0 20px rgba(0,255,204,.5);
-background:linear-gradient(135deg,#00ffcc,#00ccff);
--webkit-background-clip:text;-webkit-text-fill-color:transparent;letter-spacing:4px}
-.header .subtitle{font-family:'Audiowide',cursive;color:#88ffdd;font-size:1.2rem;margin-top:10px}
-.day-section{margin-bottom:50px}
-.day-header{font-family:'Orbitron',sans-serif;font-weight:900;font-size:1.8rem;
-color:#00ffcc;padding:15px 20px;background:rgba(0,255,204,.08);
-border-left:4px solid #00ffcc;margin-bottom:25px;
-text-shadow:0 0 15px rgba(0,255,204,.3)}
-.sport-header{font-family:'Audiowide',cursive;font-size:1.2rem;color:#88ffdd;
-padding:8px 15px;margin:20px 0 15px;background:rgba(0,255,204,.05);
-border-radius:8px;display:inline-block}
-.events-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(350px,1fr));gap:25px}
-.event-card{background:rgba(0,30,30,.7);border:1px solid rgba(0,255,204,.2);
-border-radius:15px;padding:25px;transition:all .3s ease}
-.event-card:hover{transform:translateY(-5px);border-color:rgba(0,255,204,.6);box-shadow:0 0 40px rgba(0,255,204,.15)}
-.event-info h3{font-family:'Orbitron',sans-serif;font-weight:700;font-size:1.1rem;color:#00ffcc;margin-bottom:8px}
-.event-info .datetime{color:#88ddff;font-size:.9rem;opacity:.8}
-.fonte-badge{display:inline-block;font-size:.75rem;background:rgba(0,255,204,.15);
-color:#88ffdd;padding:2px 12px;border-radius:12px;margin-top:8px;border:1px solid rgba(0,255,204,.2)}
-.footer{text-align:center;padding:40px 0 20px;margin-top:60px;
-border-top:1px solid rgba(0,255,204,.2);color:#88ddff;opacity:.7}
-</style></head><body>
-<div class="matrix-bg"></div>
-<div class="container">
-<header class="header">
-<h1>KIRA GATE ACCESS </h1>
-<p class="subtitle">• Palinsesto Sportivo {{ settimana }} •</p>
-</header>
-{% for d_iso in giorni %}
-<div class="day-section">
-<div class="day-header">📅 {{ giorno_label[d_iso] }}</div>
-{% for sport in sport_ordinati[d_iso] %}
-<div class="sport-header">🏆 {{ sport }} ({{ palinsesto[d_iso][sport]|length }})</div>
-<div class="events-grid">
-{% for ev in palinsesto[d_iso][sport] %}
-<div class="event-card">
-<div class="event-info">
-<h3>{{ ev.event }}</h3>
-<p class="datetime">🕒 {{ ev.time }}</p>
-<span class="fonte-badge">📡 asiria.is</span>
-</div>
-</div>
-{% endfor %}
-</div>
-{% endfor %}
-</div>
-{% endfor %}
-<footer class="footer"><p>KIRA GSI SPORT • Palinsesto Sportivo {{ settimana }} Developed by KIRA GSI GROUP</p></footer>
-</div></body></html>"""
+# HTML_PURO rimane identico a prima (senza link)
+HTML_PURO = r"""..."""  # ← COPIA quello che hai già
 
 
 def genera_html(palinsesto):

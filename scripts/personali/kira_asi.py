@@ -2,32 +2,44 @@
 # -*- coding: utf-8 -*-
 """
 Estrae SOLO gli eventi del giorno corrente da asiria.is
-Genera HTML con struttura Kira Ultra (con link streaming)
+Usa indexgol.txt (formato testuale) invece di api_all.php
 """
 
-import json
+import re
 import urllib.request
 from datetime import date
 from collections import defaultdict
 from jinja2 import Environment
 
-API_URL = "https://asiria.is/api_all.php"
+URL_TXT = "https://asiria.is/indexgol.txt"
 API_CHANNELS = "https://asiria.is/channels_api.php"
 OUTPUT_HTML = "kira_asi.html"
 
+# Mesi inglesi → numero
+MESI = {
+    "january": 1, "february": 2, "march": 3, "april": 4,
+    "may": 5, "june": 6, "july": 7, "august": 8,
+    "september": 9, "october": 10, "november": 11, "december": 12
+}
 
-def scarica_json(url):
+
+def scarica_testo(url):
     req = urllib.request.Request(url, headers={
-        "User-Agent": "Mozilla/5.0 (Linux; Android 10)",
-        "Accept": "application/json"
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36"
     })
     with urllib.request.urlopen(req, timeout=30) as r:
-        return json.loads(r.read().decode("utf-8"))
+        return r.read().decode("utf-8", errors="replace")
 
 
 def carica_canali():
+    """Crea una mappa URL->nome canale."""
     try:
-        data = scarica_json(API_CHANNELS)
+        import json
+        req = urllib.request.Request(API_CHANNELS, headers={
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10)"
+        })
+        with urllib.request.urlopen(req, timeout=30) as r:
+            data = json.loads(r.read().decode("utf-8"))
         mappa = {}
         for ch in data.get("channels", []):
             if ch.get("url") and ch.get("name"):
@@ -42,43 +54,126 @@ def nome_canale(url, mappa):
     return mappa.get(url, url.split("/")[-1].replace(".php", ""))
 
 
-def estrai_oggi():
-    print("=" * 55)
-    print("  ASIRIA.IS — EVENTI DI OGGI")
-    print("=" * 55)
-
-    data = scarica_json(API_URL)
-    eventi_raw = data.get("events", [])
-    print(f"\n📡 Ricevuti {len(eventi_raw)} eventi totali")
-
-    mappa = carica_canali()
-    print(f"📺 {len(mappa)} canali caricati")
-
-    oggi_iso = date.today().isoformat()
-    print(f"📅 Filtro: {oggi_iso}\n")
-
-    palinsesto = defaultdict(lambda: defaultdict(list))
-
-    for ev in eventi_raw:
-        if ev.get("date") != oggi_iso:
+def parsa_indexgol(testo, data_target):
+    """
+    Parsa indexgol.txt ed estrae eventi per una data specifica.
+    Ritorna: {sport: [eventi]}
+    """
+    # Trova la sezione della data target
+    # Formato: "Sunday, 11 October 2026"
+    giorno_nome = data_target.strftime("%A")
+    giorno_num = data_target.day
+    mese_nome = data_target.strftime("%B").lower()
+    anno = data_target.year
+    
+    # Pattern della data nella sezione
+    pattern_data = re.compile(
+        rf"{giorno_nome},\s+{giorno_num}\s+{mese_nome}\s+{anno}",
+        re.IGNORECASE
+    )
+    
+    # Trova la posizione della data target
+    match = pattern_data.search(testo)
+    if not match:
+        print(f"⚠️ Data {data_target} non trovata in indexgol.txt")
+        return {}
+    
+    # Estrai testo da questa data alla prossima data (o fine)
+    inizio = match.end()
+    
+    # Trova la prossima data qualsiasi
+    pattern_prossima = re.compile(
+        r"(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s+\d+\s+\w+\s+\d{4}"
+    )
+    prossima = pattern_prossima.search(testo, inizio)
+    fine = prossima.start() if prossima else len(testo)
+    
+    sezione = testo[inizio:fine]
+    
+    # Parsa la sezione: blocchi separati da ---------------------------------------
+    blocchi = re.split(r"-{10,}", sezione)
+    
+    palinsesto = defaultdict(list)
+    
+    for blocco in blocchi:
+        blocco = blocco.strip()
+        if not blocco:
             continue
-        sport = ev.get("sport", "altro").capitalize()
-        links = [{"url": u, "nome": nome_canale(u, mappa)}
-                 for u in ev.get("links", [])]
-        palinsesto[oggi_iso][sport].append({
-            "time": ev.get("time", "N/D"),
-            "event": ev.get("event", "?"),
+        
+        righe = [r.strip() for r in blocco.split("\n") if r.strip()]
+        if len(righe) < 1:
+            continue
+        
+        # Prima riga: "13:15 Football: Utrecht vs Willem II"
+        prima = righe[0]
+        m = re.match(r"^(\d{1,2}:\d{2})\s+(.+)$", prima)
+        if not m:
+            continue
+        
+        orario = m.group(1)
+        resto = m.group(2)
+        
+        # Estrai sport: "Football: ...", "Tennis ATP Shanghai", ecc.
+        if ":" in resto:
+            sport_raw, evento = resto.split(":", 1)
+            sport = sport_raw.strip().capitalize()
+            evento = evento.strip()
+        else:
+            # Nessun "Sport:" esplicito, deduci dal testo
+            if resto.lower().startswith("tennis"):
+                sport = "Tennis"
+                evento = resto
+            else:
+                sport = "Altro"
+                evento = resto
+        
+        # Raccogli i link (righe che iniziano con http)
+        links = [r for r in righe[1:] if r.startswith("http")]
+        
+        palinsesto[sport].append({
+            "time": orario,
+            "event": evento,
             "links": links
         })
+    
+    return dict(palinsesto)
 
-    totale = sum(len(v) for v in palinsesto[oggi_iso].values())
-    print(f"✅ {totale} eventi trovati per oggi:")
-    for s, evs in palinsesto[oggi_iso].items():
+
+def estrai_oggi():
+    print("=" * 55)
+    print("  ASIRIA.IS — EVENTI DI OGGI (via indexgol.txt)")
+    print("=" * 55)
+    
+    oggi = date.today()
+    print(f"\n📅 Data target: {oggi.isoformat()}")
+    
+    testo = scarica_testo(URL_TXT)
+    print(f"📡 Scaricati {len(testo)} caratteri da indexgol.txt")
+    
+    mappa = carica_canali()
+    print(f"📺 {len(mappa)} canali caricati")
+    
+    palinsesto = parsa_indexgol(testo, oggi)
+    
+    totale = sum(len(v) for v in palinsesto.values())
+    print(f"\n✅ {totale} eventi trovati per oggi:")
+    for s, evs in palinsesto.items():
         print(f"   🏆 {s}: {len(evs)}")
+    
+    # Sostituisci gli URL dei link con i nomi canale
+    for sport in palinsesto:
+        for ev in palinsesto[sport]:
+            ev["links_nomi"] = [
+                {"url": u, "nome": nome_canale(u, mappa)}
+                for u in ev["links"]
+            ]
+    
+    return palinsesto, oggi.isoformat()
 
-    return dict(palinsesto), oggi_iso
 
-
+# ============================================================
+# TEMPLATE HTML (identico a prima)
+# ============================================================
 HTML_OGGI = r"""<!DOCTYPE html>
 <html lang="it"><head><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -87,11 +182,9 @@ HTML_OGGI = r"""<!DOCTYPE html>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:'Grotesk',sans-serif;background:#0a0a0a;color:#00ffcc;min-height:100vh}
-.matrix-bg{position:fixed;top:0;left:0;width:100%;height:100%;z-index:-1;background:#0a0a0a}
+.matrix-bg{position:fixed;top:0;left:0;width:100vw;height:100vh;z-index:-1;background:#0a0a0a;overflow:hidden}
 .matrix-bg::before{content:'';position:absolute;top:0;left:0;width:100%;height:100%;
-background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,255,204,.03) 2px,rgba(0,255,204,.03) 4px);
-animation:ms 15s linear infinite}
-background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,255,204,.03) 2px,rgba(0,255,204,.03) 4px);
+background:repeating-linear-gradient(0deg,transparent,transparent 3px,rgba(0,255,204,.12) 3px,rgba(0,255,204,.12) 6px);
 animation:ms 15s linear infinite}
 @keyframes ms{0%{transform:translateY(0)}100%{transform:translateY(100%)}}
 .container{max-width:1200px;margin:0 auto;padding:20px;position:relative;z-index:1}
@@ -133,7 +226,7 @@ border-top:1px solid rgba(0,255,204,.2);color:#88ddff;opacity:.7}
 <div style="text-align:center">
 <div class="counter">🎯 <span>{{ totale }}</span> eventi oggi</div>
 </div>
-{% for sport, eventi in palinsesto[data_iso].items() %}
+{% for sport, eventi in palinsesto.items() %}
 <div class="sport-header">🏆 {{ sport }} ({{ eventi|length }})</div>
 <div class="events-grid">
 {% for ev in eventi %}
@@ -144,8 +237,8 @@ border-top:1px solid rgba(0,255,204,.2);color:#88ddff;opacity:.7}
 <span class="fonte-badge">📡 asiria.is</span>
 </div>
 <div class="event-links">
-{% if ev.links %}
-{% for l in ev.links %}
+{% if ev.links_nomi %}
+{% for l in ev.links_nomi %}
 <a href="{{ l.url }}" target="_blank" class="server-link">▶ {{ l.nome }}</a>
 {% endfor %}
 {% else %}
@@ -161,7 +254,7 @@ border-top:1px solid rgba(0,255,204,.2);color:#88ddff;opacity:.7}
 
 
 def genera_html(palinsesto, data_iso):
-    totale = sum(len(v) for v in palinsesto[data_iso].values())
+    totale = sum(len(v) for v in palinsesto.values())
     env = Environment()
     t = env.from_string(HTML_OGGI)
     out = t.render(palinsesto=palinsesto, data_iso=data_iso, totale=totale)
@@ -172,7 +265,7 @@ def genera_html(palinsesto, data_iso):
 
 if __name__ == "__main__":
     palinsesto, data_iso = estrai_oggi()
-    if palinsesto.get(data_iso):
+    if palinsesto:
         genera_html(palinsesto, data_iso)
     else:
         print("⚠️ Nessun evento oggi")

@@ -48,7 +48,6 @@ Tutti i file generati sono disponibili nelle cartelle:
 
 ### Link diretto al Catalogo 
 https://raw.githubusercontent.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/main/output/index.html
-https://github.com/KiraRyuzaki99/KIRA-BLASTER-MASTER/blob/main/output/index.html
 
 ---
 

@@ -43,29 +43,6 @@
     ]
   },
   {
-    "title": "Atlético Madrid Manchester United",
-    "category": "Atlético Madrid",
-    "logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-    "start_iso": "2026-10-13T14:00:00.000Z",
-    "end_iso": "2026-10-13T16:15:00.000Z",
-    "date": "Tuesday, 13 October 2026",
-    "time": "16:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/atletico-vs-man-united",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/atletico-vs-man-united/2770",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Sabah Baku Slavia Praha",
     "category": "Sabah Baku",
     "logo": "https://cdn.img4every1.org/team/sabah-baku/logo.webp",
@@ -75,7 +52,28 @@
     "time": "18:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/sabah-vs-slavia-praha",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/sabah-vs-slavia-praha/2773",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/sabah-vs-slavia-praha/2775",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Lens Sporting CP",
@@ -87,7 +85,28 @@
     "time": "18:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/lens-vs-sporting-cp",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/lens-vs-sporting-cp/2774",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/lens-vs-sporting-cp/2776",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Arsenal Lille",

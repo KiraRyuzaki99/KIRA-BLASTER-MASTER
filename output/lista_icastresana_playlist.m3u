@@ -1,33 +1,59 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="10:30 Masters Shanghai - 3ª Ronda A. Fils - B. Van de Zandschulp" group-title="Masters Shanghai",10:30 Masters Shanghai - 3ª Ronda A. Fils - B. Van de Zandschulp
-acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-name="12:00 Masters Shanghai - 3ª Ronda Z. Bergs - C. Alcaraz" group-title="Masters Shanghai",12:00 Masters Shanghai - 3ª Ronda Z. Bergs - C. Alcaraz
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 tvg-name="13:30 Masters Shanghai - 3ª Ronda T. Paul - V. Vacherot" group-title="Masters Shanghai",13:30 Masters Shanghai - 3ª Ronda T. Paul - V. Vacherot
+#EXTINF:-1 tvg-name="12:00 Masters Shanghai - 1/8 de final A. Zverev - A. Bublik" group-title="Masters Shanghai",12:00 Masters Shanghai - 1/8 de final A. Zverev - A. Bublik
 acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-name="13:35 WTA Wuhan - 1ª Ronda Xi. Wang - X. Wang" group-title="WTA Wuhan",13:35 WTA Wuhan - 1ª Ronda Xi. Wang - X. Wang
+#EXTINF:-1 tvg-name="13:00 WTA Wuhan - 1ª Ronda A. Krueger - S. Zhang" group-title="WTA Wuhan",13:00 WTA Wuhan - 1ª Ronda A. Krueger - S. Zhang
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
-#EXTINF:-1 tvg-name="14:00 Segunda -  Real Valladolid - Albacete" group-title="Segunda",14:00 Segunda -  Real Valladolid - Albacete
-acestream://60952921b847a9c560741b0d8048a2d8ad194a7f
-#EXTINF:-1 tvg-name="15:00 WTA Wuhan - 1ª Ronda A. Eala - H. Shi" group-title="WTA Wuhan",15:00 WTA Wuhan - 1ª Ronda A. Eala - H. Shi
+#EXTINF:-1 tvg-name="13:30 Masters Shanghai - 1/8 de final H. Hurkacz - A. Davidovich" group-title="Masters Shanghai",13:30 Masters Shanghai - 1/8 de final H. Hurkacz - A. Davidovich
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1 tvg-name="14:00 Youth League - Fase Liga Galatasaray Academy - FC Barcelona Academy" group-title="Youth League",14:00 Youth League - Fase Liga Galatasaray Academy - FC Barcelona Academy
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-name="14:00 Youth League - Fase Liga RB Leipzig Academy - PSV Academy" group-title="Youth League",14:00 Youth League - Fase Liga RB Leipzig Academy - PSV Academy
+acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+#EXTINF:-1 tvg-name="14:30 WTA Wuhan - 2ª Ronda M. Pohankova - Xi. Wang" group-title="WTA Wuhan",14:30 WTA Wuhan - 2ª Ronda M. Pohankova - Xi. Wang
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
-#EXTINF:-1 tvg-name="16:00 1RFEF - Grupo 1 Cultural Leonesa - Arenas Club" group-title="1RFEF",16:00 1RFEF - Grupo 1 Cultural Leonesa - Arenas Club
-acestream://177796041773be99b489dd3ce86144f243e7355f
-#EXTINF:-1 tvg-name="16:15 Segunda -  Burgos CF - Granada CF" group-title="Segunda",16:15 Segunda -  Burgos CF - Granada CF
-acestream://60952921b847a9c560741b0d8048a2d8ad194a7f
-#EXTINF:-1 tvg-name="18:15 1RFEF - Grupo 2 Hércules - Sant Andreu" group-title="1RFEF",18:15 1RFEF - Grupo 2 Hércules - Sant Andreu
-acestream://177796041773be99b489dd3ce86144f243e7355f
-#EXTINF:-1 tvg-name="18:30 Segunda -  Real Oviedo - Eibar" group-title="Segunda",18:30 Segunda -  Real Oviedo - Eibar
-acestream://60952921b847a9c560741b0d8048a2d8ad194a7f
-#EXTINF:-1 tvg-name="20:30 1RFEF - Grupo 1 Lugo - UD Logroñés" group-title="1RFEF",20:30 1RFEF - Grupo 1 Lugo - UD Logroñés
-acestream://177796041773be99b489dd3ce86144f243e7355f
-#EXTINF:-1 tvg-name="20:30 Campeonato del Mundo - Fase de grupos España - Italia" group-title="Campeonato del Mundo",20:30 Campeonato del Mundo - Fase de grupos España - Italia
+#EXTINF:-1 tvg-name="16:00 Youth League - Fase Liga At. Madrid Academy - Man Utd Academy" group-title="Youth League",16:00 Youth League - Fase Liga At. Madrid Academy - Man Utd Academy
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-name="16:00 Youth League - Fase Liga Villarreal Academy - Napoli Academy" group-title="Youth League",16:00 Youth League - Fase Liga Villarreal Academy - Napoli Academy
+acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+#EXTINF:-1 tvg-name="17:50 Simac Ladies Tour -  Etapa 1" group-title="Simac Ladies Tour",17:50 Simac Ladies Tour -  Etapa 1
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
+#EXTINF:-1 tvg-name="17:50 Tour de Holanda -  Etapa Prólogo" group-title="Tour de Holanda",17:50 Tour de Holanda -  Etapa Prólogo
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
+#EXTINF:-1 tvg-name="18:00 Eurocup - Liga Regular Bahçeşehir Koleji - Kids&Us Manresa" group-title="Eurocup",18:00 Eurocup - Liga Regular Bahçeşehir Koleji - Kids&Us Manresa
+acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
+#EXTINF:-1 tvg-name="18:45 Champions - Fase Liga Lens - Sporting CP" group-title="Champions",18:45 Champions - Fase Liga Lens - Sporting CP
+acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+#EXTINF:-1 tvg-name="18:45 Champions - Fase Liga Sabah FK - Slavia Praha" group-title="Champions",18:45 Champions - Fase Liga Sabah FK - Slavia Praha
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="20:30 Euroliga - Liga Regular AX Olimpia Milano - Real Madrid Baloncesto" group-title="Euroliga",20:30 Euroliga - Liga Regular AX Olimpia Milano - Real Madrid Baloncesto
+acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884
+#EXTINF:-1 tvg-name="20:30 Euroliga - Liga Regular Barça Basket - Maccabi Tel Aviv BC" group-title="Euroliga",20:30 Euroliga - Liga Regular Barça Basket - Maccabi Tel Aviv BC
+acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
+#EXTINF:-1 tvg-name="20:30 Euroliga - Liga Regular Baskonia - Dubai Basketball" group-title="Euroliga",20:30 Euroliga - Liga Regular Baskonia - Dubai Basketball
+acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
+#EXTINF:-1 tvg-name="20:30 Euroliga - Liga Regular BC Partizan Beograd - Panathinaikos BC" group-title="Euroliga",20:30 Euroliga - Liga Regular BC Partizan Beograd - Panathinaikos BC
+acestream://7b0193004089d4d29821a5cdf17f407d0d192314
+#EXTINF:-1 tvg-name="21:00 Champions - Fase Liga Arsenal - Lille" group-title="Champions",21:00 Champions - Fase Liga Arsenal - Lille
+acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+#EXTINF:-1 tvg-name="21:00 Champions - Fase Liga Villarreal - Napoli" group-title="Champions",21:00 Champions - Fase Liga Villarreal - Napoli
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="21:00 Champions - Fase Liga At. Madrid - Manchester Utd." group-title="Champions",21:00 Champions - Fase Liga At. Madrid - Manchester Utd.
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-name="21:00 Champions - Fase Liga Inter Milan - Club Brugge" group-title="Champions",21:00 Champions - Fase Liga Inter Milan - Club Brugge
+acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+#EXTINF:-1 tvg-name="21:00 Champions - Fase Liga Galatasaray - FC Barcelona" group-title="Champions",21:00 Champions - Fase Liga Galatasaray - FC Barcelona
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1 tvg-name="21:00 Champions - Fase Liga RB Leipzig - PSV Eindhoven" group-title="Champions",21:00 Champions - Fase Liga RB Leipzig - PSV Eindhoven
+acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+#EXTINF:-1 tvg-name="21:00 Champions - Fase Liga Viking FK - FC Bayern" group-title="Champions",21:00 Champions - Fase Liga Viking FK - FC Bayern
+acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+#EXTINF:-1 tvg-name="21:00 Euroliga - Liga Regular Valencia Basket - Olympiacos Piraeus" group-title="Euroliga",21:00 Euroliga - Liga Regular Valencia Basket - Olympiacos Piraeus
+acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
+#EXTINF:-1 tvg-name="22:45 Campeonato del Mundo - Fase de grupos España - Portugal" group-title="Campeonato del Mundo",22:45 Campeonato del Mundo - Fase de grupos España - Portugal
 acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="21:00 Primera -  Levante - Sevilla FC" group-title="Primera",21:00 Primera -  Levante - Sevilla FC
-acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1 tvg-name="21:00 Segunda -  CD Tenerife - Girona" group-title="Segunda",21:00 Segunda -  CD Tenerife - Girona
-acestream://60952921b847a9c560741b0d8048a2d8ad194a7f
-#EXTINF:-1 tvg-name="21:00 Premier -  Coventry City - Newcastle" group-title="Premier",21:00 Premier -  Coventry City - Newcastle
-acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-name="05:00 WTA Wuhan -  1ª Ronda - WTA 1000" group-title="WTA Wuhan",05:00 WTA Wuhan -  1ª Ronda - WTA 1000
+#EXTINF:-1 tvg-name="01:00 Amistoso Femenino -  Estados Unidos - España" group-title="Amistoso Femenino",01:00 Amistoso Femenino -  Estados Unidos - España
+acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e
+#EXTINF:-1 tvg-name="02:30 Copa Sudamericana - Semifinales Boca Juniors - Vasco da Gama" group-title="Copa Sudamericana",02:30 Copa Sudamericana - Semifinales Boca Juniors - Vasco da Gama
+acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
+#EXTINF:-1 tvg-name="05:00 WTA Wuhan -  2ª Ronda - WTA 1000" group-title="WTA Wuhan",05:00 WTA Wuhan -  2ª Ronda - WTA 1000
 acestream://a4cbadd19442b800727be713270fa9c917cc8582

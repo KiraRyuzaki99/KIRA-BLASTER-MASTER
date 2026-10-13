@@ -1,81 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="10:00 La cantera -  RM Infantil A - Periso" group-title="La cantera",10:00 La cantera -  RM Infantil A - Periso
-acestream://44ea3d00ee2abfd5d89792a32851d7af61f16f0a
-#EXTINF:-1 tvg-name="10:25 LF Endesa -  Post Carreras" group-title="LF Endesa",10:25 LF Endesa -  Post Carreras
-acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-name="11:00 Las Carreras -  Hipódromo de La Zarzuela 11/10/2026" group-title="Las Carreras",11:00 Las Carreras -  Hipódromo de La Zarzuela 11/10/2026
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-name="11:55 LF Endesa -  Movistar Estudiantes - Valencia Basket" group-title="LF Endesa",11:55 LF Endesa -  Movistar Estudiantes - Valencia Basket
-acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
-#EXTINF:-1 tvg-name="11:55 LF Endesa -  Meins Avenida - Inversus Gernika Bizkaia" group-title="LF Endesa",11:55 LF Endesa -  Meins Avenida - Inversus Gernika Bizkaia
-acestream://7b0193004089d4d29821a5cdf17f407d0d192314
-#EXTINF:-1 tvg-name="11:55 Las Carreras -  Quesos Entrepinares - Recoletas Burgos" group-title="Las Carreras",11:55 Las Carreras -  Quesos Entrepinares - Recoletas Burgos
-acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
-#EXTINF:-1 tvg-name="11:59 Torneo de Shanghai -  Bublik - Nakashima" group-title="Torneo de Shanghai",11:59 Torneo de Shanghai -  Bublik - Nakashima
+#EXTINF:-1 tvg-name="10:30 Masters Shanghai - 3ª Ronda A. Fils - B. Van de Zandschulp" group-title="Masters Shanghai",10:30 Masters Shanghai - 3ª Ronda A. Fils - B. Van de Zandschulp
 acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-name="12:00 Top 14 Rugby -  Previo Carrrera" group-title="Top 14 Rugby",12:00 Top 14 Rugby -  Previo Carrrera
-acestream://d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-name="12:05 Torneo de Shanghai -  Zverev - Halys" group-title="Torneo de Shanghai",12:05 Torneo de Shanghai -  Zverev - Halys
+#EXTINF:-1 tvg-name="12:00 Masters Shanghai - 3ª Ronda Z. Bergs - C. Alcaraz" group-title="Masters Shanghai",12:00 Masters Shanghai - 3ª Ronda Z. Bergs - C. Alcaraz
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1 tvg-name="13:30 Masters Shanghai - 3ª Ronda T. Paul - V. Vacherot" group-title="Masters Shanghai",13:30 Masters Shanghai - 3ª Ronda T. Paul - V. Vacherot
 acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-name="12:25 LF Endesa -  Celta Femxa Zorka - Casademont Zaragoza" group-title="LF Endesa",12:25 LF Endesa -  Celta Femxa Zorka - Casademont Zaragoza
-acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
-#EXTINF:-1 tvg-name="12:25 ASOBAL -  Villa de Aranda - Barcelona" group-title="ASOBAL",12:25 ASOBAL -  Villa de Aranda - Barcelona
-acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1 tvg-name="13:00 DP World Tour -  Open de España presented by Madrid. Jornada 4." group-title="DP World Tour",13:00 DP World Tour -  Open de España presented by Madrid. Jornada 4.
+#EXTINF:-1 tvg-name="13:35 WTA Wuhan - 1ª Ronda Xi. Wang - X. Wang" group-title="WTA Wuhan",13:35 WTA Wuhan - 1ª Ronda Xi. Wang - X. Wang
+acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1 tvg-name="14:00 Segunda -  Real Valladolid - Albacete" group-title="Segunda",14:00 Segunda -  Real Valladolid - Albacete
+acestream://60952921b847a9c560741b0d8048a2d8ad194a7f
+#EXTINF:-1 tvg-name="15:00 WTA Wuhan - 1ª Ronda A. Eala - H. Shi" group-title="WTA Wuhan",15:00 WTA Wuhan - 1ª Ronda A. Eala - H. Shi
+acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1 tvg-name="16:00 1RFEF - Grupo 1 Cultural Leonesa - Arenas Club" group-title="1RFEF",16:00 1RFEF - Grupo 1 Cultural Leonesa - Arenas Club
+acestream://177796041773be99b489dd3ce86144f243e7355f
+#EXTINF:-1 tvg-name="16:15 Segunda -  Burgos CF - Granada CF" group-title="Segunda",16:15 Segunda -  Burgos CF - Granada CF
+acestream://60952921b847a9c560741b0d8048a2d8ad194a7f
+#EXTINF:-1 tvg-name="18:15 1RFEF - Grupo 2 Hércules - Sant Andreu" group-title="1RFEF",18:15 1RFEF - Grupo 2 Hércules - Sant Andreu
+acestream://177796041773be99b489dd3ce86144f243e7355f
+#EXTINF:-1 tvg-name="18:30 Segunda -  Real Oviedo - Eibar" group-title="Segunda",18:30 Segunda -  Real Oviedo - Eibar
+acestream://60952921b847a9c560741b0d8048a2d8ad194a7f
+#EXTINF:-1 tvg-name="20:30 1RFEF - Grupo 1 Lugo - UD Logroñés" group-title="1RFEF",20:30 1RFEF - Grupo 1 Lugo - UD Logroñés
+acestream://177796041773be99b489dd3ce86144f243e7355f
+#EXTINF:-1 tvg-name="20:30 Campeonato del Mundo - Fase de grupos España - Italia" group-title="Campeonato del Mundo",20:30 Campeonato del Mundo - Fase de grupos España - Italia
 acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="13:00 DP World Tour -  Jornada 4. Parte 1" group-title="DP World Tour",13:00 DP World Tour -  Jornada 4. Parte 1
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="13:30 La cantera -  Rivas - RM Juvenil B" group-title="La cantera",13:30 La cantera -  Rivas - RM Juvenil B
-acestream://44ea3d00ee2abfd5d89792a32851d7af61f16f0a
-#EXTINF:-1 tvg-name="13:50 Las Carreras -  Saltos" group-title="Las Carreras",13:50 Las Carreras -  Saltos
-acestream://c6180a86440004748e2abe34d6f31eed8a218a3a
-#EXTINF:-1 tvg-name="13:55 Top 14 Rugby -  Carrera" group-title="Top 14 Rugby",13:55 Top 14 Rugby -  Carrera
-acestream://d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-name="14:00 DP World Tour -  Ustero/Sanchez - Calvo/Fernandez" group-title="DP World Tour",14:00 DP World Tour -  Ustero/Sanchez - Calvo/Fernandez
-acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
-#EXTINF:-1 tvg-name="14:40 Torneo de Shanghai -  Davidovich - Tiafoe" group-title="Torneo de Shanghai",14:40 Torneo de Shanghai -  Davidovich - Tiafoe
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-name="14:50 Premier -  Crystal Palace - Nottingham Forest" group-title="Premier",14:50 Premier -  Crystal Palace - Nottingham Forest
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-name="14:50 Premier -  Hull City - Everton" group-title="Premier",14:50 Premier -  Hull City - Everton
+#EXTINF:-1 tvg-name="21:00 Primera -  Levante - Sevilla FC" group-title="Primera",21:00 Primera -  Levante - Sevilla FC
+acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1 tvg-name="21:00 Segunda -  CD Tenerife - Girona" group-title="Segunda",21:00 Segunda -  CD Tenerife - Girona
+acestream://60952921b847a9c560741b0d8048a2d8ad194a7f
+#EXTINF:-1 tvg-name="21:00 Premier -  Coventry City - Newcastle" group-title="Premier",21:00 Premier -  Coventry City - Newcastle
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-name="15:55 2RFEF -  Girona B - Espanyol B" group-title="2RFEF",15:55 2RFEF -  Girona B - Espanyol B
-acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1 tvg-name="16:00 DP World Tour -  Tapia/Coello - Stupaczuk/Sanz" group-title="DP World Tour",16:00 DP World Tour -  Tapia/Coello - Stupaczuk/Sanz
-acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
-#EXTINF:-1 tvg-name="16:15 Europeo de tiro -  Trap Solo M" group-title="Europeo de tiro",16:15 Europeo de tiro -  Trap Solo M
-acestream://c6180a86440004748e2abe34d6f31eed8a218a3a
-#EXTINF:-1 tvg-name="16:16 Top 14 Rugby -  El Post de la Fórmula 1" group-title="Top 14 Rugby",16:16 Top 14 Rugby -  El Post de la Fórmula 1
-acestream://d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-name="16:30 1RFEF -  Ponferradina - Avilés" group-title="1RFEF",16:30 1RFEF -  Ponferradina - Avilés
-acestream://177796041773be99b489dd3ce86144f243e7355f
-#EXTINF:-1 tvg-name="16:55 LF Endesa -  Innova TSN Leganés - Mirai Euskotren" group-title="LF Endesa",16:55 LF Endesa -  Innova TSN Leganés - Mirai Euskotren
-acestream://7b0193004089d4d29821a5cdf17f407d0d192314
-#EXTINF:-1 tvg-name="17:20 Premier -  Liverpool - Manchester City" group-title="Premier",17:20 Premier -  Liverpool - Manchester City
-acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-name="17:55 LF Endesa -  Azul Marino Mallorca - Cadí La Seu" group-title="LF Endesa",17:55 LF Endesa -  Azul Marino Mallorca - Cadí La Seu
-acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
-#EXTINF:-1 tvg-name="18:05 1RFEF -  Europa - Algeciras" group-title="1RFEF",18:05 1RFEF -  Europa - Algeciras
-acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1 tvg-name="18:25 LF Endesa -  Spar Girona - Hozono Global Jairis" group-title="LF Endesa",18:25 LF Endesa -  Spar Girona - Hozono Global Jairis
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="18:45 1RFEF -  Rayo Majadahonda - Murcia" group-title="1RFEF",18:45 1RFEF -  Rayo Majadahonda - Murcia
-acestream://177796041773be99b489dd3ce86144f243e7355f
-#EXTINF:-1 tvg-name="20:40 Serie A Calcio -  Cagliari - Juventus" group-title="Serie A Calcio",20:40 Serie A Calcio -  Cagliari - Juventus
-acestream://a9299052e9a16e5e2924e1fdd00b877c374f9e96
-#EXTINF:-1 tvg-name="20:55 Brasileirao -  Atlético Mineiro - Santos" group-title="Brasileirao",20:55 Brasileirao -  Atlético Mineiro - Santos
-acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
-#EXTINF:-1 tvg-name="21:00 1RFEF -  Atlético de Madrid B - Zaragoza" group-title="1RFEF",21:00 1RFEF -  Atlético de Madrid B - Zaragoza
-acestream://177796041773be99b489dd3ce86144f243e7355f
-#EXTINF:-1 tvg-name="21:00 Top 14 Rugby -  Stade Toulousain - Aviron Bayonnais" group-title="Top 14 Rugby",21:00 Top 14 Rugby -  Stade Toulousain - Aviron Bayonnais
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-name="22:25 Brasileirao -  Palmeiras - Corinthians" group-title="Brasileirao",22:25 Brasileirao -  Palmeiras - Corinthians
-acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
-#EXTINF:-1 tvg-name="06:05 Torneo de Shanghai -  Carreño - Auger-Aliassime" group-title="Torneo de Shanghai",06:05 Torneo de Shanghai -  Carreño - Auger-Aliassime
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-name="06:05 Torneo de Shanghai -  Tien - Ruud" group-title="Torneo de Shanghai",06:05 Torneo de Shanghai -  Tien - Ruud
-acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-name="08:05 Torneo de Shanghai -  Tsitsipas - Fritz" group-title="Torneo de Shanghai",08:05 Torneo de Shanghai -  Tsitsipas - Fritz
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-name="08:05 Torneo de Shanghai -  Lehecka - Jodar" group-title="Torneo de Shanghai",08:05 Torneo de Shanghai -  Lehecka - Jodar
-acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
+#EXTINF:-1 tvg-name="05:00 WTA Wuhan -  1ª Ronda - WTA 1000" group-title="WTA Wuhan",05:00 WTA Wuhan -  1ª Ronda - WTA 1000
+acestream://a4cbadd19442b800727be713270fa9c917cc8582

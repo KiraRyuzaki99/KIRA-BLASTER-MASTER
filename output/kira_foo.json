@@ -43,125 +43,19 @@
     ]
   },
   {
-    "title": "Liverpool LASK",
-    "category": "Liverpool",
-    "logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-    "start_iso": "2026-10-14T16:45:00.000Z",
-    "end_iso": "2026-10-14T19:00:00.000Z",
-    "date": "Wednesday, 14 October 2026",
-    "time": "18:45",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/liverpool-vs-lask-linz",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/liverpool-vs-lask-linz/2818",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/liverpool-vs-lask-linz/2819",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/liverpool-vs-lask-linz/2822",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Français",
-        "url": "https://playerdee.top/alpha/liverpool-vs-lask-linz/2823",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Français"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Como Feyenoord",
-    "category": "Como",
-    "logo": "https://cdn.img4every1.org/team/como/logo.webp",
-    "start_iso": "2026-10-14T16:45:00.000Z",
-    "end_iso": "2026-10-14T19:00:00.000Z",
-    "date": "Wednesday, 14 October 2026",
-    "time": "18:45",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/como-vs-feyenoord",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/como-vs-feyenoord/2820",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/como-vs-feyenoord/2821",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "PSG Manchester City",
-    "category": "PSG",
-    "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-    "start_iso": "2026-10-14T19:00:00.000Z",
-    "end_iso": "2026-10-14T21:15:00.000Z",
-    "date": "Wednesday, 14 October 2026",
-    "time": "21:00",
+    "title": "Milwaukee Brewers Los Angeles Dodgers",
+    "category": "Milwaukee Brewers",
+    "logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
+    "start_iso": "2026-10-15T00:00:00.000Z",
+    "end_iso": "2026-10-15T03:00:00.000Z",
+    "date": "Thursday, 15 October 2026",
+    "time": "02:00",
     "status": "next",
-    "event_url": "https://pogo.pk/events/psg-vs-manchester-city",
+    "event_url": "https://pogo.pk/events/brewers-vs-dodgers",
     "servers": [
       {
         "label": "English",
-        "url": "https://playerdee.top/alpha/psg-vs-manchester-city/2824",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/psg-vs-manchester-city/2825",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/psg-vs-manchester-city/2833",
+        "url": "https://playerdee.top/alpha/brewers-vs-dodgers/2840",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -172,19 +66,19 @@
     ]
   },
   {
-    "title": "Real Madrid AS Roma",
-    "category": "Real Madrid",
-    "logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-    "start_iso": "2026-10-14T19:00:00.000Z",
-    "end_iso": "2026-10-14T21:15:00.000Z",
-    "date": "Wednesday, 14 October 2026",
-    "time": "21:00",
+    "title": "India Championship PGA Tour",
+    "category": "India Championship",
+    "logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+    "start_iso": "2026-10-15T05:30:00.000Z",
+    "end_iso": "2026-10-18T12:00:00.000Z",
+    "date": "Thursday, 15 October 2026",
+    "time": "07:30",
     "status": "next",
-    "event_url": "https://pogo.pk/events/real-madrid-vs-roma",
+    "event_url": "https://pogo.pk/events/india-championship",
     "servers": [
       {
         "label": "English",
-        "url": "https://playerdee.top/alpha/real-madrid-vs-roma/2826",
+        "url": "https://playerdee.top/alpha/india-championship/2841",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -194,70 +88,7 @@
       },
       {
         "label": "English",
-        "url": "https://playerdee.top/alpha/real-madrid-vs-roma/2827",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/real-madrid-vs-roma/2832",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://playerdee.top/alpha/real-madrid-vs-roma/2836",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Borussia Dortmund FK Bodo Glimt",
-    "category": "Borussia Dortmund",
-    "logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
-    "start_iso": "2026-10-14T19:00:00.000Z",
-    "end_iso": "2026-10-14T21:15:00.000Z",
-    "date": "Wednesday, 14 October 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/borussia-dortmund-vs-bodo-glimt",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/borussia-dortmund-vs-bodo-glimt/2829",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/borussia-dortmund-vs-bodo-glimt/2830",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/borussia-dortmund-vs-bodo-glimt/2831",
+        "url": "https://playerdee.top/alpha/india-championship/2842",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -268,42 +99,19 @@
     ]
   },
   {
-    "title": "Stuttgart Slovan Bratislava",
-    "category": "Stuttgart",
-    "logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
-    "start_iso": "2026-10-14T19:00:00.000Z",
-    "end_iso": "2026-10-14T21:15:00.000Z",
-    "date": "Wednesday, 14 October 2026",
-    "time": "21:00",
+    "title": "Australia New Zealand",
+    "category": "Australia",
+    "logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+    "start_iso": "2026-10-15T09:00:00.000Z",
+    "end_iso": "2026-10-15T11:20:00.000Z",
+    "date": "Thursday, 15 October 2026",
+    "time": "11:00",
     "status": "next",
-    "event_url": "https://pogo.pk/events/stuttgart-vs-slovan-bratislava",
+    "event_url": "https://pogo.pk/events/australia-vs-new-zealand",
     "servers": [
       {
         "label": "English",
-        "url": "https://playerdee.top/alpha/stuttgart-vs-slovan-bratislava/2828",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Aston Villa Fenerbahçe",
-    "category": "Aston Villa",
-    "logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-    "start_iso": "2026-10-14T19:00:00.000Z",
-    "end_iso": "2026-10-14T21:15:00.000Z",
-    "date": "Wednesday, 14 October 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/aston-villa-vs-fenerbahce",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/aston-villa-vs-fenerbahce/2834",
+        "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2843",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -313,96 +121,7 @@
       },
       {
         "label": "English",
-        "url": "https://playerdee.top/alpha/aston-villa-vs-fenerbahce/2835",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Porto Real Betis",
-    "category": "Porto",
-    "logo": "https://cdn.img4every1.org/team/porto/logo.webp",
-    "start_iso": "2026-10-14T19:00:00.000Z",
-    "end_iso": "2026-10-14T21:15:00.000Z",
-    "date": "Wednesday, 14 October 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/porto-vs-real-betis",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/porto-vs-real-betis/2837",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Portuguese",
-        "url": "https://playerdee.top/alpha/porto-vs-real-betis/2838",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
-        }
-      }
-    ]
-  },
-  {
-    "title": "AEK Athens Shakhtar Donetsk",
-    "category": "AEK Athens",
-    "logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
-    "start_iso": "2026-10-14T19:00:00.000Z",
-    "end_iso": "2026-10-14T21:15:00.000Z",
-    "date": "Wednesday, 14 October 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/athens-vs-shakhtar-donetsk",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/athens-vs-shakhtar-donetsk/2839",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "West Ham United Lincoln City",
-    "category": "West Ham United",
-    "logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
-    "start_iso": "2026-10-14T19:00:00.000Z",
-    "end_iso": "2026-10-14T21:15:00.000Z",
-    "date": "Wednesday, 14 October 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/west-ham-vs-lincoln-city",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/west-ham-vs-lincoln-city/2761",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/west-ham-vs-lincoln-city/2762",
+        "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2844",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -594,39 +313,6 @@
     ]
   },
   {
-    "title": "Oxford United Mansfield Town",
-    "category": "Oxford United",
-    "logo": "https://cdn.img4every1.org/team/oxford-united/logo.webp",
-    "start_iso": "2026-10-15T19:00:00.000Z",
-    "end_iso": "2026-10-15T21:15:00.000Z",
-    "date": "Thursday, 15 October 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/oxford-united-vs-mansfield-town",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/oxford-united-vs-mansfield-town/2807",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/oxford-united-vs-mansfield-town/2808",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Benfica Celtic",
     "category": "Benfica",
     "logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
@@ -686,6 +372,138 @@
       {
         "label": "English",
         "url": "https://playerdee.top/alpha/heart-vs-nordsjaelland/2806",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Oxford United Mansfield Town",
+    "category": "Oxford United",
+    "logo": "https://cdn.img4every1.org/team/oxford-united/logo.webp",
+    "start_iso": "2026-10-15T19:00:00.000Z",
+    "end_iso": "2026-10-15T21:15:00.000Z",
+    "date": "Thursday, 15 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/oxford-united-vs-mansfield-town",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/oxford-united-vs-mansfield-town/2807",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/oxford-united-vs-mansfield-town/2808",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Tampa Bay Rays Cleveland Guardians",
+    "category": "Tampa Bay Rays",
+    "logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
+    "start_iso": "2026-10-15T22:00:00.000Z",
+    "end_iso": "2026-10-16T01:00:00.000Z",
+    "date": "Friday, 16 October 2026",
+    "time": "00:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/rays-vs-guardians",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/rays-vs-guardians/2845",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Denver Broncos Seattle Seahawks",
+    "category": "Denver Broncos",
+    "logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
+    "start_iso": "2026-10-16T00:15:00.000Z",
+    "end_iso": "2026-10-16T03:25:00.000Z",
+    "date": "Friday, 16 October 2026",
+    "time": "02:15",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/broncos-vs-seahawks",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/broncos-vs-seahawks/2846",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/broncos-vs-seahawks/2847",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/broncos-vs-seahawks/2848",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "France Samoa",
+    "category": "France",
+    "logo": "https://cdn.img4every1.org/team/france/logo.webp",
+    "start_iso": "2026-10-16T06:45:00.000Z",
+    "end_iso": "2026-10-16T09:00:00.000Z",
+    "date": "Friday, 16 October 2026",
+    "time": "08:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/france-vs-samoa",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/france-vs-samoa/2849",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/france-vs-samoa/2850",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -806,6 +624,370 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/deportivo-la-coruna-vs-levante",
+    "servers": []
+  },
+  {
+    "title": "Gloucester Rugby Bordeaux Begles",
+    "category": "Gloucester Rugby",
+    "logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
+    "start_iso": "2026-10-16T19:00:00.000Z",
+    "end_iso": "2026-10-16T21:15:00.000Z",
+    "date": "Friday, 16 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/gloucester-vs-bordeaux-begles",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/gloucester-vs-bordeaux-begles/2851",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Edinburgh RC Toulonnais",
+    "category": "Edinburgh",
+    "logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+    "start_iso": "2026-10-16T19:00:00.000Z",
+    "end_iso": "2026-10-16T21:15:00.000Z",
+    "date": "Friday, 16 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/edinburgh-vs-toulon",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/edinburgh-vs-toulon/2852",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Auckland Melbourne City",
+    "category": "Auckland",
+    "logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
+    "start_iso": "2026-10-17T04:00:00.000Z",
+    "end_iso": "2026-10-17T06:15:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "06:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/auckland-vs-melbourne-city",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/auckland-vs-melbourne-city/2855",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Perth Glory Macarthur",
+    "category": "Perth Glory",
+    "logo": "https://cdn.img4every1.org/team/perth-glory/logo.webp",
+    "start_iso": "2026-10-17T06:00:00.000Z",
+    "end_iso": "2026-10-17T08:15:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "08:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/perth-glory-vs-macarthur",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/perth-glory-vs-macarthur/2856",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Newcastle Jets Central Coast Mariners",
+    "category": "Newcastle Jets",
+    "logo": "https://cdn.img4every1.org/team/newcastle-jets/logo.webp",
+    "start_iso": "2026-10-17T08:40:00.000Z",
+    "end_iso": "2026-10-17T10:55:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "10:40",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/newcastle-jets-vs-central-coast-mariners",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/newcastle-jets-vs-central-coast-mariners/2857",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Watford Charlton Athletic",
+    "category": "Watford",
+    "logo": "https://cdn.img4every1.org/team/watford/logo.webp",
+    "start_iso": "2026-10-17T11:30:00.000Z",
+    "end_iso": "2026-10-17T13:45:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "13:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/watford-vs-charlton-athletic",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/watford-vs-charlton-athletic/2853",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/watford-vs-charlton-athletic/2854",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Chelsea Everton",
+    "category": "Chelsea",
+    "logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+    "start_iso": "2026-10-17T11:30:00.000Z",
+    "end_iso": "2026-10-17T13:45:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "13:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/chelsea-vs-everton",
+    "servers": []
+  },
+  {
+    "title": "Espanyol Atlético Madrid",
+    "category": "Espanyol",
+    "logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+    "start_iso": "2026-10-17T12:00:00.000Z",
+    "end_iso": "2026-10-17T14:15:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "14:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/espanyol-vs-atletico-madrid",
+    "servers": []
+  },
+  {
+    "title": "Napoli Venezia",
+    "category": "Napoli",
+    "logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+    "start_iso": "2026-10-17T13:00:00.000Z",
+    "end_iso": "2026-10-17T15:15:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/napoli-vs-venezia",
+    "servers": []
+  },
+  {
+    "title": "Liverpool Brentford",
+    "category": "Liverpool",
+    "logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+    "start_iso": "2026-10-17T14:00:00.000Z",
+    "end_iso": "2026-10-17T16:15:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/liverpool-vs-brentford",
+    "servers": []
+  },
+  {
+    "title": "Manchester City Ipswich Town",
+    "category": "Manchester City",
+    "logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+    "start_iso": "2026-10-17T14:00:00.000Z",
+    "end_iso": "2026-10-17T16:15:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/manchester-city-vs-ipswich-town",
+    "servers": []
+  },
+  {
+    "title": "Elche CF Villarreal",
+    "category": "Elche CF",
+    "logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+    "start_iso": "2026-10-17T14:15:00.000Z",
+    "end_iso": "2026-10-17T16:30:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "16:15",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/elche-vs-villarreal",
+    "servers": []
+  },
+  {
+    "title": "PSG Strasbourg",
+    "category": "PSG",
+    "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+    "start_iso": "2026-10-17T15:15:00.000Z",
+    "end_iso": "2026-10-17T17:30:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "17:15",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/psg-vs-strasbourg",
+    "servers": []
+  },
+  {
+    "title": "Inter Milan Bologna",
+    "category": "Inter Milan",
+    "logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+    "start_iso": "2026-10-17T16:00:00.000Z",
+    "end_iso": "2026-10-17T18:15:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "18:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/inter-milan-vs-bologna",
+    "servers": []
+  },
+  {
+    "title": "FC Barcelona Real Betis",
+    "category": "FC Barcelona",
+    "logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+    "start_iso": "2026-10-17T16:30:00.000Z",
+    "end_iso": "2026-10-17T18:45:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/barcelona-vs-real-betis",
+    "servers": []
+  },
+  {
+    "title": "Aston Villa Newcastle United",
+    "category": "Aston Villa",
+    "logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+    "start_iso": "2026-10-17T16:30:00.000Z",
+    "end_iso": "2026-10-17T18:45:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/aston-villa-vs-newcastle",
+    "servers": []
+  },
+  {
+    "title": "Bayern München RB Leipzig",
+    "category": "Bayern München",
+    "logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+    "start_iso": "2026-10-17T16:30:00.000Z",
+    "end_iso": "2026-10-17T18:45:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/bayern-munchen-vs-rb-leipzig",
+    "servers": []
+  },
+  {
+    "title": "Lille Brest",
+    "category": "Lille",
+    "logo": "https://cdn.img4every1.org/team/lille/logo.webp",
+    "start_iso": "2026-10-17T18:45:00.000Z",
+    "end_iso": "2026-10-17T21:00:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/lille-vs-brest",
+    "servers": []
+  },
+  {
+    "title": "AS Roma Genoa",
+    "category": "AS Roma",
+    "logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+    "start_iso": "2026-10-17T18:45:00.000Z",
+    "end_iso": "2026-10-17T21:00:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/roma-vs-genoa",
+    "servers": []
+  },
+  {
+    "title": "Athletic Club Valencia",
+    "category": "Athletic Club",
+    "logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+    "start_iso": "2026-10-17T19:00:00.000Z",
+    "end_iso": "2026-10-17T21:15:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/athletic-club-vs-valencia",
+    "servers": []
+  },
+  {
+    "title": "Lecce Udinese",
+    "category": "Lecce",
+    "logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+    "start_iso": "2026-10-18T10:30:00.000Z",
+    "end_iso": "2026-10-18T12:45:00.000Z",
+    "date": "Sunday, 18 October 2026",
+    "time": "12:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/lecce-vs-udinese",
+    "servers": []
+  },
+  {
+    "title": "Racing Santander Osasuna",
+    "category": "Racing Santander",
+    "logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+    "start_iso": "2026-10-18T12:00:00.000Z",
+    "end_iso": "2026-10-18T14:15:00.000Z",
+    "date": "Sunday, 18 October 2026",
+    "time": "14:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/racing-santander-vs-osasuna",
+    "servers": []
+  },
+  {
+    "title": "Como Fiorentina",
+    "category": "Como",
+    "logo": "https://cdn.img4every1.org/team/como/logo.webp",
+    "start_iso": "2026-10-18T13:00:00.000Z",
+    "end_iso": "2026-10-18T15:15:00.000Z",
+    "date": "Sunday, 18 October 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/como-vs-fiorentina",
+    "servers": []
+  },
+  {
+    "title": "Manchester United Leeds United",
+    "category": "Manchester United",
+    "logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+    "start_iso": "2026-10-18T13:00:00.000Z",
+    "end_iso": "2026-10-18T15:15:00.000Z",
+    "date": "Sunday, 18 October 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/manchester-united-vs-leeds-united",
     "servers": []
   }
 ]

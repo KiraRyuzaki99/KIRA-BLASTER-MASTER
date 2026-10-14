@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
+#EXTINF:-1 group-title="Football",20:00 - Goals Show Xtra (TNT)
+https://embed.st/embed/hotel/goals-show-xtra-tnt-uefa-champions-league-1792000800/1#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Football",18:45 - LASK vs Liverpool
 https://embed.st/embed/admin/ppv-lask-linz-vs-liverpool/1#player=clappr&autoplay=true
 
@@ -30,9 +33,6 @@ https://embed.st/embed/golf/1868/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",18:45 - Feyenoord vs Como
 https://embed.st/embed/hotel/feyenoord-rotterdam-vs-como-uefa-champions-league-1791996300/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:00 - Goals Show Xtra (TNT)
-https://embed.st/embed/hotel/goals-show-xtra-tnt-uefa-champions-league-1792000800/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - The Golazo Show ⚽ ⚽ ⚽
 https://embed.st/embed/hotel/the-golazo-show-cbs-uefa-champions-league-1792000800/1#player=clappr&autoplay=true

@@ -43,52 +43,6 @@
     ]
   },
   {
-    "title": "Fenerbahçe Aston Villa",
-    "category": "Fenerbahçe",
-    "logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
-    "start_iso": "2026-10-14T13:00:00.000Z",
-    "end_iso": "2026-10-14T15:15:00.000Z",
-    "date": "Wednesday, 14 October 2026",
-    "time": "15:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/fenerbahce-vs-aston-villa-u19",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/fenerbahce-vs-aston-villa-u19/2764",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Manchester City PSG",
-    "category": "Manchester City",
-    "logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-    "start_iso": "2026-10-14T14:00:00.000Z",
-    "end_iso": "2026-10-14T16:15:00.000Z",
-    "date": "Wednesday, 14 October 2026",
-    "time": "16:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/man-city-vs-psg",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/man-city-vs-psg/2763",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Liverpool LASK",
     "category": "Liverpool",
     "logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
@@ -96,9 +50,50 @@
     "end_iso": "2026-10-14T19:00:00.000Z",
     "date": "Wednesday, 14 October 2026",
     "time": "18:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/liverpool-vs-lask-linz",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/liverpool-vs-lask-linz/2818",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/liverpool-vs-lask-linz/2819",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/liverpool-vs-lask-linz/2822",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Français",
+        "url": "https://playerdee.top/alpha/liverpool-vs-lask-linz/2823",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Français"
+        }
+      }
+    ]
   },
   {
     "title": "Como Feyenoord",
@@ -108,45 +103,30 @@
     "end_iso": "2026-10-14T19:00:00.000Z",
     "date": "Wednesday, 14 October 2026",
     "time": "18:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/como-vs-feyenoord",
-    "servers": []
-  },
-  {
-    "title": "Borussia Dortmund FK Bodo Glimt",
-    "category": "Borussia Dortmund",
-    "logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
-    "start_iso": "2026-10-14T19:00:00.000Z",
-    "end_iso": "2026-10-14T21:15:00.000Z",
-    "date": "Wednesday, 14 October 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/borussia-dortmund-vs-bodo-glimt",
-    "servers": []
-  },
-  {
-    "title": "Stuttgart Slovan Bratislava",
-    "category": "Stuttgart",
-    "logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
-    "start_iso": "2026-10-14T19:00:00.000Z",
-    "end_iso": "2026-10-14T21:15:00.000Z",
-    "date": "Wednesday, 14 October 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/stuttgart-vs-slovan-bratislava",
-    "servers": []
-  },
-  {
-    "title": "Aston Villa Fenerbahçe",
-    "category": "Aston Villa",
-    "logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-    "start_iso": "2026-10-14T19:00:00.000Z",
-    "end_iso": "2026-10-14T21:15:00.000Z",
-    "date": "Wednesday, 14 October 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/aston-villa-vs-fenerbahce",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/como-vs-feyenoord/2820",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/como-vs-feyenoord/2821",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "PSG Manchester City",
@@ -158,7 +138,246 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/psg-vs-manchester-city",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/psg-vs-manchester-city/2824",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/psg-vs-manchester-city/2825",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/psg-vs-manchester-city/2833",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Real Madrid AS Roma",
+    "category": "Real Madrid",
+    "logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+    "start_iso": "2026-10-14T19:00:00.000Z",
+    "end_iso": "2026-10-14T21:15:00.000Z",
+    "date": "Wednesday, 14 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/real-madrid-vs-roma",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-roma/2826",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-roma/2827",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-roma/2832",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-roma/2836",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Borussia Dortmund FK Bodo Glimt",
+    "category": "Borussia Dortmund",
+    "logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+    "start_iso": "2026-10-14T19:00:00.000Z",
+    "end_iso": "2026-10-14T21:15:00.000Z",
+    "date": "Wednesday, 14 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/borussia-dortmund-vs-bodo-glimt",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/borussia-dortmund-vs-bodo-glimt/2829",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/borussia-dortmund-vs-bodo-glimt/2830",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/borussia-dortmund-vs-bodo-glimt/2831",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Stuttgart Slovan Bratislava",
+    "category": "Stuttgart",
+    "logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
+    "start_iso": "2026-10-14T19:00:00.000Z",
+    "end_iso": "2026-10-14T21:15:00.000Z",
+    "date": "Wednesday, 14 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/stuttgart-vs-slovan-bratislava",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/stuttgart-vs-slovan-bratislava/2828",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Aston Villa Fenerbahçe",
+    "category": "Aston Villa",
+    "logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+    "start_iso": "2026-10-14T19:00:00.000Z",
+    "end_iso": "2026-10-14T21:15:00.000Z",
+    "date": "Wednesday, 14 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/aston-villa-vs-fenerbahce",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/aston-villa-vs-fenerbahce/2834",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/aston-villa-vs-fenerbahce/2835",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Porto Real Betis",
+    "category": "Porto",
+    "logo": "https://cdn.img4every1.org/team/porto/logo.webp",
+    "start_iso": "2026-10-14T19:00:00.000Z",
+    "end_iso": "2026-10-14T21:15:00.000Z",
+    "date": "Wednesday, 14 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/porto-vs-real-betis",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/porto-vs-real-betis/2837",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/porto-vs-real-betis/2838",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
+  },
+  {
+    "title": "AEK Athens Shakhtar Donetsk",
+    "category": "AEK Athens",
+    "logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
+    "start_iso": "2026-10-14T19:00:00.000Z",
+    "end_iso": "2026-10-14T21:15:00.000Z",
+    "date": "Wednesday, 14 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/athens-vs-shakhtar-donetsk",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/athens-vs-shakhtar-donetsk/2839",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "West Ham United Lincoln City",

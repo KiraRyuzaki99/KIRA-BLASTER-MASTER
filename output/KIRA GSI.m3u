@@ -1,58 +1,120 @@
 #EXTM3U
 #EXTGRP:Amistoso Internacional Femenino
-#EXTINF:-1 group-title="Amistoso Internacional Femenino",✅END 13/10 17:45 - Alemania vs Japón
-https://streamxhd.com/live1.php?stream=disney1
-#EXTINF:-1 group-title="Amistoso Internacional Femenino",⏳NEXT 14/10 01:00 - EE. UU. vs España
+#EXTINF:-1 group-title="Amistoso Internacional Femenino",⏳NEXT 15/10 01:00 - EE. UU. vs España
 https://streamxhd.com/live1.php?stream=disney12
-#EXTINF:-1 group-title="Amistoso Internacional Femenino",⏳NEXT 14/10 01:30 - Brasil vs Argentina
+#EXTINF:-1 group-title="Amistoso Internacional Femenino",⏳NEXT 15/10 01:30 - Brasil vs Argentina
 https://streamxhd.com/live1.php?stream=sporttvbr1
-#EXTGRP:Championship
-#EXTINF:-1 group-title="Championship",🔴LIVE 13/10 21:00 - Stoke City vs Middlesbrough
-https://streamxhd.com/live1.php?stream=disney11
+#EXTGRP:Copa Colombia
+#EXTINF:-1 group-title="Copa Colombia",⏳NEXT 15/10 03:30 - Atlético Nacional vs Medellín
+https://streamxhd.com/live1.php?stream=winplus
+#EXTGRP:Copa Libertadores
+#EXTINF:-1 group-title="Copa Libertadores",⏳NEXT 15/10 02:30 - Fluminense vs Palmeiras
+https://streamxhd.com/live1.php?stream=disney12
+#EXTGRP:Copa Paraguay
+#EXTINF:-1 group-title="Copa Paraguay",⏳NEXT 14/10 22:00 - Atlético Tembetary vs Sol de América
+https://streamxhd.com/live1.php?stream=tigo1
+#EXTINF:-1 group-title="Copa Paraguay",⏳NEXT 15/10 00:30 - Cerro Porteño vs Sportivo San Lorenzo
+https://streamxhd.com/live1.php?stream=tigo1
 #EXTGRP:Copa Sudamericana
-#EXTINF:-1 group-title="Copa Sudamericana",⏳NEXT 14/10 02:30 - Boca Juniors vs Vasco da Gama
+#EXTINF:-1 group-title="Copa Sudamericana",⏳NEXT 15/10 00:00 - Atlético Mineiro vs Torque
+https://streamxhd.click/channel/?id=dsports
+#EXTINF:-1 group-title="Copa Sudamericana",⏳NEXT 15/10 02:30 - Boca Juniors vs Vasco da Gama
 https://streamxhd.click/channel/?id=dsports
 #EXTGRP:Copa de Rusia
-#EXTINF:-1 group-title="Copa de Rusia",✅END 13/10 17:30 - Lokomotiv Moscow vs Akron Tolyatti
+#EXTINF:-1 group-title="Copa de Rusia",⏳NEXT 14/10 17:30 - Dynamo Makhachkala vs Zenit
+https://streamxhd.com/live1.php?stream=dsports2
+#EXTINF:-1 group-title="Copa de Rusia",⏳NEXT 14/10 17:30 - Akhmat Grozny vs Dinamo Moskva
+https://streamxhd.com/live1.php?stream=dsportsplus
+#EXTINF:-1 group-title="Copa de Rusia",⏳NEXT 14/10 19:45 - CSKA Moskva vs Rostov
 https://streamxhd.com/live1.php?stream=dsports2
 #EXTGRP:Liga Colombia
-#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 14/10 01:30 - Atlético Bucaramanga vs Rionegro Águilas
+#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 14/10 23:30 - Junior vs Deportivo Pereira
 https://streamxhd.com/live1.php?stream=winplus
-#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 14/10 03:30 - Millonarios vs Once Caldas
+#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 15/10 01:30 - Atlético Bucaramanga vs Rionegro Águilas
 https://streamxhd.com/live1.php?stream=winplus
+#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 15/10 03:30 - Millonarios vs Once Caldas
+https://streamxhd.com/live1.php?stream=winplus
+#EXTGRP:Liga Profesional
+#EXTINF:-1 group-title="Liga Profesional",⏳NEXT 15/10 00:00 - Sarmiento vs River Plate
+https://streamxhd.com/live1.php?stream=tntsports
 #EXTGRP:MLB
-#EXTINF:-1 group-title="MLB",⏳NEXT 14/10 02:00 - Cleveland Guardians vs Tampa Bay Rays
+#EXTINF:-1 group-title="MLB",⏳NEXT 15/10 02:00 - Cleveland Guardians vs Tampa Bay Rays
 https://streamxhd.com/live1.php?stream=espn2
+#EXTGRP:MLS
+#EXTINF:-1 group-title="MLS",⏳NEXT 15/10 01:30 - Columbus Crew vs Charlotte
+https://streamxhd.com/live1.php?stream=appletv5
+#EXTINF:-1 group-title="MLS",⏳NEXT 15/10 01:30 - CF Montréal vs Atlanta United
+https://streamxhd.com/live1.php?stream=appletv6
+#EXTINF:-1 group-title="MLS",⏳NEXT 15/10 01:30 - Cincinnati vs New England
+https://streamxhd.com/live1.php?stream=appletv7
+#EXTINF:-1 group-title="MLS",⏳NEXT 15/10 01:30 - Inter Miami vs New York City
+https://streamxhd.com/live1.php?stream=appletv1
+#EXTINF:-1 group-title="MLS",⏳NEXT 15/10 01:30 - Toronto FC vs Orlando City SC
+https://streamxhd.com/live1.php?stream=appletv3
+#EXTINF:-1 group-title="MLS",⏳NEXT 15/10 01:30 - DC United vs New York RB
+https://streamxhd.com/live1.php?stream=appletv4
+#EXTINF:-1 group-title="MLS",⏳NEXT 15/10 02:30 - Nashville SC vs Sporting KC
+https://streamxhd.com/live1.php?stream=appletv8
+#EXTINF:-1 group-title="MLS",⏳NEXT 15/10 02:30 - Dallas vs Seattle Sounders FC
+https://streamxhd.com/live1.php?stream=appletv10
+#EXTINF:-1 group-title="MLS",⏳NEXT 15/10 02:30 - St. Louis City vs Vancouver Whitecaps
+https://streamxhd.com/live1.php?stream=appletv9
+#EXTINF:-1 group-title="MLS",⏳NEXT 15/10 02:30 - Chicago Fire vs Philadelphia Union
+https://streamxhd.com/live1.php?stream=appletv11
+#EXTINF:-1 group-title="MLS",⏳NEXT 15/10 03:30 - Colorado Rapids vs Minnesota United
+https://streamxhd.com/live1.php?stream=appletv12
+#EXTINF:-1 group-title="MLS",⏳NEXT 15/10 03:30 - Real Salt Lake vs SJ Earthquakes
+https://streamxhd.com/live1.php?stream=appletv13
+#EXTINF:-1 group-title="MLS",⏳NEXT 15/10 04:30 - San Diego vs Houston Dynamo
+https://streamxhd.com/live1.php?stream=appletv16
+#EXTINF:-1 group-title="MLS",⏳NEXT 15/10 04:30 - Los Angeles FC vs Austin
+https://streamxhd.com/live1.php?stream=appletv14
+#EXTINF:-1 group-title="MLS",⏳NEXT 15/10 04:30 - LA Galaxy vs Portland Timbers
+https://streamxhd.com/live1.php?stream=appletv15
 #EXTGRP:NBA Pretemporada
-#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 14/10 01:00 - Orlando Magic vs Cleveland Cavaliers
+#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 01:00 - Orlando Magic vs Cleveland Cavaliers
 https://streamxhd.com/live1.php?stream=nba1
-#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 14/10 01:00 - Toronto Raptors vs New York Knicks
+#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 01:00 - Toronto Raptors vs New York Knicks
 https://streamxhd.com/live1.php?stream=nba2
-#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 14/10 02:00 - Oklahoma City Thunder vs Indiana Pacers
+#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 01:30 - Heat vs Nets
+https://streamxhd.com/live1.php?stream=nba1
+#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 01:30 - Celtics vs Hornets
+https://streamxhd.com/live1.php?stream=nba2
+#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 02:00 - Oklahoma City Thunder vs Indiana Pacers
 https://streamxhd.com/live1.php?stream=nba3
-#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 14/10 04:00 - Los Angeles Lakers vs Golden State Warriors
+#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 02:00 - Timberwolves vs Pistons
+https://streamxhd.com/live1.php?stream=nba3
+#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 02:00 - Bucks vs Bulls
 https://streamxhd.com/live1.php?stream=nba4
-#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 14/10 04:00 - Sacramento Kings vs Portland Trail Blazers
+#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 02:00 - Spurs vs Suns
 https://streamxhd.com/live1.php?stream=nba5
+#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 02:00 - Mavericks vs Pelicans
+https://streamxhd.com/live1.php?stream=nba6
+#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 04:00 - Los Angeles Lakers vs Golden State Warriors
+https://streamxhd.com/live1.php?stream=nba4
+#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 04:00 - Sacramento Kings vs Portland Trail Blazers
+https://streamxhd.com/live1.php?stream=nba5
+#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 04:30 - Clippers vs Nuggets
+https://streamxhd.com/live1.php?stream=nba7
 #EXTGRP:NHL
-#EXTINF:-1 group-title="NHL",⏳NEXT 14/10 02:30 - Dallas Stars vs Colorado Avalanche
+#EXTINF:-1 group-title="NHL",⏳NEXT 15/10 02:30 - Dallas Stars vs Colorado Avalanche
 https://streamxhd.com/live1.php?stream=espn4
 #EXTGRP:UEFA Champions League
-#EXTINF:-1 group-title="UEFA Champions League",✅END 13/10 18:45 - Sabah vs Slavia Praha
+#EXTINF:-1 group-title="UEFA Champions League",⏳NEXT 14/10 18:45 - LASK Linz vs Liverpool
+https://streamxhd.com/live1.php?stream=disney1
+#EXTINF:-1 group-title="UEFA Champions League",⏳NEXT 14/10 18:45 - Feyenoord vs Como
 https://streamxhd.com/live1.php?stream=disney2
-#EXTINF:-1 group-title="UEFA Champions League",✅END 13/10 18:45 - Lens vs Sporting CP
+#EXTINF:-1 group-title="UEFA Champions League",⏳NEXT 14/10 21:00 - Manchester City vs PSG
 https://streamxhd.com/live1.php?stream=disney3
-#EXTINF:-1 group-title="UEFA Champions League",🔴LIVE 13/10 21:00 - Inter vs Club Brugge
-https://streamxhd.com/live1.php?stream=disney10
-#EXTINF:-1 group-title="UEFA Champions League",🔴LIVE 13/10 21:00 - Atlético Madrid vs Manchester United
+#EXTINF:-1 group-title="UEFA Champions League",⏳NEXT 14/10 21:00 - Roma vs Real Madrid
 https://streamxhd.com/live1.php?stream=disney4
-#EXTINF:-1 group-title="UEFA Champions League",🔴LIVE 13/10 21:00 - Galatasaray vs Barcelona
+#EXTINF:-1 group-title="UEFA Champions League",⏳NEXT 14/10 21:00 - Bodø / Glimt vs Borussia Dortmund
 https://streamxhd.com/live1.php?stream=disney5
-#EXTINF:-1 group-title="UEFA Champions League",🔴LIVE 13/10 21:00 - Arsenal vs Lille
+#EXTINF:-1 group-title="UEFA Champions League",⏳NEXT 14/10 21:00 - Real Betis vs Porto
 https://streamxhd.com/live1.php?stream=disney6
-#EXTINF:-1 group-title="UEFA Champions League",🔴LIVE 13/10 21:00 - Villarreal vs Napoli
+#EXTINF:-1 group-title="UEFA Champions League",⏳NEXT 14/10 21:00 - Aston Villa vs Fenerbahce
 https://streamxhd.com/live1.php?stream=disney7
-#EXTINF:-1 group-title="UEFA Champions League",🔴LIVE 13/10 21:00 - Viking vs Bayern München
+#EXTINF:-1 group-title="UEFA Champions League",⏳NEXT 14/10 21:00 - Shakhtar Donetsk vs AEK Athens
 https://streamxhd.com/live1.php?stream=disney8
-#EXTINF:-1 group-title="UEFA Champions League",🔴LIVE 13/10 21:00 - RB Leipzig vs PSV
+#EXTINF:-1 group-title="UEFA Champions League",⏳NEXT 14/10 21:00 - Slovan Bratislava vs Stuttgart
 https://streamxhd.com/live1.php?stream=disney9

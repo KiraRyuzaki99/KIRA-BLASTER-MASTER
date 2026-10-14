@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTGRP:Amistoso Internacional Femenino
-#EXTINF:-1 group-title="Amistoso Internacional Femenino",⏳NEXT 15/10 01:00 - EE. UU. vs España
-https://streamxhd.com/live1.php?stream=disney12
-#EXTINF:-1 group-title="Amistoso Internacional Femenino",⏳NEXT 15/10 01:30 - Brasil vs Argentina
-https://streamxhd.com/live1.php?stream=sporttvbr1
 #EXTGRP:Copa Colombia
 #EXTINF:-1 group-title="Copa Colombia",⏳NEXT 15/10 03:30 - Atlético Nacional vs Medellín
 https://streamxhd.com/live1.php?stream=winplus
@@ -18,8 +13,6 @@ https://streamxhd.com/live1.php?stream=tigo1
 #EXTGRP:Copa Sudamericana
 #EXTINF:-1 group-title="Copa Sudamericana",⏳NEXT 15/10 00:00 - Atlético Mineiro vs Torque
 https://streamxhd.click/channel/?id=dsports
-#EXTINF:-1 group-title="Copa Sudamericana",⏳NEXT 15/10 02:30 - Boca Juniors vs Vasco da Gama
-https://streamxhd.click/channel/?id=dsports
 #EXTGRP:Copa de Rusia
 #EXTINF:-1 group-title="Copa de Rusia",⏳NEXT 14/10 17:30 - Dynamo Makhachkala vs Zenit
 https://streamxhd.com/live1.php?stream=dsports2
@@ -30,16 +23,9 @@ https://streamxhd.com/live1.php?stream=dsports2
 #EXTGRP:Liga Colombia
 #EXTINF:-1 group-title="Liga Colombia",⏳NEXT 14/10 23:30 - Junior vs Deportivo Pereira
 https://streamxhd.com/live1.php?stream=winplus
-#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 15/10 01:30 - Atlético Bucaramanga vs Rionegro Águilas
-https://streamxhd.com/live1.php?stream=winplus
-#EXTINF:-1 group-title="Liga Colombia",⏳NEXT 15/10 03:30 - Millonarios vs Once Caldas
-https://streamxhd.com/live1.php?stream=winplus
 #EXTGRP:Liga Profesional
 #EXTINF:-1 group-title="Liga Profesional",⏳NEXT 15/10 00:00 - Sarmiento vs River Plate
 https://streamxhd.com/live1.php?stream=tntsports
-#EXTGRP:MLB
-#EXTINF:-1 group-title="MLB",⏳NEXT 15/10 02:00 - Cleveland Guardians vs Tampa Bay Rays
-https://streamxhd.com/live1.php?stream=espn2
 #EXTGRP:MLS
 #EXTINF:-1 group-title="MLS",⏳NEXT 15/10 01:30 - Columbus Crew vs Charlotte
 https://streamxhd.com/live1.php?stream=appletv5
@@ -72,16 +58,10 @@ https://streamxhd.com/live1.php?stream=appletv14
 #EXTINF:-1 group-title="MLS",⏳NEXT 15/10 04:30 - LA Galaxy vs Portland Timbers
 https://streamxhd.com/live1.php?stream=appletv15
 #EXTGRP:NBA Pretemporada
-#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 01:00 - Orlando Magic vs Cleveland Cavaliers
-https://streamxhd.com/live1.php?stream=nba1
-#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 01:00 - Toronto Raptors vs New York Knicks
-https://streamxhd.com/live1.php?stream=nba2
 #EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 01:30 - Heat vs Nets
 https://streamxhd.com/live1.php?stream=nba1
 #EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 01:30 - Celtics vs Hornets
 https://streamxhd.com/live1.php?stream=nba2
-#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 02:00 - Oklahoma City Thunder vs Indiana Pacers
-https://streamxhd.com/live1.php?stream=nba3
 #EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 02:00 - Timberwolves vs Pistons
 https://streamxhd.com/live1.php?stream=nba3
 #EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 02:00 - Bucks vs Bulls
@@ -90,15 +70,8 @@ https://streamxhd.com/live1.php?stream=nba4
 https://streamxhd.com/live1.php?stream=nba5
 #EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 02:00 - Mavericks vs Pelicans
 https://streamxhd.com/live1.php?stream=nba6
-#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 04:00 - Los Angeles Lakers vs Golden State Warriors
-https://streamxhd.com/live1.php?stream=nba4
-#EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 04:00 - Sacramento Kings vs Portland Trail Blazers
-https://streamxhd.com/live1.php?stream=nba5
 #EXTINF:-1 group-title="NBA Pretemporada",⏳NEXT 15/10 04:30 - Clippers vs Nuggets
 https://streamxhd.com/live1.php?stream=nba7
-#EXTGRP:NHL
-#EXTINF:-1 group-title="NHL",⏳NEXT 15/10 02:30 - Dallas Stars vs Colorado Avalanche
-https://streamxhd.com/live1.php?stream=espn4
 #EXTGRP:UEFA Champions League
 #EXTINF:-1 group-title="UEFA Champions League",⏳NEXT 14/10 18:45 - LASK Linz vs Liverpool
 https://streamxhd.com/live1.php?stream=disney1

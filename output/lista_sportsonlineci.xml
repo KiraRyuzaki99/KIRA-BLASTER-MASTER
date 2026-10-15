@@ -1,52 +1,127 @@
 <?xml version="1.0" ?>
 <playlist version="1">
   <track>
-    <title>22:30 Junior x Deportivo Pereira</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd9.php</url>
-  </track>
-  <track>
-    <title>23:00 Sarmiento x River Plate</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd10.php</url>
-    <url>https://ww1.sportsonnline.click/channels/pt/sporttv1.php</url>
-  </track>
-  <track>
-    <title>23:00 Atlético Mineiro x Torque</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd5.php</url>
-    <url>https://ww1.sportsonnline.click/channels/pt/sporttv2.php</url>
-    <url>https://ww1.sportsonnline.click/channels/bra/br2.php</url>
-  </track>
-  <track>
-    <title>00:30 Santa Fe x Jaguares de Córdoba</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd9.php</url>
-  </track>
-  <track>
-    <title>00:30 Inter Miami x New York City</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd1.php</url>
-  </track>
-  <track>
-    <title>00:30 Toronto FC x Orlando City SC</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd11.php</url>
-  </track>
-  <track>
-    <title>01:30 Fluminense x Palmeiras</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd5.php</url>
-    <url>https://ww1.sportsonnline.click/channels/pt/sporttv1.php</url>
-    <url>https://ww1.sportsonnline.click/channels/bra/br1.php</url>
-  </track>
-  <track>
-    <title>01:30 NHL: Colorado Avalanche @ Dallas Stars</title>
+    <title>06:30 Golf: DP World Tour: India Championship - D1</title>
     <url>https://ww1.sportsonnline.click/channels/pt/sporttv3.php</url>
   </track>
   <track>
-    <title>02:30 Colorado Rapids x Minnesota United</title>
+    <title>17:45 Olympique Lyonnais x Crystal Palace</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd1.php</url>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd4.php</url>
+    <url>https://ww1.sportsonnline.click/channels/pt/eleven3.php</url>
+  </track>
+  <track>
+    <title>17:45 AZ x Hapoel Be'er Sheva</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd10.php</url>
+  </track>
+  <track>
+    <title>17:45 Lech Poznań x Bayer Leverkusen</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd3.php</url>
+  </track>
+  <track>
+    <title>17:45 Salzburg x Milan</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd7.php</url>
+    <url>https://ww1.sportsonnline.click/channels/pt/eleven2.php</url>
+  </track>
+  <track>
+    <title>17:45 Torreense x Sunderland</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd2.php</url>
+    <url>https://ww1.sportsonnline.click/channels/pt/eleven1.php</url>
+  </track>
+  <track>
+    <title>17:45 Union Saint-Gilloise x Real Sociedad</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd6.php</url>
+  </track>
+  <track>
+    <title>17:45 CSU Craiova x Getafe</title>
     <url>https://ww1.sportsonnline.click/channels/hd/hd11.php</url>
+  </track>
+  <track>
+    <title>17:45 Hajduk Split x Ajax</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd8.php</url>
+  </track>
+  <track>
+    <title>17:45 CSKA Sofia x Monaco</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd9.php</url>
+  </track>
+  <track>
+    <title>17:45 KuPS x Trabzonspor</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd5.php</url>
+  </track>
+  <track>
+    <title>20:00 NEC x Levski Sofia</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd10.php</url>
+  </track>
+  <track>
+    <title>20:00 AFC Bournemouth x Sturm Graz</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd1.php</url>
+  </track>
+  <track>
+    <title>20:00 Rennes x OFI</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd4.php</url>
+  </track>
+  <track>
+    <title>20:00 Celta de Vigo x Juventus</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd6.php</url>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd7.php</url>
+    <url>https://ww1.sportsonnline.click/channels/pt/eleven2.php</url>
+  </track>
+  <track>
+    <title>20:00 København x Sporting Braga</title>
+    <url>https://ww1.sportsonnline.click/channels/pt/eleven1.php</url>
+  </track>
+  <track>
+    <title>20:00 Brighton &amp; Hove Albion x Kauno Žalgiris</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd2.php</url>
+  </track>
+  <track>
+    <title>20:00 Benfica x Celtic</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd5.php</url>
+    <url>https://ww1.sportsonnline.click/channels/pt/sporttv5.php</url>
+  </track>
+  <track>
+    <title>20:00 Hoffenheim x Beşiktaş</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd3.php</url>
+  </track>
+  <track>
+    <title>20:00 Dinamo Zagreb x Anderlecht</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd9.php</url>
+  </track>
+  <track>
+    <title>20:00 Olympique Marseille x Olympiakos Piraeus</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd11.php</url>
+    <url>https://ww1.sportsonnline.click/channels/pt/eleven3.php</url>
+  </track>
+  <track>
+    <title>20:00 Atalanta x Paphos</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd8.php</url>
+  </track>
+  <track>
+    <title>21:00 Corinthians W x Colo-Colo W</title>
+    <url>https://ww1.sportsonnline.click/channels/bra/br1.php</url>
+  </track>
+  <track>
+    <title>01:00 Universitário W x Palmeiras W</title>
+    <url>https://ww1.sportsonnline.click/channels/bra/br1.php</url>
+  </track>
+  <track>
+    <title>01:30 Estudiantes x Flamengo</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd5.php</url>
+    <url>https://ww1.sportsonnline.click/channels/pt/sporttv1.php</url>
+    <url>https://ww1.sportsonnline.click/channels/bra/br2.php</url>
   </track>
   <additional>
     <item>HD1 ENGLISH</item>
-    <item>HD5 ENGLISH</item>
-    <item>HD9 SPANISH</item>
-    <item>HD10 SPANISH</item>
-    <item>HD11 ENGLISH</item>
+    <item>HD2 ENGLISH</item>
+    <item>HD3 GERMAN</item>
+    <item>HD4 FRENCH</item>
+    <item>HD5 TURKISH &amp; ENGLISH</item>
+    <item>HD6 SPANISH</item>
+    <item>HD7 ITALIAN</item>
+    <item>HD8 DUTCH &amp; ITALIAN</item>
+    <item>HD9 FRENCH &amp; BELGIAN</item>
+    <item>HD10 DUTCH</item>
+    <item>HD11 SPANISH &amp; FRENCH</item>
     <item>BR1 BRAZILIAN</item>
     <item>BR2 BRAZILIAN</item>
   </additional>

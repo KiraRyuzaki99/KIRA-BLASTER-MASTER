@@ -43,29 +43,6 @@
     ]
   },
   {
-    "title": "Milwaukee Brewers Los Angeles Dodgers",
-    "category": "Milwaukee Brewers",
-    "logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
-    "start_iso": "2026-10-15T00:00:00.000Z",
-    "end_iso": "2026-10-15T03:00:00.000Z",
-    "date": "Thursday, 15 October 2026",
-    "time": "02:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/brewers-vs-dodgers",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/brewers-vs-dodgers/2840",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "India Championship PGA Tour",
     "category": "India Championship",
     "logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -988,6 +965,18 @@
     "time": "15:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/manchester-united-vs-leeds-united",
+    "servers": []
+  },
+  {
+    "title": "Crystal Palace Brighton & Hove Albion",
+    "category": "Crystal Palace",
+    "logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+    "start_iso": "2026-10-18T13:00:00.000Z",
+    "end_iso": "2026-10-18T15:15:00.000Z",
+    "date": "Sunday, 18 October 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/crystal-palace-vs-brighton",
     "servers": []
   }
 ]

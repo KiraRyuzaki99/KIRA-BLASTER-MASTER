@@ -1,6 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
+#EXTINF:-1 group-title="Baseball",19:00 - Cleveland Guardians vs Tampa Bay Rays
+https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-cleveland-guardians/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:00 - Cleveland Guardians vs Tampa Bay Rays
+https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-cleveland-guardians/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:00 - Cleveland Guardians vs Tampa Bay Rays
+https://embed.st/embed/golf/2339/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:00 - Cleveland Guardians vs Tampa Bay Rays
+https://embed.st/embed/golf/2339/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Baseball",19:00 - Cleveland Guardians vs Tampa Bay Rays
+https://embed.st/embed/hotel/tampa-bay-rays-vs-cleveland-guardians-mlb-1792083600/1#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Football",18:45 - FC Lugano vs. Red Star Belgrade
 https://embed.st/embed/admin/ppv-fc-lugano-vs-red-star-belgrade/1#player=clappr&autoplay=true
 
@@ -211,20 +226,17 @@ https://embed.st/embed/admin/ppv-hajduk-split-vs-ajax-amsterdam/2#player=clappr&
 #EXTINF:-1 group-title="Football",18:45 - Hajduk Split vs Ajax
 https://embed.st/embed/hotel/hajduk-split-vs-ajax-amsterdam-uefa-europa-conference-league-1792082700/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",19:00 - Cleveland Guardians vs Tampa Bay Rays
-https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-cleveland-guardians/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Football",18:40 - Instant Highlights
+https://embed.st/embed/admin/ppv-instant-highlights/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",19:00 - Cleveland Guardians vs Tampa Bay Rays
-https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-cleveland-guardians/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Football",18:40 - Instant Highlights
+https://embed.st/embed/admin/ppv-instant-highlights/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",19:00 - Cleveland Guardians vs Tampa Bay Rays
-https://embed.st/embed/golf/2339/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Football",18:00 - The Golazo Show
+https://embed.st/embed/admin/ppv-the-golazo-show/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Baseball",19:00 - Cleveland Guardians vs Tampa Bay Rays
-https://embed.st/embed/golf/2339/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Baseball",19:00 - Cleveland Guardians vs Tampa Bay Rays
-https://embed.st/embed/hotel/tampa-bay-rays-vs-cleveland-guardians-mlb-1792101600/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Football",18:00 - The Golazo Show
+https://embed.st/embed/admin/ppv-the-golazo-show/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Stade Rennais vs. OFI Crete
 https://embed.st/embed/admin/ppv-stade-rennais-vs-ofi-crete/1#player=clappr&autoplay=true

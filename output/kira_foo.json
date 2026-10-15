@@ -83,7 +83,7 @@
     "end_iso": "2026-10-15T19:00:00.000Z",
     "date": "Thursday, 15 October 2026",
     "time": "18:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/crystal-palace-vs-lyon",
     "servers": [
       {
@@ -106,7 +106,7 @@
     "end_iso": "2026-10-15T19:00:00.000Z",
     "date": "Thursday, 15 October 2026",
     "time": "18:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/sunderland-vs-torreense",
     "servers": [
       {
@@ -129,7 +129,7 @@
     "end_iso": "2026-10-15T19:00:00.000Z",
     "date": "Thursday, 15 October 2026",
     "time": "18:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/milan-vs-salzburg",
     "servers": [
       {
@@ -152,7 +152,7 @@
     "end_iso": "2026-10-15T19:00:00.000Z",
     "date": "Thursday, 15 October 2026",
     "time": "18:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/real-sociedad-vs-union-sg",
     "servers": [
       {
@@ -175,7 +175,7 @@
     "end_iso": "2026-10-15T19:00:00.000Z",
     "date": "Thursday, 15 October 2026",
     "time": "18:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/bayer-leverkusen-vs-lech-poznan",
     "servers": [
       {
@@ -186,72 +186,6 @@
           "quality": "720p",
           "ads": "2",
           "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Al-Nassr Al Ahli",
-    "category": "Al-Nassr",
-    "logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
-    "start_iso": "2026-10-15T18:00:00.000Z",
-    "end_iso": "2026-10-15T20:15:00.000Z",
-    "date": "Thursday, 15 October 2026",
-    "time": "20:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/al-nassr-vs-al-ahli",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/al-nassr-vs-al-ahli/2809",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/al-nassr-vs-al-ahli/2810",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Le Mans Toulouse",
-    "category": "Le Mans",
-    "logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
-    "start_iso": "2026-10-15T18:45:00.000Z",
-    "end_iso": "2026-10-15T21:00:00.000Z",
-    "date": "Thursday, 15 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/le-mans-vs-toulouse",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/le-mans-vs-toulouse/2813",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://playerdee.top/alpha/le-mans-vs-toulouse/2814",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
         }
       }
     ]
@@ -270,6 +204,75 @@
       {
         "label": "English",
         "url": "https://playerdee.top/alpha/benfica-vs-celtic/2804",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "AFC Bournemouth Sturm Graz",
+    "category": "AFC Bournemouth",
+    "logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+    "start_iso": "2026-10-15T19:00:00.000Z",
+    "end_iso": "2026-10-15T21:15:00.000Z",
+    "date": "Thursday, 15 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/bournemouth-vs-sturm-graz",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bournemouth-vs-sturm-graz/2801",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Juventus Celta de Vigo",
+    "category": "Juventus",
+    "logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+    "start_iso": "2026-10-15T19:00:00.000Z",
+    "end_iso": "2026-10-15T21:15:00.000Z",
+    "date": "Thursday, 15 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/juventus-vs-celta-vigo",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/juventus-vs-celta-vigo/2802",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hoffenheim Besiktas",
+    "category": "Hoffenheim",
+    "logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
+    "start_iso": "2026-10-15T19:00:00.000Z",
+    "end_iso": "2026-10-15T21:15:00.000Z",
+    "date": "Thursday, 15 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/hoffenheim-vs-besiktas",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/hoffenheim-vs-besiktas/2803",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -521,6 +524,39 @@
           "quality": "SD",
           "ads": "2",
           "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Le Mans Toulouse",
+    "category": "Le Mans",
+    "logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
+    "start_iso": "2026-10-16T18:45:00.000Z",
+    "end_iso": "2026-10-16T21:00:00.000Z",
+    "date": "Friday, 16 October 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/le-mans-vs-toulouse",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/le-mans-vs-toulouse/2813",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://playerdee.top/alpha/le-mans-vs-toulouse/2814",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
         }
       }
     ]
@@ -815,6 +851,18 @@
     "servers": []
   },
   {
+    "title": "Bayern München RB Leipzig",
+    "category": "Bayern München",
+    "logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+    "start_iso": "2026-10-17T16:30:00.000Z",
+    "end_iso": "2026-10-17T18:45:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/bayern-munchen-vs-rb-leipzig",
+    "servers": []
+  },
+  {
     "title": "FC Barcelona Real Betis",
     "category": "FC Barcelona",
     "logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
@@ -839,15 +887,15 @@
     "servers": []
   },
   {
-    "title": "Bayern München RB Leipzig",
-    "category": "Bayern München",
-    "logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-    "start_iso": "2026-10-17T16:30:00.000Z",
-    "end_iso": "2026-10-17T18:45:00.000Z",
+    "title": "AS Roma Genoa",
+    "category": "AS Roma",
+    "logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+    "start_iso": "2026-10-17T18:45:00.000Z",
+    "end_iso": "2026-10-17T21:00:00.000Z",
     "date": "Saturday, 17 October 2026",
-    "time": "18:30",
+    "time": "20:45",
     "status": "next",
-    "event_url": "https://pogo.pk/events/bayern-munchen-vs-rb-leipzig",
+    "event_url": "https://pogo.pk/events/roma-vs-genoa",
     "servers": []
   },
   {
@@ -860,18 +908,6 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/lille-vs-brest",
-    "servers": []
-  },
-  {
-    "title": "AS Roma Genoa",
-    "category": "AS Roma",
-    "logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-    "start_iso": "2026-10-17T18:45:00.000Z",
-    "end_iso": "2026-10-17T21:00:00.000Z",
-    "date": "Saturday, 17 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/roma-vs-genoa",
     "servers": []
   },
   {

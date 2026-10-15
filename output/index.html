@@ -1,53 +1,57 @@
 <!DOCTYPE html>
+<!--ENCRYPTED-HTML-->
 <html lang="it">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>📡 KIRA-BLASTER-MASTER - Raccoglitore </title>
-    <style>
-        body {
-            font-family: 'Segoe UI', system-ui, sans-serif;
-            background: #0a0e17;
-            color: #e0e0e0;
-            padding: 40px 20px;
-        }
-        .container { max-width: 800px; margin: 0 auto; }
-        h1 { color: #00ffcc; }
-        .file-list {
-            list-style: none;
-            padding: 0;
-        }
-        .file-list li {
-            padding: 10px 15px;
-            margin: 5px 0;
-            background: rgba(255,255,255,0.05);
-            border-radius: 8px;
-            border: 1px solid rgba(255,255,255,0.1);
-        }
-        .file-list a {
-            color: #00ffcc;
-            text-decoration: none;
-        }
-        .file-list a:hover { text-decoration: underline; }
-        .footer {
-            margin-top: 40px;
-            color: #556688;
-            text-align: center;
-            border-top: 1px solid rgba(255,255,255,0.1);
-            padding-top: 20px;
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Accesso protetto</title>
+<style>
+body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;
+background:#0b0b12;color:#eee;font-family:system-ui,sans-serif}
+form{display:flex;flex-direction:column;gap:12px;width:min(320px,86vw)}
+input,button{padding:12px;border-radius:8px;border:1px solid #444;font-size:16px}
+input{background:#161622;color:#eee}
+button{background:#5b5bff;color:#fff;border:0;cursor:pointer}
+#err{color:#ff6b6b;min-height:1.2em;font-size:14px}
+</style>
 </head>
 <body>
-    <div class="container">
-        <h1>📡 KIRA-BLASTER-MASTER</h1>
-        <p>🔄 Aggiornato: 15/10/2026 05:16:34</p>
-        <p>📁 14 file disponibili</p>
-        <ul class="file-list"><li><a href="Eventi della Settimana.html">Eventi della Settimana.html</a></li><li><a href="kira_asi.html">kira_asi.html</a></li><li><a href="kira_asi_sett.html">kira_asi_sett.html</a></li><li><a href="kira_foo.html">kira_foo.html</a></li><li><a href="kira_hat.html">kira_hat.html</a></li><li><a href="kira_hat_od.html">kira_hat_od.html</a></li><li><a href="kira_ica.html">kira_ica.html</a></li><li><a href="kira_mam.html">kira_mam.html</a></li><li><a href="kira_ppvvt.html">kira_ppvvt.html</a></li><li><a href="kira_spo.html">kira_spo.html</a></li><li><a href="kira_tora.html">kira_tora.html</a></li><li><a href="kira_ultra.html">kira_ultra.html</a></li><li><a href="kira_xust.html">kira_xust.html</a></li><li><a href="requirements.txt">requirements.txt</a></li>
-        </ul>
-        <div class="footer">
-            <p>⚡ Generato automaticamente • 2026</p>
-        </div>
-    </div>
+<form id="f" style="display:none">
+<input id="pw" type="password" placeholder="Password" autocomplete="current-password" autofocus>
+<button type="submit">Entra</button>
+<div id="err"></div>
+</form>
+<script>
+const SALT="pn3jDovcCUxi0LPqVbhpSg==", IV="W9iaHWDBA7zJ6BdD", DATA="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", ITER=250000;
+const KEY="kbpw";
+const b64=s=>Uint8Array.from(atob(s),c=>c.charCodeAt(0));
+const f=document.getElementById("f"), err=document.getElementById("err"), pw=document.getElementById("pw");
+async function decifra(password){
+  const km=await crypto.subtle.importKey("raw",new TextEncoder().encode(password),"PBKDF2",false,["deriveKey"]);
+  const key=await crypto.subtle.deriveKey({name:"PBKDF2",salt:b64(SALT),iterations:ITER,hash:"SHA-256"},km,{name:"AES-GCM",length:256},false,["decrypt"]);
+  const buf=await crypto.subtle.decrypt({name:"AES-GCM",iv:b64(IV)},key,b64(DATA));
+  return new TextDecoder().decode(buf);
+}
+function mostra(html){ document.open(); document.write(html); document.close(); }
+async function auto(){
+  let saved=null;
+  try{ saved=sessionStorage.getItem(KEY); }catch(x){}
+  if(saved){
+    try{ mostra(await decifra(saved)); return; }
+    catch(x){ try{ sessionStorage.removeItem(KEY); }catch(y){} }
+  }
+  f.style.display="flex"; pw.focus();
+}
+f.addEventListener("submit",async e=>{
+  e.preventDefault(); err.textContent="";
+  try{
+    const html=await decifra(pw.value);
+    try{ sessionStorage.setItem(KEY,pw.value); }catch(x){}
+    mostra(html);
+  }catch(x){ err.textContent="Password errata"; }
+});
+auto();
+</script>
 </body>
 </html>

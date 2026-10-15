@@ -1,1 +1,57 @@
-<h1>Nessun evento trovato</h1>
+<!DOCTYPE html>
+<!--ENCRYPTED-HTML-->
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Accesso protetto</title>
+<style>
+body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;
+background:#0b0b12;color:#eee;font-family:system-ui,sans-serif}
+form{display:flex;flex-direction:column;gap:12px;width:min(320px,86vw)}
+input,button{padding:12px;border-radius:8px;border:1px solid #444;font-size:16px}
+input{background:#161622;color:#eee}
+button{background:#5b5bff;color:#fff;border:0;cursor:pointer}
+#err{color:#ff6b6b;min-height:1.2em;font-size:14px}
+</style>
+</head>
+<body>
+<form id="f" style="display:none">
+<input id="pw" type="password" placeholder="Password" autocomplete="current-password" autofocus>
+<button type="submit">Entra</button>
+<div id="err"></div>
+</form>
+<script>
+const SALT="izMsx6I3WLZpN0crkQJGwQ==", IV="ckIvx8APx/Y2wjbo", DATA="cXarxRsmnfvSBoF6B1R8ffcXGb6qlHdBO/nnAdotHgFqmtnSM3RkzX1yvpgC8w==", ITER=250000;
+const KEY="kbpw";
+const b64=s=>Uint8Array.from(atob(s),c=>c.charCodeAt(0));
+const f=document.getElementById("f"), err=document.getElementById("err"), pw=document.getElementById("pw");
+async function decifra(password){
+  const km=await crypto.subtle.importKey("raw",new TextEncoder().encode(password),"PBKDF2",false,["deriveKey"]);
+  const key=await crypto.subtle.deriveKey({name:"PBKDF2",salt:b64(SALT),iterations:ITER,hash:"SHA-256"},km,{name:"AES-GCM",length:256},false,["decrypt"]);
+  const buf=await crypto.subtle.decrypt({name:"AES-GCM",iv:b64(IV)},key,b64(DATA));
+  return new TextDecoder().decode(buf);
+}
+function mostra(html){ document.open(); document.write(html); document.close(); }
+async function auto(){
+  let saved=null;
+  try{ saved=sessionStorage.getItem(KEY); }catch(x){}
+  if(saved){
+    try{ mostra(await decifra(saved)); return; }
+    catch(x){ try{ sessionStorage.removeItem(KEY); }catch(y){} }
+  }
+  f.style.display="flex"; pw.focus();
+}
+f.addEventListener("submit",async e=>{
+  e.preventDefault(); err.textContent="";
+  try{
+    const html=await decifra(pw.value);
+    try{ sessionStorage.setItem(KEY,pw.value); }catch(x){}
+    mostra(html);
+  }catch(x){ err.textContent="Password errata"; }
+});
+auto();
+</script>
+</body>
+</html>

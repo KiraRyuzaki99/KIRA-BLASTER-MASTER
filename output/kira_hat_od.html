@@ -1,384 +1,57 @@
 <!DOCTYPE html>
+<!--ENCRYPTED-HTML-->
 <html lang="it">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>CYBER GATE ACCESS - Tutti gli Sport (Oggi + Futuri)</title>
-<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Audiowide&family=Grotesk:wght@400;700&display=swap" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Accesso protetto</title>
 <style>
-* { margin: 0; padding: 0; box-sizing: border-box; }
-body { font-family: 'Grotesk', sans-serif; background: #0a0a0a; color: #00ffcc; min-height: 100vh; overflow-x: hidden; }
-.matrix-bg { position: fixed; top:0; left:0; width:100%; height:100%; z-index:-1; background:#0a0a0a; overflow:hidden; }
-.matrix-bg::before { content:''; position:absolute; top:0; left:0; width:100%; height:100%;
-    background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,255,204,0.03) 2px, rgba(0,255,204,0.03) 4px);
-    animation: matrixScroll 15s linear infinite; }
-@keyframes matrixScroll { 0%{transform:translateY(0)} 100%{transform:translateY(100%)} }
-.matrix-bg::after { content:'0100101101001001010010001001001010010110100101101001011010010110';
-    position:absolute; top:0; left:0; width:100%; height:100%; color:rgba(0,255,204,0.04);
-    font-family:'Orbitron',monospace; font-size:14px; line-height:1.8; word-break:break-all;
-    animation: matrixText 30s linear infinite; }
-@keyframes matrixText { 0%{transform:translateY(0);opacity:0.5} 50%{opacity:1} 100%{transform:translateY(-50%);opacity:0.5} }
-.matrix-bg .glow { position:absolute; width:300px; height:300px; border-radius:50%; filter:blur(100px); opacity:0.15; }
-.matrix-bg .glow.g1 { background:#00ffcc; top:-50px; left:-100px; animation: floatGlow 20s ease-in-out infinite; }
-.matrix-bg .glow.g2 { background:#ff00cc; bottom:-50px; right:-100px; animation: floatGlow 25s ease-in-out infinite reverse; }
-@keyframes floatGlow { 0%,100%{transform:translate(0,0) scale(1)} 50%{transform:translate(50px,-30px) scale(1.2)} }
-.container { max-width:1200px; margin:0 auto; padding:20px; position:relative; z-index:1; backdrop-filter:blur(2px); }
-.header { text-align:center; padding:30px 0 40px; border-bottom:2px solid rgba(0,255,204,0.3); margin-bottom:40px; }
-.header h1 { font-family:'Orbitron',sans-serif; font-weight:900; font-size:3.5rem;
-    text-shadow: 0 0 20px rgba(0,255,204,0.5), 0 0 40px rgba(0,255,204,0.2);
-    background: linear-gradient(135deg, #00ffcc, #00ccff); -webkit-background-clip:text;
-    -webkit-text-fill-color:transparent; letter-spacing:4px; }
-.header .subtitle { font-family:'Audiowide',cursive; color:#88ffdd; font-size:1.2rem;
-    margin-top:10px; opacity:0.9; text-shadow: 0 0 15px rgba(0,255,204,0.3); }
-.event-counter { text-align:center; font-family:'Orbitron',monospace; font-size:1.2rem;
-    color:#00ffcc; background: rgba(0,255,204,0.08); border:1px solid rgba(0,255,204,0.2);
-    padding:12px 20px; border-radius:30px; display:inline-block; margin:0 auto 30px; backdrop-filter:blur(10px); }
-.event-counter span { font-weight:900; font-size:1.5rem; }
-.sport-header { grid-column:1/-1; display:flex; justify-content:space-between; align-items:center;
-    padding:15px 20px; background: rgba(0,255,204,0.05); border-left:4px solid #00ffcc;
-    border-radius:10px; margin:20px 0 10px 0; }
-.sport-title { font-family:'Orbitron',sans-serif; font-weight:700; font-size:1.5rem;
-    color:#00ffcc; text-shadow: 0 0 20px rgba(0,255,204,0.3); }
-.sport-count { font-family:'Grotesk',sans-serif; color:#88ddff; background: rgba(0,255,204,0.1);
-    padding:4px 15px; border-radius:20px; font-size:0.9rem; }
-.events-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(350px, 1fr));
-    gap:25px; margin-top:10px; }
-.event-card { background: rgba(0,30,30,0.7); backdrop-filter:blur(10px);
-    border:1px solid rgba(0,255,204,0.2); border-radius:15px; padding:25px;
-    transition: all 0.3s ease; box-shadow: 0 0 30px rgba(0,255,204,0.05);
-    display:flex; flex-direction:column; }
-.event-card:hover { transform:translateY(-5px); border-color: rgba(0,255,204,0.6);
-    box-shadow: 0 0 40px rgba(0,255,204,0.15); }
-.event-info h3 { font-family:'Orbitron',sans-serif; font-weight:700; font-size:1.1rem;
-    color:#00ffcc; margin-bottom:8px; text-shadow: 0 0 10px rgba(0,255,204,0.2);
-    display:flex; align-items:center; flex-wrap:wrap; gap:8px; }
-.today-badge { background:#00ffcc; color:#0a0a0a; padding:2px 10px; border-radius:12px;
-    font-size:0.6rem; font-weight:bold; }
-.future-badge { background:#ff00cc; color:#fff; padding:2px 10px; border-radius:12px;
-    font-size:0.6rem; font-weight:bold; }
-.event-info .competition { font-family:'Audiowide',cursive; color:#88ddff; font-size:0.85rem;
-    background: rgba(0,255,204,0.1); padding:4px 12px; border-radius:20px;
-    display:inline-block; margin-bottom:10px; letter-spacing:1px; }
-.event-info .datetime { font-family:'Grotesk',sans-serif; color:#88ddff; font-size:0.9rem; opacity:0.8; }
-.event-links { margin-top:15px; padding-top:15px; border-top:1px solid rgba(0,255,204,0.15); }
-.server-link { display:inline-block; font-family:'Orbitron',monospace; font-weight:700;
-    color:#0a0a0a; background:#00ffcc; padding:12px 24px; border-radius:8px;
-    text-decoration:none; transition: all 0.3s ease; font-size:0.85rem; letter-spacing:1px;
-    box-shadow: 0 0 20px rgba(0,255,204,0.3); width:100%; text-align:center; }
-.server-link:hover { background:#00ddbb; box-shadow: 0 0 40px rgba(0,255,204,0.5); transform:scale(1.02); }
-.no-link { color:#ff6688; font-size:0.9rem; text-align:center; display:block; }
-.source-info { font-size:0.7rem; color:#88ddff; opacity:0.6; text-align:center; margin-top:5px; }
-.dropdown select { width:100%; padding:12px 15px; background: rgba(0,20,20,0.9);
-    color:#00ffcc; border:1px solid rgba(0,255,204,0.4); border-radius:10px;
-    font-family:'Orbitron',monospace; font-size:0.85rem; cursor:pointer; outline:none;
-    transition: all 0.3s ease; appearance:none;
-    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2300ffcc' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
-    background-repeat:no-repeat; background-position:right 15px center; background-size:15px; }
-.dropdown select option { background:#0a1a1a; color:#88ffdd; padding:10px; }
-.footer { text-align:center; padding:40px 0 20px; margin-top:60px;
-    border-top:1px solid rgba(0,255,204,0.2); font-family:'Grotesk',sans-serif;
-    color:#88ddff; opacity:0.7; font-size:0.9rem; }
-.footer .neon-text { font-family:'Orbitron',monospace; color:#00ffcc; opacity:1;
-    font-size:1rem; text-shadow: 0 0 15px rgba(0,255,204,0.2); }
-@media (max-width:768px) {
-    .header h1 { font-size:2.2rem; }
-    .events-grid { grid-template-columns:1fr; }
-    .container { padding:15px; }
-    .event-card { padding:18px; }
-    .sport-header { flex-direction:column; gap:8px; text-align:center; }
-}
+body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;
+background:#0b0b12;color:#eee;font-family:system-ui,sans-serif}
+form{display:flex;flex-direction:column;gap:12px;width:min(320px,86vw)}
+input,button{padding:12px;border-radius:8px;border:1px solid #444;font-size:16px}
+input{background:#161622;color:#eee}
+button{background:#5b5bff;color:#fff;border:0;cursor:pointer}
+#err{color:#ff6b6b;min-height:1.2em;font-size:14px}
 </style>
 </head>
 <body>
-<div class="matrix-bg">
-    <div class="glow g1"></div>
-    <div class="glow g2"></div>
-</div>
-<div class="container">
-    <header class="header">
-        <h1>KIRA GATE ACCESS</h1>
-        <p class="subtitle">• Oggi e Prossimi Eventi •</p>
-    </header>
-    <div style="text-align:center;">
-        <div class="event-counter">
-            🎯 <span>15</span> eventi (Oggi: 15 | Futuri: 0)
-        </div>
-    </div>
-    <div class="events-grid">
-        
-        <div class="sport-header">
-            <h2 class="sport-title">🏆 Calcio</h2>
-            <span class="sport-count">15 eventi</span>
-        </div>
-        
-            <div class="event-card">
-                <div class="event-info">
-                    <h3>Giugliano - Inter U23<span class="today-badge">OGGI</span></h3>
-                    <p class="competition">🏆 CALCIO - SERIE C</p>
-                    <p class="datetime">🕒 15:00 • 📅 Monday, 12 October 2026</p>
-                </div>
-                <div class="event-links">
-                <div class="dropdown">
-                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
-                        <option value="">📡 Scegli il canale (3)...</option>
-                        <option value="https://www.htsport.org/calciohd.htm">Calcio HD</option>
-<option value="https://www.htsport.org/calcio.htm">Calcio</option>
-<option value="https://www.htsport.org/calciob.htm">Calcio B</option>
-                    </select>
-                    <div class="source-info">Fonte (htsport)</div>
-                </div>
-                </div>
-            </div>
-            
-            <div class="event-card">
-                <div class="event-info">
-                    <h3>Juventus Next Gen - Lumezzane<span class="today-badge">OGGI</span></h3>
-                    <p class="competition">🏆 CALCIO - SERIE C</p>
-                    <p class="datetime">🕒 16:00 • 📅 Monday, 12 October 2026</p>
-                </div>
-                <div class="event-links">
-                <div class="dropdown">
-                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
-                        <option value="">📡 Scegli il canale (3)...</option>
-                        <option value="https://www.htsport.org/sportunohd.htm">Sport 1 HD</option>
-<option value="https://www.htsport.org/sportuno.htm">Sport 1</option>
-<option value="https://www.htsport.org/sportunob.htm">Sport 1 B</option>
-                    </select>
-                    <div class="source-info">Fonte (htsport)</div>
-                </div>
-                </div>
-            </div>
-            
-            <div class="event-card">
-                <div class="event-info">
-                    <h3>Atalanta - Venezia<span class="today-badge">OGGI</span></h3>
-                    <p class="competition">🏆 CALCIO - SERIE A</p>
-                    <p class="datetime">🕒 18:30 • 📅 Monday, 12 October 2026</p>
-                </div>
-                <div class="event-links">
-                <div class="dropdown">
-                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
-                        <option value="">📡 Scegli il canale (4)...</option>
-                        <option value="https://www.htsport.org/dazn1.htm">Dazn 1</option>
-<option value="https://www.htsport.org/live2.htm">Live 2</option>
-<option value="https://www.htsport.org/live7.htm">Live 7</option>
-<option value="https://www.htsport.org/live137.htm">Live 137</option>
-                    </select>
-                    <div class="source-info">Fonte (htsport)</div>
-                </div>
-                </div>
-            </div>
-            
-            <div class="event-card">
-                <div class="event-info">
-                    <h3>Diretta Goal<span class="today-badge">OGGI</span></h3>
-                    <p class="competition">🏆 CALCIO - CHAMPIONS LEAGUE</p>
-                    <p class="datetime">🕒 18:45 • 📅 Monday, 12 October 2026</p>
-                </div>
-                <div class="event-links">
-                <div class="dropdown">
-                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
-                        <option value="">📡 Scegli il canale (3)...</option>
-                        <option value="https://www.htsport.org/sportunohd.htm">Sport 1 HD</option>
-<option value="https://www.htsport.org/sportuno.htm">Sport 1</option>
-<option value="https://www.htsport.org/sportunob.htm">Sport 1 B</option>
-                    </select>
-                    <div class="source-info">Fonte (htsport)</div>
-                </div>
-                </div>
-            </div>
-            
-            <div class="event-card">
-                <div class="event-info">
-                    <h3>Sabah - Slavia Praga<span class="today-badge">OGGI</span></h3>
-                    <p class="competition">🏆 CALCIO - CHAMPIONS LEAGUE</p>
-                    <p class="datetime">🕒 18:45 • 📅 Monday, 12 October 2026</p>
-                </div>
-                <div class="event-links">
-                <div class="dropdown">
-                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
-                        <option value="">📡 Scegli il canale (2)...</option>
-                        <option value="https://www.htsport.org/arenahd.htm">Sport Arena HD</option>
-<option value="https://www.htsport.org/arena.htm">Sport Arena</option>
-                    </select>
-                    <div class="source-info">Fonte (htsport)</div>
-                </div>
-                </div>
-            </div>
-            
-            <div class="event-card">
-                <div class="event-info">
-                    <h3>Lens - Sporting Lisbona<span class="today-badge">OGGI</span></h3>
-                    <p class="competition">🏆 CALCIO - CHAMPIONS LEAGUE</p>
-                    <p class="datetime">🕒 18:45 • 📅 Monday, 12 October 2026</p>
-                </div>
-                <div class="event-links">
-                <div class="dropdown">
-                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
-                        <option value="">📡 Scegli il canale (3)...</option>
-                        <option value="https://www.htsport.org/calciohd.htm">Calcio HD</option>
-<option value="https://www.htsport.org/calcio.htm">Calcio</option>
-<option value="https://www.htsport.org/calciob.htm">Calcio B</option>
-                    </select>
-                    <div class="source-info">Fonte (htsport)</div>
-                </div>
-                </div>
-            </div>
-            
-            <div class="event-card">
-                <div class="event-info">
-                    <h3>Pescara - Guidonia<span class="today-badge">OGGI</span></h3>
-                    <p class="competition">🏆 CALCIO - SERIE C</p>
-                    <p class="datetime">🕒 20:30 • 📅 Monday, 12 October 2026</p>
-                </div>
-                <div class="event-links">
-                <div class="dropdown">
-                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
-                        <option value="">📡 Scegli il canale (3)...</option>
-                        <option value="https://www.htsport.org/sportunohd.htm">Sport 1 HD</option>
-<option value="https://www.htsport.org/sportuno.htm">Sport 1</option>
-<option value="https://www.htsport.org/sportunob.htm">Sport 1 B</option>
-                    </select>
-                    <div class="source-info">Fonte (htsport)</div>
-                </div>
-                </div>
-            </div>
-            
-            <div class="event-card">
-                <div class="event-info">
-                    <h3>Barletta - Cavese<span class="today-badge">OGGI</span></h3>
-                    <p class="competition">🏆 CALCIO - SERIE C</p>
-                    <p class="datetime">🕒 20:30 • 📅 Monday, 12 October 2026</p>
-                </div>
-                <div class="event-links">
-                <a href="https://www.htsport.org/calcio2.htm" target="_blank" class="server-link">Calcio 2</a>
-                <div class="source-info">Fonte (htsport)</div>
-                </div>
-            </div>
-            
-            <div class="event-card">
-                <div class="event-info">
-                    <h3>Picerno - Cosenza<span class="today-badge">OGGI</span></h3>
-                    <p class="competition">🏆 CALCIO - SERIE C</p>
-                    <p class="datetime">🕒 20:30 • 📅 Monday, 12 October 2026</p>
-                </div>
-                <div class="event-links">
-                <a href="https://www.htsport.org/calcio3.htm" target="_blank" class="server-link">Calcio 3</a>
-                <div class="source-info">Fonte (htsport)</div>
-                </div>
-            </div>
-            
-            <div class="event-card">
-                <div class="event-info">
-                    <h3>Torino - Udinese<span class="today-badge">OGGI</span></h3>
-                    <p class="competition">🏆 CALCIO - SERIE A</p>
-                    <p class="datetime">🕒 20:45 • 📅 Monday, 12 October 2026</p>
-                </div>
-                <div class="event-links">
-                <div class="dropdown">
-                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
-                        <option value="">📡 Scegli il canale (4)...</option>
-                        <option value="https://www.htsport.org/calciohd.htm">Calcio HD</option>
-<option value="https://www.htsport.org/calcio.htm">Calcio</option>
-<option value="https://www.htsport.org/calciob.htm">Calcio B</option>
-<option value="https://www.htsport.org/live2.htm">Live 2</option>
-                    </select>
-                    <div class="source-info">Fonte (htsport)</div>
-                </div>
-                </div>
-            </div>
-            
-            <div class="event-card">
-                <div class="event-info">
-                    <h3>Coventry - Newcastle<span class="today-badge">OGGI</span></h3>
-                    <p class="competition">🏆 CALCIO - PREMIER LEAGUE</p>
-                    <p class="datetime">🕒 20:45 • 📅 Monday, 12 October 2026</p>
-                </div>
-                <div class="event-links">
-                <div class="dropdown">
-                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
-                        <option value="">📡 Scegli il canale (2)...</option>
-                        <option value="https://www.htsport.org/arenahd.htm">Sport Arena HD</option>
-<option value="https://www.htsport.org/arena.htm">Sport Arena</option>
-                    </select>
-                    <div class="source-info">Fonte (htsport)</div>
-                </div>
-                </div>
-            </div>
-            
-            <div class="event-card">
-                <div class="event-info">
-                    <h3>Levante - Siviglia<span class="today-badge">OGGI</span></h3>
-                    <p class="competition">🏆 CALCIO - LIGA</p>
-                    <p class="datetime">🕒 21:00 • 📅 Monday, 12 October 2026</p>
-                </div>
-                <div class="event-links">
-                <a href="https://www.htsport.org/dazn1.htm" target="_blank" class="server-link">Dazn 1</a>
-                <div class="source-info">Fonte (htsport)</div>
-                </div>
-            </div>
-            
-            <div class="event-card">
-                <div class="event-info">
-                    <h3>Inter - Bruges<span class="today-badge">OGGI</span></h3>
-                    <p class="competition">🏆 CALCIO - CHAMPIONS LEAGUE</p>
-                    <p class="datetime">🕒 21:00 • 📅 Monday, 12 October 2026</p>
-                </div>
-                <div class="event-links">
-                <div class="dropdown">
-                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
-                        <option value="">📡 Scegli il canale (3)...</option>
-                        <option value="https://www.htsport.org/sportunohd.htm">Sport 1 HD</option>
-<option value="https://www.htsport.org/sportuno.htm">Sport 1</option>
-<option value="https://www.htsport.org/sportunob.htm">Sport 1 B</option>
-                    </select>
-                    <div class="source-info">Fonte (htsport)</div>
-                </div>
-                </div>
-            </div>
-            
-            <div class="event-card">
-                <div class="event-info">
-                    <h3>Villarreal - Napoli<span class="today-badge">OGGI</span></h3>
-                    <p class="competition">🏆 CALCIO - CHAMPIONS LEAGUE</p>
-                    <p class="datetime">🕒 21:00 • 📅 Monday, 12 October 2026</p>
-                </div>
-                <div class="event-links">
-                <div class="dropdown">
-                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
-                        <option value="">📡 Scegli il canale (2)...</option>
-                        <option value="https://www.htsport.org/arenahd.htm">Sport Arena HD</option>
-<option value="https://www.htsport.org/arena.htm">Sport Arena</option>
-                    </select>
-                    <div class="source-info">Fonte (htsport)</div>
-                </div>
-                </div>
-            </div>
-            
-            <div class="event-card">
-                <div class="event-info">
-                    <h3>Galatasaray - Barcellona<span class="today-badge">OGGI</span></h3>
-                    <p class="competition">🏆 CALCIO - CHAMPIONS LEAGUE</p>
-                    <p class="datetime">🕒 21:00 • 📅 Monday, 12 October 2026</p>
-                </div>
-                <div class="event-links">
-                <div class="dropdown">
-                    <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
-                        <option value="">📡 Scegli il canale (3)...</option>
-                        <option value="https://www.htsport.org/calciohd.htm">Calcio HD</option>
-<option value="https://www.htsport.org/calcio.htm">Calcio</option>
-<option value="https://www.htsport.org/calciob.htm">Calcio B</option>
-                    </select>
-                    <div class="source-info">Fonte (htsport)</div>
-                </div>
-                </div>
-            </div>
-            
-    </div>
-    <footer class="footer">
-        <p class="neon-text">KIRA GSI SPORT • Tutti gli Sport in Diretta • 2026 • Developed by KIRA GSI GROUP</p>
-        <p style="margin-top:8px; font-size:0.8rem;">🖥️ Aggiornato in tempo reale • Tutti gli sport • Eventi da oggi in poi</p>
-    </footer>
-</div>
+<form id="f" style="display:none">
+<input id="pw" type="password" placeholder="Password" autocomplete="current-password" autofocus>
+<button type="submit">Entra</button>
+<div id="err"></div>
+</form>
+<script>
+const SALT="lznN+DTcKWA+Jbo3LJy/CA==", IV="Bpo20k4hFT/i3Lc3", DATA="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", ITER=250000;
+const KEY="kbpw";
+const b64=s=>Uint8Array.from(atob(s),c=>c.charCodeAt(0));
+const f=document.getElementById("f"), err=document.getElementById("err"), pw=document.getElementById("pw");
+async function decifra(password){
+  const km=await crypto.subtle.importKey("raw",new TextEncoder().encode(password),"PBKDF2",false,["deriveKey"]);
+  const key=await crypto.subtle.deriveKey({name:"PBKDF2",salt:b64(SALT),iterations:ITER,hash:"SHA-256"},km,{name:"AES-GCM",length:256},false,["decrypt"]);
+  const buf=await crypto.subtle.decrypt({name:"AES-GCM",iv:b64(IV)},key,b64(DATA));
+  return new TextDecoder().decode(buf);
+}
+function mostra(html){ document.open(); document.write(html); document.close(); }
+async function auto(){
+  let saved=null;
+  try{ saved=sessionStorage.getItem(KEY); }catch(x){}
+  if(saved){
+    try{ mostra(await decifra(saved)); return; }
+    catch(x){ try{ sessionStorage.removeItem(KEY); }catch(y){} }
+  }
+  f.style.display="flex"; pw.focus();
+}
+f.addEventListener("submit",async e=>{
+  e.preventDefault(); err.textContent="";
+  try{
+    const html=await decifra(pw.value);
+    try{ sessionStorage.setItem(KEY,pw.value); }catch(x){}
+    mostra(html);
+  }catch(x){ err.textContent="Password errata"; }
+});
+auto();
+</script>
 </body>
 </html>

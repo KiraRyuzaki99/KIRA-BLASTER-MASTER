@@ -1,183 +1,57 @@
 <!DOCTYPE html>
+<!--ENCRYPTED-HTML-->
 <html lang="it">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KIRA ACCESS GATE ACESTREAM</title>
-    <style>
-        body { background-color: #000; color: #00ff41; font-family: monospace; padding: 20px; }
-        .box { max-width: 900px; margin: 0 auto; border: 2px solid #00ff41; padding: 20px; box-shadow: 0 0 15px #00ff41; }
-        h2 { text-align: center; color: #ff00ff; text-transform: uppercase; border-bottom: 1px solid #00ff41; padding-bottom: 10px; }
-        .input-group { margin-bottom: 15px; }
-        label { display: block; color: #ff00ff; margin-bottom: 5px; font-weight: bold; }
-        input[type="text"], input[type="file"], textarea { 
-            width: 100%; background: #111; border: 1px solid #00ff41; color: #00ff41; padding: 10px; box-sizing: border-box; 
-        }
-        .controls { display: flex; gap: 10px; margin: 20px 0; flex-wrap: wrap; }
-        button { 
-            flex: 1; padding: 12px; cursor: pointer; background: #000; color: #00ff41; border: 2px solid #00ff41; 
-            font-weight: bold; text-transform: uppercase; transition: 0.3s;
-        }
-        button:hover { background: #00ff41; color: #000; box-shadow: 0 0 10px #00ff41; }
-        #preview-label { display: none; margin-top: 20px; }
-        #htmlOutput { display: none; height: 300px; margin-top: 10px; font-size: 12px; }
-        #preview-frame { 
-            display: none; width: 100%; height: 600px; background: #fff; margin-top: 20px; border: 3px solid #ff00ff; 
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Accesso protetto</title>
+<style>
+body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;
+background:#0b0b12;color:#eee;font-family:system-ui,sans-serif}
+form{display:flex;flex-direction:column;gap:12px;width:min(320px,86vw)}
+input,button{padding:12px;border-radius:8px;border:1px solid #444;font-size:16px}
+input{background:#161622;color:#eee}
+button{background:#5b5bff;color:#fff;border:0;cursor:pointer}
+#err{color:#ff6b6b;min-height:1.2em;font-size:14px}
+</style>
 </head>
 <body>
-
-<div class="box">
-    <h2>KIRA GSI ACESTREAM</h2>
-    
-    <div class="input-group">
-        <label>1. Carica il file ica.txt:</label>
-        <input type="file" id="fileInput" accept=".txt">
-    </div>
-
-    <div class="input-group">
-        <label>2. Titolo Intestazione (H1):</label>
-        <input type="text" id="eventTitle" placeholder="Esempio: ULTIMATE LIVE EVENTS 28/02/2026">
-    </div>
-
-    <div class="controls">
-        <button onclick="processData('code')">Visualizza Codice</button>
-        <button onclick="processData('preview')">Anteprima Grafica</button>
-        <button onclick="downloadFile()">Scarica HTML</button>
-    </div>
-
-    <label id="preview-label">Risultato Generato:</label>
-    <textarea id="htmlOutput" readonly></textarea>
-    <iframe id="preview-frame"></iframe>
-</div>
-
+<form id="f" style="display:none">
+<input id="pw" type="password" placeholder="Password" autocomplete="current-password" autofocus>
+<button type="submit">Entra</button>
+<div id="err"></div>
+</form>
 <script>
-    let rawText = "";
-
-    // Legge il file TXT
-    document.getElementById('fileInput').addEventListener('change', function(e) {
-        const file = e.target.files[0];
-        if (!file) return;
-        const reader = new FileReader();
-        reader.onload = (e) => { rawText = e.target.result; };
-        reader.readAsText(file);
-    });
-
-    function generateFinalHTML() {
-        const title = document.getElementById('eventTitle').value || "ULTIMATE LIVE EVENTS";
-        
-        // Costruzione del template stringa per evitare conflitti di backtick
-        const template = `<!DOCTYPE html>
-<html lang="it">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="robots" content="noindex, nofollow">
-    <title>KIRA ACCESS GATE</title>
-    <style>
-        body { background-color: #000; color: #00ff41; font-family: 'Consolas', monospace; margin: 0; padding: 0; display: flex; flex-direction: column; min-height: 100vh; text-shadow: 0 0 5px rgba(0, 255, 65, 0.8); }
-        header { text-align: center; padding: 20px 0; background-color: rgba(0, 255, 65, 0.05); border-bottom: 2px solid #00ff41; margin-bottom: 20px; }
-        header h2 { margin: 0; letter-spacing: 5px; color: #00ff41; }
-        .container { max-width: 950px; margin: 0 auto 40px auto; border: 2px solid #00ff41; box-shadow: 0 0 20px #00ff41; padding: 10px; background: #000; flex: 1; }
-        h1 { color: #ff00ff; text-align: center; text-shadow: 0 0 10px #ff00ff; border-bottom: 2px dashed #00ff41; padding-bottom: 10px; }
-        .event-group { margin-bottom: 10px; border-left: 3px solid #00ff41; }
-        .event-header { background: rgba(0, 255, 65, 0.1); color: #00ff41; padding: 12px; cursor: pointer; display: flex; justify-content: space-between; align-items: center; border: 1px solid #00ff41; font-weight: bold; }
-        .event-header.active { background: #00ff41; color: #000; }
-        .event-info { display: flex; align-items: center; gap: 10px; }
-        .event-logo { width: 30px; height: 30px; object-fit: contain; }
-        .stream-links { list-style: none; padding: 0; margin: 0; overflow: hidden; max-height: 0; transition: max-height 0.3s ease; background: #111; }
-        .stream-links li { padding: 10px; border-bottom: 1px solid #333; display: flex; justify-content: space-between; font-size: 14px; }
-        .channel-desc { color: #ffcc00; }
-        .acestream-link { color: #00ffff; text-decoration: none; font-size: 0.8em; }
-        footer { text-align: center; padding: 15px; border-top: 2px solid #00ff41; font-size: 0.8em; }
-    </style>
-</head>
-<body>
-<header><h2>KIRA ACCESS GATE</h2></header>
-<div class="container">
-    <h1>${title}</h1>
-    <div id="events-list"></div>
-</div>
-<footer>RE-MOD BY KIRA GSI 2026</footer>
-
-<script>
-    const data = \`${rawText.replace(/`/g, '\\`').replace(/\$/g, '\\$')}\`;
-    const list = document.getElementById('events-list');
-    const events = {};
-    
-    data.split('\\n').forEach(line => {
-        if(line.startsWith('#EXTINF')) {
-            const logo = line.match(/tvg-logo="([^"]+)"/)?.[1] || "";
-            const name = line.split(',')[1]?.trim() || "Evento";
-            this.lastEvent = name;
-            if(!events[name]) events[name] = { logo, links: [] };
-        } else if(line.startsWith('acestream://')) {
-            events[this.lastEvent].links.push(line.trim());
-        }
-    });
-
-    for(let name in events) {
-        const div = document.createElement('div');
-        div.className = 'event-group';
-        div.innerHTML = \`
-            <div class="event-header">
-                <div class="event-info">
-                    \${events[name].logo ? '<img src="'+events[name].logo+'" class="event-logo">' : ''}
-                    <span>\${name}</span>
-                </div>
-                <span>▶</span>
-            </div>
-            <ul class="stream-links">
-                \${events[name].links.map((link, i) => \`
-                    <li>
-                        <span class="channel-desc">Link \${i+1}</span>
-                        <a href="\${link}" class="acestream-link">\${link}</a>
-                    </li>
-                \`).join('')}
-            </ul>\`;
-        list.appendChild(div);
-        div.querySelector('.event-header').onclick = function() {
-            this.classList.toggle('active');
-            const content = this.nextElementSibling;
-            content.style.maxHeight = content.style.maxHeight ? null : content.scrollHeight + "px";
-        };
-    }
-<\/script>
-</body>
-</html>`;
-        return template;
-    }
-
-    function processData(mode) {
-        if(!rawText) { alert("Carica prima il file ica.txt!"); return; }
-        const finalHTML = generateFinalHTML();
-        
-        if(mode === 'code') {
-            document.getElementById('htmlOutput').value = finalHTML;
-            document.getElementById('htmlOutput').style.display = 'block';
-            document.getElementById('preview-frame').style.display = 'none';
-            document.getElementById('preview-label').style.display = 'block';
-        } else {
-            const frame = document.getElementById('preview-frame');
-            frame.style.display = 'block';
-            document.getElementById('htmlOutput').style.display = 'none';
-            document.getElementById('preview-label').style.display = 'none';
-            const doc = frame.contentWindow.document;
-            doc.open();
-            doc.write(finalHTML);
-            doc.close();
-        }
-    }
-
-    function downloadFile() {
-        if(!rawText) { alert("Carica il file!"); return; }
-        const blob = new Blob([generateFinalHTML()], {type: 'text/html'});
-        const a = document.createElement('a');
-        a.href = URL.createObjectURL(blob);
-        a.download = 'Kira_Ica_Acestream.html';
-        a.click();
-    }
+const SALT="3+ZVjZ65uZ7Ox5e0MkokqA==", IV="q98j8T35N905aqJ8", DATA="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", ITER=250000;
+const KEY="kbpw";
+const b64=s=>Uint8Array.from(atob(s),c=>c.charCodeAt(0));
+const f=document.getElementById("f"), err=document.getElementById("err"), pw=document.getElementById("pw");
+async function decifra(password){
+  const km=await crypto.subtle.importKey("raw",new TextEncoder().encode(password),"PBKDF2",false,["deriveKey"]);
+  const key=await crypto.subtle.deriveKey({name:"PBKDF2",salt:b64(SALT),iterations:ITER,hash:"SHA-256"},km,{name:"AES-GCM",length:256},false,["decrypt"]);
+  const buf=await crypto.subtle.decrypt({name:"AES-GCM",iv:b64(IV)},key,b64(DATA));
+  return new TextDecoder().decode(buf);
+}
+function mostra(html){ document.open(); document.write(html); document.close(); }
+async function auto(){
+  let saved=null;
+  try{ saved=sessionStorage.getItem(KEY); }catch(x){}
+  if(saved){
+    try{ mostra(await decifra(saved)); return; }
+    catch(x){ try{ sessionStorage.removeItem(KEY); }catch(y){} }
+  }
+  f.style.display="flex"; pw.focus();
+}
+f.addEventListener("submit",async e=>{
+  e.preventDefault(); err.textContent="";
+  try{
+    const html=await decifra(pw.value);
+    try{ sessionStorage.setItem(KEY,pw.value); }catch(x){}
+    mostra(html);
+  }catch(x){ err.textContent="Password errata"; }
+});
+auto();
 </script>
 </body>
 </html>

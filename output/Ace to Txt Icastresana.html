@@ -1,123 +1,57 @@
 <!DOCTYPE html>
+<!--ENCRYPTED-HTML-->
 <html lang="it">
 <head>
-    <meta charset="UTF-8">
-    <title>Generatore Lista M3U Acestream Pro</title>
-    <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 20px; line-height: 1.6; background-color: #f4f4f9; }
-        .container { max-width: 900px; margin: auto; border: 1px solid #ccc; padding: 25px; border-radius: 12px; background: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
-        h2 { color: #333; border-bottom: 2px solid #28a745; padding-bottom: 10px; }
-        textarea { width: 100%; height: 300px; margin-top: 15px; border-radius: 5px; border: 1px solid #ddd; padding: 10px; font-family: monospace; }
-        .controls { margin-bottom: 20px; display: flex; flex-direction: column; gap: 15px; }
-        .filter-section { background: #e9ecef; padding: 15px; border-radius: 8px; }
-        input[type="text"] { width: 100%; padding: 10px; margin-top: 5px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; }
-        .btn-group { display: flex; gap: 10px; }
-        button { padding: 10px 20px; cursor: pointer; background: #28a745; color: white; border: none; border-radius: 4px; font-weight: bold; transition: 0.3s; }
-        button:hover { background: #218838; }
-        #downloadBtn { background: #007bff; }
-        #downloadBtn:hover { background: #0069d9; }
-        small { color: #666; }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Accesso protetto</title>
+<style>
+body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;
+background:#0b0b12;color:#eee;font-family:system-ui,sans-serif}
+form{display:flex;flex-direction:column;gap:12px;width:min(320px,86vw)}
+input,button{padding:12px;border-radius:8px;border:1px solid #444;font-size:16px}
+input{background:#161622;color:#eee}
+button{background:#5b5bff;color:#fff;border:0;cursor:pointer}
+#err{color:#ff6b6b;min-height:1.2em;font-size:14px}
+</style>
 </head>
 <body>
-
-<div class="container">
-    <h2>Convertitore Multifiltro M3U -> Acestream</h2>
-    
-    <div class="controls">
-        <div>
-            <label><strong>1. Seleziona il file .m3u:</strong></label><br>
-            <input type="file" id="fileInput" accept=".m3u">
-        </div>
-
-        <div class="filter-section">
-            <label><strong>2. Multifiltro (Termini di ricerca):</strong></label><br>
-            <input type="text" id="filterInput" placeholder="Esempio: Calcio, Sky, DAZN, Eurosport">
-            <small>Inserisci i termini separati da una virgola. Lascia vuoto per vedere tutto.</small>
-        </div>
-        
-        <div class="btn-group">
-            <button onclick="processFile()">Applica Filtro e Genera</button>
-            <button id="downloadBtn" style="display:none;" onclick="downloadTxt()">Scarica File .txt</button>
-        </div>
-    </div>
-
-    <textarea id="outputArea" readonly placeholder="Il risultato filtrato apparirà qui..."></textarea>
-</div>
-
+<form id="f" style="display:none">
+<input id="pw" type="password" placeholder="Password" autocomplete="current-password" autofocus>
+<button type="submit">Entra</button>
+<div id="err"></div>
+</form>
 <script>
-    function processFile() {
-        const fileInput = document.getElementById('fileInput');
-        const filterInput = document.getElementById('filterInput').value.toLowerCase();
-        const outputArea = document.getElementById('outputArea');
-        const downloadBtn = document.getElementById('downloadBtn');
-
-        if (fileInput.files.length === 0) {
-            alert("Per favore, seleziona un file prima.");
-            return;
-        }
-
-        // Crea un array di filtri (rimuovendo spazi bianchi)
-        const filters = filterInput.split(',').map(item => item.trim()).filter(item => item !== "");
-
-        const file = fileInput.files[0];
-        const reader = new FileReader();
-
-        reader.onload = function(e) {
-            const content = e.target.result;
-            const lines = content.split(/\r?\n/);
-            let result = "#EXTM3U\n";
-            let count = 0;
-            
-            for (let i = 0; i < lines.length; i++) {
-                let line = lines[i].trim();
-                
-                if (line.startsWith("#EXTINF:")) {
-                    let infoLine = line;
-                    let nextLine = (i + 1 < lines.length) ? lines[i + 1].trim() : "";
-                    
-                    // Controllo se la riga contiene un link acestream id
-                    if (nextLine.includes("id=")) {
-                        let parts = nextLine.split("id=");
-                        let aceId = parts[1];
-                        let channelName = infoLine.toLowerCase();
-
-                        // Logica di filtraggio:
-                        // Se non ci sono filtri, aggiungi tutto.
-                        // Se ci sono filtri, aggiungi solo se il nome del canale contiene uno dei termini.
-                        let shouldInclude = (filters.length === 0) || filters.some(f => channelName.includes(f));
-
-                        if (shouldInclude) {
-                            result += infoLine + "\n";
-                            result += "acestream://" + aceId + "\n";
-                            count++;
-                        }
-                        i++; 
-                    }
-                }
-            }
-            
-            outputArea.value = result;
-            if(count > 0) {
-                downloadBtn.style.display = "inline-block";
-            } else {
-                alert("Nessun risultato trovato con i filtri inseriti.");
-                downloadBtn.style.display = "none";
-            }
-        };
-
-        reader.readAsText(file);
-    }
-
-    function downloadTxt() {
-        const text = document.getElementById('outputArea').value;
-        const blob = new Blob([text], { type: 'text/plain' });
-        const anchor = document.createElement('a');
-        anchor.download = "lista_acestream_filtrata.txt";
-        anchor.href = window.URL.createObjectURL(blob);
-        anchor.click();
-    }
+const SALT="XfrmDq+md/WAbzig5lrfYw==", IV="hSd/cr+Cro0ryyur", DATA="N4S3l3zbnMtxp5EOb2au3GbftWizbpGUV41O8SMGPYVmvjy0shujA7cg0FUeqsAJ9a0Qm32IbEV4YY06GU1fm10pDQVi8DZUlmOTBcBmX4BfiwT7jlXERX3d5lxNreCYH8ZqBzrzWhWmlQ0PMfxHmH5awlFrlLJo0lYgRq32buRLikLTxsIwTmabkeA9ARbAy7Fhw5PXLLczPt9PZCSkdVdn5ih2Fqjys5Fb77hmgpPO245n3mz5xLfUC/usfXroO+OkZV2YhDVWv69SLTzzazFIWIjQycQPvnxZnT0xr3cVcfYsNx/OdWVW2ohFJoPfZRM2czSdmPBBWEDu/7ijLfn82M0NRKnRZ3pBaLsbVzTGyknaiAM3dwhvwSiSKCsbPaE2Bg3eQ2D8ZoKv0Gco2ybpdRgzWRbqt7wpClxn+8k+aumIsI32lIJZWllFG/vwZ80iUIWtbEoo/2aFd4OzMl43W1JoQzvP5i6Hpcp+/hqvpXWMpf4YFf5fT7XvpITkC1549IFYy8fd0rwyP5ikxsrvoI1iKo+nkM20lNRzemKn1Whi/9fyHfv1OIXrfqjyMPDkLGCSMN4PpmGw8fDL49rEHfGelphDhd6KRTUFI29vTHxd+WwwqSKUIRKwpEFr6b2FqheLBY1D2mBfPdzR8o8hZjy8KDld+8szYNTnZFaWdvCiBtOq7ECucJ2E+wVyoHLV6rqhUXJ03wRQz6fY+4c+OeDW8K7BTyetjCFzPiVT1YWGYOmjfD3Yp3KajvXUu5ofTlCXXkc2HBH4I3PbDqniDuDPYu8SJml04BP/BFoXDwCo9UoNiHiWDpMb6PQGssgZtzz6fmFqtUFl5L1jcnojSTunA4Dx0gzuJ50QtDhYOSzejPCoTvrVAJ/jWU1Gi8+nlUrDcgS3/Hk9FbfpyzOmMbjptuwzkX6X9ndBAjIbmWuyuFWH6vkDrajUfagc6NYbBTbSQOSmrp9xz9KduY5M7Q3f40VGTH4tt4TpQkpq+EgT84XA3XWU4jxQpk/4GzeCSM3NlvNCcChwE9Wo5jzeQntmBg76f2kF+FQm8WMw7pU99BL9LCE3m9qydBQN/YF/UJxuCPC3yZtWfGviKGvl3Or1K/K4SC7w4mUumMy0k/AuuAkP4DZRfyDrlT/J04xTHTs6HHmRkUm5Gc71azQXD4G/rR1rK/colJosseRS1Q5q1zUQ0yNUPqpgrBoiPGtv/rr3wlJEvccKvzjBETg6gnSS5zYx8/OaUEXD0+gDjcREUT3iU/fcwjPuU6qAXfJcIBuORKjezGJP045Q5fZlFK/5TL5JbvZMPC6aGQN8miaOQu7CJgp8M4E6ZpnRplDU+oEPI9hqJp0ARaez0Vv+7fnPKu4xoac8GC6/ZeOrdV94HyH92Kywkt/wr66Zy0AppJiZmyLPH9239+6nVKUUq7lMVQRhSy4KbcHoBkO1FMGTB93BGZQGD4D2op2HX8AyextZFEMkSQ2Ad8bdmtLHWE+2PFWmTNYTMyD3DG5lg+1gFfiQuo6oDxSJbM35PQy/tB4wO5pBiuXUGs7GaijKlCCTcfdlHtZL2pJ9a7DUo1L0LdNYURmsca9g7HnrvrHnWT2IFs0hOT9gpBj9Z6sOwSE4ewNxaluA/1lhfWOdzkpFp6yr1rM2SqIKpAYWiqVB+Vsu4puiFBly00NiKZ0b1mLvp5aUjXli73qTFCFsF2iac40wtcHPK5JC07Xo0Wu4WURqFEyQ7N9qeHUmbeXMG3h+E4Es9pDURVZlCV+jwI/7p+rbwlSSglKCj0zMb7aaO4g0t8vF66wqRlRZAW24CD5a4AcQ0Xl0Q11rWVT4aPq0UsrKh7WtWQIVCJqeQDeauh6ujn8Ug8vc/rTo0iW7+wjY6OXuFGnBZiKAHy7+fucWQId/CzZolhggSJmE0kuYENzIsWMqqJomEc2FFadeFNI0n7yqPh+ISrsMBTT2S7m+adZ10OaqHy8R+EJxKPgfoXl67UNKMYyMz0/0c4UrI1iKnqgnYUvrBpC50O1qKYSiA6M4LV25kPwb/IJDK5TNu2vDR4rjvQLHw0lNcweWAp5oKxRgW9l8DfD4clud0B5yXyGU6lWzWOvQGbaJqoJiv8p9XFL+19Er+6E4NfOcecrWRIEwkM4pF7t8Bqw/yANt7gUuRxhmEVamRMzUl7MbShytxjCAre5tSSxSMRKJ9L+O9lvDFfwobHFffcPh7IG6TC/JoMjIAF2bDLn7f8NEPc+zQJSmk2v1SuJTs2wtqdacGll3YK2zFzhcKhi7tPku1trNUDis0xa6hRX1TAx3u6BXSgYSf0n96zx91CVqFC1LlI8c/V68zStHCiX1I7TxFz0YEHy4KKRbJbtIzdYB2rA6LA3J3PS9YlEw79GpIBdxg+JsiBUfhJW91fD6tTjuthw3m5d2GtqXo9cRu7mcZiWzEm6Wk5XMpNris5RFmn5HlBEpGXuPjASMBNeAqhCBNv0xnU4RR6kluVl2PLYMCmfGXY9Cv0sJNXWUrCIcClvF/rpozWnkZfxJIqeSLvu/UViGanZoB3jLkJ0lPxoSHlCOTQ4cJB/uRfmU/I1IOBr96YSob7rulJaj5576i4D4jqIhOumPxq9ve9waA0ly7wK6cu/RdwTT0VFYW5KNzaTcB1t+eZz+Myd+bFo71qajec7o/J8Hr2wA1AD5xJ347EdrweZ+kHM1VzVSm0ZnFEXuiNun3pYHEx1fvppNIor1/d0rhpDacVIk+XZzY1AZ889u5M3nLhlqqJXeSKG4xyYbGeeRWAlNrNVI5FsCt6OrMUDWvAYq8G2paIraw+wib/gkmU2YhkZpFPJoTBWLuQaTUEzSHtMuKLaXaQ/n2FHgZ5gQFWFr793tTKLGiqyLvdAYkMhyvwYosSFqqNRiycEWYVEpNp3LgxbRxEZaoA/ET2dzpi8F/mMCJRs+BXVwrp32W35lYzR0eKOzAZ8zanLSYHmhAtq//QJtRoQBXIncabJL8V22CCfkSf9kUij6hsAwLZB11XE6EiMRZfnkcrNNOp25dJXhTmboYC3RQPGwZ94nS9LpZeyD6J/bwYlSkfGyLEpNR3j8xmZyurz9nBz+5ZAq3qdKTPTeFGOjM7Qwu0MLzRoUD14oqAm2qIs7WycP3Gujqk8x47Z6bERKeFUz3Sa2EqXtOsMNvUjgfkJOECrZKThfYCGWWW8TSjEccazyDEORefRh4nb+g/IKPU3IElM1ZJ0IvxR544XcqSztvzMRiTy42VGTcUjym8TQfKu6eDYOgZa/mlpY1MYiQDkScywsmsM8rP5zWO8np7y4KmgPuGr4460LFTS59MSJKaTZXqSYaVhvLEPcRXbLmAD1zTkuiRWWlc/RmEZf+mkipegKn+4QxT/u9E7krWbAQNxiTrnF+QE3T3yATeOwjTCU4w3EGYL4uIt8P2iHBVPg93iN7aAFb1n/AM0GfD8ESW9SHrCtnd2zPpD3xUdalqaFPIFCBtMAKli9xJspE4w+CFzxTVk/Kj080oBT+QMI2iguqLyf5XEvp92UcDybpwl0B45UZioxJs1+3BfoJ+ZgQ/rV62JvwNf9xXJTaI8/D6CWY+f7uECjBC2gOboqELHCWfmdx4GZf3Ip9GwRIV8CtfAXAA0C9ryB5eVlFINEP7dU6MBa7e/MXRaK7ymxZhq0jt2BACR7Ts4Y3lroCgQDPyxy/I7iXYi1c5DB4bGR3i9I+FjUUf503+VD6k2I3eFgE1kRRtXgZdpy3h6qC+hIvjS1PKmRXFAsX9rTl7ojL8i0WOGZqh6AcIWmx/Jy1VAwLfHN8Mj2PMGyw2TKGZhALijYGGBOGbueet5yZUxyhsLmBwYDhQgBPHqzVkC4/gB390xSTxAmmtd8LmXNZIwxYl0Z2koJOn0VkP7Clp+S3lnc78MLy3i3eLVQM82n5OaEnyJYGeWsnuZczQk0uLtDbfUf/ak6wnGEbMIzvPQctzXDl6f916kHhCdrgnSAjsSbDB7zuxZ21682/zdUS2a+dcTb1ET+7DzvOq91xuhhqCCL1SyGuIoED4gSYFdZ0OC/kn2bhoFOCqnS5PajafaM0O+JtAtZ3JoPLVvreyyr8/H22wFbNx80hVvGRBXUf5NkQQwwv2wU1drw/RAf98qMUX+cJCHF5St6z61yMhJnByq8oT4xs6o5zVEYyiviwPiUeIDoDzuuFOCfoKaqKluVPnibOfC6E7O05a2GsI8yfSm3AqZRVcITAmm9Ydg+b8BG0kaUYLvaEXeaCyfAbvhzOagvwkjXCZaMMjVxFVVi1BJ/W5WneoVg7egCHcTiu+/lKliBpsHy3kpKGweyYiq0IBQRN7FWpQ4et3A97LveEIZ8qwOQt8/Yx51KwoNtx3I4dHL0tgYoFWpoUPbg0erxvzSYXFepU1fJumnmYYIULWuns9t+8FMScXeaPghoylfMqJEUIQ+Ju5V4RCOsdJ+I2dWpXcp9UghoWNqVHAcX09N1t46z5b0EP5m11a7zV65zVDiwbx6C/UtR62Z31LKyl25uZ68asyu2tpQag0RMGLZZsKdieY7rrNDvNb8dijWE7hbAn5Dc94PuYT4hm0Mkq9ThFnJl9XzlDMi6UwOPEtUzJstk0elnjjZ5oQqvAcLJssJkkVElBkE4SPFOKRrs30v+xMCXfybJMGS69JT7v9OO7NQvGeMv9quojRKO7Gc9EkSpch4JRpHkt2SBKZ0TUKXH+OXh1tEi1jZ6OmJrXBEEibqQFkF9GHex4sR08mkGIsIYoY5FW/JKQqE/ZL962lW2VhPrCTGilo7H5pbUvaT50TK5+56UeJdm3KCP5gA28auzmFIm79wpERGTY1Wq75qb+NJ0rT00JXIAGEF+2r1DM9VjoBaBb71BaV9LRUzF79aaHDf9keQzw271V5Qpkog7Mj6grMY66b4T6MPj7mWUhuujdpcJEuAIDNkqHHRUZZNkW60Ni67odcsYWdXeC2YCShhiMD2ynq9jWD7/xg6h6ObgEDyUQrsK5yrORB3+7gdbXPThlNWAKoXASSCxOLytNCaWALuwoi3HRNpWIKGvLYzjDt/ksuL80mSWFuDOGm2GBY/KM7Y0GCv42w9hvkcDwgbijK/au24phRWmh06zU3D0LqQBH1StYztl99rVO9LmyvCHFwIZAHKGY+3/yc5S+nuZePB5Dds/1fSp4NihRMnnwqtYYEyLj9+sGDYez1qXeOQkblx7SthtspCB3SY0rqFtvM5hm96gOxNZW/GW+PuB5r45SbaU8Kp8dew+vP2ssjeB7cLSvegwCDyFme2VKXxPVljWdy7KM2pkNGat7zImFa/+DJ1RqTEcYmM0cw9rqRwqhLTD3ZObf001xCp913UEo9Ct5p9V1rrxbXTTJx5ICe6UAKuLqUTTZqU0Z5bVjPvHy/ke7DLUQI0153xZXO1hOp5jZo13d9xzXthMd5o9F7okfpHRpU3UvqYbeAmaYFIvvckveoDQi89+eHcqrYzhczfxBqniMzTtsMMxGcBvZNgk3pMCj3J7uCchZQRxRYkP89JcDp+xyBBTrA9fKtYdjEUVc45sJ74RETt/93OnvkZdhNYDvoWAktvzkDSulgAOA1TWDwN3dQ0dRgEhSumLVTwXE7xYCEnU4xpnMds2gev5Ufc3xKaYhXMdKgsQ6lTBtACcayIR2IJmcnlwhsO8GIfZ17Jv3ZVprlLgLHRel7P4K8hfH0z58nhYaxE4TixcgiVveRcED+4S6mIZjiOOgnqO7Rhx638IY/5m4CDJJ0E8x35kgGk17RrmHt1lDxPVfVvIDzvBScbEm6e99+4DpWzzXwT6+Ko0WLN4OFpkxFeUkPSXfp90n73bqiZrVQqBEnXs6CKWrTMpHtaWrkfiFUx2u0ePL15TQIm+sfGxWQApNy71qeLM0c/cG44F4ly1OqRSY5Y9K2/8nzX0XRW7YE+FBQdrLp033JpYJMis4U2awXI5qT5dsAg3OIM+VW9LFiaev7fK3YfHKOd3hl+Wwncj1KY7yBkau9WNoPhfas+YW7iWwfd7kBcbvqcHWjhKoDMFhK2qonJBwM7LF9rvHGQwHSGoC0NZBkzHi00SOKVh33uJznr/qIEaxWGNmJG8kugZHBtPbtP6NzYGmzF8u6HGvWgyGaD+eges5+SnhzdaoV+6CisWRRm9PArklZs7NCUyD1aA33FVXY1NbvQ9apkdN09wdl/UzGZwYSfl3qTF1L9Q6DmfClwlzWDJdO6DB852QvNY8Jlzr036yv4eVCM+HkF/cBo5YfIcQCk3o5skvMPE9m6e0MA1mmWefU6arh0S4L1uRqm3bWZmg7aGb+bMa1XEW+YR2H4Y7YeBFzB8gsQPDHLmflRqsiJcyEX0EpMzDhh39329T2xCyCcjCAmLCm5Ftw7Ejx6ny+MLHYYDrrkBndndJwHNi8fDMw6y6LlkP0Z7824jwJrHfjhwB32P+qs7j9A66n1w4cuLfYH9hRedEvZSEvUAE0q2JWkM3raDxN2kY6sr5okfWpCnwzRH1W1/lTftioBEUEVwJQbWmZvr1gCd6GBK1VMId5UNiNrrO4hZAUGeHyKFluLBkpaBqNmejnnkUBhtcKsh545JugNyD88YeEMxrouk2Ck+rXtqA12VjUPrNXS+w6appEnkmxzVwT/vp/rceLH841MniUtx8wJj8kk/1oQ25g99WzR67Q69/hV68f7vG2mCa5hSIUstuR1gLEO+0PfQ6fSVSqDjq+4nV/DpBihBbGRFYnSfiZDI1GalFYGAHhb6JaXnBaDb+6EfUd5+xSG4LoM8nduuUQP4iVxdTMrQzuO4O9btXHqJTVHs32kXWRWBT1D7rwjIw8NHCYaqhikeTSF9YU1IehibFFFJxQJ7NegiAsri1y5Y/LoTUTPdpWsHpZGFI5bupkdiYCc0sqvJv6dVXReZBMhMpoL321mvH0Et1pkyosOeigiChME0eyXONmWJ4FcNfLBmAxtNQ6H9WZN3FZ5AxO2MTcb4D+iOvXMVUNoSsF7Dp8W+yT3y7BtoHJrob0Il93B09t2OQDKqmZGBquOgQc8fPGuGkwn12JAQNtPgPzXOmE2QTDhyez0vk3Mtu7+BijxAfA==", ITER=250000;
+const KEY="kbpw";
+const b64=s=>Uint8Array.from(atob(s),c=>c.charCodeAt(0));
+const f=document.getElementById("f"), err=document.getElementById("err"), pw=document.getElementById("pw");
+async function decifra(password){
+  const km=await crypto.subtle.importKey("raw",new TextEncoder().encode(password),"PBKDF2",false,["deriveKey"]);
+  const key=await crypto.subtle.deriveKey({name:"PBKDF2",salt:b64(SALT),iterations:ITER,hash:"SHA-256"},km,{name:"AES-GCM",length:256},false,["decrypt"]);
+  const buf=await crypto.subtle.decrypt({name:"AES-GCM",iv:b64(IV)},key,b64(DATA));
+  return new TextDecoder().decode(buf);
+}
+function mostra(html){ document.open(); document.write(html); document.close(); }
+async function auto(){
+  let saved=null;
+  try{ saved=sessionStorage.getItem(KEY); }catch(x){}
+  if(saved){
+    try{ mostra(await decifra(saved)); return; }
+    catch(x){ try{ sessionStorage.removeItem(KEY); }catch(y){} }
+  }
+  f.style.display="flex"; pw.focus();
+}
+f.addEventListener("submit",async e=>{
+  e.preventDefault(); err.textContent="";
+  try{
+    const html=await decifra(pw.value);
+    try{ sessionStorage.setItem(KEY,pw.value); }catch(x){}
+    mostra(html);
+  }catch(x){ err.textContent="Password errata"; }
+});
+auto();
 </script>
-
 </body>
 </html>

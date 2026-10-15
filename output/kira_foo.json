@@ -76,39 +76,6 @@
     ]
   },
   {
-    "title": "Australia New Zealand",
-    "category": "Australia",
-    "logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-    "start_iso": "2026-10-15T09:00:00.000Z",
-    "end_iso": "2026-10-15T11:20:00.000Z",
-    "date": "Thursday, 15 October 2026",
-    "time": "11:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/australia-vs-new-zealand",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2843",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2844",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Crystal Palace Olympique Lyonnais",
     "category": "Crystal Palace",
     "logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",

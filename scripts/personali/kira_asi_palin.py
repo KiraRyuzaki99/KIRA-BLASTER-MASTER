@@ -140,8 +140,131 @@ def estrai_settimana():
     return palinsesto
 
 
-# HTML_PURO rimane identico a prima (senza link)
-HTML_PURO = r"""..."""  # ← COPIA quello che hai già
+HTML_PURO = r"""<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, nofollow">
+    <title>KIRA PALINSESTO • {{ settimana_label }}</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Audiowide&family=Grotesk:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Grotesk', sans-serif;
+            background: #0a0a0a;
+            color: #00ffcc;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+        .matrix-bg {
+            position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
+            z-index: -1; background: #0a0a0a; overflow: hidden;
+        }
+        .matrix-bg::before {
+            content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            background: repeating-linear-gradient(0deg, transparent, transparent 3px, rgba(0, 255, 204, 0.12) 3px, rgba(0, 255, 204, 0.12) 6px);
+            animation: matrixScroll 15s linear infinite;
+        }
+        @keyframes matrixScroll { 0% { transform: translateY(0); } 100% { transform: translateY(100%); } }
+        .container { max-width: 1200px; margin: 0 auto; padding: 20px; position: relative; z-index: 1; }
+        .header { text-align: center; padding: 30px 0 40px; border-bottom: 2px solid rgba(0, 255, 204, 0.3); margin-bottom: 40px; }
+        .header h1 {
+            font-family: 'Orbitron', sans-serif; font-weight: 900; font-size: 3.5rem;
+            text-shadow: 0 0 20px rgba(0, 255, 204, 0.5);
+            background: linear-gradient(135deg, #00ffcc, #00ccff);
+            -webkit-background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: 4px;
+        }
+        .header .subtitle { font-family: 'Audiowide', cursive; color: #88ffdd; font-size: 1.2rem; margin-top: 10px; }
+        .event-counter {
+            text-align: center; font-family: 'Orbitron', monospace; font-size: 1.2rem; color: #00ffcc;
+            background: rgba(0, 255, 204, 0.08); border: 1px solid rgba(0, 255, 204, 0.2);
+            padding: 12px 20px; border-radius: 30px; display: inline-block; margin: 0 auto 30px;
+        }
+        .event-counter span { font-weight: 900; font-size: 1.5rem; }
+        
+        .day-section { margin-bottom: 50px; }
+        .day-header {
+            font-family: 'Orbitron', sans-serif; font-weight: 900; font-size: 1.8rem;
+            color: #00ffcc; padding: 15px 20px; background: rgba(0, 255, 204, 0.08);
+            border-left: 4px solid #00ffcc; margin-bottom: 25px;
+            text-shadow: 0 0 15px rgba(0, 255, 204, 0.3);
+        }
+        .sport-header {
+            font-family: 'Audiowide', cursive; font-size: 1.2rem; color: #88ffdd;
+            padding: 8px 15px; margin: 20px 0 15px; background: rgba(0, 255, 204, 0.05);
+            border-radius: 8px; display: inline-block;
+        }
+        
+        .events-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 25px; margin-top: 15px; }
+        .event-card {
+            background: rgba(0, 30, 30, 0.7); backdrop-filter: blur(10px); border: 1px solid rgba(0, 255, 204, 0.2);
+            border-radius: 15px; padding: 25px; transition: all 0.3s ease; display: flex; flex-direction: column;
+        }
+        .event-card:hover { transform: translateY(-5px); border-color: rgba(0, 255, 204, 0.6); box-shadow: 0 0 40px rgba(0, 255, 204, 0.15); }
+        .event-info h3 { font-family: 'Orbitron', sans-serif; font-weight: 700; font-size: 1.1rem; color: #00ffcc; margin-bottom: 8px; }
+        .event-info .datetime { color: #88ddff; font-size: 0.9rem; opacity: 0.8; margin-bottom: 10px; }
+        .fonte-badge {
+            display: inline-block; font-size: 0.75rem; background: rgba(0, 255, 204, 0.15);
+            color: #88ffdd; padding: 2px 12px; border-radius: 12px; margin-top: 5px;
+            border: 1px solid rgba(0, 255, 204, 0.2);
+        }
+        .event-links { margin-top: 15px; padding-top: 15px; border-top: 1px solid rgba(0, 255, 204, 0.15); }
+        .server-link {
+            display: block; font-family: 'Orbitron', monospace; font-weight: 700; color: #0a0a0a;
+            background: #00ffcc; padding: 10px 18px; border-radius: 8px; text-decoration: none;
+            text-align: center; margin-bottom: 8px; transition: all 0.3s ease;
+            font-size: 0.85rem;
+        }
+        .server-link:hover { background: #00ddbb; box-shadow: 0 0 40px rgba(0, 255, 204, 0.5); }
+        .no-link {
+            display: block; text-align: center; color: #666; font-size: 0.85rem;
+            padding: 10px; font-style: italic;
+        }
+        .footer { text-align: center; padding: 40px 0 20px; margin-top: 60px; border-top: 1px solid rgba(0, 255, 204, 0.2); color: #88ddff; opacity: 0.7; }
+        .footer .neon-text { font-family: 'Orbitron', monospace; color: #00ffcc; font-size: 1rem; }
+    </style>
+</head>
+<body>
+    <div class="matrix-bg"></div>
+    <div class="container">
+        <header class="header">
+            <h1>KIRA PALINSESTO</h1>
+            <p class="subtitle">• {{ settimana_label }} •</p>
+        </header>
+        <div style="text-align: center;">
+            <div class="event-counter">
+                🎯 <span>{{ totale_eventi }}</span> eventi disponibili
+            </div>
+        </div>
+        
+        {% for data_iso in giorni_ordinati %}
+        <div class="day-section">
+            <div class="day-header">📅 {{ giorno_label[data_iso] }}</div>
+            
+            {% for sport in sport_ordinati[data_iso] %}
+            <div class="sport-header">🏆 {{ sport }} ({{ palinsesto[data_iso][sport]|length }})</div>
+            <div class="events-grid">
+                {% for evento in palinsesto[data_iso][sport] %}
+                <div class="event-card">
+                    <div class="event-info">
+                        <h3>{{ evento.event }}</h3>
+                        <p class="datetime">🕒 {{ evento.time }}</p>
+                        <span class="fonte-badge">📡 asiria.is</span>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            {% endfor %}
+        </div>
+        {% endfor %}
+        
+        <footer class="footer">
+            <p class="neon-text">KIRA GSI SPORT • Palinsesto Settimanale • {{ anno }} • Developed by KIRA GSI GROUP</p>
+        </footer>
+    </div>
+</body>
+</html>"""
 
 
 def genera_html(palinsesto):
@@ -161,9 +284,11 @@ def genera_html(palinsesto):
     settimana = f"{date.fromisoformat(giorni[0]).strftime('%d/%m')} - {date.fromisoformat(giorni[-1]).strftime('%d/%m/%Y')}"
     env = Environment()
     t = env.from_string(HTML_PURO)
-    out = t.render(palinsesto=palinsesto, giorni=giorni,
+    totale = sum(len(v) for sd in palinsesto.values() for v in sd.values())
+    out = t.render(palinsesto=palinsesto, giorni_ordinati=giorni,
                    giorno_label=giorno_label, sport_ordinati=sport_ordinati,
-                   settimana=settimana)
+                   settimana_label=settimana, totale_eventi=totale,
+                   anno=date.today().year)
     with open(OUTPUT_HTML, "w", encoding="utf-8") as f:
         f.write(out)
     print(f"\n✅ Generato: {OUTPUT_HTML}")

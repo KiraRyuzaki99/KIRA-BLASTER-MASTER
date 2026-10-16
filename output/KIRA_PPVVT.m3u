@@ -1,19 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Basketball – NBL",Oggi 08:30 - Tasmania JackJumpers vs. Adelaide 36ers [ESPN]
-https://august.ppvtv.icu/embed.html?match=f1j8xyuc&server=0
-
-#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 17:00 - IF Brommapojkarna vs. Djurgården [TV4 Play]
+#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 17:00 - IF Brommapojkarna vs. Djurgården [TV4 Fotboll]
 https://august.ppvtv.icu/embed.html?match=f16ua3k8&server=0
 
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 18:00 - Heerenveen vs. Excelsior [ESPN]
+#EXTINF:-1 group-title="Football – Eredivisie",Oggi 18:00 - Heerenveen vs. Excelsior [ESPN2]
 https://august.ppvtv.icu/embed.html?match=fu1a4q9&server=0
 
 #EXTINF:-1 group-title="Football – Keuken Kampioen Divisie",Oggi 18:00 - FC Eindhoven vs. Vitesse [ESPN Extra]
 https://august.ppvtv.icu/embed.html?match=f16ool1t&server=0
 
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 18:30 - Eintracht Frankfurt vs. FC Cologne [Bundesliga]
+#EXTINF:-1 group-title="Football – Bundesliga",Oggi 18:30 - Eintracht Frankfurt vs. FC Cologne [Fandango]
 https://august.ppvtv.icu/embed.html?match=f15rvsj0&server=0
 
 #EXTINF:-1 group-title="Football – Serie A",Oggi 18:45 - Frosinone vs. Sassuolo [Paramount+]
@@ -24,6 +21,9 @@ https://august.ppvtv.icu/embed.html?match=f12mxqv8&server=0
 
 #EXTINF:-1 group-title="Football – LaLiga",Oggi 19:00 - Deportivo vs. Levante [ESPN+]
 https://august.ppvtv.icu/embed.html?match=f5he534&server=0
+
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 22:00 - Tampa Bay Rays vs. Cleveland Guardians [TBS]
+https://august.ppvtv.icu/embed.html?match=fs0ms5k&server=0
 
 #EXTINF:-1 group-title="American Football – Canadian Football",Oggi 23:00 - Toronto Argonauts at Ottawa RedBlacks [TSN5]
 https://august.ppvtv.icu/embed.html?match=cj6ji5r&server=0
@@ -115,7 +115,10 @@ https://august.ppvtv.icu/embed.html?match=f1fn1xkg&server=0
 #EXTINF:-1 group-title="Football – MLS",Domani 00:30 - Sporting Kansas City vs. Real Salt Lake [Apple TV]
 https://august.ppvtv.icu/embed.html?match=fl6v126&server=0
 
-#EXTINF:-1 group-title="Football – Liga MX",Domani 01:00 - Necaxa vs. Atlas [Liga MX]
+#EXTINF:-1 group-title="Baseball – MLB",Domani 01:00 - Milwaukee Brewers vs. Los Angeles Dodgers [FS1]
+https://august.ppvtv.icu/embed.html?match=f170x0d&server=0
+
+#EXTINF:-1 group-title="Football – Liga MX",Domani 01:00 - Necaxa vs. Atlas [FOX Deportes]
 https://august.ppvtv.icu/embed.html?match=ff2myq0&server=0
 
 #EXTINF:-1 group-title="Football – Liga MX",Domani 01:00 - León vs. América [Liga MX]
@@ -127,6 +130,9 @@ https://august.ppvtv.icu/embed.html?match=f1y0ld7e&server=0
 #EXTINF:-1 group-title="Football – Liga MX",Domani 01:00 - Monterrey vs. Pachuca [Liga MX]
 https://august.ppvtv.icu/embed.html?match=ftgppkz&server=0
 
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 01:00 - Pittsburgh Penguins vs. Colorado Avalanche [Altitude Sports]
+https://august.ppvtv.icu/embed.html?match=f1ib2xtc&server=0
+
 #EXTINF:-1 group-title="American Football – Canadian Football",Domani 01:30 - Winnipeg Blue Bombers at Edmonton Elks [TSN1]
 https://august.ppvtv.icu/embed.html?match=c1ylhpr7&server=0
 
@@ -135,6 +141,9 @@ https://august.ppvtv.icu/embed.html?match=f13my93c&server=0
 
 #EXTINF:-1 group-title="Basketball – NBA",Domani 02:00 - Utah Jazz vs. Phoenix Suns [NBA League Pass]
 https://august.ppvtv.icu/embed.html?match=fd6pkzf&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 02:00 - Boston Bruins vs. Anaheim Ducks [KCOP]
+https://august.ppvtv.icu/embed.html?match=fol7k1m&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Domani 02:15 - Utah Utes at Colorado Buffaloes [ESPN]
 https://august.ppvtv.icu/embed.html?match=c4e0ob8&server=0
@@ -160,10 +169,10 @@ https://august.ppvtv.icu/embed.html?match=f74m3dc&server=0
 #EXTINF:-1 group-title="Football – MLS",Domani 02:30 - Seattle Sounders FC vs. CF Montréal [Apple TV]
 https://august.ppvtv.icu/embed.html?match=f18248kc&server=0
 
-#EXTINF:-1 group-title="Football – Liga MX",Domani 03:00 - Atlante vs. Pumas UNAM [Liga MX]
+#EXTINF:-1 group-title="Football – Liga MX",Domani 03:00 - Atlante vs. Pumas UNAM [ViX Premium Deportes 4]
 https://august.ppvtv.icu/embed.html?match=fltq83f&server=0
 
-#EXTINF:-1 group-title="Football – Liga MX",Domani 03:00 - Tijuana vs. Puebla [Liga MX]
+#EXTINF:-1 group-title="Football – Liga MX",Domani 03:00 - Tijuana vs. Puebla [TUDN]
 https://august.ppvtv.icu/embed.html?match=fxbnr9a&server=0
 
 #EXTINF:-1 group-title="Football – Liga MX",Domani 03:00 - Cruz Azul vs. FC Juárez [Liga MX]
@@ -172,8 +181,14 @@ https://august.ppvtv.icu/embed.html?match=f1jh4rk3&server=0
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 05:00 - 24/7 COWS [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1dc895w&server=0
 
+#EXTINF:-1 group-title="Basketball – NBL",Domani 06:30 - South East Melbourne Phoenix vs. Cairns Taipans [ESPN]
+https://august.ppvtv.icu/embed.html?match=f1waym9r&server=0
+
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 08:00 - 24/7 Family Guy [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c418ukt&server=0
+
+#EXTINF:-1 group-title="Basketball – NBL",Domani 08:30 - Sydney Kings vs. Perth Wildcats [ESPN]
+https://august.ppvtv.icu/embed.html?match=fprfpy7&server=0
 
 #EXTINF:-1 group-title="Football – Eredivisie",Domani 10:15 - PEC Zwolle vs. Go Ahead Eagles [ESPN]
 https://august.ppvtv.icu/embed.html?match=f16ggt0d&server=0

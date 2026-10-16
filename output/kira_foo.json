@@ -76,62 +76,6 @@
     ]
   },
   {
-    "title": "France Samoa",
-    "category": "France",
-    "logo": "https://cdn.img4every1.org/team/france/logo.webp",
-    "start_iso": "2026-10-16T06:45:00.000Z",
-    "end_iso": "2026-10-16T09:00:00.000Z",
-    "date": "Friday, 16 October 2026",
-    "time": "08:45",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/france-vs-samoa",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/france-vs-samoa/2849",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/france-vs-samoa/2850",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Sydney FC Western Sydney Wanderers",
-    "category": "Sydney FC",
-    "logo": "https://cdn.img4every1.org/team/sydney-fc/logo.webp",
-    "start_iso": "2026-10-16T09:00:00.000Z",
-    "end_iso": "2026-10-16T11:15:00.000Z",
-    "date": "Friday, 16 October 2026",
-    "time": "11:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/sydney-fc-vs-western-sydney-wanderers",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/sydney-fc-vs-western-sydney-wanderers/2817",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Eintracht Frankfurt Köln",
     "category": "Eintracht Frankfurt",
     "logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",

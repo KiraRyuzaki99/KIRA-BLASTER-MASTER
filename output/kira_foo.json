@@ -76,72 +76,6 @@
     ]
   },
   {
-    "title": "Tampa Bay Rays Cleveland Guardians",
-    "category": "Tampa Bay Rays",
-    "logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-    "start_iso": "2026-10-15T22:00:00.000Z",
-    "end_iso": "2026-10-16T01:00:00.000Z",
-    "date": "Friday, 16 October 2026",
-    "time": "00:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/rays-vs-guardians",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/rays-vs-guardians/2845",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Denver Broncos Seattle Seahawks",
-    "category": "Denver Broncos",
-    "logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
-    "start_iso": "2026-10-16T00:15:00.000Z",
-    "end_iso": "2026-10-16T03:25:00.000Z",
-    "date": "Friday, 16 October 2026",
-    "time": "02:15",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/broncos-vs-seahawks",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/broncos-vs-seahawks/2846",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/broncos-vs-seahawks/2847",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/broncos-vs-seahawks/2848",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "France Samoa",
     "category": "France",
     "logo": "https://cdn.img4every1.org/team/france/logo.webp",
@@ -149,7 +83,7 @@
     "end_iso": "2026-10-16T09:00:00.000Z",
     "date": "Friday, 16 October 2026",
     "time": "08:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/france-vs-samoa",
     "servers": [
       {

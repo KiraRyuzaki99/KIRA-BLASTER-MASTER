@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Other",15:00 - Jerez — Free Practice 2
-https://embed.st/embed/hotel/jerez-free-practice-2-worldsbk-1792155600/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Football",20:00 - FC Eindhoven vs Vitesse
+https://embed.st/embed/admin/ppv-fc-eindhoven-vs-vitesse/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Fight",13:30 - ONE Inner Circle 35
-https://embed.st/embed/admin/ppv-one-inner-circle-35/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Football",20:00 - FC Eindhoven vs Vitesse
+https://embed.st/embed/admin/ppv-fc-eindhoven-vs-vitesse/2#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Fight",13:30 - ONE Inner Circle 35
-https://embed.st/embed/admin/ppv-one-inner-circle-35/2#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Football",20:00 - Heerenveen vs Excelsior
+https://embed.st/embed/admin/ppv-heerenveen-vs-excelsior/1#player=clappr&autoplay=true
 
-#EXTINF:-1 group-title="Other",16:00 - Jerez — Superpole
-https://embed.st/embed/hotel/jerez-superpole-supersport-world-championship-1792159200/1#player=clappr&autoplay=true
+#EXTINF:-1 group-title="Football",20:00 - Heerenveen vs Excelsior
+https://embed.st/embed/admin/ppv-heerenveen-vs-excelsior/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Darts",19:00 - Dutch Darts Championship | Day 1 - Evening Session
 https://embed.st/embed/admin/ppv-dutch-darts-championship-day-1-evening-session/1#player=clappr&autoplay=true
@@ -24,18 +24,6 @@ https://embed.st/embed/admin/ppv-if-brommapojkarna-vs-djurg-rden/1#player=clappr
 
 #EXTINF:-1 group-title="Football",19:00 - Brommapojkarna vs Djurgården
 https://embed.st/embed/admin/ppv-if-brommapojkarna-vs-djurg-rden/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:00 - FC Eindhoven vs Vitesse
-https://embed.st/embed/admin/ppv-fc-eindhoven-vs-vitesse/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:00 - FC Eindhoven vs Vitesse
-https://embed.st/embed/admin/ppv-fc-eindhoven-vs-vitesse/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:00 - Heerenveen vs Excelsior
-https://embed.st/embed/admin/ppv-heerenveen-vs-excelsior/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:00 - Heerenveen vs Excelsior
-https://embed.st/embed/admin/ppv-heerenveen-vs-excelsior/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:30 - Eintracht Frankfurt vs Köln
 https://embed.st/embed/admin/ppv-eintracht-frankfurt-vs-fc-cologne/1#player=clappr&autoplay=true
@@ -72,6 +60,12 @@ https://embed.st/embed/admin/ppv-deportivo-vs-levante/2#player=clappr&autoplay=t
 
 #EXTINF:-1 group-title="Football",21:00 - Deportivo de A Coruña vs Levante
 https://embed.st/embed/hotel/deportivo-vs-levante-laliga-ea-sports-1792177200/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Burnley vs Wolverhampton Wanderers
+https://embed.st/embed/admin/ppv-burnley-vs-wolverhampton-wanderers/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Burnley vs Wolverhampton Wanderers
+https://embed.st/embed/admin/ppv-burnley-vs-wolverhampton-wanderers/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Motor-sports",21:30 - Phoenix Raceway — Free Practice
 https://embed.st/embed/hotel/phoenix-raceway-free-practice-nascar-craftsman-trucks-series-1792179000/1#player=clappr&autoplay=true

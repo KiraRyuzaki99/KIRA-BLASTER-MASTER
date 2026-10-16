@@ -85,7 +85,18 @@
     "time": "20:30",
     "status": "next",
     "event_url": "https://pogo.pk/events/eintracht-frankfurt-vs-koln",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-koln/2858",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Sassuolo Frosinone Calcio",
@@ -163,7 +174,38 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/deportivo-la-coruna-vs-levante",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/deportivo-la-coruna-vs-levante/2859",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/deportivo-la-coruna-vs-levante/2860",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://playerdee.top/alpha/deportivo-la-coruna-vs-levante/2861",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      }
+    ]
   },
   {
     "title": "Gloucester Rugby Bordeaux Begles",

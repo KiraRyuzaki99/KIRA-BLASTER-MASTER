@@ -76,194 +76,19 @@
     ]
   },
   {
-    "title": "Liverpool Brentford",
-    "category": "Liverpool",
-    "logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-    "start_iso": "2026-10-17T14:00:00.000Z",
-    "end_iso": "2026-10-17T16:15:00.000Z",
+    "title": "AS Roma Genoa",
+    "category": "AS Roma",
+    "logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+    "start_iso": "2026-10-17T18:45:00.000Z",
+    "end_iso": "2026-10-17T21:00:00.000Z",
     "date": "Saturday, 17 October 2026",
-    "time": "16:00",
+    "time": "20:45",
     "status": "live",
-    "event_url": "https://pogo.pk/events/liverpool-vs-brentford",
+    "event_url": "https://pogo.pk/events/roma-vs-genoa",
     "servers": [
       {
         "label": "English",
-        "url": "https://playerdee.top/alpha/liverpool-vs-brentford/2878",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/liverpool-vs-brentford/2879",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/liverpool-vs-brentford/2880",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Manchester City Ipswich Town",
-    "category": "Manchester City",
-    "logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-    "start_iso": "2026-10-17T14:00:00.000Z",
-    "end_iso": "2026-10-17T16:15:00.000Z",
-    "date": "Saturday, 17 October 2026",
-    "time": "16:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/manchester-city-vs-ipswich-town",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/manchester-city-vs-ipswich-town/2882",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/manchester-city-vs-ipswich-town/2883",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/manchester-city-vs-ipswich-town/2884",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Fulham Hull City",
-    "category": "Fulham",
-    "logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
-    "start_iso": "2026-10-17T14:00:00.000Z",
-    "end_iso": "2026-10-17T16:15:00.000Z",
-    "date": "Saturday, 17 October 2026",
-    "time": "16:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/fulham-vs-hull-city",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/fulham-vs-hull-city/2885",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Elche CF Villarreal",
-    "category": "Elche CF",
-    "logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-    "start_iso": "2026-10-17T14:15:00.000Z",
-    "end_iso": "2026-10-17T16:30:00.000Z",
-    "date": "Saturday, 17 October 2026",
-    "time": "16:15",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/elche-vs-villarreal",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/elche-vs-villarreal/2886",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/elche-vs-villarreal/2887",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "PSG Strasbourg",
-    "category": "PSG",
-    "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-    "start_iso": "2026-10-17T15:15:00.000Z",
-    "end_iso": "2026-10-17T17:30:00.000Z",
-    "date": "Saturday, 17 October 2026",
-    "time": "17:15",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/psg-vs-strasbourg",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/psg-vs-strasbourg/2888",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://playerdee.top/alpha/psg-vs-strasbourg/2889",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Inter Milan Bologna",
-    "category": "Inter Milan",
-    "logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-    "start_iso": "2026-10-17T16:00:00.000Z",
-    "end_iso": "2026-10-17T18:15:00.000Z",
-    "date": "Saturday, 17 October 2026",
-    "time": "18:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/inter-milan-vs-bologna",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/inter-milan-vs-bologna/2890",
+        "url": "https://playerdee.top/alpha/roma-vs-genoa/2903",
         "meta": {
           "mobile": "Yes",
           "quality": "SD",
@@ -273,7 +98,7 @@
       },
       {
         "label": "English",
-        "url": "https://playerdee.top/alpha/inter-milan-vs-bologna/2891",
+        "url": "https://playerdee.top/alpha/roma-vs-genoa/2904",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -282,157 +107,6 @@
         }
       }
     ]
-  },
-  {
-    "title": "FC Barcelona Real Betis",
-    "category": "FC Barcelona",
-    "logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-    "start_iso": "2026-10-17T16:30:00.000Z",
-    "end_iso": "2026-10-17T18:45:00.000Z",
-    "date": "Saturday, 17 October 2026",
-    "time": "18:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/barcelona-vs-real-betis",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/barcelona-vs-real-betis/2892",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/barcelona-vs-real-betis/2893",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/barcelona-vs-real-betis/2894",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://playerdee.top/alpha/barcelona-vs-real-betis/2895",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://playerdee.top/alpha/barcelona-vs-real-betis/2896",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Bayern München RB Leipzig",
-    "category": "Bayern München",
-    "logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-    "start_iso": "2026-10-17T16:30:00.000Z",
-    "end_iso": "2026-10-17T18:45:00.000Z",
-    "date": "Saturday, 17 October 2026",
-    "time": "18:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/bayern-munchen-vs-rb-leipzig",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/bayern-munchen-vs-rb-leipzig/2875",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/bayern-munchen-vs-rb-leipzig/2876",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Aston Villa Newcastle United",
-    "category": "Aston Villa",
-    "logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-    "start_iso": "2026-10-17T16:30:00.000Z",
-    "end_iso": "2026-10-17T18:45:00.000Z",
-    "date": "Saturday, 17 October 2026",
-    "time": "18:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/aston-villa-vs-newcastle",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/aston-villa-vs-newcastle/2897",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/aston-villa-vs-newcastle/2898",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/aston-villa-vs-newcastle/2899",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "AS Roma Genoa",
-    "category": "AS Roma",
-    "logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-    "start_iso": "2026-10-17T18:45:00.000Z",
-    "end_iso": "2026-10-17T21:00:00.000Z",
-    "date": "Saturday, 17 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/roma-vs-genoa",
-    "servers": []
   },
   {
     "title": "Lille Brest",
@@ -442,9 +116,30 @@
     "end_iso": "2026-10-17T21:00:00.000Z",
     "date": "Saturday, 17 October 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/lille-vs-brest",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/lille-vs-brest/2905",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://playerdee.top/alpha/lille-vs-brest/2906",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      }
+    ]
   },
   {
     "title": "Athletic Club Valencia",
@@ -456,11 +151,78 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/athletic-club-vs-valencia",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/athletic-club-vs-valencia/2907",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/athletic-club-vs-valencia/2908",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
-    "title": "UFC Fight Night: Buckley Malott",
-    "category": "UFC Fight Night: Buckley",
+    "title": "Munster Racing Métro 92",
+    "category": "Munster",
+    "logo": "https://cdn.img4every1.org/team/munster/logo.webp",
+    "start_iso": "2026-10-17T19:00:00.000Z",
+    "end_iso": "2026-10-17T21:15:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/munster-vs-racing-92",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/munster-vs-racing-92/2901",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Bath Rugby Montpellier",
+    "category": "Bath Rugby",
+    "logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
+    "start_iso": "2026-10-17T19:00:00.000Z",
+    "end_iso": "2026-10-17T21:15:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/bath-rugby-vs-montpellier",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bath-rugby-vs-montpellier/2902",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Buckley Malott",
+    "category": "Buckley",
     "logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
     "start_iso": "2026-10-17T22:00:00.000Z",
     "end_iso": "2026-10-18T03:30:00.000Z",

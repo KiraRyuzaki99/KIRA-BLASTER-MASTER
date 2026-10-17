@@ -76,29 +76,6 @@
     ]
   },
   {
-    "title": "Auckland Melbourne City",
-    "category": "Auckland",
-    "logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
-    "start_iso": "2026-10-17T04:00:00.000Z",
-    "end_iso": "2026-10-17T06:15:00.000Z",
-    "date": "Saturday, 17 October 2026",
-    "time": "06:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/auckland-vs-melbourne-city",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/auckland-vs-melbourne-city/2855",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Australia New Zealand",
     "category": "Australia",
     "logo": "https://cdn.img4every1.org/team/australia/logo.webp",
@@ -106,7 +83,7 @@
     "end_iso": "2026-10-17T07:15:00.000Z",
     "date": "Saturday, 17 October 2026",
     "time": "07:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/australia-vs-new-zealand",
     "servers": [
       {
@@ -149,7 +126,7 @@
     "end_iso": "2026-10-17T08:15:00.000Z",
     "date": "Saturday, 17 October 2026",
     "time": "08:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/perth-glory-vs-macarthur",
     "servers": [
       {

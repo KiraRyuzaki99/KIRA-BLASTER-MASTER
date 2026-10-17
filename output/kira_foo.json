@@ -99,6 +99,49 @@
     ]
   },
   {
+    "title": "Australia New Zealand",
+    "category": "Australia",
+    "logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+    "start_iso": "2026-10-17T05:00:00.000Z",
+    "end_iso": "2026-10-17T07:15:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "07:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/australia-vs-new-zealand",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2863",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2864",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2865",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
     "title": "Perth Glory Macarthur",
     "category": "Perth Glory",
     "logo": "https://cdn.img4every1.org/team/perth-glory/logo.webp",
@@ -135,6 +178,39 @@
       {
         "label": "English",
         "url": "https://playerdee.top/alpha/newcastle-jets-vs-central-coast-mariners/2857",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "England Tonga",
+    "category": "England",
+    "logo": "https://cdn.img4every1.org/team/england/logo.webp",
+    "start_iso": "2026-10-17T09:05:00.000Z",
+    "end_iso": "2026-10-17T11:20:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "11:05",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/england-vs-tonga",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/england-vs-tonga/2866",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/england-vs-tonga/2867",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -188,6 +264,52 @@
     "status": "next",
     "event_url": "https://pogo.pk/events/chelsea-vs-everton",
     "servers": []
+  },
+  {
+    "title": "Glasgow Warriors Sale Sharks",
+    "category": "Glasgow Warriors",
+    "logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
+    "start_iso": "2026-10-17T12:00:00.000Z",
+    "end_iso": "2026-10-17T14:15:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "14:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/warriors-vs-sale-sharks",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/warriors-vs-sale-sharks/2868",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Bulls Stade Français Paris",
+    "category": "Bulls",
+    "logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
+    "start_iso": "2026-10-17T12:00:00.000Z",
+    "end_iso": "2026-10-17T14:15:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "14:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/bulls-vs-stade-francais",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bulls-vs-stade-francais/2869",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Espanyol Atlético Madrid",
@@ -344,6 +466,29 @@
     "status": "next",
     "event_url": "https://pogo.pk/events/athletic-club-vs-valencia",
     "servers": []
+  },
+  {
+    "title": "UFC Fight Night: Buckley Malott",
+    "category": "UFC Fight Night: Buckley",
+    "logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+    "start_iso": "2026-10-17T22:00:00.000Z",
+    "end_iso": "2026-10-18T03:30:00.000Z",
+    "date": "Sunday, 18 October 2026",
+    "time": "00:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/ufc-fight-night-buckley-vs-malott",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/ufc-fight-night-buckley-vs-malott/2862",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Lecce Udinese",

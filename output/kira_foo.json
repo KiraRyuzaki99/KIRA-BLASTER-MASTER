@@ -76,207 +76,6 @@
     ]
   },
   {
-    "title": "Chelsea Everton",
-    "category": "Chelsea",
-    "logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-    "start_iso": "2026-10-17T11:30:00.000Z",
-    "end_iso": "2026-10-17T13:45:00.000Z",
-    "date": "Saturday, 17 October 2026",
-    "time": "13:30",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/chelsea-vs-everton",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/chelsea-vs-everton/2870",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/chelsea-vs-everton/2871",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/chelsea-vs-everton/2872",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Watford Charlton Athletic",
-    "category": "Watford",
-    "logo": "https://cdn.img4every1.org/team/watford/logo.webp",
-    "start_iso": "2026-10-17T11:30:00.000Z",
-    "end_iso": "2026-10-17T13:45:00.000Z",
-    "date": "Saturday, 17 October 2026",
-    "time": "13:30",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/watford-vs-charlton-athletic",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/watford-vs-charlton-athletic/2853",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/watford-vs-charlton-athletic/2854",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Glasgow Warriors Sale Sharks",
-    "category": "Glasgow Warriors",
-    "logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
-    "start_iso": "2026-10-17T12:00:00.000Z",
-    "end_iso": "2026-10-17T14:15:00.000Z",
-    "date": "Saturday, 17 October 2026",
-    "time": "14:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/warriors-vs-sale-sharks",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/warriors-vs-sale-sharks/2868",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Espanyol Atlético Madrid",
-    "category": "Espanyol",
-    "logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-    "start_iso": "2026-10-17T12:00:00.000Z",
-    "end_iso": "2026-10-17T14:15:00.000Z",
-    "date": "Saturday, 17 October 2026",
-    "time": "14:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/espanyol-vs-atletico-madrid",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/espanyol-vs-atletico-madrid/2873",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/espanyol-vs-atletico-madrid/2874",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Bulls Stade Français Paris",
-    "category": "Bulls",
-    "logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
-    "start_iso": "2026-10-17T12:00:00.000Z",
-    "end_iso": "2026-10-17T14:15:00.000Z",
-    "date": "Saturday, 17 October 2026",
-    "time": "14:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/bulls-vs-stade-francais",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/bulls-vs-stade-francais/2869",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Napoli Venezia",
-    "category": "Napoli",
-    "logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-    "start_iso": "2026-10-17T13:00:00.000Z",
-    "end_iso": "2026-10-17T15:15:00.000Z",
-    "date": "Saturday, 17 October 2026",
-    "time": "15:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/napoli-vs-venezia",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/napoli-vs-venezia/2881",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "SD",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Schalke 04 Mainz 05",
-    "category": "Schalke 04",
-    "logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
-    "start_iso": "2026-10-17T13:30:00.000Z",
-    "end_iso": "2026-10-17T15:45:00.000Z",
-    "date": "Saturday, 17 October 2026",
-    "time": "15:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/schalke-04-vs-mainz-05",
-    "servers": [
-      {
-        "label": "Deutsch",
-        "url": "https://playerdee.top/alpha/schalke-04-vs-mainz-05/2877",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Deutsch"
-        }
-      }
-    ]
-  },
-  {
     "title": "Liverpool Brentford",
     "category": "Liverpool",
     "logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
@@ -284,7 +83,7 @@
     "end_iso": "2026-10-17T16:15:00.000Z",
     "date": "Saturday, 17 October 2026",
     "time": "16:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/liverpool-vs-brentford",
     "servers": [
       {
@@ -327,7 +126,7 @@
     "end_iso": "2026-10-17T16:15:00.000Z",
     "date": "Saturday, 17 October 2026",
     "time": "16:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/manchester-city-vs-ipswich-town",
     "servers": [
       {
@@ -370,7 +169,7 @@
     "end_iso": "2026-10-17T16:15:00.000Z",
     "date": "Saturday, 17 October 2026",
     "time": "16:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/fulham-vs-hull-city",
     "servers": [
       {
@@ -393,7 +192,7 @@
     "end_iso": "2026-10-17T16:30:00.000Z",
     "date": "Saturday, 17 October 2026",
     "time": "16:15",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/elche-vs-villarreal",
     "servers": [
       {
@@ -426,7 +225,7 @@
     "end_iso": "2026-10-17T17:30:00.000Z",
     "date": "Saturday, 17 October 2026",
     "time": "17:15",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/psg-vs-strasbourg",
     "servers": [
       {
@@ -485,6 +284,69 @@
     ]
   },
   {
+    "title": "FC Barcelona Real Betis",
+    "category": "FC Barcelona",
+    "logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+    "start_iso": "2026-10-17T16:30:00.000Z",
+    "end_iso": "2026-10-17T18:45:00.000Z",
+    "date": "Saturday, 17 October 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/barcelona-vs-real-betis",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/barcelona-vs-real-betis/2892",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/barcelona-vs-real-betis/2893",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/barcelona-vs-real-betis/2894",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/barcelona-vs-real-betis/2895",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://playerdee.top/alpha/barcelona-vs-real-betis/2896",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      }
+    ]
+  },
+  {
     "title": "Bayern München RB Leipzig",
     "category": "Bayern München",
     "logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
@@ -527,19 +389,38 @@
     "time": "18:30",
     "status": "next",
     "event_url": "https://pogo.pk/events/aston-villa-vs-newcastle",
-    "servers": []
-  },
-  {
-    "title": "FC Barcelona Real Betis",
-    "category": "FC Barcelona",
-    "logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-    "start_iso": "2026-10-17T16:30:00.000Z",
-    "end_iso": "2026-10-17T18:45:00.000Z",
-    "date": "Saturday, 17 October 2026",
-    "time": "18:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/barcelona-vs-real-betis",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/aston-villa-vs-newcastle/2897",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/aston-villa-vs-newcastle/2898",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/aston-villa-vs-newcastle/2899",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "AS Roma Genoa",
@@ -718,6 +599,30 @@
     "time": "18:30",
     "status": "next",
     "event_url": "https://pogo.pk/events/real-sociedad-vs-malaga",
+    "servers": []
+  },
+  {
+    "title": "Lazio Juventus",
+    "category": "Lazio",
+    "logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+    "start_iso": "2026-10-18T18:45:00.000Z",
+    "end_iso": "2026-10-18T21:00:00.000Z",
+    "date": "Sunday, 18 October 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/lazio-vs-juventus",
+    "servers": []
+  },
+  {
+    "title": "Real Madrid Sevilla",
+    "category": "Real Madrid",
+    "logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+    "start_iso": "2026-10-18T19:00:00.000Z",
+    "end_iso": "2026-10-18T21:15:00.000Z",
+    "date": "Sunday, 18 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/real-madrid-vs-sevilla",
     "servers": []
   }
 ]

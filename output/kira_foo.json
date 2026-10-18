@@ -1,48 +1,5 @@
 [
   {
-    "title": "Shanghai Rolex Masters ATP Tour",
-    "category": "Shanghai Rolex Masters",
-    "logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-    "start_iso": "2026-10-07T04:00:00.000Z",
-    "end_iso": "2026-10-18T11:00:00.000Z",
-    "date": "Wednesday, 07 October 2026",
-    "time": "06:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/shanghai-rolex-masters",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/shanghai-rolex-masters/2614",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/shanghai-rolex-masters/2615",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/shanghai-rolex-masters/2616",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "India Championship PGA Tour",
     "category": "India Championship",
     "logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -76,39 +33,6 @@
     ]
   },
   {
-    "title": "Fiji Cook Islands",
-    "category": "Fiji",
-    "logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
-    "start_iso": "2026-10-18T05:00:00.000Z",
-    "end_iso": "2026-10-18T07:15:00.000Z",
-    "date": "Sunday, 18 October 2026",
-    "time": "07:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/fiji-vs-cook-islands",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/fiji-vs-cook-islands/2911",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/fiji-vs-cook-islands/2912",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Snooker Northern Ireland Open Snooker",
     "category": "Snooker Northern Ireland Open",
     "logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
@@ -116,7 +40,7 @@
     "end_iso": "2026-10-25T23:00:00.000Z",
     "date": "Sunday, 18 October 2026",
     "time": "11:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/snooker-northern-ireland-open",
     "servers": [
       {
@@ -149,9 +73,20 @@
     "end_iso": "2026-10-18T12:45:00.000Z",
     "date": "Sunday, 18 October 2026",
     "time": "12:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/lecce-vs-udinese",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/lecce-vs-udinese/2937",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "SD",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Racing Santander Osasuna",
@@ -163,7 +98,28 @@
     "time": "14:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/racing-santander-vs-osasuna",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/racing-santander-vs-osasuna/2943",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/racing-santander-vs-osasuna/2944",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Leicester Tigers Section Paloise",
@@ -212,18 +168,6 @@
     ]
   },
   {
-    "title": "Como Fiorentina",
-    "category": "Como",
-    "logo": "https://cdn.img4every1.org/team/como/logo.webp",
-    "start_iso": "2026-10-18T13:00:00.000Z",
-    "end_iso": "2026-10-18T15:15:00.000Z",
-    "date": "Sunday, 18 October 2026",
-    "time": "15:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/como-vs-fiorentina",
-    "servers": []
-  },
-  {
     "title": "Manchester United Leeds United",
     "category": "Manchester United",
     "logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
@@ -233,7 +177,48 @@
     "time": "15:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/manchester-united-vs-leeds-united",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/manchester-united-vs-leeds-united/2957",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/manchester-united-vs-leeds-united/2958",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/manchester-united-vs-leeds-united/2959",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/manchester-united-vs-leeds-united/2960",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
   },
   {
     "title": "Crystal Palace Brighton & Hove Albion",
@@ -245,7 +230,28 @@
     "time": "15:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/crystal-palace-vs-brighton",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/crystal-palace-vs-brighton/2953",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/crystal-palace-vs-brighton/2954",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "AFC Bournemouth Sunderland",
@@ -257,7 +263,51 @@
     "time": "15:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/bournemouth-vs-sunderland",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bournemouth-vs-sunderland/2955",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bournemouth-vs-sunderland/2956",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Como Fiorentina",
+    "category": "Como",
+    "logo": "https://cdn.img4every1.org/team/como/logo.webp",
+    "start_iso": "2026-10-18T13:00:00.000Z",
+    "end_iso": "2026-10-18T15:15:00.000Z",
+    "date": "Sunday, 18 October 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/como-vs-fiorentina",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/como-vs-fiorentina/2938",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "SD",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Houston Texans Jacksonville Jaguars",
@@ -302,7 +352,28 @@
     "time": "16:15",
     "status": "next",
     "event_url": "https://pogo.pk/events/alaves-vs-celta-vigo",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/alaves-vs-celta-vigo/2945",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/alaves-vs-celta-vigo/2946",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Exeter Chiefs Toulouse",
@@ -337,7 +408,48 @@
     "time": "17:30",
     "status": "next",
     "event_url": "https://pogo.pk/events/arsenal-vs-nottm-forest",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/arsenal-vs-nottm-forest/2961",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/arsenal-vs-nottm-forest/2962",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/arsenal-vs-nottm-forest/2963",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/arsenal-vs-nottm-forest/2964",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
   },
   {
     "title": "AC Milan Atalanta",
@@ -349,7 +461,28 @@
     "time": "18:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/ac-milan-vs-atalanta",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/ac-milan-vs-atalanta/2939",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/ac-milan-vs-atalanta/2940",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "SD",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Real Sociedad Málaga",
@@ -361,7 +494,28 @@
     "time": "18:30",
     "status": "next",
     "event_url": "https://pogo.pk/events/real-sociedad-vs-malaga",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-sociedad-vs-malaga/2947",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-sociedad-vs-malaga/2948",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Northampton Saints Cardiff Blues",
@@ -521,7 +675,28 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/lazio-vs-juventus",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/lazio-vs-juventus/2941",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/lazio-vs-juventus/2942",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "SD",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Real Madrid Sevilla",
@@ -533,7 +708,48 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/real-madrid-vs-sevilla",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-sevilla/2949",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-sevilla/2950",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-sevilla/2951",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-sevilla/2952",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      }
+    ]
   },
   {
     "title": "Monza Cagliari",

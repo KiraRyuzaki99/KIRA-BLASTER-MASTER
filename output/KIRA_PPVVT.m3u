@@ -1,34 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="American Football – College Football",Oggi 02:15 - Utah Utes at Colorado Buffaloes [ESPN]
-https://august.ppvtv.icu/embed.html?match=c4e0ob8&server=0
-
-#EXTINF:-1 group-title="American Football – College Football",Oggi 02:30 - Wake Forest Demon Deacons at California Golden Bears [ESPN2]
-https://august.ppvtv.icu/embed.html?match=ceuvmng&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Oggi 02:30 - LA Galaxy vs. San Diego FC [Apple TV]
-https://august.ppvtv.icu/embed.html?match=f7o3qit&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Oggi 02:30 - Portland Timbers vs. Colorado Rapids [Apple TV]
-https://august.ppvtv.icu/embed.html?match=foqduqr&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Oggi 02:30 - San Jose Earthquakes vs. Nashville SC [Apple TV]
-https://august.ppvtv.icu/embed.html?match=f74m3dc&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Oggi 02:30 - Seattle Sounders FC vs. CF Montréal [Apple TV]
-https://august.ppvtv.icu/embed.html?match=f18248kc&server=0
-
-#EXTINF:-1 group-title="Football – Liga MX",Oggi 03:00 - Cruz Azul vs. FC Juárez [Liga MX]
-https://august.ppvtv.icu/embed.html?match=f1jh4rk3&server=0
-
-#EXTINF:-1 group-title="Basketball – NBL",Oggi 04:00 - Tasmania JackJumpers vs. New Zealand Breakers [ESPN]
-https://august.ppvtv.icu/embed.html?match=f67kxgy&server=0
-
-#EXTINF:-1 group-title="Basketball – NBL",Oggi 06:00 - Melbourne United vs. Illawarra Hawks [ESPN]
-https://august.ppvtv.icu/embed.html?match=fkhq92c&server=0
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 10:15 - PEC Zwolle vs. Go Ahead Eagles [ESPN]
+#EXTINF:-1 group-title="Football – Eredivisie",Oggi 10:15 - PEC Zwolle vs. Go Ahead Eagles [ESPN2]
 https://august.ppvtv.icu/embed.html?match=f16ggt0d&server=0
 
 #EXTINF:-1 group-title="Football – Serie A",Oggi 10:30 - Udinese vs. Lecce [Paramount+]
@@ -154,8 +127,14 @@ https://august.ppvtv.icu/embed.html?match=cyfn503&server=0
 #EXTINF:-1 group-title="American Football – NFL",Oggi 20:25 - Buffalo Bills at Las Vegas Raiders [CBS]
 https://august.ppvtv.icu/embed.html?match=cf3e658&server=0
 
+#EXTINF:-1 group-title="Baseball – MLB",Oggi 21:00 - Tampa Bay Rays vs. Cleveland Guardians [TBS]
+https://august.ppvtv.icu/embed.html?match=fs0ms5k&server=0
+
 #EXTINF:-1 group-title="Football – MLS",Oggi 21:00 - FC Cincinnati vs. Columbus Crew [Apple TV]
 https://august.ppvtv.icu/embed.html?match=f1u6k7sl&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 22:00 - Columbus Blue Jackets vs. Minnesota Wild [MINNHL]
+https://august.ppvtv.icu/embed.html?match=f4193vw&server=0
 
 #EXTINF:-1 group-title="American Football – 24/7 channel",Oggi N/A - NFL Network [NFL Network (ESPN)]
 https://august.ppvtv.icu/embed.html?match=c15q87wa&server=0
@@ -186,6 +165,9 @@ https://august.ppvtv.icu/embed.html?match=chsgr4k&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Oggi N/A - 24/7 South Park [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1ed9edx&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Carolina Hurricanes vs. Calgary Flames [ESPN+]
+https://august.ppvtv.icu/embed.html?match=fjyqbe1&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 00:00 - 24/7 SpongeBob Squarepants [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c10yqzo0&server=0

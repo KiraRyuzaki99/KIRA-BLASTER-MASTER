@@ -3,15 +3,6 @@
 
 # Playlist: Sunday, 18 October 2026
 
-#EXTINF:-1 group-title="Sunday, 18 October 2026 - Bulgaria Bulgarian Cup",12:00 - Chernomorets Burgas VS Botev Plovdiv - Canal 48
-https://ch.nexa.st/stream?id=48
-
-#EXTINF:-1 group-title="Sunday, 18 October 2026 - Bulgaria Bulgarian Cup",12:00 - Chernomorets Burgas VS Botev Plovdiv - Canal 48
-https://s1.virazo.sx/ch?id=48
-
-#EXTINF:-1 group-title="Sunday, 18 October 2026 - Bulgaria Bulgarian Cup",12:00 - Chernomorets Burgas VS Botev Plovdiv - Canal 48
-https://playfa.st/ch.php?id=48
-
 #EXTINF:-1 group-title="Sunday, 18 October 2026 - Poland Ekstraklasa",13:15 - Gornik Zabrze VS Piast Gliwice - Canal 60
 https://ch.nexa.st/stream?id=60
 
@@ -63,6 +54,15 @@ https://s1.virazo.sx/ch?id=41
 #EXTINF:-1 group-title="Sunday, 18 October 2026 - Czech Republic 1. liga",14:00 - Slovacko VS Zbrojovka Brno - Canal 41
 https://playfa.st/ch.php?id=41
 
+#EXTINF:-1 group-title="Sunday, 18 October 2026 - Germany Bundesliga 2",14:30 -  - Canal 11
+https://ch.nexa.st/stream?id=11
+
+#EXTINF:-1 group-title="Sunday, 18 October 2026 - Germany Bundesliga 2",14:30 -  - Canal 11
+https://s1.virazo.sx/ch?id=11
+
+#EXTINF:-1 group-title="Sunday, 18 October 2026 - Germany Bundesliga 2",14:30 -  - Canal 11
+https://playfa.st/ch.php?id=11
+
 #EXTINF:-1 group-title="Sunday, 18 October 2026 - Germany Bundesliga 2",14:30 - Dynamo Dresden VS Magdeburg - Canal 12
 https://ch.nexa.st/stream?id=12
 
@@ -70,15 +70,6 @@ https://ch.nexa.st/stream?id=12
 https://s1.virazo.sx/ch?id=12
 
 #EXTINF:-1 group-title="Sunday, 18 October 2026 - Germany Bundesliga 2",14:30 - Dynamo Dresden VS Magdeburg - Canal 12
-https://playfa.st/ch.php?id=12
-
-#EXTINF:-1 group-title="Sunday, 18 October 2026 - Germany Bundesliga 2",14:30 -  - Canal 12
-https://ch.nexa.st/stream?id=12
-
-#EXTINF:-1 group-title="Sunday, 18 October 2026 - Germany Bundesliga 2",14:30 -  - Canal 12
-https://s1.virazo.sx/ch?id=12
-
-#EXTINF:-1 group-title="Sunday, 18 October 2026 - Germany Bundesliga 2",14:30 -  - Canal 12
 https://playfa.st/ch.php?id=12
 
 #EXTINF:-1 group-title="Sunday, 18 October 2026 - Germany Bundesliga 2",14:30 - Karlsruher SC VS Darmstadt 98 - Canal 13
@@ -426,15 +417,6 @@ https://s1.virazo.sx/ch?id=86
 #EXTINF:-1 group-title="Sunday, 18 October 2026 - Spain La Liga",17:15 - Celta de Vigo VS Deportivo Alaves - Canal 86
 https://playfa.st/ch.php?id=86
 
-#EXTINF:-1 group-title="Sunday, 18 October 2026 - Spain La Liga",17:15 - Malaga VS Real Sociedad - Canal 86
-https://ch.nexa.st/stream?id=86
-
-#EXTINF:-1 group-title="Sunday, 18 October 2026 - Spain La Liga",17:15 - Malaga VS Real Sociedad - Canal 86
-https://s1.virazo.sx/ch?id=86
-
-#EXTINF:-1 group-title="Sunday, 18 October 2026 - Spain La Liga",17:15 - Malaga VS Real Sociedad - Canal 86
-https://playfa.st/ch.php?id=86
-
 #EXTINF:-1 group-title="Sunday, 18 October 2026 - Germany 3. Liga",17:30 - MSV Duisburg VS Viktoria Koln - Canal 16
 https://ch.nexa.st/stream?id=16
 
@@ -716,6 +698,15 @@ https://s1.virazo.sx/ch?id=27
 
 #EXTINF:-1 group-title="Sunday, 18 October 2026 - Spain Segunda Division",19:30 - Real Valladolid VS Eldense - Canal 27
 https://playfa.st/ch.php?id=27
+
+#EXTINF:-1 group-title="Sunday, 18 October 2026 - Spain La Liga",19:30 - Malaga VS Real Sociedad - Canal 86
+https://ch.nexa.st/stream?id=86
+
+#EXTINF:-1 group-title="Sunday, 18 October 2026 - Spain La Liga",19:30 - Malaga VS Real Sociedad - Canal 86
+https://s1.virazo.sx/ch?id=86
+
+#EXTINF:-1 group-title="Sunday, 18 October 2026 - Spain La Liga",19:30 - Malaga VS Real Sociedad - Canal 86
+https://playfa.st/ch.php?id=86
 
 #EXTINF:-1 group-title="Sunday, 18 October 2026 - NFL",20:00 - Philadelphia Eagles VS Carolina Panthers - Canal 11
 https://ch.nexa.st/stream?id=11

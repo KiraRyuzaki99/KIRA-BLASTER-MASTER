@@ -33,237 +33,6 @@
     ]
   },
   {
-    "title": "Houston Texans Jacksonville Jaguars",
-    "category": "Houston Texans",
-    "logo": "https://cdn.img4every1.org/team/houston-texans/logo.webp",
-    "start_iso": "2026-10-18T13:30:00.000Z",
-    "end_iso": "2026-10-18T16:40:00.000Z",
-    "date": "Sunday, 18 October 2026",
-    "time": "15:30",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/texans-vs-jaguars",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/texans-vs-jaguars/2917",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/texans-vs-jaguars/2918",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Deportivo Alavés Celta de Vigo",
-    "category": "Deportivo Alavés",
-    "logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-    "start_iso": "2026-10-18T14:15:00.000Z",
-    "end_iso": "2026-10-18T16:30:00.000Z",
-    "date": "Sunday, 18 October 2026",
-    "time": "16:15",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/alaves-vs-celta-vigo",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/alaves-vs-celta-vigo/2945",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/alaves-vs-celta-vigo/2946",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Exeter Chiefs Toulouse",
-    "category": "Exeter Chiefs",
-    "logo": "https://cdn.img4every1.org/team/exeter-chiefs/logo.webp",
-    "start_iso": "2026-10-18T14:15:00.000Z",
-    "end_iso": "2026-10-18T16:30:00.000Z",
-    "date": "Sunday, 18 October 2026",
-    "time": "16:15",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/exeter-chiefs-vs-toulouse",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/exeter-chiefs-vs-toulouse/2919",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Arsenal Nottingham Forest",
-    "category": "Arsenal",
-    "logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-    "start_iso": "2026-10-18T15:30:00.000Z",
-    "end_iso": "2026-10-18T17:45:00.000Z",
-    "date": "Sunday, 18 October 2026",
-    "time": "17:30",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/arsenal-vs-nottm-forest",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/arsenal-vs-nottm-forest/2961",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/arsenal-vs-nottm-forest/2962",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/arsenal-vs-nottm-forest/2963",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://playerdee.top/alpha/arsenal-vs-nottm-forest/2964",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
-    "title": "AC Milan Atalanta",
-    "category": "AC Milan",
-    "logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-    "start_iso": "2026-10-18T16:00:00.000Z",
-    "end_iso": "2026-10-18T18:15:00.000Z",
-    "date": "Sunday, 18 October 2026",
-    "time": "18:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/ac-milan-vs-atalanta",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/ac-milan-vs-atalanta/2939",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/ac-milan-vs-atalanta/2940",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "SD",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Real Sociedad Málaga",
-    "category": "Real Sociedad",
-    "logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-    "start_iso": "2026-10-18T16:30:00.000Z",
-    "end_iso": "2026-10-18T18:45:00.000Z",
-    "date": "Sunday, 18 October 2026",
-    "time": "18:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/real-sociedad-vs-malaga",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/real-sociedad-vs-malaga/2947",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/real-sociedad-vs-malaga/2948",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Northampton Saints Cardiff Blues",
-    "category": "Northampton Saints",
-    "logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
-    "start_iso": "2026-10-18T16:30:00.000Z",
-    "end_iso": "2026-10-18T18:45:00.000Z",
-    "date": "Sunday, 18 October 2026",
-    "time": "18:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/northampton-vs-cardiff-rugby",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/northampton-vs-cardiff-rugby/2920",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Tennessee Titans Indianapolis Colts",
     "category": "Tennessee Titans",
     "logo": "https://cdn.img4every1.org/team/tennessee-titans/logo.webp",
@@ -271,7 +40,7 @@
     "end_iso": "2026-10-18T20:10:00.000Z",
     "date": "Sunday, 18 October 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/titans-vs-colts",
     "servers": [
       {
@@ -294,7 +63,7 @@
     "end_iso": "2026-10-18T20:10:00.000Z",
     "date": "Sunday, 18 October 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/new-york-giants-vs-saints-live",
     "servers": [
       {
@@ -317,7 +86,7 @@
     "end_iso": "2026-10-18T20:10:00.000Z",
     "date": "Sunday, 18 October 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/philadelphia-eagles-vs-panthers-live",
     "servers": [
       {
@@ -350,7 +119,7 @@
     "end_iso": "2026-10-18T20:10:00.000Z",
     "date": "Sunday, 18 October 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/ravens-vs-browns",
     "servers": [
       {
@@ -373,7 +142,7 @@
     "end_iso": "2026-10-18T20:10:00.000Z",
     "date": "Sunday, 18 October 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/patriots-vs-jets",
     "servers": [
       {
@@ -396,12 +165,35 @@
     "end_iso": "2026-10-18T20:10:00.000Z",
     "date": "Sunday, 18 October 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/steelers-vs-buccaneers",
     "servers": [
       {
         "label": "English",
         "url": "https://playerdee.top/alpha/steelers-vs-buccaneers/2923",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Atlanta Falcons Chicago Bears",
+    "category": "Atlanta Falcons",
+    "logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
+    "start_iso": "2026-10-18T17:00:00.000Z",
+    "end_iso": "2026-10-18T20:10:00.000Z",
+    "date": "Sunday, 18 October 2026",
+    "time": "19:00",
+    "status": "live",
+    "event_url": "https://pogo.pk/events/falcons-vs-bears",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/falcons-vs-bears/2928",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -419,7 +211,7 @@
     "end_iso": "2026-10-18T21:00:00.000Z",
     "date": "Sunday, 18 October 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/lazio-vs-juventus",
     "servers": [
       {
@@ -493,6 +285,138 @@
           "quality": "720p",
           "ads": "2",
           "language": "Spanish"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Los Angeles Rams Arizona Cardinals",
+    "category": "Los Angeles Rams",
+    "logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
+    "start_iso": "2026-10-18T20:05:00.000Z",
+    "end_iso": "2026-10-18T23:15:00.000Z",
+    "date": "Sunday, 18 October 2026",
+    "time": "22:05",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/rams-vs-cardinals",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/rams-vs-cardinals/2929",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Los Angeles Chargers Kansas City Chiefs",
+    "category": "Los Angeles Chargers",
+    "logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
+    "start_iso": "2026-10-18T20:25:00.000Z",
+    "end_iso": "2026-10-18T23:35:00.000Z",
+    "date": "Sunday, 18 October 2026",
+    "time": "22:25",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/chargers-vs-chiefs",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/chargers-vs-chiefs/2932",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/chargers-vs-chiefs/2933",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Buffalo Bills Las Vegas Raiders",
+    "category": "Buffalo Bills",
+    "logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
+    "start_iso": "2026-10-18T20:25:00.000Z",
+    "end_iso": "2026-10-18T23:35:00.000Z",
+    "date": "Sunday, 18 October 2026",
+    "time": "22:25",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/bills-vs-raiders",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bills-vs-raiders/2930",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bills-vs-raiders/2931",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Dallas Cowboys Green Bay Packers",
+    "category": "Dallas Cowboys",
+    "logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
+    "start_iso": "2026-10-19T00:20:00.000Z",
+    "end_iso": "2026-10-19T03:30:00.000Z",
+    "date": "Monday, 19 October 2026",
+    "time": "02:20",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/cowboys-vs-packers",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/cowboys-vs-packers/2934",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/cowboys-vs-packers/2935",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/cowboys-vs-packers/2936",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
         }
       }
     ]

@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="10:10 Transmissions esportives -  Pàdel Campionat de Catalunya" group-title="Transmissions esportives",10:10 Transmissions esportives -  Pàdel Campionat de Catalunya
 acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1 tvg-name="10:30 Masters Shanghai - Final A. Davidovich - R. Jódar" group-title="Masters Shanghai",10:30 Masters Shanghai - Final A. Davidovich - R. Jódar
+#EXTINF:-1 tvg-name="10:40 Masters Shanghai - Final A. Davidovich - R. Jódar" group-title="Masters Shanghai",10:40 Masters Shanghai - Final A. Davidovich - R. Jódar
 acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
 #EXTINF:-1 tvg-name="11:00 Las Carreras -  Hipódromo de La Zarzuela 18/10/2026" group-title="Las Carreras",11:00 Las Carreras -  Hipódromo de La Zarzuela 18/10/2026
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
@@ -109,5 +109,9 @@ acestream://4048be88f84250719e864868e537612f389df48e
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-name="02:20 NFL - Liga Regular Green Bay Packers - Dallas Cowboys" group-title="NFL",02:20 NFL - Liga Regular Green Bay Packers - Dallas Cowboys
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-name="07:00 WTA Torneo de Ningbo -  1ª Ronda - WTA 500" group-title="WTA Torneo de Ningbo",07:00 WTA Torneo de Ningbo -  1ª Ronda - WTA 500
+#EXTINF:-1 tvg-name="04:00 WTA Torneo de Ningbo - 1ª Ronda S. Cirstea - H. Shi" group-title="WTA Torneo de Ningbo",04:00 WTA Torneo de Ningbo - 1ª Ronda S. Cirstea - H. Shi
+acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1 tvg-name="04:00 WTA Torneo de Ningbo - 1ª Ronda E. Mertens - L. Fernández" group-title="WTA Torneo de Ningbo",04:00 WTA Torneo de Ningbo - 1ª Ronda E. Mertens - L. Fernández
+acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1 tvg-name="04:00 WTA Torneo de Ningbo - 1ª Ronda A. Eala - D. Parry" group-title="WTA Torneo de Ningbo",04:00 WTA Torneo de Ningbo - 1ª Ronda A. Eala - D. Parry
 acestream://a4cbadd19442b800727be713270fa9c917cc8582

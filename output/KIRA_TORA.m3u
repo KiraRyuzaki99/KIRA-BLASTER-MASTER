@@ -1,30 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",18:30 - Monza vs Cagliari
-https://embed.st/embed/admin/ppv-monza-vs-cagliari/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:30 - Monza vs Cagliari
-https://embed.st/embed/admin/ppv-monza-vs-cagliari/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:30 - Monza vs Cagliari
-https://embed.st/embed/hotel/monza-vs-cagliari-serie-a-1792427400/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",19:00 - Degerfors vs Kalmar
-https://embed.st/embed/admin/ppv-degerfors-if-vs-kalmar-ff/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",19:00 - Degerfors vs Kalmar
-https://embed.st/embed/admin/ppv-degerfors-if-vs-kalmar-ff/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:45 - Parma vs Torino
-https://embed.st/embed/admin/ppv-parma-vs-torino/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:45 - Parma vs Torino
-https://embed.st/embed/admin/ppv-parma-vs-torino/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",20:45 - Parma vs Torino
-https://embed.st/embed/hotel/parma-vs-torino-serie-a-1792435500/1#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Football",21:00 - Getafe vs Rayo Vallecano
 https://embed.st/embed/admin/ppv-getafe-vs-rayo-vallecano/1#player=clappr&autoplay=true
 
@@ -32,7 +8,7 @@ https://embed.st/embed/admin/ppv-getafe-vs-rayo-vallecano/1#player=clappr&autopl
 https://embed.st/embed/admin/ppv-getafe-vs-rayo-vallecano/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Getafe vs Rayo Vallecano
-https://embed.st/embed/hotel/getafe-vs-rayo-vallecano-laliga-ea-sports-1792436400/1#player=clappr&autoplay=true
+https://embed.st/embed/hotel/getafe-vs-rayo-vallecano-laliga-ea-sports-1792434900/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Tottenham Hotspur vs Coventry City
 https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-coventry-city/1#player=clappr&autoplay=true
@@ -47,4 +23,13 @@ https://embed.st/embed/golf/2373/1#player=clappr&autoplay=true
 https://embed.st/embed/golf/2373/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Tottenham Hotspur vs Coventry City
-https://embed.st/embed/hotel/tottenham-hotspur-vs-coventry-city-premier-league-1792436400/1#player=clappr&autoplay=true
+https://embed.st/embed/hotel/tottenham-hotspur-vs-coventry-city-premier-league-1792431000/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Parma vs Torino
+https://embed.st/embed/admin/ppv-parma-vs-torino/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Parma vs Torino
+https://embed.st/embed/admin/ppv-parma-vs-torino/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:45 - Parma vs Torino
+https://embed.st/embed/hotel/parma-vs-torino-serie-a-1792434600/1#player=clappr&autoplay=true

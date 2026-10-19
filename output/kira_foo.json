@@ -33,18 +33,6 @@
     ]
   },
   {
-    "title": "Monza Cagliari",
-    "category": "Monza",
-    "logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-    "start_iso": "2026-10-19T16:30:00.000Z",
-    "end_iso": "2026-10-19T18:45:00.000Z",
-    "date": "Monday, 19 October 2026",
-    "time": "18:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/monza-vs-cagliari",
-    "servers": []
-  },
-  {
     "title": "Parma Torino",
     "category": "Parma",
     "logo": "https://cdn.img4every1.org/team/parma/logo.webp",
@@ -52,9 +40,20 @@
     "end_iso": "2026-10-19T21:00:00.000Z",
     "date": "Monday, 19 October 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/parma-vs-torino",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/parma-vs-torino/2969",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "SD",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Getafe Rayo Vallecano",
@@ -64,9 +63,40 @@
     "end_iso": "2026-10-19T21:15:00.000Z",
     "date": "Monday, 19 October 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/getafe-vs-rayo-vallecano",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/getafe-vs-rayo-vallecano/2966",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/getafe-vs-rayo-vallecano/2967",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/getafe-vs-rayo-vallecano/2968",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Tottenham Hotspur Coventry City",
@@ -76,9 +106,50 @@
     "end_iso": "2026-10-19T21:15:00.000Z",
     "date": "Monday, 19 October 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/spurs-vs-coventry-city",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/spurs-vs-coventry-city/2970",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/spurs-vs-coventry-city/2971",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/spurs-vs-coventry-city/2972",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/spurs-vs-coventry-city/2973",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Borussia Dortmund Sabah Baku",

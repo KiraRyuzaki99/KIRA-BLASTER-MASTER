@@ -33,49 +33,6 @@
     ]
   },
   {
-    "title": "Dallas Cowboys Green Bay Packers",
-    "category": "Dallas Cowboys",
-    "logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-    "start_iso": "2026-10-19T00:20:00.000Z",
-    "end_iso": "2026-10-19T03:30:00.000Z",
-    "date": "Monday, 19 October 2026",
-    "time": "02:20",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/cowboys-vs-packers",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/cowboys-vs-packers/2934",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/cowboys-vs-packers/2935",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/cowboys-vs-packers/2936",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Monza Cagliari",
     "category": "Monza",
     "logo": "https://cdn.img4every1.org/team/monza/logo.webp",

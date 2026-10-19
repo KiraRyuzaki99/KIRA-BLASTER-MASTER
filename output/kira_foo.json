@@ -33,95 +33,6 @@
     ]
   },
   {
-    "title": "Los Angeles Rams Arizona Cardinals",
-    "category": "Los Angeles Rams",
-    "logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
-    "start_iso": "2026-10-18T20:05:00.000Z",
-    "end_iso": "2026-10-18T23:15:00.000Z",
-    "date": "Sunday, 18 October 2026",
-    "time": "22:05",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/rams-vs-cardinals",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/rams-vs-cardinals/2929",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Los Angeles Chargers Kansas City Chiefs",
-    "category": "Los Angeles Chargers",
-    "logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
-    "start_iso": "2026-10-18T20:25:00.000Z",
-    "end_iso": "2026-10-18T23:35:00.000Z",
-    "date": "Sunday, 18 October 2026",
-    "time": "22:25",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/chargers-vs-chiefs",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/chargers-vs-chiefs/2932",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/chargers-vs-chiefs/2933",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Buffalo Bills Las Vegas Raiders",
-    "category": "Buffalo Bills",
-    "logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
-    "start_iso": "2026-10-18T20:25:00.000Z",
-    "end_iso": "2026-10-18T23:35:00.000Z",
-    "date": "Sunday, 18 October 2026",
-    "time": "22:25",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/bills-vs-raiders",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/bills-vs-raiders/2930",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/bills-vs-raiders/2931",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Dallas Cowboys Green Bay Packers",
     "category": "Dallas Cowboys",
     "logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
@@ -129,7 +40,7 @@
     "end_iso": "2026-10-19T03:30:00.000Z",
     "date": "Monday, 19 October 2026",
     "time": "02:20",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/cowboys-vs-packers",
     "servers": [
       {

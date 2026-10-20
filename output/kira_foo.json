@@ -57,6 +57,29 @@
     "servers": []
   },
   {
+    "title": "World Gymnastics Championship Gymnastics",
+    "category": "World Gymnastics Championship",
+    "logo": "https://cdn.img4every1.org/league/gymnastics/logo.webp",
+    "start_iso": "2026-10-20T18:00:00.000Z",
+    "end_iso": "2026-10-25T18:00:00.000Z",
+    "date": "Tuesday, 20 October 2026",
+    "time": "20:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/world-gymnastics-championship",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/world-gymnastics-championship/2977",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
     "title": "Wolverhampton Wanderers Portsmouth",
     "category": "Wolverhampton Wanderers",
     "logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
@@ -115,6 +138,39 @@
     "status": "next",
     "event_url": "https://pogo.pk/events/barcelona-vs-psg",
     "servers": []
+  },
+  {
+    "title": "Gillingham Port Vale",
+    "category": "Gillingham",
+    "logo": "https://cdn.img4every1.org/team/gillingham/logo.webp",
+    "start_iso": "2026-10-20T19:00:00.000Z",
+    "end_iso": "2026-10-20T21:15:00.000Z",
+    "date": "Tuesday, 20 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/gillingham-vs-port-vale",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/gillingham-vs-port-vale/2978",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/gillingham-vs-port-vale/2979",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Levante Athletic Club",

@@ -10,7 +10,7 @@
 
 ## 🚀 Caratteristiche
 
-- 🔄 **Aggiornamento automatico** ogni 2 ore via GitHub Actions
+- 🔄 **Aggiornamento automatico** da Cron via GitHub Actions
 - 📊 **Multiple fonti** di eventi sportivi
 - 🏆 **Multi-sport**: Calcio, Tennis, Basket, Baseball, Motori, Surf, Nuoto e altri
 - 📱 **Output in HTML e M3U** per visualizzare su browser o lettori IPTV

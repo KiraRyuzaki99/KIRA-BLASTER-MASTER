@@ -1,83 +1,6 @@
 <?xml version="1.0" ?>
 <playlist version="1">
   <track>
-    <title>11:00 Tennis: ATP World Tour 250 - Brussels</title>
-    <url>https://ww1.sportsonnline.click/channels/pt/sporttv2.php</url>
-  </track>
-  <track>
-    <title>13:00 Tennis: ATP World Tour 250 - Lyon</title>
-    <url>https://ww1.sportsonnline.click/channels/pt/sporttv4.php</url>
-  </track>
-  <track>
-    <title>13:00 Lille U19 x Galatasaray U19</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd4.php</url>
-  </track>
-  <track>
-    <title>15:00 Internazionale U19 x Shakhtar Donetsk U19</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd8.php</url>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd6.php</url>
-  </track>
-  <track>
-    <title>15:00 Real Madrid U19 x RB Leipzig U19</title>
-    <url>https://ww1.sportsonnline.click/channels/pt/eleven1.php</url>
-  </track>
-  <track>
-    <title>17:45 Lille x Galatasaray</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd5.php</url>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd4.php</url>
-    <url>https://ww1.sportsonnline.click/channels/pt/eleven2.php</url>
-    <url>https://ww1.sportsonnline.click/channels/bra/br6.php</url>
-  </track>
-  <track>
-    <title>17:45 Como x Manchester United</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd2.php</url>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd8.php</url>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd3.php</url>
-    <url>https://ww1.sportsonnline.click/channels/pt/eleven1.php</url>
-    <url>https://ww1.sportsonnline.click/channels/bra/br2.php</url>
-  </track>
-  <track>
-    <title>20:00 Real Madrid x RB Leipzig</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd5.php</url>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd6.php</url>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd9.php</url>
-    <url>https://ww1.sportsonnline.click/channels/pt/eleven2.php</url>
-    <url>https://ww1.sportsonnline.click/channels/bra/br1.php</url>
-  </track>
-  <track>
-    <title>20:00 Aston Villa x Viking</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd2.php</url>
-    <url>https://ww1.sportsonnline.click/channels/bra/br3.php</url>
-  </track>
-  <track>
-    <title>20:00 Bayern München x Arsenal</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd1.php</url>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd3.php</url>
-    <url>https://ww1.sportsonnline.click/channels/pt/eleven1.php</url>
-    <url>https://ww1.sportsonnline.click/channels/bra/br2.php</url>
-  </track>
-  <track>
-    <title>20:00 Sporting CP x LASK Linz</title>
-    <url>https://ww1.sportsonnline.click/channels/pt/sporttv5.php</url>
-    <url>https://ww1.sportsonnline.click/channels/bra/br4.php</url>
-  </track>
-  <track>
-    <title>20:00 Internazionale x Shakhtar Donetsk</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd11.php</url>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd7.php</url>
-    <url>https://ww1.sportsonnline.click/channels/bra/br6.php</url>
-  </track>
-  <track>
-    <title>20:00 Club Brugge x Lens</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd4.php</url>
-  </track>
-  <track>
-    <title>20:00 Real Betis x Feyenoord</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd10.php</url>
-    <url>https://ww1.sportsonnline.click/channels/pt/eleven3.php</url>
-    <url>https://ww1.sportsonnline.click/channels/bra/br5.php</url>
-  </track>
-  <track>
     <title>23:00 Torque x Atlético Mineiro</title>
     <url>https://ww1.sportsonnline.click/channels/pt/sporttv1.php</url>
     <url>https://ww1.sportsonnline.click/channels/bra/br2.php</url>
@@ -127,21 +50,10 @@
   </track>
   <additional>
     <item>HD1 ENGLISH</item>
-    <item>HD2 ENGLISH</item>
-    <item>HD3 GERMAN</item>
-    <item>HD4 FRENCH</item>
-    <item>HD5 ENGLISH</item>
-    <item>HD6 SPANISH</item>
-    <item>HD7 ITALIAN</item>
-    <item>HD8 ITALIAN</item>
-    <item>HD9 GERMAN &amp; SPANISH</item>
-    <item>HD10 ENGLISH</item>
-    <item>HD11 ENGLISH &amp; SPANISH</item>
+    <item>HD9 SPANISH</item>
+    <item>HD10 SPANISH</item>
+    <item>HD11 SPANISH</item>
     <item>BR1 BRAZILIAN</item>
     <item>BR2 BRAZILIAN</item>
-    <item>BR3 BRAZILIAN</item>
-    <item>BR4 BRAZILIAN</item>
-    <item>BR5 BRAZILIAN</item>
-    <item>BR6 BRAZILIAN</item>
   </additional>
 </playlist>

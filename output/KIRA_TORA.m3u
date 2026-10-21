@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Basketball",10:30 - Tasmania JackJumpers vs Brisbane Bullets
-https://embed.st/embed/admin/ppv-tasmania-jack-jumpers-vs-brisbane-bullets/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Basketball",10:30 - Tasmania JackJumpers vs Brisbane Bullets
-https://embed.st/embed/admin/ppv-tasmania-jack-jumpers-vs-brisbane-bullets/2#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Football",18:45 - Como vs Manchester United
 https://embed.st/embed/admin/ppv-como-vs-manchester-united/1#player=clappr&autoplay=true
 
@@ -42,6 +36,12 @@ https://embed.st/embed/admin/ppv-the-golazo-show/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:00 - The Golazo Show
 https://embed.st/embed/admin/ppv-the-golazo-show/2#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:00 - The Golazo Show
+https://embed.st/embed/golf/2497/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",20:00 - The Golazo Show
+https://embed.st/embed/golf/2497/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:00 - Levante vs Athletic Bilbao
 https://embed.st/embed/admin/ppv-levante-vs-athletic-club/1#player=clappr&autoplay=true

@@ -1,36 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",18:45 - Como vs Manchester United
-https://embed.st/embed/admin/ppv-como-vs-manchester-united/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:45 - Como vs Manchester United
-https://embed.st/embed/admin/ppv-como-vs-manchester-united/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:45 - Como vs Manchester United
-https://embed.st/embed/golf/2400/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:45 - Como vs Manchester United
-https://embed.st/embed/golf/2400/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:45 - Como vs Manchester United
-https://embed.st/embed/golf/2400/3#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:45 - Lille vs Galatasaray
-https://embed.st/embed/admin/ppv-lille-vs-galatasaray/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:45 - Lille vs Galatasaray
-https://embed.st/embed/admin/ppv-lille-vs-galatasaray/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:45 - Lille vs Galatasaray
-https://embed.st/embed/golf/2401/1#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:45 - Lille vs Galatasaray
-https://embed.st/embed/golf/2401/2#player=clappr&autoplay=true
-
-#EXTINF:-1 group-title="Football",18:45 - Lille vs Galatasaray
-https://embed.st/embed/golf/2401/3#player=clappr&autoplay=true
-
 #EXTINF:-1 group-title="Football",20:00 - The Golazo Show
 https://embed.st/embed/admin/ppv-the-golazo-show/1#player=clappr&autoplay=true
 
@@ -43,6 +13,9 @@ https://embed.st/embed/golf/2497/1#player=clappr&autoplay=true
 #EXTINF:-1 group-title="Football",20:00 - The Golazo Show
 https://embed.st/embed/golf/2497/2#player=clappr&autoplay=true
 
+#EXTINF:-1 group-title="Football",20:00 - The Golazo Show
+https://embed.st/embed/hotel/the-golazo-show-cbs-uefa-champions-league-1792605600/1#player=clappr&autoplay=true
+
 #EXTINF:-1 group-title="Football",20:00 - Levante vs Athletic Bilbao
 https://embed.st/embed/admin/ppv-levante-vs-athletic-club/1#player=clappr&autoplay=true
 
@@ -50,7 +23,10 @@ https://embed.st/embed/admin/ppv-levante-vs-athletic-club/1#player=clappr&autopl
 https://embed.st/embed/admin/ppv-levante-vs-athletic-club/2#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",20:00 - Levante vs Athletic Bilbao
-https://embed.st/embed/hotel/levante-vs-athletic-club-laliga-ea-sports-1792604100/1#player=clappr&autoplay=true
+https://embed.st/embed/hotel/levante-vs-athletic-club-laliga-ea-sports-1792605300/1#player=clappr&autoplay=true
+
+#EXTINF:-1 group-title="Football",21:00 - Goals Show Xtra (TNT)
+https://embed.st/embed/hotel/goals-show-xtra-tnt-uefa-champions-league-1792609200/1#player=clappr&autoplay=true
 
 #EXTINF:-1 group-title="Football",21:00 - Internazionale - Shakhtar Donetsk
 https://embed.st/embed/golf/2405/1#player=clappr&autoplay=true

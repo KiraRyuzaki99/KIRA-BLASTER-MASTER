@@ -1,63 +1,119 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="10:00 WTA Torneo de Ningbo - 2ª Ronda S. Cirstea - S. Bejlek" group-title="WTA Torneo de Ningbo",10:00 WTA Torneo de Ningbo - 2ª Ronda S. Cirstea - S. Bejlek
+#EXTINF:-1 tvg-name="10:00 WTA Torneo de Ningbo - 2ª Ronda A. Eala - D. Shnaider" group-title="WTA Torneo de Ningbo",10:00 WTA Torneo de Ningbo - 2ª Ronda A. Eala - D. Shnaider
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
-#EXTINF:-1 tvg-name="13:00 WTA Torneo de Ningbo - 2ª Ronda E. Alexandrova - M. Kostyuk" group-title="WTA Torneo de Ningbo",13:00 WTA Torneo de Ningbo - 2ª Ronda E. Alexandrova - M. Kostyuk
+#EXTINF:-1 tvg-name="11:00 Tour de Francia -  Gala de Presentación - Edición 2027" group-title="Tour de Francia",11:00 Tour de Francia -  Gala de Presentación - Edición 2027
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-name="13:00 WTA Torneo de Ningbo - 2ª Ronda E. Rybakina - P. Kudermetova" group-title="WTA Torneo de Ningbo",13:00 WTA Torneo de Ningbo - 2ª Ronda E. Rybakina - P. Kudermetova
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
-#EXTINF:-1 tvg-name="14:00 Youth League - Fase Liga Lille Academy - Galatasaray Academy" group-title="Youth League",14:00 Youth League - Fase Liga Lille Academy - Galatasaray Academy
-acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
-#EXTINF:-1 tvg-name="14:00 Abierto de Irlanda del Norte -  Día 4 - Segunda ronda" group-title="Abierto de Irlanda del Norte",14:00 Abierto de Irlanda del Norte -  Día 4 - Segunda ronda
+#EXTINF:-1 tvg-name="14:00 Abierto de Irlanda del Norte -  Tercera ronda" group-title="Abierto de Irlanda del Norte",14:00 Abierto de Irlanda del Norte -  Tercera ronda
 acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1 tvg-name="16:00 Youth League - Fase Liga Real Madrid Academy - RB Leipzig Academy" group-title="Youth League",16:00 Youth League - Fase Liga Real Madrid Academy - RB Leipzig Academy
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-name="16:00 Youth League - Fase Liga Inter Milan Academy - Shakhtar Academy" group-title="Youth League",16:00 Youth League - Fase Liga Inter Milan Academy - Shakhtar Academy
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-name="18:00 Euroliga - Liga Regular Hapoel Tel Aviv BC - Virtus Bologna" group-title="Euroliga",18:00 Euroliga - Liga Regular Hapoel Tel Aviv BC - Virtus Bologna
-acestream://7b0193004089d4d29821a5cdf17f407d0d192314
-#EXTINF:-1 tvg-name="18:45 Champions - Fase Liga Lille - Galatasaray" group-title="Champions",18:45 Champions - Fase Liga Lille - Galatasaray
-acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
-#EXTINF:-1 tvg-name="18:45 Champions - Fase Liga Como 1907 - Manchester Utd." group-title="Champions",18:45 Champions - Fase Liga Como 1907 - Manchester Utd.
+#EXTINF:-1 tvg-name="16:30 Conference - Fase Liga FC Kairat - Panathinaikos" group-title="Conference",16:30 Conference - Fase Liga FC Kairat - Panathinaikos
 acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
-#EXTINF:-1 tvg-name="19:00 Eurocup - Liga Regular Derthona Basket - San Pablo Burgos" group-title="Eurocup",19:00 Eurocup - Liga Regular Derthona Basket - San Pablo Burgos
-acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
-#EXTINF:-1 tvg-name="19:30 Eurocup - Liga Regular Fraport Skyliners - La Laguna Tenerife" group-title="Eurocup",19:30 Eurocup - Liga Regular Fraport Skyliners - La Laguna Tenerife
-acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
-#EXTINF:-1 tvg-name="19:30 Euroliga Fem - Liga Regular Athinaikos - Casademont Zaragoza" group-title="Euroliga Fem",19:30 Euroliga Fem - Liga Regular Athinaikos - Casademont Zaragoza
-acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
-#EXTINF:-1 tvg-name="19:35 Abierto de Irlanda del Norte -  Final equipos" group-title="Abierto de Irlanda del Norte",19:35 Abierto de Irlanda del Norte -  Final equipos
+#EXTINF:-1 tvg-name="17:00 Conference - Fase Liga España - Australia" group-title="Conference",17:00 Conference - Fase Liga España - Australia
 acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="20:00 Primera -  Levante - Athletic Club" group-title="Primera",20:00 Primera -  Levante - Athletic Club
-acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1 tvg-name="20:00 Champions - Liga Regular Joventut Badalona - Telekom Baskets Bonn" group-title="Champions",20:00 Champions - Liga Regular Joventut Badalona - Telekom Baskets Bonn
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="20:00 Euroliga Fem - Liga Regular Valencia Basket - Carolo Basket" group-title="Euroliga Fem",20:00 Euroliga Fem - Liga Regular Valencia Basket - Carolo Basket
-acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884
-#EXTINF:-1 tvg-name="21:00 Champions - Fase Liga Real Betis - Feyenoord" group-title="Champions",21:00 Champions - Fase Liga Real Betis - Feyenoord
-acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
-#EXTINF:-1 tvg-name="21:00 Champions - Fase Liga Inter Milan - Shakhtar Donetsk" group-title="Champions",21:00 Champions - Fase Liga Inter Milan - Shakhtar Donetsk
-acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-name="21:00 Champions - Fase Liga Real Madrid - RB Leipzig" group-title="Champions",21:00 Champions - Fase Liga Real Madrid - RB Leipzig
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 tvg-name="21:00 Champions - Fase Liga Aston Villa - Viking FK" group-title="Champions",21:00 Champions - Fase Liga Aston Villa - Viking FK
-acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-name="21:00 Champions - Fase Liga FC Bayern - Arsenal" group-title="Champions",21:00 Champions - Fase Liga FC Bayern - Arsenal
-acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
-#EXTINF:-1 tvg-name="21:00 Champions - Fase Liga Sporting CP - LASK Linz" group-title="Champions",21:00 Champions - Fase Liga Sporting CP - LASK Linz
-acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-name="21:00 Champions - Fase Liga Club Brugge - Lens" group-title="Champions",21:00 Champions - Fase Liga Club Brugge - Lens
-acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-name="00:00 Copa Sudamericana - Semifinales Montevideo City Torque - Atlético Mineiro" group-title="Copa Sudamericana",00:00 Copa Sudamericana - Semifinales Montevideo City Torque - Atlético Mineiro
-acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884
-#EXTINF:-1 tvg-name="01:30 NBA - Liga Regular Miami Heat - Minnesota Timberwolves" group-title="NBA",01:30 NBA - Liga Regular Miami Heat - Minnesota Timberwolves
-acestream://6fbd92735502bdebbf1ea58f4298e49759c0cf07
-#EXTINF:-1 tvg-name="02:00 WNBA - Final Atlanta Dream - Golden State Valkyries" group-title="WNBA",02:00 WNBA - Final Atlanta Dream - Golden State Valkyries
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="02:30 Copa Libertadores - Semifinales Palmeiras - Fluminense" group-title="Copa Libertadores",02:30 Copa Libertadores - Semifinales Palmeiras - Fluminense
+#EXTINF:-1 tvg-name="18:30 Eurocup Women - Liga Regular BC Montana 2003 - Spar Girona" group-title="Eurocup Women",18:30 Eurocup Women - Liga Regular BC Montana 2003 - Spar Girona
+acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
+#EXTINF:-1 tvg-name="18:45 Conference - Fase Liga Getafe - Lugano" group-title="Conference",18:45 Conference - Fase Liga Getafe - Lugano
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-name="04:00 NBA - Liga Regular Los Angeles Lakers - Golden State Warriors" group-title="NBA",04:00 NBA - Liga Regular Los Angeles Lakers - Golden State Warriors
-acestream://853129258a5cb51f27829eddb934e58b45978344
-#EXTINF:-1 tvg-name="04:00 BMW Ladies Championship -  Jornada 1" group-title="BMW Ladies Championship",04:00 BMW Ladies Championship -  Jornada 1
-acestream://882074140fca664e119a43294afa2fb4a64917ef
-#EXTINF:-1 tvg-name="05:00 Genesis Championship -  Jornada 1" group-title="Genesis Championship",05:00 Genesis Championship -  Jornada 1
+#EXTINF:-1 tvg-name="18:45 Conference - Fase Liga Trabzonspor - Hearts" group-title="Conference",18:45 Conference - Fase Liga Trabzonspor - Hearts
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="18:45 Conference - Fase Liga FKB Jablonec - Brighton" group-title="Conference",18:45 Conference - Fase Liga FKB Jablonec - Brighton
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="18:45 Conference - Fase Liga Nordsjælland - CSKA Sofia" group-title="Conference",18:45 Conference - Fase Liga Nordsjælland - CSKA Sofia
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="18:45 Conference - Fase Liga Crvena Zvezda - København" group-title="Conference",18:45 Conference - Fase Liga Crvena Zvezda - København
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="18:45 Conference - Fase Liga Inter Club d'Escaldes - FCU Craiova 1948" group-title="Conference",18:45 Conference - Fase Liga Inter Club d'Escaldes - FCU Craiova 1948
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="18:45 Conference - Fase Liga Pafos FC - Riga FC" group-title="Conference",18:45 Conference - Fase Liga Pafos FC - Riga FC
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="18:45 Conference - Fase Liga FC Iberia 1999 - Mjällby AIF" group-title="Conference",18:45 Conference - Fase Liga FC Iberia 1999 - Mjällby AIF
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="18:45 Conference - Fase Liga Kauno Žalgiris - SK Brann" group-title="Conference",18:45 Conference - Fase Liga Kauno Žalgiris - SK Brann
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="18:45 Europa League - Fase Liga Juventus - Rennes" group-title="Europa League",18:45 Europa League - Fase Liga Juventus - Rennes
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="18:45 Europa League - Fase Liga Sturm Graz - O. Marseille" group-title="Europa League",18:45 Europa League - Fase Liga Sturm Graz - O. Marseille
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="18:45 Europa League - Fase Liga GNK Dinamo Zagreb - NEC Nijmegen" group-title="Europa League",18:45 Europa League - Fase Liga GNK Dinamo Zagreb - NEC Nijmegen
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="18:45 Europa League - Fase Liga Ferencvaros - SCU Torreense" group-title="Europa League",18:45 Europa League - Fase Liga Ferencvaros - SCU Torreense
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="18:45 Europa League - Fase Liga OFI Creta - Bayer Leverkusen" group-title="Europa League",18:45 Europa League - Fase Liga OFI Creta - Bayer Leverkusen
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="18:45 Europa League - Fase Liga Lech Poznan - Sunderland" group-title="Europa League",18:45 Europa League - Fase Liga Lech Poznan - Sunderland
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="18:45 Europa League - Fase Liga Saint-Gilloise - Hapoel Beer Sheva" group-title="Europa League",18:45 Europa League - Fase Liga Saint-Gilloise - Hapoel Beer Sheva
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="18:45 Europa League - Fase Liga FC Ararat-Armenia - AZ Alkmaar" group-title="Europa League",18:45 Europa League - Fase Liga FC Ararat-Armenia - AZ Alkmaar
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="19:00 Bermuda Championship -  Jornada 1" group-title="Bermuda Championship",19:00 Bermuda Championship -  Jornada 1
 acestream://872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 tvg-name="07:05 WTA Torneo de Ningbo -  2ª Ronda - WTA 500" group-title="WTA Torneo de Ningbo",07:05 WTA Torneo de Ningbo -  2ª Ronda - WTA 500
+#EXTINF:-1 tvg-name="19:35 Abierto de Irlanda del Norte -  All Around M" group-title="Abierto de Irlanda del Norte",19:35 Abierto de Irlanda del Norte -  All Around M
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-name="20:05 Euroliga - Liga Regular Maccabi Tel Aviv BC - Real Madrid Baloncesto" group-title="Euroliga",20:05 Euroliga - Liga Regular Maccabi Tel Aviv BC - Real Madrid Baloncesto
+acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
+#EXTINF:-1 tvg-name="20:15 Euroliga - Liga Regular Panathinaikos BC - Baskonia" group-title="Euroliga",20:15 Euroliga - Liga Regular Panathinaikos BC - Baskonia
+acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
+#EXTINF:-1 tvg-name="20:30 Euroliga - Liga Regular AX Olimpia Milano - Barça Basket" group-title="Euroliga",20:30 Euroliga - Liga Regular AX Olimpia Milano - Barça Basket
+acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
+#EXTINF:-1 tvg-name="20:45 Euroliga - Liga Regular BC Partizan Beograd - Crvena Zvezda MTS Belgrade" group-title="Euroliga",20:45 Euroliga - Liga Regular BC Partizan Beograd - Crvena Zvezda MTS Belgrade
+acestream://7b0193004089d4d29821a5cdf17f407d0d192314
+#EXTINF:-1 tvg-name="20:45 EHF Champions League - Fase de grupos Barça BM - Montpellier HB" group-title="EHF Champions League",20:45 EHF Champions League - Fase de grupos Barça BM - Montpellier HB
+acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
+#EXTINF:-1 tvg-name="21:00 Conference - Fase Liga Ajax - Atalanta" group-title="Conference",21:00 Conference - Fase Liga Ajax - Atalanta
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="21:00 Conference - Fase Liga SC Braga - Gent" group-title="Conference",21:00 Conference - Fase Liga SC Braga - Gent
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="21:00 Conference - Fase Liga AS Monaco - Freiburg" group-title="Conference",21:00 Conference - Fase Liga AS Monaco - Freiburg
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="21:00 Conference - Fase Liga FC Thun - Hajduk Split" group-title="Conference",21:00 Conference - Fase Liga FC Thun - Hajduk Split
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="21:00 Conference - Fase Liga FC Midtjylland - Sint-Truiden VV" group-title="Conference",21:00 Conference - Fase Liga FC Midtjylland - Sint-Truiden VV
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="21:00 Conference - Fase Liga Lincoln Red Imps - Twente" group-title="Conference",21:00 Conference - Fase Liga Lincoln Red Imps - Twente
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="21:00 Conference - Fase Liga AGF Aarhus - Klubi Sportiv Egnatia" group-title="Conference",21:00 Conference - Fase Liga AGF Aarhus - Klubi Sportiv Egnatia
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="21:00 Conference - Fase Liga Borac Banja Luka - KuPS" group-title="Conference",21:00 Conference - Fase Liga Borac Banja Luka - KuPS
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga Hoffenheim - O. Lyonnais" group-title="Europa League",21:00 Europa League - Fase Liga Hoffenheim - O. Lyonnais
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga Celtic FC - Celta" group-title="Europa League",21:00 Europa League - Fase Liga Celtic FC - Celta
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga Olympiacos - Sparta Praha" group-title="Europa League",21:00 Europa League - Fase Liga Olympiacos - Sparta Praha
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga Viktoria Plzen - Levski Sofia" group-title="Europa League",21:00 Europa League - Fase Liga Viktoria Plzen - Levski Sofia
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga Bournemouth - AC Milan" group-title="Europa League",21:00 Europa League - Fase Liga Bournemouth - AC Milan
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga Besiktas - Crystal Palace" group-title="Europa League",21:00 Europa League - Fase Liga Besiktas - Crystal Palace
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga AC Omonia - Benfica" group-title="Europa League",21:00 Europa League - Fase Liga AC Omonia - Benfica
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga Jagiellonia Bialystok - Anderlecht" group-title="Europa League",21:00 Europa League - Fase Liga Jagiellonia Bialystok - Anderlecht
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga NK Celje - Red Bull Salzburg" group-title="Europa League",21:00 Europa League - Fase Liga NK Celje - Red Bull Salzburg
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="21:00 Europa League - Fase Liga Lillestrøm SK - Real Sociedad" group-title="Europa League",21:00 Europa League - Fase Liga Lillestrøm SK - Real Sociedad
+acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+#EXTINF:-1 tvg-name="23:30 F1 Academy - G.P. Estados Unidos (Austin) Clasificación" group-title="F1 Academy",23:30 F1 Academy - G.P. Estados Unidos (Austin) Clasificación
+acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-name="01:00 NBA - Liga Regular Philadelphia 76ers - Cleveland Cavaliers" group-title="NBA",01:00 NBA - Liga Regular Philadelphia 76ers - Cleveland Cavaliers
+acestream://6fbd92735502bdebbf1ea58f4298e49759c0cf07
+#EXTINF:-1 tvg-name="01:45 MotoGP - G.P. Australia (Phillip Island) Libres 1" group-title="MotoGP",01:45 MotoGP - G.P. Australia (Phillip Island) Libres 1
+acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
+#EXTINF:-1 tvg-name="02:15 NFL - Liga Regular Chicago Bears - New England Patriots" group-title="NFL",02:15 NFL - Liga Regular Chicago Bears - New England Patriots
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-name="02:30 Copa Libertadores - Semifinales CR Flamengo - Estudiantes LP" group-title="Copa Libertadores",02:30 Copa Libertadores - Semifinales CR Flamengo - Estudiantes LP
+acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
+#EXTINF:-1 tvg-name="03:30 NBA - Liga Regular Oklahoma C. Thunder - Denver Nuggets" group-title="NBA",03:30 NBA - Liga Regular Oklahoma C. Thunder - Denver Nuggets
+acestream://853129258a5cb51f27829eddb934e58b45978344
+#EXTINF:-1 tvg-name="04:00 BMW Ladies Championship -  Jornada 2" group-title="BMW Ladies Championship",04:00 BMW Ladies Championship -  Jornada 2
+acestream://882074140fca664e119a43294afa2fb4a64917ef
+#EXTINF:-1 tvg-name="05:00 Genesis Championship -  Jornada 2" group-title="Genesis Championship",05:00 Genesis Championship -  Jornada 2
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 tvg-name="06:00 MotoGP - G.P. Australia (Phillip Island) Libres" group-title="MotoGP",06:00 MotoGP - G.P. Australia (Phillip Island) Libres
+acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
+#EXTINF:-1 tvg-name="07:05 WTA Torneo de Ningbo -  1/4 de Final - WTA 500" group-title="WTA Torneo de Ningbo",07:05 WTA Torneo de Ningbo -  1/4 de Final - WTA 500
 acestream://a4cbadd19442b800727be713270fa9c917cc8582

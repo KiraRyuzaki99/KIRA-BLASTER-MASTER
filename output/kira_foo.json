@@ -80,10 +80,10 @@
     "category": "World Gymnastics Championship",
     "logo": "https://cdn.img4every1.org/league/gymnastics/logo.webp",
     "start_iso": "2026-10-22T16:00:00.000Z",
-    "end_iso": "2026-10-25T18:00:00.000Z",
+    "end_iso": "2026-10-22T18:00:00.000Z",
     "date": "Thursday, 22 October 2026",
     "time": "18:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/world-gymnastics-championship",
     "servers": [
       {
@@ -106,9 +106,50 @@
     "end_iso": "2026-10-22T19:00:00.000Z",
     "date": "Thursday, 22 October 2026",
     "time": "18:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/juventus-vs-rennes",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/juventus-vs-rennes/3058",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/juventus-vs-rennes/3059",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/juventus-vs-rennes/3060",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Italiano",
+        "url": "https://playerdee.top/alpha/juventus-vs-rennes/3062",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Italiano"
+        }
+      }
+    ]
   },
   {
     "title": "Sunderland Lech Poznan",
@@ -118,9 +159,20 @@
     "end_iso": "2026-10-22T19:00:00.000Z",
     "date": "Thursday, 22 October 2026",
     "time": "18:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/sunderland-vs-lech-poznan",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/sunderland-vs-lech-poznan/3061",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "OFI Bayer Leverkusen",
@@ -130,21 +182,30 @@
     "end_iso": "2026-10-22T19:00:00.000Z",
     "date": "Thursday, 22 October 2026",
     "time": "18:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/ofi-vs-bayer-leverkusen",
-    "servers": []
-  },
-  {
-    "title": "Olympique Marseille Sturm Graz",
-    "category": "Olympique Marseille",
-    "logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
-    "start_iso": "2026-10-22T16:45:00.000Z",
-    "end_iso": "2026-10-22T19:00:00.000Z",
-    "date": "Thursday, 22 October 2026",
-    "time": "18:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/marseille-vs-sturm-graz",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/ofi-vs-bayer-leverkusen/3063",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/ofi-vs-bayer-leverkusen/3064",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Brighton & Hove Albion Jablonec",
@@ -154,7 +215,7 @@
     "end_iso": "2026-10-22T19:00:00.000Z",
     "date": "Thursday, 22 October 2026",
     "time": "18:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/brighton-vs-jablonec",
     "servers": [
       {
@@ -177,7 +238,7 @@
     "end_iso": "2026-10-22T19:00:00.000Z",
     "date": "Thursday, 22 October 2026",
     "time": "18:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/hearts-vs-trabzonspor",
     "servers": [
       {
@@ -193,6 +254,92 @@
     ]
   },
   {
+    "title": "Olympique Marseille Sturm Graz",
+    "category": "Olympique Marseille",
+    "logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
+    "start_iso": "2026-10-22T16:45:00.000Z",
+    "end_iso": "2026-10-22T19:00:00.000Z",
+    "date": "Thursday, 22 October 2026",
+    "time": "18:45",
+    "status": "live",
+    "event_url": "https://pogo.pk/events/marseille-vs-sturm-graz",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/marseille-vs-sturm-graz/3069",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Français",
+        "url": "https://playerdee.top/alpha/marseille-vs-sturm-graz/3070",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Français"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/marseille-vs-sturm-graz/3077",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "f1 United States Grand Prix Formula 1",
+    "category": "f1 United States Grand Prix",
+    "logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+    "start_iso": "2026-10-22T17:00:00.000Z",
+    "end_iso": "2026-10-25T23:30:00.000Z",
+    "date": "Thursday, 22 October 2026",
+    "time": "19:00",
+    "status": "live",
+    "event_url": "https://pogo.pk/events/f1-united-states-grand-prix",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/f1-united-states-grand-prix/3054",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/f1-united-states-grand-prix/3055",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/f1-united-states-grand-prix/3056",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
+  },
+  {
     "title": "AFC Bournemouth AC Milan",
     "category": "AFC Bournemouth",
     "logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
@@ -202,7 +349,38 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/bournemouth-vs-milan",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bournemouth-vs-milan/3066",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bournemouth-vs-milan/3067",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Italiano",
+        "url": "https://playerdee.top/alpha/bournemouth-vs-milan/3068",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Italiano"
+        }
+      }
+    ]
   },
   {
     "title": "Celtic Celta de Vigo",
@@ -214,7 +392,196 @@
     "time": "21:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/celtic-vs-celta-vigo",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/celtic-vs-celta-vigo/3074",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Crystal Palace Besiktas",
+    "category": "Crystal Palace",
+    "logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+    "start_iso": "2026-10-22T19:00:00.000Z",
+    "end_iso": "2026-10-22T21:15:00.000Z",
+    "date": "Thursday, 22 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/crystal-palace-vs-besiktas",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/crystal-palace-vs-besiktas/3075",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Olympique Lyonnais Hoffenheim",
+    "category": "Olympique Lyonnais",
+    "logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+    "start_iso": "2026-10-22T19:00:00.000Z",
+    "end_iso": "2026-10-22T21:15:00.000Z",
+    "date": "Thursday, 22 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/lyon-vs-hoffenheim",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/lyon-vs-hoffenheim/3076",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Benfica Omonia Nicosia",
+    "category": "Benfica",
+    "logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
+    "start_iso": "2026-10-22T19:00:00.000Z",
+    "end_iso": "2026-10-22T21:15:00.000Z",
+    "date": "Thursday, 22 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/benfica-vs-omonia-nicosia",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/benfica-vs-omonia-nicosia/3065",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/benfica-vs-omonia-nicosia/3080",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Real Sociedad Lillestrøm",
+    "category": "Real Sociedad",
+    "logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+    "start_iso": "2026-10-22T19:00:00.000Z",
+    "end_iso": "2026-10-22T21:15:00.000Z",
+    "date": "Thursday, 22 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/real-sociedad-vs-lillestr-m",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-sociedad-vs-lillestr-m/3073",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-sociedad-vs-lillestr-m/3078",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "AS Monaco Freiburg",
+    "category": "AS Monaco",
+    "logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
+    "start_iso": "2026-10-22T19:00:00.000Z",
+    "end_iso": "2026-10-22T21:15:00.000Z",
+    "date": "Thursday, 22 October 2026",
+    "time": "21:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/monaco-vs-freiburg",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/monaco-vs-freiburg/3071",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Français",
+        "url": "https://playerdee.top/alpha/monaco-vs-freiburg/3072",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Français"
+        }
+      },
+      {
+        "label": "Deutsch",
+        "url": "https://playerdee.top/alpha/monaco-vs-freiburg/3079",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
+        }
+      }
+    ]
+  },
+  {
+    "title": "MotoGP Australian Grand Prix MotoGP",
+    "category": "MotoGP Australian Grand Prix",
+    "logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+    "start_iso": "2026-10-22T22:00:00.000Z",
+    "end_iso": "2026-10-25T05:00:00.000Z",
+    "date": "Friday, 23 October 2026",
+    "time": "00:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/australian-grand-prix",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/australian-grand-prix/3057",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Stuttgart Borussia M'gladbach",

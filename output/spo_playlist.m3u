@@ -1,47 +1,146 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA SPO - Playlist
 
-#EXTINF:-1 group-title="SPO",21/10/2026 23:00 - Torque x Atlético Mineiro - sporttv1
-https://ww1.sportsonnline.click/channels/pt/sporttv1.php
-
-#EXTINF:-1 group-title="SPO",21/10/2026 23:00 - Torque x Atlético Mineiro - br2
-https://ww1.sportsonnline.click/channels/bra/br2.php
-
-#EXTINF:-1 group-title="SPO",21/10/2026 00:15 - Inter Bogotá x Fortaleza CEIF - hd9
-https://ww1.sportsonnline.click/channels/hd/hd9.php
-
-#EXTINF:-1 group-title="SPO",21/10/2026 00:30 - Cúcuta Deportivo x Atlético Nacional - hd9
-https://ww1.sportsonnline.click/channels/hd/hd9.php
-
-#EXTINF:-1 group-title="SPO",21/10/2026 00:30 - NBA: Minnesota Timberwolves @ Miami Heat - hd1
-https://ww1.sportsonnline.click/channels/hd/hd1.php
-
-#EXTINF:-1 group-title="SPO",21/10/2026 00:30 - NBA: Minnesota Timberwolves @ Miami Heat - sporttv2
+#EXTINF:-1 group-title="SPO",22/10/2026 11:30 - Tennis: ATP World Tour 250 - Brussels - sporttv2
 https://ww1.sportsonnline.click/channels/pt/sporttv2.php
 
-#EXTINF:-1 group-title="SPO",21/10/2026 01:30 - Palmeiras x Fluminense - sporttv1
-https://ww1.sportsonnline.click/channels/pt/sporttv1.php
-
-#EXTINF:-1 group-title="SPO",21/10/2026 01:30 - Palmeiras x Fluminense - br1
-https://ww1.sportsonnline.click/channels/bra/br1.php
-
-#EXTINF:-1 group-title="SPO",21/10/2026 02:00 - Atlas x América - hd11
-https://ww1.sportsonnline.click/channels/hd/hd11.php
-
-#EXTINF:-1 group-title="SPO",21/10/2026 02:00 - Toluca x Tijuana - hd10
-https://ww1.sportsonnline.click/channels/hd/hd10.php
-
-#EXTINF:-1 group-title="SPO",21/10/2026 02:30 - Millonarios x Once Caldas - hd9
-https://ww1.sportsonnline.click/channels/hd/hd9.php
-
-#EXTINF:-1 group-title="SPO",21/10/2026 03:00 - NBA: Golden State Warriors @ Los Angeles Lakers - hd1
-https://ww1.sportsonnline.click/channels/hd/hd1.php
-
-#EXTINF:-1 group-title="SPO",21/10/2026 03:00 - NBA: Golden State Warriors @ Los Angeles Lakers - sporttv2
-https://ww1.sportsonnline.click/channels/pt/sporttv2.php
-
-#EXTINF:-1 group-title="SPO",21/10/2026 04:00 - Golf: DP World Tour - Genesis Championship D1 - sporttv3
+#EXTINF:-1 group-title="SPO",22/10/2026 13:00 - Tennis: ATP World Tour 250 - Lyon - sporttv3
 https://ww1.sportsonnline.click/channels/pt/sporttv3.php
 
-#EXTINF:-1 group-title="SPO",21/10/2026 04:10 - Santos Laguna x Pumas UNAM - hd11
+#EXTINF:-1 group-title="SPO",22/10/2026 15:30 - Kairat x Panathinaikos - hd10
+https://ww1.sportsonnline.click/channels/hd/hd10.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 15:30 - Kairat x Panathinaikos - eleven2
+https://ww1.sportsonnline.click/channels/pt/eleven2.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 17:45 - Lech Poznań x Sunderland - hd1
+https://ww1.sportsonnline.click/channels/hd/hd1.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 17:45 - Lech Poznań x Sunderland - eleven3
+https://ww1.sportsonnline.click/channels/pt/eleven3.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 17:45 - Jablonec x Brighton & Hove Albion - hd2
+https://ww1.sportsonnline.click/channels/hd/hd2.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 17:45 - Ferencváros x Torreense - eleven1
+https://ww1.sportsonnline.click/channels/pt/eleven1.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 17:45 - Juventus x Rennes - hd11
 https://ww1.sportsonnline.click/channels/hd/hd11.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 17:45 - Juventus x Rennes - hd7
+https://ww1.sportsonnline.click/channels/hd/hd7.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 17:45 - Juventus x Rennes - eleven2
+https://ww1.sportsonnline.click/channels/pt/eleven2.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 17:45 - Dinamo Zagreb x NEC - hd10
+https://ww1.sportsonnline.click/channels/hd/hd10.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 17:45 - Ararat-Armenia x AZ - hd9
+https://ww1.sportsonnline.click/channels/hd/hd9.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 17:45 - OFI x Bayer Leverkusen - hd3
+https://ww1.sportsonnline.click/channels/hd/hd3.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 17:45 - Sturm Graz x Olympique Marseille - hd4
+https://ww1.sportsonnline.click/channels/hd/hd4.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 17:45 - Trabzonspor x Hearts - hd5
+https://ww1.sportsonnline.click/channels/hd/hd5.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 17:45 - Getafe x Lugano - hd6
+https://ww1.sportsonnline.click/channels/hd/hd6.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 17:45 - Crvena Zvezda x København - hd8
+https://ww1.sportsonnline.click/channels/hd/hd8.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 20:00 - AFC Bournemouth x Milan - hd1
+https://ww1.sportsonnline.click/channels/hd/hd1.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 20:00 - AFC Bournemouth x Milan - hd7
+https://ww1.sportsonnline.click/channels/hd/hd7.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 20:00 - AFC Bournemouth x Milan - eleven2
+https://ww1.sportsonnline.click/channels/pt/eleven2.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 20:00 - Sporting Braga x Gent - eleven1
+https://ww1.sportsonnline.click/channels/pt/eleven1.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 20:00 - Celtic x Celta de Vigo - hd5
+https://ww1.sportsonnline.click/channels/hd/hd5.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 20:00 - Celtic x Celta de Vigo - hd6
+https://ww1.sportsonnline.click/channels/hd/hd6.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 20:00 - Celtic x Celta de Vigo - eleven3
+https://ww1.sportsonnline.click/channels/pt/eleven3.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 20:00 - Ajax x Atalanta - hd10
+https://ww1.sportsonnline.click/channels/hd/hd10.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 20:00 - Lincoln Red Imps x Twente - hd9
+https://ww1.sportsonnline.click/channels/hd/hd9.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 20:00 - Monaco x Freiburg - hd4
+https://ww1.sportsonnline.click/channels/hd/hd4.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 20:00 - Beşiktaş x Crystal Palace - hd2
+https://ww1.sportsonnline.click/channels/hd/hd2.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 20:00 - Hoffenheim x Olympique Lyonnais - hd11
+https://ww1.sportsonnline.click/channels/hd/hd11.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 20:00 - Omonia Nicosia x Benfica - sporttv5
+https://ww1.sportsonnline.click/channels/pt/sporttv5.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 20:00 - Celje x Salzburg - hd3
+https://ww1.sportsonnline.click/channels/hd/hd3.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 23:00 - MotoGP: Australia FP - hd2
+https://ww1.sportsonnline.click/channels/hd/hd2.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 23:00 - MotoGP: Australia FP - sporttv4
+https://ww1.sportsonnline.click/channels/pt/sporttv4.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 23:00 - MotoGP: Australia FP - br6
+https://ww1.sportsonnline.click/channels/bra/br6.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 00:00 - NBA: Cleveland Cavaliers @ Philadelphia 76ers - hd11
+https://ww1.sportsonnline.click/channels/hd/hd11.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 00:00 - NBA: Cleveland Cavaliers @ Philadelphia 76ers - sporttv1
+https://ww1.sportsonnline.click/channels/pt/sporttv1.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 00:00 - NFL: Patriots @ Bears - hd1
+https://ww1.sportsonnline.click/channels/hd/hd1.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 01:30 - Flamengo x Estudiantes - hd5
+https://ww1.sportsonnline.click/channels/hd/hd5.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 01:30 - Flamengo x Estudiantes - sporttv2
+https://ww1.sportsonnline.click/channels/pt/sporttv2.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 01:30 - Flamengo x Estudiantes - br2
+https://ww1.sportsonnline.click/channels/bra/br2.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 02:00 - Atlético Nacional x Deportivo Pasto - hd9
+https://ww1.sportsonnline.click/channels/hd/hd9.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 02:30 - NBA: Denver Nuggets @ Oklahoma City Thunder - hd11
+https://ww1.sportsonnline.click/channels/hd/hd11.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 02:30 - NBA: Denver Nuggets @ Oklahoma City Thunder - sporttv1
+https://ww1.sportsonnline.click/channels/pt/sporttv1.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 03:15 - MotoGP: Australia Practice - hd2
+https://ww1.sportsonnline.click/channels/hd/hd2.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 03:15 - MotoGP: Australia Practice - sporttv4
+https://ww1.sportsonnline.click/channels/pt/sporttv4.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 03:15 - MotoGP: Australia Practice - br6
+https://ww1.sportsonnline.click/channels/bra/br6.php
+
+#EXTINF:-1 group-title="SPO",22/10/2026 04:00 - Golf: DP World Tour - Genesis D2 - sporttv2
+https://ww1.sportsonnline.click/channels/pt/sporttv2.php

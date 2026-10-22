@@ -1,59 +1,162 @@
 <?xml version="1.0" ?>
 <playlist version="1">
   <track>
-    <title>23:00 Torque x Atlético Mineiro</title>
-    <url>https://ww1.sportsonnline.click/channels/pt/sporttv1.php</url>
-    <url>https://ww1.sportsonnline.click/channels/bra/br2.php</url>
-  </track>
-  <track>
-    <title>00:15 Inter Bogotá x Fortaleza CEIF</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd9.php</url>
-  </track>
-  <track>
-    <title>00:30 Cúcuta Deportivo x Atlético Nacional</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd9.php</url>
-  </track>
-  <track>
-    <title>00:30 NBA: Minnesota Timberwolves @ Miami Heat</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd1.php</url>
+    <title>11:30 Tennis: ATP World Tour 250 - Brussels</title>
     <url>https://ww1.sportsonnline.click/channels/pt/sporttv2.php</url>
   </track>
   <track>
-    <title>01:30 Palmeiras x Fluminense</title>
-    <url>https://ww1.sportsonnline.click/channels/pt/sporttv1.php</url>
-    <url>https://ww1.sportsonnline.click/channels/bra/br1.php</url>
-  </track>
-  <track>
-    <title>02:00 Atlas x América</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd11.php</url>
-  </track>
-  <track>
-    <title>02:00 Toluca x Tijuana</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd10.php</url>
-  </track>
-  <track>
-    <title>02:30 Millonarios x Once Caldas</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd9.php</url>
-  </track>
-  <track>
-    <title>03:00 NBA: Golden State Warriors @ Los Angeles Lakers</title>
-    <url>https://ww1.sportsonnline.click/channels/hd/hd1.php</url>
-    <url>https://ww1.sportsonnline.click/channels/pt/sporttv2.php</url>
-  </track>
-  <track>
-    <title>04:00 Golf: DP World Tour - Genesis Championship D1</title>
+    <title>13:00 Tennis: ATP World Tour 250 - Lyon</title>
     <url>https://ww1.sportsonnline.click/channels/pt/sporttv3.php</url>
   </track>
   <track>
-    <title>04:10 Santos Laguna x Pumas UNAM</title>
+    <title>15:30 Kairat x Panathinaikos</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd10.php</url>
+    <url>https://ww1.sportsonnline.click/channels/pt/eleven2.php</url>
+  </track>
+  <track>
+    <title>17:45 Lech Poznań x Sunderland</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd1.php</url>
+    <url>https://ww1.sportsonnline.click/channels/pt/eleven3.php</url>
+  </track>
+  <track>
+    <title>17:45 Jablonec x Brighton &amp; Hove Albion</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd2.php</url>
+  </track>
+  <track>
+    <title>17:45 Ferencváros x Torreense</title>
+    <url>https://ww1.sportsonnline.click/channels/pt/eleven1.php</url>
+  </track>
+  <track>
+    <title>17:45 Juventus x Rennes</title>
     <url>https://ww1.sportsonnline.click/channels/hd/hd11.php</url>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd7.php</url>
+    <url>https://ww1.sportsonnline.click/channels/pt/eleven2.php</url>
+  </track>
+  <track>
+    <title>17:45 Dinamo Zagreb x NEC</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd10.php</url>
+  </track>
+  <track>
+    <title>17:45 Ararat-Armenia x AZ</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd9.php</url>
+  </track>
+  <track>
+    <title>17:45 OFI x Bayer Leverkusen</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd3.php</url>
+  </track>
+  <track>
+    <title>17:45 Sturm Graz x Olympique Marseille</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd4.php</url>
+  </track>
+  <track>
+    <title>17:45 Trabzonspor x Hearts</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd5.php</url>
+  </track>
+  <track>
+    <title>17:45 Getafe x Lugano</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd6.php</url>
+  </track>
+  <track>
+    <title>17:45 Crvena Zvezda x København</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd8.php</url>
+  </track>
+  <track>
+    <title>20:00 AFC Bournemouth x Milan</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd1.php</url>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd7.php</url>
+    <url>https://ww1.sportsonnline.click/channels/pt/eleven2.php</url>
+  </track>
+  <track>
+    <title>20:00 Sporting Braga x Gent</title>
+    <url>https://ww1.sportsonnline.click/channels/pt/eleven1.php</url>
+  </track>
+  <track>
+    <title>20:00 Celtic x Celta de Vigo</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd5.php</url>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd6.php</url>
+    <url>https://ww1.sportsonnline.click/channels/pt/eleven3.php</url>
+  </track>
+  <track>
+    <title>20:00 Ajax x Atalanta</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd10.php</url>
+  </track>
+  <track>
+    <title>20:00 Lincoln Red Imps x Twente</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd9.php</url>
+  </track>
+  <track>
+    <title>20:00 Monaco x Freiburg</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd4.php</url>
+  </track>
+  <track>
+    <title>20:00 Beşiktaş x Crystal Palace</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd2.php</url>
+  </track>
+  <track>
+    <title>20:00 Hoffenheim x Olympique Lyonnais</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd11.php</url>
+  </track>
+  <track>
+    <title>20:00 Omonia Nicosia x Benfica</title>
+    <url>https://ww1.sportsonnline.click/channels/pt/sporttv5.php</url>
+  </track>
+  <track>
+    <title>20:00 Celje x Salzburg</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd3.php</url>
+  </track>
+  <track>
+    <title>23:00 MotoGP: Australia FP</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd2.php</url>
+    <url>https://ww1.sportsonnline.click/channels/pt/sporttv4.php</url>
+    <url>https://ww1.sportsonnline.click/channels/bra/br6.php</url>
+  </track>
+  <track>
+    <title>00:00 NBA: Cleveland Cavaliers @ Philadelphia 76ers</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd11.php</url>
+    <url>https://ww1.sportsonnline.click/channels/pt/sporttv1.php</url>
+  </track>
+  <track>
+    <title>00:00 NFL: Patriots @ Bears</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd1.php</url>
+  </track>
+  <track>
+    <title>01:30 Flamengo x Estudiantes</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd5.php</url>
+    <url>https://ww1.sportsonnline.click/channels/pt/sporttv2.php</url>
+    <url>https://ww1.sportsonnline.click/channels/bra/br2.php</url>
+  </track>
+  <track>
+    <title>02:00 Atlético Nacional x Deportivo Pasto</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd9.php</url>
+  </track>
+  <track>
+    <title>02:30 NBA: Denver Nuggets @ Oklahoma City Thunder</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd11.php</url>
+    <url>https://ww1.sportsonnline.click/channels/pt/sporttv1.php</url>
+  </track>
+  <track>
+    <title>03:15 MotoGP: Australia Practice</title>
+    <url>https://ww1.sportsonnline.click/channels/hd/hd2.php</url>
+    <url>https://ww1.sportsonnline.click/channels/pt/sporttv4.php</url>
+    <url>https://ww1.sportsonnline.click/channels/bra/br6.php</url>
+  </track>
+  <track>
+    <title>04:00 Golf: DP World Tour - Genesis D2</title>
+    <url>https://ww1.sportsonnline.click/channels/pt/sporttv2.php</url>
   </track>
   <additional>
     <item>HD1 ENGLISH</item>
-    <item>HD9 SPANISH</item>
-    <item>HD10 SPANISH</item>
-    <item>HD11 SPANISH</item>
-    <item>BR1 BRAZILIAN</item>
+    <item>HD2 ENGLISH</item>
+    <item>HD3 GERMAN</item>
+    <item>HD4 FRENCH</item>
+    <item>HD5 ENGLISH</item>
+    <item>HD6 SPANISH</item>
+    <item>HD7 ITALIAN</item>
+    <item>HD8 SERBIAN</item>
+    <item>HD9 DUTCH &amp; SPANISH</item>
+    <item>HD10 SPANISH &amp; DUTCH</item>
+    <item>HD11 ENGLISH &amp; FRENCH</item>
     <item>BR2 BRAZILIAN</item>
+    <item>BR6 BRAZILIAN</item>
   </additional>
 </playlist>

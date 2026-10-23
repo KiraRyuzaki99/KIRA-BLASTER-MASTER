@@ -1,32 +1,158 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Football – Europa League",Oggi 16:00 - The Golazo Show [Paramount+]
-https://august.ppvtv.icu/embed.html?match=c17bw2g0&server=0
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 00:00 - Vegas Golden Knights vs. St. Louis Blues [Blues App]
+https://august.ppvtv.icu/embed.html?match=f1oltt9s&server=0
 
-#EXTINF:-1 group-title="Motorsports – MotoGP",Oggi 22:00 - Australia - Practice 1 [TNT Sports 2]
-https://august.ppvtv.icu/embed.html?match=c5shyf6&server=0
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 00:00 - Winnipeg Jets vs. Dallas Stars [KDFW 4]
+https://august.ppvtv.icu/embed.html?match=f8r5rk4&server=0
 
-#EXTINF:-1 group-title="Basketball – NBA",Oggi 23:00 - Cleveland Cavaliers vs. Philadelphia 76ers [ESPN]
-https://august.ppvtv.icu/embed.html?match=f1l7epcq&server=0
+#EXTINF:-1 group-title="American Football – NFL",Oggi 00:15 - New England Patriots at Chicago Bears [Prime Video]
+https://august.ppvtv.icu/embed.html?match=c1yda869&server=0
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:00 - Nashville Predators vs. Boston Bruins [NESN]
-https://august.ppvtv.icu/embed.html?match=fwwko7l&server=0
+#EXTINF:-1 group-title="American Football – NFL",Oggi 00:15 - New England Patriots at Chicago Bears [Prime Video]
+https://august.ppvtv.icu/embed.html?match=c1yda869&server=1
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:00 - New York Rangers vs. Toronto Maple Leafs [ESPN+]
-https://august.ppvtv.icu/embed.html?match=fb9lant&server=0
+#EXTINF:-1 group-title="American Football – NFL",Oggi 00:15 - New England Patriots at Chicago Bears [Prime Vision with Next Gen Stats]
+https://august.ppvtv.icu/embed.html?match=c1yda869&server=2
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:00 - San Jose Sharks vs. Ottawa Senators [ESPN+]
-https://august.ppvtv.icu/embed.html?match=f5r1olz&server=0
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 01:00 - Minnesota Wild vs. Calgary Flames [ESPN+]
+https://august.ppvtv.icu/embed.html?match=f1h9k0je&server=0
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:00 - Anaheim Ducks vs. New Jersey Devils [MSGSN]
-https://august.ppvtv.icu/embed.html?match=f1r3nasl&server=0
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 01:00 - Carolina Hurricanes vs. Edmonton Oilers [ESPN+]
+https://august.ppvtv.icu/embed.html?match=f1corp4k&server=0
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:00 - Florida Panthers vs. Pittsburgh Penguins [ESPN+]
-https://august.ppvtv.icu/embed.html?match=f1jmi7yi&server=0
+#EXTINF:-1 group-title="Wrestling – Wrestling",Oggi 01:00 - TNA Impact [AMC]
+https://august.ppvtv.icu/embed.html?match=c1se54xr&server=0
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:30 - Los Angeles Kings vs. New York Islanders [Disney+]
-https://august.ppvtv.icu/embed.html?match=f1dngx78&server=0
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 01:30 - Denver Nuggets vs. Oklahoma City Thunder [ESPN]
+https://august.ppvtv.icu/embed.html?match=f1q368le&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 02:00 - Utah Mammoth vs. Seattle Kraken [Disney+]
+https://august.ppvtv.icu/embed.html?match=f1yb2f9s&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 02:00 - Detroit Red Wings vs. Vancouver Canucks [ESPN+]
+https://august.ppvtv.icu/embed.html?match=f1hwccae&server=0
+
+#EXTINF:-1 group-title="Motorsports – MotoGP",Oggi 02:15 - Australia - Practice [TNT Sports 2]
+https://august.ppvtv.icu/embed.html?match=c1gzo8w5&server=0
+
+#EXTINF:-1 group-title="Basketball – NBL",Oggi 10:30 - Perth Wildcats vs. Melbourne United [ESPN]
+https://august.ppvtv.icu/embed.html?match=f1m41xet&server=0
+
+#EXTINF:-1 group-title="Darts – Darts",Oggi 17:00 - 2026 European Championship | Day 2 [PDC.TV]
+https://august.ppvtv.icu/embed.html?match=c1335fij&server=0
+
+#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 17:00 - IF Elfsborg vs. Malmö FF [TV4 Play]
+https://august.ppvtv.icu/embed.html?match=flngdtu&server=0
+
+#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 17:00 - Västerås SK vs. Halmstads BK [TV4 Play]
+https://august.ppvtv.icu/embed.html?match=f1a8p4rc&server=0
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 17:30 - United States Grand Prix - Practice 1 [Sky Sports F1]
+https://august.ppvtv.icu/embed.html?match=cm1afmi&server=0
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 17:30 - United States Grand Prix - Practice 1 [Apple TV (F1TV)]
+https://august.ppvtv.icu/embed.html?match=cm1afmi&server=1
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 17:30 - United States Grand Prix - Practice 1 [DAZN F1]
+https://august.ppvtv.icu/embed.html?match=cm1afmi&server=2
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 17:30 - United States Grand Prix - Practice 1 [Sky Sport F1]
+https://august.ppvtv.icu/embed.html?match=cm1afmi&server=3
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 17:30 - United States Grand Prix - Practice 1 [Sky Sport F1]
+https://august.ppvtv.icu/embed.html?match=cm1afmi&server=4
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 17:30 - United States Grand Prix - Practice 1 [V Sport Motor]
+https://august.ppvtv.icu/embed.html?match=cm1afmi&server=5
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 17:30 - United States Grand Prix - Practice 1 [Viaplay]
+https://august.ppvtv.icu/embed.html?match=cm1afmi&server=6
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 17:30 - United States Grand Prix - Practice 1 [Nova Sport 5]
+https://august.ppvtv.icu/embed.html?match=cm1afmi&server=7
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 17:30 - United States Grand Prix - Practice 1 [Eleven Sports 1]
+https://august.ppvtv.icu/embed.html?match=cm1afmi&server=8
+
+#EXTINF:-1 group-title="Football – Eredivisie",Oggi 18:00 - Go Ahead Eagles vs. Telstar [ESPN]
+https://august.ppvtv.icu/embed.html?match=famww11&server=0
+
+#EXTINF:-1 group-title="Football – Bundesliga",Oggi 18:30 - VfB Stuttgart vs. Borussia Mönchengladbach [Bundesliga]
+https://august.ppvtv.icu/embed.html?match=f19pzrmh&server=0
+
+#EXTINF:-1 group-title="Football – Serie A",Oggi 18:45 - Torino vs. Monza [Paramount+]
+https://august.ppvtv.icu/embed.html?match=fwf8q8e&server=0
+
+#EXTINF:-1 group-title="Football – Ligue 1",Oggi 18:45 - Brest vs. Nice [Ligue 1+]
+https://august.ppvtv.icu/embed.html?match=frfd8fp&server=0
+
+#EXTINF:-1 group-title="Football – LaLiga",Oggi 19:00 - Alavés vs. Málaga [ESPN+]
+https://august.ppvtv.icu/embed.html?match=f1oyekx0&server=0
+
+#EXTINF:-1 group-title="Football – Premier League",Oggi 19:00 - Ipswich Town vs. Nottingham Forest [Premier League]
+https://august.ppvtv.icu/embed.html?match=f1p7h1uh&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 20:00 - Chicago Bulls vs. Milwaukee Bucks [MyMi (Home)]
+https://august.ppvtv.icu/embed.html?match=f46v1yu&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 20:00 - Chicago Bulls vs. Milwaukee Bucks [NBA League Pass (Away)]
+https://august.ppvtv.icu/embed.html?match=f46v1yu&server=1
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 21:00 - United States Grand Prix - Practice 2 [Sky Sports F1]
+https://august.ppvtv.icu/embed.html?match=c604uv&server=0
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 21:00 - United States Grand Prix - Practice 2 [Apple TV (F1TV)]
+https://august.ppvtv.icu/embed.html?match=c604uv&server=1
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 21:00 - United States Grand Prix - Practice 2 [DAZN F1]
+https://august.ppvtv.icu/embed.html?match=c604uv&server=2
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 21:00 - United States Grand Prix - Practice 2 [Sky Sport F1]
+https://august.ppvtv.icu/embed.html?match=c604uv&server=3
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 21:00 - United States Grand Prix - Practice 2 [Sky Sport F1]
+https://august.ppvtv.icu/embed.html?match=c604uv&server=4
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 21:00 - United States Grand Prix - Practice 2 [V Sport Motor]
+https://august.ppvtv.icu/embed.html?match=c604uv&server=5
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 21:00 - United States Grand Prix - Practice 2 [Viaplay]
+https://august.ppvtv.icu/embed.html?match=c604uv&server=6
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 21:00 - United States Grand Prix - Practice 2 [Nova Sport 5]
+https://august.ppvtv.icu/embed.html?match=c604uv&server=7
+
+#EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 21:00 - United States Grand Prix - Practice 2 [Eleven Sports 1]
+https://august.ppvtv.icu/embed.html?match=c604uv&server=8
+
+#EXTINF:-1 group-title="Motorsports – MotoGP",Oggi 21:30 - Australia - Practice 2 [TNT Sports 2]
+https://august.ppvtv.icu/embed.html?match=c1ya5zzz&server=0
+
+#EXTINF:-1 group-title="American Football – Canadian Football",Oggi 23:00 - Montreal Alouettes at Toronto Argonauts [TSN4]
+https://august.ppvtv.icu/embed.html?match=c1e4225g&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 23:00 - New York Knicks vs. Boston Celtics [Prime Video]
+https://august.ppvtv.icu/embed.html?match=f1hcbqd2&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 23:00 - Atlanta Hawks vs. Charlotte Hornets [NBA League Pass (Away)]
+https://august.ppvtv.icu/embed.html?match=f5f7wkk&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 23:00 - Dallas Mavericks vs. Indiana Pacers [NBA League Pass (Away)]
+https://august.ppvtv.icu/embed.html?match=f1zm33g&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 23:00 - Minnesota Timberwolves vs. Orlando Magic [NBA League Pass (Away)]
+https://august.ppvtv.icu/embed.html?match=f1oa2a37&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 23:00 - Toronto Raptors vs. Washington Wizards [MNMT (Home)]
+https://august.ppvtv.icu/embed.html?match=ftjwk3c&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 23:00 - Toronto Raptors vs. Washington Wizards [NBA League Pass (Away)]
+https://august.ppvtv.icu/embed.html?match=ftjwk3c&server=1
+
+#EXTINF:-1 group-title="Motorsports – MotoGP",Oggi 23:00 - Australia - Qualifying [TNT Sports 2]
+https://august.ppvtv.icu/embed.html?match=cn0qsl9&server=0
 
 #EXTINF:-1 group-title="American Football – 24/7 channel",Oggi N/A - NFL Network [NFL Network (ESPN)]
 https://august.ppvtv.icu/embed.html?match=c15q87wa&server=0
@@ -64,12 +190,6 @@ https://august.ppvtv.icu/embed.html?match=f1swhvy2&server=0
 #EXTINF:-1 group-title="Football – Liga MX",Domani 00:00 - Monterrey vs. Guadalajara [Liga MX]
 https://august.ppvtv.icu/embed.html?match=fu3hokr&server=0
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Vegas Golden Knights vs. St. Louis Blues [Blues App]
-https://august.ppvtv.icu/embed.html?match=f1oltt9s&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Winnipeg Jets vs. Dallas Stars [KDFW 4]
-https://august.ppvtv.icu/embed.html?match=f8r5rk4&server=0
-
 #EXTINF:-1 group-title="Wrestling – Wrestling",Domani 00:00 - WWE Friday Night Smackdown [USA]
 https://august.ppvtv.icu/embed.html?match=c1auumh5&server=0
 
@@ -84,15 +204,6 @@ https://august.ppvtv.icu/embed.html?match=c1ml51ic&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 00:00 - Sky Sports Racing [NOW TV]
 https://august.ppvtv.icu/embed.html?match=csj7eu6&server=0
-
-#EXTINF:-1 group-title="American Football – NFL",Domani 00:15 - New England Patriots at Chicago Bears [Prime Video]
-https://august.ppvtv.icu/embed.html?match=c1yda869&server=0
-
-#EXTINF:-1 group-title="American Football – NFL",Domani 00:15 - New England Patriots at Chicago Bears [Prime Video]
-https://august.ppvtv.icu/embed.html?match=c1yda869&server=1
-
-#EXTINF:-1 group-title="American Football – NFL",Domani 00:15 - New England Patriots at Chicago Bears [Prime Vision with Next Gen Stats]
-https://august.ppvtv.icu/embed.html?match=c1yda869&server=2
 
 #EXTINF:-1 group-title="American Football – NFL",Domani 00:15 - Dallas Cowboys at Philadelphia Eagles [ESPN]
 https://august.ppvtv.icu/embed.html?match=c13ziz1w&server=0
@@ -127,18 +238,6 @@ https://august.ppvtv.icu/embed.html?match=fk00l1o&server=0
 #EXTINF:-1 group-title="Football – Liga MX",Domani 01:00 - Querétaro vs. Cruz Azul [Liga MX]
 https://august.ppvtv.icu/embed.html?match=f1vajg5r&server=0
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 01:00 - Minnesota Wild vs. Calgary Flames [ESPN+]
-https://august.ppvtv.icu/embed.html?match=f1h9k0je&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 01:00 - Carolina Hurricanes vs. Edmonton Oilers [ESPN+]
-https://august.ppvtv.icu/embed.html?match=f1corp4k&server=0
-
-#EXTINF:-1 group-title="Wrestling – Wrestling",Domani 01:00 - TNA Impact [AMC]
-https://august.ppvtv.icu/embed.html?match=c1se54xr&server=0
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 01:30 - Denver Nuggets vs. Oklahoma City Thunder [ESPN]
-https://august.ppvtv.icu/embed.html?match=f1q368le&server=0
-
 #EXTINF:-1 group-title="Basketball – NBA",Domani 01:30 - Houston Rockets vs. San Antonio Spurs [Prime Video]
 https://august.ppvtv.icu/embed.html?match=fzxd3w0&server=0
 
@@ -163,20 +262,11 @@ https://august.ppvtv.icu/embed.html?match=f1xz58u&server=1
 #EXTINF:-1 group-title="Basketball – NBA",Domani 02:00 - Portland Trail Blazers vs. Sacramento Kings [NBA League Pass (Away)]
 https://august.ppvtv.icu/embed.html?match=fg9zcfq&server=0
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 02:00 - Utah Mammoth vs. Seattle Kraken [Disney+]
-https://august.ppvtv.icu/embed.html?match=f1yb2f9s&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 02:00 - Detroit Red Wings vs. Vancouver Canucks [ESPN+]
-https://august.ppvtv.icu/embed.html?match=f1hwccae&server=0
-
 #EXTINF:-1 group-title="American Football – College Football",Domani 02:15 - Houston Cougars at Utah Utes [ESPN]
 https://august.ppvtv.icu/embed.html?match=chlafpm&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Domani 02:15 - Houston Cougars at Utah Utes [SkyCast]
 https://august.ppvtv.icu/embed.html?match=chlafpm&server=1
-
-#EXTINF:-1 group-title="Motorsports – MotoGP",Domani 02:15 - Australia - Practice [TNT Sports 2]
-https://august.ppvtv.icu/embed.html?match=c1gzo8w5&server=0
 
 #EXTINF:-1 group-title="Football – MLS",Domani 02:30 - Portland Timbers vs. Charlotte FC [Apple TV]
 https://august.ppvtv.icu/embed.html?match=fgyykxk&server=0
@@ -204,9 +294,6 @@ https://august.ppvtv.icu/embed.html?match=c418ukt&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 10:28 - 24/7 The Simpsons [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1j7a3d7&server=0
-
-#EXTINF:-1 group-title="Basketball – NBL",Domani 10:30 - Perth Wildcats vs. Melbourne United [ESPN]
-https://august.ppvtv.icu/embed.html?match=f1m41xet&server=0
 
 #EXTINF:-1 group-title="Darts – Darts",Domani 11:00 - 2026 European Championship | Day 3 S1 [PDC.TV]
 https://august.ppvtv.icu/embed.html?match=ceex26k&server=0
@@ -400,17 +487,8 @@ https://august.ppvtv.icu/embed.html?match=c14sgopr&server=0
 #EXTINF:-1 group-title="American Football – NFL",Domani 17:00 - New York Giants at Houston Texans [Fox]
 https://august.ppvtv.icu/embed.html?match=cu7e8fj&server=0
 
-#EXTINF:-1 group-title="Darts – Darts",Domani 17:00 - 2026 European Championship | Day 2 [PDC.TV]
-https://august.ppvtv.icu/embed.html?match=c1335fij&server=0
-
 #EXTINF:-1 group-title="Darts – Darts",Domani 17:00 - 2026 European Championship | Day 3 S2 [PDC.TV]
 https://august.ppvtv.icu/embed.html?match=c1cv459&server=0
-
-#EXTINF:-1 group-title="Football – Allsvenskan",Domani 17:00 - IF Elfsborg vs. Malmö FF [TV4 Play]
-https://august.ppvtv.icu/embed.html?match=flngdtu&server=0
-
-#EXTINF:-1 group-title="Football – Allsvenskan",Domani 17:00 - Västerås SK vs. Halmstads BK [TV4 Play]
-https://august.ppvtv.icu/embed.html?match=f1a8p4rc&server=0
 
 #EXTINF:-1 group-title="Football – Serie A",Domani 17:00 - Lecce vs. Juventus [Paramount+]
 https://august.ppvtv.icu/embed.html?match=ffwqaug&server=0
@@ -420,33 +498,6 @@ https://august.ppvtv.icu/embed.html?match=fkk178g&server=0
 
 #EXTINF:-1 group-title="Football – LaLiga",Domani 17:30 - Real Sociedad vs. Levante [ESPN+]
 https://august.ppvtv.icu/embed.html?match=fskp0ny&server=0
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 17:30 - United States Grand Prix - Practice 1 [Sky Sports F1]
-https://august.ppvtv.icu/embed.html?match=cm1afmi&server=0
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 17:30 - United States Grand Prix - Practice 1 [Apple TV (F1TV)]
-https://august.ppvtv.icu/embed.html?match=cm1afmi&server=1
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 17:30 - United States Grand Prix - Practice 1 [DAZN F1]
-https://august.ppvtv.icu/embed.html?match=cm1afmi&server=2
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 17:30 - United States Grand Prix - Practice 1 [Sky Sport F1]
-https://august.ppvtv.icu/embed.html?match=cm1afmi&server=3
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 17:30 - United States Grand Prix - Practice 1 [Sky Sport F1]
-https://august.ppvtv.icu/embed.html?match=cm1afmi&server=4
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 17:30 - United States Grand Prix - Practice 1 [V Sport Motor]
-https://august.ppvtv.icu/embed.html?match=cm1afmi&server=5
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 17:30 - United States Grand Prix - Practice 1 [Viaplay]
-https://august.ppvtv.icu/embed.html?match=cm1afmi&server=6
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 17:30 - United States Grand Prix - Practice 1 [Nova Sport 5]
-https://august.ppvtv.icu/embed.html?match=cm1afmi&server=7
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 17:30 - United States Grand Prix - Practice 1 [Eleven Sports 1]
-https://august.ppvtv.icu/embed.html?match=cm1afmi&server=8
 
 #EXTINF:-1 group-title="Motorsports – Formula 1",Domani 17:30 - United States Grand Prix - Practice 3 [Sky Sports F1]
 https://august.ppvtv.icu/embed.html?match=casqms4&server=0
@@ -478,18 +529,6 @@ https://august.ppvtv.icu/embed.html?match=casqms4&server=8
 #EXTINF:-1 group-title="Darts – Darts",Domani 18:00 - 2026 European Championship | Day 4 S2 [PDC.TV]
 https://august.ppvtv.icu/embed.html?match=cbd28p2&server=0
 
-#EXTINF:-1 group-title="Football – Eredivisie",Domani 18:00 - Go Ahead Eagles vs. Telstar [ESPN]
-https://august.ppvtv.icu/embed.html?match=famww11&server=0
-
-#EXTINF:-1 group-title="Football – Bundesliga",Domani 18:30 - VfB Stuttgart vs. Borussia Mönchengladbach [Bundesliga]
-https://august.ppvtv.icu/embed.html?match=f19pzrmh&server=0
-
-#EXTINF:-1 group-title="Football – Serie A",Domani 18:45 - Torino vs. Monza [Paramount+]
-https://august.ppvtv.icu/embed.html?match=fwf8q8e&server=0
-
-#EXTINF:-1 group-title="Football – Ligue 1",Domani 18:45 - Brest vs. Nice [Ligue 1+]
-https://august.ppvtv.icu/embed.html?match=frfd8fp&server=0
-
 #EXTINF:-1 group-title="Football – Serie A",Domani 18:45 - Lazio vs. Parma [Paramount+]
 https://august.ppvtv.icu/embed.html?match=fg62m5m&server=0
 
@@ -501,12 +540,6 @@ https://august.ppvtv.icu/embed.html?match=cqneebj&server=0
 
 #EXTINF:-1 group-title="American Football – Canadian Football",Domani 19:00 - Edmonton Elks at Saskatchewan Roughriders [TSN3]
 https://august.ppvtv.icu/embed.html?match=ctjn58l&server=0
-
-#EXTINF:-1 group-title="Football – LaLiga",Domani 19:00 - Alavés vs. Málaga [ESPN+]
-https://august.ppvtv.icu/embed.html?match=f1oyekx0&server=0
-
-#EXTINF:-1 group-title="Football – Premier League",Domani 19:00 - Ipswich Town vs. Nottingham Forest [Premier League]
-https://august.ppvtv.icu/embed.html?match=f1p7h1uh&server=0
 
 #EXTINF:-1 group-title="Football – LaLiga",Domani 19:00 - Atlético Madrid vs. Deportivo [ESPN+]
 https://august.ppvtv.icu/embed.html?match=f1ubbofp&server=0
@@ -546,12 +579,6 @@ https://august.ppvtv.icu/embed.html?match=f1cniwjg&server=0
 
 #EXTINF:-1 group-title="Football – Ligue 1",Domani 19:45 - Paris Saint-Germain vs. Lyon [Ligue 1+]
 https://august.ppvtv.icu/embed.html?match=fi19zhq&server=0
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 20:00 - Chicago Bulls vs. Milwaukee Bucks [MyMi (Home)]
-https://august.ppvtv.icu/embed.html?match=f46v1yu&server=0
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 20:00 - Chicago Bulls vs. Milwaukee Bucks [NBA League Pass (Away)]
-https://august.ppvtv.icu/embed.html?match=f46v1yu&server=1
 
 #EXTINF:-1 group-title="Football – LaLiga",Domani 20:00 - Barcelona vs. Real Madrid [ESPN+]
 https://august.ppvtv.icu/embed.html?match=fqomuy5&server=0
@@ -595,33 +622,6 @@ https://august.ppvtv.icu/embed.html?match=ct28c3v&server=0
 #EXTINF:-1 group-title="American Football – NFL",Domani 20:25 - Los Angeles Rams at Las Vegas Raiders [Fox]
 https://august.ppvtv.icu/embed.html?match=c143nwij&server=0
 
-#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 21:00 - United States Grand Prix - Practice 2 [Sky Sports F1]
-https://august.ppvtv.icu/embed.html?match=c604uv&server=0
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 21:00 - United States Grand Prix - Practice 2 [Apple TV (F1TV)]
-https://august.ppvtv.icu/embed.html?match=c604uv&server=1
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 21:00 - United States Grand Prix - Practice 2 [DAZN F1]
-https://august.ppvtv.icu/embed.html?match=c604uv&server=2
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 21:00 - United States Grand Prix - Practice 2 [Sky Sport F1]
-https://august.ppvtv.icu/embed.html?match=c604uv&server=3
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 21:00 - United States Grand Prix - Practice 2 [Sky Sport F1]
-https://august.ppvtv.icu/embed.html?match=c604uv&server=4
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 21:00 - United States Grand Prix - Practice 2 [V Sport Motor]
-https://august.ppvtv.icu/embed.html?match=c604uv&server=5
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 21:00 - United States Grand Prix - Practice 2 [Viaplay]
-https://august.ppvtv.icu/embed.html?match=c604uv&server=6
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 21:00 - United States Grand Prix - Practice 2 [Nova Sport 5]
-https://august.ppvtv.icu/embed.html?match=c604uv&server=7
-
-#EXTINF:-1 group-title="Motorsports – Formula 1",Domani 21:00 - United States Grand Prix - Practice 2 [Eleven Sports 1]
-https://august.ppvtv.icu/embed.html?match=c604uv&server=8
-
 #EXTINF:-1 group-title="Motorsports – Formula 1",Domani 21:00 - United States Grand Prix - Qualifying [Sky Sports F1]
 https://august.ppvtv.icu/embed.html?match=c1b23sfp&server=0
 
@@ -652,35 +652,14 @@ https://august.ppvtv.icu/embed.html?match=c1b23sfp&server=8
 #EXTINF:-1 group-title="Football – MLS",Domani 21:30 - Red Bull New York vs. Inter Miami CF [Apple TV]
 https://august.ppvtv.icu/embed.html?match=fp8798a&server=0
 
-#EXTINF:-1 group-title="Motorsports – MotoGP",Domani 21:30 - Australia - Practice 2 [TNT Sports 2]
-https://august.ppvtv.icu/embed.html?match=c1ya5zzz&server=0
-
 #EXTINF:-1 group-title="American Football – College Football",Domani 22:00 - Boise State Broncos at Washington State Cougars [USA Net]
 https://august.ppvtv.icu/embed.html?match=c1w1kvgx&server=0
 
 #EXTINF:-1 group-title="Motorsports – MotoGP",Domani 22:30 - Australia - Race [TNT Sports 2]
 https://august.ppvtv.icu/embed.html?match=c1bbq5e5&server=0
 
-#EXTINF:-1 group-title="American Football – Canadian Football",Domani 23:00 - Montreal Alouettes at Toronto Argonauts [TSN4]
-https://august.ppvtv.icu/embed.html?match=c1e4225g&server=0
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 23:00 - New York Knicks vs. Boston Celtics [Prime Video]
-https://august.ppvtv.icu/embed.html?match=f1hcbqd2&server=0
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 23:00 - Atlanta Hawks vs. Charlotte Hornets [NBA League Pass (Away)]
-https://august.ppvtv.icu/embed.html?match=f5f7wkk&server=0
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 23:00 - Dallas Mavericks vs. Indiana Pacers [NBA League Pass (Away)]
-https://august.ppvtv.icu/embed.html?match=f1zm33g&server=0
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 23:00 - Minnesota Timberwolves vs. Orlando Magic [NBA League Pass (Away)]
-https://august.ppvtv.icu/embed.html?match=f1oa2a37&server=0
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 23:00 - Toronto Raptors vs. Washington Wizards [MNMT (Home)]
-https://august.ppvtv.icu/embed.html?match=ftjwk3c&server=0
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 23:00 - Toronto Raptors vs. Washington Wizards [NBA League Pass (Away)]
-https://august.ppvtv.icu/embed.html?match=ftjwk3c&server=1
+#EXTINF:-1 group-title="Basketball – NBA",Passato 23:00 - Cleveland Cavaliers vs. Philadelphia 76ers [ESPN]
+https://august.ppvtv.icu/embed.html?match=f1l7epcq&server=0
 
 #EXTINF:-1 group-title="Football – Liga MX",Domani 23:00 - León vs. Toluca [Liga MX]
 https://august.ppvtv.icu/embed.html?match=fsm11bn&server=0
@@ -688,8 +667,20 @@ https://august.ppvtv.icu/embed.html?match=fsm11bn&server=0
 #EXTINF:-1 group-title="Football – Liga MX",Domani 23:00 - Atlas vs. Puebla [Liga MX]
 https://august.ppvtv.icu/embed.html?match=fcvtei7&server=0
 
-#EXTINF:-1 group-title="Motorsports – MotoGP",Domani 23:00 - Australia - Qualifying [TNT Sports 2]
-https://august.ppvtv.icu/embed.html?match=cn0qsl9&server=0
+#EXTINF:-1 group-title="Ice Hockey – NHL",Passato 23:00 - Nashville Predators vs. Boston Bruins [NESN]
+https://august.ppvtv.icu/embed.html?match=fwwko7l&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Passato 23:00 - New York Rangers vs. Toronto Maple Leafs [ESPN+]
+https://august.ppvtv.icu/embed.html?match=fb9lant&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Passato 23:00 - San Jose Sharks vs. Ottawa Senators [ESPN+]
+https://august.ppvtv.icu/embed.html?match=f5r1olz&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Passato 23:00 - Anaheim Ducks vs. New Jersey Devils [MSGSN]
+https://august.ppvtv.icu/embed.html?match=f1r3nasl&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Passato 23:00 - Florida Panthers vs. Pittsburgh Penguins [ESPN+]
+https://august.ppvtv.icu/embed.html?match=f1jmi7yi&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Domani 23:30 - Ole Miss Rebels at Texas Longhorns [ABC]
 https://august.ppvtv.icu/embed.html?match=ciywvfb&server=0
@@ -717,3 +708,6 @@ https://august.ppvtv.icu/embed.html?match=f9ee0t6&server=0
 
 #EXTINF:-1 group-title="Football – MLS",Domani 23:30 - Philadelphia Union vs. New England Revolution [Apple TV]
 https://august.ppvtv.icu/embed.html?match=f1ed42nj&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Passato 23:30 - Los Angeles Kings vs. New York Islanders [Disney+]
+https://august.ppvtv.icu/embed.html?match=f1dngx78&server=0

@@ -142,319 +142,6 @@
     ]
   },
   {
-    "title": "Stuttgart Borussia M'gladbach",
-    "category": "Stuttgart",
-    "logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
-    "start_iso": "2026-10-23T18:30:00.000Z",
-    "end_iso": "2026-10-23T20:45:00.000Z",
-    "date": "Friday, 23 October 2026",
-    "time": "20:30",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/stuttgart-vs-borussia-mgladbach",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/stuttgart-vs-borussia-mgladbach/3081",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Lions Edinburgh",
-    "category": "Lions",
-    "logo": "https://cdn.img4every1.org/team/lions/logo.webp",
-    "start_iso": "2026-10-23T18:45:00.000Z",
-    "end_iso": "2026-10-23T21:00:00.000Z",
-    "date": "Friday, 23 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/lions-vs-edinburgh",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/lions-vs-edinburgh/3094",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Zebre Connacht",
-    "category": "Zebre",
-    "logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
-    "start_iso": "2026-10-23T18:45:00.000Z",
-    "end_iso": "2026-10-23T21:00:00.000Z",
-    "date": "Friday, 23 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/zebre-vs-connacht",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/zebre-vs-connacht/3093",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "The Sharks Cardiff Blues",
-    "category": "The Sharks",
-    "logo": "https://cdn.img4every1.org/team/the-sharks/logo.webp",
-    "start_iso": "2026-10-23T18:45:00.000Z",
-    "end_iso": "2026-10-23T21:00:00.000Z",
-    "date": "Friday, 23 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/sharks-vs-cardiff-rugby",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/sharks-vs-cardiff-rugby/3092",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Bath Rugby Gloucester Rugby",
-    "category": "Bath Rugby",
-    "logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
-    "start_iso": "2026-10-23T18:45:00.000Z",
-    "end_iso": "2026-10-23T21:00:00.000Z",
-    "date": "Friday, 23 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/bath-rugby-vs-gloucester",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/bath-rugby-vs-gloucester/3096",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Sale Sharks Newcastle Red Bulls",
-    "category": "Sale Sharks",
-    "logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
-    "start_iso": "2026-10-23T18:45:00.000Z",
-    "end_iso": "2026-10-23T21:00:00.000Z",
-    "date": "Friday, 23 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/sale-sharks-vs-newcastle-red-bulls",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/sale-sharks-vs-newcastle-red-bulls/3097",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Brest Nice",
-    "category": "Brest",
-    "logo": "https://cdn.img4every1.org/team/brest/logo.webp",
-    "start_iso": "2026-10-23T18:45:00.000Z",
-    "end_iso": "2026-10-23T21:00:00.000Z",
-    "date": "Friday, 23 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/brest-vs-nice",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/brest-vs-nice/3082",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://playerdee.top/alpha/brest-vs-nice/3083",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Torino Monza",
-    "category": "Torino",
-    "logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-    "start_iso": "2026-10-23T18:45:00.000Z",
-    "end_iso": "2026-10-23T21:00:00.000Z",
-    "date": "Friday, 23 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/torino-vs-monza",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/torino-vs-monza/3084",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/torino-vs-monza/3085",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "SD",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Deportivo Alavés Málaga",
-    "category": "Deportivo Alavés",
-    "logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-    "start_iso": "2026-10-23T19:00:00.000Z",
-    "end_iso": "2026-10-23T21:15:00.000Z",
-    "date": "Friday, 23 October 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/alaves-vs-malaga",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/alaves-vs-malaga/3090",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/alaves-vs-malaga/3091",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Bolton Wanderers Middlesbrough",
-    "category": "Bolton Wanderers",
-    "logo": "https://cdn.img4every1.org/team/bolton-wanderers/logo.webp",
-    "start_iso": "2026-10-23T19:00:00.000Z",
-    "end_iso": "2026-10-23T21:15:00.000Z",
-    "date": "Friday, 23 October 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/bolton-wanderers-vs-middlesbrough",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/bolton-wanderers-vs-middlesbrough/3095",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Nottingham Forest Ipswich Town",
-    "category": "Nottingham Forest",
-    "logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
-    "start_iso": "2026-10-23T19:00:00.000Z",
-    "end_iso": "2026-10-23T21:15:00.000Z",
-    "date": "Friday, 23 October 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/nottm-forest-vs-ipswich",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/nottm-forest-vs-ipswich/3086",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/nottm-forest-vs-ipswich/3087",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/nottm-forest-vs-ipswich/3088",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://playerdee.top/alpha/nottm-forest-vs-ipswich/3089",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
     "title": "Milwaukee Brewers Tampa Bay Rays",
     "category": "Milwaukee Brewers",
     "logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
@@ -754,18 +441,6 @@
     ]
   },
   {
-    "title": "Valencia Villarreal",
-    "category": "Valencia",
-    "logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-    "start_iso": "2026-10-24T16:30:00.000Z",
-    "end_iso": "2026-10-24T18:45:00.000Z",
-    "date": "Saturday, 24 October 2026",
-    "time": "18:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/valencia-vs-villarreal",
-    "servers": []
-  },
-  {
     "title": "Chelsea Tottenham Hotspur",
     "category": "Chelsea",
     "logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
@@ -775,6 +450,18 @@
     "time": "18:30",
     "status": "next",
     "event_url": "https://pogo.pk/events/chelsea-vs-tottenham-hotspur",
+    "servers": []
+  },
+  {
+    "title": "Valencia Villarreal",
+    "category": "Valencia",
+    "logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+    "start_iso": "2026-10-24T16:30:00.000Z",
+    "end_iso": "2026-10-24T18:45:00.000Z",
+    "date": "Saturday, 24 October 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/valencia-vs-villarreal",
     "servers": []
   },
   {
@@ -790,18 +477,6 @@
     "servers": []
   },
   {
-    "title": "Lens Paris FC",
-    "category": "Lens",
-    "logo": "https://cdn.img4every1.org/team/lens/logo.webp",
-    "start_iso": "2026-10-24T18:45:00.000Z",
-    "end_iso": "2026-10-24T21:00:00.000Z",
-    "date": "Saturday, 24 October 2026",
-    "time": "20:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/lens-vs-paris",
-    "servers": []
-  },
-  {
     "title": "Parma Lazio",
     "category": "Parma",
     "logo": "https://cdn.img4every1.org/team/parma/logo.webp",
@@ -811,6 +486,18 @@
     "time": "20:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/parma-vs-lazio",
+    "servers": []
+  },
+  {
+    "title": "Lens Paris FC",
+    "category": "Lens",
+    "logo": "https://cdn.img4every1.org/team/lens/logo.webp",
+    "start_iso": "2026-10-24T18:45:00.000Z",
+    "end_iso": "2026-10-24T21:00:00.000Z",
+    "date": "Saturday, 24 October 2026",
+    "time": "20:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/lens-vs-paris",
     "servers": []
   },
   {
@@ -847,6 +534,30 @@
     "time": "16:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/brentford-vs-hull-city",
+    "servers": []
+  },
+  {
+    "title": "Liverpool Brighton & Hove Albion",
+    "category": "Liverpool",
+    "logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+    "start_iso": "2026-10-25T14:00:00.000Z",
+    "end_iso": "2026-10-25T16:15:00.000Z",
+    "date": "Sunday, 25 October 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/liverpool-vs-brighton",
+    "servers": []
+  },
+  {
+    "title": "Real Betis Celta de Vigo",
+    "category": "Real Betis",
+    "logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+    "start_iso": "2026-10-25T15:15:00.000Z",
+    "end_iso": "2026-10-25T17:30:00.000Z",
+    "date": "Sunday, 25 October 2026",
+    "time": "17:15",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/real-betis-vs-celta-vigo",
     "servers": []
   }
 ]

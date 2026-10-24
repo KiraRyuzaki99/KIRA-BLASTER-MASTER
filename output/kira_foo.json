@@ -142,29 +142,6 @@
     ]
   },
   {
-    "title": "Milwaukee Brewers Tampa Bay Rays",
-    "category": "Milwaukee Brewers",
-    "logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
-    "start_iso": "2026-10-24T00:00:00.000Z",
-    "end_iso": "2026-10-24T03:00:00.000Z",
-    "date": "Saturday, 24 October 2026",
-    "time": "02:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/brewers-vs-rays",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/brewers-vs-rays/3098",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Macarthur Newcastle Jets",
     "category": "Macarthur",
     "logo": "https://cdn.img4every1.org/team/macarthur/logo.webp",
@@ -172,7 +149,7 @@
     "end_iso": "2026-10-24T06:15:00.000Z",
     "date": "Saturday, 24 October 2026",
     "time": "06:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/macarthur-vs-newcastle-jets",
     "servers": [
       {
@@ -195,7 +172,7 @@
     "end_iso": "2026-10-24T06:40:00.000Z",
     "date": "Saturday, 24 October 2026",
     "time": "06:25",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/png-vs-samoa",
     "servers": [
       {

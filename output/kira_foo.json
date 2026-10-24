@@ -152,62 +152,6 @@
     ]
   },
   {
-    "title": "Leicester Tigers Northampton Saints",
-    "category": "Leicester Tigers",
-    "logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
-    "start_iso": "2026-10-24T14:05:00.000Z",
-    "end_iso": "2026-10-24T16:20:00.000Z",
-    "date": "Saturday, 24 October 2026",
-    "time": "16:05",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/leicester-tigers-vs-northampton",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/leicester-tigers-vs-northampton/3134",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Racing Santander Espanyol",
-    "category": "Racing Santander",
-    "logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-    "start_iso": "2026-10-24T14:15:00.000Z",
-    "end_iso": "2026-10-24T16:30:00.000Z",
-    "date": "Saturday, 24 October 2026",
-    "time": "16:15",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/racing-vs-espanyol",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/racing-vs-espanyol/3121",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/racing-vs-espanyol/3122",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Alexander Volkanovski Movsar Evloev",
     "category": "Alexander Volkanovski",
     "logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
@@ -231,148 +175,6 @@
     ]
   },
   {
-    "title": "AS Roma Napoli",
-    "category": "AS Roma",
-    "logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-    "start_iso": "2026-10-24T16:00:00.000Z",
-    "end_iso": "2026-10-24T18:15:00.000Z",
-    "date": "Saturday, 24 October 2026",
-    "time": "18:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/roma-vs-napoli",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/roma-vs-napoli/3135",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/roma-vs-napoli/3137",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Chelsea Tottenham Hotspur",
-    "category": "Chelsea",
-    "logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-    "start_iso": "2026-10-24T16:30:00.000Z",
-    "end_iso": "2026-10-24T18:45:00.000Z",
-    "date": "Saturday, 24 October 2026",
-    "time": "18:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/chelsea-vs-tottenham-hotspur",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/chelsea-vs-tottenham-hotspur/3125",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/chelsea-vs-tottenham-hotspur/3126",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/chelsea-vs-tottenham-hotspur/3127",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://playerdee.top/alpha/chelsea-vs-tottenham-hotspur/3128",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Eintracht Frankfurt Borussia Dortmund",
-    "category": "Eintracht Frankfurt",
-    "logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
-    "start_iso": "2026-10-24T16:30:00.000Z",
-    "end_iso": "2026-10-24T18:45:00.000Z",
-    "date": "Saturday, 24 October 2026",
-    "time": "18:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/eintracht-frankfurt-vs-dortmund",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-dortmund/3129",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Valencia Villarreal",
-    "category": "Valencia",
-    "logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-    "start_iso": "2026-10-24T16:30:00.000Z",
-    "end_iso": "2026-10-24T18:45:00.000Z",
-    "date": "Saturday, 24 October 2026",
-    "time": "18:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/valencia-vs-villarreal",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/valencia-vs-villarreal/3130",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/valencia-vs-villarreal/3131",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Parma Lazio",
     "category": "Parma",
     "logo": "https://cdn.img4every1.org/team/parma/logo.webp",
@@ -380,7 +182,7 @@
     "end_iso": "2026-10-24T21:00:00.000Z",
     "date": "Saturday, 24 October 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/parma-vs-lazio",
     "servers": [
       {
@@ -413,7 +215,7 @@
     "end_iso": "2026-10-24T21:00:00.000Z",
     "date": "Saturday, 24 October 2026",
     "time": "20:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/lens-vs-paris",
     "servers": [
       {
@@ -446,7 +248,7 @@
     "end_iso": "2026-10-24T21:15:00.000Z",
     "date": "Saturday, 24 October 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/atletico-madrid-vs-deportivo-la-coruna",
     "servers": []
   },
@@ -556,66 +358,6 @@
     "time": "22:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/barcelona-vs-real-madrid",
-    "servers": []
-  },
-  {
-    "title": "Fulham Coventry City",
-    "category": "Fulham",
-    "logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
-    "start_iso": "2026-10-24T14:00:00.000Z",
-    "end_iso": "2026-10-24T16:15:00.000Z",
-    "date": "Saturday, 24 October 2026",
-    "time": "16:00",
-    "status": "finished",
-    "event_url": "https://pogo.pk/events/fulahm-vs-coventry-city",
-    "servers": []
-  },
-  {
-    "title": "Glasgow Warriors Benetton",
-    "category": "Glasgow Warriors",
-    "logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
-    "start_iso": "2026-10-24T14:00:00.000Z",
-    "end_iso": "2026-10-24T16:15:00.000Z",
-    "date": "Saturday, 24 October 2026",
-    "time": "16:00",
-    "status": "finished",
-    "event_url": "https://pogo.pk/events/glasgow-warriors-vs-benetton-treviso",
-    "servers": []
-  },
-  {
-    "title": "Southampton West Ham United",
-    "category": "Southampton",
-    "logo": "https://cdn.img4every1.org/team/southampton/logo.webp",
-    "start_iso": "2026-10-24T14:00:00.000Z",
-    "end_iso": "2026-10-24T16:15:00.000Z",
-    "date": "Saturday, 24 October 2026",
-    "time": "16:00",
-    "status": "finished",
-    "event_url": "https://pogo.pk/events/southampton-vs-west-ham",
-    "servers": []
-  },
-  {
-    "title": "Scarlets Stormers",
-    "category": "Scarlets",
-    "logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
-    "start_iso": "2026-10-24T14:00:00.000Z",
-    "end_iso": "2026-10-24T16:15:00.000Z",
-    "date": "Saturday, 24 October 2026",
-    "time": "16:00",
-    "status": "finished",
-    "event_url": "https://pogo.pk/events/scarlets-vs-stormers",
-    "servers": []
-  },
-  {
-    "title": "Arsenal Everton",
-    "category": "Arsenal",
-    "logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-    "start_iso": "2026-10-24T14:00:00.000Z",
-    "end_iso": "2026-10-24T16:15:00.000Z",
-    "date": "Saturday, 24 October 2026",
-    "time": "16:00",
-    "status": "finished",
-    "event_url": "https://pogo.pk/events/arsenal-vs-everton",
     "servers": []
   }
 ]

@@ -1,73 +1,101 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="10:00 WTA Torneo de Ningbo - 1/4 de Final I. Jovic - D. Shnaider" group-title="WTA Torneo de Ningbo",10:00 WTA Torneo de Ningbo - 1/4 de Final I. Jovic - D. Shnaider
-acestream://a4cbadd19442b800727be713270fa9c917cc8582
-#EXTINF:-1 tvg-name="13:00 WTA Torneo de Ningbo - 1/4 de Final E. Rybakina - K. Kawa" group-title="WTA Torneo de Ningbo",13:00 WTA Torneo de Ningbo - 1/4 de Final E. Rybakina - K. Kawa
-acestream://a4cbadd19442b800727be713270fa9c917cc8582
-#EXTINF:-1 tvg-name="14:00 Abierto de Irlanda del Norte -  Cuartos de final" group-title="Abierto de Irlanda del Norte",14:00 Abierto de Irlanda del Norte -  Cuartos de final
-acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1 tvg-name="15:30 Saudi Pro League -  Al Faisaly FC - Al Nassr" group-title="Saudi Pro League",15:30 Saudi Pro League -  Al Faisaly FC - Al Nassr
-acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
-#EXTINF:-1 tvg-name="17:00 Liga U - Primera Fase Real Madrid B Baloncesto - Barça Basket B" group-title="Liga U",17:00 Liga U - Primera Fase Real Madrid B Baloncesto - Barça Basket B
-acestream://6fbd92735502bdebbf1ea58f4298e49759c0cf07
-#EXTINF:-1 tvg-name="17:30 Saudi Pro League -  Al-Ittihad Jeddah Club - Al Draih" group-title="Saudi Pro League",17:30 Saudi Pro League -  Al-Ittihad Jeddah Club - Al Draih
-acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
-#EXTINF:-1 tvg-name="18:00 Abierto de Irlanda del Norte -  Danza rítmica" group-title="Abierto de Irlanda del Norte",18:00 Abierto de Irlanda del Norte -  Danza rítmica
-acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1 tvg-name="18:45 Abierto de Irlanda del Norte -  CP Vila-Sana - CH Palau" group-title="Abierto de Irlanda del Norte",18:45 Abierto de Irlanda del Norte -  CP Vila-Sana - CH Palau
+#EXTINF:-1 tvg-name="11:50 Liga Fem -  Athletic Club - Sevilla FC" group-title="Liga Fem",11:50 Liga Fem -  Athletic Club - Sevilla FC
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-name="11:55 Liga Prime Futsal -  El Ejido - Barcelona" group-title="Liga Prime Futsal",11:55 Liga Prime Futsal -  El Ejido - Barcelona
 acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1 tvg-name="18:45 Abierto de Irlanda del Norte -  Vila - Sana - Palau de Plegamans" group-title="Abierto de Irlanda del Norte",18:45 Abierto de Irlanda del Norte -  Vila - Sana - Palau de Plegamans
-acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1 tvg-name="19:00 1RFEF - Grupo 1 Real Unión - Lugo" group-title="1RFEF",19:00 1RFEF - Grupo 1 Real Unión - Lugo
+#EXTINF:-1 tvg-name="12:05 Torneo de Almaty -  Basilashvili - Tsitsipas  (VO)" group-title="Torneo de Almaty",12:05 Torneo de Almaty -  Basilashvili - Tsitsipas  (VO)
+acestream://8b5f9d967384afab226dd759e6e9dfaee9993869
+#EXTINF:-1 tvg-name="12:30 Liga Prime Futsal -  Programa corto M" group-title="Liga Prime Futsal",12:30 Liga Prime Futsal -  Programa corto M
+acestream://c6180a86440004748e2abe34d6f31eed8a218a3a
+#EXTINF:-1 tvg-name="12:45 Liga Prime Futsal -  Eslalon gigante - 2ª manga" group-title="Liga Prime Futsal",12:45 Liga Prime Futsal -  Eslalon gigante - 2ª manga
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
+#EXTINF:-1 tvg-name="13:00 1RFEF -  Juventud Torremolinos - Murcia" group-title="1RFEF",13:00 1RFEF -  Juventud Torremolinos - Murcia
 acestream://177796041773be99b489dd3ce86144f243e7355f
-#EXTINF:-1 tvg-name="19:00 Euroliga - Liga Regular Zalgiris Kaunas - ASVEL Lyon-Villeurbanne" group-title="Euroliga",19:00 Euroliga - Liga Regular Zalgiris Kaunas - ASVEL Lyon-Villeurbanne
-acestream://7b0193004089d4d29821a5cdf17f407d0d192314
-#EXTINF:-1 tvg-name="19:00 Asobal -  Bidasoa Irún - Balonmano Caserío Ciudad Real" group-title="Asobal",19:00 Asobal -  Bidasoa Irún - Balonmano Caserío Ciudad Real
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="19:00 Bermuda Championship -  Jornada 2" group-title="Bermuda Championship",19:00 Bermuda Championship -  Jornada 2
-acestream://872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 tvg-name="19:30 Liga Fem -  At. Madrid Femenino - Valencia Féminas" group-title="Liga Fem",19:30 Liga Fem -  At. Madrid Femenino - Valencia Féminas
-acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
-#EXTINF:-1 tvg-name="19:30 Euroliga - Liga Regular Libres 1" group-title="Euroliga",19:30 Euroliga - Liga Regular Libres 1
-acestream://d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-name="19:45 Liga U - Primera Fase Bilbao Basket B - Joventut Badalona B" group-title="Liga U",19:45 Liga U - Primera Fase Bilbao Basket B - Joventut Badalona B
-acestream://853129258a5cb51f27829eddb934e58b45978344
-#EXTINF:-1 tvg-name="20:15 Euroliga - Liga Regular Olympiacos Piraeus - Fenerbahce Istanbul" group-title="Euroliga",20:15 Euroliga - Liga Regular Olympiacos Piraeus - Fenerbahce Istanbul
-acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
-#EXTINF:-1 tvg-name="20:30 Segunda -  Granada CF - Real Valladolid" group-title="Segunda",20:30 Segunda -  Granada CF - Real Valladolid
-acestream://60952921b847a9c560741b0d8048a2d8ad194a7f
-#EXTINF:-1 tvg-name="20:30 Liga U - Primera Fase Unicaja Málaga B - UCAM Murcia CB B" group-title="Liga U",20:30 Liga U - Primera Fase Unicaja Málaga B - UCAM Murcia CB B
-acestream://13d68ecb392251a81489ce75be90388498ecfb91
-#EXTINF:-1 tvg-name="20:35 Abierto de Irlanda del Norte -  All Around F" group-title="Abierto de Irlanda del Norte",20:35 Abierto de Irlanda del Norte -  All Around F
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="20:45 Euroliga - Liga Regular Paris Basketball - Valencia Basket" group-title="Euroliga",20:45 Euroliga - Liga Regular Paris Basketball - Valencia Basket
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 tvg-name="21:00 Primera -  Alavés - Málaga" group-title="Primera",21:00 Primera -  Alavés - Málaga
-acestream://f43ef903dc750610978b47df47a0cb389413fe61
-#EXTINF:-1 tvg-name="21:00 Premier -  Ipswich Town - Nottingham Forest" group-title="Premier",21:00 Premier -  Ipswich Town - Nottingham Forest
+#EXTINF:-1 tvg-name="13:20 Premier -  Aston Villa - Manchester City" group-title="Premier",13:20 Premier -  Aston Villa - Manchester City
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-name="21:15 1RFEF - Grupo 2 CE Europa - Real Zaragoza" group-title="1RFEF",21:15 1RFEF - Grupo 2 CE Europa - Real Zaragoza
-acestream://177796041773be99b489dd3ce86144f243e7355f
-#EXTINF:-1 tvg-name="23:00 Euroliga - Liga Regular Libres 2" group-title="Euroliga",23:00 Euroliga - Liga Regular Libres 2
-acestream://d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-name="00:50 F1 Academy - G.P. Estados Unidos (Austin) Opening Race" group-title="F1 Academy",00:50 F1 Academy - G.P. Estados Unidos (Austin) Opening Race
-acestream://d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-name="01:10 MotoGP - G.P. Australia (Phillip Island) Libres 2" group-title="MotoGP",01:10 MotoGP - G.P. Australia (Phillip Island) Libres 2
-acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
-#EXTINF:-1 tvg-name="01:50 MotoGP - G.P. Australia (Phillip Island) Clasificación" group-title="MotoGP",01:50 MotoGP - G.P. Australia (Phillip Island) Clasificación
-acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
-#EXTINF:-1 tvg-name="02:00 MLB -  Milwaukee Brewers - Tampa Bay Rays" group-title="MLB",02:00 MLB -  Milwaukee Brewers - Tampa Bay Rays
+#EXTINF:-1 tvg-name="14:00 Liga Prime Futsal -  Finales por aparatos I" group-title="Liga Prime Futsal",14:00 Liga Prime Futsal -  Finales por aparatos I
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-name="14:00 Abierto de Irlanda del Norte -  Semifinales" group-title="Abierto de Irlanda del Norte",14:00 Abierto de Irlanda del Norte -  Semifinales
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
+#EXTINF:-1 tvg-name="14:05 Torneo de Lyon -  Paul - Fritz" group-title="Torneo de Lyon",14:05 Torneo de Lyon -  Paul - Fritz
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
+#EXTINF:-1 tvg-name="14:20 Liga Prime Futsal -  Danza libre" group-title="Liga Prime Futsal",14:20 Liga Prime Futsal -  Danza libre
+acestream://c6180a86440004748e2abe34d6f31eed8a218a3a
+#EXTINF:-1 tvg-name="15:00 Torneo de Almaty -  Medvedev - Bublik (VO)" group-title="Torneo de Almaty",15:00 Torneo de Almaty -  Medvedev - Bublik (VO)
+acestream://8b5f9d967384afab226dd759e6e9dfaee9993869
+#EXTINF:-1 tvg-name="15:50 Premier -  Arsenal - Everton" group-title="Premier",15:50 Premier -  Arsenal - Everton
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-name="15:50 Liga Fem -  Real Madrid - Costa Adeje Tenerife" group-title="Liga Fem",15:50 Liga Fem -  Real Madrid - Costa Adeje Tenerife
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-name="15:55 Abierto de Irlanda del Norte -  Liceo - Barcelona" group-title="Abierto de Irlanda del Norte",15:55 Abierto de Irlanda del Norte -  Liceo - Barcelona
+acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
+#EXTINF:-1 tvg-name="16:00 Torneo de Lyon -  Cobolli - Musetti" group-title="Torneo de Lyon",16:00 Torneo de Lyon -  Cobolli - Musetti
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
+#EXTINF:-1 tvg-name="16:05 Torneo de Bruselas -  Cerúndolo - Griekspoor" group-title="Torneo de Bruselas",16:05 Torneo de Bruselas -  Cerúndolo - Griekspoor
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-name="03:45 Moto3 - G.P. Australia (Phillip Island) Clasificación" group-title="Moto3",03:45 Moto3 - G.P. Australia (Phillip Island) Clasificación
-acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
-#EXTINF:-1 tvg-name="04:00 BMW Ladies Championship -  Jornada 3" group-title="BMW Ladies Championship",04:00 BMW Ladies Championship -  Jornada 3
-acestream://882074140fca664e119a43294afa2fb4a64917ef
-#EXTINF:-1 tvg-name="04:40 Moto2 - G.P. Australia (Phillip Island) Clasificación" group-title="Moto2",04:40 Moto2 - G.P. Australia (Phillip Island) Clasificación
-acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
-#EXTINF:-1 tvg-name="05:30 Genesis Championship -  Jornada 3" group-title="Genesis Championship",05:30 Genesis Championship -  Jornada 3
-acestream://872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 tvg-name="06:00 MotoGP - G.P. Australia (Phillip Island) Sprint" group-title="MotoGP",06:00 MotoGP - G.P. Australia (Phillip Island) Sprint
-acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
-#EXTINF:-1 tvg-name="09:00 WTA Torneo de Ningbo -  Semifinal 1 - WTA 500" group-title="WTA Torneo de Ningbo",09:00 WTA Torneo de Ningbo -  Semifinal 1 - WTA 500
-acestream://a4cbadd19442b800727be713270fa9c917cc8582
-#EXTINF:-1 tvg-name="09:30 MLB -  Eslalon gigante - 1ª manga" group-title="MLB",09:30 MLB -  Eslalon gigante - 1ª manga
+#EXTINF:-1 tvg-name="16:07 1RFEF -  Mirandés - Racing Ferrol" group-title="1RFEF",16:07 1RFEF -  Mirandés - Racing Ferrol
+acestream://177796041773be99b489dd3ce86144f243e7355f
+#EXTINF:-1 tvg-name="16:30 Top 14 Rugby -  Castres Olympique - Stade Français" group-title="Top 14 Rugby",16:30 Top 14 Rugby -  Castres Olympique - Stade Français
+acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
+#EXTINF:-1 tvg-name="17:00 1RFEF -  Real Madrid - Mérida" group-title="1RFEF",17:00 1RFEF -  Real Madrid - Mérida
+acestream://44ea3d00ee2abfd5d89792a32851d7af61f16f0a
+#EXTINF:-1 tvg-name="18:00 Liga Prime Futsal -  Programa corto parejas" group-title="Liga Prime Futsal",18:00 Liga Prime Futsal -  Programa corto parejas
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
+#EXTINF:-1 tvg-name="18:05 Torneo de Bruselas -  Fils - Struff" group-title="Torneo de Bruselas",18:05 Torneo de Bruselas -  Fils - Struff
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 tvg-name="18:05 Liga Fem -  Logroño United - FC Badalona Women" group-title="Liga Fem",18:05 Liga Fem -  Logroño United - FC Badalona Women
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-name="18:20 Premier -  Chelsea - Tottenham" group-title="Premier",18:20 Premier -  Chelsea - Tottenham
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-name="18:20 Bundesliga -  Borussia Dortmund- Eintracht" group-title="Bundesliga",18:20 Bundesliga -  Borussia Dortmund- Eintracht
+acestream://b46a524780cf0ac5e533491fe79389d6198acf2c
+#EXTINF:-1 tvg-name="18:24 LALIGA EA SPORTS -  Valencia CF - Villarreal CF" group-title="LALIGA EA SPORTS",18:24 LALIGA EA SPORTS -  Valencia CF - Villarreal CF
+acestream://b8eb9c9868d487402569bba2d97a8af113d033fe
+#EXTINF:-1 tvg-name="18:25 LF Endesa -  Baxi Ferrol - Inversus Gernika Bizkaia" group-title="LF Endesa",18:25 LF Endesa -  Baxi Ferrol - Inversus Gernika Bizkaia
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-name="18:45 1RFEF -  Avilés - Logroñés" group-title="1RFEF",18:45 1RFEF -  Avilés - Logroñés
+acestream://177796041773be99b489dd3ce86144f243e7355f
+#EXTINF:-1 tvg-name="18:55 LF Endesa -  Celta Femxa Zorka - Cadí La Seu" group-title="LF Endesa",18:55 LF Endesa -  Celta Femxa Zorka - Cadí La Seu
+acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
+#EXTINF:-1 tvg-name="18:55 ASOBAL -  Villa de Aranda - Puerto Sagunto" group-title="ASOBAL",18:55 ASOBAL -  Villa de Aranda - Puerto Sagunto
+acestream://c6180a86440004748e2abe34d6f31eed8a218a3a
+#EXTINF:-1 tvg-name="19:00 Top 14 Rugby -  Previo Libres 3" group-title="Top 14 Rugby",19:00 Top 14 Rugby -  Previo Libres 3
+acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-name="19:25 LF Endesa -  Movistar Estudiantes - Impulso 360 Estepona" group-title="LF Endesa",19:25 LF Endesa -  Movistar Estudiantes - Impulso 360 Estepona
+acestream://7b0193004089d4d29821a5cdf17f407d0d192314
+#EXTINF:-1 tvg-name="19:30 Top 14 Rugby -  Libres 3" group-title="Top 14 Rugby",19:30 Top 14 Rugby -  Libres 3
+acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-name="20:20 Liga Fem -  FC Barcelona - Granada CF" group-title="Liga Fem",20:20 Liga Fem -  FC Barcelona - Granada CF
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-name="20:30 Top 14 Rugby -  Post Libres 3" group-title="Top 14 Rugby",20:30 Top 14 Rugby -  Post Libres 3
+acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-name="21:00 1RFEF -  Cultural - Pontevedra" group-title="1RFEF",21:00 1RFEF -  Cultural - Pontevedra
+acestream://177796041773be99b489dd3ce86144f243e7355f
+#EXTINF:-1 tvg-name="22:30 Top 14 Rugby -  Previo Clasificación" group-title="Top 14 Rugby",22:30 Top 14 Rugby -  Previo Clasificación
+acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-name="22:55 Top 14 Rugby -  Clasificación" group-title="Top 14 Rugby",22:55 Top 14 Rugby -  Clasificación
+acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-name="23:00 Top 14 Rugby -  Velocidad - Finales" group-title="Top 14 Rugby",23:00 Top 14 Rugby -  Velocidad - Finales
+acestream://c6180a86440004748e2abe34d6f31eed8a218a3a
+#EXTINF:-1 tvg-name="23:25 Brasileirao -  Palmeiras - Bragantino" group-title="Brasileirao",23:25 Brasileirao -  Palmeiras - Bragantino
+acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+#EXTINF:-1 tvg-name="00:10 Top 14 Rugby -  El Post de la Clasificación" group-title="Top 14 Rugby",00:10 Top 14 Rugby -  El Post de la Clasificación
+acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-name="00:35 Top 14 Rugby -  Warm Up" group-title="Top 14 Rugby",00:35 Top 14 Rugby -  Warm Up
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-name="00:55 F1 Academia -  Estados Unidos (T2026)" group-title="F1 Academia",00:55 F1 Academia -  Estados Unidos (T2026)
+acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-name="01:45 Top 14 Rugby -  Carrera Moto3" group-title="Top 14 Rugby",01:45 Top 14 Rugby -  Carrera Moto3
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-name="02:00 MLB -  Milwaukee Brewers - Tampa Bay Rays (Partido 2)" group-title="MLB",02:00 MLB -  Milwaukee Brewers - Tampa Bay Rays (Partido 2)
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 tvg-name="02:15 Top 14 Rugby -  Carrera Moto2" group-title="Top 14 Rugby",02:15 Top 14 Rugby -  Carrera Moto2
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-name="02:45 Top 14 Rugby -  Carrera MotoGP" group-title="Top 14 Rugby",02:45 Top 14 Rugby -  Carrera MotoGP
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-name="05:00 Top 14 Rugby -  Post Carreras" group-title="Top 14 Rugby",05:00 Top 14 Rugby -  Post Carreras
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-name="06:00 Golden Trail World Series -  Muju - Día 2" group-title="Golden Trail World Series",06:00 Golden Trail World Series -  Muju - Día 2
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
+#EXTINF:-1 tvg-name="09:30 Golden Trail World Series -  Eslalon gigante - 1ª manga" group-title="Golden Trail World Series",09:30 Golden Trail World Series -  Eslalon gigante - 1ª manga
 acestream://48a589dbeab3544662fafd79888aada7d834cfe9

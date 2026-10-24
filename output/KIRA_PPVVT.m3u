@@ -1,42 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Darts – Darts",Oggi 11:00 - 2026 European Championship | Day 3 S1 [PDC.TV]
-https://august.ppvtv.icu/embed.html?match=ceex26k&server=0
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 11:30 - Aston Villa vs. Manchester City [TNT Sports 1]
-https://august.ppvtv.icu/embed.html?match=f1558fb4&server=0
-
-#EXTINF:-1 group-title="Football – LaLiga",Oggi 12:00 - Rayo Vallecano vs. Elche [ESPN+]
-https://august.ppvtv.icu/embed.html?match=fss9o0m&server=0
-
-#EXTINF:-1 group-title="Football – Serie A",Oggi 13:00 - Cagliari vs. Bologna [Paramount+]
-https://august.ppvtv.icu/embed.html?match=f15n0hk8&server=0
-
-#EXTINF:-1 group-title="Football – Serie A",Oggi 13:00 - Como vs. Sassuolo [Paramount+]
-https://august.ppvtv.icu/embed.html?match=fp2per5&server=0
-
-#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 13:00 - BK Häcken vs. Degerfors IF [TV4 Sport Live 4]
-https://august.ppvtv.icu/embed.html?match=f1xqvevm&server=0
-
-#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 13:00 - IK Sirius vs. AIK [TV4 Fotboll]
-https://august.ppvtv.icu/embed.html?match=fl7ka1d&server=0
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 13:30 - FC Augsburg vs. 1. FC Union Berlin [Fandango]
-https://august.ppvtv.icu/embed.html?match=fko4vqh&server=0
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 13:30 - FC Cologne vs. Schalke 04 [Fandango]
-https://august.ppvtv.icu/embed.html?match=f164zl38&server=0
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 13:30 - Mainz vs. Werder Bremen [Fandango]
-https://august.ppvtv.icu/embed.html?match=fral7c0&server=0
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 13:30 - RB Leipzig vs. SV Elversberg [Fandango]
-https://august.ppvtv.icu/embed.html?match=f124n07l&server=0
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 13:30 - SC Paderborn 07 vs. Hamburg SV [Fandango]
-https://august.ppvtv.icu/embed.html?match=f1sqklco&server=0
-
 #EXTINF:-1 group-title="Combat Sports – MMA",Oggi 14:00 - UFC 333: Volkanovski vs Evloev [Paramount+]
 https://august.ppvtv.icu/embed.html?match=f1baq0tl&server=0
 
@@ -63,6 +27,12 @@ https://august.ppvtv.icu/embed.html?match=f94oszm&server=0
 
 #EXTINF:-1 group-title="Football – National League",Oggi 14:00 - Scunthorpe United vs. Woking [DAZN National League]
 https://august.ppvtv.icu/embed.html?match=f197x395&server=0
+
+#EXTINF:-1 group-title="Football – EFL Championship",Oggi 14:00 - West Ham United vs. Southampton [EFL Championship]
+https://august.ppvtv.icu/embed.html?match=f1uqtldp&server=0
+
+#EXTINF:-1 group-title="Football – EFL Championship",Oggi 14:00 - Lincoln City vs. Burnley [EFL Championship]
+https://august.ppvtv.icu/embed.html?match=fsrnzqg&server=0
 
 #EXTINF:-1 group-title="Football – LaLiga",Oggi 14:15 - Racing Santander vs. Espanyol [ESPN+]
 https://august.ppvtv.icu/embed.html?match=f13nrgpo&server=0

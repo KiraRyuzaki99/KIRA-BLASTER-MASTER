@@ -8,6 +8,7 @@ from datetime import datetime
 
 # >>> QUI INSERISCI LA LISTA DEI FILE CHE VUOI NEL TUO INDEX <<<
 FILE_DA_MOSTRARE = [
+    "Eventi della Settimana.html",
     "kira_asi.html",
     "kira_hat.html",
     "kira_mam.html",
@@ -42,13 +43,24 @@ def generate_index():
     today = datetime.now().strftime('%d/%m/%Y %H:%M:%S')
     
     # 4. Costruiamo i tag <li> per la lista HTML in modo dinamico
-lista_li = ""
-for idx, f in enumerate(files_esistenti, start=1):
-    # Crea il nome fisso con il numero progressivo (es. KIRA CYBER 1)
-    nome_visualizzato = f"KIRA CYBER {idx}"
+    lista_li = ""
+    contatore_cyber = 1  # Partiamo da 1 per i file KIRA CYBER
+
+for f in files_esistenti:
+    
+    # Controlliamo se è il file degli eventi
+    if "Eventi della Settimana" in f:
+        # Nome speciale e classe CSS dedicata
+        nome_visualizzato = "🔥 PALINSESTO: EVENTI DELLA SETTIMANA 🔥"
+        classe_li = 'class="palinsesto"'
+    else:
+        # Nome standard per gli altri file usando il nostro contatore
+        nome_visualizzato = f"KIRA CYBER {contatore_cyber}"
+        classe_li = ""
+        contatore_cyber += 1  # Incrementiamo il contatore SOLO per i file Kira
     
     # Aggiunge il pulsante alla lista
-    lista_li += f'            <li><a href="{f}">📁 {nome_visualizzato}</a></li>\n'
+    lista_li += f'            <li {classe_li}><a href="{f}">📁 {nome_visualizzato}</a></li>\n'
     
     # 5. Creazione del file HTML (usando le doppie graffe {{ }} per il CSS/JS)
     html = f'''<!DOCTYPE html>

@@ -116,7 +116,7 @@
     "end_iso": "2026-10-25T15:15:00.000Z",
     "date": "Sunday, 25 October 2026",
     "time": "15:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/getafe-vs-athletic-club",
     "servers": [
       {
@@ -159,7 +159,7 @@
     "end_iso": "2026-10-25T23:00:00.000Z",
     "date": "Sunday, 25 October 2026",
     "time": "15:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/snooker-northern-ireland-open",
     "servers": [
       {
@@ -182,7 +182,7 @@
     "end_iso": "2026-10-25T16:40:00.000Z",
     "date": "Sunday, 25 October 2026",
     "time": "15:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/steelers-vs-saints",
     "servers": [
       {
@@ -194,33 +194,10 @@
           "ads": "2",
           "language": "English"
         }
-      }
-    ]
-  },
-  {
-    "title": "Brentford Hull City",
-    "category": "Brentford",
-    "logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
-    "start_iso": "2026-10-25T14:00:00.000Z",
-    "end_iso": "2026-10-25T16:15:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "16:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/brentford-vs-hull-city",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/brentford-vs-hull-city/3164",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
       },
       {
         "label": "English",
-        "url": "https://playerdee.top/alpha/brentford-vs-hull-city/3165",
+        "url": "https://playerdee.top/alpha/steelers-vs-saints/3191",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -284,39 +261,6 @@
     ]
   },
   {
-    "title": "Crystal Palace Newcastle United",
-    "category": "Crystal Palace",
-    "logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-    "start_iso": "2026-10-25T14:00:00.000Z",
-    "end_iso": "2026-10-25T16:15:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "16:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/crystal-palace-vs-newcastle-united",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/crystal-palace-vs-newcastle-united/3162",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/crystal-palace-vs-newcastle-united/3163",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Manchester United AFC Bournemouth",
     "category": "Manchester United",
     "logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
@@ -350,6 +294,72 @@
       {
         "label": "English",
         "url": "https://playerdee.top/alpha/manchester-united-vs-bournemouth/3172",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Brentford Hull City",
+    "category": "Brentford",
+    "logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
+    "start_iso": "2026-10-25T14:00:00.000Z",
+    "end_iso": "2026-10-25T16:15:00.000Z",
+    "date": "Sunday, 25 October 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/brentford-vs-hull-city",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/brentford-vs-hull-city/3164",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/brentford-vs-hull-city/3165",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Crystal Palace Newcastle United",
+    "category": "Crystal Palace",
+    "logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+    "start_iso": "2026-10-25T14:00:00.000Z",
+    "end_iso": "2026-10-25T16:15:00.000Z",
+    "date": "Sunday, 25 October 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/crystal-palace-vs-newcastle-united",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/crystal-palace-vs-newcastle-united/3162",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/crystal-palace-vs-newcastle-united/3163",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -791,6 +801,18 @@
         }
       }
     ]
+  },
+  {
+    "title": "Arizona Cardinals Denver Broncos",
+    "category": "Arizona Cardinals",
+    "logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
+    "start_iso": "2026-10-25T20:05:00.000Z",
+    "end_iso": "2026-10-25T23:15:00.000Z",
+    "date": "Sunday, 25 October 2026",
+    "time": "22:05",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/cardinals-vs-broncos",
+    "servers": []
   },
   {
     "title": "2026 Ballon d'Or Friendly",

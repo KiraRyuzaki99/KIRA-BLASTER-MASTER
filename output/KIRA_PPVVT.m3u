@@ -1,61 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 11:15 - Fortuna Sittard vs. Excelsior [ESPN]
-https://august.ppvtv.icu/embed.html?match=fjh4yuk&server=0
-
-#EXTINF:-1 group-title="Football – Serie A",Oggi 11:30 - Inter Milan vs. Fiorentina [Paramount+]
-https://august.ppvtv.icu/embed.html?match=fp5yfyq&server=0
-
-#EXTINF:-1 group-title="Darts – Darts",Oggi 12:00 - 2026 European Championship | Day 4 S1 [PDC.TV]
-https://august.ppvtv.icu/embed.html?match=c15jda7n&server=0
-
-#EXTINF:-1 group-title="Football – LaLiga",Oggi 13:00 - Athletic Club vs. Getafe [ESPN+]
-https://august.ppvtv.icu/embed.html?match=fk5i8ld&server=0
-
-#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 13:00 - GAIS vs. IFK Göteborg [TV4 Play]
-https://august.ppvtv.icu/embed.html?match=fu1tpui&server=0
-
 #EXTINF:-1 group-title="American Football – NFL",Oggi 13:30 - Pittsburgh Steelers at New Orleans Saints [NFL Network]
 https://august.ppvtv.icu/embed.html?match=cdrwdre&server=0
 
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 13:30 - NEC Nijmegen vs. FC Groningen [ESPN]
-https://august.ppvtv.icu/embed.html?match=fza4047&server=0
-
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 13:30 - PSV Eindhoven vs. Feyenoord Rotterdam [ESPN]
-https://august.ppvtv.icu/embed.html?match=f1vhnft8&server=0
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 14:00 - Crystal Palace vs. Newcastle United [Premier League]
-https://august.ppvtv.icu/embed.html?match=f1m0myf5&server=0
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 14:00 - Hull City vs. Brentford [Premier League]
-https://august.ppvtv.icu/embed.html?match=fmsb0uu&server=0
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 14:00 - Liverpool vs. Brighton & Hove Albion [Premier League]
-https://august.ppvtv.icu/embed.html?match=fu8xfo6&server=0
-
-#EXTINF:-1 group-title="Football – Premier League",Oggi 14:00 - Manchester United vs. AFC Bournemouth [Premier League]
-https://august.ppvtv.icu/embed.html?match=f829wlj&server=0
-
-#EXTINF:-1 group-title="Football – Serie A",Oggi 14:00 - Atalanta vs. Frosinone [Paramount+]
-https://august.ppvtv.icu/embed.html?match=f1e6v5tx&server=0
-
-#EXTINF:-1 group-title="Football – Serie A",Oggi 14:00 - Genoa vs. Venezia [Paramount+]
-https://august.ppvtv.icu/embed.html?match=fyke86e&server=0
-
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 14:00 - AS Monaco vs. Lille [Ligue 1+]
-https://august.ppvtv.icu/embed.html?match=fbr7wmf&server=0
-
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 14:30 - TSG Hoffenheim vs. Bayer Leverkusen [Bundesliga]
+#EXTINF:-1 group-title="Football – Bundesliga",Oggi 14:30 - TSG Hoffenheim vs. Bayer Leverkusen [Fandango]
 https://august.ppvtv.icu/embed.html?match=fayrw1d&server=0
 
 #EXTINF:-1 group-title="Football – LaLiga",Oggi 15:15 - Celta Vigo vs. Real Betis [ESPN+]
 https://august.ppvtv.icu/embed.html?match=f12v95pm&server=0
 
-#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 15:30 - Mjällby AIF vs. Hammarby IF [TV4 Play]
+#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 15:30 - Mjällby AIF vs. Hammarby IF [TV4 Sport Live 1]
 https://august.ppvtv.icu/embed.html?match=f1d8c7xm&server=0
 
-#EXTINF:-1 group-title="Football – Eredivisie",Oggi 15:45 - Sparta Rotterdam vs. Ajax Amsterdam [ESPN]
+#EXTINF:-1 group-title="Football – Eredivisie",Oggi 15:45 - Sparta Rotterdam vs. Ajax Amsterdam [ESPN3]
 https://august.ppvtv.icu/embed.html?match=f1nw96rt&server=0
 
 #EXTINF:-1 group-title="Football – Ligue 1",Oggi 16:15 - AJ Auxerre vs. Le Mans [Ligue 1+]
@@ -70,10 +28,10 @@ https://august.ppvtv.icu/embed.html?match=f1b3vqpz&server=0
 #EXTINF:-1 group-title="Football – Ligue 1",Oggi 16:15 - Stade Rennais vs. Strasbourg [Ligue 1+]
 https://august.ppvtv.icu/embed.html?match=f82mp1j&server=0
 
-#EXTINF:-1 group-title="Football – Bundesliga",Oggi 16:30 - SC Freiburg vs. Bayern Munich [Bundesliga]
+#EXTINF:-1 group-title="Football – Bundesliga",Oggi 16:30 - SC Freiburg vs. Bayern Munich [Fandango]
 https://august.ppvtv.icu/embed.html?match=f11whzno&server=0
 
-#EXTINF:-1 group-title="Football – Premier League",Oggi 16:30 - Sunderland vs. Leeds United [Premier League]
+#EXTINF:-1 group-title="Football – Premier League",Oggi 16:30 - Sunderland vs. Leeds United [Sky Sports Premier League]
 https://august.ppvtv.icu/embed.html?match=foolquu&server=0
 
 #EXTINF:-1 group-title="American Football – NFL",Oggi 17:00 - San Francisco 49ers at Atlanta Falcons [Fox]
@@ -120,6 +78,21 @@ https://august.ppvtv.icu/embed.html?match=fi19zhq&server=0
 
 #EXTINF:-1 group-title="Football – LaLiga",Oggi 20:00 - Barcelona vs. Real Madrid [ESPN+]
 https://august.ppvtv.icu/embed.html?match=fqomuy5&server=0
+
+#EXTINF:-1 group-title="Football – LaLiga",Oggi 20:00 - Barcelona vs. Real Madrid [ESPN Deportes]
+https://august.ppvtv.icu/embed.html?match=fqomuy5&server=1
+
+#EXTINF:-1 group-title="Football – LaLiga",Oggi 20:00 - Barcelona vs. Real Madrid [DAZN LaLiga]
+https://august.ppvtv.icu/embed.html?match=fqomuy5&server=2
+
+#EXTINF:-1 group-title="Football – LaLiga",Oggi 20:00 - Barcelona vs. Real Madrid [DAZN]
+https://august.ppvtv.icu/embed.html?match=fqomuy5&server=3
+
+#EXTINF:-1 group-title="Football – LaLiga",Oggi 20:00 - Barcelona vs. Real Madrid [DAZN]
+https://august.ppvtv.icu/embed.html?match=fqomuy5&server=4
+
+#EXTINF:-1 group-title="Football – LaLiga",Oggi 20:00 - Barcelona vs. Real Madrid [DAZN]
+https://august.ppvtv.icu/embed.html?match=fqomuy5&server=5
 
 #EXTINF:-1 group-title="Motorsports – Formula 1",Oggi 20:00 - United States Grand Prix - Race [Sky Sports F1]
 https://august.ppvtv.icu/embed.html?match=c1osgzo5&server=0
@@ -190,7 +163,7 @@ https://august.ppvtv.icu/embed.html?match=f1k1y1fs&server=0
 #EXTINF:-1 group-title="Basketball – NBA",Oggi 23:00 - LA Clippers vs. Oklahoma City Thunder [NBA League Pass (Away)]
 https://august.ppvtv.icu/embed.html?match=f1k1y1fs&server=1
 
-#EXTINF:-1 group-title="Football – Liga MX",Oggi 23:00 - Atlas vs. Puebla [Liga MX]
+#EXTINF:-1 group-title="Football – Liga MX",Oggi 23:00 - Atlas vs. Puebla [TUDN]
 https://august.ppvtv.icu/embed.html?match=fcvtei7&server=0
 
 #EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:00 - Montreal Canadiens vs. Winnipeg Jets [TNT]
@@ -283,10 +256,10 @@ https://august.ppvtv.icu/embed.html?match=fr5foab&server=1
 #EXTINF:-1 group-title="Football – MLS",Domani 01:00 - LAFC vs. LA Galaxy [Apple TV]
 https://august.ppvtv.icu/embed.html?match=f1dcg17e&server=0
 
-#EXTINF:-1 group-title="Football – Liga MX",Domani 01:00 - América vs. Pachuca [Liga MX]
+#EXTINF:-1 group-title="Football – Liga MX",Domani 01:00 - América vs. Pachuca [TUDN]
 https://august.ppvtv.icu/embed.html?match=fk00l1o&server=0
 
-#EXTINF:-1 group-title="Football – Liga MX",Domani 01:00 - Querétaro vs. Cruz Azul [Liga MX]
+#EXTINF:-1 group-title="Football – Liga MX",Domani 01:00 - Querétaro vs. Cruz Azul [ViX Premium Deportes 3]
 https://august.ppvtv.icu/embed.html?match=f1vajg5r&server=0
 
 #EXTINF:-1 group-title="Basketball – NBA",Domani 02:00 - Golden State Warriors vs. Denver Nuggets [NBCSN]
@@ -295,7 +268,7 @@ https://august.ppvtv.icu/embed.html?match=fd11gu8&server=0
 #EXTINF:-1 group-title="Ice Hockey – NHL",Domani 02:00 - Minnesota Wild vs. Vancouver Canucks [ESPN+]
 https://august.ppvtv.icu/embed.html?match=fn7b2t0&server=0
 
-#EXTINF:-1 group-title="Football – Liga MX",Domani 03:00 - Tijuana vs. Santos [Liga MX]
+#EXTINF:-1 group-title="Football – Liga MX",Domani 03:00 - Tijuana vs. Santos [TUDN]
 https://august.ppvtv.icu/embed.html?match=f1ataxbx&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 05:00 - 24/7 COWS [24/7 channel]
@@ -306,6 +279,9 @@ https://august.ppvtv.icu/embed.html?match=c418ukt&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 10:28 - 24/7 The Simpsons [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1j7a3d7&server=0
+
+#EXTINF:-1 group-title="Football – National League",Domani 19:45 - Altrincham vs. Kidderminster Harriers [DAZN National League]
+https://august.ppvtv.icu/embed.html?match=fevn16e&server=0
 
 #EXTINF:-1 group-title="Football – LaLiga",Domani 20:00 - Sevilla vs. Osasuna [ESPN+]
 https://august.ppvtv.icu/embed.html?match=fx43nnt&server=0

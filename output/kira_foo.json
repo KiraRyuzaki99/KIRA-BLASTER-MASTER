@@ -86,72 +86,6 @@
     ]
   },
   {
-    "title": "Inter Milan Fiorentina",
-    "category": "Inter Milan",
-    "logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-    "start_iso": "2026-10-25T11:30:00.000Z",
-    "end_iso": "2026-10-25T13:45:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "13:30",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/inter-milan-vs-fiorentina",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/inter-milan-vs-fiorentina/3144",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Getafe Athletic Club",
-    "category": "Getafe",
-    "logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-    "start_iso": "2026-10-25T13:00:00.000Z",
-    "end_iso": "2026-10-25T15:15:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "15:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/getafe-vs-athletic-club",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/getafe-vs-athletic-club/3173",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/getafe-vs-athletic-club/3174",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/getafe-vs-athletic-club/3175",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Snooker Northern Ireland Open Snooker",
     "category": "Snooker Northern Ireland Open",
     "logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
@@ -175,257 +109,6 @@
     ]
   },
   {
-    "title": "Pittsburgh Steelers New Orleans Saints",
-    "category": "Pittsburgh Steelers",
-    "logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
-    "start_iso": "2026-10-25T13:30:00.000Z",
-    "end_iso": "2026-10-25T16:40:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "15:30",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/steelers-vs-saints",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/steelers-vs-saints/3156",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/steelers-vs-saints/3191",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Liverpool Brighton & Hove Albion",
-    "category": "Liverpool",
-    "logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-    "start_iso": "2026-10-25T14:00:00.000Z",
-    "end_iso": "2026-10-25T16:15:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "16:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/liverpool-vs-brighton",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/liverpool-vs-brighton/3166",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/liverpool-vs-brighton/3167",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/liverpool-vs-brighton/3168",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://playerdee.top/alpha/liverpool-vs-brighton/3169",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Manchester United AFC Bournemouth",
-    "category": "Manchester United",
-    "logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-    "start_iso": "2026-10-25T14:00:00.000Z",
-    "end_iso": "2026-10-25T16:15:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "16:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/manchester-united-vs-bournemouth",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/manchester-united-vs-bournemouth/3170",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/manchester-united-vs-bournemouth/3171",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/manchester-united-vs-bournemouth/3172",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Brentford Hull City",
-    "category": "Brentford",
-    "logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
-    "start_iso": "2026-10-25T14:00:00.000Z",
-    "end_iso": "2026-10-25T16:15:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "16:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/brentford-vs-hull-city",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/brentford-vs-hull-city/3164",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/brentford-vs-hull-city/3165",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Crystal Palace Newcastle United",
-    "category": "Crystal Palace",
-    "logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-    "start_iso": "2026-10-25T14:00:00.000Z",
-    "end_iso": "2026-10-25T16:15:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "16:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/crystal-palace-vs-newcastle-united",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/crystal-palace-vs-newcastle-united/3162",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/crystal-palace-vs-newcastle-united/3163",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Lille AS Monaco",
-    "category": "Lille",
-    "logo": "https://cdn.img4every1.org/team/lille/logo.webp",
-    "start_iso": "2026-10-25T14:00:00.000Z",
-    "end_iso": "2026-10-25T16:15:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "16:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/lille-vs-monaco",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/lille-vs-monaco/3187",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://playerdee.top/alpha/lille-vs-monaco/3188",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Bayer Leverkusen Hoffenheim",
-    "category": "Bayer Leverkusen",
-    "logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-    "start_iso": "2026-10-25T14:30:00.000Z",
-    "end_iso": "2026-10-25T16:45:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "16:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/bayer-leverkusen-vs-hoffenheim",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/bayer-leverkusen-vs-hoffenheim/3149",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Harlequins Saracens",
     "category": "Harlequins",
     "logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
@@ -433,7 +116,7 @@
     "end_iso": "2026-10-25T17:15:00.000Z",
     "date": "Sunday, 25 October 2026",
     "time": "17:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/harlequins-vs-saracens",
     "servers": [
       {
@@ -456,7 +139,7 @@
     "end_iso": "2026-10-25T17:30:00.000Z",
     "date": "Sunday, 25 October 2026",
     "time": "17:15",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/real-betis-vs-celta-vigo",
     "servers": [
       {
@@ -499,7 +182,7 @@
     "end_iso": "2026-10-25T18:30:00.000Z",
     "date": "Sunday, 25 October 2026",
     "time": "18:15",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/marseille-vs-le-havre",
     "servers": [
       {
@@ -525,18 +208,6 @@
     ]
   },
   {
-    "title": "Sunderland Leeds United",
-    "category": "Sunderland",
-    "logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-    "start_iso": "2026-10-25T16:30:00.000Z",
-    "end_iso": "2026-10-25T18:45:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "18:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/sunderland-vs-leeds-utd",
-    "servers": []
-  },
-  {
     "title": "Bayern München Freiburg",
     "category": "Bayern München",
     "logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
@@ -544,7 +215,7 @@
     "end_iso": "2026-10-25T18:45:00.000Z",
     "date": "Sunday, 25 October 2026",
     "time": "18:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/bayern-munchen-vs-freiburg",
     "servers": [
       {
@@ -560,6 +231,69 @@
     ]
   },
   {
+    "title": "Sunderland Leeds United",
+    "category": "Sunderland",
+    "logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+    "start_iso": "2026-10-25T16:30:00.000Z",
+    "end_iso": "2026-10-25T18:45:00.000Z",
+    "date": "Sunday, 25 October 2026",
+    "time": "18:30",
+    "status": "live",
+    "event_url": "https://pogo.pk/events/sunderland-vs-leeds-utd",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3192",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3193",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3194",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3195",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3196",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
+  },
+  {
     "title": "Miami Dolphins New York Jets",
     "category": "Miami Dolphins",
     "logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
@@ -569,7 +303,18 @@
     "time": "19:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/miami-dolphins-vs-jets",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/miami-dolphins-vs-jets/3197",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Tennessee Titans Cleveland Browns",
@@ -581,7 +326,18 @@
     "time": "19:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/titans-vs-browns",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/titans-vs-browns/3199",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "New York Giants Houston Texans",
@@ -593,7 +349,18 @@
     "time": "19:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/giants-vs-texans",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/giants-vs-texans/3200",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Atlanta Falcons San Francisco 49ers",
@@ -615,6 +382,16 @@
           "ads": "2",
           "language": "English"
         }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/falcons-vs-49ers/3201",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
       }
     ]
   },
@@ -628,7 +405,18 @@
     "time": "19:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/baltimore-ravens-vs-cincinnati-bengals",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/baltimore-ravens-vs-cincinnati-bengals/3198",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Juventus Lecce",
@@ -875,6 +663,18 @@
     "servers": []
   },
   {
+    "title": "Bradford City Peterborough United",
+    "category": "Bradford City",
+    "logo": "https://cdn.img4every1.org/team/bradford-city/logo.webp",
+    "start_iso": "2026-10-27T19:45:00.000Z",
+    "end_iso": "2026-10-27T22:00:00.000Z",
+    "date": "Tuesday, 27 October 2026",
+    "time": "21:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/bradford-city-vs-peterborough-utd",
+    "servers": []
+  },
+  {
     "title": "Borussia Dortmund Werder Bremen",
     "category": "Borussia Dortmund",
     "logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
@@ -896,18 +696,6 @@
         }
       }
     ]
-  },
-  {
-    "title": "Bradford City Peterborough United",
-    "category": "Bradford City",
-    "logo": "https://cdn.img4every1.org/team/bradford-city/logo.webp",
-    "start_iso": "2026-10-27T19:45:00.000Z",
-    "end_iso": "2026-10-27T22:00:00.000Z",
-    "date": "Tuesday, 27 October 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/bradford-city-vs-peterborough-utd",
-    "servers": []
   },
   {
     "title": "Arsenal Fleetwood Town",

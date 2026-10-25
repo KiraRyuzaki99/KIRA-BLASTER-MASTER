@@ -46,23 +46,23 @@ def generate_index():
     lista_li = ""
     contatore_cyber = 1  # Partiamo da 1 per i file KIRA CYBER
 
-for f in files_esistenti:
-    
-    # Controlliamo se è il file degli eventi
-    if "Eventi della Settimana" in f:
-        # Nome speciale e classe CSS dedicata
-        nome_visualizzato = "🔥 PALINSESTO: EVENTI DELLA SETTIMANA 🔥"
-        classe_li = 'class="palinsesto"'
-    else:
-        # Nome standard per gli altri file usando il nostro contatore
-        nome_visualizzato = f"KIRA CYBER {contatore_cyber}"
-        classe_li = ""
-        contatore_cyber += 1  # Incrementiamo il contatore SOLO per i file Kira
-    
-    # Aggiunge il pulsante alla lista
-    lista_li += f'            <li {classe_li}><a href="{f}">📁 {nome_visualizzato}</a></li>\n'
+    for f in files_esistenti:
+        # Controlliamo se è il file degli eventi
+        if "Eventi della Settimana" in f:
+            # Nome speciale e classe CSS dedicata
+            nome_visualizzato = "🔥 PALINSESTO: EVENTI DELLA SETTIMANA 🔥"
+            classe_li = 'class="palinsesto"'
+        else:
+            # Nome standard per gli altri file usando il nostro contatore
+            nome_visualizzato = f"KIRA CYBER {contatore_cyber}"
+            classe_li = ""
+            contatore_cyber += 1  # Incrementiamo il contatore SOLO per i file Kira
+        
+        # Aggiunge il pulsante alla lista
+        lista_li += f'            <li {classe_li}><a href="{f}">📁 {nome_visualizzato}</a></li>\n'
     
     # 5. Creazione del file HTML (usando le doppie graffe {{ }} per il CSS/JS)
+    # NOTA: Questo blocco è ora FUORI dal ciclo for, quindi viene eseguito una volta sola!
     html = f'''<!DOCTYPE html>
 <html lang="it">
 <head>
@@ -205,6 +205,21 @@ for f in files_esistenti:
             color: #000;
             box-shadow: 0 0 20px #0f0, 0 0 30px #0f0;
             transform: scale(1.02);
+        }}
+        
+        /* Stile speciale per il Palinsesto */
+        .palinsesto a {{
+            color: #ff0055; /* Colore fucsia/rosso acceso per distinguerlo */
+            border: 2px solid #ff0055;
+            text-shadow: 0 0 15px #ff0055, 0 0 30px #ff0055;
+            box-shadow: 0 0 20px rgba(255, 0, 85, 0.5);
+            font-size: 1.3em; /* Testo leggermente più grande */
+        }}
+        
+        .palinsesto a:hover {{
+            background-color: #ff0055;
+            color: #000;
+            box-shadow: 0 0 30px #ff0055, 0 0 60px #ff0055;
         }}
         
         .footer {{

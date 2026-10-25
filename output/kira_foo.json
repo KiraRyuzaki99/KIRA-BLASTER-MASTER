@@ -86,72 +86,6 @@
     ]
   },
   {
-    "title": "New Zealand Cook Islands",
-    "category": "New Zealand",
-    "logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-    "start_iso": "2026-10-25T05:00:00.000Z",
-    "end_iso": "2026-10-25T07:15:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "07:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/new-zealand-vs-cook-islands",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/new-zealand-vs-cook-islands/3151",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/new-zealand-vs-cook-islands/3152",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Australia Fiji",
-    "category": "Australia",
-    "logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-    "start_iso": "2026-10-25T09:05:00.000Z",
-    "end_iso": "2026-10-25T11:20:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "11:05",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/australia-vs-fiji",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/australia-vs-fiji/3153",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/australia-vs-fiji/3154",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Inter Milan Fiorentina",
     "category": "Inter Milan",
     "logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
@@ -159,7 +93,7 @@
     "end_iso": "2026-10-25T13:45:00.000Z",
     "date": "Sunday, 25 October 2026",
     "time": "13:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/inter-milan-vs-fiorentina",
     "servers": [
       {
@@ -184,7 +118,38 @@
     "time": "15:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/getafe-vs-athletic-club",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/getafe-vs-athletic-club/3173",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/getafe-vs-athletic-club/3174",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/getafe-vs-athletic-club/3175",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Snooker Northern Ireland Open Snooker",
@@ -242,7 +207,28 @@
     "time": "16:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/brentford-vs-hull-city",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/brentford-vs-hull-city/3164",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/brentford-vs-hull-city/3165",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Liverpool Brighton & Hove Albion",
@@ -254,7 +240,48 @@
     "time": "16:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/liverpool-vs-brighton",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/liverpool-vs-brighton/3166",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/liverpool-vs-brighton/3167",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/liverpool-vs-brighton/3168",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/liverpool-vs-brighton/3169",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
   },
   {
     "title": "Crystal Palace Newcastle United",
@@ -266,7 +293,28 @@
     "time": "16:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/crystal-palace-vs-newcastle-united",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/crystal-palace-vs-newcastle-united/3162",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/crystal-palace-vs-newcastle-united/3163",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Manchester United AFC Bournemouth",
@@ -278,7 +326,38 @@
     "time": "16:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/manchester-united-vs-bournemouth",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/manchester-united-vs-bournemouth/3170",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/manchester-united-vs-bournemouth/3171",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/manchester-united-vs-bournemouth/3172",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Lille AS Monaco",
@@ -290,7 +369,28 @@
     "time": "16:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/lille-vs-monaco",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/lille-vs-monaco/3187",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://playerdee.top/alpha/lille-vs-monaco/3188",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      }
+    ]
   },
   {
     "title": "Bayer Leverkusen Hoffenheim",
@@ -348,7 +448,38 @@
     "time": "17:15",
     "status": "next",
     "event_url": "https://pogo.pk/events/real-betis-vs-celta-vigo",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-betis-vs-celta-vigo/3176",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-betis-vs-celta-vigo/3177",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-betis-vs-celta-vigo/3178",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Olympique Marseille Le Havre",
@@ -360,7 +491,28 @@
     "time": "18:15",
     "status": "next",
     "event_url": "https://pogo.pk/events/marseille-vs-le-havre",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/marseille-vs-le-havre/3189",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://playerdee.top/alpha/marseille-vs-le-havre/3190",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      }
+    ]
   },
   {
     "title": "Sunderland Leeds United",
@@ -393,39 +545,6 @@
           "quality": "720p",
           "ads": "2",
           "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Juventus Lecce",
-    "category": "Juventus",
-    "logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-    "start_iso": "2026-10-25T17:00:00.000Z",
-    "end_iso": "2026-10-25T19:15:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "19:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/juventus-vs-lecce",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/juventus-vs-lecce/3145",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Portuguese",
-        "url": "https://playerdee.top/alpha/juventus-vs-lecce/3146",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
         }
       }
     ]
@@ -502,6 +621,39 @@
     "servers": []
   },
   {
+    "title": "Juventus Lecce",
+    "category": "Juventus",
+    "logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+    "start_iso": "2026-10-25T17:00:00.000Z",
+    "end_iso": "2026-10-25T19:15:00.000Z",
+    "date": "Sunday, 25 October 2026",
+    "time": "19:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/juventus-vs-lecce",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/juventus-vs-lecce/3145",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/juventus-vs-lecce/3146",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
+  },
+  {
     "title": "Real Sociedad Levante",
     "category": "Real Sociedad",
     "logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
@@ -511,7 +663,38 @@
     "time": "19:30",
     "status": "next",
     "event_url": "https://pogo.pk/events/real-sociedad-vs-levante",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-sociedad-vs-levante/3179",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-sociedad-vs-levante/3180",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-sociedad-vs-levante/3181",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "AC Milan Udinese",
@@ -556,7 +739,58 @@
     "time": "22:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/barcelona-vs-real-madrid",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3182",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3183",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3184",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3185",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3186",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
   },
   {
     "title": "2026 Ballon d'Or Friendly",

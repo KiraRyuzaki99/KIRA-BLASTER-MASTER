@@ -1,24 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Combat Sports – Top Rank Boxing",Oggi 00:00 - Emanuel Navarrete vs. O'Shaquie Foster [DAZN]
-https://august.ppvtv.icu/embed.html?match=fpajs4j&server=0
-
-#EXTINF:-1 group-title="American Football – College Football",Oggi 02:15 - Houston Cougars at Utah Utes [ESPN]
-https://august.ppvtv.icu/embed.html?match=chlafpm&server=0
-
-#EXTINF:-1 group-title="American Football – College Football",Oggi 02:15 - Houston Cougars at Utah Utes [SkyCast]
-https://august.ppvtv.icu/embed.html?match=chlafpm&server=1
-
-#EXTINF:-1 group-title="Football – MLS",Oggi 02:30 - Portland Timbers vs. Charlotte FC [Apple TV]
-https://august.ppvtv.icu/embed.html?match=fgyykxk&server=0
-
-#EXTINF:-1 group-title="Football – MLS",Oggi 02:30 - San Diego FC vs. Seattle Sounders FC [Apple TV]
-https://august.ppvtv.icu/embed.html?match=f1205cgi&server=0
-
-#EXTINF:-1 group-title="Football – Liga MX",Oggi 03:00 - Pumas UNAM vs. Tigres UANL [Liga MX]
-https://august.ppvtv.icu/embed.html?match=f1omtjw8&server=0
-
 #EXTINF:-1 group-title="Football – Eredivisie",Oggi 11:15 - Fortuna Sittard vs. Excelsior [ESPN]
 https://august.ppvtv.icu/embed.html?match=fjh4yuk&server=0
 
@@ -127,6 +109,9 @@ https://august.ppvtv.icu/embed.html?match=cbd28p2&server=0
 #EXTINF:-1 group-title="Football – Eredivisie",Oggi 19:00 - AZ Alkmaar vs. FC Twente [ESPN]
 https://august.ppvtv.icu/embed.html?match=f11roq90&server=0
 
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 19:00 - Florida Panthers vs. Chicago Blackhawks [CHSN]
+https://august.ppvtv.icu/embed.html?match=fgab49c&server=0
+
 #EXTINF:-1 group-title="Football – Serie A",Oggi 19:45 - Udinese vs. AC Milan [Paramount+]
 https://august.ppvtv.icu/embed.html?match=f1cniwjg&server=0
 
@@ -184,6 +169,9 @@ https://august.ppvtv.icu/embed.html?match=f12rduda&server=0
 #EXTINF:-1 group-title="Basketball – NBA",Oggi 22:00 - Indiana Pacers vs. Brooklyn Nets [NBA League Pass (Away)]
 https://august.ppvtv.icu/embed.html?match=f12rduda&server=1
 
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 22:00 - New York Islanders vs. Dallas Stars [Prime Video (Local)]
+https://august.ppvtv.icu/embed.html?match=fpheox9&server=0
+
 #EXTINF:-1 group-title="Basketball – NBA",Oggi 23:00 - Orlando Magic vs. New York Knicks [NBA League Pass (Home)]
 https://august.ppvtv.icu/embed.html?match=f1yebnp6&server=0
 
@@ -204,6 +192,9 @@ https://august.ppvtv.icu/embed.html?match=f1k1y1fs&server=1
 
 #EXTINF:-1 group-title="Football – Liga MX",Oggi 23:00 - Atlas vs. Puebla [Liga MX]
 https://august.ppvtv.icu/embed.html?match=fcvtei7&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:00 - Montreal Canadiens vs. Winnipeg Jets [TNT]
+https://august.ppvtv.icu/embed.html?match=f1lykot0&server=0
 
 #EXTINF:-1 group-title="Basketball – NBA",Oggi 23:30 - Detroit Pistons vs. Philadelphia 76ers [NBA League Pass (Home)]
 https://august.ppvtv.icu/embed.html?match=f4ajsvt&server=0
@@ -241,6 +232,21 @@ https://august.ppvtv.icu/embed.html?match=chsgr4k&server=0
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Oggi N/A - 24/7 South Park [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1ed9edx&server=0
 
+#EXTINF:-1 group-title="Basketball – NBA",Domani 00:00 - Indiana Pacers vs. Milwaukee Bucks [MyMi (Home)]
+https://august.ppvtv.icu/embed.html?match=f1yibcqs&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 00:00 - Indiana Pacers vs. Milwaukee Bucks [NBA League Pass (Away)]
+https://august.ppvtv.icu/embed.html?match=f1yibcqs&server=1
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 00:00 - Phoenix Suns vs. Oklahoma City Thunder [KSBI (Home)]
+https://august.ppvtv.icu/embed.html?match=fhm58nz&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 00:00 - Phoenix Suns vs. Oklahoma City Thunder [NBA League Pass (Away)]
+https://august.ppvtv.icu/embed.html?match=fhm58nz&server=1
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Colorado Avalanche vs. Nashville Predators [Scripps Sports]
+https://august.ppvtv.icu/embed.html?match=fswsf1j&server=0
+
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 00:00 - 24/7 SpongeBob Squarepants [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c10yqzo0&server=0
 
@@ -256,11 +262,23 @@ https://august.ppvtv.icu/embed.html?match=c13ziz1w&server=0
 #EXTINF:-1 group-title="American Football – NFL",Domani 00:20 - Kansas City Chiefs at Seattle Seahawks [NBC]
 https://august.ppvtv.icu/embed.html?match=cr5qomy&server=0
 
+#EXTINF:-1 group-title="Basketball – NBA",Domani 00:30 - Atlanta Hawks vs. Houston Rockets [NBA League Pass (Home)]
+https://august.ppvtv.icu/embed.html?match=f1gal1nu&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 00:30 - Atlanta Hawks vs. Houston Rockets [NBA League Pass (Away)]
+https://august.ppvtv.icu/embed.html?match=f1gal1nu&server=1
+
 #EXTINF:-1 group-title="Basketball – NBA",Domani 01:00 - Memphis Grizzlies vs. Sacramento Kings [NBA League Pass (Home)]
 https://august.ppvtv.icu/embed.html?match=f1fr1ji1&server=0
 
 #EXTINF:-1 group-title="Basketball – NBA",Domani 01:00 - Memphis Grizzlies vs. Sacramento Kings [NBA League Pass (Away)]
 https://august.ppvtv.icu/embed.html?match=f1fr1ji1&server=1
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 01:00 - Memphis Grizzlies vs. Utah Jazz [KJZZ-TV (Home)]
+https://august.ppvtv.icu/embed.html?match=fr5foab&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 01:00 - Memphis Grizzlies vs. Utah Jazz [NBA League Pass (Away)]
+https://august.ppvtv.icu/embed.html?match=fr5foab&server=1
 
 #EXTINF:-1 group-title="Football – MLS",Domani 01:00 - LAFC vs. LA Galaxy [Apple TV]
 https://august.ppvtv.icu/embed.html?match=f1dcg17e&server=0
@@ -270,6 +288,12 @@ https://august.ppvtv.icu/embed.html?match=fk00l1o&server=0
 
 #EXTINF:-1 group-title="Football – Liga MX",Domani 01:00 - Querétaro vs. Cruz Azul [Liga MX]
 https://august.ppvtv.icu/embed.html?match=f1vajg5r&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 02:00 - Golden State Warriors vs. Denver Nuggets [NBCSN]
+https://august.ppvtv.icu/embed.html?match=fd11gu8&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 02:00 - Minnesota Wild vs. Vancouver Canucks [ESPN+]
+https://august.ppvtv.icu/embed.html?match=fn7b2t0&server=0
 
 #EXTINF:-1 group-title="Football – Liga MX",Domani 03:00 - Tijuana vs. Santos [Liga MX]
 https://august.ppvtv.icu/embed.html?match=f1ataxbx&server=0
@@ -285,3 +309,27 @@ https://august.ppvtv.icu/embed.html?match=c1j7a3d7&server=0
 
 #EXTINF:-1 group-title="Football – LaLiga",Domani 20:00 - Sevilla vs. Osasuna [ESPN+]
 https://august.ppvtv.icu/embed.html?match=fx43nnt&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 23:00 - Washington Wizards vs. Charlotte Hornets [MNMT (Home)]
+https://august.ppvtv.icu/embed.html?match=fg47nx9&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 23:00 - Washington Wizards vs. Charlotte Hornets [MNMT (Away)]
+https://august.ppvtv.icu/embed.html?match=fg47nx9&server=1
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 23:00 - Minnesota Timberwolves vs. Cleveland Cavaliers [NBA League Pass (Home)]
+https://august.ppvtv.icu/embed.html?match=fl7a2r1&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 23:00 - Minnesota Timberwolves vs. Cleveland Cavaliers [NBA League Pass (Away)]
+https://august.ppvtv.icu/embed.html?match=fl7a2r1&server=1
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 23:30 - Chicago Bulls vs. Boston Celtics [NBA League Pass (Home)]
+https://august.ppvtv.icu/embed.html?match=fjsm9kg&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 23:30 - Chicago Bulls vs. Boston Celtics [NBA League Pass (Away)]
+https://august.ppvtv.icu/embed.html?match=fjsm9kg&server=1
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 23:30 - Dallas Mavericks vs. Miami Heat [NBA TV]
+https://august.ppvtv.icu/embed.html?match=fgakmx&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 23:30 - Dallas Mavericks vs. Miami Heat [KFAA-TV (Away)]
+https://august.ppvtv.icu/embed.html?match=fgakmx&server=1

@@ -109,191 +109,6 @@
     ]
   },
   {
-    "title": "Harlequins Saracens",
-    "category": "Harlequins",
-    "logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
-    "start_iso": "2026-10-25T15:00:00.000Z",
-    "end_iso": "2026-10-25T17:15:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "17:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/harlequins-vs-saracens",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/harlequins-vs-saracens/3157",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Real Betis Celta de Vigo",
-    "category": "Real Betis",
-    "logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-    "start_iso": "2026-10-25T15:15:00.000Z",
-    "end_iso": "2026-10-25T17:30:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "17:15",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/real-betis-vs-celta-vigo",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/real-betis-vs-celta-vigo/3176",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/real-betis-vs-celta-vigo/3177",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/real-betis-vs-celta-vigo/3178",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Olympique Marseille Le Havre",
-    "category": "Olympique Marseille",
-    "logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
-    "start_iso": "2026-10-25T16:15:00.000Z",
-    "end_iso": "2026-10-25T18:30:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "18:15",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/marseille-vs-le-havre",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/marseille-vs-le-havre/3189",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://playerdee.top/alpha/marseille-vs-le-havre/3190",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Bayern München Freiburg",
-    "category": "Bayern München",
-    "logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-    "start_iso": "2026-10-25T16:30:00.000Z",
-    "end_iso": "2026-10-25T18:45:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "18:30",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/bayern-munchen-vs-freiburg",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/bayern-munchen-vs-freiburg/3150",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Sunderland Leeds United",
-    "category": "Sunderland",
-    "logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-    "start_iso": "2026-10-25T16:30:00.000Z",
-    "end_iso": "2026-10-25T18:45:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "18:30",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/sunderland-vs-leeds-utd",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3192",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3193",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3194",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3195",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3196",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
     "title": "Miami Dolphins New York Jets",
     "category": "Miami Dolphins",
     "logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
@@ -301,7 +116,7 @@
     "end_iso": "2026-10-25T20:10:00.000Z",
     "date": "Sunday, 25 October 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/miami-dolphins-vs-jets",
     "servers": [
       {
@@ -324,7 +139,7 @@
     "end_iso": "2026-10-25T20:10:00.000Z",
     "date": "Sunday, 25 October 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/titans-vs-browns",
     "servers": [
       {
@@ -347,7 +162,7 @@
     "end_iso": "2026-10-25T20:10:00.000Z",
     "date": "Sunday, 25 October 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/giants-vs-texans",
     "servers": [
       {
@@ -370,7 +185,7 @@
     "end_iso": "2026-10-25T20:10:00.000Z",
     "date": "Sunday, 25 October 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/falcons-vs-49ers",
     "servers": [
       {
@@ -403,88 +218,12 @@
     "end_iso": "2026-10-25T20:10:00.000Z",
     "date": "Sunday, 25 October 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/baltimore-ravens-vs-cincinnati-bengals",
     "servers": [
       {
         "label": "English",
         "url": "https://playerdee.top/alpha/baltimore-ravens-vs-cincinnati-bengals/3198",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Juventus Lecce",
-    "category": "Juventus",
-    "logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-    "start_iso": "2026-10-25T17:00:00.000Z",
-    "end_iso": "2026-10-25T19:15:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "19:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/juventus-vs-lecce",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/juventus-vs-lecce/3145",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Portuguese",
-        "url": "https://playerdee.top/alpha/juventus-vs-lecce/3146",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Real Sociedad Levante",
-    "category": "Real Sociedad",
-    "logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-    "start_iso": "2026-10-25T17:30:00.000Z",
-    "end_iso": "2026-10-25T19:45:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "19:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/real-sociedad-vs-levante",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/real-sociedad-vs-levante/3179",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/real-sociedad-vs-levante/3180",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/real-sociedad-vs-levante/3181",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -502,7 +241,7 @@
     "end_iso": "2026-10-25T22:00:00.000Z",
     "date": "Sunday, 25 October 2026",
     "time": "21:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/ac-milan-vs-udinese",
     "servers": [
       {
@@ -600,7 +339,107 @@
     "time": "22:05",
     "status": "next",
     "event_url": "https://pogo.pk/events/cardinals-vs-broncos",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/cardinals-vs-broncos/3204",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Los Angeles Rams Las Vegas Raiders",
+    "category": "Los Angeles Rams",
+    "logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
+    "start_iso": "2026-10-25T20:05:00.000Z",
+    "end_iso": "2026-10-25T23:15:00.000Z",
+    "date": "Sunday, 25 October 2026",
+    "time": "22:05",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/rams-vs-raiders",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/rams-vs-raiders/3205",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Detroit Lions Green Bay Packers",
+    "category": "Detroit Lions",
+    "logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
+    "start_iso": "2026-10-25T20:25:00.000Z",
+    "end_iso": "2026-10-25T23:35:00.000Z",
+    "date": "Sunday, 25 October 2026",
+    "time": "22:25",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/detroit-lions-vs-green-bay-packers",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/detroit-lions-vs-green-bay-packers/3159",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/detroit-lions-vs-green-bay-packers/3206",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Kansas City Chiefs Seattle Seahawks",
+    "category": "Kansas City Chiefs",
+    "logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
+    "start_iso": "2026-10-26T00:20:00.000Z",
+    "end_iso": "2026-10-26T03:30:00.000Z",
+    "date": "Monday, 26 October 2026",
+    "time": "02:20",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/chiefs-vs-seahawks",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/chiefs-vs-seahawks/3160",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/chiefs-vs-seahawks/3207",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "2026 Ballon d'Or Friendly",
@@ -627,18 +466,6 @@
     "servers": []
   },
   {
-    "title": "Sevilla Osasuna",
-    "category": "Sevilla",
-    "logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-    "start_iso": "2026-10-26T20:00:00.000Z",
-    "end_iso": "2026-10-26T22:15:00.000Z",
-    "date": "Monday, 26 October 2026",
-    "time": "22:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/sevilla-vs-osasuna",
-    "servers": []
-  },
-  {
     "title": "Walsall FC Salford City",
     "category": "Walsall FC",
     "logo": "https://cdn.img4every1.org/team/walsall-fc/logo.webp",
@@ -648,6 +475,18 @@
     "time": "22:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/walsall-vs-salford-city",
+    "servers": []
+  },
+  {
+    "title": "Sevilla Osasuna",
+    "category": "Sevilla",
+    "logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+    "start_iso": "2026-10-26T20:00:00.000Z",
+    "end_iso": "2026-10-26T22:15:00.000Z",
+    "date": "Monday, 26 October 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/sevilla-vs-osasuna",
     "servers": []
   },
   {

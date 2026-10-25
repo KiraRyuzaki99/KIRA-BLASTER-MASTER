@@ -1,30 +1,43 @@
 name: Aggiornamento Automatico KIRA-BLASTER-MASTER
+
 on:
   schedule:
     - cron: '43 */2 * * *'
   workflow_dispatch:
+
+# Permessi necessari per far funzionare GitHub Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   run-scrapers:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+          
       - name: Installa dipendenze
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
+          
       - name: Esegue wrapper
         run: |
           python wrapper.py
+          
       - name: Cifra gli HTML
         env:
           HTML_PASSWORD: ${{ secrets.HTML_PASSWORD }}
         run: |
           python scripts/encrypt_html.py output
+          
       - name: Commit e push dei file generati
         run: |
           git config --local user.email "action@github.com"
@@ -32,3 +45,16 @@ jobs:
           git add output/
           git diff --staged --quiet || git commit -m "Aggiornamento automatico - $(date '+%Y-%m-%d %H:%M:%S')"
           git push
+
+      # --- INIZIO PARTE AGGIUNTA PER GITHUB PAGES ---
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './output' 
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

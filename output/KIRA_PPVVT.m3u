@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
+#EXTINF:-1 group-title="American Football – NFL",Oggi 16:45 - NFL RedZone [NFL RedZone]
+https://august.ppvtv.icu/embed.html?match=c1pwxmex&server=0
+
 #EXTINF:-1 group-title="American Football – NFL",Oggi 17:00 - San Francisco 49ers at Atlanta Falcons [Fox]
 https://august.ppvtv.icu/embed.html?match=c1p7ok4l&server=0
 
@@ -22,23 +25,20 @@ https://august.ppvtv.icu/embed.html?match=c14sgopr&server=0
 #EXTINF:-1 group-title="American Football – NFL",Oggi 17:00 - New York Giants at Houston Texans [Fox]
 https://august.ppvtv.icu/embed.html?match=cu7e8fj&server=0
 
-#EXTINF:-1 group-title="Football – LaLiga",Oggi 17:30 - Real Sociedad vs. Levante [ESPN+]
-https://august.ppvtv.icu/embed.html?match=fskp0ny&server=0
-
 #EXTINF:-1 group-title="Darts – Darts",Oggi 18:00 - 2026 European Championship | Day 4 S2 [PDC.TV]
 https://august.ppvtv.icu/embed.html?match=cbd28p2&server=0
 
 #EXTINF:-1 group-title="Football – Eredivisie",Oggi 19:00 - AZ Alkmaar vs. FC Twente [ESPN]
 https://august.ppvtv.icu/embed.html?match=f11roq90&server=0
 
+#EXTINF:-1 group-title="Football – Eredivisie",Oggi 19:00 - AZ Alkmaar vs. FC Twente [ESPN+]
+https://august.ppvtv.icu/embed.html?match=f11roq90&server=1
+
 #EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 19:00 - Florida Panthers vs. Chicago Blackhawks [CHSN]
 https://august.ppvtv.icu/embed.html?match=fgab49c&server=0
 
 #EXTINF:-1 group-title="Football – Serie A",Oggi 19:45 - Udinese vs. AC Milan [Paramount+]
 https://august.ppvtv.icu/embed.html?match=f1cniwjg&server=0
-
-#EXTINF:-1 group-title="Football – Ligue 1",Oggi 19:45 - Paris Saint-Germain vs. Lyon [Ligue 1+]
-https://august.ppvtv.icu/embed.html?match=fi19zhq&server=0
 
 #EXTINF:-1 group-title="Football – LaLiga",Oggi 20:00 - Barcelona vs. Real Madrid [ESPN+]
 https://august.ppvtv.icu/embed.html?match=fqomuy5&server=0
@@ -93,6 +93,9 @@ https://august.ppvtv.icu/embed.html?match=ct28c3v&server=0
 
 #EXTINF:-1 group-title="American Football – NFL",Oggi 20:25 - Los Angeles Rams at Las Vegas Raiders [Fox]
 https://august.ppvtv.icu/embed.html?match=c143nwij&server=0
+
+#EXTINF:-1 group-title="American Football – NFL",Oggi 20:25 - Los Angeles Rams at Las Vegas Raiders [NFL Game Pass on DAZN]
+https://august.ppvtv.icu/embed.html?match=c143nwij&server=1
 
 #EXTINF:-1 group-title="Basketball – NBA",Oggi 21:00 - Los Angeles Lakers vs. Utah Jazz [KJZZ-TV (Home)]
 https://august.ppvtv.icu/embed.html?match=f1sz5wfm&server=0
@@ -243,6 +246,9 @@ https://august.ppvtv.icu/embed.html?match=c418ukt&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 10:28 - 24/7 The Simpsons [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1j7a3d7&server=0
+
+#EXTINF:-1 group-title="Football – Ligue 1",Domani 19:45 - Paris Saint-Germain vs. Lyon [Ligue 1+]
+https://august.ppvtv.icu/embed.html?match=fi19zhq&server=0
 
 #EXTINF:-1 group-title="Football – National League",Domani 19:45 - Altrincham vs. Kidderminster Harriers [DAZN National League]
 https://august.ppvtv.icu/embed.html?match=fevn16e&server=0

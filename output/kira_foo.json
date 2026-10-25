@@ -109,131 +109,6 @@
     ]
   },
   {
-    "title": "Miami Dolphins New York Jets",
-    "category": "Miami Dolphins",
-    "logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
-    "start_iso": "2026-10-25T17:00:00.000Z",
-    "end_iso": "2026-10-25T20:10:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/miami-dolphins-vs-jets",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/miami-dolphins-vs-jets/3197",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Tennessee Titans Cleveland Browns",
-    "category": "Tennessee Titans",
-    "logo": "https://cdn.img4every1.org/team/tennessee-titans/logo.webp",
-    "start_iso": "2026-10-25T17:00:00.000Z",
-    "end_iso": "2026-10-25T20:10:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/titans-vs-browns",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/titans-vs-browns/3199",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "New York Giants Houston Texans",
-    "category": "New York Giants",
-    "logo": "https://cdn.img4every1.org/team/new-york-giants/logo.webp",
-    "start_iso": "2026-10-25T17:00:00.000Z",
-    "end_iso": "2026-10-25T20:10:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/giants-vs-texans",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/giants-vs-texans/3200",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Atlanta Falcons San Francisco 49ers",
-    "category": "Atlanta Falcons",
-    "logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
-    "start_iso": "2026-10-25T17:00:00.000Z",
-    "end_iso": "2026-10-25T20:10:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/falcons-vs-49ers",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/falcons-vs-49ers/3158",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/falcons-vs-49ers/3201",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Baltimore Ravens Cincinnati Bengals",
-    "category": "Baltimore Ravens",
-    "logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
-    "start_iso": "2026-10-25T17:00:00.000Z",
-    "end_iso": "2026-10-25T20:10:00.000Z",
-    "date": "Sunday, 25 October 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/baltimore-ravens-vs-cincinnati-bengals",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/baltimore-ravens-vs-cincinnati-bengals/3198",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "AC Milan Udinese",
     "category": "AC Milan",
     "logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
@@ -274,7 +149,7 @@
     "end_iso": "2026-10-25T22:15:00.000Z",
     "date": "Sunday, 25 October 2026",
     "time": "22:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/barcelona-vs-real-madrid",
     "servers": [
       {
@@ -337,7 +212,7 @@
     "end_iso": "2026-10-25T23:15:00.000Z",
     "date": "Sunday, 25 October 2026",
     "time": "22:05",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/cardinals-vs-broncos",
     "servers": [
       {
@@ -360,7 +235,7 @@
     "end_iso": "2026-10-25T23:15:00.000Z",
     "date": "Sunday, 25 October 2026",
     "time": "22:05",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/rams-vs-raiders",
     "servers": [
       {
@@ -383,7 +258,7 @@
     "end_iso": "2026-10-25T23:35:00.000Z",
     "date": "Sunday, 25 October 2026",
     "time": "22:25",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/detroit-lions-vs-green-bay-packers",
     "servers": [
       {

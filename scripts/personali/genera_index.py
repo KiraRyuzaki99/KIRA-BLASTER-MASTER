@@ -8,15 +8,11 @@ from datetime import datetime
 
 # >>> QUI INSERISCI LA LISTA DEI FILE CHE VUOI NEL TUO INDEX <<<
 FILE_DA_MOSTRARE = [
-    "kira_ball.html",
+    "kira_asi.html",
     "kira_hat.html",
-    "kira_liv.html",
     "kira_mam.html",
-    "kira_mix.html",
-    "kira_mot.html",
     "kira_ppvvt.html",
     "kira_spo.html",
-    "kira_ten.html",
     "kira_tora.html",
     "kira_ultra.html",
 ]
@@ -46,18 +42,14 @@ def generate_index():
     today = datetime.now().strftime('%d/%m/%Y %H:%M:%S')
     
     # 4. Costruiamo i tag <li> per la lista HTML in modo dinamico
-    # Usiamo un ciclo per creare i pulsanti con i nomi dei file
-    lista_li = ""
-    for f in files_esistenti:
-        # Crea un nome "pulito" per il pulsante (es. kira_ball.html diventa "Cyber Sport")
-        # Se vuoi che il nome sia esattamente quello del file, usa: lista_li += f'<li><a href="{f}">{f}</a></li>\n'
-        nome_visualizzato = f.replace('kira_', 'Cyber Sport ').replace('.html', '').upper()
-        
-        # Assegna un numero progressivo per renderlo più carino
-        idx = files_esistenti.index(f) + 1
-        
-        lista_li += f'            <li><a href="{f}">📁 {nome_visualizzato} (File {idx})</a></li>\n'
-
+lista_li = ""
+for idx, f in enumerate(files_esistenti, start=1):
+    # Crea il nome fisso con il numero progressivo (es. KIRA CYBER 1)
+    nome_visualizzato = f"KIRA CYBER {idx}"
+    
+    # Aggiunge il pulsante alla lista
+    lista_li += f'            <li><a href="{f}">📁 {nome_visualizzato}</a></li>\n'
+    
     # 5. Creazione del file HTML (usando le doppie graffe {{ }} per il CSS/JS)
     html = f'''<!DOCTYPE html>
 <html lang="it">

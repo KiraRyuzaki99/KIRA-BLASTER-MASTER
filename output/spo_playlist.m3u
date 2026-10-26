@@ -1,233 +1,101 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA SPO - Playlist
 
-#EXTINF:-1 group-title="SPO",25/10/2026 10:00 - Tennis: ATP World Tour 250 - Almaty 2026 - sporttv5
-https://ww1.sportsonnline.click/channels/pt/sporttv5.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 11:00 - AVS x Tondela - sporttv1
-https://ww1.sportsonnline.click/channels/pt/sporttv1.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 11:30 - Internazionale x Fiorentina - hd3
-https://ww1.sportsonnline.click/channels/hd/hd3.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 11:30 - Internazionale x Fiorentina - hd7
-https://ww1.sportsonnline.click/channels/hd/hd7.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 11:30 - Internazionale x Fiorentina - sporttv2
+#EXTINF:-1 group-title="SPO",26/10/2026 12:30 - Tennis: ATP World Tour 500: Basel - sporttv2
 https://ww1.sportsonnline.click/channels/pt/sporttv2.php
 
-#EXTINF:-1 group-title="SPO",25/10/2026 11:30 - Internazionale x Fiorentina - br2
-https://ww1.sportsonnline.click/channels/bra/br2.php
+#EXTINF:-1 group-title="SPO",26/10/2026 12:30 - Tennis: ATP World Tour 500: Vienna - sporttv4
+https://ww1.sportsonnline.click/channels/pt/sporttv4.php
 
-#EXTINF:-1 group-title="SPO",25/10/2026 12:00 - Hibernian x Celtic - hd5
-https://ww1.sportsonnline.click/channels/hd/hd5.php
+#EXTINF:-1 group-title="SPO",26/10/2026 13:45 - Neftchi x Al Ittihad - hd11
+https://ww1.sportsonnline.click/channels/hd/hd11.php
 
-#EXTINF:-1 group-title="SPO",25/10/2026 12:00 - Hibernian x Celtic - sporttv3
-https://ww1.sportsonnline.click/channels/pt/sporttv3.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 13:00 - Athletic Club x Getafe - hd2
-https://ww1.sportsonnline.click/channels/hd/hd2.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 13:00 - Athletic Club x Getafe - hd6
-https://ww1.sportsonnline.click/channels/hd/hd6.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 13:00 - Athletic Club x Getafe - eleven3
-https://ww1.sportsonnline.click/channels/pt/eleven3.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 13:30 - PSV x Feyenoord - hd9
+#EXTINF:-1 group-title="SPO",26/10/2026 15:00 - Lokomotiv Plovdiv x Slavia Sofia - hd9
 https://ww1.sportsonnline.click/channels/hd/hd9.php
 
-#EXTINF:-1 group-title="SPO",25/10/2026 13:30 - PSV x Feyenoord - br3
+#EXTINF:-1 group-title="SPO",26/10/2026 16:00 - Al-Ahli x Al Gharafa - hd11
+https://ww1.sportsonnline.click/channels/hd/hd11.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 16:00 - Beşiktaş x İstanbul Başakşehir - hd5
+https://ww1.sportsonnline.click/channels/hd/hd5.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 16:00 - Rizespor x Trabzonspor - hd3
+https://ww1.sportsonnline.click/channels/hd/hd3.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 16:00 - Rizespor x Trabzonspor - sporttv3
+https://ww1.sportsonnline.click/channels/pt/sporttv3.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 16:00 - Rizespor x Trabzonspor - br6
+https://ww1.sportsonnline.click/channels/bra/br6.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 17:30 - CSKA Sofia x Ludogorets - hd9
+https://ww1.sportsonnline.click/channels/hd/hd9.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 18:15 - Al Nassr x Al Wasl - hd11
+https://ww1.sportsonnline.click/channels/hd/hd11.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 18:15 - Al Nassr x Al Wasl - br6
+https://ww1.sportsonnline.click/channels/bra/br6.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 18:30 - Galatasaray x Fenerbahçe - hd3
+https://ww1.sportsonnline.click/channels/hd/hd3.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 18:30 - Galatasaray x Fenerbahçe - sporttv3
+https://ww1.sportsonnline.click/channels/pt/sporttv3.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 18:30 - Galatasaray x Fenerbahçe - br2
+https://ww1.sportsonnline.click/channels/bra/br2.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 18:45 - Santa Clara x Benfica - sporttv1
+https://ww1.sportsonnline.click/channels/pt/sporttv1.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 19:30 - PSG x Olympique Lyonnais - hd5
+https://ww1.sportsonnline.click/channels/hd/hd5.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 19:30 - PSG x Olympique Lyonnais - hd4
+https://ww1.sportsonnline.click/channels/hd/hd4.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 19:30 - PSG x Olympique Lyonnais - sporttv2
+https://ww1.sportsonnline.click/channels/pt/sporttv2.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 19:30 - FC Andorra x Burgos - hd8
+https://ww1.sportsonnline.click/channels/hd/hd8.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 20:00 - Sevilla x Osasuna - hd2
+https://ww1.sportsonnline.click/channels/hd/hd2.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 20:00 - Sevilla x Osasuna - hd6
+https://ww1.sportsonnline.click/channels/hd/hd6.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 20:00 - Sevilla x Osasuna - eleven2
+https://ww1.sportsonnline.click/channels/pt/eleven2.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 20:00 - Walsall x Salford City - hd1
+https://ww1.sportsonnline.click/channels/hd/hd1.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 20:00 - 2026 Ballon d'Or - eleven1
+https://ww1.sportsonnline.click/channels/pt/eleven1.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 20:45 - Torreense x Amarante - sporttv2
+https://ww1.sportsonnline.click/channels/pt/sporttv2.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 21:00 - Universidad Chile x Everton - hd9
+https://ww1.sportsonnline.click/channels/hd/hd9.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 22:00 - Unión Santa Fe x Estudiantes - hd10
+https://ww1.sportsonnline.click/channels/hd/hd10.php
+
+#EXTINF:-1 group-title="SPO",26/10/2026 22:30 - Coritiba x Grêmio - br3
 https://ww1.sportsonnline.click/channels/bra/br3.php
 
-#EXTINF:-1 group-title="SPO",25/10/2026 14:00 - Manchester United x AFC Bournemouth - hd1
-https://ww1.sportsonnline.click/channels/hd/hd1.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 14:00 - Manchester United x AFC Bournemouth - eleven1
-https://ww1.sportsonnline.click/channels/pt/eleven1.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 14:00 - Manchester United x AFC Bournemouth - br5
-https://ww1.sportsonnline.click/channels/bra/br5.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 14:00 - Liverpool x Brighton & Hove Albion - hd5
-https://ww1.sportsonnline.click/channels/hd/hd5.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 14:00 - Liverpool x Brighton & Hove Albion - eleven2
-https://ww1.sportsonnline.click/channels/pt/eleven2.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 14:00 - Liverpool x Brighton & Hove Albion - br2
-https://ww1.sportsonnline.click/channels/bra/br2.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 14:00 - Crystal Palace x Newcastle United - hd11
-https://ww1.sportsonnline.click/channels/hd/hd11.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 14:00 - Hull City x Brentford - hd10
-https://ww1.sportsonnline.click/channels/hd/hd10.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 14:00 - Atalanta x Frosinone - hd7
-https://ww1.sportsonnline.click/channels/hd/hd7.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 14:00 - Atalanta x Frosinone - br4
-https://ww1.sportsonnline.click/channels/bra/br4.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 14:00 - Genoa x Venezia - sporttv2
-https://ww1.sportsonnline.click/channels/pt/sporttv2.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 14:00 - Monaco x Lille - hd4
-https://ww1.sportsonnline.click/channels/hd/hd4.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 14:00 - Monaco x Lille - sporttv3
-https://ww1.sportsonnline.click/channels/pt/sporttv3.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 14:00 - Motherwell x Hearts - sporttv5
-https://ww1.sportsonnline.click/channels/pt/sporttv5.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 14:30 - Hoffenheim x Bayer Leverkusen - hd3
-https://ww1.sportsonnline.click/channels/hd/hd3.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 14:30 - Hoffenheim x Bayer Leverkusen - br1
+#EXTINF:-1 group-title="SPO",26/10/2026 23:00 - Flamengo x Atlético Mineiro - br1
 https://ww1.sportsonnline.click/channels/bra/br1.php
 
-#EXTINF:-1 group-title="SPO",25/10/2026 15:15 - Celta de Vigo x Real Betis - hd2
-https://ww1.sportsonnline.click/channels/hd/hd2.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 15:15 - Celta de Vigo x Real Betis - hd6
-https://ww1.sportsonnline.click/channels/hd/hd6.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 15:30 - Estoril x Moreirense - sporttv1
+#EXTINF:-1 group-title="SPO",26/10/2026 23:30 - NBA: Chicago Bulls @ Boston Celtics - sporttv1
 https://ww1.sportsonnline.click/channels/pt/sporttv1.php
 
-#EXTINF:-1 group-title="SPO",25/10/2026 15:45 - Sparta Rotterdam x Ajax - hd9
-https://ww1.sportsonnline.click/channels/hd/hd9.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 16:00 - Comerciantes Unidos x Cienciano - hd11
-https://ww1.sportsonnline.click/channels/hd/hd11.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 16:15 - Rennes x Strasbourg - sporttv4
-https://ww1.sportsonnline.click/channels/pt/sporttv4.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 16:15 - Olympique Marseille x Le Havre - hd4
-https://ww1.sportsonnline.click/channels/hd/hd4.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 16:15 - Olympique Marseille x Le Havre - sporttv5
-https://ww1.sportsonnline.click/channels/pt/sporttv5.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 16:30 - Sunderland x Leeds United - hd1
+#EXTINF:-1 group-title="SPO",26/10/2026 00:00 - NFL: Cowboys @ Eagles - hd1
 https://ww1.sportsonnline.click/channels/hd/hd1.php
 
-#EXTINF:-1 group-title="SPO",25/10/2026 16:30 - Sunderland x Leeds United - eleven2
-https://ww1.sportsonnline.click/channels/pt/eleven2.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 16:30 - Sunderland x Leeds United - br2
-https://ww1.sportsonnline.click/channels/bra/br2.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 16:30 - Freiburg x Bayern München - hd3
-https://ww1.sportsonnline.click/channels/hd/hd3.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 16:30 - Freiburg x Bayern München - eleven1
-https://ww1.sportsonnline.click/channels/pt/eleven1.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 17:00 - Lecce x Juventus - hd8
-https://ww1.sportsonnline.click/channels/hd/hd8.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 17:00 - Lecce x Juventus - sporttv3
-https://ww1.sportsonnline.click/channels/pt/sporttv3.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 17:30 - Real Sociedad x Levante - hd2
-https://ww1.sportsonnline.click/channels/hd/hd2.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 17:30 - Real Sociedad x Levante - hd6
-https://ww1.sportsonnline.click/channels/hd/hd6.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 17:30 - Real Sociedad x Levante - eleven3
-https://ww1.sportsonnline.click/channels/pt/eleven3.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 18:00 - Nacional x Sporting Braga - sporttv2
-https://ww1.sportsonnline.click/channels/pt/sporttv2.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 18:15 - Deportivo Moquegua x Alianza Lima - hd11
+#EXTINF:-1 group-title="SPO",26/10/2026 00:15 - Instituto x Deportivo Riestra - hd11
 https://ww1.sportsonnline.click/channels/hd/hd11.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 19:00 - AZ x Twente - hd9
-https://ww1.sportsonnline.click/channels/hd/hd9.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 19:45 - Udinese x Milan - hd7
-https://ww1.sportsonnline.click/channels/hd/hd7.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 19:45 - Udinese x Milan - sporttv3
-https://ww1.sportsonnline.click/channels/pt/sporttv3.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 19:45 - Udinese x Milan - br2
-https://ww1.sportsonnline.click/channels/bra/br2.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 19:45 - PSG x Olympique Lyonnais - hd4
-https://ww1.sportsonnline.click/channels/hd/hd4.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 19:45 - PSG x Olympique Lyonnais - hd3
-https://ww1.sportsonnline.click/channels/hd/hd3.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 19:45 - PSG x Olympique Lyonnais - sporttv4
-https://ww1.sportsonnline.click/channels/pt/sporttv4.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 20:00 - Barcelona x Real Madrid - hd1
-https://ww1.sportsonnline.click/channels/hd/hd1.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 20:00 - Barcelona x Real Madrid - hd2
-https://ww1.sportsonnline.click/channels/hd/hd2.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 20:00 - Barcelona x Real Madrid - hd6
-https://ww1.sportsonnline.click/channels/hd/hd6.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 20:00 - Barcelona x Real Madrid - eleven1
-https://ww1.sportsonnline.click/channels/pt/eleven1.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 20:00 - Barcelona x Real Madrid - br5
-https://ww1.sportsonnline.click/channels/bra/br5.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 20:00 - Independiente x Boca Juniors - hd10
-https://ww1.sportsonnline.click/channels/hd/hd10.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 20:00 - US F1 Grand Prix - hd5
-https://ww1.sportsonnline.click/channels/hd/hd5.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 20:00 - US F1 Grand Prix - hd8
-https://ww1.sportsonnline.click/channels/hd/hd8.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 20:30 - Sporting CP x Academico Viseu - sporttv1
-https://ww1.sportsonnline.click/channels/pt/sporttv1.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 20:30 - Sport Boys x FC Cajamarca - hd11
-https://ww1.sportsonnline.click/channels/hd/hd11.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 21:00 - NBA: Los Angeles Lakers @ Utah Jazz - sporttv2
-https://ww1.sportsonnline.click/channels/pt/sporttv2.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 22:15 - River Plate x Racing Club - hd9
-https://ww1.sportsonnline.click/channels/hd/hd9.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 22:15 - River Plate x Racing Club - br2
-https://ww1.sportsonnline.click/channels/bra/br2.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 23:00 - Atlas x Puebla - hd8
-https://ww1.sportsonnline.click/channels/hd/hd8.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 23:00 - Deportivo Garcilaso x Los Chankas - hd11
-https://ww1.sportsonnline.click/channels/hd/hd11.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 23:00 - NBA: Detroit Pistons @ Philadelphia 76ers - sporttv2
-https://ww1.sportsonnline.click/channels/pt/sporttv2.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 00:10 - NFL: Chiefs @ Seahawks - hd1
-https://ww1.sportsonnline.click/channels/hd/hd1.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 00:30 - Barracas Central x Estudiantes Río Cuarto - hd9
-https://ww1.sportsonnline.click/channels/hd/hd9.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 00:30 - Central Córdoba SdE x Vélez Sarsfield - hd10
-https://ww1.sportsonnline.click/channels/hd/hd10.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 01:05 - América x Pachuca - hd8
-https://ww1.sportsonnline.click/channels/hd/hd8.php
-
-#EXTINF:-1 group-title="SPO",25/10/2026 03:10 - Tijuana x Santos Laguna - hd8
-https://ww1.sportsonnline.click/channels/hd/hd8.php

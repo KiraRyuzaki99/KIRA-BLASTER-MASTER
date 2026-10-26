@@ -1,115 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="10:30 1RFEF Fem -  Alcorcón FS - Torreblanca Melilla" group-title="1RFEF Fem",10:30 1RFEF Fem -  Alcorcón FS - Torreblanca Melilla
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="11:00 Torneo de Almaty - Final D. Medvedev - N. Basilashvili" group-title="Torneo de Almaty",11:00 Torneo de Almaty - Final D. Medvedev - N. Basilashvili
+#EXTINF:-1 tvg-name="13:30 Torneo de Basilea - 1ª Ronda V. Vacherot - M. Navone" group-title="Torneo de Basilea",13:30 Torneo de Basilea - 1ª Ronda V. Vacherot - M. Navone
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-name="11:00 Las Carreras -  Hipódromo de La Zarzuela 25/10/2026" group-title="Las Carreras",11:00 Las Carreras -  Hipódromo de La Zarzuela 25/10/2026
+#EXTINF:-1 tvg-name="13:30 Torneo de Viena - 1ª Ronda M. Berrettini - TM. Etcheverry" group-title="Torneo de Viena",13:30 Torneo de Viena - 1ª Ronda M. Berrettini - TM. Etcheverry
+acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
+#EXTINF:-1 tvg-name="15:00 Torneo de Basilea - 1ª Ronda H. Rune - Q. Halys" group-title="Torneo de Basilea",15:00 Torneo de Basilea - 1ª Ronda H. Rune - Q. Halys
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-name="11:30 Las Carreras -  Programa libre parejas" group-title="Las Carreras",11:30 Las Carreras -  Programa libre parejas
-acestream://c6180a86440004748e2abe34d6f31eed8a218a3a
-#EXTINF:-1 tvg-name="11:40 Las Carreras -  Final" group-title="Las Carreras",11:40 Las Carreras -  Final
-acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1 tvg-name="11:45 Las Carreras -  Final" group-title="Las Carreras",11:45 Las Carreras -  Final
-acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1 tvg-name="12:00 1RFEF - Grupo 2 Atlético Madrileño - Real Jaén" group-title="1RFEF",12:00 1RFEF - Grupo 2 Atlético Madrileño - Real Jaén
-acestream://177796041773be99b489dd3ce86144f243e7355f
-#EXTINF:-1 tvg-name="12:00 Liga Fem - Liga Regular Perfumerías Avenida - Casademont Zaragoza" group-title="Liga Fem",12:00 Liga Fem - Liga Regular Perfumerías Avenida - Casademont Zaragoza
-acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
-#EXTINF:-1 tvg-name="12:00 Liga Fem - Liga Regular Ensino Lugo - Valencia Basket" group-title="Liga Fem",12:00 Liga Fem - Liga Regular Ensino Lugo - Valencia Basket
-acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
-#EXTINF:-1 tvg-name="12:00 ACB - Liga Regular Bilbao Basket - MoraBanc Andorra" group-title="ACB",12:00 ACB - Liga Regular Bilbao Basket - MoraBanc Andorra
-acestream://853129258a5cb51f27829eddb934e58b45978344
-#EXTINF:-1 tvg-name="12:00 ACB - Liga Regular Basquet Girona - Joventut Badalona" group-title="ACB",12:00 ACB - Liga Regular Basquet Girona - Joventut Badalona
-acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884
-#EXTINF:-1 tvg-name="12:30 Premier -  Inter Milan - Fiorentina" group-title="Premier",12:30 Premier -  Inter Milan - Fiorentina
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 tvg-name="12:45 Liga Fem -  Deportivo Abanca - Alavés Femenino" group-title="Liga Fem",12:45 Liga Fem -  Deportivo Abanca - Alavés Femenino
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="12:45 Las Carreras -  Eslalon gigante - 2ª manga" group-title="Las Carreras",12:45 Las Carreras -  Eslalon gigante - 2ª manga
-acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1 tvg-name="13:00 ACB - Liga Regular La Laguna Tenerife - Monbus Obradoiro" group-title="ACB",13:00 ACB - Liga Regular La Laguna Tenerife - Monbus Obradoiro
-acestream://13d68ecb392251a81489ce75be90388498ecfb91
-#EXTINF:-1 tvg-name="13:10 Las Carreras -  Programa libre M" group-title="Las Carreras",13:10 Las Carreras -  Programa libre M
-acestream://c6180a86440004748e2abe34d6f31eed8a218a3a
-#EXTINF:-1 tvg-name="14:00 Primera -  Athletic Club - Getafe" group-title="Primera",14:00 Primera -  Athletic Club - Getafe
-acestream://f43ef903dc750610978b47df47a0cb389413fe61
-#EXTINF:-1 tvg-name="14:00 Segunda -  Sabadell - CD Tenerife" group-title="Segunda",14:00 Segunda -  Sabadell - CD Tenerife
-acestream://60952921b847a9c560741b0d8048a2d8ad194a7f
-#EXTINF:-1 tvg-name="14:00 Abierto de Irlanda del Norte -  Final" group-title="Abierto de Irlanda del Norte",14:00 Abierto de Irlanda del Norte -  Final
-acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1 tvg-name="14:15 1RFEF - Grupo 2 Villarreal B - FC Cartagena" group-title="1RFEF",14:15 1RFEF - Grupo 2 Villarreal B - FC Cartagena
-acestream://177796041773be99b489dd3ce86144f243e7355f
-#EXTINF:-1 tvg-name="14:30 Torneo de Lyon - Final L. Musetti - T. Fritz" group-title="Torneo de Lyon",14:30 Torneo de Lyon - Final L. Musetti - T. Fritz
+#EXTINF:-1 tvg-name="15:00 Torneo de Viena - 1ª Ronda T. Machac - A. De Miñaur" group-title="Torneo de Viena",15:00 Torneo de Viena - 1ª Ronda T. Machac - A. De Miñaur
 acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-name="14:30 NFL - Liga Regular New Orleans Saints - Pittsburgh Steelers" group-title="NFL",14:30 NFL - Liga Regular New Orleans Saints - Pittsburgh Steelers
-acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-name="14:50 Abierto de Irlanda del Norte -  Finales por aparatos II" group-title="Abierto de Irlanda del Norte",14:50 Abierto de Irlanda del Norte -  Finales por aparatos II
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="15:00 Premier -  Liverpool - Brighton" group-title="Premier",15:00 Premier -  Liverpool - Brighton
-acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-name="15:00 Premier -  Manchester Utd. - Bournemouth" group-title="Premier",15:00 Premier -  Manchester Utd. - Bournemouth
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-name="15:05 Superprestige Ciclocross -  Overijse (Bélgica) - Carrera masculina" group-title="Superprestige Ciclocross",15:05 Superprestige Ciclocross -  Overijse (Bélgica) - Carrera masculina
-acestream://c6180a86440004748e2abe34d6f31eed8a218a3a
-#EXTINF:-1 tvg-name="15:30 Las Carreras -  Final" group-title="Las Carreras",15:30 Las Carreras -  Final
-acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1 tvg-name="15:55 Las Carreras -  Liceo - Barcelona" group-title="Las Carreras",15:55 Las Carreras -  Liceo - Barcelona
-acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1 tvg-name="16:00 Francia Ligue 1 -  Chile - España" group-title="Francia Ligue 1",16:00 Francia Ligue 1 -  Chile - España
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="16:00 Gallagher Premiership -  Harlequins - Saracens" group-title="Gallagher Premiership",16:00 Gallagher Premiership -  Harlequins - Saracens
+#EXTINF:-1 tvg-name="17:30 Torneo de Viena - 1ª Ronda A. Fery - J. Fearnley" group-title="Torneo de Viena",17:30 Torneo de Viena - 1ª Ronda A. Fery - J. Fearnley
 acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-name="16:15 Primera -  Celta - Real Betis" group-title="Primera",16:15 Primera -  Celta - Real Betis
-acestream://465075c02b7284f564911bd63d1c6f0a8d464be7
-#EXTINF:-1 tvg-name="16:15 Segunda -  Albacete - Eldense" group-title="Segunda",16:15 Segunda -  Albacete - Eldense
-acestream://e63fbcafbfc9bcb7e1cffa1d2eea97cc77f7a198
-#EXTINF:-1 tvg-name="16:15 Segunda -  Cádiz CF - AD Ceuta" group-title="Segunda",16:15 Segunda -  Cádiz CF - AD Ceuta
+#EXTINF:-1 tvg-name="17:30 Torneo de Viena - 1ª Ronda J. Mensik - L. Neumayer" group-title="Torneo de Viena",17:30 Torneo de Viena - 1ª Ronda J. Mensik - L. Neumayer
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
+#EXTINF:-1 tvg-name="19:00 Torneo de Viena - 1ª Ronda L. Darderi - M. Arnaldi" group-title="Torneo de Viena",19:00 Torneo de Viena - 1ª Ronda L. Darderi - M. Arnaldi
+acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
+#EXTINF:-1 tvg-name="20:00 Torneo de Basilea - 1ª Ronda D. Stricker - C. Ruud" group-title="Torneo de Basilea",20:00 Torneo de Basilea - 1ª Ronda D. Stricker - C. Ruud
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 tvg-name="20:00 Torneo de Viena - 1ª Ronda L. Van Assche - L. Tien" group-title="Torneo de Viena",20:00 Torneo de Viena - 1ª Ronda L. Van Assche - L. Tien
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
+#EXTINF:-1 tvg-name="20:30 Segunda -  FC Andorra - Burgos CF" group-title="Segunda",20:30 Segunda -  FC Andorra - Burgos CF
 acestream://60952921b847a9c560741b0d8048a2d8ad194a7f
-#EXTINF:-1 tvg-name="16:30 1RFEF - Grupo 2 Algeciras CF - RM Castilla" group-title="1RFEF",16:30 1RFEF - Grupo 2 Algeciras CF - RM Castilla
-acestream://177796041773be99b489dd3ce86144f243e7355f
-#EXTINF:-1 tvg-name="16:30 Torneo de Bruselas - Final JL. Struff - T. Griekspoor" group-title="Torneo de Bruselas",16:30 Torneo de Bruselas - Final JL. Struff - T. Griekspoor
-acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
-#EXTINF:-1 tvg-name="17:00 Liga Fem -  Eibar Femenino - Madrid CFF" group-title="Liga Fem",17:00 Liga Fem -  Eibar Femenino - Madrid CFF
-acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884
-#EXTINF:-1 tvg-name="17:00 ACB - Liga Regular Valencia Basket - Baskonia" group-title="ACB",17:00 ACB - Liga Regular Valencia Basket - Baskonia
-acestream://6fbd92735502bdebbf1ea58f4298e49759c0cf07
-#EXTINF:-1 tvg-name="17:30 Premier -  Sunderland - Leeds Utd" group-title="Premier",17:30 Premier -  Sunderland - Leeds Utd
-acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-name="17:30 2RFEF - Grupo 2 UE Olot - Barcelona Atlétic" group-title="2RFEF",17:30 2RFEF - Grupo 2 UE Olot - Barcelona Atlétic
-acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1 tvg-name="18:00 ACB - Liga Regular Río Breogán - Unicaja Málaga" group-title="ACB",18:00 ACB - Liga Regular Río Breogán - Unicaja Málaga
-acestream://853129258a5cb51f27829eddb934e58b45978344
-#EXTINF:-1 tvg-name="18:00 F1 Academy - G.P. Estados Unidos (Austin) Carrera 2" group-title="F1 Academy",18:00 F1 Academy - G.P. Estados Unidos (Austin) Carrera 2
-acestream://d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-name="18:00 Bermuda Championship -  Jornada 4" group-title="Bermuda Championship",18:00 Bermuda Championship -  Jornada 4
-acestream://872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 tvg-name="18:00 NFL - Liga Regular Baltimore Ravens - Cincinnati Bengals" group-title="NFL",18:00 NFL - Liga Regular Baltimore Ravens - Cincinnati Bengals
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-name="18:30 Primera -  Real Sociedad - Levante" group-title="Primera",18:30 Primera -  Real Sociedad - Levante
+#EXTINF:-1 tvg-name="21:00 Primera -  Sevilla FC - Osasuna" group-title="Primera",21:00 Primera -  Sevilla FC - Osasuna
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1 tvg-name="18:30 Segunda -  CD Castellón - Sporting Gijón" group-title="Segunda",18:30 Segunda -  CD Castellón - Sporting Gijón
-acestream://60952921b847a9c560741b0d8048a2d8ad194a7f
-#EXTINF:-1 tvg-name="18:30 Liga Fem - Liga Regular Spar Girona - IDK Euskotren" group-title="Liga Fem",18:30 Liga Fem - Liga Regular Spar Girona - IDK Euskotren
-acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
-#EXTINF:-1 tvg-name="18:45 1RFEF - Grupo 2 Nástic Tarragona - Hércules" group-title="1RFEF",18:45 1RFEF - Grupo 2 Nástic Tarragona - Hércules
-acestream://177796041773be99b489dd3ce86144f243e7355f
-#EXTINF:-1 tvg-name="19:00 ACB - Liga Regular iLERNA Lleida - Real Madrid Baloncesto" group-title="ACB",19:00 ACB - Liga Regular iLERNA Lleida - Real Madrid Baloncesto
+#EXTINF:-1 tvg-name="21:00 Francia Ligue 1 -  2026 Edition - London Palladium" group-title="Francia Ligue 1",21:00 Francia Ligue 1 -  2026 Edition - London Palladium
 acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 tvg-name="20:00 Nascar -  Talladega Superspeedway - Carrera" group-title="Nascar",20:00 Nascar -  Talladega Superspeedway - Carrera
-acestream://8ef4e74336a0114d6def70de9d15cc4817d2f350
-#EXTINF:-1 tvg-name="20:00 Abierto de Irlanda del Norte -  Final - Sesión 2" group-title="Abierto de Irlanda del Norte",20:00 Abierto de Irlanda del Norte -  Final - Sesión 2
-acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1 tvg-name="21:00 Primera -  FC Barcelona - Real Madrid" group-title="Primera",21:00 Primera -  FC Barcelona - Real Madrid
-acestream://f43ef903dc750610978b47df47a0cb389413fe61
-#EXTINF:-1 tvg-name="21:00 Nascar -  Carrera" group-title="Nascar",21:00 Nascar -  Carrera
-acestream://d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-name="22:00 Gallagher Premiership -  Dificultad - Finales" group-title="Gallagher Premiership",22:00 Gallagher Premiership -  Dificultad - Finales
-acestream://c6180a86440004748e2abe34d6f31eed8a218a3a
-#EXTINF:-1 tvg-name="23:15 Liga Argentina - Torneo Clausura River Plate - Racing Avellaneda" group-title="Liga Argentina",23:15 Liga Argentina - Torneo Clausura River Plate - Racing Avellaneda
-acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
-#EXTINF:-1 tvg-name="00:30 NBA - Liga Regular Philadelphia 76ers - Detroit Pistons" group-title="NBA",00:30 NBA - Liga Regular Philadelphia 76ers - Detroit Pistons
-acestream://853129258a5cb51f27829eddb934e58b45978344
-#EXTINF:-1 tvg-name="01:20 NFL - Liga Regular Seattle Seahawks - Kansas City Chiefs" group-title="NFL",01:20 NFL - Liga Regular Seattle Seahawks - Kansas City Chiefs
+#EXTINF:-1 tvg-name="00:30 MLB -  Tampa Bay Rays - Milwaukee Brewers (Partido 3)" group-title="MLB",00:30 MLB -  Tampa Bay Rays - Milwaukee Brewers (Partido 3)
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 tvg-name="01:00 WNBA - Final Golden State Valkyries - Atlanta Dream" group-title="WNBA",01:00 WNBA - Final Golden State Valkyries - Atlanta Dream
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-name="01:00 MLB - World Series Tampa Bay Rays - Milwaukee Brewers" group-title="MLB",01:00 MLB - World Series Tampa Bay Rays - Milwaukee Brewers
+acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884
+#EXTINF:-1 tvg-name="01:15 NFL - Liga Regular Philadelphia Eagles - Dallas Cowboys" group-title="NFL",01:15 NFL - Liga Regular Philadelphia Eagles - Dallas Cowboys
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-name="03:30 WTA Torneo de Tokio -  1ª Ronda - WTA 500" group-title="WTA Torneo de Tokio",03:30 WTA Torneo de Tokio -  1ª Ronda - WTA 500
 acestream://a4cbadd19442b800727be713270fa9c917cc8582

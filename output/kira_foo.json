@@ -47,12 +47,23 @@
     "category": "2026 Ballon d'Or",
     "logo": "https://cdn.img4every1.org/league/friendly-soccer-streams/logo.webp",
     "start_iso": "2026-10-26T19:00:00.000Z",
-    "end_iso": "2026-10-26T21:15:00.000Z",
+    "end_iso": "2026-10-26T22:30:00.000Z",
     "date": "Monday, 26 October 2026",
     "time": "21:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/ballon-dor",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/ballon-dor/3214",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "PSG Olympique Lyonnais",
@@ -62,9 +73,40 @@
     "end_iso": "2026-10-26T21:45:00.000Z",
     "date": "Monday, 26 October 2026",
     "time": "21:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/psg-vs-lyon",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/psg-vs-lyon/3208",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://playerdee.top/alpha/psg-vs-lyon/3209",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/psg-vs-lyon/3215",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Walsall FC Salford City",
@@ -74,9 +116,30 @@
     "end_iso": "2026-10-26T22:15:00.000Z",
     "date": "Monday, 26 October 2026",
     "time": "22:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/walsall-vs-salford-city",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/walsall-vs-salford-city/3212",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/walsall-vs-salford-city/3213",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Sevilla Osasuna",
@@ -86,9 +149,73 @@
     "end_iso": "2026-10-26T22:15:00.000Z",
     "date": "Monday, 26 October 2026",
     "time": "22:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/sevilla-vs-osasuna",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/sevilla-vs-osasuna/3210",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/sevilla-vs-osasuna/3211",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Dallas Cowboys Philadelphia Eagles",
+    "category": "Dallas Cowboys",
+    "logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
+    "start_iso": "2026-10-27T00:15:00.000Z",
+    "end_iso": "2026-10-27T03:25:00.000Z",
+    "date": "Tuesday, 27 October 2026",
+    "time": "02:15",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/cowboys-vs-eagles",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/cowboys-vs-eagles/3216",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/cowboys-vs-eagles/3217",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/cowboys-vs-eagles/3218",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Lazio Sassuolo",

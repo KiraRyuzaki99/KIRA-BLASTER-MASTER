@@ -1,5 +1,61 @@
 [
   {
+    "title": "Eintracht Frankfurt Hamburger SV",
+    "category": "Eintracht Frankfurt",
+    "logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
+    "start_iso": "2026-10-27T17:00:00.000Z",
+    "end_iso": "2026-10-27T19:15:00.000Z",
+    "date": "Tuesday, 27 October 2026",
+    "time": "19:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/eintracht-frankfurt-vs-hamburger-sv",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-hamburger-sv/3221",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Deutsch",
+        "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-hamburger-sv/3223",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
+        }
+      }
+    ]
+  },
+  {
+    "title": "RB Leipzig Rot-Weiss Essen",
+    "category": "RB Leipzig",
+    "logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+    "start_iso": "2026-10-27T17:00:00.000Z",
+    "end_iso": "2026-10-27T19:15:00.000Z",
+    "date": "Tuesday, 27 October 2026",
+    "time": "19:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/rb-leipzig-vs-rot-weiss-essen",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/rb-leipzig-vs-rot-weiss-essen/3222",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
     "title": "Lazio Sassuolo",
     "category": "Lazio",
     "logo": "https://cdn.img4every1.org/team/lazio/logo.webp",

@@ -1,48 +1,5 @@
 [
   {
-    "title": "Dallas Cowboys Philadelphia Eagles",
-    "category": "Dallas Cowboys",
-    "logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-    "start_iso": "2026-10-27T00:15:00.000Z",
-    "end_iso": "2026-10-27T03:25:00.000Z",
-    "date": "Tuesday, 27 October 2026",
-    "time": "02:15",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/cowboys-vs-eagles",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/cowboys-vs-eagles/3216",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/cowboys-vs-eagles/3217",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/cowboys-vs-eagles/3218",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Lazio Sassuolo",
     "category": "Lazio",
     "logo": "https://cdn.img4every1.org/team/lazio/logo.webp",

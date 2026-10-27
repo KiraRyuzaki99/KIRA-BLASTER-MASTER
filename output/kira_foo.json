@@ -1,180 +1,5 @@
 [
   {
-    "title": "PGA / LPGA Golf PGA Tour",
-    "category": "PGA / LPGA Golf",
-    "logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-    "start_iso": "2026-10-22T02:00:00.000Z",
-    "end_iso": "2026-10-26T23:30:00.000Z",
-    "date": "Thursday, 22 October 2026",
-    "time": "04:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/pga-lpga-golf",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/pga-lpga-golf/3027",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/pga-lpga-golf/3028",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/pga-lpga-golf/3029",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "2026 Ballon d'Or Friendly",
-    "category": "2026 Ballon d'Or",
-    "logo": "https://cdn.img4every1.org/league/friendly-soccer-streams/logo.webp",
-    "start_iso": "2026-10-26T19:00:00.000Z",
-    "end_iso": "2026-10-26T22:30:00.000Z",
-    "date": "Monday, 26 October 2026",
-    "time": "21:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/ballon-dor",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/ballon-dor/3214",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "PSG Olympique Lyonnais",
-    "category": "PSG",
-    "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-    "start_iso": "2026-10-26T19:30:00.000Z",
-    "end_iso": "2026-10-26T21:45:00.000Z",
-    "date": "Monday, 26 October 2026",
-    "time": "21:30",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/psg-vs-lyon",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/psg-vs-lyon/3208",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://playerdee.top/alpha/psg-vs-lyon/3209",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/psg-vs-lyon/3215",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Walsall FC Salford City",
-    "category": "Walsall FC",
-    "logo": "https://cdn.img4every1.org/team/walsall-fc/logo.webp",
-    "start_iso": "2026-10-26T20:00:00.000Z",
-    "end_iso": "2026-10-26T22:15:00.000Z",
-    "date": "Monday, 26 October 2026",
-    "time": "22:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/walsall-vs-salford-city",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/walsall-vs-salford-city/3212",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/walsall-vs-salford-city/3213",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Sevilla Osasuna",
-    "category": "Sevilla",
-    "logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-    "start_iso": "2026-10-26T20:00:00.000Z",
-    "end_iso": "2026-10-26T22:15:00.000Z",
-    "date": "Monday, 26 October 2026",
-    "time": "22:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/sevilla-vs-osasuna",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/sevilla-vs-osasuna/3210",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/sevilla-vs-osasuna/3211",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Dallas Cowboys Philadelphia Eagles",
     "category": "Dallas Cowboys",
     "logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
@@ -182,7 +7,7 @@
     "end_iso": "2026-10-27T03:25:00.000Z",
     "date": "Tuesday, 27 October 2026",
     "time": "02:15",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/cowboys-vs-eagles",
     "servers": [
       {
@@ -228,6 +53,39 @@
     "status": "next",
     "event_url": "https://pogo.pk/events/lazio-vs-sassuolo",
     "servers": []
+  },
+  {
+    "title": "Como Torino",
+    "category": "Como",
+    "logo": "https://cdn.img4every1.org/team/como/logo.webp",
+    "start_iso": "2026-10-27T19:45:00.000Z",
+    "end_iso": "2026-10-27T22:00:00.000Z",
+    "date": "Tuesday, 27 October 2026",
+    "time": "21:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/como-vs-torino",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/como-vs-torino/3219",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Italiano",
+        "url": "https://playerdee.top/alpha/como-vs-torino/3220",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Italiano"
+        }
+      }
+    ]
   },
   {
     "title": "Bradford City Peterborough United",

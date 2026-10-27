@@ -1102,7 +1102,7 @@ def main():
         footer="KIRA GSI SPORT • Eventi in Diretta • 2026 • Developed by KIRA GSI GROUP"
     )
     
-    html_filename = "streamx_events.html"
+    html_filename = "kira_ultra.html"
     with open(html_filename, "w", encoding="utf-8") as f:
         f.write(html_output)
     print(f"   ✅ HTML generato: {html_filename}")
@@ -1111,7 +1111,7 @@ def main():
     print("\n📄 Generazione Playlist M3U...")
     m3u_content = generate_m3u(all_events)
     
-    m3u_filename = "streamx_playlist.m3u"
+    m3u_filename = "KIRA GSI.m3u"
     with open(m3u_filename, "w", encoding="utf-8") as f:
         f.write(m3u_content)
     print(f"   ✅ Playlist M3U generata: {m3u_filename}")

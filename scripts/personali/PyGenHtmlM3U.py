@@ -22,13 +22,16 @@ from collections import defaultdict
 CONFIG = {
     # Domini noti che funzionano
     "known_domains": [
+        "streamxhd.sbs",
+        "streamxhd.click",
+        "streamxhd.st",
         "streamxhd.com",
+        "streamx305.sbs",
         "streamx061.sbs",
         "streamx062.sbs",
         "streamx063.sbs",
         "streamx064.sbs",
         "streamx065.sbs",
-        "streamxhd.sbs",
     ],
     
     # Pattern per generare nuovi domini
@@ -44,7 +47,7 @@ CONFIG = {
     
     # Suffissi/numeri da provare
     "domain_suffixes": [
-        "", "hd", "061", "062", "063", "064", "065", 
+        "", "hd", "305", "061", "062", "063", "064", "065", 
         "hd1", "hd2", "hd3", "live", "pro", "plus",
         "01", "02", "03", "04", "05"
     ],
@@ -498,10 +501,26 @@ def group_and_sort_events(events: List[dict]) -> List[dict]:
 
 def generate_html(events: List[dict], title: str = "Eventi Sportivi in Diretta", 
                   header: str = "StreamX Eventi", footer: str = "© 2026 StreamX - Tutti i diritti riservati") -> str:
-    """Genera l'HTML con gli eventi."""
+    """Genera l'HTML con gli eventi e player iframe integrato."""
+    
+    # Costruisci la lista eventi per il JavaScript
+    events_json = []
+    for idx, event in enumerate(events):
+        valid_links = [link for link in event['links'] if link != '#']
+        events_json.append({
+            'id': idx,
+            'name': event['nome_evento'],
+            'competition': event['competizione'],
+            'time': event['orario'],
+            'day': event['giorno'],
+            'status': event.get('status', 'prossimo'),
+            'links': valid_links
+        })
+    
+    events_json_str = json.dumps(events_json, ensure_ascii=False)
+    
     event_items = []
-    for event in events:
-        links_html = ""
+    for idx, event in enumerate(events):
         valid_links = [link for link in event['links'] if link != '#']
         
         status_badge = {
@@ -512,23 +531,23 @@ def generate_html(events: List[dict], title: str = "Eventi Sportivi in Diretta",
         
         fonte_badge = f'<span class="fonte-badge">📡 {event.get("fonte", "StreamX")}</span>'
         
-        if len(valid_links) > 1:
-            options = "\n".join([f'<option value="{link}">{link.split("/")[-1]}</option>' for link in valid_links])
+        if valid_links:
+            # Bottone che apre il player iframe
             links_html = f'''
-            <div class="dropdown">
-                <select onchange="window.open(this.value, '_blank'); this.selectedIndex=0;">
-                    <option value="">📡 Scegli il server...</option>
-                    {options}
-                </select>
-            </div>
+            <button class="server-link play-btn" onclick="openPlayer({idx}, 0)">
+                ▶ GUARDA IN DIRETTA
+            </button>
             '''
-        elif len(valid_links) == 1:
-            link = valid_links[0]
-            links_html = f'<a href="{link}" target="_blank" class="server-link">▶ GUARDA IN DIRETTA</a>'
+            if len(valid_links) > 1:
+                # Aggiungi selettore server
+                server_buttons = "".join([
+                    f'<button class="server-btn" onclick="openPlayer({idx}, {i})">Server {i+1}</button>'
+                    for i in range(len(valid_links))
+                ])
+                links_html += f'<div class="server-list">{server_buttons}</div>'
         else:
             links_html = '<span class="no-link">🔗 Link non disponibile</span>'
 
-        # Aggiungi lingua se disponibile
         language_info = f'<span class="language-badge">🌐 {event.get("language", "")}</span>' if event.get('language') else ''
 
         event_items.append(f'''
@@ -552,7 +571,6 @@ def generate_html(events: List[dict], title: str = "Eventi Sportivi in Diretta",
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="robots" content="noindex, nofollow">
         <title>{escape(title)}</title>
         <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Audiowide&family=Grotesk:wght@400;700&display=swap" rel="stylesheet">
         <style>
@@ -631,20 +649,166 @@ def generate_html(events: List[dict], title: str = "Eventi Sportivi in Diretta",
             .server-link {{
                 display: inline-block; font-family: 'Orbitron', monospace; font-weight: 700; color: #0a0a0a;
                 background: #00ffcc; padding: 12px 24px; border-radius: 8px; text-decoration: none;
-                text-align: center; width: 100%; transition: all 0.3s ease;
+                text-align: center; width: 100%; transition: all 0.3s ease; border: none; cursor: pointer;
+                font-size: 1rem;
             }}
             .server-link:hover {{ background: #00ddbb; box-shadow: 0 0 40px rgba(0, 255, 204, 0.5); }}
-            .dropdown select {{
-                width: 100%; padding: 12px 15px; background: rgba(0, 20, 20, 0.9); color: #00ffcc;
-                border: 1px solid rgba(0, 255, 204, 0.4); border-radius: 10px; font-family: 'Orbitron', monospace;
-                font-size: 0.85rem; cursor: pointer; outline: none;
+            .server-list {{ display: flex; flex-wrap: wrap; gap: 5px; margin-top: 10px; }}
+            .server-btn {{
+                background: rgba(0, 255, 204, 0.15); color: #00ffcc; border: 1px solid rgba(0, 255, 204, 0.3);
+                padding: 5px 12px; border-radius: 6px; cursor: pointer; font-size: 0.8rem;
+                transition: all 0.2s;
             }}
+            .server-btn:hover {{ background: rgba(0, 255, 204, 0.3); }}
             .no-link {{
                 display: inline-block; font-family: 'Orbitron', monospace; color: #666;
                 text-align: center; width: 100%; padding: 10px;
             }}
             .footer {{ text-align: center; padding: 40px 0 20px; margin-top: 60px; border-top: 1px solid rgba(0, 255, 204, 0.2); color: #88ddff; opacity: 0.7; }}
             .footer .neon-text {{ font-family: 'Orbitron', monospace; color: #00ffcc; font-size: 1rem; }}
+
+            /* ===== PLAYER MODAL ===== */
+            .player-modal {{
+                display: none;
+                position: fixed;
+                top: 0; left: 0;
+                width: 100%; height: 100%;
+                background: rgba(0, 0, 0, 0.95);
+                z-index: 9999;
+                padding: 20px;
+                flex-direction: column;
+            }}
+            .player-modal.active {{
+                display: flex;
+            }}
+            .player-header {{
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding: 15px 20px;
+                background: rgba(0, 255, 204, 0.1);
+                border: 1px solid rgba(0, 255, 204, 0.3);
+                border-radius: 10px 10px 0 0;
+                flex-wrap: wrap;
+                gap: 10px;
+            }}
+            .player-title {{
+                font-family: 'Orbitron', sans-serif;
+                font-weight: 700;
+                font-size: 1.2rem;
+                color: #00ffcc;
+                flex: 1;
+                min-width: 200px;
+            }}
+            .player-info {{
+                font-size: 0.85rem;
+                color: #88ddff;
+            }}
+            .player-controls {{
+                display: flex;
+                gap: 10px;
+                align-items: center;
+                flex-wrap: wrap;
+            }}
+            .player-btn {{
+                background: rgba(0, 255, 204, 0.2);
+                color: #00ffcc;
+                border: 1px solid rgba(0, 255, 204, 0.5);
+                padding: 8px 16px;
+                border-radius: 6px;
+                cursor: pointer;
+                font-family: 'Orbitron', monospace;
+                font-size: 0.8rem;
+                transition: all 0.2s;
+            }}
+            .player-btn:hover {{
+                background: rgba(0, 255, 204, 0.4);
+                box-shadow: 0 0 20px rgba(0, 255, 204, 0.3);
+            }}
+            .player-btn.close-btn {{
+                background: rgba(255, 0, 0, 0.2);
+                color: #ff4444;
+                border-color: rgba(255, 0, 0, 0.5);
+            }}
+            .player-btn.close-btn:hover {{
+                background: rgba(255, 0, 0, 0.4);
+            }}
+            .player-servers {{
+                display: flex;
+                gap: 8px;
+                padding: 10px 20px;
+                background: rgba(0, 30, 30, 0.7);
+                flex-wrap: wrap;
+                border-left: 1px solid rgba(0, 255, 204, 0.3);
+                border-right: 1px solid rgba(0, 255, 204, 0.3);
+            }}
+            .player-server-btn {{
+                background: rgba(0, 255, 204, 0.1);
+                color: #88ddff;
+                border: 1px solid rgba(0, 255, 204, 0.3);
+                padding: 6px 14px;
+                border-radius: 6px;
+                cursor: pointer;
+                font-size: 0.8rem;
+                transition: all 0.2s;
+            }}
+            .player-server-btn:hover {{
+                background: rgba(0, 255, 204, 0.25);
+                color: #00ffcc;
+            }}
+            .player-server-btn.active {{
+                background: #00ffcc;
+                color: #0a0a0a;
+                font-weight: 700;
+            }}
+            .player-iframe-container {{
+                flex: 1;
+                background: #000;
+                border: 1px solid rgba(0, 255, 204, 0.3);
+                border-top: none;
+                border-radius: 0 0 10px 10px;
+                overflow: hidden;
+                position: relative;
+            }}
+            .player-iframe {{
+                width: 100%;
+                height: 100%;
+                border: none;
+                background: #000;
+            }}
+            .player-loading {{
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                color: #00ffcc;
+                font-family: 'Orbitron', monospace;
+                font-size: 1.2rem;
+                text-align: center;
+            }}
+            .player-error {{
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                color: #ff4444;
+                font-family: 'Orbitron', monospace;
+                font-size: 1rem;
+                text-align: center;
+                padding: 20px;
+                max-width: 500px;
+            }}
+            .player-error a {{
+                color: #00ffcc;
+                text-decoration: underline;
+            }}
+
+            @media (max-width: 768px) {{
+                .player-modal {{ padding: 0; }}
+                .player-header {{ border-radius: 0; padding: 10px; }}
+                .player-title {{ font-size: 0.9rem; }}
+                .player-iframe-container {{ border-radius: 0; }}
+            }}
         </style>
     </head>
     <body>
@@ -666,6 +830,157 @@ def generate_html(events: List[dict], title: str = "Eventi Sportivi in Diretta",
                 <p class="neon-text">{escape(footer)}</p>
             </footer>
         </div>
+
+        <!-- ===== PLAYER MODAL ===== -->
+        <div id="playerModal" class="player-modal">
+            <div class="player-header">
+                <div>
+                    <div class="player-title" id="playerTitle">Caricamento...</div>
+                    <div class="player-info" id="playerInfo"></div>
+                </div>
+                <div class="player-controls">
+                    <button class="player-btn" onclick="openInNewTab()" title="Apri in nuova scheda">
+                        🔗 Apri in nuova scheda
+                    </button>
+                    <button class="player-btn close-btn" onclick="closePlayer()">
+                        ✕ Chiudi
+                    </button>
+                </div>
+            </div>
+            <div class="player-servers" id="playerServers"></div>
+            <div class="player-iframe-container">
+                <div class="player-loading" id="playerLoading">⏳ Caricamento stream...</div>
+                <iframe id="playerIframe" class="player-iframe" 
+                        allowfullscreen 
+                        allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
+                        referrerpolicy="no-referrer"
+                        sandbox="allow-same-origin allow-scripts allow-popups allow-forms allow-presentation">
+                </iframe>
+            </div>
+        </div>
+
+        <script>
+            const EVENTS_DATA = {events_json_str};
+            let currentEvent = null;
+            let currentServerIndex = 0;
+
+            function openPlayer(eventIndex, serverIndex) {{
+                const event = EVENTS_DATA[eventIndex];
+                if (!event || !event.links || event.links.length === 0) {{
+                    alert('Nessun link disponibile per questo evento');
+                    return;
+                }}
+                
+                currentEvent = event;
+                currentServerIndex = serverIndex;
+                
+                // Aggiorna titolo e info
+                document.getElementById('playerTitle').textContent = event.name;
+                document.getElementById('playerInfo').textContent = 
+                    `🏆 ${{event.competition}} • 🕒 ${{event.time}} • 📅 ${{event.day}}`;
+                
+                // Genera bottoni server
+                const serversDiv = document.getElementById('playerServers');
+                serversDiv.innerHTML = '';
+                if (event.links.length > 1) {{
+                    event.links.forEach((link, i) => {{
+                        const btn = document.createElement('button');
+                        btn.className = 'player-server-btn' + (i === serverIndex ? ' active' : '');
+                        btn.textContent = `Server ${{i + 1}}`;
+                        btn.onclick = () => switchServer(i);
+                        serversDiv.appendChild(btn);
+                    }});
+                    serversDiv.style.display = 'flex';
+                }} else {{
+                    serversDiv.style.display = 'none';
+                }}
+                
+                // Carica lo stream
+                loadStream(event.links[serverIndex]);
+                
+                // Mostra modal
+                document.getElementById('playerModal').classList.add('active');
+                document.body.style.overflow = 'hidden';
+            }}
+
+            function switchServer(index) {{
+                if (!currentEvent) return;
+                currentServerIndex = index;
+                
+                // Aggiorna bottoni
+                document.querySelectorAll('.player-server-btn').forEach((btn, i) => {{
+                    btn.classList.toggle('active', i === index);
+                }});
+                
+                loadStream(currentEvent.links[index]);
+            }}
+
+            function loadStream(url) {{
+                const iframe = document.getElementById('playerIframe');
+                const loading = document.getElementById('playerLoading');
+                
+                // Mostra loading
+                loading.style.display = 'block';
+                loading.textContent = '⏳ Caricamento stream...';
+                loading.className = 'player-loading';
+                
+                // Reset iframe
+                iframe.src = 'about:blank';
+                
+                // Timeout di sicurezza
+                const timeout = setTimeout(() => {{
+                    if (loading.style.display !== 'none') {{
+                        loading.className = 'player-error';
+                        loading.innerHTML = `
+                            ⚠️ Il caricamento sta impiegando troppo tempo.<br><br>
+                            <a href="${{url}}" target="_blank">🔗 Apri in nuova scheda</a>
+                        `;
+                    }}
+                }}, 15000);
+                
+                // Carica URL nell'iframe
+                setTimeout(() => {{
+                    try {{
+                        iframe.src = url;
+                        // Nascondi loading dopo un po'
+                        setTimeout(() => {{
+                            loading.style.display = 'none';
+                            clearTimeout(timeout);
+                        }}, 3000);
+                    }} catch (e) {{
+                        loading.className = 'player-error';
+                        loading.innerHTML = `
+                            ⚠️ Errore nel caricamento dello stream.<br><br>
+                            <a href="${{url}}" target="_blank">🔗 Apri in nuova scheda</a>
+                        `;
+                        clearTimeout(timeout);
+                    }}
+                }}, 100);
+            }}
+
+            function closePlayer() {{
+                document.getElementById('playerModal').classList.remove('active');
+                document.getElementById('playerIframe').src = 'about:blank';
+                document.body.style.overflow = '';
+                currentEvent = null;
+            }}
+
+            function openInNewTab() {{
+                if (currentEvent && currentEvent.links[currentServerIndex]) {{
+                    window.open(currentEvent.links[currentServerIndex], '_blank');
+                }}
+            }}
+
+            // Chiudi con ESC
+            document.addEventListener('keydown', (e) => {{
+                if (e.key === 'Escape') closePlayer();
+            }});
+
+            // Chiudi cliccando fuori dall'iframe (solo su mobile)
+            document.getElementById('playerModal').addEventListener('click', (e) => {{
+                if (e.target.id === 'playerModal') closePlayer();
+            }});
+        </script>
     </body>
     </html>
     '''
@@ -787,7 +1102,7 @@ def main():
         footer="KIRA GSI SPORT • Eventi in Diretta • 2026 • Developed by KIRA GSI GROUP"
     )
     
-    html_filename = "kira_ultra.html"
+    html_filename = "streamx_events.html"
     with open(html_filename, "w", encoding="utf-8") as f:
         f.write(html_output)
     print(f"   ✅ HTML generato: {html_filename}")
@@ -796,7 +1111,7 @@ def main():
     print("\n📄 Generazione Playlist M3U...")
     m3u_content = generate_m3u(all_events)
     
-    m3u_filename = "KIRA GSI.m3u"
+    m3u_filename = "streamx_playlist.m3u"
     with open(m3u_filename, "w", encoding="utf-8") as f:
         f.write(m3u_content)
     print(f"   ✅ Playlist M3U generata: {m3u_filename}")

@@ -9,7 +9,18 @@
     "time": "19:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/schalke-04-vs-dynamo-dresden",
-    "servers": []
+    "servers": [
+      {
+        "label": "Deutsch",
+        "url": "https://playerdee.top/alpha/schalke-04-vs-dynamo-dresden/3234",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
+        }
+      }
+    ]
   },
   {
     "title": "Inter Milan Venezia",

@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Basketball – NBL",Oggi 10:30 - Perth Wildcats vs. Sydney Kings [ESPN]
-https://august.ppvtv.icu/embed.html?match=fi6twd3&server=0
-
 #EXTINF:-1 group-title="Football – Serie A",Oggi 17:30 - AC Milan vs. Bologna [Paramount+]
 https://august.ppvtv.icu/embed.html?match=fjltaw9&server=0
 
@@ -13,19 +10,19 @@ https://august.ppvtv.icu/embed.html?match=flzp8zk&server=0
 #EXTINF:-1 group-title="Football – Serie A",Oggi 17:30 - Venezia vs. Inter Milan [Paramount+]
 https://august.ppvtv.icu/embed.html?match=fdstmif&server=0
 
-#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 18:00 - Degerfors IF vs. Västerås SK [TV4 Play]
+#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 18:00 - Degerfors IF vs. Västerås SK [TV4 Sport Live 3]
 https://august.ppvtv.icu/embed.html?match=f18yxuh2&server=0
 
-#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 18:00 - Halmstads BK vs. Malmö FF [TV4 Play]
+#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 18:00 - Halmstads BK vs. Malmö FF [TV4 Sportkanalen]
 https://august.ppvtv.icu/embed.html?match=fqsqf3b&server=0
 
-#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 18:00 - IF Brommapojkarna vs. BK Häcken [TV4 Play]
+#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 18:00 - IF Brommapojkarna vs. BK Häcken [TV4 Sport Live 4]
 https://august.ppvtv.icu/embed.html?match=f1brj4n&server=0
 
-#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 18:00 - IFK Göteborg vs. Djurgården [TV4 Play]
+#EXTINF:-1 group-title="Football – Allsvenskan",Oggi 18:00 - IFK Göteborg vs. Djurgården [TV4 Fotboll]
 https://august.ppvtv.icu/embed.html?match=f1egcbx8&server=0
 
-#EXTINF:-1 group-title="Football – Carabao Cup",Oggi 19:30 - Manchester City vs. Brighton & Hove Albion [Carabao Cup]
+#EXTINF:-1 group-title="Football – Carabao Cup",Oggi 19:30 - Manchester City vs. Brighton & Hove Albion [Sky Sports+]
 https://august.ppvtv.icu/embed.html?match=f1d1b2sd&server=0
 
 #EXTINF:-1 group-title="Football – Serie A",Oggi 19:45 - Genoa vs. Juventus [Paramount+]
@@ -34,16 +31,16 @@ https://august.ppvtv.icu/embed.html?match=f7rfp5m&server=0
 #EXTINF:-1 group-title="Football – Serie A",Oggi 19:45 - Monza vs. Napoli [Paramount+]
 https://august.ppvtv.icu/embed.html?match=fzg786c&server=0
 
-#EXTINF:-1 group-title="Football – Carabao Cup",Oggi 19:45 - AFC Bournemouth vs. Aston Villa [Carabao Cup]
+#EXTINF:-1 group-title="Football – Carabao Cup",Oggi 19:45 - AFC Bournemouth vs. Aston Villa [Sky Sports+]
 https://august.ppvtv.icu/embed.html?match=f13zfhwv&server=0
 
-#EXTINF:-1 group-title="Football – Carabao Cup",Oggi 19:45 - Fulham vs. Crystal Palace [Carabao Cup]
+#EXTINF:-1 group-title="Football – Carabao Cup",Oggi 19:45 - Fulham vs. Crystal Palace [Sky Sports+]
 https://august.ppvtv.icu/embed.html?match=fxart9x&server=0
 
-#EXTINF:-1 group-title="Football – Carabao Cup",Oggi 19:45 - Sunderland vs. Brentford [Carabao Cup]
+#EXTINF:-1 group-title="Football – Carabao Cup",Oggi 19:45 - Sunderland vs. Brentford [Sky Sports+]
 https://august.ppvtv.icu/embed.html?match=fspbtc4&server=0
 
-#EXTINF:-1 group-title="Football – Carabao Cup",Oggi 20:00 - Liverpool vs. Chelsea [Carabao Cup]
+#EXTINF:-1 group-title="Football – Carabao Cup",Oggi 20:00 - Liverpool vs. Chelsea [Sky Sports Main Event]
 https://august.ppvtv.icu/embed.html?match=frjsz3l&server=0
 
 #EXTINF:-1 group-title="Basketball – NBA",Oggi 23:00 - Miami Heat vs. Atlanta Hawks [NBA League Pass (Home)]
@@ -91,6 +88,9 @@ https://august.ppvtv.icu/embed.html?match=fzi7ga1&server=0
 #EXTINF:-1 group-title="Football – MLS",Oggi 23:30 - Toronto FC vs. D.C. United [Apple TV]
 https://august.ppvtv.icu/embed.html?match=f1hukrfl&server=0
 
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 23:30 - Philadelphia Flyers vs. Washington Capitals [TNT]
+https://august.ppvtv.icu/embed.html?match=f1nitv7w&server=0
+
 #EXTINF:-1 group-title="American Football – 24/7 channel",Oggi N/A - NFL Network [NFL Network (ESPN)]
 https://august.ppvtv.icu/embed.html?match=c15q87wa&server=0
 
@@ -121,6 +121,9 @@ https://august.ppvtv.icu/embed.html?match=chsgr4k&server=0
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Oggi N/A - 24/7 South Park [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1ed9edx&server=0
 
+#EXTINF:-1 group-title="Baseball – MLB",Domani 00:00 - Milwaukee Brewers vs. Tampa Bay Rays [Fox]
+https://august.ppvtv.icu/embed.html?match=f1jfyoem&server=0
+
 #EXTINF:-1 group-title="Basketball – NBA",Domani 00:00 - New York Knicks vs. Chicago Bulls [NBA League Pass (Home)]
 https://august.ppvtv.icu/embed.html?match=f19w26vq&server=0
 
@@ -144,6 +147,15 @@ https://august.ppvtv.icu/embed.html?match=f3ctxdi&server=0
 
 #EXTINF:-1 group-title="Basketball – NBA",Domani 00:00 - Denver Nuggets vs. New Orleans Pelicans [NBA League Pass (Away)]
 https://august.ppvtv.icu/embed.html?match=f3ctxdi&server=1
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 00:00 - Cleveland Cavaliers vs. Atlanta Hawks [NBA TV]
+https://august.ppvtv.icu/embed.html?match=f16r512l&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 00:00 - Sacramento Kings vs. New Orleans Pelicans [GCSEN (Home)]
+https://august.ppvtv.icu/embed.html?match=f14lqpfo&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 00:00 - Sacramento Kings vs. New Orleans Pelicans [NBA League Pass (Away)]
+https://august.ppvtv.icu/embed.html?match=f14lqpfo&server=1
 
 #EXTINF:-1 group-title="Football – MLS",Domani 00:00 - New England Revolution vs. Inter Miami CF [Apple TV]
 https://august.ppvtv.icu/embed.html?match=f7m5rl9&server=0
@@ -187,6 +199,9 @@ https://august.ppvtv.icu/embed.html?match=f15pfus9&server=0
 #EXTINF:-1 group-title="Football – MLS",Domani 00:30 - St. Louis CITY SC vs. Portland Timbers [Apple TV]
 https://august.ppvtv.icu/embed.html?match=f1mtf19&server=0
 
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:30 - Calgary Flames vs. Edmonton Oilers [ESPN+]
+https://august.ppvtv.icu/embed.html?match=f1a1rhe6&server=0
+
 #EXTINF:-1 group-title="Basketball – NBA",Domani 01:00 - San Antonio Spurs vs. Utah Jazz [KJZZ-TV (Home)]
 https://august.ppvtv.icu/embed.html?match=fmg8d2&server=0
 
@@ -204,6 +219,9 @@ https://august.ppvtv.icu/embed.html?match=fdkg734&server=0
 
 #EXTINF:-1 group-title="Football – Liga MX",Domani 01:00 - Cruz Azul vs. León [Liga MX]
 https://august.ppvtv.icu/embed.html?match=f1uosdnz&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 01:00 - New Jersey Devils vs. Colorado Avalanche [Altitude Sports]
+https://august.ppvtv.icu/embed.html?match=fe82xvu&server=0
 
 #EXTINF:-1 group-title="Wrestling – Wrestling",Domani 01:00 - TNA Impact [AMC]
 https://august.ppvtv.icu/embed.html?match=c1se54xr&server=0
@@ -234,6 +252,15 @@ https://august.ppvtv.icu/embed.html?match=f1uz6asl&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Domani 02:00 - Texas State Bobcats at Boise State Broncos [CW]
 https://august.ppvtv.icu/embed.html?match=cn8600a&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 02:00 - Memphis Grizzlies vs. Portland Trail Blazers [KUNP 16 (Home)]
+https://august.ppvtv.icu/embed.html?match=fcl5scp&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 02:00 - Memphis Grizzlies vs. Portland Trail Blazers [NBA League Pass (Away)]
+https://august.ppvtv.icu/embed.html?match=fcl5scp&server=1
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 02:00 - Toronto Maple Leafs vs. Seattle Kraken [KONG]
+https://august.ppvtv.icu/embed.html?match=fl9so82&server=0
 
 #EXTINF:-1 group-title="Basketball – NBA",Domani 02:30 - Los Angeles Lakers vs. LA Clippers [KTLA (Home)]
 https://august.ppvtv.icu/embed.html?match=f1yt5vy8&server=0
@@ -267,6 +294,9 @@ https://august.ppvtv.icu/embed.html?match=c1dc895w&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 08:00 - 24/7 Family Guy [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c418ukt&server=0
+
+#EXTINF:-1 group-title="Basketball – NBL",Domani 09:00 - Brisbane Bullets vs. Cairns Taipans [ESPN]
+https://august.ppvtv.icu/embed.html?match=f1gux2uu&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 10:28 - 24/7 The Simpsons [24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1j7a3d7&server=0

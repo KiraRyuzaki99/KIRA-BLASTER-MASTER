@@ -33,16 +33,47 @@
     ]
   },
   {
-    "title": "Frosinone Calcio Lecce",
-    "category": "Frosinone Calcio",
-    "logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
-    "start_iso": "2026-10-29T17:30:00.000Z",
-    "end_iso": "2026-10-29T19:45:00.000Z",
+    "title": "Newcastle United Everton",
+    "category": "Newcastle United",
+    "logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+    "start_iso": "2026-10-29T19:45:00.000Z",
+    "end_iso": "2026-10-29T22:00:00.000Z",
     "date": "Thursday, 29 October 2026",
-    "time": "19:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/frosinone-vs-lecce",
-    "servers": []
+    "time": "21:45",
+    "status": "live",
+    "event_url": "https://pogo.pk/events/newcastle-united-vs-everton",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3273",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3274",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3275",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Atalanta Fiorentina",
@@ -52,21 +83,20 @@
     "end_iso": "2026-10-29T22:00:00.000Z",
     "date": "Thursday, 29 October 2026",
     "time": "21:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/atalanta-vs-fiorentina",
-    "servers": []
-  },
-  {
-    "title": "Newcastle United Everton",
-    "category": "Newcastle United",
-    "logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-    "start_iso": "2026-10-29T19:45:00.000Z",
-    "end_iso": "2026-10-29T22:00:00.000Z",
-    "date": "Thursday, 29 October 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/newcastle-united-vs-everton",
-    "servers": []
+    "servers": [
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/atalanta-vs-fiorentina/3272",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "Carolina Panthers Green Bay Packers",
@@ -317,18 +347,6 @@
     ]
   },
   {
-    "title": "Wrexham Sheffield United",
-    "category": "Wrexham",
-    "logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-    "start_iso": "2026-10-30T20:00:00.000Z",
-    "end_iso": "2026-10-30T22:15:00.000Z",
-    "date": "Friday, 30 October 2026",
-    "time": "22:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/wrexham-vs-sheffield-united",
-    "servers": []
-  },
-  {
     "title": "Villarreal Espanyol",
     "category": "Villarreal",
     "logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
@@ -338,6 +356,18 @@
     "time": "22:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/villarreal-vs-espanyol",
+    "servers": []
+  },
+  {
+    "title": "Wrexham Sheffield United",
+    "category": "Wrexham",
+    "logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
+    "start_iso": "2026-10-30T20:00:00.000Z",
+    "end_iso": "2026-10-30T22:15:00.000Z",
+    "date": "Friday, 30 October 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/wrexham-vs-sheffield-united",
     "servers": []
   },
   {

@@ -15,11 +15,11 @@
 - 🏆 **Multi-sport**: Calcio, Tennis, Basket, Baseball, Motori, Surf, Nuoto e altri
 - 📱 **Output in HTML e M3U** per visualizzare su browser o lettori IPTV
 - 🎨 **Stile cyberpunk** uniforme per tutti i file
-- 📁 **Organizzazione** automatica in cartelle dedicate
+- 📁 **Organizzazione** automatica in cartelle e link dedicato dedicate
 
 ---
 
-## 📦 Fonti attive
+## 📦 Fonti attive (Alcune sono state disattivate)
 
 | Fonte | Output | Sport |
 |-------|--------|-------|

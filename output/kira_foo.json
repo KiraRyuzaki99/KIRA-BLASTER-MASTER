@@ -63,9 +63,40 @@
     "end_iso": "2026-10-30T20:15:00.000Z",
     "date": "Friday, 30 October 2026",
     "time": "20:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/psg-vs-le-havre",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/psg-vs-le-havre/3277",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/psg-vs-le-havre/3278",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://playerdee.top/alpha/psg-vs-le-havre/3279",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      }
+    ]
   },
   {
     "title": "F1 Mexican Grand Prix Formula 1",
@@ -75,7 +106,7 @@
     "end_iso": "2026-11-01T23:30:00.000Z",
     "date": "Friday, 30 October 2026",
     "time": "20:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/f1-mexican-grand-prix",
     "servers": [
       {
@@ -118,9 +149,20 @@
     "end_iso": "2026-10-30T21:45:00.000Z",
     "date": "Friday, 30 October 2026",
     "time": "21:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/elversberg-vs-mainz-05",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/elversberg-vs-mainz-05/3280",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Bristol Bears Leicester Tigers",
@@ -201,7 +243,28 @@
     "time": "22:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/villarreal-vs-espanyol",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/villarreal-vs-espanyol/3281",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/villarreal-vs-espanyol/3282",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Wrexham Sheffield United",
@@ -213,7 +276,28 @@
     "time": "22:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/wrexham-vs-sheffield-united",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/wrexham-vs-sheffield-united/3283",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/wrexham-vs-sheffield-united/3286",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Lens Lille",
@@ -225,7 +309,28 @@
     "time": "22:05",
     "status": "next",
     "event_url": "https://pogo.pk/events/lens-vs-lille",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/lens-vs-lille/3284",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://playerdee.top/alpha/lens-vs-lille/3285",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      }
+    ]
   },
   {
     "title": "Chelsea Manchester United",

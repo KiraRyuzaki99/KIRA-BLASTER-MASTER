@@ -33,72 +33,6 @@
     ]
   },
   {
-    "title": "Newcastle United Everton",
-    "category": "Newcastle United",
-    "logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-    "start_iso": "2026-10-29T19:45:00.000Z",
-    "end_iso": "2026-10-29T22:00:00.000Z",
-    "date": "Thursday, 29 October 2026",
-    "time": "21:45",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/newcastle-united-vs-everton",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3273",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3274",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3275",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Atalanta Fiorentina",
-    "category": "Atalanta",
-    "logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-    "start_iso": "2026-10-29T19:45:00.000Z",
-    "end_iso": "2026-10-29T22:00:00.000Z",
-    "date": "Thursday, 29 October 2026",
-    "time": "21:45",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/atalanta-vs-fiorentina",
-    "servers": [
-      {
-        "label": "Portuguese",
-        "url": "https://playerdee.top/alpha/atalanta-vs-fiorentina/3272",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
-        }
-      }
-    ]
-  },
-  {
     "title": "Carolina Panthers Green Bay Packers",
     "category": "Carolina Panthers",
     "logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
@@ -106,7 +40,7 @@
     "end_iso": "2026-10-30T03:25:00.000Z",
     "date": "Friday, 30 October 2026",
     "time": "02:15",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/carolina-panthers-vs-green-bay-packers",
     "servers": [
       {

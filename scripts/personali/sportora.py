@@ -4,7 +4,7 @@
 SCRAPER SPORTORA - Tutti gli eventi del giorno corrente
 """
 
-import requests
+from curl_cffi import requestsas curl_requests
 import json
 import re
 from datetime import datetime, timedelta

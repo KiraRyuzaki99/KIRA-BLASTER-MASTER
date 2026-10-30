@@ -30,7 +30,7 @@ HEADERS = {
 # ============================================================
 
 def fetch_events():
-    """Recupera gli eventi da sportora.ru."""
+    """Recupera gli eventi da sportora.ru usando curl_cffi."""
     url = f"{BASE_URL}/data/matches.json"
     params = {
         "_": int(datetime.now().timestamp() * 1000)
@@ -38,9 +38,25 @@ def fetch_events():
     
     try:
         print(f"📡 Chiamata API: {url}")
-        response = requests.get(url, params=params, headers=HEADERS, timeout=15)
+        response = curl_requests.get(
+            url,
+            params=params,
+            headers=HEADERS,
+            timeout=20,
+            impersonate="chrome124"
+        )
+        
+        print(f"   Status: {response.status_code}")
+        print(f"   Content-Type: {response.headers.get('content-type')}")
         
         if response.status_code == 200:
+            # Controlla che sia davvero JSON e non HTML di errore
+            content_type = response.headers.get('content-type', '')
+            if 'json' not in content_type:
+                print("   ⚠️ Risposta non JSON (possibile blocco Cloudflare)")
+                print(f"   Anteprima: {response.text[:200]}")
+                return []
+            
             data = response.json()
             matches = data.get('matches', [])
             print(f"   ✅ Trovati {len(matches)} match totali")

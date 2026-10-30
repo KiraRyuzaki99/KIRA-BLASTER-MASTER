@@ -14,7 +14,6 @@ FILE_DA_MOSTRARE = [
     "kira_mam.html",
     "kira_ppvvt.html",
     "kira_spo.html",
-    "kira_tora.html",
     "kira_ultra.html",
 ]
 

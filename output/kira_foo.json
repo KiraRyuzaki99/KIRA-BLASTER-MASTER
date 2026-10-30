@@ -56,52 +56,6 @@
     ]
   },
   {
-    "title": "Auckland Brisbane Roar",
-    "category": "Auckland",
-    "logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
-    "start_iso": "2026-10-30T09:00:00.000Z",
-    "end_iso": "2026-10-30T11:15:00.000Z",
-    "date": "Friday, 30 October 2026",
-    "time": "11:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/auckland-vs-brisbane-roar",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/auckland-vs-brisbane-roar/3233",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "England Papua New Guinea",
-    "category": "England",
-    "logo": "https://cdn.img4every1.org/team/england/logo.webp",
-    "start_iso": "2026-10-30T09:05:00.000Z",
-    "end_iso": "2026-10-30T11:20:00.000Z",
-    "date": "Friday, 30 October 2026",
-    "time": "11:05",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/england-vs-png",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/england-vs-png/3255",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "PSG Le Havre",
     "category": "PSG",
     "logo": "https://cdn.img4every1.org/team/psg/logo.webp",

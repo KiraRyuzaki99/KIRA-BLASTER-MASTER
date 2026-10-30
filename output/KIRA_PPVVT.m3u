@@ -1,48 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Basketball – NBA",Oggi 00:00 - Cleveland Cavaliers vs. Atlanta Hawks [NBA TV]
-https://august.ppvtv.icu/embed.html?match=f16r512l&server=0
-
-#EXTINF:-1 group-title="Basketball – NBA",Oggi 00:00 - Sacramento Kings vs. New Orleans Pelicans [GCSEN (Home)]
-https://august.ppvtv.icu/embed.html?match=f14lqpfo&server=0
-
-#EXTINF:-1 group-title="Basketball – NBA",Oggi 00:00 - Sacramento Kings vs. New Orleans Pelicans [NBA League Pass (Away)]
-https://august.ppvtv.icu/embed.html?match=f14lqpfo&server=1
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 00:00 - Boston Bruins vs. St. Louis Blues [Blues App]
-https://august.ppvtv.icu/embed.html?match=fsmfpbd&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 00:00 - Washington Capitals vs. Nashville Predators [Scripps Sports]
-https://august.ppvtv.icu/embed.html?match=fwqto68&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 00:00 - Montreal Canadiens vs. Dallas Stars [Prime Video (Local)]
-https://august.ppvtv.icu/embed.html?match=fk4q3i7&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 00:00 - New York Islanders vs. Minnesota Wild [MINNHL]
-https://august.ppvtv.icu/embed.html?match=f1ykmpmz&server=0
-
-#EXTINF:-1 group-title="American Football – NFL",Oggi 00:15 - Carolina Panthers at Green Bay Packers [Prime Video]
-https://august.ppvtv.icu/embed.html?match=ccjcpfp&server=0
-
-#EXTINF:-1 group-title="Wrestling – Wrestling",Oggi 01:00 - TNA Impact [AMC]
-https://august.ppvtv.icu/embed.html?match=c1se54xr&server=0
-
-#EXTINF:-1 group-title="Basketball – NBA",Oggi 02:00 - Memphis Grizzlies vs. Portland Trail Blazers [KUNP 16 (Home)]
-https://august.ppvtv.icu/embed.html?match=fcl5scp&server=0
-
-#EXTINF:-1 group-title="Basketball – NBA",Oggi 02:00 - Memphis Grizzlies vs. Portland Trail Blazers [NBA League Pass (Away)]
-https://august.ppvtv.icu/embed.html?match=fcl5scp&server=1
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 02:00 - Buffalo Sabres vs. Anaheim Ducks [Disney+]
-https://august.ppvtv.icu/embed.html?match=f1h9hw6l&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 02:00 - Ottawa Senators vs. Los Angeles Kings [ABTV]
-https://august.ppvtv.icu/embed.html?match=f1knkxtt&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 02:00 - Vancouver Canucks vs. San Jose Sharks [NBC Sports BA]
-https://august.ppvtv.icu/embed.html?match=fn0vpzz&server=0
-
 #EXTINF:-1 group-title="Basketball – NBL",Oggi 06:30 - New Zealand Breakers vs. Adelaide 36ers [ESPN]
 https://august.ppvtv.icu/embed.html?match=fnoqkw9&server=0
 
@@ -520,15 +478,6 @@ https://august.ppvtv.icu/embed.html?match=f1sbwl22&server=0
 #EXTINF:-1 group-title="Football – Liga MX",Domani 23:00 - Santos vs. Necaxa [Liga MX]
 https://august.ppvtv.icu/embed.html?match=f1aj10bh&server=0
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Passato 23:00 - Winnipeg Jets vs. Tampa Bay Lightning [The Spot - MTN]
-https://august.ppvtv.icu/embed.html?match=f1shgbld&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Passato 23:00 - Utah Mammoth vs. Pittsburgh Penguins [ESPN+]
-https://august.ppvtv.icu/embed.html?match=f1geohdp&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Passato 23:00 - Columbus Blue Jackets vs. Carolina Hurricanes [CARNHL]
-https://august.ppvtv.icu/embed.html?match=f1hjwj9f&server=0
-
 #EXTINF:-1 group-title="American Football – College Football",Domani 23:30 - Miami Hurricanes at North Carolina Tar Heels [ABC]
 https://august.ppvtv.icu/embed.html?match=c161q44&server=0
 
@@ -543,9 +492,6 @@ https://august.ppvtv.icu/embed.html?match=c17ejl84&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Domani 23:30 - Mississippi State Bulldogs at Texas Longhorns [SkyCast]
 https://august.ppvtv.icu/embed.html?match=c17ejl84&server=1
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Passato 23:30 - Chicago Blackhawks vs. Detroit Red Wings [Disney+]
-https://august.ppvtv.icu/embed.html?match=f1c4qaf8&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Domani 23:45 - Missouri Tigers at Arkansas Razorbacks [SEC Network]
 https://august.ppvtv.icu/embed.html?match=cw7oq2&server=0

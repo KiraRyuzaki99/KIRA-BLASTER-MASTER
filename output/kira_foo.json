@@ -33,49 +33,6 @@
     ]
   },
   {
-    "title": "Carolina Panthers Green Bay Packers",
-    "category": "Carolina Panthers",
-    "logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
-    "start_iso": "2026-10-30T00:15:00.000Z",
-    "end_iso": "2026-10-30T03:25:00.000Z",
-    "date": "Friday, 30 October 2026",
-    "time": "02:15",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/carolina-panthers-vs-green-bay-packers",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/carolina-panthers-vs-green-bay-packers/3251",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/carolina-panthers-vs-green-bay-packers/3252",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/carolina-panthers-vs-green-bay-packers/3253",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "MotoGP Malaysian Grand Prix MotoGP",
     "category": "MotoGP Malaysian Grand Prix",
     "logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
@@ -83,7 +40,7 @@
     "end_iso": "2026-11-01T10:30:00.000Z",
     "date": "Friday, 30 October 2026",
     "time": "03:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/motogp-malaysian-grand-prix",
     "servers": [
       {

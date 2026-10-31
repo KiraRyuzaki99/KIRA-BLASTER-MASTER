@@ -56,49 +56,6 @@
     ]
   },
   {
-    "title": "PSG Le Havre",
-    "category": "PSG",
-    "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-    "start_iso": "2026-10-30T18:00:00.000Z",
-    "end_iso": "2026-10-30T20:15:00.000Z",
-    "date": "Friday, 30 October 2026",
-    "time": "20:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/psg-vs-le-havre",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/psg-vs-le-havre/3277",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/psg-vs-le-havre/3278",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://playerdee.top/alpha/psg-vs-le-havre/3279",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      }
-    ]
-  },
-  {
     "title": "F1 Mexican Grand Prix Formula 1",
     "category": "F1 Mexican Grand Prix",
     "logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
@@ -137,197 +94,6 @@
           "quality": "720p",
           "ads": "2",
           "language": "Español"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Elversberg Mainz 05",
-    "category": "Elversberg",
-    "logo": "https://cdn.img4every1.org/team/elversberg/logo.webp",
-    "start_iso": "2026-10-30T19:30:00.000Z",
-    "end_iso": "2026-10-30T21:45:00.000Z",
-    "date": "Friday, 30 October 2026",
-    "time": "21:30",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/elversberg-vs-mainz-05",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/elversberg-vs-mainz-05/3280",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Bristol Bears Leicester Tigers",
-    "category": "Bristol Bears",
-    "logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
-    "start_iso": "2026-10-30T19:45:00.000Z",
-    "end_iso": "2026-10-30T22:00:00.000Z",
-    "date": "Friday, 30 October 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/bristol-bears-vs-leicester-tigers",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/bristol-bears-vs-leicester-tigers/3261",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Leinster Connacht",
-    "category": "Leinster",
-    "logo": "https://cdn.img4every1.org/team/leinster/logo.webp",
-    "start_iso": "2026-10-30T19:45:00.000Z",
-    "end_iso": "2026-10-30T22:00:00.000Z",
-    "date": "Friday, 30 October 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/leinster-vs-connacht",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/leinster-vs-connacht/3259",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Glasgow Warriors Lions",
-    "category": "Glasgow Warriors",
-    "logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
-    "start_iso": "2026-10-30T19:45:00.000Z",
-    "end_iso": "2026-10-30T22:00:00.000Z",
-    "date": "Friday, 30 October 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/glasgow-warriors-vs-lions",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/glasgow-warriors-vs-lions/3260",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Villarreal Espanyol",
-    "category": "Villarreal",
-    "logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-    "start_iso": "2026-10-30T20:00:00.000Z",
-    "end_iso": "2026-10-30T22:15:00.000Z",
-    "date": "Friday, 30 October 2026",
-    "time": "22:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/villarreal-vs-espanyol",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/villarreal-vs-espanyol/3281",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/villarreal-vs-espanyol/3282",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Wrexham Sheffield United",
-    "category": "Wrexham",
-    "logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-    "start_iso": "2026-10-30T20:00:00.000Z",
-    "end_iso": "2026-10-30T22:15:00.000Z",
-    "date": "Friday, 30 October 2026",
-    "time": "22:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/wrexham-vs-sheffield-united",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/wrexham-vs-sheffield-united/3283",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/wrexham-vs-sheffield-united/3286",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Lens Lille",
-    "category": "Lens",
-    "logo": "https://cdn.img4every1.org/team/lens/logo.webp",
-    "start_iso": "2026-10-30T20:05:00.000Z",
-    "end_iso": "2026-10-30T22:20:00.000Z",
-    "date": "Friday, 30 October 2026",
-    "time": "22:05",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/lens-vs-lille",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/lens-vs-lille/3284",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://playerdee.top/alpha/lens-vs-lille/3285",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
         }
       }
     ]
@@ -378,98 +144,6 @@
     "status": "next",
     "event_url": "https://pogo.pk/events/atletico-madrid-vs-levante",
     "servers": []
-  },
-  {
-    "title": "Newcastle Falcons Saracens",
-    "category": "Newcastle Falcons",
-    "logo": "https://cdn.img4every1.org/team/newcastle-falcons/logo.webp",
-    "start_iso": "2026-10-31T15:00:00.000Z",
-    "end_iso": "2026-10-31T17:15:00.000Z",
-    "date": "Saturday, 31 October 2026",
-    "time": "17:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/newcastle-falcons-vs-saracens",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/newcastle-falcons-vs-saracens/3268",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Exeter Chiefs Harlequins",
-    "category": "Exeter Chiefs",
-    "logo": "https://cdn.img4every1.org/team/exeter-chiefs/logo.webp",
-    "start_iso": "2026-10-31T15:00:00.000Z",
-    "end_iso": "2026-10-31T17:15:00.000Z",
-    "date": "Saturday, 31 October 2026",
-    "time": "17:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/exeter-chiefs-vs-harlequins",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/exeter-chiefs-vs-harlequins/3267",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Bulls Scarlets",
-    "category": "Bulls",
-    "logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
-    "start_iso": "2026-10-31T15:00:00.000Z",
-    "end_iso": "2026-10-31T17:15:00.000Z",
-    "date": "Saturday, 31 October 2026",
-    "time": "17:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/bulls-vs-scarlets",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/bulls-vs-scarlets/3263",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Edinburgh Benetton",
-    "category": "Edinburgh",
-    "logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
-    "start_iso": "2026-10-31T15:00:00.000Z",
-    "end_iso": "2026-10-31T17:15:00.000Z",
-    "date": "Saturday, 31 October 2026",
-    "time": "17:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/edinburgh-vs-benetton-treviso",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/edinburgh-vs-benetton-treviso/3264",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
   },
   {
     "title": "Brighton & Hove Albion Manchester City",
@@ -532,6 +206,98 @@
     "servers": []
   },
   {
+    "title": "Bulls Scarlets",
+    "category": "Bulls",
+    "logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
+    "start_iso": "2026-10-31T15:00:00.000Z",
+    "end_iso": "2026-10-31T17:15:00.000Z",
+    "date": "Saturday, 31 October 2026",
+    "time": "17:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/bulls-vs-scarlets",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bulls-vs-scarlets/3263",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Edinburgh Benetton",
+    "category": "Edinburgh",
+    "logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+    "start_iso": "2026-10-31T15:00:00.000Z",
+    "end_iso": "2026-10-31T17:15:00.000Z",
+    "date": "Saturday, 31 October 2026",
+    "time": "17:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/edinburgh-vs-benetton-treviso",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/edinburgh-vs-benetton-treviso/3264",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Newcastle Falcons Saracens",
+    "category": "Newcastle Falcons",
+    "logo": "https://cdn.img4every1.org/team/newcastle-falcons/logo.webp",
+    "start_iso": "2026-10-31T15:00:00.000Z",
+    "end_iso": "2026-10-31T17:15:00.000Z",
+    "date": "Saturday, 31 October 2026",
+    "time": "17:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/newcastle-falcons-vs-saracens",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/newcastle-falcons-vs-saracens/3268",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Exeter Chiefs Harlequins",
+    "category": "Exeter Chiefs",
+    "logo": "https://cdn.img4every1.org/team/exeter-chiefs/logo.webp",
+    "start_iso": "2026-10-31T15:00:00.000Z",
+    "end_iso": "2026-10-31T17:15:00.000Z",
+    "date": "Saturday, 31 October 2026",
+    "time": "17:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/exeter-chiefs-vs-harlequins",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/exeter-chiefs-vs-harlequins/3267",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
     "title": "Sale Sharks Bath Rugby",
     "category": "Sale Sharks",
     "logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
@@ -567,6 +333,53 @@
     "servers": []
   },
   {
+    "title": "The Sharks Munster",
+    "category": "The Sharks",
+    "logo": "https://cdn.img4every1.org/team/the-sharks/logo.webp",
+    "start_iso": "2026-10-31T17:30:00.000Z",
+    "end_iso": "2026-10-31T19:45:00.000Z",
+    "date": "Saturday, 31 October 2026",
+    "time": "19:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/sharks-vs-munster",
+    "servers": []
+  },
+  {
+    "title": "Dragons Zebre",
+    "category": "Dragons",
+    "logo": "https://cdn.img4every1.org/team/dragons/logo.webp",
+    "start_iso": "2026-10-31T17:30:00.000Z",
+    "end_iso": "2026-10-31T19:45:00.000Z",
+    "date": "Saturday, 31 October 2026",
+    "time": "19:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/dragons-vs-zebre",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/dragons-vs-zebre/3265",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Real Betis Málaga",
+    "category": "Real Betis",
+    "logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+    "start_iso": "2026-10-31T17:30:00.000Z",
+    "end_iso": "2026-10-31T19:45:00.000Z",
+    "date": "Saturday, 31 October 2026",
+    "time": "19:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/real-betis-vs-malaga",
+    "servers": []
+  },
+  {
     "title": "Northampton Saints Gloucester Rugby",
     "category": "Northampton Saints",
     "logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
@@ -590,28 +403,27 @@
     ]
   },
   {
-    "title": "The Sharks Munster",
-    "category": "The Sharks",
-    "logo": "https://cdn.img4every1.org/team/the-sharks/logo.webp",
-    "start_iso": "2026-10-31T17:30:00.000Z",
-    "end_iso": "2026-10-31T19:45:00.000Z",
+    "title": "Cardiff Blues Ospreys",
+    "category": "Cardiff Blues",
+    "logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+    "start_iso": "2026-10-31T19:45:00.000Z",
+    "end_iso": "2026-10-31T22:00:00.000Z",
     "date": "Saturday, 31 October 2026",
-    "time": "19:30",
+    "time": "21:45",
     "status": "next",
-    "event_url": "https://pogo.pk/events/sharks-vs-munster",
-    "servers": []
-  },
-  {
-    "title": "Real Betis Málaga",
-    "category": "Real Betis",
-    "logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-    "start_iso": "2026-10-31T17:30:00.000Z",
-    "end_iso": "2026-10-31T19:45:00.000Z",
-    "date": "Saturday, 31 October 2026",
-    "time": "19:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/real-betis-vs-malaga",
-    "servers": []
+    "event_url": "https://pogo.pk/events/cardiff-rugby-vs-ospreys",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/cardiff-rugby-vs-ospreys/3266",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "FC Barcelona Deportivo Alavés",

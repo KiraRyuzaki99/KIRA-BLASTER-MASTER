@@ -99,6 +99,29 @@
     ]
   },
   {
+    "title": "Snooker International Championship Snooker",
+    "category": "Snooker International Championship",
+    "logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+    "start_iso": "2026-10-31T11:30:00.000Z",
+    "end_iso": "2026-10-31T15:30:00.000Z",
+    "date": "Saturday, 31 October 2026",
+    "time": "13:30",
+    "status": "live",
+    "event_url": "https://pogo.pk/events/snooker-international-championship",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/snooker-international-championship/3287",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
     "title": "Chelsea Manchester United",
     "category": "Chelsea",
     "logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
@@ -106,9 +129,30 @@
     "end_iso": "2026-10-31T14:45:00.000Z",
     "date": "Saturday, 31 October 2026",
     "time": "14:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/chelsea-vs-manchester-united",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/chelsea-vs-manchester-united/3289",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/chelsea-vs-manchester-united/3290",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Ulster Stormers",
@@ -118,7 +162,7 @@
     "end_iso": "2026-10-31T15:00:00.000Z",
     "date": "Saturday, 31 October 2026",
     "time": "14:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/ulster-vs-stormers",
     "servers": [
       {
@@ -141,9 +185,53 @@
     "end_iso": "2026-10-31T15:15:00.000Z",
     "date": "Saturday, 31 October 2026",
     "time": "15:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/atletico-madrid-vs-levante",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/atletico-madrid-vs-levante/3294",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/atletico-madrid-vs-levante/3295",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Bologna Monza",
+    "category": "Bologna",
+    "logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+    "start_iso": "2026-10-31T14:00:00.000Z",
+    "end_iso": "2026-10-31T16:15:00.000Z",
+    "date": "Saturday, 31 October 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/bologna-vs-monza",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bologna-vs-monza/3296",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Brighton & Hove Albion Manchester City",
@@ -155,54 +243,6 @@
     "time": "17:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/brighton-vs-man-city",
-    "servers": []
-  },
-  {
-    "title": "Hull City Ipswich Town",
-    "category": "Hull City",
-    "logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
-    "start_iso": "2026-10-31T15:00:00.000Z",
-    "end_iso": "2026-10-31T17:15:00.000Z",
-    "date": "Saturday, 31 October 2026",
-    "time": "17:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/hull-city-vs-ipswich-town",
-    "servers": []
-  },
-  {
-    "title": "Sunderland Coventry City",
-    "category": "Sunderland",
-    "logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-    "start_iso": "2026-10-31T15:00:00.000Z",
-    "end_iso": "2026-10-31T17:15:00.000Z",
-    "date": "Saturday, 31 October 2026",
-    "time": "17:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/sunderland-vs-coventry-city",
-    "servers": []
-  },
-  {
-    "title": "Leeds United AFC Bournemouth",
-    "category": "Leeds United",
-    "logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
-    "start_iso": "2026-10-31T15:00:00.000Z",
-    "end_iso": "2026-10-31T17:15:00.000Z",
-    "date": "Saturday, 31 October 2026",
-    "time": "17:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/leeds-united-vs-bournemouth",
-    "servers": []
-  },
-  {
-    "title": "Brentford Nottingham Forest",
-    "category": "Brentford",
-    "logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
-    "start_iso": "2026-10-31T15:00:00.000Z",
-    "end_iso": "2026-10-31T17:15:00.000Z",
-    "date": "Saturday, 31 October 2026",
-    "time": "17:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/brentford-vs-nottm-forest",
     "servers": []
   },
   {
@@ -242,6 +282,97 @@
       {
         "label": "English",
         "url": "https://playerdee.top/alpha/edinburgh-vs-benetton-treviso/3264",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hull City Ipswich Town",
+    "category": "Hull City",
+    "logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
+    "start_iso": "2026-10-31T15:00:00.000Z",
+    "end_iso": "2026-10-31T17:15:00.000Z",
+    "date": "Saturday, 31 October 2026",
+    "time": "17:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/hull-city-vs-ipswich-town",
+    "servers": []
+  },
+  {
+    "title": "Sunderland Coventry City",
+    "category": "Sunderland",
+    "logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+    "start_iso": "2026-10-31T15:00:00.000Z",
+    "end_iso": "2026-10-31T17:15:00.000Z",
+    "date": "Saturday, 31 October 2026",
+    "time": "17:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/sunderland-vs-coventry-city",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/sunderland-vs-coventry-city/3300",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/sunderland-vs-coventry-city/3301",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Leeds United AFC Bournemouth",
+    "category": "Leeds United",
+    "logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
+    "start_iso": "2026-10-31T15:00:00.000Z",
+    "end_iso": "2026-10-31T17:15:00.000Z",
+    "date": "Saturday, 31 October 2026",
+    "time": "17:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/leeds-united-vs-bournemouth",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/leeds-united-vs-bournemouth/3302",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Brentford Nottingham Forest",
+    "category": "Brentford",
+    "logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
+    "start_iso": "2026-10-31T15:00:00.000Z",
+    "end_iso": "2026-10-31T17:15:00.000Z",
+    "date": "Saturday, 31 October 2026",
+    "time": "17:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/brentford-vs-nottm-forest",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/brentford-vs-nottm-forest/3291",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -333,6 +464,29 @@
     "servers": []
   },
   {
+    "title": "AS Roma Udinese",
+    "category": "AS Roma",
+    "logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+    "start_iso": "2026-10-31T17:00:00.000Z",
+    "end_iso": "2026-10-31T19:15:00.000Z",
+    "date": "Saturday, 31 October 2026",
+    "time": "19:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/roma-vs-udinese",
+    "servers": [
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/roma-vs-udinese/3297",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
+  },
+  {
     "title": "The Sharks Munster",
     "category": "The Sharks",
     "logo": "https://cdn.img4every1.org/team/the-sharks/logo.webp",
@@ -368,15 +522,15 @@
     ]
   },
   {
-    "title": "Real Betis Málaga",
-    "category": "Real Betis",
-    "logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+    "title": "Tottenham Hotspur Crystal Palace",
+    "category": "Tottenham Hotspur",
+    "logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
     "start_iso": "2026-10-31T17:30:00.000Z",
     "end_iso": "2026-10-31T19:45:00.000Z",
     "date": "Saturday, 31 October 2026",
     "time": "19:30",
     "status": "next",
-    "event_url": "https://pogo.pk/events/real-betis-vs-malaga",
+    "event_url": "https://pogo.pk/events/tottenham-hotspur-vs-crystal-palace",
     "servers": []
   },
   {
@@ -393,6 +547,84 @@
       {
         "label": "English",
         "url": "https://playerdee.top/alpha/northampton-vs-gloucester/3270",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Real Betis Málaga",
+    "category": "Real Betis",
+    "logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+    "start_iso": "2026-10-31T17:30:00.000Z",
+    "end_iso": "2026-10-31T19:45:00.000Z",
+    "date": "Saturday, 31 October 2026",
+    "time": "19:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/real-betis-vs-malaga",
+    "servers": []
+  },
+  {
+    "title": "Bayern München Borussia Dortmund",
+    "category": "Bayern München",
+    "logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+    "start_iso": "2026-10-31T17:30:00.000Z",
+    "end_iso": "2026-10-31T19:45:00.000Z",
+    "date": "Saturday, 31 October 2026",
+    "time": "19:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/bayern-munchen-vs-borussia-dortmund",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bayern-munchen-vs-borussia-dortmund/3292",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bayern-munchen-vs-borussia-dortmund/3293",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "AC Milan Inter Milan",
+    "category": "AC Milan",
+    "logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+    "start_iso": "2026-10-31T19:45:00.000Z",
+    "end_iso": "2026-10-31T22:00:00.000Z",
+    "date": "Saturday, 31 October 2026",
+    "time": "21:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/ac-milan-vs-inter-milan-live",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/ac-milan-vs-inter-milan-live/3298",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "SD",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/ac-milan-vs-inter-milan-live/3299",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -426,6 +658,18 @@
     ]
   },
   {
+    "title": "Aston Villa Fulham",
+    "category": "Aston Villa",
+    "logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+    "start_iso": "2026-10-31T20:00:00.000Z",
+    "end_iso": "2026-10-31T22:15:00.000Z",
+    "date": "Saturday, 31 October 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/aston-villa-vs-fulham",
+    "servers": []
+  },
+  {
     "title": "FC Barcelona Deportivo Alavés",
     "category": "FC Barcelona",
     "logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
@@ -436,5 +680,28 @@
     "status": "next",
     "event_url": "https://pogo.pk/events/barcelona-vs-alaves",
     "servers": []
+  },
+  {
+    "title": "Renato Moicano Tom Nolan",
+    "category": "Renato Moicano",
+    "logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+    "start_iso": "2026-10-31T22:00:00.000Z",
+    "end_iso": "2026-11-01T03:30:00.000Z",
+    "date": "Sunday, 01 November 2026",
+    "time": "00:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/renato-moicano-vs-tom-nolan",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/renato-moicano-vs-tom-nolan/3288",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   }
 ]

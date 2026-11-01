@@ -33,29 +33,6 @@
     ]
   },
   {
-    "title": "MotoGP Malaysian Grand Prix MotoGP",
-    "category": "MotoGP Malaysian Grand Prix",
-    "logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-    "start_iso": "2026-10-30T01:00:00.000Z",
-    "end_iso": "2026-11-01T10:30:00.000Z",
-    "date": "Friday, 30 October 2026",
-    "time": "03:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/motogp-malaysian-grand-prix",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/motogp-malaysian-grand-prix/3254",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "F1 Mexican Grand Prix Formula 1",
     "category": "F1 Mexican Grand Prix",
     "logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
@@ -99,41 +76,6 @@
     ]
   },
   {
-    "title": "Como Venezia",
-    "category": "Como",
-    "logo": "https://cdn.img4every1.org/team/como/logo.webp",
-    "start_iso": "2026-11-01T11:30:00.000Z",
-    "end_iso": "2026-11-01T13:45:00.000Z",
-    "date": "Sunday, 01 November 2026",
-    "time": "13:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/como-vs-venezia",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/como-vs-venezia/3320",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "SD",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Getafe Sevilla",
-    "category": "Getafe",
-    "logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-    "start_iso": "2026-11-01T13:00:00.000Z",
-    "end_iso": "2026-11-01T15:15:00.000Z",
-    "date": "Sunday, 01 November 2026",
-    "time": "15:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/getafe-vs-sevilla",
-    "servers": []
-  },
-  {
     "title": "Sheffield Wednesday Blackpool",
     "category": "Sheffield Wednesday",
     "logo": "https://cdn.img4every1.org/team/sheffield-wednesday/logo.webp",
@@ -141,7 +83,7 @@
     "end_iso": "2026-11-01T16:15:00.000Z",
     "date": "Sunday, 01 November 2026",
     "time": "16:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/sheffield-wednesday-vs-blackpool",
     "servers": [
       {
@@ -164,9 +106,70 @@
     "end_iso": "2026-11-01T17:30:00.000Z",
     "date": "Sunday, 01 November 2026",
     "time": "17:15",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/real-madrid-vs-racing-santander",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-racing-santander/3329",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-racing-santander/3330",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-racing-santander/3331",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-racing-santander/3332",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-racing-santander/3333",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-racing-santander/3334",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      }
+    ]
   },
   {
     "title": "Arsenal Liverpool",
@@ -178,7 +181,58 @@
     "time": "18:30",
     "status": "next",
     "event_url": "https://pogo.pk/events/arsenal-vs-liverpool",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/arsenal-vs-liverpool/3337",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/arsenal-vs-liverpool/3338",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/arsenal-vs-liverpool/3339",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/arsenal-vs-liverpool/3340",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/arsenal-vs-liverpool/3341",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "Lecce Genoa",
@@ -190,7 +244,18 @@
     "time": "19:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/lecce-vs-genoa",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/lecce-vs-genoa/3336",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Valencia Elche CF",
@@ -202,7 +267,38 @@
     "time": "19:30",
     "status": "next",
     "event_url": "https://pogo.pk/events/valencia-vs-elche",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/valencia-vs-elche/3342",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/valencia-vs-elche/3343",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/valencia-vs-elche/3344",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Napoli Juventus",
@@ -237,6 +333,37 @@
     "time": "22:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/real-sociedad-vs-athletic-club",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-sociedad-vs-athletic-club/3345",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-sociedad-vs-athletic-club/3346",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-sociedad-vs-athletic-club/3347",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   }
 ]

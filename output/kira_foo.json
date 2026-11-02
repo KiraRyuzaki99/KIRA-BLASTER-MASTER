@@ -1,38 +1,5 @@
 [
   {
-    "title": "PGA / LPGA Golf PGA Tour",
-    "category": "PGA / LPGA Golf",
-    "logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-    "start_iso": "2026-10-29T02:00:00.000Z",
-    "end_iso": "2026-11-02T02:30:00.000Z",
-    "date": "Thursday, 29 October 2026",
-    "time": "04:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/pga-lpga-golf",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/pga-lpga-golf/3027",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/pga-lpga-golf/3029",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Snooker International Championship Snooker",
     "category": "Snooker International Championship",
     "logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
@@ -40,7 +7,7 @@
     "end_iso": "2026-11-07T15:30:00.000Z",
     "date": "Monday, 02 November 2026",
     "time": "08:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/snooker-international-championship",
     "servers": [
       {

@@ -40,9 +40,40 @@
     "end_iso": "2026-11-03T20:00:00.000Z",
     "date": "Tuesday, 03 November 2026",
     "time": "19:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/sporting-cp-vs-shakhtar-donetsk",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/sporting-cp-vs-shakhtar-donetsk/3375",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/sporting-cp-vs-shakhtar-donetsk/3376",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/sporting-cp-vs-shakhtar-donetsk/3377",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "Stuttgart Galatasaray",
@@ -52,9 +83,40 @@
     "end_iso": "2026-11-03T20:00:00.000Z",
     "date": "Tuesday, 03 November 2026",
     "time": "19:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/stuttgart-vs-galatasaray",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/stuttgart-vs-galatasaray/3378",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/stuttgart-vs-galatasaray/3379",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Deutsch",
+        "url": "https://playerdee.top/alpha/stuttgart-vs-galatasaray/3380",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
+        }
+      }
+    ]
   },
   {
     "title": "FC Barcelona Aston Villa",
@@ -66,7 +128,58 @@
     "time": "22:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/barcelona-vs-aston-villa",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/barcelona-vs-aston-villa/3385",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/barcelona-vs-aston-villa/3386",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/barcelona-vs-aston-villa/3387",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/barcelona-vs-aston-villa/3388",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      },
+      {
+        "label": "Deutsch",
+        "url": "https://playerdee.top/alpha/barcelona-vs-aston-villa/3389",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
+        }
+      }
+    ]
   },
   {
     "title": "AS Roma Manchester United",
@@ -78,7 +191,38 @@
     "time": "22:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/roma-vs-manchester-united",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/roma-vs-manchester-united/3390",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/roma-vs-manchester-united/3391",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/roma-vs-manchester-united/3392",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "PSG Villarreal",
@@ -90,7 +234,48 @@
     "time": "22:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/psg-vs-villarreal",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/psg-vs-villarreal/3393",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/psg-vs-villarreal/3394",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Français",
+        "url": "https://playerdee.top/alpha/psg-vs-villarreal/3395",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Français"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/psg-vs-villarreal/3396",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "Bayern München Atlético Madrid",
@@ -102,7 +287,84 @@
     "time": "22:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/bayern-munchen-vs-atletico-madrid",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bayern-munchen-vs-atletico-madrid/3397",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bayern-munchen-vs-atletico-madrid/3398",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/bayern-munchen-vs-atletico-madrid/3399",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
+  },
+  {
+    "title": "LASK Slovan Bratislava",
+    "category": "LASK",
+    "logo": "https://cdn.img4every1.org/team/lask/logo.webp",
+    "start_iso": "2026-11-03T20:00:00.000Z",
+    "end_iso": "2026-11-03T22:15:00.000Z",
+    "date": "Tuesday, 03 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/lask-vs-slovan-bratislava",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/lask-vs-slovan-bratislava/3400",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Lille FK Bodo Glimt",
+    "category": "Lille",
+    "logo": "https://cdn.img4every1.org/team/lille/logo.webp",
+    "start_iso": "2026-11-03T20:00:00.000Z",
+    "end_iso": "2026-11-03T22:15:00.000Z",
+    "date": "Tuesday, 03 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/lille-vs-bodo-glimt",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/lille-vs-bodo-glimt/3402",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Southampton West Bromwich Albion",

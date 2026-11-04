@@ -1,23 +1,71 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Oggi 00:00 - CNN [HD | CNN]
-https://august.ppvtv.icu/embed.html?match=c1f3zeh7&server=0
+#EXTINF:-1 group-title="Basketball – NBL",Oggi 09:00 - Brisbane Bullets vs. Perth Wildcats [HD | ESPN]
+https://august.ppvtv.icu/embed.html?match=fewo6fg&server=0
 
-#EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Oggi 00:00 - CNN [SD | CNN]
-https://august.ppvtv.icu/embed.html?match=c1f3zeh7&server=1
+#EXTINF:-1 group-title="Basketball – NBL",Oggi 09:00 - Brisbane Bullets vs. Perth Wildcats [SD | ESPN]
+https://august.ppvtv.icu/embed.html?match=fewo6fg&server=1
 
-#EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Oggi 00:00 - Fox News [HD | Fox News]
-https://august.ppvtv.icu/embed.html?match=cljhyd2&server=0
+#EXTINF:-1 group-title="Football – Europa League",Oggi 15:30 - Stade Rennais vs. Olympiacos [HD | Europa League]
+https://august.ppvtv.icu/embed.html?match=f1nff7n9&server=0
 
-#EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Oggi 00:00 - Fox News [SD | Fox News]
-https://august.ppvtv.icu/embed.html?match=cljhyd2&server=1
+#EXTINF:-1 group-title="Football – Europa League",Oggi 15:30 - Stade Rennais vs. Olympiacos [SD | Europa League]
+https://august.ppvtv.icu/embed.html?match=f1nff7n9&server=1
 
-#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - The Golazo Show [HD | Paramount+]
-https://august.ppvtv.icu/embed.html?match=c17bw2g0&server=0
+#EXTINF:-1 group-title="Football – Champions League",Oggi 17:45 - AEK Athens vs. Real Madrid [HD | Champions League]
+https://august.ppvtv.icu/embed.html?match=f1y9v2mx&server=0
 
-#EXTINF:-1 group-title="Football – Champions League",Oggi 19:00 - The Golazo Show [SD | Paramount+]
-https://august.ppvtv.icu/embed.html?match=c17bw2g0&server=1
+#EXTINF:-1 group-title="Football – Champions League",Oggi 17:45 - AEK Athens vs. Real Madrid [SD | Champions League]
+https://august.ppvtv.icu/embed.html?match=f1y9v2mx&server=1
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 17:45 - Fenerbahce vs. Liverpool [HD | Champions League]
+https://august.ppvtv.icu/embed.html?match=fkz6hsr&server=0
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 17:45 - Fenerbahce vs. Liverpool [SD | Champions League]
+https://august.ppvtv.icu/embed.html?match=fkz6hsr&server=1
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 20:00 - Borussia Dortmund vs. Real Betis [HD | Champions League]
+https://august.ppvtv.icu/embed.html?match=f1q3187q&server=0
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 20:00 - Borussia Dortmund vs. Real Betis [SD | Champions League]
+https://august.ppvtv.icu/embed.html?match=f1q3187q&server=1
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 20:00 - FC Porto vs. Napoli [HD | Champions League]
+https://august.ppvtv.icu/embed.html?match=fv9yhna&server=0
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 20:00 - FC Porto vs. Napoli [SD | Champions League]
+https://august.ppvtv.icu/embed.html?match=fv9yhna&server=1
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 20:00 - Lens vs. Como [HD | Champions League]
+https://august.ppvtv.icu/embed.html?match=fgl5jjm&server=0
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 20:00 - Lens vs. Como [SD | Champions League]
+https://august.ppvtv.icu/embed.html?match=fgl5jjm&server=1
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 20:00 - PSV Eindhoven vs. Club Brugge [HD | Champions League]
+https://august.ppvtv.icu/embed.html?match=f1y75ffh&server=0
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 20:00 - PSV Eindhoven vs. Club Brugge [SD | Champions League]
+https://august.ppvtv.icu/embed.html?match=f1y75ffh&server=1
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 20:00 - RB Leipzig vs. Manchester City [HD | Champions League]
+https://august.ppvtv.icu/embed.html?match=f1gsuzut&server=0
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 20:00 - RB Leipzig vs. Manchester City [SD | Champions League]
+https://august.ppvtv.icu/embed.html?match=f1gsuzut&server=1
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 20:00 - Slavia Prague vs. Arsenal [HD | Champions League]
+https://august.ppvtv.icu/embed.html?match=fjxjlug&server=0
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 20:00 - Slavia Prague vs. Arsenal [SD | Champions League]
+https://august.ppvtv.icu/embed.html?match=fjxjlug&server=1
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 20:00 - Viking FK vs. Sabah FK [HD | Champions League]
+https://august.ppvtv.icu/embed.html?match=fho8hsp&server=0
+
+#EXTINF:-1 group-title="Football – Champions League",Oggi 20:00 - Viking FK vs. Sabah FK [SD | Champions League]
+https://august.ppvtv.icu/embed.html?match=fho8hsp&server=1
 
 #EXTINF:-1 group-title="American Football – 24/7 channel",Oggi N/A - NFL Network [HD | NFL Network (ESPN)]
 https://august.ppvtv.icu/embed.html?match=c15q87wa&server=0
@@ -139,54 +187,6 @@ https://august.ppvtv.icu/embed.html?match=fi9r4we&server=0
 #EXTINF:-1 group-title="Football – Liga MX",Domani 00:00 - Querétaro vs. Puebla [SD | Liga MX]
 https://august.ppvtv.icu/embed.html?match=fi9r4we&server=1
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Utah Mammoth vs. Toronto Maple Leafs [HD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=f1advhdf&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Utah Mammoth vs. Toronto Maple Leafs [SD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=f1advhdf&server=1
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Winnipeg Jets vs. Montreal Canadiens [HD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=f1egc5qe&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Winnipeg Jets vs. Montreal Canadiens [SD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=f1egc5qe&server=1
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Detroit Red Wings vs. Tampa Bay Lightning [HD | The Spot - MTN]
-https://august.ppvtv.icu/embed.html?match=fvg5rnu&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Detroit Red Wings vs. Tampa Bay Lightning [SD | The Spot - MTN]
-https://august.ppvtv.icu/embed.html?match=fvg5rnu&server=1
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - St. Louis Blues vs. New York Rangers [HD | MSG]
-https://august.ppvtv.icu/embed.html?match=fbforai&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - St. Louis Blues vs. New York Rangers [SD | MSG]
-https://august.ppvtv.icu/embed.html?match=fbforai&server=1
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Minnesota Wild vs. Philadelphia Flyers [HD | NBC Sports Phil]
-https://august.ppvtv.icu/embed.html?match=fszjsq9&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Minnesota Wild vs. Philadelphia Flyers [SD | NBC Sports Phil]
-https://august.ppvtv.icu/embed.html?match=fszjsq9&server=1
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Vegas Golden Knights vs. Pittsburgh Penguins [HD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=f18i9ysh&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Vegas Golden Knights vs. Pittsburgh Penguins [SD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=f18i9ysh&server=1
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Dallas Stars vs. Washington Capitals [HD | MNMT]
-https://august.ppvtv.icu/embed.html?match=f1t2c5u2&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Dallas Stars vs. Washington Capitals [SD | MNMT]
-https://august.ppvtv.icu/embed.html?match=f1t2c5u2&server=1
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Colorado Avalanche vs. Columbus Blue Jackets [HD | CBJNHL]
-https://august.ppvtv.icu/embed.html?match=f18l7dmo&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Colorado Avalanche vs. Columbus Blue Jackets [SD | CBJNHL]
-https://august.ppvtv.icu/embed.html?match=f18l7dmo&server=1
-
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 00:00 - 24/7 SpongeBob Squarepants [HD | 24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c10yqzo0&server=0
 
@@ -201,6 +201,18 @@ https://august.ppvtv.icu/embed.html?match=csj7eu6&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 00:00 - Sky Sports Racing [SD | NOW TV]
 https://august.ppvtv.icu/embed.html?match=csj7eu6&server=1
+
+#EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 00:00 - CNN [HD | CNN]
+https://august.ppvtv.icu/embed.html?match=c1f3zeh7&server=0
+
+#EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 00:00 - CNN [SD | CNN]
+https://august.ppvtv.icu/embed.html?match=c1f3zeh7&server=1
+
+#EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 00:00 - Fox News [HD | Fox News]
+https://august.ppvtv.icu/embed.html?match=cljhyd2&server=0
+
+#EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 00:00 - Fox News [SD | Fox News]
+https://august.ppvtv.icu/embed.html?match=cljhyd2&server=1
 
 #EXTINF:-1 group-title="American Football – College Football",Domani 00:30 - Miami Hurricanes at Notre Dame Fighting Irish [HD | NBC]
 https://august.ppvtv.icu/embed.html?match=c1ywuhbe&server=0
@@ -249,12 +261,6 @@ https://august.ppvtv.icu/embed.html?match=fc5sn92&server=0
 
 #EXTINF:-1 group-title="Basketball – NBA",Domani 00:30 - Chicago Bulls vs. New York Knicks [SD | NBA League Pass (Home)]
 https://august.ppvtv.icu/embed.html?match=fc5sn92&server=1
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:30 - Edmonton Oilers vs. New Jersey Devils [HD | Disney+]
-https://august.ppvtv.icu/embed.html?match=fayzf4a&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:30 - Edmonton Oilers vs. New Jersey Devils [SD | Disney+]
-https://august.ppvtv.icu/embed.html?match=fayzf4a&server=1
 
 #EXTINF:-1 group-title="American Football – College Football",Domani 00:45 - Oklahoma Sooners at Florida Gators [HD | SEC Network]
 https://august.ppvtv.icu/embed.html?match=cnex9gb&server=0
@@ -315,18 +321,6 @@ https://august.ppvtv.icu/embed.html?match=f1kslw2g&server=0
 
 #EXTINF:-1 group-title="Football – Liga MX",Domani 01:00 - Toluca vs. Monterrey [SD | Liga MX]
 https://august.ppvtv.icu/embed.html?match=f1kslw2g&server=1
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 01:00 - Carolina Hurricanes vs. Nashville Predators [HD | Scripps Sports]
-https://august.ppvtv.icu/embed.html?match=fbvabws&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 01:00 - Carolina Hurricanes vs. Nashville Predators [SD | Scripps Sports]
-https://august.ppvtv.icu/embed.html?match=fbvabws&server=1
-
-#EXTINF:-1 group-title="Wrestling – Wrestling",Domani 01:00 - WWE NXT [HD | CW on ESPN]
-https://august.ppvtv.icu/embed.html?match=c12z1szz&server=0
-
-#EXTINF:-1 group-title="Wrestling – Wrestling",Domani 01:00 - WWE NXT [SD | CW on ESPN]
-https://august.ppvtv.icu/embed.html?match=c12z1szz&server=1
 
 #EXTINF:-1 group-title="Wrestling – Wrestling",Domani 01:00 - AEW Wednesday Night Dynamite [HD | TBS]
 https://august.ppvtv.icu/embed.html?match=c9mnosy&server=0
@@ -406,12 +400,6 @@ https://august.ppvtv.icu/embed.html?match=f1bnftf8&server=0
 #EXTINF:-1 group-title="Football – Liga MX",Domani 02:00 - León vs. Guadalajara [SD | Liga MX]
 https://august.ppvtv.icu/embed.html?match=f1bnftf8&server=1
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 02:00 - Anaheim Ducks vs. Vancouver Canucks [HD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=fvr28pf&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 02:00 - Anaheim Ducks vs. Vancouver Canucks [SD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=fvr28pf&server=1
-
 #EXTINF:-1 group-title="Wrestling – Wrestling",Domani 02:00 - TNA Impact [HD | AMC]
 https://august.ppvtv.icu/embed.html?match=c1se54xr&server=0
 
@@ -489,12 +477,6 @@ https://august.ppvtv.icu/embed.html?match=c418ukt&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 08:00 - 24/7 Family Guy [SD | 24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c418ukt&server=1
-
-#EXTINF:-1 group-title="Basketball – NBL",Domani 09:00 - Brisbane Bullets vs. Perth Wildcats [HD | ESPN]
-https://august.ppvtv.icu/embed.html?match=fewo6fg&server=0
-
-#EXTINF:-1 group-title="Basketball – NBL",Domani 09:00 - Brisbane Bullets vs. Perth Wildcats [SD | ESPN]
-https://august.ppvtv.icu/embed.html?match=fewo6fg&server=1
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 10:28 - 24/7 The Simpsons [HD | 24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1j7a3d7&server=0
@@ -664,12 +646,6 @@ https://august.ppvtv.icu/embed.html?match=f1s0dp3r&server=0
 #EXTINF:-1 group-title="Football – LaLiga",Domani 15:15 - Real Sociedad vs. Rayo Vallecano [SD | ESPN+]
 https://august.ppvtv.icu/embed.html?match=f1s0dp3r&server=1
 
-#EXTINF:-1 group-title="Football – Europa League",Domani 15:30 - Stade Rennais vs. Olympiacos [HD | Europa League]
-https://august.ppvtv.icu/embed.html?match=f1nff7n9&server=0
-
-#EXTINF:-1 group-title="Football – Europa League",Domani 15:30 - Stade Rennais vs. Olympiacos [SD | Europa League]
-https://august.ppvtv.icu/embed.html?match=f1nff7n9&server=1
-
 #EXTINF:-1 group-title="Football – Eredivisie",Domani 15:30 - Fortuna Sittard vs. Telstar [HD | ESPN]
 https://august.ppvtv.icu/embed.html?match=fd6f2ll&server=0
 
@@ -831,18 +807,6 @@ https://august.ppvtv.icu/embed.html?match=f1apskmh&server=0
 
 #EXTINF:-1 group-title="Football – LaLiga",Domani 17:30 - Villarreal vs. Getafe [SD | ESPN+]
 https://august.ppvtv.icu/embed.html?match=f1apskmh&server=1
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 17:45 - AEK Athens vs. Real Madrid [HD | Champions League]
-https://august.ppvtv.icu/embed.html?match=f1y9v2mx&server=0
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 17:45 - AEK Athens vs. Real Madrid [SD | Champions League]
-https://august.ppvtv.icu/embed.html?match=f1y9v2mx&server=1
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 17:45 - Fenerbahce vs. Liverpool [HD | Champions League]
-https://august.ppvtv.icu/embed.html?match=fkz6hsr&server=0
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 17:45 - Fenerbahce vs. Liverpool [SD | Champions League]
-https://august.ppvtv.icu/embed.html?match=fkz6hsr&server=1
 
 #EXTINF:-1 group-title="Football – Europa League",Domani 17:45 - AC Milan vs. Ferencvaros [HD | Europa League]
 https://august.ppvtv.icu/embed.html?match=f2nde2x&server=0
@@ -1077,48 +1041,6 @@ https://august.ppvtv.icu/embed.html?match=c1t5wnva&server=0
 
 #EXTINF:-1 group-title="American Football – Canadian Football",Domani 20:00 - Winnipeg Blue Bombers at Montreal Alouettes [SD | TSN5]
 https://august.ppvtv.icu/embed.html?match=c1t5wnva&server=1
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 20:00 - Borussia Dortmund vs. Real Betis [HD | Champions League]
-https://august.ppvtv.icu/embed.html?match=f1q3187q&server=0
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 20:00 - Borussia Dortmund vs. Real Betis [SD | Champions League]
-https://august.ppvtv.icu/embed.html?match=f1q3187q&server=1
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 20:00 - FC Porto vs. Napoli [HD | Champions League]
-https://august.ppvtv.icu/embed.html?match=fv9yhna&server=0
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 20:00 - FC Porto vs. Napoli [SD | Champions League]
-https://august.ppvtv.icu/embed.html?match=fv9yhna&server=1
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 20:00 - Lens vs. Como [HD | Champions League]
-https://august.ppvtv.icu/embed.html?match=fgl5jjm&server=0
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 20:00 - Lens vs. Como [SD | Champions League]
-https://august.ppvtv.icu/embed.html?match=fgl5jjm&server=1
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 20:00 - PSV Eindhoven vs. Club Brugge [HD | Champions League]
-https://august.ppvtv.icu/embed.html?match=f1y75ffh&server=0
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 20:00 - PSV Eindhoven vs. Club Brugge [SD | Champions League]
-https://august.ppvtv.icu/embed.html?match=f1y75ffh&server=1
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 20:00 - RB Leipzig vs. Manchester City [HD | Champions League]
-https://august.ppvtv.icu/embed.html?match=f1gsuzut&server=0
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 20:00 - RB Leipzig vs. Manchester City [SD | Champions League]
-https://august.ppvtv.icu/embed.html?match=f1gsuzut&server=1
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 20:00 - Slavia Prague vs. Arsenal [HD | Champions League]
-https://august.ppvtv.icu/embed.html?match=fjxjlug&server=0
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 20:00 - Slavia Prague vs. Arsenal [SD | Champions League]
-https://august.ppvtv.icu/embed.html?match=fjxjlug&server=1
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 20:00 - Viking FK vs. Sabah FK [HD | Champions League]
-https://august.ppvtv.icu/embed.html?match=fho8hsp&server=0
-
-#EXTINF:-1 group-title="Football – Champions League",Domani 20:00 - Viking FK vs. Sabah FK [SD | Champions League]
-https://august.ppvtv.icu/embed.html?match=fho8hsp&server=1
 
 #EXTINF:-1 group-title="Football – Europa League",Domani 20:00 - AZ Alkmaar vs. Juventus [HD | Europa League]
 https://august.ppvtv.icu/embed.html?match=fe93wxi&server=0

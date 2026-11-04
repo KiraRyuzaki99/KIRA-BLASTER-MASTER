@@ -1,38 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Cricket",10:10 - hobart hurricanes w vs melbourne renegades w
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F65.m3u8&name=Sky%20Sports%20Cricket%20UK
+#EXTINF:-1 group-title="Basketball",21:45 - Real Madrid vs Panathinaikos
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F28.m3u8&name=Magenta%20Sport%20304
 
-#EXTINF:-1 group-title="Cricket",10:10 - hobart hurricanes w vs melbourne renegades w
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F589.m3u8&name=Sky%20Sport%202%20NZ
+#EXTINF:-1 group-title="Basketball",21:45 - Real Madrid vs Panathinaikos
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F1230.m3u8&name=Event%20SD%20Stream
 
-#EXTINF:-1 group-title="Cricket",18:00 - dolphins vs cobras
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F368.m3u8&name=SuperSport%20Cricket
+#EXTINF:-1 group-title="Basketball",21:45 - Real Madrid vs Panathinaikos
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F181.m3u8&name=M%2B%20Baloncesto%20Spain
 
-#EXTINF:-1 group-title="Football",17:30 - Stade Rennais vs Olympiacos
-https://damitv.st/embed/?id=mm-own-868487808f
+#EXTINF:-1 group-title="Basketball",21:45 - Real Madrid vs Panathinaikos
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F116.m3u8&name=beIN%20Sports%201%20France
 
-#EXTINF:-1 group-title="Football",19:45 - AEK Athens vs Real Madrid
-https://damitv.st/embed/?id=mm-own-0845700591
-
-#EXTINF:-1 group-title="Football",19:45 - AEK Athens vs Real Madrid
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F33.m3u8&name=TNT%20Sports%203%20UK
-
-#EXTINF:-1 group-title="Football",19:45 - AEK Athens vs Real Madrid
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F6.m3u8&name=Sky%20Sport%20Austria%204
-
-#EXTINF:-1 group-title="Football",19:45 - AEK Athens vs Real Madrid
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F435.m3u8&name=Movistar%20Liga%20de%20Campeones
-
-#EXTINF:-1 group-title="Football",19:45 - AEK Athens vs Real Madrid
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F427.m3u8&name=DAZN2%20DE
-
-#EXTINF:-1 group-title="Football",19:45 - Fenerbahce vs Liverpool
-https://damitv.st/embed/?id=mm-own-0866ddf31c
-
-#EXTINF:-1 group-title="Football",21:30 - KV Kortrijk vs KV Mechelen
-https://sportora.ru/watch/mm-own-5b7a015a93
+#EXTINF:-1 group-title="Basketball",21:45 - Real Madrid vs Panathinaikos
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F139.m3u8&name=Arena%203%20Premium%20Serbia
 
 #EXTINF:-1 group-title="Football",21:45 - Cardiff City vs West Ham United
 https://damitv.st/embed/?id=mm-own-b749bfff87
@@ -41,7 +23,7 @@ https://damitv.st/embed/?id=mm-own-b749bfff87
 https://damitv.st/embed/?id=mm-own-a4a60e583f
 
 #EXTINF:-1 group-title="Football",21:45 - Oxford United vs Reading
-https://sportora.ru/watch/mm-own-d80c7b4d31
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F174.m3u8&name=Sky%20Sports%2B
 
 #EXTINF:-1 group-title="Football",22:00 - Borussia Dortmund vs Real Betis
 https://damitv.st/embed/?id=mm-own-2dc3c39dad
@@ -62,6 +44,9 @@ https://damitv.st/player/hls/?v=542&url=%2Fc%2F426.m3u8&name=DAZN1%20DE
 https://damitv.st/embed/?id=mm-own-ad325f0fcb
 
 #EXTINF:-1 group-title="Football",22:00 - FC Porto vs Napoli
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F177.m3u8&name=Prime%20Video%20IT
+
+#EXTINF:-1 group-title="Football",22:00 - FC Porto vs Napoli
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F290.m3u8&name=Sport%20TV5%20Portugal
 
 #EXTINF:-1 group-title="Football",22:00 - FC Porto vs Napoli
@@ -70,9 +55,6 @@ https://damitv.st/player/hls/?v=542&url=%2Fc%2F308.m3u8&name=CBS%20Sports%20Netw
 #EXTINF:-1 group-title="Football",22:00 - FC Porto vs Napoli
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F3.m3u8&name=Sky%20Sport%20Austria%203
 
-#EXTINF:-1 group-title="Football",22:00 - FC Porto vs Napoli
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F2.m3u8&name=Movistar%20Liga%20de%20Campeones%203
-
 #EXTINF:-1 group-title="Football",22:00 - Lens vs Como
 https://damitv.st/embed/?id=mm-own-590dce01de
 
@@ -80,28 +62,28 @@ https://damitv.st/embed/?id=mm-own-590dce01de
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F12.m3u8&name=Sky%20Sport%20Austria%205
 
 #EXTINF:-1 group-title="Football",22:00 - Lens vs Como
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F121.m3u8&name=Canal%2B%20France
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F106.m3u8&name=Movistar%20Liga%20de%20Campeones%207
 
 #EXTINF:-1 group-title="Football",22:00 - Lens vs Como
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F99.m3u8&name=Arabic
 
 #EXTINF:-1 group-title="Football",22:00 - Lens vs Como
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F55.m3u8&name=Canal%2B%20Live%201%20France
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F121.m3u8&name=Canal%2B%20France
 
 #EXTINF:-1 group-title="Football",22:00 - PSV Eindhoven vs Club Brugge
 https://damitv.st/embed/?id=mm-own-53dce371e1
 
 #EXTINF:-1 group-title="Football",22:00 - PSV Eindhoven vs Club Brugge
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F14.m3u8&name=Club%20RTL%20Belgium
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F1206.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",22:00 - PSV Eindhoven vs Club Brugge
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F393.m3u8&name=Ziggo%20Sport%201%20NL
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F14.m3u8&name=Club%20RTL%20Belgium
 
 #EXTINF:-1 group-title="Football",22:00 - PSV Eindhoven vs Club Brugge
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F98.m3u8&name=Arabic
 
 #EXTINF:-1 group-title="Football",22:00 - PSV Eindhoven vs Club Brugge
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F15.m3u8&name=Sky%20Sport%20Austria%206
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F393.m3u8&name=Ziggo%20Sport%201%20NL
 
 #EXTINF:-1 group-title="Football",22:00 - RB Leipzig vs Manchester City
 https://damitv.st/embed/?id=mm-own-82ef1db99f
@@ -128,25 +110,25 @@ https://damitv.st/player/hls/?v=542&url=%2Fc%2F31.m3u8&name=TNT%20Sports%201%20U
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F6.m3u8&name=Sky%20Sport%20Austria%204
 
 #EXTINF:-1 group-title="Football",22:00 - Slavia Prague vs Arsenal
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F456.m3u8&name=DAZN%20Eleven%202%20Portugal
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F109.m3u8&name=Movistar%20Liga%20de%20Campeones%208
 
 #EXTINF:-1 group-title="Football",22:00 - Slavia Prague vs Arsenal
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F984.m3u8&name=Canal%2B%20Extra%202%20Poland
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F456.m3u8&name=DAZN%20Eleven%202%20Portugal
 
 #EXTINF:-1 group-title="Football",22:00 - Viking FK vs Sabah FK
 https://damitv.st/embed/?id=mm-own-e0859f51d8
 
 #EXTINF:-1 group-title="Football",22:00 - Viking FK vs Sabah FK
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F23.m3u8&name=Sky%20Sport%20Austria%207
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F617.m3u8&name=TNT%20Sports%208%20UK
 
 #EXTINF:-1 group-title="Football",22:00 - Viking FK vs Sabah FK
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F24.m3u8&name=Sky%20Sport%20257%20IT
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F23.m3u8&name=Sky%20Sport%20Austria%207
 
 #EXTINF:-1 group-title="Football",22:00 - Viking FK vs Sabah FK
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F100.m3u8&name=Arabic
 
 #EXTINF:-1 group-title="Football",22:00 - Viking FK vs Sabah FK
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F431.m3u8&name=Arena%20Sport%203%20Serbia
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F110.m3u8&name=Movistar%20Liga%20de%20Campeones%209
 
 #EXTINF:-1 group-title="Football",22:00 - Bristol City vs Wolverhampton Wanderers
 https://damitv.st/embed/?id=mm-own-3ec3116fc6
@@ -155,16 +137,19 @@ https://damitv.st/embed/?id=mm-own-3ec3116fc6
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F35.m3u8&name=Sky%20Sports%20Football%20UK
 
 #EXTINF:-1 group-title="Football",22:00 - Bristol City vs Wolverhampton Wanderers
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F1226.m3u8&name=Server%201
+
+#EXTINF:-1 group-title="Football",22:00 - Bristol City vs Wolverhampton Wanderers
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F38.m3u8&name=Sky%20Sports%20Main%20Event%20UK
 
 #EXTINF:-1 group-title="Football",22:00 - Bristol City vs Wolverhampton Wanderers
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F49.m3u8&name=Sport%20TV1%20Portugal
 
-#EXTINF:-1 group-title="Football",22:00 - Bristol City vs Wolverhampton Wanderers
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F495.m3u8&name=beIN%20Sports%20MAX%205%20France
-
 #EXTINF:-1 group-title="Football",00:30 - Athletico-PR vs Vasco da Gama
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F21.m3u8&name=Premiere%205%20BR
+
+#EXTINF:-1 group-title="Football",00:30 - Athletico-PR vs Vasco da Gama
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F77.m3u8&name=Movistar%20Liga%20de%20Campeones%204
 
 #EXTINF:-1 group-title="Football",00:30 - Athletico-PR vs Vasco da Gama
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F521.m3u8&name=%23Vamos%20ES
@@ -175,53 +160,38 @@ https://damitv.st/player/hls/?v=542&url=%2Fc%2F540.m3u8&name=Canal%2011%20Portug
 #EXTINF:-1 group-title="Football",00:30 - Athletico-PR vs Vasco da Gama
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F138.m3u8&name=Match!%20Football%203%20Russia
 
-#EXTINF:-1 group-title="Football",00:30 - Athletico-PR vs Vasco da Gama
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F139.m3u8&name=Arena%203%20Premium%20Serbia
-
 #EXTINF:-1 group-title="Football",00:30 - Flamengo vs Grêmio
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F88.m3u8&name=Premiere%20BR
 
-#EXTINF:-1 group-title="Basketball",21:45 - Real Madrid vs Panathinaikos
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F28.m3u8&name=Magenta%20Sport%20304
+#EXTINF:-1 group-title="Motor-sports",22:15 - The Dirt Track At Charlotte Speedway
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F26.m3u8&name=DIRTVision%20PPV
 
-#EXTINF:-1 group-title="Basketball",21:45 - Real Madrid vs Panathinaikos
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F181.m3u8&name=M%2B%20Baloncesto%20Spain
-
-#EXTINF:-1 group-title="Basketball",21:45 - Real Madrid vs Panathinaikos
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F116.m3u8&name=beIN%20Sports%201%20France
-
-#EXTINF:-1 group-title="Basketball",21:45 - Real Madrid vs Panathinaikos
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F139.m3u8&name=Arena%203%20Premium%20Serbia
-
-#EXTINF:-1 group-title="Basketball",21:45 - Real Madrid vs Panathinaikos
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F638.m3u8&name=Nova%20Sports%20Prime%20Greece
-
-#EXTINF:-1 group-title="24/7-streams",18:34 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",00:14 - NFL Network
 https://damitv.st/embed/?id=247-nfl-network
 
-#EXTINF:-1 group-title="24/7-streams",18:34 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",00:14 - NFL Network
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F667.m3u8&name=NFL%20RedZone
 
-#EXTINF:-1 group-title="24/7-streams",18:34 - Fox Footy
+#EXTINF:-1 group-title="24/7-streams",00:14 - Fox Footy
 https://damitv.st/embed/?id=247-247-fox-footy
 
-#EXTINF:-1 group-title="24/7-streams",18:34 - Willow
+#EXTINF:-1 group-title="24/7-streams",00:14 - Willow
 https://damitv.st/embed/?id=247-247-willow
 
-#EXTINF:-1 group-title="24/7-streams",18:34 - Fox Cricket
+#EXTINF:-1 group-title="24/7-streams",00:14 - Fox Cricket
 https://damitv.st/embed/?id=247-247-fox-cricket
 
-#EXTINF:-1 group-title="24/7-streams",18:34 - NHL Network
+#EXTINF:-1 group-title="24/7-streams",00:14 - NHL Network
 https://damitv.st/embed/?id=247-nhl-network-29780
 
-#EXTINF:-1 group-title="24/7-streams",18:34 - Fox League
+#EXTINF:-1 group-title="24/7-streams",00:14 - Fox League
 https://damitv.st/embed/?id=247-247-fox-league
 
-#EXTINF:-1 group-title="24/7-streams",18:34 - Rally TV
+#EXTINF:-1 group-title="24/7-streams",00:14 - Rally TV
 https://damitv.st/embed/?id=247-rally-tv
 
-#EXTINF:-1 group-title="24/7-streams",18:34 - Tennis Channel
+#EXTINF:-1 group-title="24/7-streams",00:14 - Tennis Channel
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F40.m3u8&name=Tennis%20Channel
 
-#EXTINF:-1 group-title="24/7-streams",18:34 - Sky Sports Golf
+#EXTINF:-1 group-title="24/7-streams",00:14 - Sky Sports Golf
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F70.m3u8&name=Sky%20Sports%20Golf

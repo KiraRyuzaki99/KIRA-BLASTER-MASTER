@@ -40,9 +40,20 @@
     "end_iso": "2026-11-04T17:45:00.000Z",
     "date": "Wednesday, 04 November 2026",
     "time": "17:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/rennes-vs-olympiakos-piraeus",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/rennes-vs-olympiakos-piraeus/3403",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Real Madrid AEK Athens",
@@ -54,7 +65,68 @@
     "time": "19:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/real-madrid-vs-athens",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-athens/3404",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-athens/3405",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-athens/3406",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-athens/3407",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-athens/3408",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      },
+      {
+        "label": "Deutsch",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-athens/3409",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
+        }
+      }
+    ]
   },
   {
     "title": "Liverpool Fenerbahçe",
@@ -66,7 +138,58 @@
     "time": "19:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/liverpool-vs-fenerbahce",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/liverpool-vs-fenerbahce/3410",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/liverpool-vs-fenerbahce/3411",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/liverpool-vs-fenerbahce/3412",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/liverpool-vs-fenerbahce/3413",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      },
+      {
+        "label": "Deutsch",
+        "url": "https://playerdee.top/alpha/liverpool-vs-fenerbahce/3414",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
+        }
+      }
+    ]
   },
   {
     "title": "Manchester City RB Leipzig",
@@ -78,7 +201,38 @@
     "time": "22:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/manchester-city-vs-rb-leipzig",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/manchester-city-vs-rb-leipzig/3419",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Hindi/English",
+        "url": "https://playerdee.top/alpha/manchester-city-vs-rb-leipzig/3420",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Hindi/English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/manchester-city-vs-rb-leipzig/3421",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "Napoli Porto",
@@ -114,6 +268,30 @@
     "time": "22:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/como-vs-lens",
+    "servers": []
+  },
+  {
+    "title": "PSV Club Brugge",
+    "category": "PSV",
+    "logo": "https://cdn.img4every1.org/team/psv/logo.webp",
+    "start_iso": "2026-11-04T20:00:00.000Z",
+    "end_iso": "2026-11-04T22:15:00.000Z",
+    "date": "Wednesday, 04 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/psv-vs-club-brugge",
+    "servers": []
+  },
+  {
+    "title": "Viking Sabah Baku",
+    "category": "Viking",
+    "logo": "https://cdn.img4every1.org/team/viking/logo.webp",
+    "start_iso": "2026-11-04T20:00:00.000Z",
+    "end_iso": "2026-11-04T22:15:00.000Z",
+    "date": "Wednesday, 04 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/viking-vs-sabah",
     "servers": []
   },
   {

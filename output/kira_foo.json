@@ -66,111 +66,19 @@
     ]
   },
   {
-    "title": "AC Milan Ferencváros",
-    "category": "AC Milan",
-    "logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-    "start_iso": "2026-11-05T17:45:00.000Z",
-    "end_iso": "2026-11-05T20:00:00.000Z",
+    "title": "Brighton & Hove Albion Getafe",
+    "category": "Brighton & Hove Albion",
+    "logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+    "start_iso": "2026-11-05T20:00:00.000Z",
+    "end_iso": "2026-11-05T22:15:00.000Z",
     "date": "Thursday, 05 November 2026",
-    "time": "19:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/milan-vs-ferencvaros",
+    "time": "22:00",
+    "status": "live",
+    "event_url": "https://pogo.pk/events/brighton-vs-getafe",
     "servers": [
       {
         "label": "English",
-        "url": "https://playerdee.top/alpha/milan-vs-ferencvaros/3433",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "AFC Bournemouth Sparta Praha",
-    "category": "AFC Bournemouth",
-    "logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-    "start_iso": "2026-11-05T17:45:00.000Z",
-    "end_iso": "2026-11-05T20:00:00.000Z",
-    "date": "Thursday, 05 November 2026",
-    "time": "19:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/bournemouth-vs-sparta-praha",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/bournemouth-vs-sparta-praha/3434",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Crystal Palace Hoffenheim",
-    "category": "Crystal Palace",
-    "logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-    "start_iso": "2026-11-05T17:45:00.000Z",
-    "end_iso": "2026-11-05T20:00:00.000Z",
-    "date": "Thursday, 05 November 2026",
-    "time": "19:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/crystal-palace-vs-hoffenheim",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/crystal-palace-vs-hoffenheim/3442",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Real Sociedad Olympique Lyonnais",
-    "category": "Real Sociedad",
-    "logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-    "start_iso": "2026-11-05T17:45:00.000Z",
-    "end_iso": "2026-11-05T20:00:00.000Z",
-    "date": "Thursday, 05 November 2026",
-    "time": "19:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/real-sociedad-vs-lyon",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/real-sociedad-vs-lyon/3451",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "FC Thun Hearts",
-    "category": "FC Thun",
-    "logo": "https://cdn.img4every1.org/team/fc-thun/logo.webp",
-    "start_iso": "2026-11-05T17:45:00.000Z",
-    "end_iso": "2026-11-05T20:00:00.000Z",
-    "date": "Thursday, 05 November 2026",
-    "time": "19:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/thun-vs-hearts",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/thun-vs-hearts/3435",
+        "url": "https://playerdee.top/alpha/brighton-vs-getafe/3436",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -188,7 +96,7 @@
     "end_iso": "2026-11-05T22:15:00.000Z",
     "date": "Thursday, 05 November 2026",
     "time": "22:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/sunderland-vs-dinamo-zagreb",
     "servers": [
       {
@@ -211,7 +119,7 @@
     "end_iso": "2026-11-05T22:15:00.000Z",
     "date": "Thursday, 05 November 2026",
     "time": "22:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/az-vs-juventus",
     "servers": [
       {
@@ -227,19 +135,52 @@
     ]
   },
   {
-    "title": "Brighton & Hove Albion Getafe",
-    "category": "Brighton & Hove Albion",
-    "logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+    "title": "Bayer Leverkusen Olympique Marseille",
+    "category": "Bayer Leverkusen",
+    "logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
     "start_iso": "2026-11-05T20:00:00.000Z",
     "end_iso": "2026-11-05T22:15:00.000Z",
     "date": "Thursday, 05 November 2026",
     "time": "22:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/brighton-vs-getafe",
+    "status": "live",
+    "event_url": "https://pogo.pk/events/bayer-leverkusen-vs-olympique-marseille",
     "servers": [
       {
         "label": "English",
-        "url": "https://playerdee.top/alpha/brighton-vs-getafe/3436",
+        "url": "https://playerdee.top/alpha/bayer-leverkusen-vs-olympique-marseille/3439",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bayer-leverkusen-vs-olympique-marseille/3452",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Celtic Besiktas",
+    "category": "Celtic",
+    "logo": "https://cdn.img4every1.org/team/celtic/logo.webp",
+    "start_iso": "2026-11-05T20:00:00.000Z",
+    "end_iso": "2026-11-05T22:15:00.000Z",
+    "date": "Thursday, 05 November 2026",
+    "time": "22:00",
+    "status": "live",
+    "event_url": "https://pogo.pk/events/celtic-vs-besiktas",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/celtic-vs-besiktas/3440",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -870,6 +811,76 @@
       {
         "label": "English",
         "url": "https://playerdee.top/alpha/peterborough-utd-vs-reading/3448",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Real Madrid Valencia",
+    "category": "Real Madrid",
+    "logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+    "start_iso": "2026-11-07T20:00:00.000Z",
+    "end_iso": "2026-11-07T22:15:00.000Z",
+    "date": "Saturday, 07 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/real-madrid-vs-valencia",
+    "servers": []
+  },
+  {
+    "title": "France Fiji",
+    "category": "France",
+    "logo": "https://cdn.img4every1.org/team/france/logo.webp",
+    "start_iso": "2026-11-07T20:10:00.000Z",
+    "end_iso": "2026-11-07T22:25:00.000Z",
+    "date": "Saturday, 07 November 2026",
+    "time": "22:10",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/france-vs-fiji",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/france-vs-fiji/3462",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Sporting CP Moreirense",
+    "category": "Sporting CP",
+    "logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
+    "start_iso": "2026-11-07T20:30:00.000Z",
+    "end_iso": "2026-11-07T22:45:00.000Z",
+    "date": "Saturday, 07 November 2026",
+    "time": "22:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/sporting-cp-vs-moreirense",
+    "servers": []
+  },
+  {
+    "title": "Australia Samoa",
+    "category": "Australia",
+    "logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+    "start_iso": "2026-11-08T09:05:00.000Z",
+    "end_iso": "2026-11-08T11:20:00.000Z",
+    "date": "Sunday, 08 November 2026",
+    "time": "11:05",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/australia-vs-samoa",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/australia-vs-samoa/3465",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",

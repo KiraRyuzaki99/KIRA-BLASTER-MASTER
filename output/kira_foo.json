@@ -132,349 +132,6 @@
     ]
   },
   {
-    "title": "Hamburger SV Borussia M'gladbach",
-    "category": "Hamburger SV",
-    "logo": "https://cdn.img4every1.org/team/hamburger-sv/logo.webp",
-    "start_iso": "2026-11-06T19:30:00.000Z",
-    "end_iso": "2026-11-06T21:45:00.000Z",
-    "date": "Friday, 06 November 2026",
-    "time": "21:30",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/hamburger-vs-borussia-mgladbach",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/hamburger-vs-borussia-mgladbach/3475",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Toulouse Strasbourg",
-    "category": "Toulouse",
-    "logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
-    "start_iso": "2026-11-06T19:45:00.000Z",
-    "end_iso": "2026-11-06T22:00:00.000Z",
-    "date": "Friday, 06 November 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/toulouse-vs-strasbourg",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/toulouse-vs-strasbourg/3476",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://playerdee.top/alpha/toulouse-vs-strasbourg/3477",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Oxford City Leicester City",
-    "category": "Oxford City",
-    "logo": "https://cdn.img4every1.org/team/oxford-city/logo.webp",
-    "start_iso": "2026-11-06T19:45:00.000Z",
-    "end_iso": "2026-11-06T22:00:00.000Z",
-    "date": "Friday, 06 November 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/oxford-city-vs-leicester-city",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/oxford-city-vs-leicester-city/3444",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "England Argentina",
-    "category": "England",
-    "logo": "https://cdn.img4every1.org/team/england/logo.webp",
-    "start_iso": "2026-11-06T19:45:00.000Z",
-    "end_iso": "2026-11-06T22:00:00.000Z",
-    "date": "Friday, 06 November 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/england-a-v-argentina-xv",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/england-a-v-argentina-xv/3456",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Venezia Udinese",
-    "category": "Venezia",
-    "logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
-    "start_iso": "2026-11-06T19:45:00.000Z",
-    "end_iso": "2026-11-06T22:00:00.000Z",
-    "date": "Friday, 06 November 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/venezia-vs-udinese",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/venezia-vs-udinese/3473",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/venezia-vs-udinese/3474",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "SD",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Leicester Tigers Northampton Saints",
-    "category": "Leicester Tigers",
-    "logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
-    "start_iso": "2026-11-06T19:45:00.000Z",
-    "end_iso": "2026-11-06T22:00:00.000Z",
-    "date": "Friday, 06 November 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/leicester-tigers-vs-northampton",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/leicester-tigers-vs-northampton/3457",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Sevilla Deportivo Alavés",
-    "category": "Sevilla",
-    "logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-    "start_iso": "2026-11-06T20:00:00.000Z",
-    "end_iso": "2026-11-06T22:15:00.000Z",
-    "date": "Friday, 06 November 2026",
-    "time": "22:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/sevilla-vs-alaves",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/sevilla-vs-alaves/3478",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/sevilla-vs-alaves/3479",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Coventry City Everton",
-    "category": "Coventry City",
-    "logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
-    "start_iso": "2026-11-06T20:00:00.000Z",
-    "end_iso": "2026-11-06T22:15:00.000Z",
-    "date": "Friday, 06 November 2026",
-    "time": "22:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/coventry-city-vs-everton",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/coventry-city-vs-everton/3480",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/coventry-city-vs-everton/3481",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/coventry-city-vs-everton/3482",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/coventry-city-vs-everton/3483",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Portuguese",
-        "url": "https://playerdee.top/alpha/coventry-city-vs-everton/3484",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://playerdee.top/alpha/coventry-city-vs-everton/3485",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Bolton Wanderers Derby County",
-    "category": "Bolton Wanderers",
-    "logo": "https://cdn.img4every1.org/team/bolton-wanderers/logo.webp",
-    "start_iso": "2026-11-06T20:00:00.000Z",
-    "end_iso": "2026-11-06T22:15:00.000Z",
-    "date": "Friday, 06 November 2026",
-    "time": "22:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/bolton-wanderers-vs-derby-county",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/bolton-wanderers-vs-derby-county/3486",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/bolton-wanderers-vs-derby-county/3487",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Ireland Argentina",
-    "category": "Ireland",
-    "logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-    "start_iso": "2026-11-06T20:10:00.000Z",
-    "end_iso": "2026-11-06T22:25:00.000Z",
-    "date": "Friday, 06 November 2026",
-    "time": "22:10",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/ireland-vs-argentina",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/ireland-vs-argentina/3458",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Famalicão Arouca",
-    "category": "Famalicão",
-    "logo": "https://cdn.img4every1.org/team/famalicao/logo.webp",
-    "start_iso": "2026-11-06T20:45:00.000Z",
-    "end_iso": "2026-11-06T23:00:00.000Z",
-    "date": "Friday, 06 November 2026",
-    "time": "22:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/famalicao-vs-arouca",
-    "servers": [
-      {
-        "label": "Portuguese",
-        "url": "https://playerdee.top/alpha/famalicao-vs-arouca/3488",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
-        }
-      }
-    ]
-  },
-  {
     "title": "New Zealand Tonga",
     "category": "New Zealand",
     "logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
@@ -756,6 +413,42 @@
     "servers": []
   },
   {
+    "title": "Manchester City Nottingham Forest",
+    "category": "Manchester City",
+    "logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+    "start_iso": "2026-11-07T17:30:00.000Z",
+    "end_iso": "2026-11-07T19:45:00.000Z",
+    "date": "Saturday, 07 November 2026",
+    "time": "19:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/manchester-city-vs-nottm-forest",
+    "servers": []
+  },
+  {
+    "title": "Osasuna Athletic Club",
+    "category": "Osasuna",
+    "logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+    "start_iso": "2026-11-07T17:30:00.000Z",
+    "end_iso": "2026-11-07T19:45:00.000Z",
+    "date": "Saturday, 07 November 2026",
+    "time": "19:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/osasuna-vs-athletic-club",
+    "servers": []
+  },
+  {
+    "title": "Stuttgart Werder Bremen",
+    "category": "Stuttgart",
+    "logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
+    "start_iso": "2026-11-07T17:30:00.000Z",
+    "end_iso": "2026-11-07T19:45:00.000Z",
+    "date": "Saturday, 07 November 2026",
+    "time": "19:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/stuttgart-vs-werder-bremen",
+    "servers": []
+  },
+  {
     "title": "Altrincham Notts County",
     "category": "Altrincham",
     "logo": "https://cdn.img4every1.org/team/altrincham/logo.webp",
@@ -787,42 +480,6 @@
         }
       }
     ]
-  },
-  {
-    "title": "Osasuna Athletic Club",
-    "category": "Osasuna",
-    "logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-    "start_iso": "2026-11-07T17:30:00.000Z",
-    "end_iso": "2026-11-07T19:45:00.000Z",
-    "date": "Saturday, 07 November 2026",
-    "time": "19:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/osasuna-vs-athletic-club",
-    "servers": []
-  },
-  {
-    "title": "Manchester City Nottingham Forest",
-    "category": "Manchester City",
-    "logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-    "start_iso": "2026-11-07T17:30:00.000Z",
-    "end_iso": "2026-11-07T19:45:00.000Z",
-    "date": "Saturday, 07 November 2026",
-    "time": "19:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/manchester-city-vs-nottm-forest",
-    "servers": []
-  },
-  {
-    "title": "Stuttgart Werder Bremen",
-    "category": "Stuttgart",
-    "logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
-    "start_iso": "2026-11-07T17:30:00.000Z",
-    "end_iso": "2026-11-07T19:45:00.000Z",
-    "date": "Saturday, 07 November 2026",
-    "time": "19:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/stuttgart-vs-werder-bremen",
-    "servers": []
   },
   {
     "title": "Alverca Casa Pia",
@@ -861,6 +518,18 @@
     "servers": []
   },
   {
+    "title": "Real Madrid Valencia",
+    "category": "Real Madrid",
+    "logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+    "start_iso": "2026-11-07T20:00:00.000Z",
+    "end_iso": "2026-11-07T22:15:00.000Z",
+    "date": "Saturday, 07 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/real-madrid-vs-valencia",
+    "servers": []
+  },
+  {
     "title": "Peterborough United Reading",
     "category": "Peterborough United",
     "logo": "https://cdn.img4every1.org/team/peterborough-united/logo.webp",
@@ -892,18 +561,6 @@
         }
       }
     ]
-  },
-  {
-    "title": "Real Madrid Valencia",
-    "category": "Real Madrid",
-    "logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-    "start_iso": "2026-11-07T20:00:00.000Z",
-    "end_iso": "2026-11-07T22:15:00.000Z",
-    "date": "Saturday, 07 November 2026",
-    "time": "22:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/real-madrid-vs-valencia",
-    "servers": []
   },
   {
     "title": "France Fiji",
@@ -954,6 +611,29 @@
       {
         "label": "English",
         "url": "https://playerdee.top/alpha/australia-vs-samoa/3465",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "England Australia",
+    "category": "England",
+    "logo": "https://cdn.img4every1.org/team/england/logo.webp",
+    "start_iso": "2026-11-08T15:10:00.000Z",
+    "end_iso": "2026-11-08T17:25:00.000Z",
+    "date": "Sunday, 08 November 2026",
+    "time": "17:10",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/england-vs-australia",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/england-vs-australia/3463",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",

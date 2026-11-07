@@ -1,143 +1,305 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA SPO - Playlist
 
-#EXTINF:-1 group-title="SPO",06/11/2026 07:00 - Golf: DP World Tour - Abu Dhabi HSBC Championship - D2 - sporttv3
+#EXTINF:-1 group-title="SPO",07/11/2026 04:00 - Auckland x Wellington Phoenix - hd5
+https://sportsoonline.click/channels/hd/hd5.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 06:00 - Brisbane Roar W x Melbourne Victory W - hd5
+https://sportsoonline.click/channels/hd/hd5.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 07:00 - Golf: DP World Tour - Abu Dhabi HSBC Championship - D3 - sporttv3
 https://sportsoonline.click/channels/pt/sporttv3.php
 
-#EXTINF:-1 group-title="SPO",06/11/2026 08:40 - Sydney FC x Central Coast Mariners - hd5
+#EXTINF:-1 group-title="SPO",07/11/2026 08:40 - Melbourne City x Western Sydney Wanderers - hd5
 https://sportsoonline.click/channels/hd/hd5.php
 
-#EXTINF:-1 group-title="SPO",06/11/2026 10:00 - MotoGP: Qatar Free Practice 1 - hd2
+#EXTINF:-1 group-title="SPO",07/11/2026 09:30 - Moto2/3: Qatar FP2 - hd2
 https://sportsoonline.click/channels/hd/hd2.php
 
-#EXTINF:-1 group-title="SPO",06/11/2026 10:00 - MotoGP: Qatar Free Practice 1 - sporttv4
-https://sportsoonline.click/channels/pt/sporttv4.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 10:00 - MotoGP: Qatar Free Practice 1 - br6
+#EXTINF:-1 group-title="SPO",07/11/2026 09:30 - Moto2/3: Qatar FP2 - br6
 https://sportsoonline.click/channels/bra/br6.php
 
-#EXTINF:-1 group-title="SPO",06/11/2026 12:00 - Tennis: ATP World Tour 1000 - Paris 2026 - sporttv2
-https://sportsoonline.click/channels/pt/sporttv2.php
+#EXTINF:-1 group-title="SPO",07/11/2026 09:30 - Moto2/3: Qatar FP2 - sporttv4
+https://sportsoonline.click/channels/pt/sporttv4.php
 
-#EXTINF:-1 group-title="SPO",06/11/2026 14:00 - MotoGP: GP of Qatar Practice - hd2
+#EXTINF:-1 group-title="SPO",07/11/2026 10:45 - MotoGP: Qatar Qualifying - hd2
 https://sportsoonline.click/channels/hd/hd2.php
 
-#EXTINF:-1 group-title="SPO",06/11/2026 14:00 - MotoGP: GP of Qatar Practice - sporttv4
+#EXTINF:-1 group-title="SPO",07/11/2026 10:45 - MotoGP: Qatar Qualifying - sporttv4
 https://sportsoonline.click/channels/pt/sporttv4.php
 
-#EXTINF:-1 group-title="SPO",06/11/2026 14:00 - MotoGP: GP of Qatar Practice - br6
+#EXTINF:-1 group-title="SPO",07/11/2026 10:45 - MotoGP: Qatar Qualifying - br6
 https://sportsoonline.click/channels/bra/br6.php
 
-#EXTINF:-1 group-title="SPO",06/11/2026 15:00 - Sao Paulo F1 GP: Practice 1 - hd5
-https://sportsoonline.click/channels/hd/hd5.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 15:00 - Sao Paulo F1 GP: Practice 1 - hd8
-https://sportsoonline.click/channels/hd/hd8.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 17:00 - Gaziantep FK x Kasımpaşa - hd10
-https://sportsoonline.click/channels/hd/hd10.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 17:00 - Basketball - Euroleague: Besiktas x Zalgiris Kaunas - sporttv1
+#EXTINF:-1 group-title="SPO",07/11/2026 11:00 - Felgueiras 1932 x Leixões - sporttv1
 https://sportsoonline.click/channels/pt/sporttv1.php
 
-#EXTINF:-1 group-title="SPO",06/11/2026 17:30 - Dynamo Dresden x Greuther Fürth - hd11
-https://sportsoonline.click/channels/hd/hd11.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 17:30 - Eintracht Braunschweig x Energie Cottbus - eleven1
-https://sportsoonline.click/channels/pt/eleven1.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 18:00 - Barracas Central x Racing Club - hd9
-https://sportsoonline.click/channels/hd/hd9.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 18:00 - Tennis: ATP World Tour 1000 - Paris 2026 - sporttv4
-https://sportsoonline.click/channels/pt/sporttv4.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 18:45 - Sao Paulo F1 GP: Practice 2 - hd5
-https://sportsoonline.click/channels/hd/hd5.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 18:45 - Sao Paulo F1 GP: Practice 2 - hd8
-https://sportsoonline.click/channels/hd/hd8.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 19:00 - Willem II x PEC Zwolle - hd8
-https://sportsoonline.click/channels/hd/hd8.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 19:30 - Hamburger SV x Borussia M'gladbach - hd3
-https://sportsoonline.click/channels/hd/hd3.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 19:30 - Hamburger SV x Borussia M'gladbach - eleven3
-https://sportsoonline.click/channels/pt/eleven3.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 19:45 - Venezia x Udinese - hd7
-https://sportsoonline.click/channels/hd/hd7.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 19:45 - Venezia x Udinese - sporttv2
-https://sportsoonline.click/channels/pt/sporttv2.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 19:45 - Venezia x Udinese - br6
-https://sportsoonline.click/channels/bra/br6.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 19:45 - Toulouse x Strasbourg - hd4
-https://sportsoonline.click/channels/hd/hd4.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 19:45 - Toulouse x Strasbourg - sporttv3
-https://sportsoonline.click/channels/pt/sporttv3.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 19:45 - Oxford City x Leicester City - hd5
-https://sportsoonline.click/channels/hd/hd5.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 20:00 - Everton x Coventry City - hd1
-https://sportsoonline.click/channels/hd/hd1.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 20:00 - Everton x Coventry City - eleven1
-https://sportsoonline.click/channels/pt/eleven1.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 20:00 - Everton x Coventry City - br2
-https://sportsoonline.click/channels/bra/br2.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 20:00 - Sevilla x Deportivo Alavés - hd6
-https://sportsoonline.click/channels/hd/hd6.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 20:00 - Sevilla x Deportivo Alavés - eleven2
-https://sportsoonline.click/channels/pt/eleven2.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 20:00 - Derby County x Bolton Wanderers - hd2
-https://sportsoonline.click/channels/hd/hd2.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 20:00 - Rugby: Ireland x Argentina - sporttv5
+#EXTINF:-1 group-title="SPO",07/11/2026 11:30 - Rugby: Italy x South Africa - sporttv5
 https://sportsoonline.click/channels/pt/sporttv5.php
 
-#EXTINF:-1 group-title="SPO",06/11/2026 20:45 - Famalicão x Arouca - sporttv1
-https://sportsoonline.click/channels/pt/sporttv1.php
+#EXTINF:-1 group-title="SPO",07/11/2026 12:00 - Nürnberg x Darmstadt 98 - hd4
+https://sportsoonline.click/channels/hd/hd4.php
 
-#EXTINF:-1 group-title="SPO",06/11/2026 22:15 - San Lorenzo x Platense - hd9
-https://sportsoonline.click/channels/hd/hd9.php
+#EXTINF:-1 group-title="SPO",07/11/2026 12:00 - Osnabrück x Kaiserslautern - hd10
+https://sportsoonline.click/channels/hd/hd10.php
 
-#EXTINF:-1 group-title="SPO",06/11/2026 22:15 - Independiente x Deportivo Riestra - hd8
-https://sportsoonline.click/channels/hd/hd8.php
+#EXTINF:-1 group-title="SPO",07/11/2026 12:30 - Leeds United x Tottenham Hotspur - hd5
+https://sportsoonline.click/channels/hd/hd5.php
 
-#EXTINF:-1 group-title="SPO",06/11/2026 23:00 - Boyacá Chicó x Inter Bogotá - hd11
-https://sportsoonline.click/channels/hd/hd11.php
+#EXTINF:-1 group-title="SPO",07/11/2026 12:30 - Leeds United x Tottenham Hotspur - eleven1
+https://sportsoonline.click/channels/pt/eleven1.php
 
-#EXTINF:-1 group-title="SPO",06/11/2026 23:00 - Vitória x Fluminense - br1
-https://sportsoonline.click/channels/bra/br1.php
+#EXTINF:-1 group-title="SPO",07/11/2026 12:30 - Leeds United x Tottenham Hotspur - br2
+https://sportsoonline.click/channels/bra/br2.php
 
-#EXTINF:-1 group-title="SPO",06/11/2026 00:30 - NASCAR: NTCS Championship Race - Homestead Miami - sporttv4
+#EXTINF:-1 group-title="SPO",07/11/2026 12:30 - Wrexham x Wolverhampton Wanderers - hd1
+https://sportsoonline.click/channels/hd/hd1.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 12:30 - Wrexham x Wolverhampton Wanderers - sporttv2
+https://sportsoonline.click/channels/pt/sporttv2.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 13:00 - Málaga x Racing Santander - hd6
+https://sportsoonline.click/channels/hd/hd6.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 13:00 - Málaga x Racing Santander - eleven3
+https://sportsoonline.click/channels/pt/eleven3.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 13:45 - Moto2/3: Qatar Qualifying - hd2
+https://sportsoonline.click/channels/hd/hd2.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 13:45 - Moto2/3: Qatar Qualifying - sporttv4
 https://sportsoonline.click/channels/pt/sporttv4.php
 
-#EXTINF:-1 group-title="SPO",06/11/2026 01:00 - Fortaleza CEIF x Medellín - hd11
-https://sportsoonline.click/channels/hd/hd11.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 01:00 - Banfield x Atlético Tucumán - hd8
-https://sportsoonline.click/channels/hd/hd8.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 01:00 - Tigre x Sarmiento - hd9
-https://sportsoonline.click/channels/hd/hd9.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 02:00 - One Fighting Championship - sporttv3
-https://sportsoonline.click/channels/pt/sporttv3.php
-
-#EXTINF:-1 group-title="SPO",06/11/2026 02:00 - Boxing: Damian Arce x Mario Gutierrez - br6
+#EXTINF:-1 group-title="SPO",07/11/2026 13:45 - Moto2/3: Qatar Qualifying - br6
 https://sportsoonline.click/channels/bra/br6.php
 
-#EXTINF:-1 group-title="SPO",06/11/2026 03:00 - Atlante x Santos Laguna - hd10
+#EXTINF:-1 group-title="SPO",07/11/2026 14:00 - Torino x Lecce - hd7
+https://sportsoonline.click/channels/hd/hd7.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 14:00 - Torino x Lecce - sporttv3
+https://sportsoonline.click/channels/pt/sporttv3.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 14:00 - Rugby: Scotland x New Zealand - sporttv5
+https://sportsoonline.click/channels/pt/sporttv5.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 14:15 - Sao Paulo F1 GP: Practice 3 - hd5
+https://sportsoonline.click/channels/hd/hd5.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 14:15 - Sao Paulo F1 GP: Practice 3 - hd8
+https://sportsoonline.click/channels/hd/hd8.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 14:30 - Mainz 05 x Bayern München - hd3
+https://sportsoonline.click/channels/hd/hd3.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 14:30 - Mainz 05 x Bayern München - br1
+https://sportsoonline.click/channels/bra/br1.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 14:30 - Borussia Dortmund x Elversberg - hd4
+https://sportsoonline.click/channels/hd/hd4.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 14:30 - Paderborn x Eintracht Frankfurt - hd10
 https://sportsoonline.click/channels/hd/hd10.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 14:30 - RB Leipzig x Augsburg - hd11
+https://sportsoonline.click/channels/hd/hd11.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 15:00 - Arsenal x Hull City - hd1
+https://sportsoonline.click/channels/hd/hd1.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 15:00 - Arsenal x Hull City - eleven1
+https://sportsoonline.click/channels/pt/eleven1.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 15:00 - Arsenal x Hull City - br2
+https://sportsoonline.click/channels/bra/br2.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 15:00 - Fulham x Newcastle United - hd2
+https://sportsoonline.click/channels/hd/hd2.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 15:00 - Fulham x Newcastle United - eleven2
+https://sportsoonline.click/channels/pt/eleven2.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 15:00 - Fulham x Newcastle United - br4
+https://sportsoonline.click/channels/bra/br4.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 15:15 - Espanyol x Deportivo La Coruña - hd6
+https://sportsoonline.click/channels/hd/hd6.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 15:15 - Espanyol x Deportivo La Coruña - eleven3
+https://sportsoonline.click/channels/pt/eleven3.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 15:30 - Nacional x Academico Viseu - sporttv1
+https://sportsoonline.click/channels/pt/sporttv1.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 15:30 - Académica x Amarante - sporttv2
+https://sportsoonline.click/channels/pt/sporttv2.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 15:45 - MotoGP: Qatar Sprint Race - sporttv4
+https://sportsoonline.click/channels/pt/sporttv4.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 15:45 - MotoGP: Qatar Sprint Race - br6
+https://sportsoonline.click/channels/bra/br6.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 16:00 - Galatasaray x Amed SK - hd9
+https://sportsoonline.click/channels/hd/hd9.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 16:00 - Galatasaray x Amed SK - sporttv3
+https://sportsoonline.click/channels/pt/sporttv3.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 16:30 - Rugby: Wales x Japan - sporttv5
+https://sportsoonline.click/channels/pt/sporttv5.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 17:00 - Parma x Bologna - hd7
+https://sportsoonline.click/channels/hd/hd7.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 17:00 - Sao Paulo F1 GP: Qualifying - hd5
+https://sportsoonline.click/channels/hd/hd5.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 17:00 - Sao Paulo F1 GP: Qualifying - hd8
+https://sportsoonline.click/channels/hd/hd8.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 17:00 - Sao Paulo F1 GP: Qualifying - br5
+https://sportsoonline.click/channels/bra/br5.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 17:30 - Nottingham Forest x Manchester City - hd1
+https://sportsoonline.click/channels/hd/hd1.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 17:30 - Nottingham Forest x Manchester City - eleven1
+https://sportsoonline.click/channels/pt/eleven1.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 17:30 - Nottingham Forest x Manchester City - br2
+https://sportsoonline.click/channels/bra/br2.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 17:30 - Osasuna x Athletic Club - hd6
+https://sportsoonline.click/channels/hd/hd6.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 17:30 - Osasuna x Athletic Club - eleven2
+https://sportsoonline.click/channels/pt/eleven2.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 17:30 - Stuttgart x Werder Bremen - hd3
+https://sportsoonline.click/channels/hd/hd3.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 17:30 - Stuttgart x Werder Bremen - eleven3
+https://sportsoonline.click/channels/pt/eleven3.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 17:45 - Aberdeen x Hibernian - hd2
+https://sportsoonline.click/channels/hd/hd2.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 18:00 - Auxerre x Paris - hd4
+https://sportsoonline.click/channels/hd/hd4.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 18:00 - Alverca x Casa Pia - sporttv2
+https://sportsoonline.click/channels/pt/sporttv2.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 18:00 - Talleres Córdoba x Estudiantes - hd10
+https://sportsoonline.click/channels/hd/hd10.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 18:00 - Gimnasia Mendoza x Independiente Rivadavia - hd11
+https://sportsoonline.click/channels/hd/hd11.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 18:00 - ADT x Sporting Cristal - hd9
+https://sportsoonline.click/channels/hd/hd9.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 19:30 - Hertha BSC x Wofsburg - eleven3
+https://sportsoonline.click/channels/pt/eleven3.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 19:45 - Roma x Sassuolo - hd7
+https://sportsoonline.click/channels/hd/hd7.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 19:45 - Roma x Sassuolo - sporttv3
+https://sportsoonline.click/channels/pt/sporttv3.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 19:45 - Roma x Sassuolo - br2
+https://sportsoonline.click/channels/bra/br2.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 20:00 - Valencia x Real Madrid - hd2
+https://sportsoonline.click/channels/hd/hd2.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 20:00 - Valencia x Real Madrid - hd6
+https://sportsoonline.click/channels/hd/hd6.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 20:00 - Valencia x Real Madrid - eleven1
+https://sportsoonline.click/channels/pt/eleven1.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 20:00 - Valencia x Real Madrid - br3
+https://sportsoonline.click/channels/bra/br3.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 20:00 - St. Mirren x Rangers - hd1
+https://sportsoonline.click/channels/hd/hd1.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 20:00 - Rugby; France x Fiji - sporttv5
+https://sportsoonline.click/channels/pt/sporttv5.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 20:05 - PSG x Troyes - hd4
+https://sportsoonline.click/channels/hd/hd4.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 20:05 - PSG x Troyes - sporttv4
+https://sportsoonline.click/channels/pt/sporttv4.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 20:30 - Boca Juniors x Defensa y Justicia - hd10
+https://sportsoonline.click/channels/hd/hd10.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 20:30 - Boca Juniors x Defensa y Justicia - sporttv2
+https://sportsoonline.click/channels/pt/sporttv2.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 20:30 - Sporting CP x Moreirense - sporttv1
+https://sportsoonline.click/channels/pt/sporttv1.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 20:30 - Argentinos Juniors x Huracán - hd11
+https://sportsoonline.click/channels/hd/hd11.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 20:30 - FC Cajamarca x Alianza Atlético - hd9
+https://sportsoonline.click/channels/hd/hd9.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 21:00 - Inter Miami x Charlotte - hd5
+https://sportsoonline.click/channels/hd/hd5.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 21:00 - Atlético Mineiro x Grêmio - br1
+https://sportsoonline.click/channels/bra/br1.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 21:05 - Once Caldas x Rionegro Águilas - hd8
+https://sportsoonline.click/channels/hd/hd8.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 22:00 - NBA: Denver Nuggets @ Indiana Pacers - hd2
+https://sportsoonline.click/channels/hd/hd2.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 22:30 - Central Córdoba SdE x Lanús - hd11
+https://sportsoonline.click/channels/hd/hd11.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 23:00 - Melgar x Juan Pablo II College - hd9
+https://sportsoonline.click/channels/hd/hd9.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 23:00 - UFC Fight Night: Prelims - hd1
+https://sportsoonline.click/channels/hd/hd1.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 23:10 - Atlético Nacional x Deportivo Pereira - hd8
+https://sportsoonline.click/channels/hd/hd8.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 01:00 - Instituto x Newell's Old Boys - hd10
+https://sportsoonline.click/channels/hd/hd10.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 01:00 - Toluca x Monterrey - hd11
+https://sportsoonline.click/channels/hd/hd11.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 01:00 - UFC Fight Night: Waldo Cortes-Acosta vs Johnny Walker - hd1
+https://sportsoonline.click/channels/hd/hd1.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 01:00 - UFC Fight Night: Waldo Cortes-Acosta vs Johnny Walker - sporttv1
+https://sportsoonline.click/channels/pt/sporttv1.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 01:00 - NBA: New York Knicks @ Cleveland Cavaliers - hd2
+https://sportsoonline.click/channels/hd/hd2.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 01:15 - América de Cali x Deportivo Cali - hd8
+https://sportsoonline.click/channels/hd/hd8.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 01:30 - Cienciano x Sport Huancayo - hd9
+https://sportsoonline.click/channels/hd/hd9.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 01:30 - NBA: Orlando Magic @ Golden State Warriors - sporttv2
+https://sportsoonline.click/channels/pt/sporttv2.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 03:00 - NBA: San Antonio Spurs @ Portland Trail Blazers - sporttv3
+https://sportsoonline.click/channels/pt/sporttv3.php
+
+#EXTINF:-1 group-title="SPO",07/11/2026 03:10 - Pumas UNAM x América - hd11
+https://sportsoonline.click/channels/hd/hd11.php

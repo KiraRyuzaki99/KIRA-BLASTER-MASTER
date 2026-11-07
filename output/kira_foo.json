@@ -132,29 +132,6 @@
     ]
   },
   {
-    "title": "New Zealand Tonga",
-    "category": "New Zealand",
-    "logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-    "start_iso": "2026-11-07T09:05:00.000Z",
-    "end_iso": "2026-11-07T11:20:00.000Z",
-    "date": "Saturday, 07 November 2026",
-    "time": "11:05",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/new-zealand-vs-tonga",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/new-zealand-vs-tonga/3464",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Italy South Africa",
     "category": "Italy",
     "logo": "https://cdn.img4every1.org/team/italy/logo.webp",
@@ -162,7 +139,7 @@
     "end_iso": "2026-11-07T13:55:00.000Z",
     "date": "Saturday, 07 November 2026",
     "time": "13:40",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/italy-vs-south-africa",
     "servers": [
       {
@@ -185,7 +162,7 @@
     "end_iso": "2026-11-07T14:45:00.000Z",
     "date": "Saturday, 07 November 2026",
     "time": "14:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/tottenham-hotspur-vs-leeds-united",
     "servers": [
       {
@@ -248,7 +225,7 @@
     "end_iso": "2026-11-07T14:45:00.000Z",
     "date": "Saturday, 07 November 2026",
     "time": "14:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/wolves-vs-wrexham",
     "servers": [
       {
@@ -281,7 +258,7 @@
     "end_iso": "2026-11-07T14:45:00.000Z",
     "date": "Saturday, 07 November 2026",
     "time": "14:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/bristol-city-vs-norwich-city",
     "servers": [
       {
@@ -304,7 +281,7 @@
     "end_iso": "2026-11-07T15:15:00.000Z",
     "date": "Saturday, 07 November 2026",
     "time": "15:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/malaga-vs-racing-santander",
     "servers": [
       {
@@ -323,6 +300,52 @@
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Lecce Torino",
+    "category": "Lecce",
+    "logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+    "start_iso": "2026-11-07T14:00:00.000Z",
+    "end_iso": "2026-11-07T16:15:00.000Z",
+    "date": "Saturday, 07 November 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/lecce-vs-torino",
+    "servers": [
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/lecce-vs-torino/3499",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Cagliari Frosinone Calcio",
+    "category": "Cagliari",
+    "logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+    "start_iso": "2026-11-07T14:00:00.000Z",
+    "end_iso": "2026-11-07T16:15:00.000Z",
+    "date": "Saturday, 07 November 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/cagliari-vs-frosinone",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/cagliari-vs-frosinone/3498",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "SD",
           "ads": "2",
           "language": "English"
         }
@@ -362,7 +385,18 @@
     "time": "16:30",
     "status": "next",
     "event_url": "https://pogo.pk/events/bayern-munchen-vs-mainz-05",
-    "servers": []
+    "servers": [
+      {
+        "label": "Deutsch",
+        "url": "https://playerdee.top/alpha/bayern-munchen-vs-mainz-05/3504",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
+        }
+      }
+    ]
   },
   {
     "title": "Arsenal Hull City",
@@ -374,19 +408,58 @@
     "time": "17:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/arsenal-vs-hull-city",
-    "servers": []
-  },
-  {
-    "title": "Fulham Newcastle United",
-    "category": "Fulham",
-    "logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
-    "start_iso": "2026-11-07T15:00:00.000Z",
-    "end_iso": "2026-11-07T17:15:00.000Z",
-    "date": "Saturday, 07 November 2026",
-    "time": "17:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/fulham-vs-newcastle-united",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/arsenal-vs-hull-city/3508",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/arsenal-vs-hull-city/3509",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/arsenal-vs-hull-city/3510",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/arsenal-vs-hull-city/3511",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/arsenal-vs-hull-city/3512",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
   },
   {
     "title": "Middlesbrough Watford",
@@ -435,6 +508,49 @@
     ]
   },
   {
+    "title": "Fulham Newcastle United",
+    "category": "Fulham",
+    "logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
+    "start_iso": "2026-11-07T15:00:00.000Z",
+    "end_iso": "2026-11-07T17:15:00.000Z",
+    "date": "Saturday, 07 November 2026",
+    "time": "17:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/fulham-vs-newcastle-united",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/fulham-vs-newcastle-united/3505",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/fulham-vs-newcastle-united/3506",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/fulham-vs-newcastle-united/3507",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
     "title": "Espanyol Deportivo La Coruña",
     "category": "Espanyol",
     "logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
@@ -444,7 +560,28 @@
     "time": "17:15",
     "status": "next",
     "event_url": "https://pogo.pk/events/espanyol-vs-deportivo-la-coruna",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/espanyol-vs-deportivo-la-coruna/3513",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/espanyol-vs-deportivo-la-coruna/3514",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Nacional de Madeira Academico Viseu",
@@ -456,19 +593,18 @@
     "time": "17:30",
     "status": "next",
     "event_url": "https://pogo.pk/events/nacional-vs-academico-viseu",
-    "servers": []
-  },
-  {
-    "title": "Paris FC Auxerre",
-    "category": "Paris FC",
-    "logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
-    "start_iso": "2026-11-07T16:15:00.000Z",
-    "end_iso": "2026-11-07T18:30:00.000Z",
-    "date": "Saturday, 07 November 2026",
-    "time": "18:15",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/paris-vs-auxerre",
-    "servers": []
+    "servers": [
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/nacional-vs-academico-viseu/3515",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "Japan Wales",
@@ -503,31 +639,28 @@
     "time": "19:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/parma-vs-bologna",
-    "servers": []
-  },
-  {
-    "title": "Manchester City Nottingham Forest",
-    "category": "Manchester City",
-    "logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-    "start_iso": "2026-11-07T17:30:00.000Z",
-    "end_iso": "2026-11-07T19:45:00.000Z",
-    "date": "Saturday, 07 November 2026",
-    "time": "19:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/manchester-city-vs-nottm-forest",
-    "servers": []
-  },
-  {
-    "title": "Osasuna Athletic Club",
-    "category": "Osasuna",
-    "logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-    "start_iso": "2026-11-07T17:30:00.000Z",
-    "end_iso": "2026-11-07T19:45:00.000Z",
-    "date": "Saturday, 07 November 2026",
-    "time": "19:30",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/osasuna-vs-athletic-club",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/parma-vs-bologna/3500",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "SD",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/parma-vs-bologna/3501",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Stuttgart Werder Bremen",
@@ -539,7 +672,124 @@
     "time": "19:30",
     "status": "next",
     "event_url": "https://pogo.pk/events/stuttgart-vs-werder-bremen",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/stuttgart-vs-werder-bremen/3518",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/stuttgart-vs-werder-bremen/3519",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Manchester City Nottingham Forest",
+    "category": "Manchester City",
+    "logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+    "start_iso": "2026-11-07T17:30:00.000Z",
+    "end_iso": "2026-11-07T19:45:00.000Z",
+    "date": "Saturday, 07 November 2026",
+    "time": "19:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/manchester-city-vs-nottm-forest",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/manchester-city-vs-nottm-forest/3520",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/manchester-city-vs-nottm-forest/3521",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/manchester-city-vs-nottm-forest/3522",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/manchester-city-vs-nottm-forest/3523",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/manchester-city-vs-nottm-forest/3524",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Osasuna Athletic Club",
+    "category": "Osasuna",
+    "logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+    "start_iso": "2026-11-07T17:30:00.000Z",
+    "end_iso": "2026-11-07T19:45:00.000Z",
+    "date": "Saturday, 07 November 2026",
+    "time": "19:30",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/osasuna-vs-athletic-club",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/osasuna-vs-athletic-club/3516",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/osasuna-vs-athletic-club/3517",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Altrincham Notts County",
@@ -587,15 +837,15 @@
     "servers": []
   },
   {
-    "title": "PSG Troyes",
-    "category": "PSG",
-    "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-    "start_iso": "2026-11-07T19:45:00.000Z",
-    "end_iso": "2026-11-07T22:00:00.000Z",
+    "title": "Paris FC Auxerre",
+    "category": "Paris FC",
+    "logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
+    "start_iso": "2026-11-07T18:00:00.000Z",
+    "end_iso": "2026-11-07T20:15:00.000Z",
     "date": "Saturday, 07 November 2026",
-    "time": "21:45",
+    "time": "20:00",
     "status": "next",
-    "event_url": "https://pogo.pk/events/psg-vs-troyes",
+    "event_url": "https://pogo.pk/events/paris-vs-auxerre",
     "servers": []
   },
   {
@@ -608,7 +858,28 @@
     "time": "21:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/roma-vs-sassuolo",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/roma-vs-sassuolo/3502",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "SD",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/roma-vs-sassuolo/3503",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Real Madrid Valencia",
@@ -654,6 +925,18 @@
         }
       }
     ]
+  },
+  {
+    "title": "PSG Troyes",
+    "category": "PSG",
+    "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+    "start_iso": "2026-11-07T20:05:00.000Z",
+    "end_iso": "2026-11-07T22:20:00.000Z",
+    "date": "Saturday, 07 November 2026",
+    "time": "22:05",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/psg-vs-troyes",
+    "servers": []
   },
   {
     "title": "France Fiji",

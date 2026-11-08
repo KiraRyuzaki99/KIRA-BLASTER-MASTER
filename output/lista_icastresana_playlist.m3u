@@ -1,75 +1,85 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="10:55 LF Endesa -  Entrenamientos libres 1" group-title="LF Endesa",10:55 LF Endesa -  Entrenamientos libres 1
-acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-name="12:00 FIP World Cup Qatar 2026 -  España - Francia. Partido Femenino 1" group-title="FIP World Cup Qatar 2026",12:00 FIP World Cup Qatar 2026 -  España - Francia. Partido Femenino 1
-acestream://af393f93814d03160d48d2730759593b7bea5b47
-#EXTINF:-1 tvg-name="12:00 FIP World Cup Qatar 2026 -  Argentina - Italia. Partido Femenino 1" group-title="FIP World Cup Qatar 2026",12:00 FIP World Cup Qatar 2026 -  Argentina - Italia. Partido Femenino 1
-acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-name="12:00 Premier -  Programa corto parejas" group-title="Premier",12:00 Premier -  Programa corto parejas
-acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
-#EXTINF:-1 tvg-name="13:15 FIP World Cup Qatar 2026 -  Argentina - Italia. Partido Femenino 2" group-title="FIP World Cup Qatar 2026",13:15 FIP World Cup Qatar 2026 -  Argentina - Italia. Partido Femenino 2
-acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-name="13:20 FIP World Cup Qatar 2026 -  España - Francia. Partido Femenino 2" group-title="FIP World Cup Qatar 2026",13:20 FIP World Cup Qatar 2026 -  España - Francia. Partido Femenino 2
-acestream://af393f93814d03160d48d2730759593b7bea5b47
-#EXTINF:-1 tvg-name="14:05 LF Endesa -  Shelton - Paul" group-title="LF Endesa",14:05 LF Endesa -  Shelton - Paul
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-name="14:30 FIP World Cup Qatar 2026 -  Argentina - Italia. Partido Femenino 3" group-title="FIP World Cup Qatar 2026",14:30 FIP World Cup Qatar 2026 -  Argentina - Italia. Partido Femenino 3
-acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-name="14:35 Mundial de Sambo -  Día 1" group-title="Mundial de Sambo",14:35 Mundial de Sambo -  Día 1
-acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
-#EXTINF:-1 tvg-name="15:10 LF Endesa -  Entrenamientos libres 2" group-title="LF Endesa",15:10 LF Endesa -  Entrenamientos libres 2
-acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-name="15:55 Liga U -  Barcelona - Fundación CB Canarias" group-title="Liga U",15:55 Liga U -  Barcelona - Fundación CB Canarias
+#EXTINF:-1 tvg-name="11:00 1RFEF Fem -  LBTL Alcantarilla FS - At. Navalcarnero FS" group-title="1RFEF Fem",11:00 1RFEF Fem -  LBTL Alcantarilla FS - At. Navalcarnero FS
 acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="16:00 LF Endesa -  Van Assche - Hijikata" group-title="LF Endesa",16:00 LF Endesa -  Van Assche - Hijikata
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-name="16:00 FIP World Cup Qatar 2026 -  Argentina - Italia. Partido Masculino 1" group-title="FIP World Cup Qatar 2026",16:00 FIP World Cup Qatar 2026 -  Argentina - Italia. Partido Masculino 1
-acestream://af393f93814d03160d48d2730759593b7bea5b47
-#EXTINF:-1 tvg-name="16:00 FIP World Cup Qatar 2026 -  España - Portugal. Partido Masculino 1" group-title="FIP World Cup Qatar 2026",16:00 FIP World Cup Qatar 2026 -  España - Portugal. Partido Masculino 1
-acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-name="16:00 Mundial de Sambo -  Previo Libres 1" group-title="Mundial de Sambo",16:00 Mundial de Sambo -  Previo Libres 1
-acestream://d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-name="16:27 Mundial de Sambo -  Libres 1" group-title="Mundial de Sambo",16:27 Mundial de Sambo -  Libres 1
-acestream://d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-name="17:15 FIP World Cup Qatar 2026 -  Argentina - Italia. Partido Masculino 2" group-title="FIP World Cup Qatar 2026",17:15 FIP World Cup Qatar 2026 -  Argentina - Italia. Partido Masculino 2
-acestream://af393f93814d03160d48d2730759593b7bea5b47
-#EXTINF:-1 tvg-name="17:41 Mundial de Sambo -  Post Libres 1" group-title="Mundial de Sambo",17:41 Mundial de Sambo -  Post Libres 1
-acestream://d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-name="18:00 FIP World Cup Qatar 2026 -  España - Portugal. Partido Masculino 2" group-title="FIP World Cup Qatar 2026",18:00 FIP World Cup Qatar 2026 -  España - Portugal. Partido Masculino 2
-acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-name="18:50 LF Endesa -  Spar Girona - Valencia Basket" group-title="LF Endesa",18:50 LF Endesa -  Spar Girona - Valencia Basket
-acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
-#EXTINF:-1 tvg-name="19:00 1RFEF -  Cacereño - Lugo" group-title="1RFEF",19:00 1RFEF -  Cacereño - Lugo
-acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
-#EXTINF:-1 tvg-name="19:05 LF Endesa -  Fritz - Alcaraz" group-title="LF Endesa",19:05 LF Endesa -  Fritz - Alcaraz
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-name="19:30 Mundial de Sambo -  Previo Libres 2" group-title="Mundial de Sambo",19:30 Mundial de Sambo -  Previo Libres 2
-acestream://d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-name="19:50 LF Endesa -  Meins Avenida - Mirai Euskotren" group-title="LF Endesa",19:50 LF Endesa -  Meins Avenida - Mirai Euskotren
-acestream://8f982a0d6e3196c12d0034142b65008321150f7c
-#EXTINF:-1 tvg-name="19:55 Mundial de Sambo -  Libres 2" group-title="Mundial de Sambo",19:55 Mundial de Sambo -  Libres 2
-acestream://d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-name="20:00 FIP World Cup Qatar 2026 -  España - Portugal. Partido Masculino 3" group-title="FIP World Cup Qatar 2026",20:00 FIP World Cup Qatar 2026 -  España - Portugal. Partido Masculino 3
-acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-name="20:35 LF Endesa -  Ruud - Borges" group-title="LF Endesa",20:35 LF Endesa -  Ruud - Borges
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-name="20:50 Premier -  Everton - Coventry" group-title="Premier",20:50 Premier -  Everton - Coventry
-acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-name="21:00 Nations Championship -  Irlanda - Argentina" group-title="Nations Championship",21:00 Nations Championship -  Irlanda - Argentina
-acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
-#EXTINF:-1 tvg-name="21:05 Mundial de Sambo -  Post Libres 2" group-title="Mundial de Sambo",21:05 Mundial de Sambo -  Post Libres 2
-acestream://d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-name="21:15 1RFEF -  Avilés - Extremadura" group-title="1RFEF",21:15 1RFEF -  Avilés - Extremadura
-acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
-#EXTINF:-1 tvg-name="07:00 FIP World Cup Qatar 2026 -  Tercer y cuarto puesto Femenino. Partido 1" group-title="FIP World Cup Qatar 2026",07:00 FIP World Cup Qatar 2026 -  Tercer y cuarto puesto Femenino. Partido 1
-acestream://3230cdca852a10325222e3c546e499e31d547a90
-#EXTINF:-1 tvg-name="07:00 International Championship -  Final" group-title="International Championship",07:00 International Championship -  Final
-acestream://62a5750be4d2218b1064f83afaac4770fd92350d
-#EXTINF:-1 tvg-name="07:30 International Championship -  Danza libre" group-title="International Championship",07:30 International Championship -  Danza libre
+#EXTINF:-1 tvg-name="11:40 NCAA -  Programa libre parejas" group-title="NCAA",11:40 NCAA -  Programa libre parejas
 acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
-#EXTINF:-1 tvg-name="08:15 FIP World Cup Qatar 2026 -  Tercer y cuarto puesto Femenino. Partido 2" group-title="FIP World Cup Qatar 2026",08:15 FIP World Cup Qatar 2026 -  Tercer y cuarto puesto Femenino. Partido 2
+#EXTINF:-1 tvg-name="12:00 Liga Fem -  Granada Femenino - Espanyol Femenino" group-title="Liga Fem",12:00 Liga Fem -  Granada Femenino - Espanyol Femenino
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-name="12:00 MotoGP - G.P. Catar (Losail) Libres 2" group-title="MotoGP",12:00 MotoGP - G.P. Catar (Losail) Libres 2
+acestream://30bfcdcc472367415184132bf9d8f46a0a4e8b32
+#EXTINF:-1 tvg-name="12:00 Mundial Femenino - 3er Puesto Francia - Italia" group-title="Mundial Femenino",12:00 Mundial Femenino - 3er Puesto Francia - Italia
 acestream://3230cdca852a10325222e3c546e499e31d547a90
-#EXTINF:-1 tvg-name="09:30 FIP World Cup Qatar 2026 -  Tercer y cuarto puesto Femenino. Partido 3" group-title="FIP World Cup Qatar 2026",09:30 FIP World Cup Qatar 2026 -  Tercer y cuarto puesto Femenino. Partido 3
+#EXTINF:-1 tvg-name="12:00 Mundial Femenino - Final España - Argentina" group-title="Mundial Femenino",12:00 Mundial Femenino - Final España - Argentina
+acestream://af393f93814d03160d48d2730759593b7bea5b47
+#EXTINF:-1 tvg-name="12:40 MotoGP - G.P. Catar (Losail) Clasificación" group-title="MotoGP",12:40 MotoGP - G.P. Catar (Losail) Clasificación
+acestream://30bfcdcc472367415184132bf9d8f46a0a4e8b32
+#EXTINF:-1 tvg-name="13:00 1RFEF - Grupo 1 Racing Ferrol - UD Logroñés" group-title="1RFEF",13:00 1RFEF - Grupo 1 Racing Ferrol - UD Logroñés
+acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
+#EXTINF:-1 tvg-name="13:00 Liga Guerreras -  Beti Onak BM - BM Logroño La Rioja" group-title="Liga Guerreras",13:00 Liga Guerreras -  Beti Onak BM - BM Logroño La Rioja
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-name="13:30 Premier -  Leeds Utd - Tottenham" group-title="Premier",13:30 Premier -  Leeds Utd - Tottenham
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-name="14:00 Primera -  Málaga - Racing Santander" group-title="Primera",14:00 Primera -  Málaga - Racing Santander
+acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1 tvg-name="14:30 Moto2 - G.P. Catar (Losail) L. Van Assche - B. Shelton" group-title="Moto2",14:30 Moto2 - G.P. Catar (Losail) L. Van Assche - B. Shelton
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
+#EXTINF:-1 tvg-name="14:50 Moto3 - G.P. Catar (Losail) Clasificación" group-title="Moto3",14:50 Moto3 - G.P. Catar (Losail) Clasificación
+acestream://30bfcdcc472367415184132bf9d8f46a0a4e8b32
+#EXTINF:-1 tvg-name="14:50 Campeonato Europa Ciclocross -  Carrera Femenina" group-title="Campeonato Europa Ciclocross",14:50 Campeonato Europa Ciclocross -  Carrera Femenina
+acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
+#EXTINF:-1 tvg-name="15:10 Nations Championship -  Escocia - Nueva Zelanda" group-title="Nations Championship",15:10 Nations Championship -  Escocia - Nueva Zelanda
+acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
+#EXTINF:-1 tvg-name="15:30 ACB - Liga Regular Libres 3" group-title="ACB",15:30 ACB - Liga Regular Libres 3
+acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-name="15:45 Moto2 - G.P. Catar (Losail) Clasificación" group-title="Moto2",15:45 Moto2 - G.P. Catar (Losail) Clasificación
+acestream://30bfcdcc472367415184132bf9d8f46a0a4e8b32
+#EXTINF:-1 tvg-name="16:00 Premier -  Arsenal - Hull City" group-title="Premier",16:00 Premier -  Arsenal - Hull City
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-name="16:00 Liga Fem -  Athletic Femenino - Real Madrid Femenino" group-title="Liga Fem",16:00 Liga Fem -  Athletic Femenino - Real Madrid Femenino
+acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
+#EXTINF:-1 tvg-name="16:00 Campeonato del Mundo - 3er Puesto Italia - Portugal" group-title="Campeonato del Mundo",16:00 Campeonato del Mundo - 3er Puesto Italia - Portugal
 acestream://3230cdca852a10325222e3c546e499e31d547a90
-#EXTINF:-1 tvg-name="09:30 International Championship -  Programa libre F" group-title="International Championship",09:30 International Championship -  Programa libre F
+#EXTINF:-1 tvg-name="16:00 Campeonato del Mundo - Final Argentina - España" group-title="Campeonato del Mundo",16:00 Campeonato del Mundo - Final Argentina - España
+acestream://af393f93814d03160d48d2730759593b7bea5b47
+#EXTINF:-1 tvg-name="16:15 Primera -  Espanyol - Deportivo" group-title="Primera",16:15 Primera -  Espanyol - Deportivo
+acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+#EXTINF:-1 tvg-name="16:30 1RFEF - Grupo 2 Alcorcón - Real Jaén" group-title="1RFEF",16:30 1RFEF - Grupo 2 Alcorcón - Real Jaén
+acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
+#EXTINF:-1 tvg-name="17:00 Liga Fem -  Eibar Femenino - Real Sociedad Femenino" group-title="Liga Fem",17:00 Liga Fem -  Eibar Femenino - Real Sociedad Femenino
+acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-name="17:00 MotoGP - G.P. Catar (Losail) Sprint" group-title="MotoGP",17:00 MotoGP - G.P. Catar (Losail) Sprint
+acestream://30bfcdcc472367415184132bf9d8f46a0a4e8b32
+#EXTINF:-1 tvg-name="17:00 Moto2 - G.P. Catar (Losail) C. Ruud - C. Alcaraz" group-title="Moto2",17:00 Moto2 - G.P. Catar (Losail) C. Ruud - C. Alcaraz
+acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
+#EXTINF:-1 tvg-name="18:30 Primera -  Osasuna - Athletic Club" group-title="Primera",18:30 Primera -  Osasuna - Athletic Club
+acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1 tvg-name="18:30 Premier -  Nottingham Forest - Manchester City" group-title="Premier",18:30 Premier -  Nottingham Forest - Manchester City
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-name="18:30 Bundesliga -  Stuttgart - Werder Bremen" group-title="Bundesliga",18:30 Bundesliga -  Stuttgart - Werder Bremen
+acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
+#EXTINF:-1 tvg-name="18:45 1RFEF - Grupo 1 Unionistas - Zamora" group-title="1RFEF",18:45 1RFEF - Grupo 1 Unionistas - Zamora
+acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
+#EXTINF:-1 tvg-name="19:00 ACB - Liga Regular Clasificación" group-title="ACB",19:00 ACB - Liga Regular Clasificación
+acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-name="20:00 World Wide Technology Championship -  J. Buatsi - W. Hutchinson" group-title="World Wide Technology Championship",20:00 World Wide Technology Championship -  J. Buatsi - W. Hutchinson
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-name="21:00 Primera -  Valencia CF - Real Madrid" group-title="Primera",21:00 Primera -  Valencia CF - Real Madrid
+acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+#EXTINF:-1 tvg-name="21:00 1RFEF - Grupo 2 Real Zaragoza - Huesca" group-title="1RFEF",21:00 1RFEF - Grupo 2 Real Zaragoza - Huesca
+acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
+#EXTINF:-1 tvg-name="21:00 ACB - Liga Regular iLERNA Lleida - Baskonia" group-title="ACB",21:00 ACB - Liga Regular iLERNA Lleida - Baskonia
+acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
+#EXTINF:-1 tvg-name="21:00 World Wide Technology Championship -  Jornada 3" group-title="World Wide Technology Championship",21:00 World Wide Technology Championship -  Jornada 3
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 tvg-name="21:30 Liga Argentina - Torneo Clausura Boca Juniors - Defensa y Justicia" group-title="Liga Argentina",21:30 Liga Argentina - Torneo Clausura Boca Juniors - Defensa y Justicia
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-name="00:00 UFC - UFC Fight Night W. Cortes Acosta - J. Walker" group-title="UFC",00:00 UFC - UFC Fight Night W. Cortes Acosta - J. Walker
+acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
+#EXTINF:-1 tvg-name="06:00 NCAA -  Programa libre M" group-title="NCAA",06:00 NCAA -  Programa libre M
+acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
+#EXTINF:-1 tvg-name="07:30 DP World Tour Championship -  Jornada 4" group-title="DP World Tour Championship",07:30 DP World Tour Championship -  Jornada 4
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 tvg-name="08:15 NCAA -  World Athletics Label Road Races" group-title="NCAA",08:15 NCAA -  World Athletics Label Road Races
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-name="09:20 Singapur Criterium -  By Le Tour de France" group-title="Singapur Criterium",09:20 Singapur Criterium -  By Le Tour de France
 acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd

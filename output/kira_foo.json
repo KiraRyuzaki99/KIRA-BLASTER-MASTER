@@ -1,38 +1,5 @@
 [
   {
-    "title": "PGA / LPGA Golf PGA Tour",
-    "category": "PGA / LPGA Golf",
-    "logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-    "start_iso": "2026-11-05T02:00:00.000Z",
-    "end_iso": "2026-11-09T02:30:00.000Z",
-    "date": "Thursday, 05 November 2026",
-    "time": "04:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/pga-lpga-golf",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/pga-lpga-golf/3454",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/pga-lpga-golf/3455",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Plymouth Parkway Berkhamsted",
     "category": "Plymouth Parkway",
     "logo": "https://cdn.img4every1.org/team/plymouth-parkway/logo.webp",

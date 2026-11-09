@@ -1,5 +1,28 @@
 [
   {
+    "title": "Snooker Champion of Champions Snooker",
+    "category": "Snooker Champion of Champions",
+    "logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+    "start_iso": "2026-11-09T12:45:00.000Z",
+    "end_iso": "2026-11-15T23:45:00.000Z",
+    "date": "Monday, 09 November 2026",
+    "time": "14:45",
+    "status": "live",
+    "event_url": "https://pogo.pk/events/snooker-champion-of-champions",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/snooker-champion-of-champions/3579",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
     "title": "Plymouth Parkway Berkhamsted",
     "category": "Plymouth Parkway",
     "logo": "https://cdn.img4every1.org/team/plymouth-parkway/logo.webp",
@@ -7,7 +30,7 @@
     "end_iso": "2026-11-09T21:45:00.000Z",
     "date": "Monday, 09 November 2026",
     "time": "21:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/plymouth-parkway-vs-berkhamsted",
     "servers": [
       {

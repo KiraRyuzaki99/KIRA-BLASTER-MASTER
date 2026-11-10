@@ -1,38 +1,110 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",21:30 - Plymouth Parkway vs Berkhamsted
-https://damitv.st/embed/?id=m401931098
+#EXTINF:-1 group-title="American-football",03:15 - Minnesota Vikings vs Buffalo Bills
+https://damitv.st/embed/?id=m401873051
 
-#EXTINF:-1 group-title="Football",21:30 - Plymouth Parkway vs Berkhamsted
-https://damitv.st/embed/?id=english-fa-cup%2F2026-11-09%2Fply-ber_540p
+#EXTINF:-1 group-title="American-football",03:15 - Minnesota Vikings vs Buffalo Bills
+https://damitv.st/embed/?id=nfl%2F2026-11-09%2Fbuf-min_540p
 
-#EXTINF:-1 group-title="24/7-streams",23:04 - NFL Network
+#EXTINF:-1 group-title="American-football",03:15 - Minnesota Vikings vs Buffalo Bills
+https://damitv.st/player/hls/?v=542&url=enc%3AOHUzbS5sZm4vcmIubW9jLml4YW1hcnV0YW1yb2YuMm5pbWRhLy86c3B0dGg%3D&name=HD%20Server
+
+#EXTINF:-1 group-title="American-football",03:15 - Minnesota Vikings vs Buffalo Bills
+https://damitv.st/player/hls/?v=542&url=enc%3AOHUzbS50bGFsZm4vcmIubW9jLml4YW1hcnV0YW1yb2YuMm5pbWRhLy86c3B0dGg%3D&name=HD%20Server%202
+
+#EXTINF:-1 group-title="American-football",03:15 - Minnesota Vikings vs Buffalo Bills
+https://damitv.st/player/hls/?v=542&url=enc%3AOHUzbS5ucHNlL3JiLm1vYy5peGFtYXJ1dGFtcm9mLjJuaW1kYS8vOnNwdHRo&name=HD%20Server%203
+
+#EXTINF:-1 group-title="Basketball",03:30 - Houston Rockets vs Denver Nuggets
+https://damitv.st/embed/?id=m401909957
+
+#EXTINF:-1 group-title="Basketball",03:30 - Houston Rockets vs Denver Nuggets
+https://damitv.st/embed/?id=nba%2F2026-11-09%2Fden-hou_540p
+
+#EXTINF:-1 group-title="Basketball",03:30 - Houston Rockets vs Denver Nuggets
+https://damitv.st/embed/?id=nba%2F2026-11-09%2Fden-hou%2Faway_540p
+
+#EXTINF:-1 group-title="Basketball",03:30 - Houston Rockets vs Denver Nuggets
+https://damitv.st/player/hls/?v=542&url=enc%3AOHUzbS42YWJuL3JiLm1vYy5peGFtYXJ1dGFtcm9mLjJuaW1kYS8vOnNwdHRo&name=HD%20Server
+
+#EXTINF:-1 group-title="Basketball",03:30 - Houston Rockets vs Denver Nuggets
+https://damitv.st/embed/?id=nba%2F2026-11-09%2Fden-hou%2Faway
+
+#EXTINF:-1 group-title="Basketball",04:00 - Phoenix Suns vs San Antonio Spurs
+https://damitv.st/embed/?id=m401909958
+
+#EXTINF:-1 group-title="Basketball",04:00 - Phoenix Suns vs San Antonio Spurs
+https://damitv.st/embed/?id=nba%2F2026-11-09%2Fsa-phx_540p
+
+#EXTINF:-1 group-title="Basketball",04:00 - Phoenix Suns vs San Antonio Spurs
+https://damitv.st/embed/?id=nba%2F2026-11-09%2Fsa-phx%2Faway_540p
+
+#EXTINF:-1 group-title="Basketball",04:00 - Phoenix Suns vs San Antonio Spurs
+https://damitv.st/player/hls/?v=542&url=enc%3AOHUzbS43YWJuL3JiLm1vYy5peGFtYXJ1dGFtcm9mLjJuaW1kYS8vOnNwdHRo&name=HD%20Server
+
+#EXTINF:-1 group-title="Basketball",04:00 - Phoenix Suns vs San Antonio Spurs
+https://damitv.st/embed/?id=nba%2F2026-11-09%2Fsa-phx%2Faway
+
+#EXTINF:-1 group-title="Basketball",05:00 - Golden State Warriors vs New Orleans Pelicans
+https://damitv.st/embed/?id=m401909959
+
+#EXTINF:-1 group-title="Basketball",05:00 - Golden State Warriors vs New Orleans Pelicans
+https://damitv.st/embed/?id=nba%2F2026-11-09%2Fno-gs_540p
+
+#EXTINF:-1 group-title="Basketball",05:00 - Golden State Warriors vs New Orleans Pelicans
+https://damitv.st/embed/?id=nba%2F2026-11-09%2Fno-gs%2Faway_540p
+
+#EXTINF:-1 group-title="Basketball",05:00 - Golden State Warriors vs New Orleans Pelicans
+https://damitv.st/player/hls/?v=542&url=enc%3AOHUzbS40YWJuL3JiLm1vYy5peGFtYXJ1dGFtcm9mLm9jc2VkZXQvLzpzcHR0aA%3D%3D&name=HD%20Server
+
+#EXTINF:-1 group-title="Basketball",05:00 - Golden State Warriors vs New Orleans Pelicans
+https://damitv.st/embed/?id=nba%2F2026-11-09%2Fno-gs%2Faway
+
+#EXTINF:-1 group-title="Hockey",04:30 - Vancouver Canucks vs Philadelphia Flyers
+https://damitv.st/embed/?id=m401892681
+
+#EXTINF:-1 group-title="Hockey",04:30 - Vancouver Canucks vs Philadelphia Flyers
+https://damitv.st/embed/?id=nhl%2F2026-11-09%2Fphi-van_540p
+
+#EXTINF:-1 group-title="Hockey",04:30 - Vancouver Canucks vs Philadelphia Flyers
+https://damitv.st/player/hls/?v=542&url=enc%3AOHUzbS4ybGhuL3JiLm1vYy5peGFtYXJ1dGFtcm9mLjJuaW1kYS8vOnNwdHRo&name=HD%20Server
+
+#EXTINF:-1 group-title="Hockey",05:00 - San Jose Sharks vs New York Islanders
+https://damitv.st/embed/?id=m401892682
+
+#EXTINF:-1 group-title="Hockey",05:00 - San Jose Sharks vs New York Islanders
+https://damitv.st/embed/?id=nhl%2F2026-11-09%2Fnyi-sj_540p
+
+#EXTINF:-1 group-title="Hockey",05:00 - San Jose Sharks vs New York Islanders
+https://damitv.st/player/hls/?v=542&url=enc%3AOHUzbS4zbGhuL3JiLm1vYy5peGFtYXJ1dGFtcm9mLjJuaW1kYS8vOnNwdHRo&name=HD%20Server
+
+#EXTINF:-1 group-title="24/7-streams",06:19 - NFL Network
 https://damitv.st/embed/?id=247-nfl-network
 
-#EXTINF:-1 group-title="24/7-streams",23:04 - Fox Footy
+#EXTINF:-1 group-title="24/7-streams",06:19 - Fox Footy
 https://damitv.st/embed/?id=247-247-fox-footy
 
-#EXTINF:-1 group-title="24/7-streams",23:04 - Willow
+#EXTINF:-1 group-title="24/7-streams",06:19 - Willow
 https://damitv.st/embed/?id=247-247-willow
 
-#EXTINF:-1 group-title="24/7-streams",23:04 - Fox Cricket
+#EXTINF:-1 group-title="24/7-streams",06:19 - Fox Cricket
 https://damitv.st/embed/?id=247-247-fox-cricket
 
-#EXTINF:-1 group-title="24/7-streams",23:04 - NHL Network
+#EXTINF:-1 group-title="24/7-streams",06:19 - NHL Network
 https://damitv.st/embed/?id=247-nhl-network-29780
 
-#EXTINF:-1 group-title="24/7-streams",23:04 - Fox League
+#EXTINF:-1 group-title="24/7-streams",06:19 - Fox League
 https://damitv.st/embed/?id=247-247-fox-league
 
-#EXTINF:-1 group-title="24/7-streams",23:04 - South Park
+#EXTINF:-1 group-title="24/7-streams",06:19 - South Park
 https://damitv.st/embed/?id=247-247-south-park
 
-#EXTINF:-1 group-title="24/7-streams",23:04 - Family Guy
+#EXTINF:-1 group-title="24/7-streams",06:19 - Family Guy
 https://damitv.st/embed/?id=247-247-family-guy
 
-#EXTINF:-1 group-title="24/7-streams",23:04 - The Simpsons
+#EXTINF:-1 group-title="24/7-streams",06:19 - The Simpsons
 https://damitv.st/embed/?id=247-247-the-simpsons
 
-#EXTINF:-1 group-title="24/7-streams",23:04 - Rally TV
+#EXTINF:-1 group-title="24/7-streams",06:19 - Rally TV
 https://damitv.st/embed/?id=247-rally-tv

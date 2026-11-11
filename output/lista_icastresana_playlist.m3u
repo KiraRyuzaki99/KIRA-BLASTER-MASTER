@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="19:00 Liga Fem -  At. Madrid Femenino - FC Badalona Women" group-title="Liga Fem",19:00 Liga Fem -  At. Madrid Femenino - FC Badalona Women
-acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-name="20:30 Segunda -  Sabadell - Real Sociedad B" group-title="Segunda",20:30 Segunda -  Sabadell - Real Sociedad B
-acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
-#EXTINF:-1 tvg-name="21:00 Liga Fem -  Deportivo Abanca - Valencia Féminas" group-title="Liga Fem",21:00 Liga Fem -  Deportivo Abanca - Valencia Féminas
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-name="02:15 NFL - Liga Regular Minnesota Vikings - Buffalo Bills" group-title="NFL",02:15 NFL - Liga Regular Minnesota Vikings - Buffalo Bills
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-name="16:00 1RFEF Fem -  Torreblanca Melilla - At. Navalcarnero FS" group-title="1RFEF Fem",16:00 1RFEF Fem -  Torreblanca Melilla - At. Navalcarnero FS
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-name="19:00 Copa - 1ª Ronda Anaitasuna CD - Alavés" group-title="Copa",19:00 Copa - 1ª Ronda Anaitasuna CD - Alavés
+acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1 tvg-name="19:00 Asobal -  Barça BM - Balonmano Caserío Ciudad Real" group-title="Asobal",19:00 Asobal -  Barça BM - Balonmano Caserío Ciudad Real
+acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
+#EXTINF:-1 tvg-name="20:30 Eurobasket Femenino - Fase de Clasificación España - República Checa" group-title="Eurobasket Femenino",20:30 Eurobasket Femenino - Fase de Clasificación España - República Checa
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-name="21:00 Copa - 1ª Ronda UE Tavernes - Valencia CF" group-title="Copa",21:00 Copa - 1ª Ronda UE Tavernes - Valencia CF
+acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38

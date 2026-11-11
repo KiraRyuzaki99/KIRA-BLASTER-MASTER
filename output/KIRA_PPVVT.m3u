@@ -1,17 +1,167 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Football – EFL Trophy",Oggi 19:00 - Mansfield Town vs. Chesterfield [HD | Sky Sports]
-https://august.ppvtv.icu/embed.html?match=f1kp27nb&server=0
+#EXTINF:-1 group-title="Basketball – College Basketball",Oggi 00:00 - Michigan State Spartans at Duke Blue Devils [HD | ESPN]
+https://august.ppvtv.icu/embed.html?match=crwrb6g&server=0
 
-#EXTINF:-1 group-title="Football – EFL Trophy",Oggi 19:00 - Mansfield Town vs. Chesterfield [SD | Sky Sports]
-https://august.ppvtv.icu/embed.html?match=f1kp27nb&server=1
+#EXTINF:-1 group-title="Basketball – College Basketball",Oggi 00:00 - Michigan State Spartans at Duke Blue Devils [SD | ESPN]
+https://august.ppvtv.icu/embed.html?match=crwrb6g&server=1
 
-#EXTINF:-1 group-title="Basketball – College Basketball",Oggi 23:00 - Florida Gators at Florida State Seminoles [HD | ESPN2]
-https://august.ppvtv.icu/embed.html?match=c3q2gzp&server=0
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 00:00 - Colorado Avalanche vs. Toronto Maple Leafs [HD | ESPN+]
+https://august.ppvtv.icu/embed.html?match=f1jfnwg&server=0
 
-#EXTINF:-1 group-title="Basketball – College Basketball",Oggi 23:00 - Florida Gators at Florida State Seminoles [SD | ESPN2]
-https://august.ppvtv.icu/embed.html?match=c3q2gzp&server=1
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 00:00 - Colorado Avalanche vs. Toronto Maple Leafs [SD | ESPN+]
+https://august.ppvtv.icu/embed.html?match=f1jfnwg&server=1
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 00:00 - Minnesota Wild vs. Montreal Canadiens [HD | ESPN+]
+https://august.ppvtv.icu/embed.html?match=fz82g7d&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 00:00 - Minnesota Wild vs. Montreal Canadiens [SD | ESPN+]
+https://august.ppvtv.icu/embed.html?match=fz82g7d&server=1
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 00:00 - Washington Capitals vs. Ottawa Senators [HD | ESPN+]
+https://august.ppvtv.icu/embed.html?match=fhajiqt&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 00:00 - Washington Capitals vs. Ottawa Senators [SD | ESPN+]
+https://august.ppvtv.icu/embed.html?match=fhajiqt&server=1
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 00:00 - New Jersey Devils vs. Winnipeg Jets [HD | ESPN+]
+https://august.ppvtv.icu/embed.html?match=frfomcj&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 00:00 - New Jersey Devils vs. Winnipeg Jets [SD | ESPN+]
+https://august.ppvtv.icu/embed.html?match=frfomcj&server=1
+
+#EXTINF:-1 group-title="Basketball – College Basketball",Oggi 00:15 - Memphis Tigers at Vanderbilt Commodores [HD | SECN+]
+https://august.ppvtv.icu/embed.html?match=c1jwsgo1&server=0
+
+#EXTINF:-1 group-title="Basketball – College Basketball",Oggi 00:15 - Memphis Tigers at Vanderbilt Commodores [SD | SECN+]
+https://august.ppvtv.icu/embed.html?match=c1jwsgo1&server=1
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 00:30 - Milwaukee Bucks vs. New York Knicks [HD | MyMi (Home)]
+https://august.ppvtv.icu/embed.html?match=f1qolcbk&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 00:30 - Milwaukee Bucks vs. New York Knicks [SD | MyMi (Home)]
+https://august.ppvtv.icu/embed.html?match=f1qolcbk&server=1
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 00:30 - Milwaukee Bucks vs. New York Knicks [HD | MyMi (Away)]
+https://august.ppvtv.icu/embed.html?match=f1qolcbk&server=2
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 00:30 - Milwaukee Bucks vs. New York Knicks [SD | MyMi (Away)]
+https://august.ppvtv.icu/embed.html?match=f1qolcbk&server=3
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 00:30 - Florida Panthers vs. Columbus Blue Jackets [HD | Disney+]
+https://august.ppvtv.icu/embed.html?match=f1r2cgas&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 00:30 - Florida Panthers vs. Columbus Blue Jackets [SD | Disney+]
+https://august.ppvtv.icu/embed.html?match=f1r2cgas&server=1
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 01:00 - Boston Celtics vs. Philadelphia 76ers [HD | NBC]
+https://august.ppvtv.icu/embed.html?match=fv9ea2s&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 01:00 - Boston Celtics vs. Philadelphia 76ers [SD | NBC]
+https://august.ppvtv.icu/embed.html?match=fv9ea2s&server=1
+
+#EXTINF:-1 group-title="Basketball – College Basketball",Oggi 01:00 - Illinois Fighting Illini at Texas Tech Red Raiders [HD | Peacock]
+https://august.ppvtv.icu/embed.html?match=c1aze7dl&server=0
+
+#EXTINF:-1 group-title="Basketball – College Basketball",Oggi 01:00 - Illinois Fighting Illini at Texas Tech Red Raiders [SD | Peacock]
+https://august.ppvtv.icu/embed.html?match=c1aze7dl&server=1
+
+#EXTINF:-1 group-title="Basketball – College Basketball",Oggi 01:00 - Southern Jaguars at Iowa State Cyclones [HD | ESPN+]
+https://august.ppvtv.icu/embed.html?match=c1jzs42p&server=0
+
+#EXTINF:-1 group-title="Basketball – College Basketball",Oggi 01:00 - Southern Jaguars at Iowa State Cyclones [SD | ESPN+]
+https://august.ppvtv.icu/embed.html?match=c1jzs42p&server=1
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 01:00 - Detroit Red Wings vs. St. Louis Blues [HD | TNT]
+https://august.ppvtv.icu/embed.html?match=f1slq9ln&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 01:00 - Detroit Red Wings vs. St. Louis Blues [SD | TNT]
+https://august.ppvtv.icu/embed.html?match=f1slq9ln&server=1
+
+#EXTINF:-1 group-title="Wrestling – Wrestling",Oggi 01:00 - WWE NXT [HD | CW on ESPN]
+https://august.ppvtv.icu/embed.html?match=c12z1szz&server=0
+
+#EXTINF:-1 group-title="Wrestling – Wrestling",Oggi 01:00 - WWE NXT [SD | CW on ESPN]
+https://august.ppvtv.icu/embed.html?match=c12z1szz&server=1
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 02:00 - LA Clippers vs. Phoenix Suns [HD | Suns Live (Home)]
+https://august.ppvtv.icu/embed.html?match=f1y3rmmd&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 02:00 - LA Clippers vs. Phoenix Suns [SD | Suns Live (Home)]
+https://august.ppvtv.icu/embed.html?match=f1y3rmmd&server=1
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 02:00 - LA Clippers vs. Phoenix Suns [HD | ClipperVision (Away)]
+https://august.ppvtv.icu/embed.html?match=f1y3rmmd&server=2
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 02:00 - LA Clippers vs. Phoenix Suns [SD | ClipperVision (Away)]
+https://august.ppvtv.icu/embed.html?match=f1y3rmmd&server=3
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 02:00 - Miami Heat vs. Utah Jazz [HD | KJZZ-TV (Home)]
+https://august.ppvtv.icu/embed.html?match=f3vhajo&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 02:00 - Miami Heat vs. Utah Jazz [SD | KJZZ-TV (Home)]
+https://august.ppvtv.icu/embed.html?match=f3vhajo&server=1
+
+#EXTINF:-1 group-title="Basketball – College Basketball",Oggi 02:00 - Northern Arizona Lumberjacks at Arizona Wildcats [HD | ESPN+]
+https://august.ppvtv.icu/embed.html?match=c1exu2h3&server=0
+
+#EXTINF:-1 group-title="Basketball – College Basketball",Oggi 02:00 - Northern Arizona Lumberjacks at Arizona Wildcats [SD | ESPN+]
+https://august.ppvtv.icu/embed.html?match=c1exu2h3&server=1
+
+#EXTINF:-1 group-title="Basketball – College Basketball",Oggi 02:00 - Bucknell Bison at Virginia Cavaliers [HD | ACC Network]
+https://august.ppvtv.icu/embed.html?match=cd3hn19&server=0
+
+#EXTINF:-1 group-title="Basketball – College Basketball",Oggi 02:00 - Bucknell Bison at Virginia Cavaliers [SD | ACC Network]
+https://august.ppvtv.icu/embed.html?match=cd3hn19&server=1
+
+#EXTINF:-1 group-title="Basketball – College Basketball",Oggi 02:00 - Queens University Royals at BYU Cougars [HD | ESPN+]
+https://august.ppvtv.icu/embed.html?match=c9ik950&server=0
+
+#EXTINF:-1 group-title="Basketball – College Basketball",Oggi 02:00 - Queens University Royals at BYU Cougars [SD | ESPN+]
+https://august.ppvtv.icu/embed.html?match=c9ik950&server=1
+
+#EXTINF:-1 group-title="Basketball – College Basketball",Oggi 02:30 - Kansas Jayhawks at Kentucky Wildcats [HD | ESPN]
+https://august.ppvtv.icu/embed.html?match=cnecmpl&server=0
+
+#EXTINF:-1 group-title="Basketball – College Basketball",Oggi 02:30 - Kansas Jayhawks at Kentucky Wildcats [SD | ESPN]
+https://august.ppvtv.icu/embed.html?match=cnecmpl&server=1
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 03:00 - Orlando Magic vs. Sacramento Kings [HD | NBA League Pass (Home)]
+https://august.ppvtv.icu/embed.html?match=f2154ih&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 03:00 - Orlando Magic vs. Sacramento Kings [SD | NBA League Pass (Home)]
+https://august.ppvtv.icu/embed.html?match=f2154ih&server=1
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 03:00 - Nashville Predators vs. Los Angeles Kings [HD | Disney+]
+https://august.ppvtv.icu/embed.html?match=frs2mw&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Oggi 03:00 - Nashville Predators vs. Los Angeles Kings [SD | Disney+]
+https://august.ppvtv.icu/embed.html?match=frs2mw&server=1
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 04:00 - Oklahoma City Thunder vs. Portland Trail Blazers [HD | NBC]
+https://august.ppvtv.icu/embed.html?match=fwuh9bi&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 04:00 - Oklahoma City Thunder vs. Portland Trail Blazers [SD | NBC]
+https://august.ppvtv.icu/embed.html?match=fwuh9bi&server=1
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 04:00 - Oklahoma City Thunder vs. Portland Trail Blazers [HD | KSBI (Away)]
+https://august.ppvtv.icu/embed.html?match=fwuh9bi&server=2
+
+#EXTINF:-1 group-title="Basketball – NBA",Oggi 04:00 - Oklahoma City Thunder vs. Portland Trail Blazers [SD | KSBI (Away)]
+https://august.ppvtv.icu/embed.html?match=fwuh9bi&server=3
+
+#EXTINF:-1 group-title="Basketball – NBL",Oggi 08:30 - South East Melbourne Phoenix vs. Illawarra Hawks [HD | ESPN]
+https://august.ppvtv.icu/embed.html?match=fapzxyo&server=0
+
+#EXTINF:-1 group-title="Basketball – NBL",Oggi 08:30 - South East Melbourne Phoenix vs. Illawarra Hawks [SD | ESPN]
+https://august.ppvtv.icu/embed.html?match=fapzxyo&server=1
+
+#EXTINF:-1 group-title="Football – EFL Trophy",Oggi 19:00 - Barnsley vs. Oldham Athletic [HD | Sky Sports]
+https://august.ppvtv.icu/embed.html?match=f15gkk8f&server=0
+
+#EXTINF:-1 group-title="Football – EFL Trophy",Oggi 19:00 - Barnsley vs. Oldham Athletic [SD | Sky Sports]
+https://august.ppvtv.icu/embed.html?match=f15gkk8f&server=1
 
 #EXTINF:-1 group-title="American Football – 24/7 channel",Oggi N/A - NFL Network [HD | NFL Network (ESPN)]
 https://august.ppvtv.icu/embed.html?match=c15q87wa&server=0
@@ -73,12 +223,6 @@ https://august.ppvtv.icu/embed.html?match=c1ed9edx&server=0
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Oggi N/A - 24/7 South Park [SD | 24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1ed9edx&server=1
 
-#EXTINF:-1 group-title="Basketball – College Basketball",Domani 00:00 - Michigan State Spartans at Duke Blue Devils [HD | ESPN]
-https://august.ppvtv.icu/embed.html?match=crwrb6g&server=0
-
-#EXTINF:-1 group-title="Basketball – College Basketball",Domani 00:00 - Michigan State Spartans at Duke Blue Devils [SD | ESPN]
-https://august.ppvtv.icu/embed.html?match=crwrb6g&server=1
-
 #EXTINF:-1 group-title="Basketball – NBA",Domani 00:00 - Washington Wizards vs. Indiana Pacers [HD | Home]
 https://august.ppvtv.icu/embed.html?match=falwxow&server=0
 
@@ -115,30 +259,6 @@ https://august.ppvtv.icu/embed.html?match=cjh4n2v&server=0
 #EXTINF:-1 group-title="Basketball – College Basketball",Domani 00:00 - Marquette Golden Eagles at Michigan Wolverines [SD | FS1]
 https://august.ppvtv.icu/embed.html?match=cjh4n2v&server=1
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Colorado Avalanche vs. Toronto Maple Leafs [HD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=f1jfnwg&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Colorado Avalanche vs. Toronto Maple Leafs [SD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=f1jfnwg&server=1
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Minnesota Wild vs. Montreal Canadiens [HD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=fz82g7d&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Minnesota Wild vs. Montreal Canadiens [SD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=fz82g7d&server=1
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Washington Capitals vs. Ottawa Senators [HD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=fhajiqt&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - Washington Capitals vs. Ottawa Senators [SD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=fhajiqt&server=1
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - New Jersey Devils vs. Winnipeg Jets [HD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=frfomcj&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:00 - New Jersey Devils vs. Winnipeg Jets [SD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=frfomcj&server=1
-
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 00:00 - 24/7 SpongeBob Squarepants [HD | 24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c10yqzo0&server=0
 
@@ -166,12 +286,6 @@ https://august.ppvtv.icu/embed.html?match=cljhyd2&server=0
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 00:00 - Fox News [SD | Fox News]
 https://august.ppvtv.icu/embed.html?match=cljhyd2&server=1
 
-#EXTINF:-1 group-title="Basketball – College Basketball",Domani 00:15 - Memphis Tigers at Vanderbilt Commodores [HD | SECN+]
-https://august.ppvtv.icu/embed.html?match=c1jwsgo1&server=0
-
-#EXTINF:-1 group-title="Basketball – College Basketball",Domani 00:15 - Memphis Tigers at Vanderbilt Commodores [SD | SECN+]
-https://august.ppvtv.icu/embed.html?match=c1jwsgo1&server=1
-
 #EXTINF:-1 group-title="American Football – College Football",Domani 00:30 - Utah Utes at Arizona Wildcats [HD | Fox]
 https://august.ppvtv.icu/embed.html?match=c1wq0xor&server=0
 
@@ -196,47 +310,11 @@ https://august.ppvtv.icu/embed.html?match=c1qg8qy3&server=0
 #EXTINF:-1 group-title="American Football – College Football",Domani 00:30 - Purdue Boilermakers at Iowa Hawkeyes [SD | NBC]
 https://august.ppvtv.icu/embed.html?match=c1qg8qy3&server=1
 
-#EXTINF:-1 group-title="Basketball – NBA",Domani 00:30 - Milwaukee Bucks vs. New York Knicks [HD | MyMi (Home)]
-https://august.ppvtv.icu/embed.html?match=f1qolcbk&server=0
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 00:30 - Milwaukee Bucks vs. New York Knicks [SD | MyMi (Home)]
-https://august.ppvtv.icu/embed.html?match=f1qolcbk&server=1
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 00:30 - Milwaukee Bucks vs. New York Knicks [HD | MyMi (Away)]
-https://august.ppvtv.icu/embed.html?match=f1qolcbk&server=2
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 00:30 - Milwaukee Bucks vs. New York Knicks [SD | MyMi (Away)]
-https://august.ppvtv.icu/embed.html?match=f1qolcbk&server=3
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:30 - Florida Panthers vs. Columbus Blue Jackets [HD | Disney+]
-https://august.ppvtv.icu/embed.html?match=f1r2cgas&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:30 - Florida Panthers vs. Columbus Blue Jackets [SD | Disney+]
-https://august.ppvtv.icu/embed.html?match=f1r2cgas&server=1
-
 #EXTINF:-1 group-title="American Football – College Football",Domani 00:45 - South Carolina Gamecocks at Arkansas Razorbacks [HD | SEC Network]
 https://august.ppvtv.icu/embed.html?match=c1y5w2qa&server=0
 
 #EXTINF:-1 group-title="American Football – College Football",Domani 00:45 - South Carolina Gamecocks at Arkansas Razorbacks [SD | SEC Network]
 https://august.ppvtv.icu/embed.html?match=c1y5w2qa&server=1
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 01:00 - Boston Celtics vs. Philadelphia 76ers [HD | NBC]
-https://august.ppvtv.icu/embed.html?match=fv9ea2s&server=0
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 01:00 - Boston Celtics vs. Philadelphia 76ers [SD | NBC]
-https://august.ppvtv.icu/embed.html?match=fv9ea2s&server=1
-
-#EXTINF:-1 group-title="Basketball – College Basketball",Domani 01:00 - Illinois Fighting Illini at Texas Tech Red Raiders [HD | Peacock]
-https://august.ppvtv.icu/embed.html?match=c1aze7dl&server=0
-
-#EXTINF:-1 group-title="Basketball – College Basketball",Domani 01:00 - Illinois Fighting Illini at Texas Tech Red Raiders [SD | Peacock]
-https://august.ppvtv.icu/embed.html?match=c1aze7dl&server=1
-
-#EXTINF:-1 group-title="Basketball – College Basketball",Domani 01:00 - Southern Jaguars at Iowa State Cyclones [HD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=c1jzs42p&server=0
-
-#EXTINF:-1 group-title="Basketball – College Basketball",Domani 01:00 - Southern Jaguars at Iowa State Cyclones [SD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=c1jzs42p&server=1
 
 #EXTINF:-1 group-title="Basketball – NBA",Domani 01:00 - San Antonio Spurs vs. Chicago Bulls [HD | Home]
 https://august.ppvtv.icu/embed.html?match=fmsc10p&server=0
@@ -292,18 +370,6 @@ https://august.ppvtv.icu/embed.html?match=c1g6bne3&server=0
 #EXTINF:-1 group-title="Basketball – College Basketball",Domani 01:00 - Robert Morris Colonials at Arkansas Razorbacks [SD | SECN+]
 https://august.ppvtv.icu/embed.html?match=c1g6bne3&server=1
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 01:00 - Detroit Red Wings vs. St. Louis Blues [HD | TNT]
-https://august.ppvtv.icu/embed.html?match=f1slq9ln&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 01:00 - Detroit Red Wings vs. St. Louis Blues [SD | TNT]
-https://august.ppvtv.icu/embed.html?match=f1slq9ln&server=1
-
-#EXTINF:-1 group-title="Wrestling – Wrestling",Domani 01:00 - WWE NXT [HD | CW on ESPN]
-https://august.ppvtv.icu/embed.html?match=c12z1szz&server=0
-
-#EXTINF:-1 group-title="Wrestling – Wrestling",Domani 01:00 - WWE NXT [SD | CW on ESPN]
-https://august.ppvtv.icu/embed.html?match=c12z1szz&server=1
-
 #EXTINF:-1 group-title="Wrestling – Wrestling",Domani 01:00 - AEW Wednesday Night Dynamite [HD | TBS]
 https://august.ppvtv.icu/embed.html?match=c9mnosy&server=0
 
@@ -346,42 +412,6 @@ https://august.ppvtv.icu/embed.html?match=c1nhgo2t&server=0
 #EXTINF:-1 group-title="American Football – College Football",Domani 02:00 - Illinois Fighting Illini at UCLA Bruins [SD | Fox]
 https://august.ppvtv.icu/embed.html?match=c1nhgo2t&server=1
 
-#EXTINF:-1 group-title="Basketball – NBA",Domani 02:00 - LA Clippers vs. Phoenix Suns [HD | Suns Live (Home)]
-https://august.ppvtv.icu/embed.html?match=f1y3rmmd&server=0
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 02:00 - LA Clippers vs. Phoenix Suns [SD | Suns Live (Home)]
-https://august.ppvtv.icu/embed.html?match=f1y3rmmd&server=1
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 02:00 - LA Clippers vs. Phoenix Suns [HD | ClipperVision (Away)]
-https://august.ppvtv.icu/embed.html?match=f1y3rmmd&server=2
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 02:00 - LA Clippers vs. Phoenix Suns [SD | ClipperVision (Away)]
-https://august.ppvtv.icu/embed.html?match=f1y3rmmd&server=3
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 02:00 - Miami Heat vs. Utah Jazz [HD | KJZZ-TV (Home)]
-https://august.ppvtv.icu/embed.html?match=f3vhajo&server=0
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 02:00 - Miami Heat vs. Utah Jazz [SD | KJZZ-TV (Home)]
-https://august.ppvtv.icu/embed.html?match=f3vhajo&server=1
-
-#EXTINF:-1 group-title="Basketball – College Basketball",Domani 02:00 - Northern Arizona Lumberjacks at Arizona Wildcats [HD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=c1exu2h3&server=0
-
-#EXTINF:-1 group-title="Basketball – College Basketball",Domani 02:00 - Northern Arizona Lumberjacks at Arizona Wildcats [SD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=c1exu2h3&server=1
-
-#EXTINF:-1 group-title="Basketball – College Basketball",Domani 02:00 - Bucknell Bison at Virginia Cavaliers [HD | ACC Network]
-https://august.ppvtv.icu/embed.html?match=cd3hn19&server=0
-
-#EXTINF:-1 group-title="Basketball – College Basketball",Domani 02:00 - Bucknell Bison at Virginia Cavaliers [SD | ACC Network]
-https://august.ppvtv.icu/embed.html?match=cd3hn19&server=1
-
-#EXTINF:-1 group-title="Basketball – College Basketball",Domani 02:00 - Queens University Royals at BYU Cougars [HD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=c9ik950&server=0
-
-#EXTINF:-1 group-title="Basketball – College Basketball",Domani 02:00 - Queens University Royals at BYU Cougars [SD | ESPN+]
-https://august.ppvtv.icu/embed.html?match=c9ik950&server=1
-
 #EXTINF:-1 group-title="Basketball – NBA",Domani 02:00 - Orlando Magic vs. Utah Jazz [HD | Home]
 https://august.ppvtv.icu/embed.html?match=f1fb7n83&server=0
 
@@ -418,23 +448,11 @@ https://august.ppvtv.icu/embed.html?match=ckbz8hy&server=2
 #EXTINF:-1 group-title="American Football – College Football",Domani 02:30 - Texas Tech Red Raiders at Oklahoma State Cowboys [SD | SkyCast]
 https://august.ppvtv.icu/embed.html?match=ckbz8hy&server=3
 
-#EXTINF:-1 group-title="Basketball – College Basketball",Domani 02:30 - Kansas Jayhawks at Kentucky Wildcats [HD | ESPN]
-https://august.ppvtv.icu/embed.html?match=cnecmpl&server=0
-
-#EXTINF:-1 group-title="Basketball – College Basketball",Domani 02:30 - Kansas Jayhawks at Kentucky Wildcats [SD | ESPN]
-https://august.ppvtv.icu/embed.html?match=cnecmpl&server=1
-
 #EXTINF:-1 group-title="Basketball – NBA",Domani 02:30 - Golden State Warriors vs. Houston Rockets [HD | ESPN]
 https://august.ppvtv.icu/embed.html?match=ftkygxw&server=0
 
 #EXTINF:-1 group-title="Basketball – NBA",Domani 02:30 - Golden State Warriors vs. Houston Rockets [SD | ESPN]
 https://august.ppvtv.icu/embed.html?match=ftkygxw&server=1
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 03:00 - Orlando Magic vs. Sacramento Kings [HD | NBA League Pass (Home)]
-https://august.ppvtv.icu/embed.html?match=f2154ih&server=0
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 03:00 - Orlando Magic vs. Sacramento Kings [SD | NBA League Pass (Home)]
-https://august.ppvtv.icu/embed.html?match=f2154ih&server=1
 
 #EXTINF:-1 group-title="Basketball – NBA",Domani 03:00 - Oklahoma City Thunder vs. Portland Trail Blazers [HD | Home]
 https://august.ppvtv.icu/embed.html?match=fwuh9bi&server=0
@@ -448,12 +466,6 @@ https://august.ppvtv.icu/embed.html?match=fwuh9bi&server=2
 #EXTINF:-1 group-title="Basketball – NBA",Domani 03:00 - Oklahoma City Thunder vs. Portland Trail Blazers [SD | Away]
 https://august.ppvtv.icu/embed.html?match=fwuh9bi&server=3
 
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 03:00 - Nashville Predators vs. Los Angeles Kings [HD | Disney+]
-https://august.ppvtv.icu/embed.html?match=frs2mw&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 03:00 - Nashville Predators vs. Los Angeles Kings [SD | Disney+]
-https://august.ppvtv.icu/embed.html?match=frs2mw&server=1
-
 #EXTINF:-1 group-title="American Football – College Football",Domani 03:15 - Houston Cougars at Colorado Buffaloes [HD | ESPN]
 https://august.ppvtv.icu/embed.html?match=cg7pwsx&server=0
 
@@ -465,18 +477,6 @@ https://august.ppvtv.icu/embed.html?match=cg7pwsx&server=2
 
 #EXTINF:-1 group-title="American Football – College Football",Domani 03:15 - Houston Cougars at Colorado Buffaloes [SD | SkyCast]
 https://august.ppvtv.icu/embed.html?match=cg7pwsx&server=3
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 04:00 - Oklahoma City Thunder vs. Portland Trail Blazers [HD | NBC]
-https://august.ppvtv.icu/embed.html?match=fwuh9bi&server=0
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 04:00 - Oklahoma City Thunder vs. Portland Trail Blazers [SD | NBC]
-https://august.ppvtv.icu/embed.html?match=fwuh9bi&server=1
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 04:00 - Oklahoma City Thunder vs. Portland Trail Blazers [HD | KSBI (Away)]
-https://august.ppvtv.icu/embed.html?match=fwuh9bi&server=2
-
-#EXTINF:-1 group-title="Basketball – NBA",Domani 04:00 - Oklahoma City Thunder vs. Portland Trail Blazers [SD | KSBI (Away)]
-https://august.ppvtv.icu/embed.html?match=fwuh9bi&server=3
 
 #EXTINF:-1 group-title="Basketball – College Basketball",Domani 04:00 - USC Trojans at California Golden Bears [HD | ESPN2]
 https://august.ppvtv.icu/embed.html?match=c13fv57j&server=0
@@ -495,12 +495,6 @@ https://august.ppvtv.icu/embed.html?match=c418ukt&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 08:00 - 24/7 Family Guy [SD | 24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c418ukt&server=1
-
-#EXTINF:-1 group-title="Basketball – NBL",Domani 08:30 - South East Melbourne Phoenix vs. Illawarra Hawks [HD | ESPN]
-https://august.ppvtv.icu/embed.html?match=fapzxyo&server=0
-
-#EXTINF:-1 group-title="Basketball – NBL",Domani 08:30 - South East Melbourne Phoenix vs. Illawarra Hawks [SD | ESPN]
-https://august.ppvtv.icu/embed.html?match=fapzxyo&server=1
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 10:28 - 24/7 The Simpsons [HD | 24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1j7a3d7&server=0

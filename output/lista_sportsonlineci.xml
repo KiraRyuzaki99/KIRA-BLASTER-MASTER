@@ -1,48 +1,6 @@
 <?xml version="1.0" ?>
 <playlist version="1">
   <track>
-    <title>20:00 Tavernes x Valencia</title>
-    <url>https://sportsoonline.click/channels/hd/hd6.php</url>
-    <url>https://sportsoonline.click/channels/bra/br3.php</url>
-  </track>
-  <track>
-    <title>20:00 PSG W x Bayern W</title>
-    <url>https://sportsoonline.click/channels/hd/hd10.php</url>
-    <url>https://sportsoonline.click/channels/hd/hd9.php</url>
-    <url>https://sportsoonline.click/channels/bra/br2.php</url>
-  </track>
-  <track>
-    <title>20:00 Roma W x Servette Chênois W</title>
-    <url>https://sportsoonline.click/channels/hd/hd11.php</url>
-  </track>
-  <track>
-    <title>20:00 Internazionale W x Manchester City W</title>
-    <url>https://sportsoonline.click/channels/hd/hd8.php</url>
-    <url>https://sportsoonline.click/channels/bra/br6.php</url>
-  </track>
-  <track>
-    <title>23:30 Inter Bogotá x América de Cali</title>
-    <url>https://sportsoonline.click/channels/hd/hd11.php</url>
-    <url>https://sportsoonline.click/channels/hd/hd11.php</url>
-  </track>
-  <track>
-    <title>00:00 NHL: Minnesota Wild @ Montreal Canadiens</title>
-    <url>https://sportsoonline.click/channels/pt/sporttv2.php</url>
-  </track>
-  <track>
-    <title>01:00 NBA: Boston Celtics @ Philadelphia 76ers</title>
-    <url>https://sportsoonline.click/channels/pt/sporttv1.php</url>
-  </track>
-  <track>
-    <title>01:30 Once Caldas x Atlético Nacional</title>
-    <url>https://sportsoonline.click/channels/hd/hd11.php</url>
-    <url>https://sportsoonline.click/channels/hd/hd11.php</url>
-  </track>
-  <track>
-    <title>04:00 NBA: Oklahoam City Thunder @ Portland Trail Blazers</title>
-    <url>https://sportsoonline.click/channels/pt/sporttv1.php</url>
-  </track>
-  <track>
     <title>12:00 Tennis: ATP World Tour 250: Stockholm</title>
     <url>https://sportsoonline.click/channels/pt/sporttv3.php</url>
   </track>
@@ -77,6 +35,10 @@
     <url>https://sportsoonline.click/channels/hd/hd5.php</url>
   </track>
   <track>
+    <title>23:30 Inter Bogotá x América de Cali</title>
+    <url>https://sportsoonline.click/channels/hd/hd11.php</url>
+  </track>
+  <track>
     <title>00:00 Tennis: WTA Finals: Day 4 Doubles</title>
     <url>https://sportsoonline.click/channels/hd/hd1.php</url>
   </track>
@@ -90,6 +52,10 @@
     <url>https://sportsoonline.click/channels/pt/sporttv1.php</url>
   </track>
   <track>
+    <title>01:30 Once Caldas x Atlético Nacional</title>
+    <url>https://sportsoonline.click/channels/hd/hd11.php</url>
+  </track>
+  <track>
     <title>02:30 NBA: Golden State Warriors @ Houston Rockets</title>
     <url>https://sportsoonline.click/channels/hd/hd2.php</url>
     <url>https://sportsoonline.click/channels/bra/br3.php</url>
@@ -99,14 +65,6 @@
     <url>https://sportsoonline.click/channels/pt/sporttv1.php</url>
   </track>
   <additional>
-    <item>HD6 SPANISH</item>
-    <item>HD8 ARABIC</item>
-    <item>HD9 SPANISH</item>
-    <item>HD10 ENGLISH</item>
-    <item>HD11 GERMAN &amp; SPANISH</item>
-    <item>BR2 BRAZILIAN</item>
-    <item>BR3 BRAZILIAN</item>
-    <item>BR6 BRAZILIAN</item>
     <item>HD1 ENGLISH</item>
     <item>HD2 ENGLISH</item>
     <item>HD4 SPANISH</item>

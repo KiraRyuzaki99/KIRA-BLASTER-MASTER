@@ -23,128 +23,67 @@
     ]
   },
   {
-    "title": "Turkiye Belgium",
-    "category": "Turkiye",
-    "logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
-    "start_iso": "2026-11-12T17:00:00.000Z",
-    "end_iso": "2026-11-12T19:15:00.000Z",
-    "date": "Thursday, 12 November 2026",
+    "title": "Kazakhstan Moldova",
+    "category": "Kazakhstan",
+    "logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
+    "start_iso": "2026-11-13T17:00:00.000Z",
+    "end_iso": "2026-11-13T19:15:00.000Z",
+    "date": "Friday, 13 November 2026",
     "time": "19:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/turkey-vs-belgium",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/turkey-vs-belgium/3580",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/turkey-vs-belgium/3582",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
+    "status": "next",
+    "event_url": "https://pogo.pk/events/kazakhstan-vs-moldova",
+    "servers": []
   },
   {
-    "title": "Armenia Cyprus",
-    "category": "Armenia",
-    "logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
-    "start_iso": "2026-11-12T17:00:00.000Z",
-    "end_iso": "2026-11-12T19:15:00.000Z",
-    "date": "Thursday, 12 November 2026",
-    "time": "19:00",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/armenia-vs-cyprus",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/armenia-vs-cyprus/3583",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/armenia-vs-cyprus/3585",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "England Croatia",
-    "category": "England",
-    "logo": "https://cdn.img4every1.org/team/england/logo.webp",
-    "start_iso": "2026-11-12T19:45:00.000Z",
-    "end_iso": "2026-11-12T22:00:00.000Z",
-    "date": "Thursday, 12 November 2026",
+    "title": "Azerbaijan Liechtenstein",
+    "category": "Azerbaijan",
+    "logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
+    "start_iso": "2026-11-13T19:45:00.000Z",
+    "end_iso": "2026-11-13T22:00:00.000Z",
+    "date": "Friday, 13 November 2026",
     "time": "21:45",
     "status": "next",
-    "event_url": "https://pogo.pk/events/england-vs-croatia",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/england-vs-croatia/3589",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/england-vs-croatia/3590",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Portuguese",
-        "url": "https://playerdee.top/alpha/england-vs-croatia/3591",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
-        }
-      }
-    ]
+    "event_url": "https://pogo.pk/events/azerbaijan-vs-liechtenstein",
+    "servers": []
   },
   {
-    "title": "Latvia Montenegro",
-    "category": "Latvia",
-    "logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
-    "start_iso": "2026-11-12T19:45:00.000Z",
-    "end_iso": "2026-11-12T22:00:00.000Z",
-    "date": "Thursday, 12 November 2026",
+    "title": "Germany Serbia",
+    "category": "Germany",
+    "logo": "https://cdn.img4every1.org/team/germany/logo.webp",
+    "start_iso": "2026-11-13T19:45:00.000Z",
+    "end_iso": "2026-11-13T22:00:00.000Z",
+    "date": "Friday, 13 November 2026",
     "time": "21:45",
     "status": "next",
-    "event_url": "https://pogo.pk/events/latvia-vs-montenegro",
+    "event_url": "https://pogo.pk/events/germany-vs-serbia",
+    "servers": []
+  },
+  {
+    "title": "Netherlands Greece",
+    "category": "Netherlands",
+    "logo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
+    "start_iso": "2026-11-13T19:45:00.000Z",
+    "end_iso": "2026-11-13T22:00:00.000Z",
+    "date": "Friday, 13 November 2026",
+    "time": "21:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/netherlands-vs-greece",
+    "servers": []
+  },
+  {
+    "title": "Scotland North Macedonia",
+    "category": "Scotland",
+    "logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+    "start_iso": "2026-11-13T19:45:00.000Z",
+    "end_iso": "2026-11-13T22:00:00.000Z",
+    "date": "Friday, 13 November 2026",
+    "time": "21:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/scotland-vs-north-macedonia",
     "servers": [
       {
         "label": "English",
-        "url": "https://playerdee.top/alpha/latvia-vs-montenegro/3595",
+        "url": "https://playerdee.top/alpha/scotland-vs-north-macedonia/3606",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -155,166 +94,16 @@
     ]
   },
   {
-    "title": "Albania Finland",
-    "category": "Albania",
-    "logo": "https://cdn.img4every1.org/team/albania/logo.webp",
-    "start_iso": "2026-11-12T19:45:00.000Z",
-    "end_iso": "2026-11-12T22:00:00.000Z",
-    "date": "Thursday, 12 November 2026",
+    "title": "Switzerland Slovenia",
+    "category": "Switzerland",
+    "logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
+    "start_iso": "2026-11-13T19:45:00.000Z",
+    "end_iso": "2026-11-13T22:00:00.000Z",
+    "date": "Friday, 13 November 2026",
     "time": "21:45",
     "status": "next",
-    "event_url": "https://pogo.pk/events/albania-vs-finland",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/albania-vs-finland/3596",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Portuguese",
-        "url": "https://playerdee.top/alpha/albania-vs-finland/3597",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Belarus San Marino",
-    "category": "Belarus",
-    "logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
-    "start_iso": "2026-11-12T19:45:00.000Z",
-    "end_iso": "2026-11-12T22:00:00.000Z",
-    "date": "Thursday, 12 November 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/belarus-vs-san-marino",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/belarus-vs-san-marino/3598",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Spain Czechia",
-    "category": "Spain",
-    "logo": "https://cdn.img4every1.org/team/spain/logo.webp",
-    "start_iso": "2026-11-12T19:45:00.000Z",
-    "end_iso": "2026-11-12T22:00:00.000Z",
-    "date": "Thursday, 12 November 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/spain-vs-czechia",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/spain-vs-czechia/3584",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/spain-vs-czechia/3592",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://playerdee.top/alpha/spain-vs-czechia/3593",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      },
-      {
-        "label": "Portuguese",
-        "url": "https://playerdee.top/alpha/spain-vs-czechia/3594",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Italy France",
-    "category": "Italy",
-    "logo": "https://cdn.img4every1.org/team/italy/logo.webp",
-    "start_iso": "2026-11-12T19:45:00.000Z",
-    "end_iso": "2026-11-12T22:00:00.000Z",
-    "date": "Thursday, 12 November 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/italy-vs-france",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/italy-vs-france/3581",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/italy-vs-france/3586",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Français",
-        "url": "https://playerdee.top/alpha/italy-vs-france/3587",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Français"
-        }
-      },
-      {
-        "label": "Italiano",
-        "url": "https://playerdee.top/alpha/italy-vs-france/3588",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Italiano"
-        }
-      }
-    ]
+    "event_url": "https://pogo.pk/events/switzerland-vs-slovenia",
+    "servers": []
   },
   {
     "title": "France South Africa",
@@ -338,6 +127,30 @@
         }
       }
     ]
+  },
+  {
+    "title": "Argentina Uruguay",
+    "category": "Argentina",
+    "logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
+    "start_iso": "2026-11-13T23:00:00.000Z",
+    "end_iso": "2026-11-14T01:15:00.000Z",
+    "date": "Saturday, 14 November 2026",
+    "time": "01:00",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/argentina-vs-uruguay",
+    "servers": []
+  },
+  {
+    "title": "Brazil Japan",
+    "category": "Brazil",
+    "logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
+    "start_iso": "2026-11-14T10:15:00.000Z",
+    "end_iso": "2026-11-14T12:30:00.000Z",
+    "date": "Saturday, 14 November 2026",
+    "time": "12:15",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/brazil-vs-japan",
+    "servers": []
   },
   {
     "title": "Italy Argentina",

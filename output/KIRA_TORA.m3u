@@ -1,29 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Cricket",05:53 - India vs New Zealand
-https://damitv.st/player/hls/?v=542&ppv=247-247-willow&name=Willow
+#EXTINF:-1 group-title="Cricket",08:00 - afghanistan vs zimbabwe
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F8afdcdd622.m3u8&name=TNT%20Sports%201%20UK
 
-#EXTINF:-1 group-title="Cricket",05:53 - England vs Australia
-https://damitv.st/player/hls/?v=542&ppv=247-247-fox-cricket&name=Fox%20Cricket
+#EXTINF:-1 group-title="Motor-sports",15:55 - Asian Le Mans Cup R1: Ql
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F87cad238ba.m3u8&name=Sky%20Sport%202%20NZ
 
-#EXTINF:-1 group-title="Basketball",08:30 - New Zealand Breakers vs Brisbane Bullets
-https://damitv.st/embed/?id=m401875310
-
-#EXTINF:-1 group-title="Basketball",08:30 - New Zealand Breakers vs Brisbane Bullets
-https://damitv.st/embed/?id=nbl%2F2026-11-13%2Fnzl-bri_540p
-
-#EXTINF:-1 group-title="Basketball",10:30 - Cairns Taipans vs Sydney Kings
-https://damitv.st/embed/?id=m401875299
-
-#EXTINF:-1 group-title="Basketball",10:30 - Cairns Taipans vs Sydney Kings
-https://damitv.st/embed/?id=nbl%2F2026-11-13%2Fcns-syd_540p
-
-#EXTINF:-1 group-title="Basketball",00:00 - Miami Hurricanes vs North Alabama Lions
-https://damitv.st/embed/?id=m401921721
-
-#EXTINF:-1 group-title="Basketball",00:00 - Miami Hurricanes vs North Alabama Lions
-https://damitv.st/embed/?id=cbb%2F2026-11-13%2Funa-mia_540p
+#EXTINF:-1 group-title="Football",18:30 - Kuwait vs Syria
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F1de559604f.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",19:00 - Moldova vs Kazakhstan
 https://damitv.st/embed/?id=mm-own-b36d68a19f
@@ -31,11 +16,29 @@ https://damitv.st/embed/?id=mm-own-b36d68a19f
 #EXTINF:-1 group-title="Football",19:00 - Moldova vs Kazakhstan
 https://damitv.st/embed/?id=uefa-nations-league%2F2026-11-13%2Fmda-kaz_540p
 
+#EXTINF:-1 group-title="Football",19:00 - Moldova vs Kazakhstan
+https://damitv.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Falfa%2Ftedesco%2Ffsp.m3u8&name=HD%20Server
+
+#EXTINF:-1 group-title="Football",19:00 - Moldova vs Kazakhstan
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F065e43a440.m3u8&name=DAZN%20CA
+
+#EXTINF:-1 group-title="Football",19:00 - Moldova vs Kazakhstan
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F678f7303ae.m3u8&name=Fox%20Soccer%20Plus
+
 #EXTINF:-1 group-title="Football",21:45 - Netherlands vs Greece
 https://damitv.st/embed/?id=mm-own-38e4d058f6
 
 #EXTINF:-1 group-title="Football",21:45 - Netherlands vs Greece
 https://damitv.st/embed/?id=uefa-nations-league%2F2026-11-13%2Fned-gre_540p
+
+#EXTINF:-1 group-title="Football",21:45 - Netherlands vs Greece
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F8cd946ac22.m3u8&name=DAZN%20CA
+
+#EXTINF:-1 group-title="Football",21:45 - Netherlands vs Greece
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F5f3ab15fe7.m3u8&name=Fox%20Sports%201%20USA
+
+#EXTINF:-1 group-title="Football",21:45 - Netherlands vs Greece
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Fb3c96e3b63.m3u8&name=NPO%203%20NL
 
 #EXTINF:-1 group-title="Football",21:45 - Andorra vs Gibraltar
 https://damitv.st/embed/?id=mm-own-d5c9d11ccc
@@ -43,11 +46,23 @@ https://damitv.st/embed/?id=mm-own-d5c9d11ccc
 #EXTINF:-1 group-title="Football",21:45 - Andorra vs Gibraltar
 https://damitv.st/embed/?id=uefa-nations-league%2F2026-11-13%2Fand-gib_540p
 
+#EXTINF:-1 group-title="Football",21:45 - Andorra vs Gibraltar
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F08de142983.m3u8&name=DAZN%20CA
+
 #EXTINF:-1 group-title="Football",21:45 - Bulgaria vs Iceland
 https://damitv.st/embed/?id=mm-own-53889116da
 
 #EXTINF:-1 group-title="Football",21:45 - Bulgaria vs Iceland
 https://damitv.st/embed/?id=uefa-nations-league%2F2026-11-13%2Fbul-isl_540p
+
+#EXTINF:-1 group-title="Football",21:45 - Bulgaria vs Iceland
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F578f7e9951.m3u8&name=DAZN%20CA
+
+#EXTINF:-1 group-title="Football",21:45 - Bulgaria vs Iceland
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Fe8949b925a.m3u8&name=Polsat%20Sport%20Extra%202%20Poland
+
+#EXTINF:-1 group-title="Football",21:45 - Bulgaria vs Iceland
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F07d63d0e65.m3u8&name=Nova%20Sports%205%20Greece
 
 #EXTINF:-1 group-title="Football",21:45 - Liechtenstein vs Azerbaijan
 https://damitv.st/embed/?id=mm-own-578d964b3c
@@ -55,11 +70,29 @@ https://damitv.st/embed/?id=mm-own-578d964b3c
 #EXTINF:-1 group-title="Football",21:45 - Liechtenstein vs Azerbaijan
 https://damitv.st/embed/?id=uefa-nations-league%2F2026-11-13%2Flie-aze_540p
 
+#EXTINF:-1 group-title="Football",21:45 - Liechtenstein vs Azerbaijan
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Fec920ef0b2.m3u8&name=DAZN%20CA
+
+#EXTINF:-1 group-title="Football",21:45 - Liechtenstein vs Azerbaijan
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Fffd1359af6.m3u8&name=CBC%20Sport%20Azerbaijan
+
+#EXTINF:-1 group-title="Football",21:45 - Liechtenstein vs Azerbaijan
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F03e7b03e7c.m3u8&name=A%20Spor%20Turkey
+
 #EXTINF:-1 group-title="Football",21:45 - Luxembourg vs Estonia
 https://damitv.st/embed/?id=mm-own-6d87c90bd1
 
 #EXTINF:-1 group-title="Football",21:45 - Luxembourg vs Estonia
 https://damitv.st/embed/?id=uefa-nations-league%2F2026-11-13%2Flux-est_540p
+
+#EXTINF:-1 group-title="Football",21:45 - Luxembourg vs Estonia
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F34bde6042b.m3u8&name=DAZN%20CA
+
+#EXTINF:-1 group-title="Football",21:45 - Luxembourg vs Estonia
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Ffe1e618f3a.m3u8&name=Nova%20Sport%20Bulgaria
+
+#EXTINF:-1 group-title="Football",21:45 - Luxembourg vs Estonia
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Fc05ba356d2.m3u8&name=Sportklub%2010%20Croatia
 
 #EXTINF:-1 group-title="Football",21:45 - Scotland vs North Macedonia
 https://damitv.st/embed/?id=mm-own-f296fe2a29
@@ -67,11 +100,29 @@ https://damitv.st/embed/?id=mm-own-f296fe2a29
 #EXTINF:-1 group-title="Football",21:45 - Scotland vs North Macedonia
 https://damitv.st/embed/?id=uefa-nations-league%2F2026-11-13%2Fsco-mkd_540p
 
+#EXTINF:-1 group-title="Football",21:45 - Scotland vs North Macedonia
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F0a9a0f051d.m3u8&name=DAZN%20CA
+
+#EXTINF:-1 group-title="Football",21:45 - Scotland vs North Macedonia
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Fdaa3b12552.m3u8&name=BBC%20Two%20UK
+
+#EXTINF:-1 group-title="Football",21:45 - Scotland vs North Macedonia
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F678f7303ae.m3u8&name=Fox%20Soccer%20Plus
+
 #EXTINF:-1 group-title="Football",21:45 - Serbia vs Germany
 https://damitv.st/embed/?id=mm-own-ff99b323e2
 
 #EXTINF:-1 group-title="Football",21:45 - Serbia vs Germany
 https://damitv.st/embed/?id=uefa-nations-league%2F2026-11-13%2Fsrb-ger_540p
+
+#EXTINF:-1 group-title="Football",21:45 - Serbia vs Germany
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F5f7cfad2c8.m3u8&name=DAZN%20CA
+
+#EXTINF:-1 group-title="Football",21:45 - Serbia vs Germany
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F80508f2012.m3u8&name=RTL%20DE
+
+#EXTINF:-1 group-title="Football",21:45 - Serbia vs Germany
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F09ac381bfd.m3u8&name=RTS%201%20Serbia
 
 #EXTINF:-1 group-title="Football",21:45 - Slovakia vs Faroe Islands
 https://damitv.st/embed/?id=mm-own-a298ef8440
@@ -79,38 +130,119 @@ https://damitv.st/embed/?id=mm-own-a298ef8440
 #EXTINF:-1 group-title="Football",21:45 - Slovakia vs Faroe Islands
 https://damitv.st/embed/?id=uefa-nations-league%2F2026-11-13%2Fsvk-fro_540p
 
+#EXTINF:-1 group-title="Football",21:45 - Slovakia vs Faroe Islands
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F4653d973b8.m3u8&name=DAZN%20CA
+
+#EXTINF:-1 group-title="Football",21:45 - Slovakia vs Faroe Islands
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Fb8b20def6e.m3u8&name=RTVS%20Sport%20Slovakia
+
 #EXTINF:-1 group-title="Football",21:45 - Slovenia vs Switzerland
 https://damitv.st/embed/?id=mm-own-6930ce2f05
 
 #EXTINF:-1 group-title="Football",21:45 - Slovenia vs Switzerland
 https://damitv.st/embed/?id=uefa-nations-league%2F2026-11-13%2Fsvn-sui_540p
 
-#EXTINF:-1 group-title="24/7-streams",09:19 - NFL Network
+#EXTINF:-1 group-title="Football",21:45 - Slovenia vs Switzerland
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Fe96b595e88.m3u8&name=DAZN%20CA
+
+#EXTINF:-1 group-title="Football",21:45 - Slovenia vs Switzerland
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F2a817006f6.m3u8&name=SRF%20zwei
+
+#EXTINF:-1 group-title="Football",21:45 - Slovenia vs Switzerland
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Fb1ec718583.m3u8&name=SportKlub%201%20Slovenia
+
+#EXTINF:-1 group-title="Football",22:00 - Salamanca UDS vs Celta Vigo
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Fc413c56803.m3u8&name=Match%20TV%20Russia
+
+#EXTINF:-1 group-title="Football",22:00 - Salamanca UDS vs Celta Vigo
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Fd5fdea05f7.m3u8&name=Match!%20Football%202%20Russia
+
+#EXTINF:-1 group-title="Basketball",19:30 - Anadolu Efes vs Virtus Bologna
+https://damitv.st/player/hls/?v=540&url=%2Fc%2Fe3c05f3d87.m3u8&name=Magenta%20Sport%20309
+
+#EXTINF:-1 group-title="Basketball",19:30 - Anadolu Efes vs Virtus Bologna
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F8d81ac280f.m3u8&name=M%2B%20Baloncesto%202%20Spain
+
+#EXTINF:-1 group-title="Basketball",19:30 - Anadolu Efes vs Virtus Bologna
+https://damitv.st/player/hls/?v=540&url=%2Fc%2Fd57e44e3ad.m3u8&name=Arena%202%20Premium%20Serbia
+
+#EXTINF:-1 group-title="Basketball",19:30 - Anadolu Efes vs Virtus Bologna
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F595b9e11ed.m3u8&name=Nova%20Sports%206%20Greece
+
+#EXTINF:-1 group-title="Basketball",19:30 - Anadolu Efes vs Virtus Bologna
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F07d63d0e65.m3u8&name=Nova%20Sports%205%20Greece
+
+#EXTINF:-1 group-title="Basketball",21:15 - Panathinaikos vs FC Barcelona
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F59b807e4a5.m3u8&name=Magenta%20Sport%20317
+
+#EXTINF:-1 group-title="Basketball",21:15 - Panathinaikos vs FC Barcelona
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F3d62bce4e9.m3u8&name=M%2B%20Baloncesto%20Spain
+
+#EXTINF:-1 group-title="Basketball",21:15 - Panathinaikos vs FC Barcelona
+https://damitv.st/player/hls/?v=540&url=%2Fc%2Fec916bda15.m3u8&name=Oneplay%20Sport%201%20CZ
+
+#EXTINF:-1 group-title="Basketball",21:15 - Panathinaikos vs FC Barcelona
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F4ed1efb5e4.m3u8&name=Arena%203%20Premium%20Serbia
+
+#EXTINF:-1 group-title="Basketball",21:15 - Panathinaikos vs FC Barcelona
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F6e51e0fd3a.m3u8&name=Nova%20Sports%20Prime%20Greece
+
+#EXTINF:-1 group-title="Basketball",21:30 - LDLC ASVEL vs Besiktas
+https://damitv.st/player/hls/?v=540&url=%2Fc%2Ff9e5b3bdd3.m3u8&name=Magenta%20Sport%20310
+
+#EXTINF:-1 group-title="Basketball",21:30 - LDLC ASVEL vs Besiktas
+https://damitv.st/player/hls/?v=540&url=%2Fc%2Fcc47ece79e.m3u8&name=M%2B%20Baloncesto%203%20Spain
+
+#EXTINF:-1 group-title="Basketball",21:30 - LDLC ASVEL vs Besiktas
+https://damitv.st/player/hls/?v=540&url=%2Fc%2Ff8c71c4d41.m3u8&name=beIN%20Sports%202%20France
+
+#EXTINF:-1 group-title="Basketball",21:30 - LDLC ASVEL vs Besiktas
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F91ca120f48.m3u8&name=Nova%20Sports%204%20Greece
+
+#EXTINF:-1 group-title="Basketball",21:30 - LDLC ASVEL vs Besiktas
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F27f6d12d01.m3u8&name=Sportklub%205%20Croatia
+
+#EXTINF:-1 group-title="Basketball",00:00 - Miami Hurricanes vs North Alabama Lions
+https://damitv.st/embed/?id=m401921721
+
+#EXTINF:-1 group-title="Basketball",00:00 - Miami Hurricanes vs North Alabama Lions
+https://damitv.st/embed/?id=cbb%2F2026-11-13%2Funa-mia_540p
+
+#EXTINF:-1 group-title="24/7-streams",18:39 - NFL Network
 https://damitv.st/embed/?id=247-nfl-network
 
-#EXTINF:-1 group-title="24/7-streams",09:19 - Fox Footy
+#EXTINF:-1 group-title="24/7-streams",18:39 - NFL Network
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F1ac9bf5091.m3u8&name=NFL%20RedZone
+
+#EXTINF:-1 group-title="24/7-streams",18:39 - Fox Footy
 https://damitv.st/embed/?id=247-247-fox-footy
 
-#EXTINF:-1 group-title="24/7-streams",09:19 - Willow
+#EXTINF:-1 group-title="24/7-streams",18:39 - Willow
 https://damitv.st/embed/?id=247-247-willow
 
-#EXTINF:-1 group-title="24/7-streams",09:19 - Fox Cricket
+#EXTINF:-1 group-title="24/7-streams",18:39 - Fox Cricket
 https://damitv.st/embed/?id=247-247-fox-cricket
 
-#EXTINF:-1 group-title="24/7-streams",09:19 - NHL Network
+#EXTINF:-1 group-title="24/7-streams",18:39 - NHL Network
 https://damitv.st/embed/?id=247-nhl-network-29780
 
-#EXTINF:-1 group-title="24/7-streams",09:19 - Fox League
+#EXTINF:-1 group-title="24/7-streams",18:39 - Fox League
 https://damitv.st/embed/?id=247-247-fox-league
 
-#EXTINF:-1 group-title="24/7-streams",09:19 - South Park
+#EXTINF:-1 group-title="24/7-streams",18:39 - South Park
 https://damitv.st/embed/?id=247-247-south-park
 
-#EXTINF:-1 group-title="24/7-streams",09:19 - Family Guy
+#EXTINF:-1 group-title="24/7-streams",18:39 - Family Guy
 https://damitv.st/embed/?id=247-247-family-guy
 
-#EXTINF:-1 group-title="24/7-streams",09:19 - The Simpsons
+#EXTINF:-1 group-title="24/7-streams",18:39 - The Simpsons
 https://damitv.st/embed/?id=247-247-the-simpsons
 
-#EXTINF:-1 group-title="24/7-streams",09:19 - Rally TV
+#EXTINF:-1 group-title="24/7-streams",18:39 - Rally TV
 https://damitv.st/embed/?id=247-rally-tv
+
+#EXTINF:-1 group-title="24/7-streams",18:39 - Tennis Channel
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F229d7c7755.m3u8&name=Tennis%20Channel
+
+#EXTINF:-1 group-title="24/7-streams",18:39 - Sky Sports Golf
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F9f5dca47df.m3u8&name=Sky%20Sports%20Golf

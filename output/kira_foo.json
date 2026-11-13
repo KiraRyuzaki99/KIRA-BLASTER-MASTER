@@ -32,7 +32,28 @@
     "time": "19:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/kazakhstan-vs-moldova",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/kazakhstan-vs-moldova/3609",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/kazakhstan-vs-moldova/3610",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Azerbaijan Liechtenstein",

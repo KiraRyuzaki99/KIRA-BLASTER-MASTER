@@ -8,7 +8,7 @@
     "date": "Monday, 09 November 2026",
     "time": "14:45",
     "status": "live",
-    "event_url": "https://pogo.pk/events/snooker-champion-of-champions",
+    "event_url": "https://footystreams.pk/events/snooker-champion-of-champions",
     "servers": [
       {
         "label": "English",
@@ -23,19 +23,19 @@
     ]
   },
   {
-    "title": "Kosovo Israel",
-    "category": "Kosovo",
-    "logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
-    "start_iso": "2026-11-14T14:00:00.000Z",
-    "end_iso": "2026-11-14T16:15:00.000Z",
+    "title": "Grand Slam of Darts Darts",
+    "category": "Grand Slam of Darts",
+    "logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
+    "start_iso": "2026-11-14T13:00:00.000Z",
+    "end_iso": "2026-11-22T23:00:00.000Z",
     "date": "Saturday, 14 November 2026",
-    "time": "16:00",
+    "time": "15:00",
     "status": "live",
-    "event_url": "https://pogo.pk/events/kosovo-vs-israel",
+    "event_url": "https://footystreams.pk/events/grand-slam-of-darts-live-stream",
     "servers": [
       {
         "label": "English",
-        "url": "https://playerdee.top/alpha/kosovo-vs-israel/3624",
+        "url": "https://playerdee.top/alpha/grand-slam-of-darts-live-stream/3631",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -45,144 +45,12 @@
       },
       {
         "label": "English",
-        "url": "https://playerdee.top/alpha/kosovo-vs-israel/3625",
+        "url": "https://playerdee.top/alpha/grand-slam-of-darts-live-stream/3632",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
           "ads": "2",
           "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Wales New Zealand",
-    "category": "Wales",
-    "logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-    "start_iso": "2026-11-14T14:10:00.000Z",
-    "end_iso": "2026-11-14T16:25:00.000Z",
-    "date": "Saturday, 14 November 2026",
-    "time": "16:10",
-    "status": "live",
-    "event_url": "https://pogo.pk/events/wales-vs-new-zealand",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/wales-vs-new-zealand/3601",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "England Japan",
-    "category": "England",
-    "logo": "https://cdn.img4every1.org/team/england/logo.webp",
-    "start_iso": "2026-11-14T16:40:00.000Z",
-    "end_iso": "2026-11-14T18:55:00.000Z",
-    "date": "Saturday, 14 November 2026",
-    "time": "18:40",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/england-vs-japan",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/england-vs-japan/3602",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Wales Norway",
-    "category": "Wales",
-    "logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-    "start_iso": "2026-11-14T17:00:00.000Z",
-    "end_iso": "2026-11-14T19:15:00.000Z",
-    "date": "Saturday, 14 November 2026",
-    "time": "19:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/wales-vs-norway",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/wales-vs-norway/3607",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/wales-vs-norway/3629",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/wales-vs-norway/3630",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Hungary Georgia",
-    "category": "Hungary",
-    "logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
-    "start_iso": "2026-11-14T17:00:00.000Z",
-    "end_iso": "2026-11-14T19:15:00.000Z",
-    "date": "Saturday, 14 November 2026",
-    "time": "19:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/hungary-vs-georgia",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/hungary-vs-georgia/3626",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/hungary-vs-georgia/3627",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Portuguese",
-        "url": "https://playerdee.top/alpha/hungary-vs-georgia/3628",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
         }
       }
     ]
@@ -195,9 +63,30 @@
     "end_iso": "2026-11-14T22:00:00.000Z",
     "date": "Saturday, 14 November 2026",
     "time": "21:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/ireland-vs-austria",
-    "servers": []
+    "status": "live",
+    "event_url": "https://footystreams.pk/events/ireland-vs-austria",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/ireland-vs-austria/3637",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/ireland-vs-austria/3638",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Ukraine Northern Ireland",
@@ -207,12 +96,22 @@
     "end_iso": "2026-11-14T22:00:00.000Z",
     "date": "Saturday, 14 November 2026",
     "time": "21:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/ukraine-vs-northern-ireland",
+    "status": "live",
+    "event_url": "https://footystreams.pk/events/ukraine-vs-northern-ireland",
     "servers": [
       {
         "label": "English",
         "url": "https://playerdee.top/alpha/ukraine-vs-northern-ireland/3608",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/ukraine-vs-northern-ireland/3639",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -230,9 +129,30 @@
     "end_iso": "2026-11-14T22:00:00.000Z",
     "date": "Saturday, 14 November 2026",
     "time": "21:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/poland-vs-romania",
-    "servers": []
+    "status": "live",
+    "event_url": "https://footystreams.pk/events/poland-vs-romania",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/poland-vs-romania/3640",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/poland-vs-romania/3641",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Bosnia and Herzegovina Sweden",
@@ -242,9 +162,83 @@
     "end_iso": "2026-11-14T22:00:00.000Z",
     "date": "Saturday, 14 November 2026",
     "time": "21:45",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/bosnia-vs-sweden",
-    "servers": []
+    "status": "live",
+    "event_url": "https://footystreams.pk/events/bosnia-vs-sweden",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bosnia-vs-sweden/3642",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bosnia-vs-sweden/3643",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Denmark Portugal",
+    "category": "Denmark",
+    "logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
+    "start_iso": "2026-11-14T19:45:00.000Z",
+    "end_iso": "2026-11-14T22:00:00.000Z",
+    "date": "Saturday, 14 November 2026",
+    "time": "21:45",
+    "status": "live",
+    "event_url": "https://footystreams.pk/events/denmark-vs-portugal",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/denmark-vs-portugal/3633",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/denmark-vs-portugal/3634",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/denmark-vs-portugal/3635",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/denmark-vs-portugal/3636",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "Ireland Fiji",
@@ -254,12 +248,35 @@
     "end_iso": "2026-11-14T22:25:00.000Z",
     "date": "Saturday, 14 November 2026",
     "time": "22:10",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/ireland-vs-fiji",
+    "status": "live",
+    "event_url": "https://footystreams.pk/events/ireland-vs-fiji",
     "servers": [
       {
         "label": "English",
         "url": "https://playerdee.top/alpha/ireland-vs-fiji/3603",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "USA Haiti",
+    "category": "USA",
+    "logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+    "start_iso": "2026-11-14T21:30:00.000Z",
+    "end_iso": "2026-11-14T23:45:00.000Z",
+    "date": "Saturday, 14 November 2026",
+    "time": "23:30",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/usa-vs-haiti",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/usa-vs-haiti/3644",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -278,7 +295,7 @@
     "date": "Sunday, 15 November 2026",
     "time": "02:00",
     "status": "next",
-    "event_url": "https://pogo.pk/events/ciryl-gane-vs-josh-hokit",
+    "event_url": "https://footystreams.pk/events/ciryl-gane-vs-josh-hokit",
     "servers": [
       {
         "label": "English",
@@ -293,6 +310,30 @@
     ]
   },
   {
+    "title": "Montenegro Cyprus",
+    "category": "Montenegro",
+    "logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
+    "start_iso": "2026-11-15T14:00:00.000Z",
+    "end_iso": "2026-11-15T16:15:00.000Z",
+    "date": "Sunday, 15 November 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/montenegro-vs-cyprus",
+    "servers": []
+  },
+  {
+    "title": "Armenia Latvia",
+    "category": "Armenia",
+    "logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
+    "start_iso": "2026-11-15T14:00:00.000Z",
+    "end_iso": "2026-11-15T16:15:00.000Z",
+    "date": "Sunday, 15 November 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/armenia-vs-latvia",
+    "servers": []
+  },
+  {
     "title": "Australia Scotland",
     "category": "Australia",
     "logo": "https://cdn.img4every1.org/team/australia/logo.webp",
@@ -301,7 +342,7 @@
     "date": "Sunday, 15 November 2026",
     "time": "17:10",
     "status": "next",
-    "event_url": "https://pogo.pk/events/australia-vs-scotland",
+    "event_url": "https://footystreams.pk/events/australia-vs-scotland",
     "servers": [
       {
         "label": "English",
@@ -314,5 +355,53 @@
         }
       }
     ]
+  },
+  {
+    "title": "Finland San Marino",
+    "category": "Finland",
+    "logo": "https://cdn.img4every1.org/team/finland/logo.webp",
+    "start_iso": "2026-11-15T17:00:00.000Z",
+    "end_iso": "2026-11-15T19:15:00.000Z",
+    "date": "Sunday, 15 November 2026",
+    "time": "19:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/finland-vs-san-marino",
+    "servers": []
+  },
+  {
+    "title": "Albania Belarus",
+    "category": "Albania",
+    "logo": "https://cdn.img4every1.org/team/albania/logo.webp",
+    "start_iso": "2026-11-15T17:00:00.000Z",
+    "end_iso": "2026-11-15T19:15:00.000Z",
+    "date": "Sunday, 15 November 2026",
+    "time": "19:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/albania-vs-belarus",
+    "servers": []
+  },
+  {
+    "title": "England Spain",
+    "category": "England",
+    "logo": "https://cdn.img4every1.org/team/england/logo.webp",
+    "start_iso": "2026-11-15T19:45:00.000Z",
+    "end_iso": "2026-11-15T22:00:00.000Z",
+    "date": "Sunday, 15 November 2026",
+    "time": "21:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/england-vs-spain",
+    "servers": []
+  },
+  {
+    "title": "Turkiye France",
+    "category": "Turkiye",
+    "logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
+    "start_iso": "2026-11-15T19:45:00.000Z",
+    "end_iso": "2026-11-15T22:00:00.000Z",
+    "date": "Sunday, 15 November 2026",
+    "time": "21:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/turkiye-vs-france",
+    "servers": []
   }
 ]

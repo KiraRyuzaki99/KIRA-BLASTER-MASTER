@@ -23,31 +23,29 @@
     ]
   },
   {
-    "title": "Brazil Japan",
-    "category": "Brazil",
-    "logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
-    "start_iso": "2026-11-14T10:15:00.000Z",
-    "end_iso": "2026-11-14T12:30:00.000Z",
+    "title": "Kosovo Israel",
+    "category": "Kosovo",
+    "logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
+    "start_iso": "2026-11-14T14:00:00.000Z",
+    "end_iso": "2026-11-14T16:15:00.000Z",
     "date": "Saturday, 14 November 2026",
-    "time": "12:15",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/brazil-vs-japan",
-    "servers": []
-  },
-  {
-    "title": "Italy Argentina",
-    "category": "Italy",
-    "logo": "https://cdn.img4every1.org/team/italy/logo.webp",
-    "start_iso": "2026-11-14T11:40:00.000Z",
-    "end_iso": "2026-11-14T13:55:00.000Z",
-    "date": "Saturday, 14 November 2026",
-    "time": "13:40",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/italy-vs-argentina",
+    "time": "16:00",
+    "status": "live",
+    "event_url": "https://pogo.pk/events/kosovo-vs-israel",
     "servers": [
       {
         "label": "English",
-        "url": "https://playerdee.top/alpha/italy-vs-argentina/3600",
+        "url": "https://playerdee.top/alpha/kosovo-vs-israel/3624",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/kosovo-vs-israel/3625",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -58,18 +56,6 @@
     ]
   },
   {
-    "title": "Kosovo Israel",
-    "category": "Kosovo",
-    "logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
-    "start_iso": "2026-11-14T14:00:00.000Z",
-    "end_iso": "2026-11-14T16:15:00.000Z",
-    "date": "Saturday, 14 November 2026",
-    "time": "16:00",
-    "status": "next",
-    "event_url": "https://pogo.pk/events/kosovo-vs-israel",
-    "servers": []
-  },
-  {
     "title": "Wales New Zealand",
     "category": "Wales",
     "logo": "https://cdn.img4every1.org/team/wales/logo.webp",
@@ -77,7 +63,7 @@
     "end_iso": "2026-11-14T16:25:00.000Z",
     "date": "Saturday, 14 November 2026",
     "time": "16:10",
-    "status": "next",
+    "status": "live",
     "event_url": "https://pogo.pk/events/wales-vs-new-zealand",
     "servers": [
       {
@@ -135,6 +121,26 @@
           "ads": "2",
           "language": "English"
         }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/wales-vs-norway/3629",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/wales-vs-norway/3630",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
       }
     ]
   },
@@ -148,7 +154,38 @@
     "time": "19:00",
     "status": "next",
     "event_url": "https://pogo.pk/events/hungary-vs-georgia",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/hungary-vs-georgia/3626",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/hungary-vs-georgia/3627",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/hungary-vs-georgia/3628",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "Ireland Austria",
@@ -195,6 +232,18 @@
     "time": "21:45",
     "status": "next",
     "event_url": "https://pogo.pk/events/poland-vs-romania",
+    "servers": []
+  },
+  {
+    "title": "Bosnia and Herzegovina Sweden",
+    "category": "Bosnia and Herzegovina",
+    "logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
+    "start_iso": "2026-11-14T19:45:00.000Z",
+    "end_iso": "2026-11-14T22:00:00.000Z",
+    "date": "Saturday, 14 November 2026",
+    "time": "21:45",
+    "status": "next",
+    "event_url": "https://pogo.pk/events/bosnia-vs-sweden",
     "servers": []
   },
   {

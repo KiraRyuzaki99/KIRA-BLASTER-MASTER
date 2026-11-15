@@ -1,191 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Cricket",02:00 - queensland bulls vs tasmanian tigers
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F313936da1d.m3u8&name=Sky%20Sport%205%20NZ
-
-#EXTINF:-1 group-title="Cricket",05:00 - victorian bushrangers vs western australia
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F08ba71acd4.m3u8&name=Sky%20Sport%204%20NZ
-
-#EXTINF:-1 group-title="Cricket",05:30 - Australia vs England
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F91a93f700c.m3u8&name=Willow%202%20Cricket
-
-#EXTINF:-1 group-title="Cricket",05:30 - Australia vs England
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F8afdcdd622.m3u8&name=TNT%20Sports%201%20UK
-
-#EXTINF:-1 group-title="Cricket",05:30 - Australia vs England
-https://damitv.st/player/hls/?v=540&url=%2Fc%2Fdc53c01717.m3u8&name=Sky%20Sport%203%20NZ
-
-#EXTINF:-1 group-title="Cricket",05:30 - Australia vs England
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F2622840eac.m3u8&name=Astro%20Cricket
-
-#EXTINF:-1 group-title="Cricket",05:30 - Australia vs England
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F91a93f700c.m3u8&name=Willow%202%20Cricket
-
-#EXTINF:-1 group-title="Cricket",10:00 - South Africa vs Bangladesh
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
-
-#EXTINF:-1 group-title="Cricket",10:00 - South Africa vs Bangladesh
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F9bec686fd0.m3u8&name=Sky%20Sports%20Cricket%20UK
-
-#EXTINF:-1 group-title="Cricket",10:00 - South Africa vs Bangladesh
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F28897bfbe1.m3u8&name=SuperSport%20Cricket
-
-#EXTINF:-1 group-title="Cricket",10:00 - South Africa vs Bangladesh
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F716de83302.m3u8&name=SuperSport%20Grandstand
-
-#EXTINF:-1 group-title="Cricket",10:00 - South Africa vs Bangladesh
+#EXTINF:-1 group-title="Cricket",10:00 - south africa vs bangladesh
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
 
+#EXTINF:-1 group-title="Cricket",10:00 - south africa vs bangladesh
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F9bec686fd0.m3u8&name=Sky%20Sports%20Cricket%20UK
+
 #EXTINF:-1 group-title="Cricket",13:00 - Afghanistan vs Zimbabwe
 https://damitv.st/player/hls/?v=540&url=%2Fc%2F91a93f700c.m3u8&name=Willow%202%20Cricket
 
 #EXTINF:-1 group-title="Cricket",13:00 - Afghanistan vs Zimbabwe
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F91a93f700c.m3u8&name=Willow%202%20Cricket
-
-#EXTINF:-1 group-title="Motor-sports",10:25 - Asian Le Mans Series Almc 26/27 Rnd 2: Le Castellet
-https://damitv.st/player/hls/?v=540&url=%2Fc%2Ffe813964f1.m3u8&name=beIN%20Sports%20Malaysia
-
-#EXTINF:-1 group-title="Motor-sports",10:25 - Asian Le Mans Series Almc 26/27 Rnd 2: Le Castellet
-https://damitv.st/player/hls/?v=540&url=%2Fc%2Fddf48bc5e1.m3u8&name=Sky%20Sport%206%20NZ
-
-#EXTINF:-1 group-title="Motor-sports",10:25 - Asian Le Mans Series Almc 26/27 Rnd 2: Le Castellet
-https://damitv.st/player/hls/?v=540&url=%2Fc%2Faf6a119c9b.m3u8&name=Ring%20Bulgaria
-
-#EXTINF:-1 group-title="Motor-sports",14:15 - Asian Le Mans Series Alms 26/27: Rnd 2
-https://damitv.st/player/hls/?v=540&url=%2Fc%2Ffe813964f1.m3u8&name=beIN%20Sports%20Malaysia
-
-#EXTINF:-1 group-title="Motor-sports",14:15 - Asian Le Mans Series Alms 26/27: Rnd 2
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F9bd45fa4d9.m3u8&name=Sky%20Sport%209%20NZ
-
-#EXTINF:-1 group-title="Motor-sports",00:00 - Nhra Drag Racing In-N-Out Burger Nhra Finals
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F5f3ab15fe7.m3u8&name=Fox%20Sports%201%20USA
-
-#EXTINF:-1 group-title="Football",13:00 - Madrid CFF vs Dux Logroño
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F044e1c9c49.m3u8&name=DAZN2%20Spain
-
-#EXTINF:-1 group-title="Football",13:00 - Real Sociedad vs Athletic Club
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F57497055c3.m3u8&name=DAZN1%20Spain
-
-#EXTINF:-1 group-title="Football",15:30 - MVV Maastricht vs Vitesse
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F176d6d52c2.m3u8&name=ESPN%201%20NL
-
-#EXTINF:-1 group-title="Football",16:00 - Cyprus vs Montenegro
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F065e43a440.m3u8&name=DAZN%20CA
-
-#EXTINF:-1 group-title="Football",16:00 - Cyprus vs Montenegro
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F7ec69e034e.m3u8&name=TVCG%202%20Montenegro
-
-#EXTINF:-1 group-title="Football",16:00 - Cyprus vs Montenegro
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F9312c6fb66.m3u8&name=Fox%20Sports%202%20USA
-
-#EXTINF:-1 group-title="Football",16:00 - Aston Villa vs Birmingham City
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F02dfc63195.m3u8&name=Sky%20Sports%20Premier%20League%20UK
-
-#EXTINF:-1 group-title="Football",16:00 - Aston Villa vs Birmingham City
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Fbaeebc67f1.m3u8&name=CBS%20Sports%20Network
-
-#EXTINF:-1 group-title="Football",16:00 - Aston Villa vs Birmingham City
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F313936da1d.m3u8&name=Sky%20Sport%205%20NZ
-
-#EXTINF:-1 group-title="Football",16:00 - West Ham United vs Charlton Athletic
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F3490f75e3e.m3u8&name=Sky%20Sports%20Football%20UK
-
-#EXTINF:-1 group-title="Football",16:00 - West Ham United vs Charlton Athletic
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F170f7e4dcf.m3u8&name=Sky%20Sports%20Mix%20UK
-
-#EXTINF:-1 group-title="Football",16:00 - West Ham United vs Charlton Athletic
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F6bfdfa6321.m3u8&name=CBS%20Sports%20Golazo
-
-#EXTINF:-1 group-title="Football",16:00 - Latvia vs Armenia
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F1b21d946da.m3u8&name=DAZN%20CA
-
-#EXTINF:-1 group-title="Football",16:00 - Latvia vs Armenia
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F678f7303ae.m3u8&name=Fox%20Soccer%20Plus
-
-#EXTINF:-1 group-title="Football",16:00 - Latvia vs Armenia
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F142806d462.m3u8&name=Sport%20TV6%20Portugal
-
-#EXTINF:-1 group-title="Football",17:00 - Sevilla vs Atlético Madrid
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F044e1c9c49.m3u8&name=DAZN2%20Spain
-
-#EXTINF:-1 group-title="Football",18:30 - Arsenal vs London City Lionesses
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F4a2c801ab2.m3u8&name=Sky%20Sports%20Main%20Event%20UK
-
-#EXTINF:-1 group-title="Football",18:30 - Arsenal vs London City Lionesses
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Fc6f981557e.m3u8&name=Sky%20ONE%20UK
-
-#EXTINF:-1 group-title="Football",18:30 - Arsenal vs London City Lionesses
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F02dfc63195.m3u8&name=Sky%20Sports%20Premier%20League%20UK
-
-#EXTINF:-1 group-title="Football",19:00 - Deportivo vs Barcelona
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F57497055c3.m3u8&name=DAZN1%20Spain
-
-#EXTINF:-1 group-title="Football",19:00 - Belarus vs Albania
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F1bf0493f3b.m3u8&name=DAZN%20CA
-
-#EXTINF:-1 group-title="Football",19:00 - Belarus vs Albania
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F678f7303ae.m3u8&name=Fox%20Soccer%20Plus
-
-#EXTINF:-1 group-title="Football",19:00 - Belarus vs Albania
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Faf05b60ffe.m3u8&name=Sport%20TV3%20Portugal
-
-#EXTINF:-1 group-title="Football",19:00 - Finland vs San Marino
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F578f7e9951.m3u8&name=DAZN%20CA
-
-#EXTINF:-1 group-title="Football",19:00 - Finland vs San Marino
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Fa27df851ef.m3u8&name=YLE%20TV2%20Finland
-
-#EXTINF:-1 group-title="Football",19:00 - Finland vs San Marino
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Fc79d358326.m3u8&name=DAZN2%20DE
-
-#EXTINF:-1 group-title="Football",19:15 - Valencia vs Granada
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F044e1c9c49.m3u8&name=DAZN2%20Spain
-
-#EXTINF:-1 group-title="Football",20:00 - Comerciantes Unidos vs Sport Boys
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F409ba10b0f.m3u8&name=Liga%201%20Max%20Peru
-
-#EXTINF:-1 group-title="Football",21:45 - Croatia vs Czechia
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F0a9a0f051d.m3u8&name=DAZN%20CA
-
-#EXTINF:-1 group-title="Football",21:45 - Croatia vs Czechia
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Fd2f0830880.m3u8&name=Nova%20TV%20Croatia
-
-#EXTINF:-1 group-title="Football",21:45 - Croatia vs Czechia
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F681c9e8150.m3u8&name=%C4%8CT%20Sport%20CZ
-
-#EXTINF:-1 group-title="Football",21:45 - France vs Türkiye
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F9312c6fb66.m3u8&name=Fox%20Sports%202%20USA
-
-#EXTINF:-1 group-title="Football",21:45 - Belgium vs Italy
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Fe96b595e88.m3u8&name=DAZN%20CA
-
-#EXTINF:-1 group-title="Football",21:45 - Belgium vs Italy
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Fe67c26b3e8.m3u8&name=RAI%201%20IT
-
-#EXTINF:-1 group-title="Football",21:45 - Belgium vs Italy
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F03e7b03e7c.m3u8&name=A%20Spor%20Turkey
-
-#EXTINF:-1 group-title="Football",21:45 - Spain vs England
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F08de142983.m3u8&name=DAZN%20CA
-
-#EXTINF:-1 group-title="Football",21:45 - Spain vs England
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F41246432c9.m3u8&name=ITV%201%20UK
-
-#EXTINF:-1 group-title="Football",21:45 - Spain vs England
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F7af26ce520.m3u8&name=TVE%20La%201%20Spain
-
-#EXTINF:-1 group-title="Football",22:00 - Gotham FC vs Kansas City Current
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F8afdcdd622.m3u8&name=TNT%20Sports%201%20UK
-
-#EXTINF:-1 group-title="Football",22:00 - Gotham FC vs Kansas City Current
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Fddd8d97951.m3u8&name=ABC%20USA
-
-#EXTINF:-1 group-title="Football",22:00 - Gotham FC vs Kansas City Current
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F91ab5d5593.m3u8&name=ABC%20NY%20USA
-
-#EXTINF:-1 group-title="Football",22:15 - Juan Pablo II vs Deportivo Garcilaso
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F409ba10b0f.m3u8&name=Liga%201%20Max%20Peru
 
 #EXTINF:-1 group-title="American-football",16:30 - Detroit Lions vs New England Patriots
 https://damitv.st/embed/?id=m401873053
@@ -194,10 +20,13 @@ https://damitv.st/embed/?id=m401873053
 https://damitv.st/embed/?id=nfl%2F2026-11-15%2Fne-det_540p
 
 #EXTINF:-1 group-title="American-football",16:30 - Detroit Lions vs New England Patriots
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Fc931da8da2.m3u8&name=FOX%20USA
+https://damitv.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Falfa%2Fadmin2%2Fnfl.m3u8&name=HD%20Server
 
 #EXTINF:-1 group-title="American-football",16:30 - Detroit Lions vs New England Patriots
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Fa3b8955efe.m3u8&name=TSN3
+https://damitv.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Falfa%2Ftedesco%2Fnfl7.m3u8&name=HD%20Server%202
+
+#EXTINF:-1 group-title="American-football",16:30 - Detroit Lions vs New England Patriots
+https://damitv.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Falfa%2Fadmin2%2Fnfl4.m3u8&name=HD%20Server%203
 
 #EXTINF:-1 group-title="American-football",20:00 - Atlanta Falcons vs Kansas City Chiefs
 https://damitv.st/embed/?id=m401873058
@@ -241,6 +70,12 @@ https://damitv.st/embed/?id=nfl%2F2026-11-15%2Fjax-ten_540p
 #EXTINF:-1 group-title="American-football",20:00 - Tennessee Titans vs Jacksonville Jaguars
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F0def19c867.m3u8&name=NFL%20Sunday%20Ticket
 
+#EXTINF:-1 group-title="American-football",20:00 - Tennessee Titans vs Jacksonville Jaguars
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Fec6b763d93.m3u8&name=Server%201
+
+#EXTINF:-1 group-title="American-football",20:00 - Tennessee Titans vs Jacksonville Jaguars
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Fce5b21c4f6.m3u8&name=Server%202
+
 #EXTINF:-1 group-title="American-football",20:00 - Indianapolis Colts vs Miami Dolphins
 https://damitv.st/embed/?id=m401873059
 
@@ -250,6 +85,12 @@ https://damitv.st/embed/?id=nfl%2F2026-11-15%2Fmia-ind_540p
 #EXTINF:-1 group-title="American-football",20:00 - Indianapolis Colts vs Miami Dolphins
 https://damitv.st/player/hls/?v=542&url=%2Fc%2Fb964da3ec0.m3u8&name=NFL%20Sunday%20Ticket
 
+#EXTINF:-1 group-title="American-football",20:00 - Indianapolis Colts vs Miami Dolphins
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Fee8cab1ce0.m3u8&name=Server%201
+
+#EXTINF:-1 group-title="American-football",20:00 - Indianapolis Colts vs Miami Dolphins
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F1f8c72d898.m3u8&name=Server%202
+
 #EXTINF:-1 group-title="American-football",20:00 - New Orleans Saints vs Carolina Panthers
 https://damitv.st/embed/?id=m401873055
 
@@ -258,6 +99,12 @@ https://damitv.st/embed/?id=nfl%2F2026-11-15%2Fcar-no_540p
 
 #EXTINF:-1 group-title="American-football",20:00 - New Orleans Saints vs Carolina Panthers
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F3d4513c685.m3u8&name=NFL%20Sunday%20Ticket
+
+#EXTINF:-1 group-title="American-football",20:00 - New Orleans Saints vs Carolina Panthers
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F7085ceb3a7.m3u8&name=Server%201
+
+#EXTINF:-1 group-title="American-football",20:00 - New Orleans Saints vs Carolina Panthers
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Ff83f72562e.m3u8&name=Server%202
 
 #EXTINF:-1 group-title="American-football",20:00 - New York Jets vs Buffalo Bills
 https://damitv.st/embed/?id=m401873054
@@ -276,6 +123,9 @@ https://damitv.st/embed/?id=m401856887
 
 #EXTINF:-1 group-title="American-football",20:00 - Oklahoma Sooners vs Ole Miss Rebels
 https://damitv.st/embed/?id=cfb%2F2026-11-14%2Fmiss-ou_540p
+
+#EXTINF:-1 group-title="American-football",20:00 - Oklahoma Sooners vs Ole Miss Rebels
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F999832f7c5.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="American-football",23:05 - Las Vegas Raiders vs Seattle Seahawks
 https://damitv.st/embed/?id=m401873062
@@ -306,6 +156,123 @@ https://damitv.st/player/hls/?v=542&url=%2Fc%2Fc931da8da2.m3u8&name=FOX%20USA
 
 #EXTINF:-1 group-title="American-football",23:25 - Dallas Cowboys vs San Francisco 49ers
 https://damitv.st/player/hls/?v=542&url=%2Fc%2Fed33c099b8.m3u8&name=Channel%205%20UK
+
+#EXTINF:-1 group-title="Football",17:00 - Sevilla vs Atlético Madrid
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F044e1c9c49.m3u8&name=DAZN2%20Spain
+
+#EXTINF:-1 group-title="Football",18:30 - Arsenal vs London City Lionesses
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F4a2c801ab2.m3u8&name=Sky%20Sports%20Main%20Event%20UK
+
+#EXTINF:-1 group-title="Football",18:30 - Arsenal vs London City Lionesses
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F8686ecb13d.m3u8&name=Server%201
+
+#EXTINF:-1 group-title="Football",18:30 - Arsenal vs London City Lionesses
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Fc6f981557e.m3u8&name=Sky%20ONE%20UK
+
+#EXTINF:-1 group-title="Football",19:00 - Deportivo vs Barcelona
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F57497055c3.m3u8&name=DAZN1%20Spain
+
+#EXTINF:-1 group-title="Football",19:00 - Belarus vs Albania
+https://damitv.st/embed/?id=mm-own-075ebae7d4
+
+#EXTINF:-1 group-title="Football",19:00 - Belarus vs Albania
+https://damitv.st/embed/?id=uefa-nations-league%2F2026-11-15%2Fblr-alb_540p
+
+#EXTINF:-1 group-title="Football",19:00 - Belarus vs Albania
+https://damitv.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Falfa%2Fadmin2%2Ffsp.m3u8&name=HD%20Server
+
+#EXTINF:-1 group-title="Football",19:00 - Belarus vs Albania
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F1bf0493f3b.m3u8&name=DAZN%20CA
+
+#EXTINF:-1 group-title="Football",19:00 - Belarus vs Albania
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F788a666eba.m3u8&name=Server%201
+
+#EXTINF:-1 group-title="Football",19:00 - Finland vs San Marino
+https://damitv.st/embed/?id=mm-own-d6d19b1de2
+
+#EXTINF:-1 group-title="Football",19:00 - Finland vs San Marino
+https://damitv.st/embed/?id=uefa-nations-league%2F2026-11-15%2Ffin-smr_540p
+
+#EXTINF:-1 group-title="Football",19:00 - Finland vs San Marino
+https://damitv.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Falfa%2Fadmin2%2Fvix.m3u8&name=HD%20Server
+
+#EXTINF:-1 group-title="Football",19:00 - Finland vs San Marino
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F578f7e9951.m3u8&name=DAZN%20CA
+
+#EXTINF:-1 group-title="Football",19:00 - Finland vs San Marino
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F68873e0660.m3u8&name=Server%201
+
+#EXTINF:-1 group-title="Football",19:15 - Valencia vs Granada
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F044e1c9c49.m3u8&name=DAZN2%20Spain
+
+#EXTINF:-1 group-title="Football",20:00 - Comerciantes Unidos vs Sport Boys
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F409ba10b0f.m3u8&name=Liga%201%20Max%20Peru
+
+#EXTINF:-1 group-title="Football",21:45 - Croatia vs Czechia
+https://damitv.st/embed/?id=m401861178
+
+#EXTINF:-1 group-title="Football",21:45 - Croatia vs Czechia
+https://damitv.st/embed/?id=uefa-nations-league%2F2026-11-15%2Fcro-cze_540p
+
+#EXTINF:-1 group-title="Football",21:45 - Croatia vs Czechia
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F0a9a0f051d.m3u8&name=DAZN%20CA
+
+#EXTINF:-1 group-title="Football",21:45 - Croatia vs Czechia
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Fd2f0830880.m3u8&name=Nova%20TV%20Croatia
+
+#EXTINF:-1 group-title="Football",21:45 - Croatia vs Czechia
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F681c9e8150.m3u8&name=%C4%8CT%20Sport%20CZ
+
+#EXTINF:-1 group-title="Football",21:45 - France vs Türkiye
+https://damitv.st/embed/?id=mm-own-18c361590c
+
+#EXTINF:-1 group-title="Football",21:45 - France vs Türkiye
+https://damitv.st/embed/?id=uefa-nations-league%2F2026-11-15%2Ffra-tur_540p
+
+#EXTINF:-1 group-title="Football",21:45 - France vs Türkiye
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F9312c6fb66.m3u8&name=Fox%20Sports%202%20USA
+
+#EXTINF:-1 group-title="Football",21:45 - Belgium vs Italy
+https://damitv.st/embed/?id=mm-own-c58f44cc48
+
+#EXTINF:-1 group-title="Football",21:45 - Belgium vs Italy
+https://damitv.st/embed/?id=uefa-nations-league%2F2026-11-15%2Fbel-ita_540p
+
+#EXTINF:-1 group-title="Football",21:45 - Belgium vs Italy
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Fe96b595e88.m3u8&name=DAZN%20CA
+
+#EXTINF:-1 group-title="Football",21:45 - Belgium vs Italy
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Fe67c26b3e8.m3u8&name=RAI%201%20IT
+
+#EXTINF:-1 group-title="Football",21:45 - Belgium vs Italy
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Faf05b60ffe.m3u8&name=Sport%20TV3%20Portugal
+
+#EXTINF:-1 group-title="Football",21:45 - Spain vs England
+https://damitv.st/embed/?id=mm-own-6742726ca5
+
+#EXTINF:-1 group-title="Football",21:45 - Spain vs England
+https://damitv.st/embed/?id=uefa-nations-league%2F2026-11-15%2Fesp-eng_540p
+
+#EXTINF:-1 group-title="Football",21:45 - Spain vs England
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F08de142983.m3u8&name=DAZN%20CA
+
+#EXTINF:-1 group-title="Football",21:45 - Spain vs England
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F41246432c9.m3u8&name=ITV%201%20UK
+
+#EXTINF:-1 group-title="Football",21:45 - Spain vs England
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F7af26ce520.m3u8&name=TVE%20La%201%20Spain
+
+#EXTINF:-1 group-title="Football",22:00 - Gotham FC vs Kansas City Current
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F8afdcdd622.m3u8&name=TNT%20Sports%201%20UK
+
+#EXTINF:-1 group-title="Football",22:00 - Gotham FC vs Kansas City Current
+https://damitv.st/player/hls/?v=542&url=%2Fc%2Fddd8d97951.m3u8&name=ABC%20USA
+
+#EXTINF:-1 group-title="Football",22:00 - Gotham FC vs Kansas City Current
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F91ab5d5593.m3u8&name=ABC%20NY%20USA
+
+#EXTINF:-1 group-title="Football",22:15 - Juan Pablo II vs Deportivo Garcilaso
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F409ba10b0f.m3u8&name=Liga%201%20Max%20Peru
 
 #EXTINF:-1 group-title="Basketball",20:00 - Philadelphia 76ers vs Indiana Pacers
 https://damitv.st/embed/?id=m401909985
@@ -394,41 +361,44 @@ https://damitv.st/player/hls/?v=542&url=%2Fc%2F7ec69e034e.m3u8&name=NBA%20League
 #EXTINF:-1 group-title="Basketball",00:00 - Utah Jazz vs San Antonio Spurs
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F9b87bf6a59.m3u8&name=Arena%201%20Premium%20Serbia
 
-#EXTINF:-1 group-title="24/7-streams",11:54 - NFL Network
+#EXTINF:-1 group-title="Motor-sports",00:00 - Nhra Drag Racing In-N-Out Burger Nhra Finals
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F5f3ab15fe7.m3u8&name=Fox%20Sports%201%20USA
+
+#EXTINF:-1 group-title="24/7-streams",19:24 - NFL Network
 https://damitv.st/embed/?id=247-nfl-network
 
-#EXTINF:-1 group-title="24/7-streams",11:54 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",19:24 - NFL Network
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F1ac9bf5091.m3u8&name=NFL%20RedZone
 
-#EXTINF:-1 group-title="24/7-streams",11:54 - Fox Footy
+#EXTINF:-1 group-title="24/7-streams",19:24 - Fox Footy
 https://damitv.st/embed/?id=247-247-fox-footy
 
-#EXTINF:-1 group-title="24/7-streams",11:54 - Willow
+#EXTINF:-1 group-title="24/7-streams",19:24 - Willow
 https://damitv.st/embed/?id=247-247-willow
 
-#EXTINF:-1 group-title="24/7-streams",11:54 - Fox Cricket
+#EXTINF:-1 group-title="24/7-streams",19:24 - Fox Cricket
 https://damitv.st/embed/?id=247-247-fox-cricket
 
-#EXTINF:-1 group-title="24/7-streams",11:54 - NHL Network
+#EXTINF:-1 group-title="24/7-streams",19:24 - NHL Network
 https://damitv.st/embed/?id=247-nhl-network-29780
 
-#EXTINF:-1 group-title="24/7-streams",11:54 - Fox League
+#EXTINF:-1 group-title="24/7-streams",19:24 - Fox League
 https://damitv.st/embed/?id=247-247-fox-league
 
-#EXTINF:-1 group-title="24/7-streams",11:54 - South Park
+#EXTINF:-1 group-title="24/7-streams",19:24 - South Park
 https://damitv.st/embed/?id=247-247-south-park
 
-#EXTINF:-1 group-title="24/7-streams",11:54 - Family Guy
+#EXTINF:-1 group-title="24/7-streams",19:24 - Family Guy
 https://damitv.st/embed/?id=247-247-family-guy
 
-#EXTINF:-1 group-title="24/7-streams",11:54 - The Simpsons
+#EXTINF:-1 group-title="24/7-streams",19:24 - The Simpsons
 https://damitv.st/embed/?id=247-247-the-simpsons
 
-#EXTINF:-1 group-title="24/7-streams",11:54 - Rally TV
+#EXTINF:-1 group-title="24/7-streams",19:24 - Rally TV
 https://damitv.st/embed/?id=247-rally-tv
 
-#EXTINF:-1 group-title="24/7-streams",11:54 - Tennis Channel
+#EXTINF:-1 group-title="24/7-streams",19:24 - Tennis Channel
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F229d7c7755.m3u8&name=Tennis%20Channel
 
-#EXTINF:-1 group-title="24/7-streams",11:54 - Sky Sports Golf
+#EXTINF:-1 group-title="24/7-streams",19:24 - Sky Sports Golf
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F9f5dca47df.m3u8&name=Sky%20Sports%20Golf

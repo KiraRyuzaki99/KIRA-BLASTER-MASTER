@@ -1,11 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
+#EXTINF:-1 group-title="Darts – PDC Darts",Oggi 13:00 - Grand Slam of Darts | Day 2, Session 1 [HD | PDC.TV]
+https://august.ppvtv.icu/embed.html?match=ck4q9n2&server=0
+
+#EXTINF:-1 group-title="Darts – PDC Darts",Oggi 13:00 - Grand Slam of Darts | Day 2, Session 1 [SD | PDC.TV]
+https://august.ppvtv.icu/embed.html?match=ck4q9n2&server=1
+
 #EXTINF:-1 group-title="American Football – NFL",Oggi 14:30 - New England Patriots at Detroit Lions [HD | Fox]
 https://august.ppvtv.icu/embed.html?match=c124zhea&server=0
 
 #EXTINF:-1 group-title="American Football – NFL",Oggi 14:30 - New England Patriots at Detroit Lions [SD | Fox]
 https://august.ppvtv.icu/embed.html?match=c124zhea&server=1
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 17:00 - Belarus vs. Albania [HD | DAZN]
+https://august.ppvtv.icu/embed.html?match=f1j3l08v&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 17:00 - Belarus vs. Albania [SD | DAZN]
+https://august.ppvtv.icu/embed.html?match=f1j3l08v&server=1
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 17:00 - Finland vs. San Marino [HD | DAZN]
+https://august.ppvtv.icu/embed.html?match=fskhqp7&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 17:00 - Finland vs. San Marino [SD | DAZN]
+https://august.ppvtv.icu/embed.html?match=fskhqp7&server=1
 
 #EXTINF:-1 group-title="American Football – NFL",Oggi 18:00 - Kansas City Chiefs at Atlanta Falcons [HD | CBS]
 https://august.ppvtv.icu/embed.html?match=cmq2hhw&server=0
@@ -84,6 +102,36 @@ https://august.ppvtv.icu/embed.html?match=clx0br5&server=0
 
 #EXTINF:-1 group-title="Basketball – College Basketball",Oggi 19:00 - William & Mary Tribe at Michigan Wolverines [SD | B1G+]
 https://august.ppvtv.icu/embed.html?match=clx0br5&server=1
+
+#EXTINF:-1 group-title="Darts – PDC Darts",Oggi 19:00 - Grand Slam of Darts | Day 2, Session 2 [HD | PDC.TV]
+https://august.ppvtv.icu/embed.html?match=c6ccnq3&server=0
+
+#EXTINF:-1 group-title="Darts – PDC Darts",Oggi 19:00 - Grand Slam of Darts | Day 2, Session 2 [SD | PDC.TV]
+https://august.ppvtv.icu/embed.html?match=c6ccnq3&server=1
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 19:45 - Belgium vs. Italy [HD | DAZN]
+https://august.ppvtv.icu/embed.html?match=fuix9fx&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 19:45 - Belgium vs. Italy [SD | DAZN]
+https://august.ppvtv.icu/embed.html?match=fuix9fx&server=1
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 19:45 - Croatia vs. Czechia [HD | DAZN]
+https://august.ppvtv.icu/embed.html?match=frvkatr&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 19:45 - Croatia vs. Czechia [SD | DAZN]
+https://august.ppvtv.icu/embed.html?match=frvkatr&server=1
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 19:45 - France vs. Türkiye [HD | DAZN]
+https://august.ppvtv.icu/embed.html?match=fpmk1gn&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 19:45 - France vs. Türkiye [SD | DAZN]
+https://august.ppvtv.icu/embed.html?match=fpmk1gn&server=1
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 19:45 - Spain vs. England [HD | DAZN]
+https://august.ppvtv.icu/embed.html?match=fnlhw8v&server=0
+
+#EXTINF:-1 group-title="Football – UEFA Nations League",Oggi 19:45 - Spain vs. England [SD | DAZN]
+https://august.ppvtv.icu/embed.html?match=fnlhw8v&server=1
 
 #EXTINF:-1 group-title="Basketball – College Basketball",Oggi 20:00 - Baylor Bears at Texas Longhorns [HD | ESPN]
 https://august.ppvtv.icu/embed.html?match=cqqau2g&server=0
@@ -241,6 +289,30 @@ https://august.ppvtv.icu/embed.html?match=c1wyxmjv&server=0
 #EXTINF:-1 group-title="Basketball – College Basketball",Domani 00:00 - Arkansas-Pine Bluff Golden Lions at USC Trojans [SD | B1G+]
 https://august.ppvtv.icu/embed.html?match=c1wyxmjv&server=1
 
+#EXTINF:-1 group-title="Basketball – NBA",Domani 00:00 - Orlando Magic vs. Boston Celtics [HD | NBCSN]
+https://august.ppvtv.icu/embed.html?match=f1drhd3w&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 00:00 - Orlando Magic vs. Boston Celtics [SD | NBCSN]
+https://august.ppvtv.icu/embed.html?match=f1drhd3w&server=1
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 00:00 - Chicago Bulls vs. Cleveland Cavaliers [HD | Home]
+https://august.ppvtv.icu/embed.html?match=f1hzqr0i&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 00:00 - Chicago Bulls vs. Cleveland Cavaliers [SD | Home]
+https://august.ppvtv.icu/embed.html?match=f1hzqr0i&server=1
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 00:00 - Memphis Grizzlies vs. Washington Wizards [HD | Home]
+https://august.ppvtv.icu/embed.html?match=f1s2z03m&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 00:00 - Memphis Grizzlies vs. Washington Wizards [SD | Home]
+https://august.ppvtv.icu/embed.html?match=f1s2z03m&server=1
+
+#EXTINF:-1 group-title="Basketball – College Basketball",Domani 00:00 - Grambling Tigers at Kentucky Wildcats [HD | SECN+]
+https://august.ppvtv.icu/embed.html?match=c8gmpl1&server=0
+
+#EXTINF:-1 group-title="Basketball – College Basketball",Domani 00:00 - Grambling Tigers at Kentucky Wildcats [SD | SECN+]
+https://august.ppvtv.icu/embed.html?match=c8gmpl1&server=1
+
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 00:00 - 24/7 SpongeBob Squarepants [HD | 24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c10yqzo0&server=0
 
@@ -268,11 +340,59 @@ https://august.ppvtv.icu/embed.html?match=cljhyd2&server=0
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 00:00 - Fox News [SD | Fox News]
 https://august.ppvtv.icu/embed.html?match=cljhyd2&server=1
 
+#EXTINF:-1 group-title="Basketball – NBA",Domani 00:30 - Philadelphia 76ers vs. Brooklyn Nets [HD | Home]
+https://august.ppvtv.icu/embed.html?match=f1d5vfak&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 00:30 - Philadelphia 76ers vs. Brooklyn Nets [SD | Home]
+https://august.ppvtv.icu/embed.html?match=f1d5vfak&server=1
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 00:30 - Houston Rockets vs. Miami Heat [HD | Home]
+https://august.ppvtv.icu/embed.html?match=f1vjmvzw&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 00:30 - Houston Rockets vs. Miami Heat [SD | Home]
+https://august.ppvtv.icu/embed.html?match=f1vjmvzw&server=1
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:30 - Edmonton Oilers vs. Philadelphia Flyers [HD | NBC Sports Phil]
+https://august.ppvtv.icu/embed.html?match=fkkppqh&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 00:30 - Edmonton Oilers vs. Philadelphia Flyers [SD | NBC Sports Phil]
+https://august.ppvtv.icu/embed.html?match=fkkppqh&server=1
+
 #EXTINF:-1 group-title="Basketball – NBA",Domani 01:00 - Atlanta Hawks vs. Milwaukee Bucks [HD | Home]
 https://august.ppvtv.icu/embed.html?match=f11ghv3h&server=0
 
 #EXTINF:-1 group-title="Basketball – NBA",Domani 01:00 - Atlanta Hawks vs. Milwaukee Bucks [SD | Home]
 https://august.ppvtv.icu/embed.html?match=f11ghv3h&server=1
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 01:00 - Portland Trail Blazers vs. Minnesota Timberwolves [HD | Home]
+https://august.ppvtv.icu/embed.html?match=ftge498&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 01:00 - Portland Trail Blazers vs. Minnesota Timberwolves [SD | Home]
+https://august.ppvtv.icu/embed.html?match=ftge498&server=1
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 01:00 - Portland Trail Blazers vs. Minnesota Timberwolves [HD | Away]
+https://august.ppvtv.icu/embed.html?match=ftge498&server=2
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 01:00 - Portland Trail Blazers vs. Minnesota Timberwolves [SD | Away]
+https://august.ppvtv.icu/embed.html?match=ftge498&server=3
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 01:00 - Golden State Warriors vs. New Orleans Pelicans [HD | Home]
+https://august.ppvtv.icu/embed.html?match=f487kl4&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 01:00 - Golden State Warriors vs. New Orleans Pelicans [SD | Home]
+https://august.ppvtv.icu/embed.html?match=f487kl4&server=1
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 01:00 - Florida Panthers vs. Dallas Stars [HD | Scripps Sports]
+https://august.ppvtv.icu/embed.html?match=f1vuz0b9&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 01:00 - Florida Panthers vs. Dallas Stars [SD | Scripps Sports]
+https://august.ppvtv.icu/embed.html?match=f1vuz0b9&server=1
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 01:00 - Calgary Flames vs. Anaheim Ducks [HD | KCOP]
+https://august.ppvtv.icu/embed.html?match=fjw7fht&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 01:00 - Calgary Flames vs. Anaheim Ducks [SD | KCOP]
+https://august.ppvtv.icu/embed.html?match=fjw7fht&server=1
 
 #EXTINF:-1 group-title="American Football – NFL",Domani 01:15 - Los Angeles Chargers at Baltimore Ravens [HD | ESPN]
 https://august.ppvtv.icu/embed.html?match=c10pp0hv&server=0
@@ -298,6 +418,36 @@ https://august.ppvtv.icu/embed.html?match=fwirdze&server=2
 #EXTINF:-1 group-title="Basketball – NBA",Domani 02:00 - Oklahoma City Thunder vs. Sacramento Kings [SD | Away]
 https://august.ppvtv.icu/embed.html?match=fwirdze&server=3
 
+#EXTINF:-1 group-title="Basketball – NBA",Domani 02:00 - Phoenix Suns vs. Denver Nuggets [HD | Home]
+https://august.ppvtv.icu/embed.html?match=fc7pheh&server=0
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 02:00 - Phoenix Suns vs. Denver Nuggets [SD | Home]
+https://august.ppvtv.icu/embed.html?match=fc7pheh&server=1
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 02:00 - Phoenix Suns vs. Denver Nuggets [HD | Away]
+https://august.ppvtv.icu/embed.html?match=fc7pheh&server=2
+
+#EXTINF:-1 group-title="Basketball – NBA",Domani 02:00 - Phoenix Suns vs. Denver Nuggets [SD | Away]
+https://august.ppvtv.icu/embed.html?match=fc7pheh&server=3
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 02:00 - Vancouver Canucks vs. Vegas Golden Knights [HD | Scripps Sports]
+https://august.ppvtv.icu/embed.html?match=fcsgfk3&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 02:00 - Vancouver Canucks vs. Vegas Golden Knights [SD | Scripps Sports]
+https://august.ppvtv.icu/embed.html?match=fcsgfk3&server=1
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 02:00 - Nashville Predators vs. San Jose Sharks [HD | NBC Sports BA]
+https://august.ppvtv.icu/embed.html?match=f135xuiq&server=0
+
+#EXTINF:-1 group-title="Ice Hockey – NHL",Domani 02:00 - Nashville Predators vs. San Jose Sharks [SD | NBC Sports BA]
+https://august.ppvtv.icu/embed.html?match=f135xuiq&server=1
+
+#EXTINF:-1 group-title="Basketball – College Basketball",Domani 03:00 - Long Beach State Beach at UCLA Bruins [HD | BTN]
+https://august.ppvtv.icu/embed.html?match=c1octxs6&server=0
+
+#EXTINF:-1 group-title="Basketball – College Basketball",Domani 03:00 - Long Beach State Beach at UCLA Bruins [SD | BTN]
+https://august.ppvtv.icu/embed.html?match=c1octxs6&server=1
+
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 05:00 - 24/7 COWS [HD | 24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1dc895w&server=0
 
@@ -315,3 +465,51 @@ https://august.ppvtv.icu/embed.html?match=c1j7a3d7&server=0
 
 #EXTINF:-1 group-title="24/7 Streams – 24/7 channel",Passato 10:28 - 24/7 The Simpsons [SD | 24/7 channel]
 https://august.ppvtv.icu/embed.html?match=c1j7a3d7&server=1
+
+#EXTINF:-1 group-title="Darts – PDC Darts",Domani 12:00 - Grand Slam of Darts | Day 9, Session 1 [HD | PDC.TV]
+https://august.ppvtv.icu/embed.html?match=c104y8e1&server=0
+
+#EXTINF:-1 group-title="Darts – PDC Darts",Domani 12:00 - Grand Slam of Darts | Day 9, Session 1 [SD | PDC.TV]
+https://august.ppvtv.icu/embed.html?match=c104y8e1&server=1
+
+#EXTINF:-1 group-title="Darts – PDC Darts",Domani 19:00 - Grand Slam of Darts | Day 3 [HD | PDC.TV]
+https://august.ppvtv.icu/embed.html?match=c1odb1t4&server=0
+
+#EXTINF:-1 group-title="Darts – PDC Darts",Domani 19:00 - Grand Slam of Darts | Day 3 [SD | PDC.TV]
+https://august.ppvtv.icu/embed.html?match=c1odb1t4&server=1
+
+#EXTINF:-1 group-title="Darts – PDC Darts",Domani 19:00 - Grand Slam of Darts | Day 4 [HD | PDC.TV]
+https://august.ppvtv.icu/embed.html?match=c16x3yh9&server=0
+
+#EXTINF:-1 group-title="Darts – PDC Darts",Domani 19:00 - Grand Slam of Darts | Day 4 [SD | PDC.TV]
+https://august.ppvtv.icu/embed.html?match=c16x3yh9&server=1
+
+#EXTINF:-1 group-title="Darts – PDC Darts",Domani 19:00 - Grand Slam of Darts | Day 5 [HD | PDC.TV]
+https://august.ppvtv.icu/embed.html?match=c1cyn6xy&server=0
+
+#EXTINF:-1 group-title="Darts – PDC Darts",Domani 19:00 - Grand Slam of Darts | Day 5 [SD | PDC.TV]
+https://august.ppvtv.icu/embed.html?match=c1cyn6xy&server=1
+
+#EXTINF:-1 group-title="Darts – PDC Darts",Domani 19:00 - Grand Slam of Darts | Day 6 [HD | PDC.TV]
+https://august.ppvtv.icu/embed.html?match=c1pu066r&server=0
+
+#EXTINF:-1 group-title="Darts – PDC Darts",Domani 19:00 - Grand Slam of Darts | Day 6 [SD | PDC.TV]
+https://august.ppvtv.icu/embed.html?match=c1pu066r&server=1
+
+#EXTINF:-1 group-title="Darts – PDC Darts",Domani 19:00 - Grand Slam of Darts | Day 7 [HD | PDC.TV]
+https://august.ppvtv.icu/embed.html?match=cujnp98&server=0
+
+#EXTINF:-1 group-title="Darts – PDC Darts",Domani 19:00 - Grand Slam of Darts | Day 7 [SD | PDC.TV]
+https://august.ppvtv.icu/embed.html?match=cujnp98&server=1
+
+#EXTINF:-1 group-title="Darts – PDC Darts",Domani 19:00 - Grand Slam of Darts | Day 8 [HD | PDC.TV]
+https://august.ppvtv.icu/embed.html?match=c1pt77wh&server=0
+
+#EXTINF:-1 group-title="Darts – PDC Darts",Domani 19:00 - Grand Slam of Darts | Day 8 [SD | PDC.TV]
+https://august.ppvtv.icu/embed.html?match=c1pt77wh&server=1
+
+#EXTINF:-1 group-title="Darts – PDC Darts",Domani 19:00 - Grand Slam of Darts | Day 9, Session 2 [HD | PDC.TV]
+https://august.ppvtv.icu/embed.html?match=c8pn4bs&server=0
+
+#EXTINF:-1 group-title="Darts – PDC Darts",Domani 19:00 - Grand Slam of Darts | Day 9, Session 2 [SD | PDC.TV]
+https://august.ppvtv.icu/embed.html?match=c8pn4bs&server=1

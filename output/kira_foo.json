@@ -33,30 +33,6 @@
     ]
   },
   {
-    "title": "Moldova Faroe Islands",
-    "category": "Moldova",
-    "logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
-    "start_iso": "2026-11-16T15:00:00.000Z",
-    "end_iso": "2026-11-16T17:15:00.000Z",
-    "date": "Monday, 16 November 2026",
-    "time": "17:00",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/moldova-vs-faroe-islands",
-    "servers": []
-  },
-  {
-    "title": "Slovakia Kazakhstan",
-    "category": "Slovakia",
-    "logo": "https://cdn.img4every1.org/team/slovakia/logo.webp",
-    "start_iso": "2026-11-16T15:00:00.000Z",
-    "end_iso": "2026-11-16T17:15:00.000Z",
-    "date": "Monday, 16 November 2026",
-    "time": "17:00",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/slovakia-vs-kazakhstan",
-    "servers": []
-  },
-  {
     "title": "Liechtenstein Lithuania",
     "category": "Liechtenstein",
     "logo": "https://cdn.img4every1.org/team/liechtenstein/logo.webp",
@@ -64,9 +40,30 @@
     "end_iso": "2026-11-16T19:15:00.000Z",
     "date": "Monday, 16 November 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/liechtenstein-vs-lithuania",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/liechtenstein-vs-lithuania/3694",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/liechtenstein-vs-lithuania/3700",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Luxembourg Iceland",
@@ -76,9 +73,40 @@
     "end_iso": "2026-11-16T19:15:00.000Z",
     "date": "Monday, 16 November 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/luxembourg-vs-iceland",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/luxembourg-vs-iceland/3701",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/luxembourg-vs-iceland/3702",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/luxembourg-vs-iceland/3716",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "Bulgaria Estonia",
@@ -88,9 +116,30 @@
     "end_iso": "2026-11-16T19:15:00.000Z",
     "date": "Monday, 16 November 2026",
     "time": "19:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/bulgaria-vs-estonia",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bulgaria-vs-estonia/3697",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bulgaria-vs-estonia/3703",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Guyana Puerto Rico",
@@ -125,7 +174,180 @@
     "time": "21:45",
     "status": "next",
     "event_url": "https://footystreams.pk/events/germany-vs-netherlands",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/germany-vs-netherlands/3704",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/germany-vs-netherlands/3705",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Deutsch",
+        "url": "https://playerdee.top/alpha/germany-vs-netherlands/3706",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/germany-vs-netherlands/3707",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/germany-vs-netherlands/3708",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Serbia Greece",
+    "category": "Serbia",
+    "logo": "https://cdn.img4every1.org/team/serbia/logo.webp",
+    "start_iso": "2026-11-16T19:45:00.000Z",
+    "end_iso": "2026-11-16T22:00:00.000Z",
+    "date": "Monday, 16 November 2026",
+    "time": "21:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/serbia-vs-greece",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/serbia-vs-greece/3698",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/serbia-vs-greece/3709",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Scotland Switzerland",
+    "category": "Scotland",
+    "logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+    "start_iso": "2026-11-16T19:45:00.000Z",
+    "end_iso": "2026-11-16T22:00:00.000Z",
+    "date": "Monday, 16 November 2026",
+    "time": "21:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/scotland-vs-switzerland",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/scotland-vs-switzerland/3710",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/scotland-vs-switzerland/3711",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/scotland-vs-switzerland/3712",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Slovenia North Macedonia",
+    "category": "Slovenia",
+    "logo": "https://cdn.img4every1.org/team/slovenia/logo.webp",
+    "start_iso": "2026-11-16T19:45:00.000Z",
+    "end_iso": "2026-11-16T22:00:00.000Z",
+    "date": "Monday, 16 November 2026",
+    "time": "21:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/slovenia-vs-north-macedonia",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/slovenia-vs-north-macedonia/3713",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Malta Gibraltar",
+    "category": "Malta",
+    "logo": "https://cdn.img4every1.org/team/malta/logo.webp",
+    "start_iso": "2026-11-16T19:45:00.000Z",
+    "end_iso": "2026-11-16T22:00:00.000Z",
+    "date": "Monday, 16 November 2026",
+    "time": "21:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/malta-vs-gibraltar",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/malta-vs-gibraltar/3714",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Trinidad and Tobago Antigua and Barbuda",
@@ -206,7 +428,51 @@
     "time": "12:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/brazil-vs-singapore",
-    "servers": []
+    "servers": [
+      {
+        "label": "Brazilian PT",
+        "url": "https://playerdee.top/alpha/brazil-vs-singapore/3715",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Brazilian PT"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Pakistan India",
+    "category": "Pakistan",
+    "logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
+    "start_iso": "2026-11-17T14:00:00.000Z",
+    "end_iso": "2026-11-17T16:30:00.000Z",
+    "date": "Tuesday, 17 November 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/pakistan-vs-india",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/pakistan-vs-india/3691",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/pakistan-vs-india/3692",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Jordan Australia",
@@ -256,6 +522,18 @@
     ]
   },
   {
+    "title": "Portugal Wales",
+    "category": "Portugal",
+    "logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
+    "start_iso": "2026-11-17T19:45:00.000Z",
+    "end_iso": "2026-11-17T22:00:00.000Z",
+    "date": "Tuesday, 17 November 2026",
+    "time": "21:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/portugal-vs-wales",
+    "servers": []
+  },
+  {
     "title": "Argentina Costa Rica",
     "category": "Argentina",
     "logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
@@ -266,5 +544,96 @@
     "status": "next",
     "event_url": "https://footystreams.pk/events/argentina-vs-costa-rica",
     "servers": []
+  },
+  {
+    "title": "Bayern München Köln",
+    "category": "Bayern München",
+    "logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+    "start_iso": "2026-11-20T19:30:00.000Z",
+    "end_iso": "2026-11-20T21:45:00.000Z",
+    "date": "Friday, 20 November 2026",
+    "time": "21:30",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/bayern-munchen-vs-koln",
+    "servers": []
+  },
+  {
+    "title": "Troyes Le Havre",
+    "category": "Troyes",
+    "logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
+    "start_iso": "2026-11-20T19:45:00.000Z",
+    "end_iso": "2026-11-20T22:00:00.000Z",
+    "date": "Friday, 20 November 2026",
+    "time": "21:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/troyes-vs-le-havre",
+    "servers": []
+  },
+  {
+    "title": "Espanyol Athletic Club",
+    "category": "Espanyol",
+    "logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+    "start_iso": "2026-11-20T20:00:00.000Z",
+    "end_iso": "2026-11-20T22:15:00.000Z",
+    "date": "Friday, 20 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/espanyol-vs-athletic-club",
+    "servers": []
+  },
+  {
+    "title": "Barnsley Sheffield Wednesday",
+    "category": "Barnsley",
+    "logo": "https://cdn.img4every1.org/team/barnsley/logo.webp",
+    "start_iso": "2026-11-20T20:00:00.000Z",
+    "end_iso": "2026-11-20T22:15:00.000Z",
+    "date": "Friday, 20 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/barnsley-vs-sheffield-wednesday",
+    "servers": []
+  },
+  {
+    "title": "Porto Paredes",
+    "category": "Porto",
+    "logo": "https://cdn.img4every1.org/team/porto/logo.webp",
+    "start_iso": "2026-11-20T20:45:00.000Z",
+    "end_iso": "2026-11-20T23:00:00.000Z",
+    "date": "Friday, 20 November 2026",
+    "time": "22:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/porto-vs-paredes",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/porto-vs-paredes/3717",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/porto-vs-paredes/3718",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://playerdee.top/alpha/porto-vs-paredes/3719",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      }
+    ]
   }
 ]

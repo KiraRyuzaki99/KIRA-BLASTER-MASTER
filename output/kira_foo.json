@@ -1,28 +1,5 @@
 [
   {
-    "title": "Snooker Champion of Champions Snooker",
-    "category": "Snooker Champion of Champions",
-    "logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-    "start_iso": "2026-11-09T12:45:00.000Z",
-    "end_iso": "2026-11-15T23:45:00.000Z",
-    "date": "Monday, 09 November 2026",
-    "time": "14:45",
-    "status": "live",
-    "event_url": "https://footystreams.pk/events/snooker-champion-of-champions",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/snooker-champion-of-champions/3579",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Grand Slam of Darts Darts",
     "category": "Grand Slam of Darts",
     "logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
@@ -46,95 +23,6 @@
       {
         "label": "English",
         "url": "https://playerdee.top/alpha/grand-slam-of-darts-live-stream/3632",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Dallas Cowboys San Francisco 49ers",
-    "category": "Dallas Cowboys",
-    "logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-    "start_iso": "2026-11-15T21:25:00.000Z",
-    "end_iso": "2026-11-16T00:35:00.000Z",
-    "date": "Sunday, 15 November 2026",
-    "time": "23:25",
-    "status": "live",
-    "event_url": "https://footystreams.pk/events/cowboys-vs-49ers",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/cowboys-vs-49ers/3688",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Panama Curaçao",
-    "category": "Panama",
-    "logo": "https://cdn.img4every1.org/team/panama/logo.webp",
-    "start_iso": "2026-11-15T23:00:00.000Z",
-    "end_iso": "2026-11-16T01:15:00.000Z",
-    "date": "Monday, 16 November 2026",
-    "time": "01:00",
-    "status": "live",
-    "event_url": "https://footystreams.pk/events/panama-vs-curacao",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/panama-vs-curacao/3658",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://playerdee.top/alpha/panama-vs-curacao/3659",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Pittsburgh Steelers Cincinnati Bengals",
-    "category": "Pittsburgh Steelers",
-    "logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
-    "start_iso": "2026-11-16T01:20:00.000Z",
-    "end_iso": "2026-11-16T04:30:00.000Z",
-    "date": "Monday, 16 November 2026",
-    "time": "03:20",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/steelers-vs-bengals",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/steelers-vs-bengals/3689",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/steelers-vs-bengals/3690",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",

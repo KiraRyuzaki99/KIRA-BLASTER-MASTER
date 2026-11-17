@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="14:00 ATP Finals - Round Robin C. Alcaraz - F. Tiafoe" group-title="ATP Finals",14:00 ATP Finals - Round Robin C. Alcaraz - F. Tiafoe
+#EXTINF:-1 tvg-name="14:00 ATP Finals - Round Robin A. Fils - R. Jódar" group-title="ATP Finals",14:00 ATP Finals - Round Robin A. Fils - R. Jódar
 acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
-#EXTINF:-1 tvg-name="20:30 Segunda -  Albacete - Celta B" group-title="Segunda",20:30 Segunda -  Albacete - Celta B
-acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
-#EXTINF:-1 tvg-name="20:30 ATP Finals - Round Robin D. Medvedev - F. Cobolli" group-title="ATP Finals",20:30 ATP Finals - Round Robin D. Medvedev - F. Cobolli
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-name="20:45 UEFA Nations League - Fase de grupos Alemania - Holanda" group-title="UEFA Nations League",20:45 UEFA Nations League - Fase de grupos Alemania - Holanda
+#EXTINF:-1 tvg-name="18:00 Eurobasket Femenino - Fase de Clasificación Croacia - España" group-title="Eurobasket Femenino",18:00 Eurobasket Femenino - Fase de Clasificación Croacia - España
 acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="01:00 Amistoso -  Argentina - Costa Rica" group-title="Amistoso",01:00 Amistoso -  Argentina - Costa Rica
+#EXTINF:-1 tvg-name="20:30 Euroliga - Liga Regular Barça Basket - Paris Basketball" group-title="Euroliga",20:30 Euroliga - Liga Regular Barça Basket - Paris Basketball
 acestream://86262568aa72b956b06ac67b1c310a32248a0e98
-#EXTINF:-1 tvg-name="02:15 NFL - Liga Regular Baltimore Ravens - Los Angeles Chargers" group-title="NFL",02:15 NFL - Liga Regular Baltimore Ravens - Los Angeles Chargers
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-name="20:30 Champions - Liga Regular Joventut Badalona - FC Porto CB" group-title="Champions",20:30 Champions - Liga Regular Joventut Badalona - FC Porto CB
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-name="20:30 ATP Finals - Round Robin A. Zverev - B. Shelton" group-title="ATP Finals",20:30 ATP Finals - Round Robin A. Zverev - B. Shelton
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5

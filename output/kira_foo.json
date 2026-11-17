@@ -33,169 +33,6 @@
     ]
   },
   {
-    "title": "Pakistan India",
-    "category": "Pakistan",
-    "logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
-    "start_iso": "2026-11-17T14:00:00.000Z",
-    "end_iso": "2026-11-17T16:30:00.000Z",
-    "date": "Tuesday, 17 November 2026",
-    "time": "16:00",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/pakistan-vs-india",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/pakistan-vs-india/3691",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/pakistan-vs-india/3692",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Jordan Australia",
-    "category": "Jordan",
-    "logo": "https://cdn.img4every1.org/team/jordan/logo.webp",
-    "start_iso": "2026-11-17T16:00:00.000Z",
-    "end_iso": "2026-11-17T18:15:00.000Z",
-    "date": "Tuesday, 17 November 2026",
-    "time": "18:00",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/jordan-vs-australia",
-    "servers": [
-      {
-        "label": "Arabic",
-        "url": "https://playerdee.top/alpha/jordan-vs-australia/3720",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Arabic"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Iran Iraq",
-    "category": "Iran",
-    "logo": "https://cdn.img4every1.org/team/iran/logo.webp",
-    "start_iso": "2026-11-17T16:15:00.000Z",
-    "end_iso": "2026-11-17T18:30:00.000Z",
-    "date": "Tuesday, 17 November 2026",
-    "time": "18:15",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/iran-vs-iraq",
-    "servers": []
-  },
-  {
-    "title": "Bonaire Saint Kitts and Nevis",
-    "category": "Bonaire",
-    "logo": "https://cdn.img4every1.org/team/bonaire/logo.webp",
-    "start_iso": "2026-11-17T19:00:00.000Z",
-    "end_iso": "2026-11-17T21:15:00.000Z",
-    "date": "Tuesday, 17 November 2026",
-    "time": "21:00",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/bonaire-vs-st-kitts-and-nevis/3687",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Portugal Wales",
-    "category": "Portugal",
-    "logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
-    "start_iso": "2026-11-17T19:45:00.000Z",
-    "end_iso": "2026-11-17T22:00:00.000Z",
-    "date": "Tuesday, 17 November 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/portugal-vs-wales",
-    "servers": []
-  },
-  {
-    "title": "Norway Denmark",
-    "category": "Norway",
-    "logo": "https://cdn.img4every1.org/team/norway/logo.webp",
-    "start_iso": "2026-11-17T19:45:00.000Z",
-    "end_iso": "2026-11-17T22:00:00.000Z",
-    "date": "Tuesday, 17 November 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/norway-vs-denmark",
-    "servers": []
-  },
-  {
-    "title": "Ireland Kosovo",
-    "category": "Ireland",
-    "logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-    "start_iso": "2026-11-17T19:45:00.000Z",
-    "end_iso": "2026-11-17T22:00:00.000Z",
-    "date": "Tuesday, 17 November 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/ireland-vs-kosovo",
-    "servers": []
-  },
-  {
-    "title": "Austria Israel",
-    "category": "Austria",
-    "logo": "https://cdn.img4every1.org/team/austria/logo.webp",
-    "start_iso": "2026-11-17T19:45:00.000Z",
-    "end_iso": "2026-11-17T22:00:00.000Z",
-    "date": "Tuesday, 17 November 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/austria-vs-israel",
-    "servers": []
-  },
-  {
-    "title": "Northern Ireland Hungary",
-    "category": "Northern Ireland",
-    "logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
-    "start_iso": "2026-11-17T19:45:00.000Z",
-    "end_iso": "2026-11-17T22:00:00.000Z",
-    "date": "Tuesday, 17 November 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/northern-ireland-vs-hungary",
-    "servers": []
-  },
-  {
-    "title": "Bosnia and Herzegovina Romania",
-    "category": "Bosnia and Herzegovina",
-    "logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
-    "start_iso": "2026-11-17T19:45:00.000Z",
-    "end_iso": "2026-11-17T22:00:00.000Z",
-    "date": "Tuesday, 17 November 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/bosnia-vs-romania",
-    "servers": []
-  },
-  {
     "title": "Argentina Costa Rica",
     "category": "Argentina",
     "logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
@@ -205,7 +42,18 @@
     "time": "01:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/argentina-vs-costa-rica",
-    "servers": []
+    "servers": [
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/argentina-vs-costa-rica/3734",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
   },
   {
     "title": "Bayern München Köln",

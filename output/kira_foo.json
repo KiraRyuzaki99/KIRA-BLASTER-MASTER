@@ -33,52 +33,6 @@
     ]
   },
   {
-    "title": "Canada Guatemala",
-    "category": "Canada",
-    "logo": "https://cdn.img4every1.org/team/canada/logo.webp",
-    "start_iso": "2026-11-17T01:00:00.000Z",
-    "end_iso": "2026-11-17T03:15:00.000Z",
-    "date": "Tuesday, 17 November 2026",
-    "time": "03:00",
-    "status": "live",
-    "event_url": "https://footystreams.pk/events/canada-vs-guatemala",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/canada-vs-guatemala/3686",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Brazil Singapore",
-    "category": "Brazil",
-    "logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
-    "start_iso": "2026-11-17T10:00:00.000Z",
-    "end_iso": "2026-11-17T12:15:00.000Z",
-    "date": "Tuesday, 17 November 2026",
-    "time": "12:00",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/brazil-vs-singapore",
-    "servers": [
-      {
-        "label": "Brazilian PT",
-        "url": "https://playerdee.top/alpha/brazil-vs-singapore/3715",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Brazilian PT"
-        }
-      }
-    ]
-  },
-  {
     "title": "Pakistan India",
     "category": "Pakistan",
     "logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
@@ -121,7 +75,18 @@
     "time": "18:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/jordan-vs-australia",
-    "servers": []
+    "servers": [
+      {
+        "label": "Arabic",
+        "url": "https://playerdee.top/alpha/jordan-vs-australia/3720",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Arabic"
+        }
+      }
+    ]
   },
   {
     "title": "Iran Iraq",

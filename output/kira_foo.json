@@ -33,34 +33,36 @@
     ]
   },
   {
-    "title": "Real Madrid Inter Milan",
-    "category": "Real Madrid",
-    "logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-    "start_iso": "2026-11-18T17:45:00.000Z",
-    "end_iso": "2026-11-18T20:00:00.000Z",
-    "date": "Wednesday, 18 November 2026",
-    "time": "19:45",
+    "title": "F1 Las Vegas Grand Prix Formula 1",
+    "category": "F1 Las Vegas Grand Prix",
+    "logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+    "start_iso": "2026-11-19T23:00:00.000Z",
+    "end_iso": "2026-11-22T10:00:00.000Z",
+    "date": "Friday, 20 November 2026",
+    "time": "01:00",
     "status": "next",
-    "event_url": "https://footystreams.pk/events/real-madrid-vs-inter-milan",
+    "event_url": "https://footystreams.pk/events/f1-las-vegas-grand-prix",
+    "servers": []
+  },
+  {
+    "title": "MotoGP Portugal MotoGP",
+    "category": "MotoGP Portugal",
+    "logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+    "start_iso": "2026-11-20T09:00:00.000Z",
+    "end_iso": "2026-11-22T17:00:00.000Z",
+    "date": "Friday, 20 November 2026",
+    "time": "11:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/motogp-portugal",
     "servers": [
       {
         "label": "English",
-        "url": "https://playerdee.top/alpha/real-madrid-vs-inter-milan/3741",
+        "url": "https://playerdee.top/alpha/motogp-portugal/3745",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
           "ads": "2",
           "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://playerdee.top/alpha/real-madrid-vs-inter-milan/3742",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
         }
       }
     ]

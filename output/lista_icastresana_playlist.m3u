@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="14:00 ATP Finals - Round Robin A. Fils - R. Jódar" group-title="ATP Finals",14:00 ATP Finals - Round Robin A. Fils - R. Jódar
+#EXTINF:-1 tvg-name="14:00 ATP Finals - Round Robin C. Alcaraz - D. Medvedev" group-title="ATP Finals",14:00 ATP Finals - Round Robin C. Alcaraz - D. Medvedev
 acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
-#EXTINF:-1 tvg-name="18:00 Eurobasket Femenino - Fase de Clasificación Croacia - España" group-title="Eurobasket Femenino",18:00 Eurobasket Femenino - Fase de Clasificación Croacia - España
+#EXTINF:-1 tvg-name="18:00 Euroliga - Liga Regular Besiktas JK Istanbul - Real Madrid Baloncesto" group-title="Euroliga",18:00 Euroliga - Liga Regular Besiktas JK Istanbul - Real Madrid Baloncesto
+acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
+#EXTINF:-1 tvg-name="18:30 Eurocup - Liga Regular Olimpija Ljubljana - San Pablo Burgos" group-title="Eurocup",18:30 Eurocup - Liga Regular Olimpija Ljubljana - San Pablo Burgos
+acestream://f35418bcdbdf47c2d88adef411e9ed15cb2ccc38
+#EXTINF:-1 tvg-name="19:00 Liga Guerreras -  BM Porriño - Atlético Guardés" group-title="Liga Guerreras",19:00 Liga Guerreras -  BM Porriño - Atlético Guardés
 acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="20:30 Euroliga - Liga Regular Barça Basket - Paris Basketball" group-title="Euroliga",20:30 Euroliga - Liga Regular Barça Basket - Paris Basketball
-acestream://86262568aa72b956b06ac67b1c310a32248a0e98
-#EXTINF:-1 tvg-name="20:30 Champions - Liga Regular Joventut Badalona - FC Porto CB" group-title="Champions",20:30 Champions - Liga Regular Joventut Badalona - FC Porto CB
+#EXTINF:-1 tvg-name="20:30 Champions - Liga Regular Unicaja Málaga - KVIS Pardubice" group-title="Champions",20:30 Champions - Liga Regular Unicaja Málaga - KVIS Pardubice
 acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="20:30 ATP Finals - Round Robin A. Zverev - B. Shelton" group-title="ATP Finals",20:30 ATP Finals - Round Robin A. Zverev - B. Shelton
+#EXTINF:-1 tvg-name="20:30 ATP Finals - Round Robin F. Cobolli - F. Tiafoe" group-title="ATP Finals",20:30 ATP Finals - Round Robin F. Cobolli - F. Tiafoe
 acestream://3afe1af18f8ff78e9946856911b00c67477052b5
+#EXTINF:-1 tvg-name="00:30 Serie A Brasil -  Cruzeiro - Palmeiras" group-title="Serie A Brasil",00:30 Serie A Brasil -  Cruzeiro - Palmeiras
+acestream://f35418bcdbdf47c2d88adef411e9ed15cb2ccc38

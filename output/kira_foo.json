@@ -33,62 +33,6 @@
     ]
   },
   {
-    "title": "Mexico Jamaica",
-    "category": "Mexico",
-    "logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
-    "start_iso": "2026-11-18T02:30:00.000Z",
-    "end_iso": "2026-11-18T04:45:00.000Z",
-    "date": "Wednesday, 18 November 2026",
-    "time": "04:30",
-    "status": "live",
-    "event_url": "https://footystreams.pk/events/mexico-vs-jamaica",
-    "servers": [
-      {
-        "label": "Español",
-        "url": "https://playerdee.top/alpha/mexico-vs-jamaica/3738",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      },
-      {
-        "label": "Portuguese",
-        "url": "https://playerdee.top/alpha/mexico-vs-jamaica/3739",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Nicaragua Montserrat",
-    "category": "Nicaragua",
-    "logo": "https://cdn.img4every1.org/team/nicaragua/logo.webp",
-    "start_iso": "2026-11-18T03:00:00.000Z",
-    "end_iso": "2026-11-18T05:15:00.000Z",
-    "date": "Wednesday, 18 November 2026",
-    "time": "05:00",
-    "status": "live",
-    "event_url": "https://footystreams.pk/events/nicaragua-vs-montserrat",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/nicaragua-vs-montserrat/3740",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Real Madrid Inter Milan",
     "category": "Real Madrid",
     "logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",

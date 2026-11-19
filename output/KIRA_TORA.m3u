@@ -1,35 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Cricket",05:00 - australia vs england
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F91a93f700c.m3u8&name=Willow%202%20Cricket
-
-#EXTINF:-1 group-title="Cricket",05:00 - australia vs england
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F8afdcdd622.m3u8&name=TNT%20Sports%201%20UK
-
-#EXTINF:-1 group-title="Cricket",06:30 - Pakistan vs Sri Lanka
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
-
-#EXTINF:-1 group-title="Cricket",06:30 - Pakistan vs Sri Lanka
+#EXTINF:-1 group-title="Cricket",10:00 - South Africa vs Bangladesh
 https://damitv.st/player/hls/?v=540&url=%2Fc%2F91a93f700c.m3u8&name=Willow%202%20Cricket
 
-#EXTINF:-1 group-title="Cricket",06:30 - Pakistan vs Sri Lanka
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F2622840eac.m3u8&name=Astro%20Cricket
-
-#EXTINF:-1 group-title="Cricket",06:40 - Hobart W vs Perth W
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F9bec686fd0.m3u8&name=Sky%20Sports%20Cricket%20UK
-
-#EXTINF:-1 group-title="Cricket",06:40 - Hobart W vs Perth W
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F87cad238ba.m3u8&name=Sky%20Sport%202%20NZ
-
-#EXTINF:-1 group-title="Cricket",06:40 - Hobart W vs Perth W
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F60d47ba098.m3u8&name=Sky%20Sports%2B
-
 #EXTINF:-1 group-title="Cricket",10:00 - South Africa vs Bangladesh
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F91a93f700c.m3u8&name=Willow%202%20Cricket
-
-#EXTINF:-1 group-title="Cricket",10:00 - South Africa vs Bangladesh
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F9bec686fd0.m3u8&name=Sky%20Sports%20Cricket%20UK
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F9bec686fd0.m3u8&name=Sky%20Sports%20Cricket%20UK
 
 #EXTINF:-1 group-title="Cricket",10:00 - South Africa vs Bangladesh
 https://damitv.st/player/hls/?v=540&url=%2Fc%2F28897bfbe1.m3u8&name=SuperSport%20Cricket
@@ -37,245 +13,104 @@ https://damitv.st/player/hls/?v=540&url=%2Fc%2F28897bfbe1.m3u8&name=SuperSport%2
 #EXTINF:-1 group-title="Cricket",10:00 - South Africa vs Bangladesh
 https://damitv.st/player/hls/?v=540&url=%2Fc%2F716de83302.m3u8&name=SuperSport%20Grandstand
 
-#EXTINF:-1 group-title="Cricket",10:10 - Brisbane W vs Sydney Thunder W
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F60d47ba098.m3u8&name=Sky%20Sports%2B%20UK
+#EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
 
-#EXTINF:-1 group-title="Cricket",10:10 - Brisbane W vs Sydney Thunder W
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F87cad238ba.m3u8&name=Sky%20Sport%202%20NZ
+#EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
+https://damitv.st/player/hls/?v=542&url=%2Fc%2F8afdcdd622.m3u8&name=TNT%20Sports%201%20UK
 
-#EXTINF:-1 group-title="Cricket",14:00 - sri lanka a vs afghanistan a
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F2622840eac.m3u8&name=Astro%20Cricket
+#EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F3477a63c86.m3u8&name=TNT%20Sports%202%20UK
 
-#EXTINF:-1 group-title="Basketball",03:00 - New Orleans Pelicans vs Detroit Pistons
-https://damitv.st/embed/?id=m401910013
+#EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F2622840eac.m3u8&name=Astro%20Cricket
 
-#EXTINF:-1 group-title="Basketball",03:00 - New Orleans Pelicans vs Detroit Pistons
-https://damitv.st/embed/?id=nba%2F2026-11-18%2Fdet-no_540p
-
-#EXTINF:-1 group-title="Basketball",03:00 - New Orleans Pelicans vs Detroit Pistons
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Fe521a1bdb0.m3u8&name=Server%201
-
-#EXTINF:-1 group-title="Basketball",03:00 - New Orleans Pelicans vs Detroit Pistons
-https://damitv.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Falfa%2Fadmin2%2Fnba7.m3u8&name=HD%20Server
-
-#EXTINF:-1 group-title="Basketball",03:00 - Oklahoma City Thunder vs Atlanta Hawks
-https://damitv.st/embed/?id=m401910014
-
-#EXTINF:-1 group-title="Basketball",03:00 - Oklahoma City Thunder vs Atlanta Hawks
-https://damitv.st/embed/?id=nba%2F2026-11-18%2Fatl-okc_540p
-
-#EXTINF:-1 group-title="Basketball",03:00 - Oklahoma City Thunder vs Atlanta Hawks
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F0def19c867.m3u8&name=NBA%20League%20Pass
-
-#EXTINF:-1 group-title="Basketball",03:00 - Oklahoma City Thunder vs Atlanta Hawks
-https://damitv.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Falfa%2Fadmin2%2Fnba8.m3u8&name=HD%20Server
-
-#EXTINF:-1 group-title="Basketball",03:00 - Dallas Mavericks vs Golden State Warriors
-https://damitv.st/embed/?id=m401910016
-
-#EXTINF:-1 group-title="Basketball",03:00 - Dallas Mavericks vs Golden State Warriors
-https://damitv.st/embed/?id=nba%2F2026-11-18%2Fgs-dal_540p
-
-#EXTINF:-1 group-title="Basketball",03:00 - Dallas Mavericks vs Golden State Warriors
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Ff00beb2c93.m3u8&name=NBCS%20Bay%20Area%20USA
-
-#EXTINF:-1 group-title="Basketball",03:00 - Dallas Mavericks vs Golden State Warriors
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F619836ea5d.m3u8&name=Sportsnet%20East
-
-#EXTINF:-1 group-title="Basketball",03:00 - Dallas Mavericks vs Golden State Warriors
-https://damitv.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Falfa%2Fadmin2%2Fnba9.m3u8&name=HD%20Server
-
-#EXTINF:-1 group-title="Basketball",03:00 - LSU Tigers vs UL Monroe Warhawks
-https://damitv.st/embed/?id=m401917982
-
-#EXTINF:-1 group-title="Basketball",03:00 - LSU Tigers vs UL Monroe Warhawks
-https://damitv.st/embed/?id=cbb%2F2026-11-18%2Fulm-lsu_540p
-
-#EXTINF:-1 group-title="Basketball",03:30 - Nebraska Cornhuskers vs South Dakota Coyotes
-https://damitv.st/embed/?id=m401926064
-
-#EXTINF:-1 group-title="Basketball",03:30 - Nebraska Cornhuskers vs South Dakota Coyotes
-https://damitv.st/embed/?id=cbb%2F2026-11-18%2Fsdak-neb_540p
-
-#EXTINF:-1 group-title="Basketball",03:30 - Nebraska Cornhuskers vs South Dakota Coyotes
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F4c830cb083.m3u8&name=BTN%20USA
-
-#EXTINF:-1 group-title="Basketball",04:00 - Arizona Wildcats vs UConn Huskies
-https://damitv.st/embed/?id=m401909742
-
-#EXTINF:-1 group-title="Basketball",04:00 - Arizona Wildcats vs UConn Huskies
-https://damitv.st/embed/?id=cbb%2F2026-11-18%2Fconn-ariz_540p
-
-#EXTINF:-1 group-title="Basketball",04:00 - BYU Cougars vs Northern Colorado Bears
-https://damitv.st/embed/?id=m401921742
-
-#EXTINF:-1 group-title="Basketball",04:00 - BYU Cougars vs Northern Colorado Bears
-https://damitv.st/embed/?id=cbb%2F2026-11-18%2Funco-byu_540p
-
-#EXTINF:-1 group-title="Basketball",04:30 - Denver Nuggets vs Boston Celtics
-https://damitv.st/embed/?id=m401910015
-
-#EXTINF:-1 group-title="Basketball",04:30 - Denver Nuggets vs Boston Celtics
-https://damitv.st/embed/?id=nba%2F2026-11-18%2Fbos-den_540p
-
-#EXTINF:-1 group-title="Basketball",04:30 - Denver Nuggets vs Boston Celtics
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F3c1c199431.m3u8&name=ESPN%20USA
-
-#EXTINF:-1 group-title="Basketball",04:30 - Denver Nuggets vs Boston Celtics
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Fb0362efc67.m3u8&name=Sportsnet%20One
-
-#EXTINF:-1 group-title="Basketball",04:30 - Denver Nuggets vs Boston Celtics
-https://damitv.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Falfa%2Fadmin2%2Fnba3.m3u8&name=HD%20Server
-
-#EXTINF:-1 group-title="Basketball",05:00 - Los Angeles Lakers vs Utah Jazz
-https://damitv.st/embed/?id=m401910017
-
-#EXTINF:-1 group-title="Basketball",05:00 - Los Angeles Lakers vs Utah Jazz
-https://damitv.st/embed/?id=nba%2F2026-11-18%2Futah-lal_540p
-
-#EXTINF:-1 group-title="Basketball",05:00 - Los Angeles Lakers vs Utah Jazz
-https://damitv.st/embed/?id=nba%2F2026-11-18%2Futah-lal%2Faway_540p
-
-#EXTINF:-1 group-title="Basketball",05:00 - Los Angeles Lakers vs Utah Jazz
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F60f7152988.m3u8&name=Spectrum%20SportsNet%20USA
-
-#EXTINF:-1 group-title="Basketball",05:00 - Los Angeles Lakers vs Utah Jazz
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F9b6f52239b.m3u8&name=Server%201
-
-#EXTINF:-1 group-title="Basketball",05:00 - Sacramento Kings vs Phoenix Suns
-https://damitv.st/embed/?id=m401910018
-
-#EXTINF:-1 group-title="Basketball",05:00 - Sacramento Kings vs Phoenix Suns
-https://damitv.st/embed/?id=nba%2F2026-11-18%2Fphx-sac_540p
-
-#EXTINF:-1 group-title="Basketball",05:00 - Sacramento Kings vs Phoenix Suns
-https://damitv.st/embed/?id=nba%2F2026-11-18%2Fphx-sac%2Faway_540p
-
-#EXTINF:-1 group-title="Basketball",05:00 - Sacramento Kings vs Phoenix Suns
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F4e9279ddc4.m3u8&name=NBA%20League%20Pass
-
-#EXTINF:-1 group-title="Basketball",05:00 - Sacramento Kings vs Phoenix Suns
-https://damitv.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Falfa%2Fadmin%2Fnba12.m3u8&name=HD%20Server
-
-#EXTINF:-1 group-title="Basketball",05:30 - UCLA Bruins vs Cal State Fullerton Titans
-https://damitv.st/embed/?id=m401920158
-
-#EXTINF:-1 group-title="Basketball",05:30 - UCLA Bruins vs Cal State Fullerton Titans
-https://damitv.st/embed/?id=cbb%2F2026-11-18%2Fcsuf-ucla_540p
-
-#EXTINF:-1 group-title="Basketball",05:30 - UCLA Bruins vs Cal State Fullerton Titans
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F4c830cb083.m3u8&name=BTN%20USA
-
-#EXTINF:-1 group-title="Basketball",10:30 - Illawarra Hawks vs Adelaide 36ers
-https://damitv.st/embed/?id=m401875305
-
-#EXTINF:-1 group-title="Basketball",10:30 - Illawarra Hawks vs Adelaide 36ers
-https://damitv.st/embed/?id=nbl%2F2026-11-19%2Fhwk-adl_540p
-
-#EXTINF:-1 group-title="Basketball",19:15 - Maccabi vs Dubai
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F6e51e0fd3a.m3u8&name=Nova%20Sports%20Prime%20Greece
-
-#EXTINF:-1 group-title="Basketball",19:15 - Maccabi vs Dubai
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F9b87bf6a59.m3u8&name=Arena%201%20Premium%20Serbia
-
-#EXTINF:-1 group-title="Basketball",19:15 - Maccabi vs Dubai
-https://damitv.st/player/hls/?v=540&url=%2Fc%2Fc2ca1e9995.m3u8&name=Sportklub%201%20Croatia
-
-#EXTINF:-1 group-title="Basketball",19:15 - Maccabi vs Dubai
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F0278c7d01a.m3u8&name=Sport%205%20Israel
-
-#EXTINF:-1 group-title="Basketball",20:00 - Zalgiris vs Panathinaikos
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F6e51e0fd3a.m3u8&name=Nova%20Sports%20Prime%20Greece
-
-#EXTINF:-1 group-title="Basketball",20:00 - Zalgiris vs Panathinaikos
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F9b87bf6a59.m3u8&name=Arena%201%20Premium%20Serbia
-
-#EXTINF:-1 group-title="Basketball",20:00 - Zalgiris vs Panathinaikos
-https://damitv.st/player/hls/?v=540&url=%2Fc%2Fc2ca1e9995.m3u8&name=Sportklub%201%20Croatia
-
-#EXTINF:-1 group-title="Basketball",20:00 - Zalgiris vs Panathinaikos
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F0278c7d01a.m3u8&name=Sport%205%20Israel
-
-#EXTINF:-1 group-title="Basketball",21:00 - Bayern Munich vs Baskonia
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F6e51e0fd3a.m3u8&name=Nova%20Sports%20Prime%20Greece
-
-#EXTINF:-1 group-title="Basketball",21:00 - Bayern Munich vs Baskonia
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F9b87bf6a59.m3u8&name=Arena%201%20Premium%20Serbia
-
-#EXTINF:-1 group-title="Basketball",21:00 - Bayern Munich vs Baskonia
-https://damitv.st/player/hls/?v=540&url=%2Fc%2Fc2ca1e9995.m3u8&name=Sportklub%201%20Croatia
-
-#EXTINF:-1 group-title="Basketball",21:00 - Bayern Munich vs Baskonia
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F0278c7d01a.m3u8&name=Sport%205%20Israel
-
-#EXTINF:-1 group-title="Basketball",21:30 - Milan vs Fenerbahce
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F6e51e0fd3a.m3u8&name=Nova%20Sports%20Prime%20Greece
-
-#EXTINF:-1 group-title="Basketball",21:30 - Milan vs Fenerbahce
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F9b87bf6a59.m3u8&name=Arena%201%20Premium%20Serbia
-
-#EXTINF:-1 group-title="Basketball",21:30 - Milan vs Fenerbahce
-https://damitv.st/player/hls/?v=540&url=%2Fc%2Fc2ca1e9995.m3u8&name=Sportklub%201%20Croatia
-
-#EXTINF:-1 group-title="Basketball",21:30 - Milan vs Fenerbahce
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F0278c7d01a.m3u8&name=Sport%205%20Israel
-
-#EXTINF:-1 group-title="Basketball",21:45 - Paris vs Hapoel TLV
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F6e51e0fd3a.m3u8&name=Nova%20Sports%20Prime%20Greece
-
-#EXTINF:-1 group-title="Basketball",21:45 - Paris vs Hapoel TLV
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F9b87bf6a59.m3u8&name=Arena%201%20Premium%20Serbia
-
-#EXTINF:-1 group-title="Basketball",21:45 - Paris vs Hapoel TLV
-https://damitv.st/player/hls/?v=540&url=%2Fc%2Fc2ca1e9995.m3u8&name=Sportklub%201%20Croatia
-
-#EXTINF:-1 group-title="Basketball",21:45 - Paris vs Hapoel TLV
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F0278c7d01a.m3u8&name=Sport%205%20Israel
-
-#EXTINF:-1 group-title="Basketball",22:00 - Valencia vs Virtus Bologna
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F6e51e0fd3a.m3u8&name=Nova%20Sports%20Prime%20Greece
-
-#EXTINF:-1 group-title="Basketball",22:00 - Valencia vs Virtus Bologna
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F9b87bf6a59.m3u8&name=Arena%201%20Premium%20Serbia
-
-#EXTINF:-1 group-title="Basketball",22:00 - Valencia vs Virtus Bologna
-https://damitv.st/player/hls/?v=540&url=%2Fc%2Fc2ca1e9995.m3u8&name=Sportklub%201%20Croatia
-
-#EXTINF:-1 group-title="Basketball",22:00 - Valencia vs Virtus Bologna
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F0278c7d01a.m3u8&name=Sport%205%20Israel
-
-#EXTINF:-1 group-title="Fight",03:00 - AEW Wednesday Night Dynamite
-https://damitv.st/embed/?id=ev-aew-2026-11-18
-
-#EXTINF:-1 group-title="Fight",03:00 - AEW Wednesday Night Dynamite
-https://damitv.st/embed/?id=aew%2F2026-11-18_540p
-
-#EXTINF:-1 group-title="Fight",03:00 - AEW Wednesday Night Dynamite
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F2f11cc481f.m3u8&name=TBS%20USA
-
-#EXTINF:-1 group-title="Fight",03:00 - AEW Wednesday Night Dynamite
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Fd25f2e314a.m3u8&name=TSN2
-
-#EXTINF:-1 group-title="Hockey",05:00 - Utah Mammoth vs Colorado Avalanche
-https://damitv.st/embed/?id=m401892741
-
-#EXTINF:-1 group-title="Hockey",05:00 - Utah Mammoth vs Colorado Avalanche
-https://damitv.st/embed/?id=nhl%2F2026-11-18%2Fcol-uta_540p
-
-#EXTINF:-1 group-title="Hockey",05:00 - Utah Mammoth vs Colorado Avalanche
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F95d02851f1.m3u8&name=TNT%20USA
-
-#EXTINF:-1 group-title="Hockey",05:00 - Utah Mammoth vs Colorado Avalanche
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F4d6dffafb2.m3u8&name=Altitude%20USA
-
-#EXTINF:-1 group-title="Hockey",05:00 - Utah Mammoth vs Colorado Avalanche
-https://damitv.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Falfa%2Ftedesco%2Fnhl.m3u8&name=HD%20Server
+#EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F11f7be7b85.m3u8&name=Sky%20Sport%201%20NZ
 
 #EXTINF:-1 group-title="Motor-sports",13:45 - Ferrari Challenge Europe Pirelli Trophy At The World Finals
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Ff3534236bb.m3u8&name=Sky%20Sports%20F1%20UK
+https://damitv.st/player/hls/?v=540&url=%2Fc%2Ff3534236bb.m3u8&name=Sky%20Sports%20F1%20UK
 
 #EXTINF:-1 group-title="Motor-sports",16:15 - Ferrari Challenge Europe Coppa Shell At The World Finals
 https://damitv.st/player/hls/?v=542&url=%2Fc%2Ff3534236bb.m3u8&name=Sky%20Sports%20F1%20UK
+
+#EXTINF:-1 group-title="Basketball",19:15 - Maccabi vs Dubai
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F6e51e0fd3a.m3u8&name=Nova%20Sports%20Prime%20Greece
+
+#EXTINF:-1 group-title="Basketball",19:15 - Maccabi vs Dubai
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F9b87bf6a59.m3u8&name=Arena%201%20Premium%20Serbia
+
+#EXTINF:-1 group-title="Basketball",19:15 - Maccabi vs Dubai
+https://damitv.st/player/hls/?v=540&url=%2Fc%2Fc2ca1e9995.m3u8&name=Sportklub%201%20Croatia
+
+#EXTINF:-1 group-title="Basketball",19:15 - Maccabi vs Dubai
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F0278c7d01a.m3u8&name=Sport%205%20Israel
+
+#EXTINF:-1 group-title="Basketball",20:00 - Zalgiris vs Panathinaikos
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F6e51e0fd3a.m3u8&name=Nova%20Sports%20Prime%20Greece
+
+#EXTINF:-1 group-title="Basketball",20:00 - Zalgiris vs Panathinaikos
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F9b87bf6a59.m3u8&name=Arena%201%20Premium%20Serbia
+
+#EXTINF:-1 group-title="Basketball",20:00 - Zalgiris vs Panathinaikos
+https://damitv.st/player/hls/?v=540&url=%2Fc%2Fc2ca1e9995.m3u8&name=Sportklub%201%20Croatia
+
+#EXTINF:-1 group-title="Basketball",20:00 - Zalgiris vs Panathinaikos
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F0278c7d01a.m3u8&name=Sport%205%20Israel
+
+#EXTINF:-1 group-title="Basketball",21:00 - Bayern Munich vs Baskonia
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F6e51e0fd3a.m3u8&name=Nova%20Sports%20Prime%20Greece
+
+#EXTINF:-1 group-title="Basketball",21:00 - Bayern Munich vs Baskonia
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F9b87bf6a59.m3u8&name=Arena%201%20Premium%20Serbia
+
+#EXTINF:-1 group-title="Basketball",21:00 - Bayern Munich vs Baskonia
+https://damitv.st/player/hls/?v=540&url=%2Fc%2Fc2ca1e9995.m3u8&name=Sportklub%201%20Croatia
+
+#EXTINF:-1 group-title="Basketball",21:00 - Bayern Munich vs Baskonia
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F0278c7d01a.m3u8&name=Sport%205%20Israel
+
+#EXTINF:-1 group-title="Basketball",21:30 - West Virginia Mountaineers vs Florida Gators
+https://damitv.st/embed/?id=m401920517
+
+#EXTINF:-1 group-title="Basketball",21:30 - West Virginia Mountaineers vs Florida Gators
+https://damitv.st/embed/?id=cbb%2F2026-11-19%2Ffla-wvu_540p
+
+#EXTINF:-1 group-title="Basketball",21:30 - Milan vs Fenerbahce
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F6e51e0fd3a.m3u8&name=Nova%20Sports%20Prime%20Greece
+
+#EXTINF:-1 group-title="Basketball",21:30 - Milan vs Fenerbahce
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F9b87bf6a59.m3u8&name=Arena%201%20Premium%20Serbia
+
+#EXTINF:-1 group-title="Basketball",21:30 - Milan vs Fenerbahce
+https://damitv.st/player/hls/?v=540&url=%2Fc%2Fc2ca1e9995.m3u8&name=Sportklub%201%20Croatia
+
+#EXTINF:-1 group-title="Basketball",21:30 - Milan vs Fenerbahce
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F0278c7d01a.m3u8&name=Sport%205%20Israel
+
+#EXTINF:-1 group-title="Basketball",21:45 - Paris vs Hapoel TLV
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F6e51e0fd3a.m3u8&name=Nova%20Sports%20Prime%20Greece
+
+#EXTINF:-1 group-title="Basketball",21:45 - Paris vs Hapoel TLV
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F9b87bf6a59.m3u8&name=Arena%201%20Premium%20Serbia
+
+#EXTINF:-1 group-title="Basketball",21:45 - Paris vs Hapoel TLV
+https://damitv.st/player/hls/?v=540&url=%2Fc%2Fc2ca1e9995.m3u8&name=Sportklub%201%20Croatia
+
+#EXTINF:-1 group-title="Basketball",21:45 - Paris vs Hapoel TLV
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F0278c7d01a.m3u8&name=Sport%205%20Israel
+
+#EXTINF:-1 group-title="Basketball",22:00 - Valencia vs Virtus Bologna
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F6e51e0fd3a.m3u8&name=Nova%20Sports%20Prime%20Greece
+
+#EXTINF:-1 group-title="Basketball",22:00 - Valencia vs Virtus Bologna
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F9b87bf6a59.m3u8&name=Arena%201%20Premium%20Serbia
+
+#EXTINF:-1 group-title="Basketball",22:00 - Valencia vs Virtus Bologna
+https://damitv.st/player/hls/?v=540&url=%2Fc%2Fc2ca1e9995.m3u8&name=Sportklub%201%20Croatia
+
+#EXTINF:-1 group-title="Basketball",22:00 - Valencia vs Virtus Bologna
+https://damitv.st/player/hls/?v=540&url=%2Fc%2F0278c7d01a.m3u8&name=Sport%205%20Israel
 
 #EXTINF:-1 group-title="Football",19:45 - Austria Vienna vs Bayern Munich
 https://damitv.st/player/hls/?v=542&url=%2Fc%2Fbaeebc67f1.m3u8&name=CBS%20Sports%20Network
@@ -313,41 +148,41 @@ https://damitv.st/player/hls/?v=542&url=%2Fc%2Fb9f75401ab.m3u8&name=Premiere%20B
 #EXTINF:-1 group-title="Football",00:30 - Vitória vs Red Bull Bragantino
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F8d81ac280f.m3u8&name=Premiere%203%20BR
 
-#EXTINF:-1 group-title="24/7-streams",05:49 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",15:54 - NFL Network
 https://damitv.st/embed/?id=247-nfl-network
 
-#EXTINF:-1 group-title="24/7-streams",05:49 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",15:54 - NFL Network
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F1ac9bf5091.m3u8&name=NFL%20RedZone
 
-#EXTINF:-1 group-title="24/7-streams",05:49 - Fox Footy
+#EXTINF:-1 group-title="24/7-streams",15:54 - Fox Footy
 https://damitv.st/embed/?id=247-247-fox-footy
 
-#EXTINF:-1 group-title="24/7-streams",05:49 - Willow
+#EXTINF:-1 group-title="24/7-streams",15:54 - Willow
 https://damitv.st/embed/?id=247-247-willow
 
-#EXTINF:-1 group-title="24/7-streams",05:49 - Fox Cricket
+#EXTINF:-1 group-title="24/7-streams",15:54 - Fox Cricket
 https://damitv.st/embed/?id=247-247-fox-cricket
 
-#EXTINF:-1 group-title="24/7-streams",05:49 - NHL Network
+#EXTINF:-1 group-title="24/7-streams",15:54 - NHL Network
 https://damitv.st/embed/?id=247-nhl-network-29780
 
-#EXTINF:-1 group-title="24/7-streams",05:49 - Fox League
+#EXTINF:-1 group-title="24/7-streams",15:54 - Fox League
 https://damitv.st/embed/?id=247-247-fox-league
 
-#EXTINF:-1 group-title="24/7-streams",05:49 - South Park
+#EXTINF:-1 group-title="24/7-streams",15:54 - South Park
 https://damitv.st/embed/?id=247-247-south-park
 
-#EXTINF:-1 group-title="24/7-streams",05:49 - Family Guy
+#EXTINF:-1 group-title="24/7-streams",15:54 - Family Guy
 https://damitv.st/embed/?id=247-247-family-guy
 
-#EXTINF:-1 group-title="24/7-streams",05:49 - The Simpsons
+#EXTINF:-1 group-title="24/7-streams",15:54 - The Simpsons
 https://damitv.st/embed/?id=247-247-the-simpsons
 
-#EXTINF:-1 group-title="24/7-streams",05:49 - Rally TV
+#EXTINF:-1 group-title="24/7-streams",15:54 - Rally TV
 https://damitv.st/embed/?id=247-rally-tv
 
-#EXTINF:-1 group-title="24/7-streams",05:49 - Tennis Channel
+#EXTINF:-1 group-title="24/7-streams",15:54 - Tennis Channel
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F229d7c7755.m3u8&name=Tennis%20Channel
 
-#EXTINF:-1 group-title="24/7-streams",05:49 - Sky Sports Golf
+#EXTINF:-1 group-title="24/7-streams",15:54 - Sky Sports Golf
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F9f5dca47df.m3u8&name=Sky%20Sports%20Golf

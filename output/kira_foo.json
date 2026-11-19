@@ -33,6 +33,95 @@
     ]
   },
   {
+    "title": "Bayern München Austria Wien",
+    "category": "Bayern München",
+    "logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+    "start_iso": "2026-11-19T17:45:00.000Z",
+    "end_iso": "2026-11-19T20:00:00.000Z",
+    "date": "Thursday, 19 November 2026",
+    "time": "19:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/bayern-vs-austria-wien",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bayern-vs-austria-wien/3749",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://playerdee.top/alpha/bayern-vs-austria-wien/3750",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Arsenal Olympique Lyonnais",
+    "category": "Arsenal",
+    "logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+    "start_iso": "2026-11-19T20:00:00.000Z",
+    "end_iso": "2026-11-19T22:15:00.000Z",
+    "date": "Thursday, 19 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/arsenal-vs-lyon",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/arsenal-vs-lyon/3746",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "FC Barcelona Servette Chênois",
+    "category": "FC Barcelona",
+    "logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+    "start_iso": "2026-11-19T20:00:00.000Z",
+    "end_iso": "2026-11-19T22:15:00.000Z",
+    "date": "Thursday, 19 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/barcelona-vs-servette-chenois",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/barcelona-vs-servette-chenois/3747",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://playerdee.top/alpha/barcelona-vs-servette-chenois/3748",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      }
+    ]
+  },
+  {
     "title": "F1 Las Vegas Grand Prix Formula 1",
     "category": "F1 Las Vegas Grand Prix",
     "logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
@@ -157,5 +246,317 @@
         }
       }
     ]
+  },
+  {
+    "title": "Queens Park Rangers Millwall FC",
+    "category": "Queens Park Rangers",
+    "logo": "https://cdn.img4every1.org/team/queens-park-rangers/logo.webp",
+    "start_iso": "2026-11-21T12:30:00.000Z",
+    "end_iso": "2026-11-21T14:45:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "14:30",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/qpr-vs-millwall",
+    "servers": []
+  },
+  {
+    "title": "Manchester City Fulham",
+    "category": "Manchester City",
+    "logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+    "start_iso": "2026-11-21T12:30:00.000Z",
+    "end_iso": "2026-11-21T14:45:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "14:30",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/manchester-city-vs-fulham",
+    "servers": []
+  },
+  {
+    "title": "Liverpool Chelsea",
+    "category": "Liverpool",
+    "logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+    "start_iso": "2026-11-21T12:45:00.000Z",
+    "end_iso": "2026-11-21T15:00:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "14:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/liverpool-vs-chelsea",
+    "servers": []
+  },
+  {
+    "title": "Deportivo Alavés Deportivo La Coruña",
+    "category": "Deportivo Alavés",
+    "logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+    "start_iso": "2026-11-21T13:00:00.000Z",
+    "end_iso": "2026-11-21T15:15:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/alaves-vs-deportivo-la-coruna",
+    "servers": []
+  },
+  {
+    "title": "Lazio Lecce",
+    "category": "Lazio",
+    "logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+    "start_iso": "2026-11-21T14:00:00.000Z",
+    "end_iso": "2026-11-21T16:15:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/lazio-vs-lecce",
+    "servers": []
+  },
+  {
+    "title": "Como Cagliari",
+    "category": "Como",
+    "logo": "https://cdn.img4every1.org/team/como/logo.webp",
+    "start_iso": "2026-11-21T14:00:00.000Z",
+    "end_iso": "2026-11-21T16:15:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/como-vs-cagliari",
+    "servers": []
+  },
+  {
+    "title": "Preston North End West Ham United",
+    "category": "Preston North End",
+    "logo": "https://cdn.img4every1.org/team/preston-north-end/logo.webp",
+    "start_iso": "2026-11-21T15:00:00.000Z",
+    "end_iso": "2026-11-21T17:15:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "17:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/preston-vs-west-ham-united",
+    "servers": []
+  },
+  {
+    "title": "Chelsea Leeds United",
+    "category": "Chelsea",
+    "logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+    "start_iso": "2026-11-21T15:00:00.000Z",
+    "end_iso": "2026-11-21T17:15:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "17:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/chelsea-vs-leeds-united",
+    "servers": []
+  },
+  {
+    "title": "Nottingham Forest AFC Bournemouth",
+    "category": "Nottingham Forest",
+    "logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+    "start_iso": "2026-11-21T15:00:00.000Z",
+    "end_iso": "2026-11-21T17:15:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "17:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/nottm-forest-vs-bournemouth",
+    "servers": []
+  },
+  {
+    "title": "Coventry City Crystal Palace",
+    "category": "Coventry City",
+    "logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
+    "start_iso": "2026-11-21T15:00:00.000Z",
+    "end_iso": "2026-11-21T17:15:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "17:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/coventry-city-vs-crystal-palace",
+    "servers": []
+  },
+  {
+    "title": "Aston Villa Sunderland",
+    "category": "Aston Villa",
+    "logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+    "start_iso": "2026-11-21T15:00:00.000Z",
+    "end_iso": "2026-11-21T17:15:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "17:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/aston-villa-vs-sunderland",
+    "servers": []
+  },
+  {
+    "title": "Valencia Rayo Vallecano",
+    "category": "Valencia",
+    "logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+    "start_iso": "2026-11-21T15:15:00.000Z",
+    "end_iso": "2026-11-21T17:30:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "17:15",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/valencia-vs-rayo-vallecano",
+    "servers": []
+  },
+  {
+    "title": "PSG Nice",
+    "category": "PSG",
+    "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+    "start_iso": "2026-11-21T16:15:00.000Z",
+    "end_iso": "2026-11-21T18:30:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "18:15",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/psg-vs-nice",
+    "servers": []
+  },
+  {
+    "title": "AS Roma Parma",
+    "category": "AS Roma",
+    "logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+    "start_iso": "2026-11-21T17:00:00.000Z",
+    "end_iso": "2026-11-21T19:15:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "19:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/roma-vs-parma",
+    "servers": []
+  },
+  {
+    "title": "London City Lionesses Crystal Palace",
+    "category": "London City Lionesses",
+    "logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
+    "start_iso": "2026-11-21T17:15:00.000Z",
+    "end_iso": "2026-11-21T19:30:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "19:15",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/london-city-lionesses-vs-crystal-palace",
+    "servers": []
+  },
+  {
+    "title": "Schalke 04 Stuttgart",
+    "category": "Schalke 04",
+    "logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
+    "start_iso": "2026-11-21T17:30:00.000Z",
+    "end_iso": "2026-11-21T19:45:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "19:30",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/schalke-04-vs-stuttgart",
+    "servers": []
+  },
+  {
+    "title": "Real Betis Sevilla",
+    "category": "Real Betis",
+    "logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+    "start_iso": "2026-11-21T17:30:00.000Z",
+    "end_iso": "2026-11-21T19:45:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "19:30",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/real-betis-vs-sevilla",
+    "servers": []
+  },
+  {
+    "title": "Arsenal Newcastle United",
+    "category": "Arsenal",
+    "logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+    "start_iso": "2026-11-21T17:30:00.000Z",
+    "end_iso": "2026-11-21T19:45:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "19:30",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/arsenal-vs-newcastle",
+    "servers": []
+  },
+  {
+    "title": "Napoli Torino",
+    "category": "Napoli",
+    "logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+    "start_iso": "2026-11-21T19:45:00.000Z",
+    "end_iso": "2026-11-21T22:00:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "21:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/napoli-vs-torino",
+    "servers": []
+  },
+  {
+    "title": "Real Madrid Celta de Vigo",
+    "category": "Real Madrid",
+    "logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+    "start_iso": "2026-11-21T20:00:00.000Z",
+    "end_iso": "2026-11-21T22:15:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/real-madrid-vs-celta-vigo",
+    "servers": []
+  },
+  {
+    "title": "Juventus Venezia",
+    "category": "Juventus",
+    "logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+    "start_iso": "2026-11-22T11:30:00.000Z",
+    "end_iso": "2026-11-22T13:45:00.000Z",
+    "date": "Sunday, 22 November 2026",
+    "time": "13:30",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/juventus-vs-venezia",
+    "servers": []
+  },
+  {
+    "title": "Burnley FC Blackburn Rovers",
+    "category": "Burnley FC",
+    "logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
+    "start_iso": "2026-11-22T12:00:00.000Z",
+    "end_iso": "2026-11-22T14:15:00.000Z",
+    "date": "Sunday, 22 November 2026",
+    "time": "14:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/burnley-vs-blackburn-rovers",
+    "servers": []
+  },
+  {
+    "title": "FC Barcelona Villarreal",
+    "category": "FC Barcelona",
+    "logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+    "start_iso": "2026-11-22T13:00:00.000Z",
+    "end_iso": "2026-11-22T15:15:00.000Z",
+    "date": "Sunday, 22 November 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/barcelona-vs-villarreal",
+    "servers": []
+  },
+  {
+    "title": "Udinese Bologna",
+    "category": "Udinese",
+    "logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+    "start_iso": "2026-11-22T14:00:00.000Z",
+    "end_iso": "2026-11-22T16:15:00.000Z",
+    "date": "Sunday, 22 November 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/udinese-vs-bologna",
+    "servers": []
+  },
+  {
+    "title": "Augsburg Mainz 05",
+    "category": "Augsburg",
+    "logo": "https://cdn.img4every1.org/team/augsburg/logo.webp",
+    "start_iso": "2026-11-22T14:30:00.000Z",
+    "end_iso": "2026-11-22T16:45:00.000Z",
+    "date": "Sunday, 22 November 2026",
+    "time": "16:30",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/augsburg-vs-mainz-05",
+    "servers": []
+  },
+  {
+    "title": "Werder Bremen Hamburger SV",
+    "category": "Werder Bremen",
+    "logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
+    "start_iso": "2026-11-22T16:30:00.000Z",
+    "end_iso": "2026-11-22T18:45:00.000Z",
+    "date": "Sunday, 22 November 2026",
+    "time": "18:30",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/werder-bremen-vs-hamburger-sv",
+    "servers": []
   }
 ]

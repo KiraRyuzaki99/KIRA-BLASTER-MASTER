@@ -33,95 +33,6 @@
     ]
   },
   {
-    "title": "Bayern München Austria Wien",
-    "category": "Bayern München",
-    "logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-    "start_iso": "2026-11-19T17:45:00.000Z",
-    "end_iso": "2026-11-19T20:00:00.000Z",
-    "date": "Thursday, 19 November 2026",
-    "time": "19:45",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/bayern-vs-austria-wien",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/bayern-vs-austria-wien/3749",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://playerdee.top/alpha/bayern-vs-austria-wien/3750",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Arsenal Olympique Lyonnais",
-    "category": "Arsenal",
-    "logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-    "start_iso": "2026-11-19T20:00:00.000Z",
-    "end_iso": "2026-11-19T22:15:00.000Z",
-    "date": "Thursday, 19 November 2026",
-    "time": "22:00",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/arsenal-vs-lyon",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/arsenal-vs-lyon/3746",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "FC Barcelona Servette Chênois",
-    "category": "FC Barcelona",
-    "logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-    "start_iso": "2026-11-19T20:00:00.000Z",
-    "end_iso": "2026-11-19T22:15:00.000Z",
-    "date": "Thursday, 19 November 2026",
-    "time": "22:00",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/barcelona-vs-servette-chenois",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/barcelona-vs-servette-chenois/3747",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://playerdee.top/alpha/barcelona-vs-servette-chenois/3748",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      }
-    ]
-  },
-  {
     "title": "F1 Las Vegas Grand Prix Formula 1",
     "category": "F1 Las Vegas Grand Prix",
     "logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
@@ -131,7 +42,38 @@
     "time": "01:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/f1-las-vegas-grand-prix",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/f1-las-vegas-grand-prix/3751",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/f1-las-vegas-grand-prix/3752",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/f1-las-vegas-grand-prix/3753",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
   },
   {
     "title": "MotoGP Portugal MotoGP",

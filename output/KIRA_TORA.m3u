@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Cricket",10:00 - South Africa vs Bangladesh
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F91a93f700c.m3u8&name=Willow%202%20Cricket
-
-#EXTINF:-1 group-title="Cricket",10:00 - South Africa vs Bangladesh
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F9bec686fd0.m3u8&name=Sky%20Sports%20Cricket%20UK
-
-#EXTINF:-1 group-title="Cricket",10:00 - South Africa vs Bangladesh
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F28897bfbe1.m3u8&name=SuperSport%20Cricket
-
-#EXTINF:-1 group-title="Cricket",10:00 - South Africa vs Bangladesh
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F716de83302.m3u8&name=SuperSport%20Grandstand
-
 #EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
 
@@ -27,48 +15,6 @@ https://damitv.st/player/hls/?v=540&url=%2Fc%2F2622840eac.m3u8&name=Astro%20Cric
 
 #EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
 https://damitv.st/player/hls/?v=540&url=%2Fc%2F11f7be7b85.m3u8&name=Sky%20Sport%201%20NZ
-
-#EXTINF:-1 group-title="Motor-sports",13:45 - Ferrari Challenge Europe Pirelli Trophy At The World Finals
-https://damitv.st/player/hls/?v=540&url=%2Fc%2Ff3534236bb.m3u8&name=Sky%20Sports%20F1%20UK
-
-#EXTINF:-1 group-title="Motor-sports",16:15 - Ferrari Challenge Europe Coppa Shell At The World Finals
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Ff3534236bb.m3u8&name=Sky%20Sports%20F1%20UK
-
-#EXTINF:-1 group-title="Basketball",19:15 - Maccabi vs Dubai
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F6e51e0fd3a.m3u8&name=Nova%20Sports%20Prime%20Greece
-
-#EXTINF:-1 group-title="Basketball",19:15 - Maccabi vs Dubai
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F9b87bf6a59.m3u8&name=Arena%201%20Premium%20Serbia
-
-#EXTINF:-1 group-title="Basketball",19:15 - Maccabi vs Dubai
-https://damitv.st/player/hls/?v=540&url=%2Fc%2Fc2ca1e9995.m3u8&name=Sportklub%201%20Croatia
-
-#EXTINF:-1 group-title="Basketball",19:15 - Maccabi vs Dubai
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F0278c7d01a.m3u8&name=Sport%205%20Israel
-
-#EXTINF:-1 group-title="Basketball",20:00 - Zalgiris vs Panathinaikos
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F6e51e0fd3a.m3u8&name=Nova%20Sports%20Prime%20Greece
-
-#EXTINF:-1 group-title="Basketball",20:00 - Zalgiris vs Panathinaikos
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F9b87bf6a59.m3u8&name=Arena%201%20Premium%20Serbia
-
-#EXTINF:-1 group-title="Basketball",20:00 - Zalgiris vs Panathinaikos
-https://damitv.st/player/hls/?v=540&url=%2Fc%2Fc2ca1e9995.m3u8&name=Sportklub%201%20Croatia
-
-#EXTINF:-1 group-title="Basketball",20:00 - Zalgiris vs Panathinaikos
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F0278c7d01a.m3u8&name=Sport%205%20Israel
-
-#EXTINF:-1 group-title="Basketball",21:00 - Bayern Munich vs Baskonia
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F6e51e0fd3a.m3u8&name=Nova%20Sports%20Prime%20Greece
-
-#EXTINF:-1 group-title="Basketball",21:00 - Bayern Munich vs Baskonia
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F9b87bf6a59.m3u8&name=Arena%201%20Premium%20Serbia
-
-#EXTINF:-1 group-title="Basketball",21:00 - Bayern Munich vs Baskonia
-https://damitv.st/player/hls/?v=540&url=%2Fc%2Fc2ca1e9995.m3u8&name=Sportklub%201%20Croatia
-
-#EXTINF:-1 group-title="Basketball",21:00 - Bayern Munich vs Baskonia
-https://damitv.st/player/hls/?v=540&url=%2Fc%2F0278c7d01a.m3u8&name=Sport%205%20Israel
 
 #EXTINF:-1 group-title="Basketball",21:30 - West Virginia Mountaineers vs Florida Gators
 https://damitv.st/embed/?id=m401920517
@@ -112,77 +58,50 @@ https://damitv.st/player/hls/?v=540&url=%2Fc%2Fc2ca1e9995.m3u8&name=Sportklub%20
 #EXTINF:-1 group-title="Basketball",22:00 - Valencia vs Virtus Bologna
 https://damitv.st/player/hls/?v=540&url=%2Fc%2F0278c7d01a.m3u8&name=Sport%205%20Israel
 
-#EXTINF:-1 group-title="Football",19:45 - Austria Vienna vs Bayern Munich
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Fbaeebc67f1.m3u8&name=CBS%20Sports%20Network
-
-#EXTINF:-1 group-title="Football",19:45 - Austria Vienna vs Bayern Munich
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F046efe45b0.m3u8&name=ZDF%20Sport%20DE
-
-#EXTINF:-1 group-title="Football",19:45 - Paris FC vs HB Køge
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F98916a4ffd.m3u8&name=ESPN%2B%20USA
-
-#EXTINF:-1 group-title="Football",19:45 - Paris FC vs HB Køge
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Faf1507623a.m3u8&name=beIN%20Sports%203%20Malaysia
-
-#EXTINF:-1 group-title="Football",22:00 - Barcelona vs Servette
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Fbaeebc67f1.m3u8&name=CBS%20Sports%20Network
-
-#EXTINF:-1 group-title="Football",22:00 - Barcelona vs Servette
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Faf1507623a.m3u8&name=beIN%20Sports%203%20Malaysia
-
-#EXTINF:-1 group-title="Football",22:00 - Arsenal vs OL Lyonnes
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F6bfdfa6321.m3u8&name=CBS%20Sports%20Golazo
-
-#EXTINF:-1 group-title="Football",22:00 - Arsenal vs OL Lyonnes
-https://damitv.st/player/hls/?v=542&url=%2Fc%2Fdc270c3a28.m3u8&name=BBC%20Three%20UK
-
-#EXTINF:-1 group-title="Football",22:00 - Benfica vs Roma
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F1b21d946da.m3u8&name=ESPN%2B%20USA
-
-#EXTINF:-1 group-title="Football",22:00 - Benfica vs Roma
-https://damitv.st/player/hls/?v=542&url=%2Fc%2F48d000fae1.m3u8&name=RTP%202%20Portugal
-
 #EXTINF:-1 group-title="Football",00:30 - Vasco da Gama vs Internacional
 https://damitv.st/player/hls/?v=542&url=%2Fc%2Fb9f75401ab.m3u8&name=Premiere%20BR
 
 #EXTINF:-1 group-title="Football",00:30 - Vitória vs Red Bull Bragantino
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F8d81ac280f.m3u8&name=Premiere%203%20BR
 
-#EXTINF:-1 group-title="24/7-streams",15:54 - NFL Network
+#EXTINF:-1 group-title="Football",00:30 - Vitória vs Red Bull Bragantino
+https://damitv.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Falfa%2Fadmin%2Ffanatiz.m3u8&name=HD%20Server
+
+#EXTINF:-1 group-title="24/7-streams",00:24 - NFL Network
 https://damitv.st/embed/?id=247-nfl-network
 
-#EXTINF:-1 group-title="24/7-streams",15:54 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",00:24 - NFL Network
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F1ac9bf5091.m3u8&name=NFL%20RedZone
 
-#EXTINF:-1 group-title="24/7-streams",15:54 - Fox Footy
+#EXTINF:-1 group-title="24/7-streams",00:24 - Fox Footy
 https://damitv.st/embed/?id=247-247-fox-footy
 
-#EXTINF:-1 group-title="24/7-streams",15:54 - Willow
+#EXTINF:-1 group-title="24/7-streams",00:24 - Willow
 https://damitv.st/embed/?id=247-247-willow
 
-#EXTINF:-1 group-title="24/7-streams",15:54 - Fox Cricket
+#EXTINF:-1 group-title="24/7-streams",00:24 - Fox Cricket
 https://damitv.st/embed/?id=247-247-fox-cricket
 
-#EXTINF:-1 group-title="24/7-streams",15:54 - NHL Network
+#EXTINF:-1 group-title="24/7-streams",00:24 - NHL Network
 https://damitv.st/embed/?id=247-nhl-network-29780
 
-#EXTINF:-1 group-title="24/7-streams",15:54 - Fox League
+#EXTINF:-1 group-title="24/7-streams",00:24 - Fox League
 https://damitv.st/embed/?id=247-247-fox-league
 
-#EXTINF:-1 group-title="24/7-streams",15:54 - South Park
+#EXTINF:-1 group-title="24/7-streams",00:24 - South Park
 https://damitv.st/embed/?id=247-247-south-park
 
-#EXTINF:-1 group-title="24/7-streams",15:54 - Family Guy
+#EXTINF:-1 group-title="24/7-streams",00:24 - Family Guy
 https://damitv.st/embed/?id=247-247-family-guy
 
-#EXTINF:-1 group-title="24/7-streams",15:54 - The Simpsons
+#EXTINF:-1 group-title="24/7-streams",00:24 - The Simpsons
 https://damitv.st/embed/?id=247-247-the-simpsons
 
-#EXTINF:-1 group-title="24/7-streams",15:54 - Rally TV
+#EXTINF:-1 group-title="24/7-streams",00:24 - Rally TV
 https://damitv.st/embed/?id=247-rally-tv
 
-#EXTINF:-1 group-title="24/7-streams",15:54 - Tennis Channel
+#EXTINF:-1 group-title="24/7-streams",00:24 - Tennis Channel
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F229d7c7755.m3u8&name=Tennis%20Channel
 
-#EXTINF:-1 group-title="24/7-streams",15:54 - Sky Sports Golf
+#EXTINF:-1 group-title="24/7-streams",00:24 - Sky Sports Golf
 https://damitv.st/player/hls/?v=542&url=%2Fc%2F9f5dca47df.m3u8&name=Sky%20Sports%20Golf

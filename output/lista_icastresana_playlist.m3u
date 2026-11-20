@@ -1,25 +1,59 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="14:00 ATP Finals - Round Robin B. Shelton - R. Jódar" group-title="ATP Finals",14:00 ATP Finals - Round Robin B. Shelton - R. Jódar
-acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
-#EXTINF:-1 tvg-name="16:30  -  Catar - Panamá" group-title="16",16:30  -  Catar - Panamá
+#EXTINF:-1 tvg-name="11:45 MotoGP - G.P. Portugal (Algarve International) Libres 1" group-title="MotoGP",11:45 MotoGP - G.P. Portugal (Algarve International) Libres 1
+acestream://30bfcdcc472367415184132bf9d8f46a0a4e8b32
+#EXTINF:-1 tvg-name="12:00 UEFA Nations League -  Sorteo Fase Final" group-title="UEFA Nations League",12:00 UEFA Nations League -  Sorteo Fase Final
 acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="18:00 The RSM Classic -  Jornada 1" group-title="The RSM Classic",18:00 The RSM Classic -  Jornada 1
-acestream://1735ff3141fa3820090fad58dc548a1390accae9
-#EXTINF:-1 tvg-name="19:00 Copa de la Reina - 3ª Ronda Celta Femenino - Espanyol Femenino" group-title="Copa de la Reina",19:00 Copa de la Reina - 3ª Ronda Celta Femenino - Espanyol Femenino
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="20:20 Intercontinental Futsal Cup -  Champions League - Cuartos de final" group-title="Intercontinental Futsal Cup",20:20 Intercontinental Futsal Cup -  Champions League - Cuartos de final
+#EXTINF:-1 tvg-name="13:00 Liga Prime - Torneo Apertura Programa corto parejas" group-title="Liga Prime",13:00 Liga Prime - Torneo Apertura Programa corto parejas
+acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
+#EXTINF:-1 tvg-name="13:55 Liga Prime - Torneo Apertura Clasificación" group-title="Liga Prime",13:55 Liga Prime - Torneo Apertura Clasificación
 acestream://62a5750be4d2218b1064f83afaac4770fd92350d
-#EXTINF:-1 tvg-name="20:30 ATP Finals - Round Robin A. Zverev - A. Fils" group-title="ATP Finals",20:30 ATP Finals - Round Robin A. Zverev - A. Fils
+#EXTINF:-1 tvg-name="14:00 ATP Finals - Round Robin C. Alcaraz - F. Cobolli" group-title="ATP Finals",14:00 ATP Finals - Round Robin C. Alcaraz - F. Cobolli
+acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
+#EXTINF:-1 tvg-name="14:30 Liga Prime - Torneo Apertura Programa corto F" group-title="Liga Prime",14:30 Liga Prime - Torneo Apertura Programa corto F
+acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
+#EXTINF:-1 tvg-name="15:00 UEFA Nations League -  España - China" group-title="UEFA Nations League",15:00 UEFA Nations League -  España - China
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-name="15:45 Liga Prime - Torneo Apertura Trampolín por equipos mixtos" group-title="Liga Prime",15:45 Liga Prime - Torneo Apertura Trampolín por equipos mixtos
+acestream://62a5750be4d2218b1064f83afaac4770fd92350d
+#EXTINF:-1 tvg-name="16:00 MotoGP - G.P. Portugal (Algarve International) Libres" group-title="MotoGP",16:00 MotoGP - G.P. Portugal (Algarve International) Libres
+acestream://30bfcdcc472367415184132bf9d8f46a0a4e8b32
+#EXTINF:-1 tvg-name="16:25 Liga Prime - Torneo Apertura Programa corto M" group-title="Liga Prime",16:25 Liga Prime - Torneo Apertura Programa corto M
+acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
+#EXTINF:-1 tvg-name="18:00 The RSM Classic -  Jornada 2" group-title="The RSM Classic",18:00 The RSM Classic -  Jornada 2
+acestream://1735ff3141fa3820090fad58dc548a1390accae9
+#EXTINF:-1 tvg-name="18:00 Liga Prime - Torneo Apertura Danza rítmica" group-title="Liga Prime",18:00 Liga Prime - Torneo Apertura Danza rítmica
+acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
+#EXTINF:-1 tvg-name="18:30 Saudi Pro League -  Al Ahli - Al Nassr" group-title="Saudi Pro League",18:30 Saudi Pro League -  Al Ahli - Al Nassr
+acestream://f35418bcdbdf47c2d88adef411e9ed15cb2ccc38
+#EXTINF:-1 tvg-name="19:00 1RFEF - Grupo 2 Teruel - Hércules" group-title="1RFEF",19:00 1RFEF - Grupo 2 Teruel - Hércules
+acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
+#EXTINF:-1 tvg-name="19:00 Asobal -  BM Granollers - Recoletas At. Valladolid" group-title="Asobal",19:00 Asobal -  BM Granollers - Recoletas At. Valladolid
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-name="20:15 Euroliga - Liga Regular Olympiacos Piraeus - Real Madrid Baloncesto" group-title="Euroliga",20:15 Euroliga - Liga Regular Olympiacos Piraeus - Real Madrid Baloncesto
+acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
+#EXTINF:-1 tvg-name="20:20 Liga Prime - Torneo Apertura Champions League - Semifinales" group-title="Liga Prime",20:20 Liga Prime - Torneo Apertura Champions League - Semifinales
+acestream://62a5750be4d2218b1064f83afaac4770fd92350d
+#EXTINF:-1 tvg-name="20:30 Segunda -  FC Andorra - Leganés" group-title="Segunda",20:30 Segunda -  FC Andorra - Leganés
+acestream://568ac81baafba91dc9a28a7554a1dd790fdf0c0d
+#EXTINF:-1 tvg-name="20:30 Bundesliga -  FC Bayern - FC Köln" group-title="Bundesliga",20:30 Bundesliga -  FC Bayern - FC Köln
+acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b
+#EXTINF:-1 tvg-name="20:30 ATP Finals - Round Robin D. Medvedev - F. Tiafoe" group-title="ATP Finals",20:30 ATP Finals - Round Robin D. Medvedev - F. Tiafoe
 acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-name="21:00 Euroliga - Liga Regular Valencia Basket - Virtus Bologna" group-title="Euroliga",21:00 Euroliga - Liga Regular Valencia Basket - Virtus Bologna
-acestream://f35418bcdbdf47c2d88adef411e9ed15cb2ccc38
-#EXTINF:-1 tvg-name="23:30 Serie A Brasil -  Vasco da Gama - Internacional" group-title="Serie A Brasil",23:30 Serie A Brasil -  Vasco da Gama - Internacional
-acestream://f35418bcdbdf47c2d88adef411e9ed15cb2ccc38
-#EXTINF:-1 tvg-name="01:30 NBA - Liga Regular Libres 1" group-title="NBA",01:30 NBA - Liga Regular Libres 1
+#EXTINF:-1 tvg-name="20:30 Asobal -  Balonmano Caserío Ciudad Real - BM Torrelavega" group-title="Asobal",20:30 Asobal -  Balonmano Caserío Ciudad Real - BM Torrelavega
+acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
+#EXTINF:-1 tvg-name="21:00 Primera -  Athletic Club - Espanyol" group-title="Primera",21:00 Primera -  Athletic Club - Espanyol
+acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1 tvg-name="21:00 Liga U - Primera Fase San Pablo Burgos B - Valencia Basket B" group-title="Liga U",21:00 Liga U - Primera Fase San Pablo Burgos B - Valencia Basket B
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-name="21:15 1RFEF - Grupo 2 RM Castilla - Real Murcia" group-title="1RFEF",21:15 1RFEF - Grupo 2 RM Castilla - Real Murcia
+acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
+#EXTINF:-1 tvg-name="01:30 NCAA Femenina -  Libres 3" group-title="NCAA Femenina",01:30 NCAA Femenina -  Libres 3
 acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19
-#EXTINF:-1 tvg-name="02:15 NFL - Liga Regular Houston Texans - Indianápolis Colts" group-title="NFL",02:15 NFL - Liga Regular Houston Texans - Indianápolis Colts
+#EXTINF:-1 tvg-name="02:00 Velada - Peso Medio A. Jones - D. Pettus" group-title="Velada",02:00 Velada - Peso Medio A. Jones - D. Pettus
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-name="05:00 NBA - Liga Regular Libres 2" group-title="NBA",05:00 NBA - Liga Regular Libres 2
+#EXTINF:-1 tvg-name="03:15 F1 Academy - G.P. Las Vegas (Las Vegas) Carrera 1" group-title="F1 Academy",03:15 F1 Academy - G.P. Las Vegas (Las Vegas) Carrera 1
 acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19
-#EXTINF:-1 tvg-name="06:30 F1 Academy - G.P. Las Vegas (Las Vegas) Clasificación" group-title="F1 Academy",06:30 F1 Academy - G.P. Las Vegas (Las Vegas) Clasificación
+#EXTINF:-1 tvg-name="03:55 AFLW -  Preliminares" group-title="AFLW",03:55 AFLW -  Preliminares
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-name="05:00 NCAA Femenina -  Clasificación" group-title="NCAA Femenina",05:00 NCAA Femenina -  Clasificación
 acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19

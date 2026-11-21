@@ -1,36 +1,6 @@
 <?xml version="1.0" ?>
 <playlist version="1">
   <track>
-    <title>23:00 Vélez Sarsfield x Belgrano</title>
-    <url>https://sportsoonline.click/channels/hd/hd11.php</url>
-  </track>
-  <track>
-    <title>23:35 Atlético Bucaramanga x América de Cali</title>
-    <url>https://sportsoonline.click/channels/hd/hd8.php</url>
-  </track>
-  <track>
-    <title>00:15 Las Vegas F1 GP: Practice 3</title>
-    <url>https://sportsoonline.click/channels/hd/hd1.php</url>
-    <url>https://sportsoonline.click/channels/hd/hd7.php</url>
-  </track>
-  <track>
-    <title>01:00 Puebla x Atlético San Luis</title>
-    <url>https://sportsoonline.click/channels/hd/hd10.php</url>
-  </track>
-  <track>
-    <title>03:00 Juárez x Atlas</title>
-    <url>https://sportsoonline.click/channels/hd/hd8.php</url>
-  </track>
-  <track>
-    <title>03:00 Tijuana x Atlante</title>
-    <url>https://sportsoonline.click/channels/hd/hd10.php</url>
-  </track>
-  <track>
-    <title>03:00 Las Vegas F1 GP: Qualifying</title>
-    <url>https://sportsoonline.click/channels/hd/hd1.php</url>
-    <url>https://sportsoonline.click/channels/hd/hd7.php</url>
-  </track>
-  <track>
     <title>04:00 Auckland x Melbourne Victory</title>
     <url>https://sportsoonline.click/channels/hd/hd5.php</url>
   </track>
@@ -309,11 +279,6 @@
     <url>https://sportsoonline.click/channels/bra/br5.php</url>
   </track>
   <additional>
-    <item>HD1 ENGLISH</item>
-    <item>HD7 ITALIAN</item>
-    <item>HD8 SPANISH</item>
-    <item>HD10 SPANISH</item>
-    <item>HD11 SPANISH</item>
     <item>HD1 ENGLISH</item>
     <item>HD2 ENGLISH</item>
     <item>HD3 GERMAN</item>

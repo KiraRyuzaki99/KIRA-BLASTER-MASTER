@@ -106,9 +106,30 @@
     "end_iso": "2026-11-21T14:45:00.000Z",
     "date": "Saturday, 21 November 2026",
     "time": "14:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/qpr-vs-millwall",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/qpr-vs-millwall/3770",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/qpr-vs-millwall/3771",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Manchester City Fulham",
@@ -118,9 +139,60 @@
     "end_iso": "2026-11-21T14:45:00.000Z",
     "date": "Saturday, 21 November 2026",
     "time": "14:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/manchester-city-vs-fulham",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/manchester-city-vs-fulham/3766",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/manchester-city-vs-fulham/3767",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/manchester-city-vs-fulham/3768",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/manchester-city-vs-fulham/3769",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/manchester-city-vs-fulham/3787",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Liverpool Chelsea",
@@ -130,9 +202,30 @@
     "end_iso": "2026-11-21T15:00:00.000Z",
     "date": "Saturday, 21 November 2026",
     "time": "14:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/liverpool-vs-chelsea",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/liverpool-vs-chelsea/3772",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/liverpool-vs-chelsea/3773",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Deportivo Alavés Deportivo La Coruña",
@@ -142,9 +235,40 @@
     "end_iso": "2026-11-21T15:15:00.000Z",
     "date": "Saturday, 21 November 2026",
     "time": "15:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/alaves-vs-deportivo-la-coruna",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/alaves-vs-deportivo-la-coruna/3774",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/alaves-vs-deportivo-la-coruna/3775",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://playerdee.top/alpha/alaves-vs-deportivo-la-coruna/3776",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      }
+    ]
   },
   {
     "title": "Lazio Lecce",
@@ -156,7 +280,18 @@
     "time": "16:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/lazio-vs-lecce",
-    "servers": []
+    "servers": [
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/lazio-vs-lecce/3778",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "Como Cagliari",
@@ -168,19 +303,18 @@
     "time": "16:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/como-vs-cagliari",
-    "servers": []
-  },
-  {
-    "title": "Preston North End West Ham United",
-    "category": "Preston North End",
-    "logo": "https://cdn.img4every1.org/team/preston-north-end/logo.webp",
-    "start_iso": "2026-11-21T15:00:00.000Z",
-    "end_iso": "2026-11-21T17:15:00.000Z",
-    "date": "Saturday, 21 November 2026",
-    "time": "17:00",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/preston-vs-west-ham-united",
-    "servers": []
+    "servers": [
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/como-vs-cagliari/3777",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "Chelsea Leeds United",
@@ -192,7 +326,38 @@
     "time": "17:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/chelsea-vs-leeds-united",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/chelsea-vs-leeds-united/3781",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/chelsea-vs-leeds-united/3782",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/chelsea-vs-leeds-united/3788",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
   },
   {
     "title": "Nottingham Forest AFC Bournemouth",
@@ -204,7 +369,51 @@
     "time": "17:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/nottm-forest-vs-bournemouth",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/nottm-forest-vs-bournemouth/3779",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Tottenham Hotspur Ipswich Town",
+    "category": "Tottenham Hotspur",
+    "logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+    "start_iso": "2026-11-21T15:00:00.000Z",
+    "end_iso": "2026-11-21T17:15:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "17:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/tottenham-hotspur-vs-ipswich-town",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/tottenham-hotspur-vs-ipswich-town/3784",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/tottenham-hotspur-vs-ipswich-town/3785",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Coventry City Crystal Palace",
@@ -216,7 +425,18 @@
     "time": "17:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/coventry-city-vs-crystal-palace",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/coventry-city-vs-crystal-palace/3783",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Aston Villa Sunderland",
@@ -228,7 +448,41 @@
     "time": "17:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/aston-villa-vs-sunderland",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/aston-villa-vs-sunderland/3780",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Preston North End West Ham United",
+    "category": "Preston North End",
+    "logo": "https://cdn.img4every1.org/team/preston-north-end/logo.webp",
+    "start_iso": "2026-11-21T15:00:00.000Z",
+    "end_iso": "2026-11-21T17:15:00.000Z",
+    "date": "Saturday, 21 November 2026",
+    "time": "17:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/preston-vs-west-ham-united",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/preston-vs-west-ham-united/3786",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Valencia Rayo Vallecano",
@@ -420,6 +674,18 @@
     "time": "18:30",
     "status": "next",
     "event_url": "https://footystreams.pk/events/werder-bremen-vs-hamburger-sv",
+    "servers": []
+  },
+  {
+    "title": "Osasuna Málaga",
+    "category": "Osasuna",
+    "logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+    "start_iso": "2026-11-22T17:30:00.000Z",
+    "end_iso": "2026-11-22T19:45:00.000Z",
+    "date": "Sunday, 22 November 2026",
+    "time": "19:30",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/osasuna-vs-malaga",
     "servers": []
   }
 ]

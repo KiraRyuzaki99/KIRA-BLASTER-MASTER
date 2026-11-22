@@ -33,386 +33,6 @@
     ]
   },
   {
-    "title": "MotoGP Portugal MotoGP",
-    "category": "MotoGP Portugal",
-    "logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-    "start_iso": "2026-11-20T09:00:00.000Z",
-    "end_iso": "2026-11-22T17:00:00.000Z",
-    "date": "Friday, 20 November 2026",
-    "time": "11:00",
-    "status": "live",
-    "event_url": "https://footystreams.pk/events/motogp-portugal",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/motogp-portugal/3745",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Augsburg Mainz 05",
-    "category": "Augsburg",
-    "logo": "https://cdn.img4every1.org/team/augsburg/logo.webp",
-    "start_iso": "2026-11-22T14:30:00.000Z",
-    "end_iso": "2026-11-22T16:45:00.000Z",
-    "date": "Sunday, 22 November 2026",
-    "time": "16:30",
-    "status": "live",
-    "event_url": "https://footystreams.pk/events/augsburg-vs-mainz-05",
-    "servers": [
-      {
-        "label": "Deutsch",
-        "url": "https://playerdee.top/alpha/augsburg-vs-mainz-05/3846",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Deutsch"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Racing Santander Real Sociedad",
-    "category": "Racing Santander",
-    "logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-    "start_iso": "2026-11-22T15:15:00.000Z",
-    "end_iso": "2026-11-22T17:30:00.000Z",
-    "date": "Sunday, 22 November 2026",
-    "time": "17:15",
-    "status": "live",
-    "event_url": "https://footystreams.pk/events/racing-santander-vs-real-sociedad",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/racing-santander-vs-real-sociedad/3847",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/racing-santander-vs-real-sociedad/3848",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/racing-santander-vs-real-sociedad/3849",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://playerdee.top/alpha/racing-santander-vs-real-sociedad/3850",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Lorient Rennes",
-    "category": "Lorient",
-    "logo": "https://cdn.img4every1.org/team/lorient/logo.webp",
-    "start_iso": "2026-11-22T16:15:00.000Z",
-    "end_iso": "2026-11-22T18:30:00.000Z",
-    "date": "Sunday, 22 November 2026",
-    "time": "18:15",
-    "status": "live",
-    "event_url": "https://footystreams.pk/events/lorient-vs-rennes",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/lorient-vs-rennes/3800",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Liverpool Manchester United",
-    "category": "Liverpool",
-    "logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-    "start_iso": "2026-11-22T16:30:00.000Z",
-    "end_iso": "2026-11-22T18:45:00.000Z",
-    "date": "Sunday, 22 November 2026",
-    "time": "18:30",
-    "status": "live",
-    "event_url": "https://footystreams.pk/events/liverpool-vs-manchester-united",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/liverpool-vs-manchester-united/3852",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/liverpool-vs-manchester-united/3853",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/liverpool-vs-manchester-united/3854",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/liverpool-vs-manchester-united/3855",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Español",
-        "url": "https://playerdee.top/alpha/liverpool-vs-manchester-united/3856",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Español"
-        }
-      },
-      {
-        "label": "Portuguese",
-        "url": "https://playerdee.top/alpha/liverpool-vs-manchester-united/3857",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Werder Bremen Hamburger SV",
-    "category": "Werder Bremen",
-    "logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
-    "start_iso": "2026-11-22T16:30:00.000Z",
-    "end_iso": "2026-11-22T18:45:00.000Z",
-    "date": "Sunday, 22 November 2026",
-    "time": "18:30",
-    "status": "live",
-    "event_url": "https://footystreams.pk/events/werder-bremen-vs-hamburger-sv",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/werder-bremen-vs-hamburger-sv/3858",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Deutsch",
-        "url": "https://playerdee.top/alpha/werder-bremen-vs-hamburger-sv/3859",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Deutsch"
-        }
-      }
-    ]
-  },
-  {
-    "title": "AC Milan Frosinone Calcio",
-    "category": "AC Milan",
-    "logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-    "start_iso": "2026-11-22T17:00:00.000Z",
-    "end_iso": "2026-11-22T19:15:00.000Z",
-    "date": "Sunday, 22 November 2026",
-    "time": "19:00",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/milan-vs-frosinone",
-    "servers": [
-      {
-        "label": "Italiano",
-        "url": "https://playerdee.top/alpha/milan-vs-frosinone/3860",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Italiano"
-        }
-      },
-      {
-        "label": "Italiano",
-        "url": "https://playerdee.top/alpha/milan-vs-frosinone/3861",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Italiano"
-        }
-      },
-      {
-        "label": "Portuguese",
-        "url": "https://playerdee.top/alpha/milan-vs-frosinone/3862",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Portuguese"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Osasuna Málaga",
-    "category": "Osasuna",
-    "logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-    "start_iso": "2026-11-22T17:30:00.000Z",
-    "end_iso": "2026-11-22T19:45:00.000Z",
-    "date": "Sunday, 22 November 2026",
-    "time": "19:30",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/osasuna-vs-malaga",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/osasuna-vs-malaga/3863",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/osasuna-vs-malaga/3864",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "Spanish",
-        "url": "https://playerdee.top/alpha/osasuna-vs-malaga/3865",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "Spanish"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Inter Milan Atalanta",
-    "category": "Inter Milan",
-    "logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-    "start_iso": "2026-11-22T19:45:00.000Z",
-    "end_iso": "2026-11-22T22:00:00.000Z",
-    "date": "Sunday, 22 November 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/inter-milan-vs-atalanta",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/inter-milan-vs-atalanta/3866",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/inter-milan-vs-atalanta/3867",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "SD",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/inter-milan-vs-atalanta/3868",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Olympique Marseille Le Havre",
-    "category": "Olympique Marseille",
-    "logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
-    "start_iso": "2026-11-22T19:45:00.000Z",
-    "end_iso": "2026-11-22T22:00:00.000Z",
-    "date": "Sunday, 22 November 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/olympique-marseille-vs-le-mans",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/olympique-marseille-vs-le-mans/3801",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Atlético Madrid Getafe",
     "category": "Atlético Madrid",
     "logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
@@ -420,7 +40,7 @@
     "end_iso": "2026-11-22T22:15:00.000Z",
     "date": "Sunday, 22 November 2026",
     "time": "22:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/atletico-madrid-vs-getafe",
     "servers": [
       {
@@ -463,7 +83,7 @@
     "end_iso": "2026-11-22T23:00:00.000Z",
     "date": "Sunday, 22 November 2026",
     "time": "22:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/benfica-vs-torreense",
     "servers": [
       {
@@ -491,18 +111,6 @@
     "servers": []
   },
   {
-    "title": "Elche CF Levante",
-    "category": "Elche CF",
-    "logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-    "start_iso": "2026-11-23T20:00:00.000Z",
-    "end_iso": "2026-11-23T22:15:00.000Z",
-    "date": "Monday, 23 November 2026",
-    "time": "22:00",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/elche-vs-levante",
-    "servers": []
-  },
-  {
     "title": "Everton Brentford",
     "category": "Everton",
     "logo": "https://cdn.img4every1.org/team/everton/logo.webp",
@@ -512,6 +120,18 @@
     "time": "22:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/everton-vs-brentford",
+    "servers": []
+  },
+  {
+    "title": "Elche CF Levante",
+    "category": "Elche CF",
+    "logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+    "start_iso": "2026-11-23T20:00:00.000Z",
+    "end_iso": "2026-11-23T22:15:00.000Z",
+    "date": "Monday, 23 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/elche-vs-levante",
     "servers": []
   },
   {

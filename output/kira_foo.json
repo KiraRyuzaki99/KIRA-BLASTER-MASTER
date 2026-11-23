@@ -118,5 +118,28 @@
     "status": "next",
     "event_url": "https://footystreams.pk/events/wolves-vs-derby-county",
     "servers": []
+  },
+  {
+    "title": "Snooker UK Championship Snooker",
+    "category": "Snooker UK Championship",
+    "logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+    "start_iso": "2026-11-28T13:00:00.000Z",
+    "end_iso": "2026-12-02T23:00:00.000Z",
+    "date": "Saturday, 28 November 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/snooker-uk-championship-live-stream",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/snooker-uk-championship-live-stream/3814",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   }
 ]

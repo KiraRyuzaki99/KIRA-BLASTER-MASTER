@@ -1,36 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Basketball",02:00 - Charlotte Hornets vs Memphis Grizzlies
-https://ondemand.to/embed/?id=m401910036
-
-#EXTINF:-1 group-title="Basketball",02:00 - Charlotte Hornets vs Memphis Grizzlies
-https://ondemand.to/embed/?id=nba%2F2026-11-23%2Fmem-cha_540p
-
-#EXTINF:-1 group-title="Basketball",02:00 - Charlotte Hornets vs Memphis Grizzlies
-https://ondemand.to/embed/?id=nba%2F2026-11-23%2Fmem-cha%2Faway_540p
-
-#EXTINF:-1 group-title="Basketball",02:00 - Charlotte Hornets vs Memphis Grizzlies
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F59b807e4a5.m3u8&name=NBA%20League%20Pass
-
-#EXTINF:-1 group-title="Basketball",02:00 - Charlotte Hornets vs Memphis Grizzlies
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fe461725f8c.m3u8&name=Server%201
-
-#EXTINF:-1 group-title="Basketball",02:00 - Philadelphia 76ers vs Portland Trail Blazers
-https://ondemand.to/embed/?id=m401910037
-
-#EXTINF:-1 group-title="Basketball",02:00 - Philadelphia 76ers vs Portland Trail Blazers
-https://ondemand.to/embed/?id=nba%2F2026-11-23%2Fpor-phi_540p
-
-#EXTINF:-1 group-title="Basketball",02:00 - Philadelphia 76ers vs Portland Trail Blazers
-https://ondemand.to/embed/?id=nba%2F2026-11-23%2Fpor-phi%2Faway_540p
-
-#EXTINF:-1 group-title="Basketball",02:00 - Philadelphia 76ers vs Portland Trail Blazers
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F32ff1a6fd2.m3u8&name=NBCS%20Philadelphia%20USA
-
-#EXTINF:-1 group-title="Basketball",02:00 - Philadelphia 76ers vs Portland Trail Blazers
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4e1f6867a7.m3u8&name=Server%201
-
 #EXTINF:-1 group-title="Basketball",02:30 - Indiana Pacers vs Oklahoma City Thunder
 https://ondemand.to/embed/?id=m401910038
 
@@ -59,7 +29,7 @@ https://ondemand.to/embed/?id=nba%2F2026-11-23%2Fmil-tor%2Faway_540p
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb0362efc67.m3u8&name=Sportsnet%20One
 
 #EXTINF:-1 group-title="Basketball",02:30 - Toronto Raptors vs Milwaukee Bucks
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F56a7d7bd1c.m3u8&name=Server%201
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Falfa%2Fadmin2%2Fnba4.m3u8&name=HD%20Server
 
 #EXTINF:-1 group-title="Basketball",02:30 - Minnesota Timberwolves vs Brooklyn Nets
 https://ondemand.to/embed/?id=m401910040
@@ -89,7 +59,7 @@ https://ondemand.to/embed/?id=nba%2F2026-11-23%2Fcle-chi%2Faway_540p
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fca4553fbbf.m3u8&name=Chicago%20Sports%20Network
 
 #EXTINF:-1 group-title="Basketball",03:00 - Chicago Bulls vs Cleveland Cavaliers
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F46a3a57e48.m3u8&name=Server%201
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Falfa%2Fadmin2%2Fnba6.m3u8&name=HD%20Server
 
 #EXTINF:-1 group-title="Basketball",03:00 - New Orleans Pelicans vs Phoenix Suns
 https://ondemand.to/embed/?id=m401910042
@@ -101,10 +71,10 @@ https://ondemand.to/embed/?id=nba%2F2026-11-23%2Fphx-no_540p
 https://ondemand.to/embed/?id=nba%2F2026-11-23%2Fphx-no%2Faway_540p
 
 #EXTINF:-1 group-title="Basketball",03:00 - New Orleans Pelicans vs Phoenix Suns
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F55fafe7b0e.m3u8&name=NBA%20League%20Pass
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F6c796b22bf.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Basketball",03:00 - New Orleans Pelicans vs Phoenix Suns
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ffb39d04954.m3u8&name=Server%201
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Falfa%2Fadmin%2Fnba7.m3u8&name=HD%20Server
 
 #EXTINF:-1 group-title="Basketball",03:00 - Illinois Fighting Illini vs Winthrop Eagles
 https://ondemand.to/embed/?id=m401913530
@@ -259,21 +229,6 @@ https://ondemand.to/player/hls/?v=540&url=%2Fc%2Fc2ca1e9995.m3u8&name=Sportklub%
 #EXTINF:-1 group-title="Basketball",22:00 - FC Barcelona vs Fenerbahce
 https://ondemand.to/player/hls/?v=540&url=%2Fc%2F0278c7d01a.m3u8&name=Sport%205%20Israel
 
-#EXTINF:-1 group-title="Hockey",02:00 - New Jersey Devils vs Columbus Blue Jackets
-https://ondemand.to/embed/?id=m401892773
-
-#EXTINF:-1 group-title="Hockey",02:00 - New Jersey Devils vs Columbus Blue Jackets
-https://ondemand.to/embed/?id=nhl%2F2026-11-23%2Fcbj-nj_540p
-
-#EXTINF:-1 group-title="Hockey",02:00 - New Jersey Devils vs Columbus Blue Jackets
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F6da7108b96.m3u8&name=MSG%20USA
-
-#EXTINF:-1 group-title="Hockey",02:00 - New Jersey Devils vs Columbus Blue Jackets
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5ba39a95b5.m3u8&name=Viaplay%20Sports%201%20UK
-
-#EXTINF:-1 group-title="Hockey",02:00 - New Jersey Devils vs Columbus Blue Jackets
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Falfa%2Fadmin2%2Fnhl.m3u8&name=HD%20Server
-
 #EXTINF:-1 group-title="Hockey",02:30 - Montreal Canadiens vs Los Angeles Kings
 https://ondemand.to/embed/?id=m401892774
 
@@ -296,7 +251,10 @@ https://ondemand.to/embed/?id=nhl%2F2026-11-23%2Fcgy-ott_540p
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd2f0830880.m3u8&name=NHL%20Gamecenter
 
 #EXTINF:-1 group-title="Hockey",02:30 - Ottawa Senators vs Calgary Flames
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F886e1beec6.m3u8&name=Server%201
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F98a74a5d97.m3u8&name=Sportsnet%2B
+
+#EXTINF:-1 group-title="Hockey",02:30 - Ottawa Senators vs Calgary Flames
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fa0393c255a.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Hockey",02:30 - New York Islanders vs Toronto Maple Leafs
 https://ondemand.to/embed/?id=m401892776
@@ -329,7 +287,7 @@ https://ondemand.to/embed/?id=nhl%2F2026-11-23%2Fana-sea_540p
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F2b5a227a54.m3u8&name=V%20Sport%20Premium
 
 #EXTINF:-1 group-title="Hockey",04:40 - Seattle Kraken vs Anaheim Ducks
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fec6b763d93.m3u8&name=Server%201
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F0bba40af40.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Hockey",05:00 - San Jose Sharks vs Minnesota Wild
 https://ondemand.to/embed/?id=m401892779
@@ -634,41 +592,41 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8a
 #EXTINF:-1 group-title="Cricket",17:30 - Pakistan A vs Nepal
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb3c96e3b63.m3u8&name=Sony%20Max
 
-#EXTINF:-1 group-title="24/7-streams",04:55 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",05:19 - NFL Network
 https://ondemand.to/embed/?id=247-nfl-network
 
-#EXTINF:-1 group-title="24/7-streams",04:55 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",05:19 - NFL Network
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1ac9bf5091.m3u8&name=NFL%20RedZone
 
-#EXTINF:-1 group-title="24/7-streams",04:55 - Fox Footy
+#EXTINF:-1 group-title="24/7-streams",05:19 - Fox Footy
 https://ondemand.to/embed/?id=247-247-fox-footy
 
-#EXTINF:-1 group-title="24/7-streams",04:55 - Willow
+#EXTINF:-1 group-title="24/7-streams",05:19 - Willow
 https://ondemand.to/embed/?id=247-247-willow
 
-#EXTINF:-1 group-title="24/7-streams",04:55 - Fox Cricket
+#EXTINF:-1 group-title="24/7-streams",05:19 - Fox Cricket
 https://ondemand.to/embed/?id=247-247-fox-cricket
 
-#EXTINF:-1 group-title="24/7-streams",04:55 - NHL Network
+#EXTINF:-1 group-title="24/7-streams",05:19 - NHL Network
 https://ondemand.to/embed/?id=247-nhl-network-29780
 
-#EXTINF:-1 group-title="24/7-streams",04:55 - Fox League
+#EXTINF:-1 group-title="24/7-streams",05:19 - Fox League
 https://ondemand.to/embed/?id=247-247-fox-league
 
-#EXTINF:-1 group-title="24/7-streams",04:55 - South Park
+#EXTINF:-1 group-title="24/7-streams",05:19 - South Park
 https://ondemand.to/embed/?id=247-247-south-park
 
-#EXTINF:-1 group-title="24/7-streams",04:55 - Family Guy
+#EXTINF:-1 group-title="24/7-streams",05:19 - Family Guy
 https://ondemand.to/embed/?id=247-247-family-guy
 
-#EXTINF:-1 group-title="24/7-streams",04:55 - The Simpsons
+#EXTINF:-1 group-title="24/7-streams",05:19 - The Simpsons
 https://ondemand.to/embed/?id=247-247-the-simpsons
 
-#EXTINF:-1 group-title="24/7-streams",04:55 - Rally TV
+#EXTINF:-1 group-title="24/7-streams",05:19 - Rally TV
 https://ondemand.to/embed/?id=247-rally-tv
 
-#EXTINF:-1 group-title="24/7-streams",04:55 - Tennis Channel
+#EXTINF:-1 group-title="24/7-streams",05:19 - Tennis Channel
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F229d7c7755.m3u8&name=Tennis%20Channel
 
-#EXTINF:-1 group-title="24/7-streams",04:55 - Sky Sports Golf
+#EXTINF:-1 group-title="24/7-streams",05:19 - Sky Sports Golf
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9f5dca47df.m3u8&name=Sky%20Sports%20Golf

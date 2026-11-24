@@ -1,17 +1,5 @@
 [
   {
-    "title": "Real Madrid PSV",
-    "category": "Real Madrid",
-    "logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-    "start_iso": "2026-11-24T02:00:00.000Z",
-    "end_iso": "2026-11-24T04:15:00.000Z",
-    "date": "Tuesday, 24 November 2026",
-    "time": "04:00",
-    "status": "live",
-    "event_url": "https://footystreams.pk/events/real-madrid-vs-psv",
-    "servers": []
-  },
-  {
     "title": "Aston Villa Galatasaray",
     "category": "Aston Villa",
     "logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
@@ -21,7 +9,48 @@
     "time": "19:45",
     "status": "next",
     "event_url": "https://footystreams.pk/events/aston-villa-vs-galatasaray",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/aston-villa-vs-galatasaray/3887",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/aston-villa-vs-galatasaray/3888",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/aston-villa-vs-galatasaray/3889",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/aston-villa-vs-galatasaray/3890",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
   },
   {
     "title": "FK Bodo Glimt LASK",

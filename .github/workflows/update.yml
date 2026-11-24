@@ -12,7 +12,8 @@ permissions:
   id-token: write
 
 jobs:
-  run-scrapers:
+  # JOB 1: Esegue gli script, genera i file, fa il commit e carica l'artefatto
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -46,7 +47,7 @@ jobs:
           git diff --staged --quiet || git commit -m "Aggiornamento automatico - $(date '+%Y-%m-%d %H:%M:%S')"
           git push
 
-      # --- INIZIO PARTE AGGIUNTA PER GITHUB PAGES ---
+      # --- PARTE AGGIUNTA PER GITHUB PAGES ---
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
@@ -55,6 +56,19 @@ jobs:
         with:
           path: './output' 
 
+  # JOB 2: Prende l'artefatto e lo pubblica su GitHub Pages
+  deploy:
+    needs: build # Aspetta che il job 'build' finisca con successo
+    runs-on: ubuntu-latest
+    # Associa esplicitamente il deploy all'ambiente di GitHub Pages
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    # Il deploy ha bisogno solo di questi permessi specifici
+    permissions:
+      pages: write
+      id-token: write
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

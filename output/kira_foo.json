@@ -62,7 +62,48 @@
     "time": "19:45",
     "status": "next",
     "event_url": "https://footystreams.pk/events/bodo-glimt-vs-lask",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bodo-glimt-vs-lask/3891",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bodo-glimt-vs-lask/3892",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/bodo-glimt-vs-lask/3893",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/bodo-glimt-vs-lask/3894",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
   },
   {
     "title": "Arsenal Borussia Dortmund",
@@ -74,7 +115,48 @@
     "time": "22:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/arsenal-vs-borussia-dortmund",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/arsenal-vs-borussia-dortmund/3898",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/arsenal-vs-borussia-dortmund/3899",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Hindi/English",
+        "url": "https://playerdee.top/alpha/arsenal-vs-borussia-dortmund/3900",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Hindi/English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/arsenal-vs-borussia-dortmund/3901",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
   },
   {
     "title": "Manchester City Napoli",
@@ -86,7 +168,101 @@
     "time": "22:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/manchester-city-vs-napoli",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/manchester-city-vs-napoli/3895",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/manchester-city-vs-napoli/3896",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/manchester-city-vs-napoli/3897",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Real Madrid PSV",
+    "category": "Real Madrid",
+    "logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+    "start_iso": "2026-11-24T20:00:00.000Z",
+    "end_iso": "2026-11-24T22:15:00.000Z",
+    "date": "Tuesday, 24 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/real-madrid-vs-psv",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-psv/3902",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-psv/3903",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-psv/3904",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-psv/3905",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/real-madrid-vs-psv/3906",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "Porto Feyenoord",
@@ -98,7 +274,38 @@
     "time": "22:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/porto-vs-feyenoord",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/porto-vs-feyenoord/3907",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/porto-vs-feyenoord/3908",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/porto-vs-feyenoord/3909",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "RB Leipzig Lens",
@@ -110,7 +317,61 @@
     "time": "22:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/rb-leipzig-vs-lens",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/rb-leipzig-vs-lens/3910",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Français",
+        "url": "https://playerdee.top/alpha/rb-leipzig-vs-lens/3911",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Français"
+        }
+      }
+    ]
+  },
+  {
+    "title": "AEK Athens Como",
+    "category": "AEK Athens",
+    "logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
+    "start_iso": "2026-11-24T20:00:00.000Z",
+    "end_iso": "2026-11-24T22:15:00.000Z",
+    "date": "Tuesday, 24 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/aek-athens-vs-como",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/aek-athens-vs-como/3912",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Italiano",
+        "url": "https://playerdee.top/alpha/aek-athens-vs-como/3913",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Italiano"
+        }
+      }
+    ]
   },
   {
     "title": "Wolverhampton Wanderers Derby County",
@@ -122,7 +383,168 @@
     "time": "22:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/wolves-vs-derby-county",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/wolves-vs-derby-county/3916",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Sporting CP Manchester United",
+    "category": "Sporting CP",
+    "logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
+    "start_iso": "2026-11-25T13:00:00.000Z",
+    "end_iso": "2026-11-25T15:15:00.000Z",
+    "date": "Wednesday, 25 November 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/sporting-cp-vs-man-utd",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/sporting-cp-vs-man-utd/3917",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Stoke City Millwall FC",
+    "category": "Stoke City",
+    "logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
+    "start_iso": "2026-11-25T20:00:00.000Z",
+    "end_iso": "2026-11-25T22:15:00.000Z",
+    "date": "Wednesday, 25 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/stoke-city-vs-millwall",
     "servers": []
+  },
+  {
+    "title": "AC Milan Olympiakos Piraeus",
+    "category": "AC Milan",
+    "logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+    "start_iso": "2026-11-26T17:45:00.000Z",
+    "end_iso": "2026-11-26T20:00:00.000Z",
+    "date": "Thursday, 26 November 2026",
+    "time": "19:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/ac-milan-vs-olympiakos-piraeus",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/ac-milan-vs-olympiakos-piraeus/3918",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Bayer Leverkusen Dinamo Zagreb",
+    "category": "Bayer Leverkusen",
+    "logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
+    "start_iso": "2026-11-26T17:45:00.000Z",
+    "end_iso": "2026-11-26T20:00:00.000Z",
+    "date": "Thursday, 26 November 2026",
+    "time": "19:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/bayer-leverkusen-vs-dinamo-zagreb",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bayer-leverkusen-vs-dinamo-zagreb/3919",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "AFC Bournemouth Celta de Vigo",
+    "category": "AFC Bournemouth",
+    "logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+    "start_iso": "2026-11-26T17:45:00.000Z",
+    "end_iso": "2026-11-26T20:00:00.000Z",
+    "date": "Thursday, 26 November 2026",
+    "time": "19:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/bournemouth-vs-celta-vigo",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/bournemouth-vs-celta-vigo/3920",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hearts AS Monaco",
+    "category": "Hearts",
+    "logo": "https://cdn.img4every1.org/team/hearts/logo.webp",
+    "start_iso": "2026-11-26T17:45:00.000Z",
+    "end_iso": "2026-11-26T20:00:00.000Z",
+    "date": "Thursday, 26 November 2026",
+    "time": "19:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/hearts-vs-monaco",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/hearts-vs-monaco/3921",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Brighton & Hove Albion CSU Craiova",
+    "category": "Brighton & Hove Albion",
+    "logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+    "start_iso": "2026-11-26T17:45:00.000Z",
+    "end_iso": "2026-11-26T20:00:00.000Z",
+    "date": "Thursday, 26 November 2026",
+    "time": "19:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/brighton-vs-craiova",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/brighton-vs-craiova/3922",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Snooker UK Championship Snooker",

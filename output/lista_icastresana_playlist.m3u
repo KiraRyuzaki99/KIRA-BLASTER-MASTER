@@ -1,21 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="12:30 Copa -  Sorteo 2ª Eliminatoria" group-title="Copa",12:30 Copa -  Sorteo 2ª Eliminatoria
-acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
-#EXTINF:-1 tvg-name="13:30 Copa -  España - Fiyi" group-title="Copa",13:30 Copa -  España - Fiyi
+#EXTINF:-1 tvg-name="14:00 Youth League - Fase Liga Arsenal Academy - B. Dortmund Academy" group-title="Youth League",14:00 Youth League - Fase Liga Arsenal Academy - B. Dortmund Academy
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-name="16:00 Youth League - Fase Liga Real Madrid Academy - PSV Academy" group-title="Youth League",16:00 Youth League - Fase Liga Real Madrid Academy - PSV Academy
+acestream://f35418bcdbdf47c2d88adef411e9ed15cb2ccc38
+#EXTINF:-1 tvg-name="16:00 Davis Cup Finals - 1/4 de Final República Checa - Canadá" group-title="Davis Cup Finals",16:00 Davis Cup Finals - 1/4 de Final República Checa - Canadá
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
+#EXTINF:-1 tvg-name="16:30 Youth League - Fase Liga Honduras - Colombia" group-title="Youth League",16:30 Youth League - Fase Liga Honduras - Colombia
 acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-name="19:00 The RSM Classic -  Jornada 4" group-title="The RSM Classic",19:00 The RSM Classic -  Jornada 4
-acestream://1735ff3141fa3820090fad58dc548a1390accae9
-#EXTINF:-1 tvg-name="20:00 Liga Fem -  Espanyol Femenino - Valencia Féminas" group-title="Liga Fem",20:00 Liga Fem -  Espanyol Femenino - Valencia Féminas
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-name="20:30 Segunda -  AD Ceuta - UD Almería" group-title="Segunda",20:30 Segunda -  AD Ceuta - UD Almería
-acestream://568ac81baafba91dc9a28a7554a1dd790fdf0c0d
-#EXTINF:-1 tvg-name="20:45 Premier -  Monza - Fiorentina" group-title="Premier",20:45 Premier -  Monza - Fiorentina
-acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="21:00 Primera -  Levante - Elche" group-title="Primera",21:00 Primera -  Levante - Elche
-acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
-#EXTINF:-1 tvg-name="21:00 Premier -  Brentford - Everton" group-title="Premier",21:00 Premier -  Brentford - Everton
-acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-name="01:30 NBA - Liga Regular Minnesota Timberwolves - Brooklyn Nets" group-title="NBA",01:30 NBA - Liga Regular Minnesota Timberwolves - Brooklyn Nets
+#EXTINF:-1 tvg-name="18:00 Euroliga - Liga Regular Besiktas JK Istanbul - Paris Basketball" group-title="Euroliga",18:00 Euroliga - Liga Regular Besiktas JK Istanbul - Paris Basketball
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-name="02:15 NFL - Liga Regular Washington Commanders - Cincinnati Bengals" group-title="NFL",02:15 NFL - Liga Regular Washington Commanders - Cincinnati Bengals
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-name="18:45 Champions - Fase Liga Galatasaray - Aston Villa" group-title="Champions",18:45 Champions - Fase Liga Galatasaray - Aston Villa
+acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+#EXTINF:-1 tvg-name="18:45 Champions - Fase Liga Bodø/Glimt - LASK Linz" group-title="Champions",18:45 Champions - Fase Liga Bodø/Glimt - LASK Linz
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="20:30 Euroliga - Liga Regular Valencia Basket - Panathinaikos BC" group-title="Euroliga",20:30 Euroliga - Liga Regular Valencia Basket - Panathinaikos BC
+acestream://f35418bcdbdf47c2d88adef411e9ed15cb2ccc38
+#EXTINF:-1 tvg-name="20:45 Euroliga - Liga Regular ASVEL Lyon-Villeurbanne - AX Olimpia Milano" group-title="Euroliga",20:45 Euroliga - Liga Regular ASVEL Lyon-Villeurbanne - AX Olimpia Milano
+acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-name="21:00 Champions - Fase Liga Arsenal - Borussia Dortmund" group-title="Champions",21:00 Champions - Fase Liga Arsenal - Borussia Dortmund
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="21:00 Champions - Fase Liga Manchester City - Napoli" group-title="Champions",21:00 Champions - Fase Liga Manchester City - Napoli
+acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+#EXTINF:-1 tvg-name="21:00 Champions - Fase Liga Real Madrid - PSV Eindhoven" group-title="Champions",21:00 Champions - Fase Liga Real Madrid - PSV Eindhoven
+acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
+#EXTINF:-1 tvg-name="21:00 Champions - Fase Liga Feyenoord - FC Porto" group-title="Champions",21:00 Champions - Fase Liga Feyenoord - FC Porto
+acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+#EXTINF:-1 tvg-name="21:00 Champions - Fase Liga RB Leipzig - Lens" group-title="Champions",21:00 Champions - Fase Liga RB Leipzig - Lens
+acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+#EXTINF:-1 tvg-name="21:00 Champions - Fase Liga Slovan Bratislava - Real Betis" group-title="Champions",21:00 Champions - Fase Liga Slovan Bratislava - Real Betis
+acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+#EXTINF:-1 tvg-name="21:00 Champions - Fase Liga Como 1907 - AEK FC" group-title="Champions",21:00 Champions - Fase Liga Como 1907 - AEK FC
+acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+#EXTINF:-1 tvg-name="22:00 Serie A Brasil -  Chapecoense - Palmeiras" group-title="Serie A Brasil",22:00 Serie A Brasil -  Chapecoense - Palmeiras
+acestream://7bd9eb646507e01086eb535511f378a75b8bea63
+#EXTINF:-1 tvg-name="02:00 NBA - Liga Regular Washington Wizards - Boston Celtics" group-title="NBA",02:00 NBA - Liga Regular Washington Wizards - Boston Celtics
+acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-name="04:00 NBA - Liga Regular Denver Nuggets - Dallas Mavericks" group-title="NBA",04:00 NBA - Liga Regular Denver Nuggets - Dallas Mavericks
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc

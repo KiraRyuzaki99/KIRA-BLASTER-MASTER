@@ -1,41 +1,5 @@
 [
   {
-    "title": "Monza Fiorentina",
-    "category": "Monza",
-    "logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-    "start_iso": "2026-11-23T19:45:00.000Z",
-    "end_iso": "2026-11-23T22:00:00.000Z",
-    "date": "Monday, 23 November 2026",
-    "time": "21:45",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/monza-vs-fiorentina",
-    "servers": []
-  },
-  {
-    "title": "Everton Brentford",
-    "category": "Everton",
-    "logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-    "start_iso": "2026-11-23T20:00:00.000Z",
-    "end_iso": "2026-11-23T22:15:00.000Z",
-    "date": "Monday, 23 November 2026",
-    "time": "22:00",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/everton-vs-brentford",
-    "servers": []
-  },
-  {
-    "title": "Elche CF Levante",
-    "category": "Elche CF",
-    "logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-    "start_iso": "2026-11-23T20:00:00.000Z",
-    "end_iso": "2026-11-23T22:15:00.000Z",
-    "date": "Monday, 23 November 2026",
-    "time": "22:00",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/elche-vs-levante",
-    "servers": []
-  },
-  {
     "title": "Real Madrid PSV",
     "category": "Real Madrid",
     "logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
@@ -43,7 +7,7 @@
     "end_iso": "2026-11-24T04:15:00.000Z",
     "date": "Tuesday, 24 November 2026",
     "time": "04:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/real-madrid-vs-psv",
     "servers": []
   },
@@ -105,6 +69,18 @@
     "time": "22:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/porto-vs-feyenoord",
+    "servers": []
+  },
+  {
+    "title": "RB Leipzig Lens",
+    "category": "RB Leipzig",
+    "logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+    "start_iso": "2026-11-24T20:00:00.000Z",
+    "end_iso": "2026-11-24T22:15:00.000Z",
+    "date": "Tuesday, 24 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/rb-leipzig-vs-lens",
     "servers": []
   },
   {

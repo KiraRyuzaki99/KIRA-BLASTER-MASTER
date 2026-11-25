@@ -11,6 +11,8 @@
 ## 🚀 Caratteristiche
 
 - 🔄 **Aggiornamento automatico** da Cron via GitHub Actions
+- 🖥️ **Aggiornamento automatico** ogni due ore via Cron Job
+- 💽 **Controllo e Salvataggio** dei run workflows via Uptime Robot
 - 📊 **Multiple fonti** di eventi sportivi
 - 🏆 **Multi-sport**: Calcio, Tennis, Basket, Baseball, Motori, Surf, Nuoto e altri
 - 📱 **Output in HTML e M3U** per visualizzare su browser o lettori IPTV

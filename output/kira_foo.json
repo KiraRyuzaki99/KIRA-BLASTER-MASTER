@@ -1,18 +1,124 @@
 [
   {
-    "title": "Sporting CP Manchester United",
-    "category": "Sporting CP",
-    "logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
-    "start_iso": "2026-11-25T13:00:00.000Z",
-    "end_iso": "2026-11-25T15:15:00.000Z",
+    "title": "Liverpool Club Brugge",
+    "category": "Liverpool",
+    "logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+    "start_iso": "2026-11-25T20:00:00.000Z",
+    "end_iso": "2026-11-25T22:15:00.000Z",
     "date": "Wednesday, 25 November 2026",
-    "time": "15:00",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/sporting-cp-vs-man-utd",
+    "time": "22:00",
+    "status": "live",
+    "event_url": "https://footystreams.pk/events/liverpool-vs-club-brugge",
     "servers": [
       {
         "label": "English",
-        "url": "https://playerdee.top/alpha/sporting-cp-vs-man-utd/3917",
+        "url": "https://playerdee.top/alpha/liverpool-vs-club-brugge/3940",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/liverpool-vs-club-brugge/3941",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/liverpool-vs-club-brugge/3942",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/liverpool-vs-club-brugge/3971",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Lille Bayern München",
+    "category": "Lille",
+    "logo": "https://cdn.img4every1.org/team/lille/logo.webp",
+    "start_iso": "2026-11-25T20:00:00.000Z",
+    "end_iso": "2026-11-25T22:15:00.000Z",
+    "date": "Wednesday, 25 November 2026",
+    "time": "22:00",
+    "status": "live",
+    "event_url": "https://footystreams.pk/events/lille-vs-bayern-munchen",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/lille-vs-bayern-munchen/3943",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/lille-vs-bayern-munchen/3944",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Deutsch",
+        "url": "https://playerdee.top/alpha/lille-vs-bayern-munchen/3945",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
+        }
+      }
+    ]
+  },
+  {
+    "title": "PSG AS Roma",
+    "category": "PSG",
+    "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+    "start_iso": "2026-11-25T20:00:00.000Z",
+    "end_iso": "2026-11-25T22:15:00.000Z",
+    "date": "Wednesday, 25 November 2026",
+    "time": "22:00",
+    "status": "live",
+    "event_url": "https://footystreams.pk/events/psg-vs-roma",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/psg-vs-roma/3946",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/psg-vs-roma/3947",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -23,66 +129,6 @@
     ]
   },
   {
-    "title": "FC Barcelona Sabah Baku",
-    "category": "FC Barcelona",
-    "logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-    "start_iso": "2026-11-25T17:45:00.000Z",
-    "end_iso": "2026-11-25T20:00:00.000Z",
-    "date": "Wednesday, 25 November 2026",
-    "time": "19:45",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/barcelona-vs-sabah",
-    "servers": []
-  },
-  {
-    "title": "Villarreal Slavia Praha",
-    "category": "Villarreal",
-    "logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-    "start_iso": "2026-11-25T17:45:00.000Z",
-    "end_iso": "2026-11-25T20:00:00.000Z",
-    "date": "Wednesday, 25 November 2026",
-    "time": "19:45",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/villarreal-vs-slavia-praha",
-    "servers": []
-  },
-  {
-    "title": "Liverpool Club Brugge",
-    "category": "Liverpool",
-    "logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-    "start_iso": "2026-11-25T20:00:00.000Z",
-    "end_iso": "2026-11-25T22:15:00.000Z",
-    "date": "Wednesday, 25 November 2026",
-    "time": "22:00",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/liverpool-vs-club-brugge",
-    "servers": []
-  },
-  {
-    "title": "Lille Bayern München",
-    "category": "Lille",
-    "logo": "https://cdn.img4every1.org/team/lille/logo.webp",
-    "start_iso": "2026-11-25T20:00:00.000Z",
-    "end_iso": "2026-11-25T22:15:00.000Z",
-    "date": "Wednesday, 25 November 2026",
-    "time": "22:00",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/lille-vs-bayern-munchen",
-    "servers": []
-  },
-  {
-    "title": "PSG AS Roma",
-    "category": "PSG",
-    "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-    "start_iso": "2026-11-25T20:00:00.000Z",
-    "end_iso": "2026-11-25T22:15:00.000Z",
-    "date": "Wednesday, 25 November 2026",
-    "time": "22:00",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/psg-vs-roma",
-    "servers": []
-  },
-  {
     "title": "Manchester United Sporting CP",
     "category": "Manchester United",
     "logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
@@ -90,9 +136,40 @@
     "end_iso": "2026-11-25T22:15:00.000Z",
     "date": "Wednesday, 25 November 2026",
     "time": "22:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/manchester-united-vs-sporting-cp",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/manchester-united-vs-sporting-cp/3937",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/manchester-united-vs-sporting-cp/3938",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/manchester-united-vs-sporting-cp/3939",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "Inter Milan Stuttgart",
@@ -102,9 +179,40 @@
     "end_iso": "2026-11-25T22:15:00.000Z",
     "date": "Wednesday, 25 November 2026",
     "time": "22:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/inter-milan-vs-stuttgart",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/inter-milan-vs-stuttgart/3948",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/inter-milan-vs-stuttgart/3949",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Italiano",
+        "url": "https://playerdee.top/alpha/inter-milan-vs-stuttgart/3950",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Italiano"
+        }
+      }
+    ]
   },
   {
     "title": "Atlético Madrid Viking",
@@ -114,9 +222,73 @@
     "end_iso": "2026-11-25T22:15:00.000Z",
     "date": "Wednesday, 25 November 2026",
     "time": "22:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/atletico-madrid-vs-viking",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/atletico-madrid-vs-viking/3951",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/atletico-madrid-vs-viking/3952",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/atletico-madrid-vs-viking/3953",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Shakhtar Donetsk Fenerbahçe",
+    "category": "Shakhtar Donetsk",
+    "logo": "https://cdn.img4every1.org/team/shakhtar-donetsk/logo.webp",
+    "start_iso": "2026-11-25T20:00:00.000Z",
+    "end_iso": "2026-11-25T22:15:00.000Z",
+    "date": "Wednesday, 25 November 2026",
+    "time": "22:00",
+    "status": "live",
+    "event_url": "https://footystreams.pk/events/shakhtar-donetsk-vs-fenerbahce",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/shakhtar-donetsk-vs-fenerbahce/3954",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/shakhtar-donetsk-vs-fenerbahce/3955",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Stoke City Millwall FC",
@@ -126,9 +298,63 @@
     "end_iso": "2026-11-25T22:15:00.000Z",
     "date": "Wednesday, 25 November 2026",
     "time": "22:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/stoke-city-vs-millwall",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/stoke-city-vs-millwall/3956",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/stoke-city-vs-millwall/3957",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Los Angeles Rams Green Bay Packers",
+    "category": "Los Angeles Rams",
+    "logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
+    "start_iso": "2026-11-26T01:00:00.000Z",
+    "end_iso": "2026-11-26T04:10:00.000Z",
+    "date": "Thursday, 26 November 2026",
+    "time": "03:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/rams-vs-packers",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/rams-vs-packers/3958",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/rams-vs-packers/3959",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "AC Milan Olympiakos Piraeus",
@@ -246,6 +472,276 @@
     ]
   },
   {
+    "title": "Chicago Bears Detroit Lions",
+    "category": "Chicago Bears",
+    "logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
+    "start_iso": "2026-11-26T18:25:00.000Z",
+    "end_iso": "2026-11-26T21:35:00.000Z",
+    "date": "Thursday, 26 November 2026",
+    "time": "20:25",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/chicago-bears-vs-lions",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/chicago-bears-vs-lions/3960",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/chicago-bears-vs-lions/3961",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/chicago-bears-vs-lions/3962",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Dallas Cowboys Philadelphia Eagles",
+    "category": "Dallas Cowboys",
+    "logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
+    "start_iso": "2026-11-26T21:30:00.000Z",
+    "end_iso": "2026-11-27T00:40:00.000Z",
+    "date": "Thursday, 26 November 2026",
+    "time": "23:30",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/cowboys-vs-eagles",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/cowboys-vs-eagles/3963",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/cowboys-vs-eagles/3964",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/cowboys-vs-eagles/3965",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Buffalo Bills Kansas City Chiefs",
+    "category": "Buffalo Bills",
+    "logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
+    "start_iso": "2026-11-27T01:20:00.000Z",
+    "end_iso": "2026-11-27T04:30:00.000Z",
+    "date": "Friday, 27 November 2026",
+    "time": "03:20",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/buffalo-bills-vs-chiefs",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/buffalo-bills-vs-chiefs/3966",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/buffalo-bills-vs-chiefs/3967",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/buffalo-bills-vs-chiefs/3968",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Brest Paris FC",
+    "category": "Brest",
+    "logo": "https://cdn.img4every1.org/team/brest/logo.webp",
+    "start_iso": "2026-11-27T19:45:00.000Z",
+    "end_iso": "2026-11-27T22:00:00.000Z",
+    "date": "Friday, 27 November 2026",
+    "time": "21:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/brest-vs-paris",
+    "servers": []
+  },
+  {
+    "title": "Venezia Bologna",
+    "category": "Venezia",
+    "logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
+    "start_iso": "2026-11-27T19:45:00.000Z",
+    "end_iso": "2026-11-27T22:00:00.000Z",
+    "date": "Friday, 27 November 2026",
+    "time": "21:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/venezia-vs-bologna",
+    "servers": []
+  },
+  {
+    "title": "Werder Bremen Borussia M'gladbach",
+    "category": "Werder Bremen",
+    "logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
+    "start_iso": "2026-11-27T19:45:00.000Z",
+    "end_iso": "2026-11-27T22:00:00.000Z",
+    "date": "Friday, 27 November 2026",
+    "time": "21:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/werder-bremen-vs-borussia-mgladbach",
+    "servers": []
+  },
+  {
+    "title": "Denver Broncos Pittsburgh Steelers",
+    "category": "Denver Broncos",
+    "logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
+    "start_iso": "2026-11-27T20:00:00.000Z",
+    "end_iso": "2026-11-27T23:10:00.000Z",
+    "date": "Friday, 27 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/broncos-vs-steelers",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/broncos-vs-steelers/3969",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/broncos-vs-steelers/3970",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Southampton Middlesbrough",
+    "category": "Southampton",
+    "logo": "https://cdn.img4every1.org/team/southampton/logo.webp",
+    "start_iso": "2026-11-27T20:00:00.000Z",
+    "end_iso": "2026-11-27T22:15:00.000Z",
+    "date": "Friday, 27 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/southampton-vs-middlesbrough",
+    "servers": []
+  },
+  {
+    "title": "Levante Racing Santander",
+    "category": "Levante",
+    "logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+    "start_iso": "2026-11-27T20:00:00.000Z",
+    "end_iso": "2026-11-27T22:15:00.000Z",
+    "date": "Friday, 27 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/levante-vs-racing-santander",
+    "servers": []
+  },
+  {
+    "title": "Chelsea Nottingham Forest",
+    "category": "Chelsea",
+    "logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+    "start_iso": "2026-11-27T20:00:00.000Z",
+    "end_iso": "2026-11-27T22:15:00.000Z",
+    "date": "Friday, 27 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/chelsea-vs-nottm-forest",
+    "servers": []
+  },
+  {
+    "title": "Maritimo Nacional de Madeira",
+    "category": "Maritimo",
+    "logo": "https://cdn.img4every1.org/team/maritimo/logo.webp",
+    "start_iso": "2026-11-27T20:15:00.000Z",
+    "end_iso": "2026-11-27T22:30:00.000Z",
+    "date": "Friday, 27 November 2026",
+    "time": "22:15",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/maritimo-vs-nacional",
+    "servers": []
+  },
+  {
+    "title": "Preston North End Norwich City",
+    "category": "Preston North End",
+    "logo": "https://cdn.img4every1.org/team/preston-north-end/logo.webp",
+    "start_iso": "2026-11-28T12:30:00.000Z",
+    "end_iso": "2026-11-28T14:45:00.000Z",
+    "date": "Saturday, 28 November 2026",
+    "time": "14:30",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/norwich-vs-preston",
+    "servers": []
+  },
+  {
+    "title": "Real Betis Rayo Vallecano",
+    "category": "Real Betis",
+    "logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+    "start_iso": "2026-11-28T13:00:00.000Z",
+    "end_iso": "2026-11-28T15:15:00.000Z",
+    "date": "Saturday, 28 November 2026",
+    "time": "15:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/real-betis-vs-rayo-vallecano",
+    "servers": []
+  },
+  {
     "title": "Snooker UK Championship Snooker",
     "category": "Snooker UK Championship",
     "logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
@@ -267,5 +763,185 @@
         }
       }
     ]
+  },
+  {
+    "title": "Frosinone Calcio Parma",
+    "category": "Frosinone Calcio",
+    "logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
+    "start_iso": "2026-11-28T14:00:00.000Z",
+    "end_iso": "2026-11-28T16:15:00.000Z",
+    "date": "Saturday, 28 November 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/frosinone-vs-parma",
+    "servers": []
+  },
+  {
+    "title": "Burnley FC Millwall FC",
+    "category": "Burnley FC",
+    "logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
+    "start_iso": "2026-11-28T15:00:00.000Z",
+    "end_iso": "2026-11-28T17:15:00.000Z",
+    "date": "Saturday, 28 November 2026",
+    "time": "17:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/burnley-vs-millwall",
+    "servers": []
+  },
+  {
+    "title": "Leeds United Coventry City",
+    "category": "Leeds United",
+    "logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
+    "start_iso": "2026-11-28T15:00:00.000Z",
+    "end_iso": "2026-11-28T17:15:00.000Z",
+    "date": "Saturday, 28 November 2026",
+    "time": "17:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/leeds-united-vs-coventry-city",
+    "servers": []
+  },
+  {
+    "title": "Manchester United Brentford",
+    "category": "Manchester United",
+    "logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+    "start_iso": "2026-11-28T15:00:00.000Z",
+    "end_iso": "2026-11-28T17:15:00.000Z",
+    "date": "Saturday, 28 November 2026",
+    "time": "17:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/man-united-vs-brentford",
+    "servers": []
+  },
+  {
+    "title": "Málaga Athletic Club",
+    "category": "Málaga",
+    "logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+    "start_iso": "2026-11-28T15:15:00.000Z",
+    "end_iso": "2026-11-28T17:30:00.000Z",
+    "date": "Saturday, 28 November 2026",
+    "time": "17:15",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/malaga-vs-athletic-club",
+    "servers": []
+  },
+  {
+    "title": "Arouca Rio Ave",
+    "category": "Arouca",
+    "logo": "https://cdn.img4every1.org/team/arouca/logo.webp",
+    "start_iso": "2026-11-28T15:30:00.000Z",
+    "end_iso": "2026-11-28T17:45:00.000Z",
+    "date": "Saturday, 28 November 2026",
+    "time": "17:30",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/arouca-vs-rio-ave",
+    "servers": []
+  },
+  {
+    "title": "Lazio Torino",
+    "category": "Lazio",
+    "logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+    "start_iso": "2026-11-28T17:00:00.000Z",
+    "end_iso": "2026-11-28T19:15:00.000Z",
+    "date": "Saturday, 28 November 2026",
+    "time": "19:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/lazio-vs-torino",
+    "servers": []
+  },
+  {
+    "title": "Eintracht Frankfurt Stuttgart",
+    "category": "Eintracht Frankfurt",
+    "logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
+    "start_iso": "2026-11-28T17:30:00.000Z",
+    "end_iso": "2026-11-28T19:45:00.000Z",
+    "date": "Saturday, 28 November 2026",
+    "time": "19:30",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/eintracht-frankfurt-vs-stuttgart",
+    "servers": []
+  },
+  {
+    "title": "Elche CF Atlético Madrid",
+    "category": "Elche CF",
+    "logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+    "start_iso": "2026-11-28T17:30:00.000Z",
+    "end_iso": "2026-11-28T19:45:00.000Z",
+    "date": "Saturday, 28 November 2026",
+    "time": "19:30",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/elche-vs-atletico-madrid",
+    "servers": []
+  },
+  {
+    "title": "Aston Villa Ipswich Town",
+    "category": "Aston Villa",
+    "logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+    "start_iso": "2026-11-28T17:30:00.000Z",
+    "end_iso": "2026-11-28T19:45:00.000Z",
+    "date": "Saturday, 28 November 2026",
+    "time": "19:30",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/aston-villa-vs-ipswich-town",
+    "servers": []
+  },
+  {
+    "title": "Academico Viseu Alverca",
+    "category": "Academico Viseu",
+    "logo": "https://cdn.img4every1.org/team/academico-viseu/logo.webp",
+    "start_iso": "2026-11-28T18:00:00.000Z",
+    "end_iso": "2026-11-28T20:15:00.000Z",
+    "date": "Saturday, 28 November 2026",
+    "time": "20:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/academico-viseu-vs-alverca",
+    "servers": []
+  },
+  {
+    "title": "PSG Lorient",
+    "category": "PSG",
+    "logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+    "start_iso": "2026-11-28T19:45:00.000Z",
+    "end_iso": "2026-11-28T22:00:00.000Z",
+    "date": "Saturday, 28 November 2026",
+    "time": "21:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/psg-vs-lorient",
+    "servers": []
+  },
+  {
+    "title": "Inter Milan Genoa",
+    "category": "Inter Milan",
+    "logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+    "start_iso": "2026-11-28T19:45:00.000Z",
+    "end_iso": "2026-11-28T22:00:00.000Z",
+    "date": "Saturday, 28 November 2026",
+    "time": "21:45",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/inter-milan-vs-genoa",
+    "servers": []
+  },
+  {
+    "title": "Real Madrid Deportivo Alavés",
+    "category": "Real Madrid",
+    "logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+    "start_iso": "2026-11-28T20:00:00.000Z",
+    "end_iso": "2026-11-28T22:15:00.000Z",
+    "date": "Saturday, 28 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/real-madrid-vs-alaves",
+    "servers": []
+  },
+  {
+    "title": "Vitória Guimarães Estrela",
+    "category": "Vitória Guimarães",
+    "logo": "https://cdn.img4every1.org/team/vitoria-guimaraes/logo.webp",
+    "start_iso": "2026-11-28T20:30:00.000Z",
+    "end_iso": "2026-11-28T22:45:00.000Z",
+    "date": "Saturday, 28 November 2026",
+    "time": "22:30",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/vitoria-guimaraes-vs-estrela",
+    "servers": []
   }
 ]

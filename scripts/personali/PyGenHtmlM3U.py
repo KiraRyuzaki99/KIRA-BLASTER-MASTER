@@ -25,6 +25,7 @@ CONFIG = {
         "streamxhd.sbs",
         "streamxhd.click",
         "streamxhd.st",
+        "streamx723.sbs",
         "streamxhd.com",
         "streamx305.sbs",
         "streamx061.sbs",

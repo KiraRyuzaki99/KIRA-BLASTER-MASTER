@@ -2,7 +2,7 @@ name: Aggiornamento Automatico KIRA-BLASTER-MASTER
 
 on:
   schedule:
-    - cron: '43 */2 * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 # Permessi necessari per far funzionare GitHub Pages

@@ -19,10 +19,10 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Falfa%2
 #EXTINF:-1 group-title="Football",02:00 - Boca Juniors vs Independiente Rivadavia
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Falfa%2Fadmin%2Fafaplayen.m3u8&name=HD%20Server%202
 
-#EXTINF:-1 group-title="Football",02:57 - Toluca vs Atlas
+#EXTINF:-1 group-title="Football",03:00 - Toluca vs Atlas
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fda07f60d06.m3u8&name=TUDN%20USA
 
-#EXTINF:-1 group-title="Football",02:57 - Toluca vs Atlas
+#EXTINF:-1 group-title="Football",03:00 - Toluca vs Atlas
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Falfa%2Fadmin2%2Faztecadeportesmx.m3u8&name=HD%20Server
 
 #EXTINF:-1 group-title="Football",05:10 - Monterrey vs América
@@ -509,10 +509,7 @@ https://ondemand.to/embed/?id=m401909568
 https://ondemand.to/embed/?id=cbb%2F2026-11-25%2Fconn-duke_540p
 
 #EXTINF:-1 group-title="Basketball",02:00 - Penn State Nittany Lions vs Memphis Tigers
-https://ondemand.to/embed/?id=m401917182
-
-#EXTINF:-1 group-title="Basketball",02:00 - Penn State Nittany Lions vs Memphis Tigers
-https://ondemand.to/embed/?id=cbb%2F2026-11-25%2Fmem-psu_540p
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9a5abf97ee.m3u8&name=ESPNU%20USA
 
 #EXTINF:-1 group-title="Basketball",02:30 - New York Knicks vs Cleveland Cavaliers
 https://ondemand.to/embed/?id=m401909319
@@ -680,7 +677,7 @@ https://ondemand.to/embed/?id=m401892783
 https://ondemand.to/embed/?id=nhl%2F2026-11-25%2Fcar-tb_540p
 
 #EXTINF:-1 group-title="Hockey",02:00 - Tampa Bay Lightning vs Carolina Hurricanes
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F541c263fd5.m3u8&name=ESPN3%20Brazil
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb50d6e58d4.m3u8&name=NHL%20Gamecenter
 
 #EXTINF:-1 group-title="Hockey",02:00 - Florida Panthers vs Ottawa Senators
 https://ondemand.to/embed/?id=m401892784
@@ -732,9 +729,6 @@ https://ondemand.to/embed/?id=m401892789
 
 #EXTINF:-1 group-title="Hockey",02:30 - Detroit Red Wings vs Vancouver Canucks
 https://ondemand.to/embed/?id=nhl%2F2026-11-25%2Fvan-det_540p
-
-#EXTINF:-1 group-title="Hockey",02:30 - Detroit Red Wings vs Vancouver Canucks
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8d81ac280f.m3u8&name=NHL%20Gamecenter
 
 #EXTINF:-1 group-title="Hockey",03:00 - Dallas Stars vs Nashville Predators
 https://ondemand.to/embed/?id=m401892790
@@ -796,15 +790,6 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fe9
 #EXTINF:-1 group-title="Hockey",05:00 - Anaheim Ducks vs San Jose Sharks
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F7085ceb3a7.m3u8&name=Server%201
 
-#EXTINF:-1 group-title="Golf",02:00 - BMW Australian PGA Championship
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F69e817d35c.m3u8&name=GOLF%20Channel%20USA
-
-#EXTINF:-1 group-title="Golf",02:00 - BMW Australian PGA Championship
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9f5dca47df.m3u8&name=Sky%20Sports%20Golf%20UK
-
-#EXTINF:-1 group-title="Golf",02:00 - BMW Australian PGA Championship
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4a2c801ab2.m3u8&name=Sky%20Sports%20Main%20Event%20UK
-
 #EXTINF:-1 group-title="American-football",03:00 - Los Angeles Rams vs Green Bay Packers
 https://ondemand.to/embed/?id=m401873079
 
@@ -832,6 +817,15 @@ https://ondemand.to/embed/?id=m401873080
 #EXTINF:-1 group-title="American-football",23:30 - Dallas Cowboys vs Philadelphia Eagles
 https://ondemand.to/embed/?id=nfl%2F2026-11-26%2Fphi-dal_540p
 
+#EXTINF:-1 group-title="Golf",02:00 - BMW Australian PGA Championship
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F69e817d35c.m3u8&name=GOLF%20Channel%20USA
+
+#EXTINF:-1 group-title="Golf",02:00 - BMW Australian PGA Championship
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9f5dca47df.m3u8&name=Sky%20Sports%20Golf%20UK
+
+#EXTINF:-1 group-title="Golf",02:00 - BMW Australian PGA Championship
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4a2c801ab2.m3u8&name=Sky%20Sports%20Main%20Event%20UK
+
 #EXTINF:-1 group-title="Fight",03:00 - AEW Dynamite #373 - Thanksgiving Eve
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F2f11cc481f.m3u8&name=TBS%20USA
 
@@ -841,41 +835,41 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fe9
 #EXTINF:-1 group-title="Fight",03:00 - AEW Dynamite #373 - Thanksgiving Eve
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F50360de24a.m3u8&name=RMC%20Sport%201%20France
 
-#EXTINF:-1 group-title="24/7-streams",02:59 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",03:35 - NFL Network
 https://ondemand.to/embed/?id=247-nfl-network
 
-#EXTINF:-1 group-title="24/7-streams",02:59 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",03:35 - NFL Network
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1ac9bf5091.m3u8&name=NFL%20RedZone
 
-#EXTINF:-1 group-title="24/7-streams",02:59 - Fox Footy
+#EXTINF:-1 group-title="24/7-streams",03:35 - Fox Footy
 https://ondemand.to/embed/?id=247-247-fox-footy
 
-#EXTINF:-1 group-title="24/7-streams",02:59 - Willow
+#EXTINF:-1 group-title="24/7-streams",03:35 - Willow
 https://ondemand.to/embed/?id=247-247-willow
 
-#EXTINF:-1 group-title="24/7-streams",02:59 - Fox Cricket
+#EXTINF:-1 group-title="24/7-streams",03:35 - Fox Cricket
 https://ondemand.to/embed/?id=247-247-fox-cricket
 
-#EXTINF:-1 group-title="24/7-streams",02:59 - NHL Network
+#EXTINF:-1 group-title="24/7-streams",03:35 - NHL Network
 https://ondemand.to/embed/?id=247-nhl-network-29780
 
-#EXTINF:-1 group-title="24/7-streams",02:59 - Fox League
+#EXTINF:-1 group-title="24/7-streams",03:35 - Fox League
 https://ondemand.to/embed/?id=247-247-fox-league
 
-#EXTINF:-1 group-title="24/7-streams",02:59 - South Park
+#EXTINF:-1 group-title="24/7-streams",03:35 - South Park
 https://ondemand.to/embed/?id=247-247-south-park
 
-#EXTINF:-1 group-title="24/7-streams",02:59 - Family Guy
+#EXTINF:-1 group-title="24/7-streams",03:35 - Family Guy
 https://ondemand.to/embed/?id=247-247-family-guy
 
-#EXTINF:-1 group-title="24/7-streams",02:59 - The Simpsons
+#EXTINF:-1 group-title="24/7-streams",03:35 - The Simpsons
 https://ondemand.to/embed/?id=247-247-the-simpsons
 
-#EXTINF:-1 group-title="24/7-streams",02:59 - Rally TV
+#EXTINF:-1 group-title="24/7-streams",03:35 - Rally TV
 https://ondemand.to/embed/?id=247-rally-tv
 
-#EXTINF:-1 group-title="24/7-streams",02:59 - Tennis Channel
+#EXTINF:-1 group-title="24/7-streams",03:35 - Tennis Channel
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F229d7c7755.m3u8&name=Tennis%20Channel
 
-#EXTINF:-1 group-title="24/7-streams",02:59 - Sky Sports Golf
+#EXTINF:-1 group-title="24/7-streams",03:35 - Sky Sports Golf
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9f5dca47df.m3u8&name=Sky%20Sports%20Golf

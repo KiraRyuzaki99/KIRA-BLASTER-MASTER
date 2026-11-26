@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",20:00 - AaB vs Esbjerg
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F41764c3e37.m3u8&name=TV3%20Sport%20Denmark
-
 #EXTINF:-1 group-title="Football",22:00 - Crystal Palace vs Real Sociedad
 https://ondemand.to/embed/?id=mm-own-3fce4dc898
 
@@ -150,6 +147,9 @@ https://ondemand.to/embed/?id=mm-own-4b0bd9c3e1
 
 #EXTINF:-1 group-title="Football",22:00 - Braga vs KuPS Kuopio
 https://ondemand.to/embed/?id=uecl%2F2026-11-26%2Fscb-kups_540p
+
+#EXTINF:-1 group-title="Football",22:00 - Braga vs KuPS Kuopio
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff7ab09712b.m3u8&name=Canal%2B%20Live%2010%20France
 
 #EXTINF:-1 group-title="Football",22:00 - CSKA Sofia vs Trabzonspor
 https://ondemand.to/embed/?id=mm-own-3a074bbd32
@@ -334,41 +334,41 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f
 #EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd4a4fa01bf.m3u8&name=TNT%20Sports%204%20UK
 
-#EXTINF:-1 group-title="24/7-streams",22:54 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",22:59 - NFL Network
 https://ondemand.to/embed/?id=247-nfl-network
 
-#EXTINF:-1 group-title="24/7-streams",22:54 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",22:59 - NFL Network
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1ac9bf5091.m3u8&name=NFL%20RedZone
 
-#EXTINF:-1 group-title="24/7-streams",22:54 - Fox Footy
+#EXTINF:-1 group-title="24/7-streams",22:59 - Fox Footy
 https://ondemand.to/embed/?id=247-247-fox-footy
 
-#EXTINF:-1 group-title="24/7-streams",22:54 - Willow
+#EXTINF:-1 group-title="24/7-streams",22:59 - Willow
 https://ondemand.to/embed/?id=247-247-willow
 
-#EXTINF:-1 group-title="24/7-streams",22:54 - Fox Cricket
+#EXTINF:-1 group-title="24/7-streams",22:59 - Fox Cricket
 https://ondemand.to/embed/?id=247-247-fox-cricket
 
-#EXTINF:-1 group-title="24/7-streams",22:54 - NHL Network
+#EXTINF:-1 group-title="24/7-streams",22:59 - NHL Network
 https://ondemand.to/embed/?id=247-nhl-network-29780
 
-#EXTINF:-1 group-title="24/7-streams",22:54 - Fox League
+#EXTINF:-1 group-title="24/7-streams",22:59 - Fox League
 https://ondemand.to/embed/?id=247-247-fox-league
 
-#EXTINF:-1 group-title="24/7-streams",22:54 - South Park
+#EXTINF:-1 group-title="24/7-streams",22:59 - South Park
 https://ondemand.to/embed/?id=247-247-south-park
 
-#EXTINF:-1 group-title="24/7-streams",22:54 - Family Guy
+#EXTINF:-1 group-title="24/7-streams",22:59 - Family Guy
 https://ondemand.to/embed/?id=247-247-family-guy
 
-#EXTINF:-1 group-title="24/7-streams",22:54 - The Simpsons
+#EXTINF:-1 group-title="24/7-streams",22:59 - The Simpsons
 https://ondemand.to/embed/?id=247-247-the-simpsons
 
-#EXTINF:-1 group-title="24/7-streams",22:54 - Rally TV
+#EXTINF:-1 group-title="24/7-streams",22:59 - Rally TV
 https://ondemand.to/embed/?id=247-rally-tv
 
-#EXTINF:-1 group-title="24/7-streams",22:54 - Tennis Channel
+#EXTINF:-1 group-title="24/7-streams",22:59 - Tennis Channel
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F229d7c7755.m3u8&name=Tennis%20Channel
 
-#EXTINF:-1 group-title="24/7-streams",22:54 - Sky Sports Golf
+#EXTINF:-1 group-title="24/7-streams",22:59 - Sky Sports Golf
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9f5dca47df.m3u8&name=Sky%20Sports%20Golf

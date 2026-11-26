@@ -7,12 +7,22 @@
     "end_iso": "2026-11-26T20:00:00.000Z",
     "date": "Thursday, 26 November 2026",
     "time": "19:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/ac-milan-vs-olympiakos-piraeus",
     "servers": [
       {
         "label": "English",
         "url": "https://playerdee.top/alpha/ac-milan-vs-olympiakos-piraeus/3918",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/ac-milan-vs-olympiakos-piraeus/3985",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -30,7 +40,7 @@
     "end_iso": "2026-11-26T20:00:00.000Z",
     "date": "Thursday, 26 November 2026",
     "time": "19:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/bayer-leverkusen-vs-dinamo-zagreb",
     "servers": [
       {
@@ -53,7 +63,7 @@
     "end_iso": "2026-11-26T20:00:00.000Z",
     "date": "Thursday, 26 November 2026",
     "time": "19:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/bournemouth-vs-celta-vigo",
     "servers": [
       {
@@ -76,7 +86,7 @@
     "end_iso": "2026-11-26T20:00:00.000Z",
     "date": "Thursday, 26 November 2026",
     "time": "19:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/hearts-vs-monaco",
     "servers": [
       {
@@ -99,7 +109,7 @@
     "end_iso": "2026-11-26T20:00:00.000Z",
     "date": "Thursday, 26 November 2026",
     "time": "19:45",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/brighton-vs-craiova",
     "servers": [
       {
@@ -115,6 +125,49 @@
     ]
   },
   {
+    "title": "Benfica Viktoria Plzen",
+    "category": "Benfica",
+    "logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
+    "start_iso": "2026-11-26T17:45:00.000Z",
+    "end_iso": "2026-11-26T20:00:00.000Z",
+    "date": "Thursday, 26 November 2026",
+    "time": "19:45",
+    "status": "live",
+    "event_url": "https://footystreams.pk/events/benfica-vs-viktoria-plzen",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/benfica-vs-viktoria-plzen/3982",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/benfica-vs-viktoria-plzen/3983",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/benfica-vs-viktoria-plzen/3984",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
+  },
+  {
     "title": "Chicago Bears Detroit Lions",
     "category": "Chicago Bears",
     "logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
@@ -122,7 +175,7 @@
     "end_iso": "2026-11-26T21:35:00.000Z",
     "date": "Thursday, 26 November 2026",
     "time": "20:25",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/chicago-bears-vs-lions",
     "servers": [
       {
@@ -181,6 +234,115 @@
       {
         "label": "English",
         "url": "https://playerdee.top/alpha/doncaster-vs-huddersfield-town/3973",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Juventus Omonia Nicosia",
+    "category": "Juventus",
+    "logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+    "start_iso": "2026-11-26T20:00:00.000Z",
+    "end_iso": "2026-11-26T22:15:00.000Z",
+    "date": "Thursday, 26 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/juventus-vs-omonia-nicosia",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/juventus-vs-omonia-nicosia/3986",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/juventus-vs-omonia-nicosia/3987",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Italiano",
+        "url": "https://playerdee.top/alpha/juventus-vs-omonia-nicosia/3988",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Italiano"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Sunderland Jagiellonia Bialystok",
+    "category": "Sunderland",
+    "logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+    "start_iso": "2026-11-26T20:00:00.000Z",
+    "end_iso": "2026-11-26T22:15:00.000Z",
+    "date": "Thursday, 26 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/sunderland-vs-jagiellonia-bialystok",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/sunderland-vs-jagiellonia-bialystok/3989",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/sunderland-vs-jagiellonia-bialystok/3990",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Crystal Palace Real Sociedad",
+    "category": "Crystal Palace",
+    "logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+    "start_iso": "2026-11-26T20:00:00.000Z",
+    "end_iso": "2026-11-26T22:15:00.000Z",
+    "date": "Thursday, 26 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/crystal-palace-vs-real-sociedad",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/crystal-palace-vs-real-sociedad/3991",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/crystal-palace-vs-real-sociedad/3992",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",

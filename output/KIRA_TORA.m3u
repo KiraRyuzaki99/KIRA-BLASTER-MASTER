@@ -19,18 +19,6 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f
 #EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd4a4fa01bf.m3u8&name=TNT%20Sports%204%20UK
 
-#EXTINF:-1 group-title="Golf",10:00 - Ladies European Tour Andalucia Costa del Sol Open de Espana Round 1
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F69e817d35c.m3u8&name=GOLF%20Channel%20USA
-
-#EXTINF:-1 group-title="Golf",10:00 - Ladies European Tour Andalucia Costa del Sol Open de Espana Round 1
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9f5dca47df.m3u8&name=Sky%20Sports%20Golf%20UK
-
-#EXTINF:-1 group-title="Golf",10:00 - Ladies European Tour Andalucia Costa del Sol Open de Espana Round 1
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4a2c801ab2.m3u8&name=Sky%20Sports%20Main%20Event%20UK
-
-#EXTINF:-1 group-title="Baseball",10:30 - Brisbane Bandits vs Perth Heat
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fcfacd0a9a8.m3u8&name=MLB%20Network%20USA
-
 #EXTINF:-1 group-title="Football",12:00 - Gangwon FC vs Kitchee
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ffe1e618f3a.m3u8&name=Nova%20Sport%20Bulgaria
 
@@ -583,6 +571,18 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F34
 #EXTINF:-1 group-title="Football",22:00 - Doncaster Rovers vs Huddersfield Town
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fac78ddca28.m3u8&name=Nova%20Sport%204%20CZ
 
+#EXTINF:-1 group-title="Golf",10:00 - Ladies European Tour Andalucia Costa del Sol Open de Espana Round 1
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F69e817d35c.m3u8&name=GOLF%20Channel%20USA
+
+#EXTINF:-1 group-title="Golf",10:00 - Ladies European Tour Andalucia Costa del Sol Open de Espana Round 1
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9f5dca47df.m3u8&name=Sky%20Sports%20Golf%20UK
+
+#EXTINF:-1 group-title="Golf",10:00 - Ladies European Tour Andalucia Costa del Sol Open de Espana Round 1
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4a2c801ab2.m3u8&name=Sky%20Sports%20Main%20Event%20UK
+
+#EXTINF:-1 group-title="Baseball",10:30 - Brisbane Bandits vs Perth Heat
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fcfacd0a9a8.m3u8&name=MLB%20Network%20USA
+
 #EXTINF:-1 group-title="Motor-sports",14:00 - MotoGP: 160Cc Super Final - Moto Mini Fim World Series
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5e02f18e4c.m3u8&name=Sport%20TV4%20Poutugal
 
@@ -721,41 +721,41 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fea
 #EXTINF:-1 group-title="Rugby",22:00 - CA Brive vs Biarritz Olympique
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5caa22b446.m3u8&name=Canal%2B%20Sport%20France
 
-#EXTINF:-1 group-title="24/7-streams",12:24 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",12:59 - NFL Network
 https://ondemand.to/embed/?id=247-nfl-network
 
-#EXTINF:-1 group-title="24/7-streams",12:24 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",12:59 - NFL Network
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1ac9bf5091.m3u8&name=NFL%20RedZone
 
-#EXTINF:-1 group-title="24/7-streams",12:24 - Fox Footy
+#EXTINF:-1 group-title="24/7-streams",12:59 - Fox Footy
 https://ondemand.to/embed/?id=247-247-fox-footy
 
-#EXTINF:-1 group-title="24/7-streams",12:24 - Willow
+#EXTINF:-1 group-title="24/7-streams",12:59 - Willow
 https://ondemand.to/embed/?id=247-247-willow
 
-#EXTINF:-1 group-title="24/7-streams",12:24 - Fox Cricket
+#EXTINF:-1 group-title="24/7-streams",12:59 - Fox Cricket
 https://ondemand.to/embed/?id=247-247-fox-cricket
 
-#EXTINF:-1 group-title="24/7-streams",12:24 - NHL Network
+#EXTINF:-1 group-title="24/7-streams",12:59 - NHL Network
 https://ondemand.to/embed/?id=247-nhl-network-29780
 
-#EXTINF:-1 group-title="24/7-streams",12:24 - Fox League
+#EXTINF:-1 group-title="24/7-streams",12:59 - Fox League
 https://ondemand.to/embed/?id=247-247-fox-league
 
-#EXTINF:-1 group-title="24/7-streams",12:24 - South Park
+#EXTINF:-1 group-title="24/7-streams",12:59 - South Park
 https://ondemand.to/embed/?id=247-247-south-park
 
-#EXTINF:-1 group-title="24/7-streams",12:24 - Family Guy
+#EXTINF:-1 group-title="24/7-streams",12:59 - Family Guy
 https://ondemand.to/embed/?id=247-247-family-guy
 
-#EXTINF:-1 group-title="24/7-streams",12:24 - The Simpsons
+#EXTINF:-1 group-title="24/7-streams",12:59 - The Simpsons
 https://ondemand.to/embed/?id=247-247-the-simpsons
 
-#EXTINF:-1 group-title="24/7-streams",12:24 - Rally TV
+#EXTINF:-1 group-title="24/7-streams",12:59 - Rally TV
 https://ondemand.to/embed/?id=247-rally-tv
 
-#EXTINF:-1 group-title="24/7-streams",12:24 - Tennis Channel
+#EXTINF:-1 group-title="24/7-streams",12:59 - Tennis Channel
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F229d7c7755.m3u8&name=Tennis%20Channel
 
-#EXTINF:-1 group-title="24/7-streams",12:24 - Sky Sports Golf
+#EXTINF:-1 group-title="24/7-streams",12:59 - Sky Sports Golf
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9f5dca47df.m3u8&name=Sky%20Sports%20Golf

@@ -1,42 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Motor-sports",09:45 - MotoGP: 160Cc Race 1 - Moto Mini Fim World Series
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5e02f18e4c.m3u8&name=Sport%20TV4%20Poutugal
-
-#EXTINF:-1 group-title="Motor-sports",09:45 - MotoGP: 160Cc Race 1 - Moto Mini Fim World Series
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F959f9e7d1d.m3u8&name=Sky%20Sport%20Mix%20DE
-
-#EXTINF:-1 group-title="Motor-sports",09:45 - MotoGP: 160Cc Race 1 - Moto Mini Fim World Series
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F92af2bf671.m3u8&name=Sky%20Sport%20Top%20Event%20DE
-
-#EXTINF:-1 group-title="Motor-sports",09:45 - MotoGP: 160Cc Race 1 - Moto Mini Fim World Series
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F409ba10b0f.m3u8&name=Sportklub%207%20Croatia
-
-#EXTINF:-1 group-title="Motor-sports",09:45 - MotoGP: 160Cc Race 1 - Moto Mini Fim World Series
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F87c190704e.m3u8&name=Canal%2B%20MotoGP%20France
-
-#EXTINF:-1 group-title="Motor-sports",14:00 - MotoGP: 160Cc Super Final - Moto Mini Fim World Series
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5e02f18e4c.m3u8&name=Sport%20TV4%20Poutugal
-
-#EXTINF:-1 group-title="Motor-sports",14:00 - MotoGP: 160Cc Super Final - Moto Mini Fim World Series
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F959f9e7d1d.m3u8&name=Sky%20Sport%20Mix%20DE
-
-#EXTINF:-1 group-title="Motor-sports",14:00 - MotoGP: 160Cc Super Final - Moto Mini Fim World Series
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F92af2bf671.m3u8&name=Sky%20Sport%20Top%20Event%20DE
-
-#EXTINF:-1 group-title="Motor-sports",14:00 - MotoGP: 160Cc Super Final - Moto Mini Fim World Series
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F409ba10b0f.m3u8&name=Sportklub%207%20Croatia
-
-#EXTINF:-1 group-title="Motor-sports",14:00 - MotoGP: 160Cc Super Final - Moto Mini Fim World Series
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F87c190704e.m3u8&name=Canal%2B%20MotoGP%20France
-
-#EXTINF:-1 group-title="Motor-sports",15:00 - Fim Motomini World Series: 190Cc Superfinals
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F409ba10b0f.m3u8&name=Sportklub%207%20Croatia
-
-#EXTINF:-1 group-title="Motor-sports",23:30 - Supercars: Friday Supports
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F87cad238ba.m3u8&name=Sky%20Sport%202%20NZ
-
 #EXTINF:-1 group-title="Cricket",10:10 - Sydney Sixers Women vs Melbourne Stars Women
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F91a93f700c.m3u8&name=Willow%202%20Cricket
 
@@ -54,6 +18,15 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f
 
 #EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd4a4fa01bf.m3u8&name=TNT%20Sports%204%20UK
+
+#EXTINF:-1 group-title="Golf",10:00 - Ladies European Tour Andalucia Costa del Sol Open de Espana Round 1
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F69e817d35c.m3u8&name=GOLF%20Channel%20USA
+
+#EXTINF:-1 group-title="Golf",10:00 - Ladies European Tour Andalucia Costa del Sol Open de Espana Round 1
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9f5dca47df.m3u8&name=Sky%20Sports%20Golf%20UK
+
+#EXTINF:-1 group-title="Golf",10:00 - Ladies European Tour Andalucia Costa del Sol Open de Espana Round 1
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4a2c801ab2.m3u8&name=Sky%20Sports%20Main%20Event%20UK
 
 #EXTINF:-1 group-title="Baseball",10:30 - Brisbane Bandits vs Perth Heat
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fcfacd0a9a8.m3u8&name=MLB%20Network%20USA
@@ -610,6 +583,27 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F34
 #EXTINF:-1 group-title="Football",22:00 - Doncaster Rovers vs Huddersfield Town
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fac78ddca28.m3u8&name=Nova%20Sport%204%20CZ
 
+#EXTINF:-1 group-title="Motor-sports",14:00 - MotoGP: 160Cc Super Final - Moto Mini Fim World Series
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5e02f18e4c.m3u8&name=Sport%20TV4%20Poutugal
+
+#EXTINF:-1 group-title="Motor-sports",14:00 - MotoGP: 160Cc Super Final - Moto Mini Fim World Series
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F959f9e7d1d.m3u8&name=Sky%20Sport%20Mix%20DE
+
+#EXTINF:-1 group-title="Motor-sports",14:00 - MotoGP: 160Cc Super Final - Moto Mini Fim World Series
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F92af2bf671.m3u8&name=Sky%20Sport%20Top%20Event%20DE
+
+#EXTINF:-1 group-title="Motor-sports",14:00 - MotoGP: 160Cc Super Final - Moto Mini Fim World Series
+https://ondemand.to/player/hls/?v=540&url=%2Fc%2F409ba10b0f.m3u8&name=Sportklub%207%20Croatia
+
+#EXTINF:-1 group-title="Motor-sports",14:00 - MotoGP: 160Cc Super Final - Moto Mini Fim World Series
+https://ondemand.to/player/hls/?v=540&url=%2Fc%2F87c190704e.m3u8&name=Canal%2B%20MotoGP%20France
+
+#EXTINF:-1 group-title="Motor-sports",15:00 - Fim Motomini World Series: 190Cc Superfinals
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F409ba10b0f.m3u8&name=Sportklub%207%20Croatia
+
+#EXTINF:-1 group-title="Motor-sports",23:30 - Supercars: Friday Supports
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F87cad238ba.m3u8&name=Sky%20Sport%202%20NZ
+
 #EXTINF:-1 group-title="Basketball",18:00 - Cincinnati vs Georgia
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3c1c199431.m3u8&name=ESPN%20USA
 
@@ -627,6 +621,9 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fc9
 
 #EXTINF:-1 group-title="Basketball",19:00 - Oklahoma vs Purdue
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3ba7798314.m3u8&name=FOXNY%20USA
+
+#EXTINF:-1 group-title="Basketball",20:00 - Maryland vs San Diego State
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3c1c199431.m3u8&name=ESPN%20USA
 
 #EXTINF:-1 group-title="Basketball",21:00 - ESB Villeneuve-dAscq Women vs Maccabi Bnot Ashdod
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fc48db597b1.m3u8&name=Sport%205%20Plus%20Israel
@@ -724,41 +721,41 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fea
 #EXTINF:-1 group-title="Rugby",22:00 - CA Brive vs Biarritz Olympique
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5caa22b446.m3u8&name=Canal%2B%20Sport%20France
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",12:24 - NFL Network
 https://ondemand.to/embed/?id=247-nfl-network
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",12:24 - NFL Network
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1ac9bf5091.m3u8&name=NFL%20RedZone
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - Fox Footy
+#EXTINF:-1 group-title="24/7-streams",12:24 - Fox Footy
 https://ondemand.to/embed/?id=247-247-fox-footy
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - Willow
+#EXTINF:-1 group-title="24/7-streams",12:24 - Willow
 https://ondemand.to/embed/?id=247-247-willow
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - Fox Cricket
+#EXTINF:-1 group-title="24/7-streams",12:24 - Fox Cricket
 https://ondemand.to/embed/?id=247-247-fox-cricket
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - NHL Network
+#EXTINF:-1 group-title="24/7-streams",12:24 - NHL Network
 https://ondemand.to/embed/?id=247-nhl-network-29780
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - Fox League
+#EXTINF:-1 group-title="24/7-streams",12:24 - Fox League
 https://ondemand.to/embed/?id=247-247-fox-league
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - South Park
+#EXTINF:-1 group-title="24/7-streams",12:24 - South Park
 https://ondemand.to/embed/?id=247-247-south-park
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - Family Guy
+#EXTINF:-1 group-title="24/7-streams",12:24 - Family Guy
 https://ondemand.to/embed/?id=247-247-family-guy
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - The Simpsons
+#EXTINF:-1 group-title="24/7-streams",12:24 - The Simpsons
 https://ondemand.to/embed/?id=247-247-the-simpsons
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - Rally TV
+#EXTINF:-1 group-title="24/7-streams",12:24 - Rally TV
 https://ondemand.to/embed/?id=247-rally-tv
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - Tennis Channel
+#EXTINF:-1 group-title="24/7-streams",12:24 - Tennis Channel
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F229d7c7755.m3u8&name=Tennis%20Channel
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - Sky Sports Golf
+#EXTINF:-1 group-title="24/7-streams",12:24 - Sky Sports Golf
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9f5dca47df.m3u8&name=Sky%20Sports%20Golf

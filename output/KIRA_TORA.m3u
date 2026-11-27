@@ -1,24 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Cricket",12:10 - Perth Scorchers Women vs Hobart Hurricanes Women
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F60d47ba098.m3u8&name=Sky%20Sports%2B%20UK
-
-#EXTINF:-1 group-title="Cricket",12:10 - Perth Scorchers Women vs Hobart Hurricanes Women
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fdc53c01717.m3u8&name=Sky%20Sport%203%20NZ
-
-#EXTINF:-1 group-title="Cricket",16:30 - Sharjah Warriorz vs Dubai Capitals
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
-
-#EXTINF:-1 group-title="Cricket",16:30 - Sharjah Warriorz vs Dubai Capitals
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8afdcdd622.m3u8&name=TNT%20Sports%201%20UK
-
-#EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd4a4fa01bf.m3u8&name=TNT%20Sports%204%20UK
-
-#EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5431621d8e.m3u8&name=Fox%20Cricket
-
 #EXTINF:-1 group-title="Motor-sports",13:00 - Formula 2 : Lusail International Circuit Practice
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff3534236bb.m3u8&name=Sky%20Sports%20F1%20UK
 
@@ -147,9 +129,6 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F24
 
 #EXTINF:-1 group-title="Football",15:00 - Azam vs Al Ahli Tripoli
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd58cd0bd41.m3u8&name=beIN%20Sports%20HD%201
-
-#EXTINF:-1 group-title="Football",15:00 - Azam vs Al Ahli Tripoli
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F957a8d8bb4.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",16:00 - Shabab Al-Ordon vs Al-Salt
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fe3c05f3d87.m3u8&name=Jordan%20TV%20Sport
@@ -454,6 +433,18 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Faf
 #EXTINF:-1 group-title="Fight",15:30 - ONE Friday Fights 180 Denkriangkrai vs Thway Lin Htet
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F28e67da889.m3u8&name=beIN%20Sport%20USA%20Espanol
 
+#EXTINF:-1 group-title="Cricket",16:30 - Sharjah Warriorz vs Dubai Capitals
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
+
+#EXTINF:-1 group-title="Cricket",16:30 - Sharjah Warriorz vs Dubai Capitals
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8afdcdd622.m3u8&name=TNT%20Sports%201%20UK
+
+#EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd4a4fa01bf.m3u8&name=TNT%20Sports%204%20UK
+
+#EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5431621d8e.m3u8&name=Fox%20Cricket
+
 #EXTINF:-1 group-title="Basketball",18:00 - Xavier Musketeers vs Virginia Cavaliers
 https://ondemand.to/embed/?id=m401920429
 
@@ -736,41 +727,41 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F82
 #EXTINF:-1 group-title="Handball",21:00 - Chambéry Savoie Handball vs Limoges Handball
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff8c71c4d41.m3u8&name=beIN%20Sports%202%20France
 
-#EXTINF:-1 group-title="24/7-streams",15:00 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",15:34 - NFL Network
 https://ondemand.to/embed/?id=247-nfl-network
 
-#EXTINF:-1 group-title="24/7-streams",15:00 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",15:34 - NFL Network
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1ac9bf5091.m3u8&name=NFL%20RedZone
 
-#EXTINF:-1 group-title="24/7-streams",15:00 - Fox Footy
+#EXTINF:-1 group-title="24/7-streams",15:34 - Fox Footy
 https://ondemand.to/embed/?id=247-247-fox-footy
 
-#EXTINF:-1 group-title="24/7-streams",15:00 - Willow
+#EXTINF:-1 group-title="24/7-streams",15:34 - Willow
 https://ondemand.to/embed/?id=247-247-willow
 
-#EXTINF:-1 group-title="24/7-streams",15:00 - Fox Cricket
+#EXTINF:-1 group-title="24/7-streams",15:34 - Fox Cricket
 https://ondemand.to/embed/?id=247-247-fox-cricket
 
-#EXTINF:-1 group-title="24/7-streams",15:00 - NHL Network
+#EXTINF:-1 group-title="24/7-streams",15:34 - NHL Network
 https://ondemand.to/embed/?id=247-nhl-network-29780
 
-#EXTINF:-1 group-title="24/7-streams",15:00 - Fox League
+#EXTINF:-1 group-title="24/7-streams",15:34 - Fox League
 https://ondemand.to/embed/?id=247-247-fox-league
 
-#EXTINF:-1 group-title="24/7-streams",15:00 - South Park
+#EXTINF:-1 group-title="24/7-streams",15:34 - South Park
 https://ondemand.to/embed/?id=247-247-south-park
 
-#EXTINF:-1 group-title="24/7-streams",15:00 - Family Guy
+#EXTINF:-1 group-title="24/7-streams",15:34 - Family Guy
 https://ondemand.to/embed/?id=247-247-family-guy
 
-#EXTINF:-1 group-title="24/7-streams",15:00 - The Simpsons
+#EXTINF:-1 group-title="24/7-streams",15:34 - The Simpsons
 https://ondemand.to/embed/?id=247-247-the-simpsons
 
-#EXTINF:-1 group-title="24/7-streams",15:00 - Rally TV
+#EXTINF:-1 group-title="24/7-streams",15:34 - Rally TV
 https://ondemand.to/embed/?id=247-rally-tv
 
-#EXTINF:-1 group-title="24/7-streams",15:00 - Tennis Channel
+#EXTINF:-1 group-title="24/7-streams",15:34 - Tennis Channel
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F229d7c7755.m3u8&name=Tennis%20Channel
 
-#EXTINF:-1 group-title="24/7-streams",15:00 - Sky Sports Golf
+#EXTINF:-1 group-title="24/7-streams",15:34 - Sky Sports Golf
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9f5dca47df.m3u8&name=Sky%20Sports%20Golf

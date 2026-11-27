@@ -31,17 +31,17 @@ https://ondemand.to/embed/?id=m401920539
 #EXTINF:-1 group-title="Basketball",04:00 - Kansas State Wildcats vs Alabama Crimson Tide
 https://ondemand.to/embed/?id=cbb%2F2026-11-26%2Fala-ksu_540p
 
-#EXTINF:-1 group-title="Basketball",06:30 - Oregon Ducks vs Texas Tech Red Raiders
-https://ondemand.to/embed/?id=m401920531
-
-#EXTINF:-1 group-title="Basketball",06:30 - Oregon Ducks vs Texas Tech Red Raiders
-https://ondemand.to/embed/?id=cbb%2F2026-11-26%2Fttu-ore_540p
-
-#EXTINF:-1 group-title="Basketball",06:30 - Gonzaga Bulldogs vs Baylor Bears
+#EXTINF:-1 group-title="Basketball",06:53 - Gonzaga Bulldogs vs Baylor Bears
 https://ondemand.to/embed/?id=m401920540
 
-#EXTINF:-1 group-title="Basketball",06:30 - Gonzaga Bulldogs vs Baylor Bears
+#EXTINF:-1 group-title="Basketball",06:53 - Gonzaga Bulldogs vs Baylor Bears
 https://ondemand.to/embed/?id=cbb%2F2026-11-26%2Fbay-gonz_540p
+
+#EXTINF:-1 group-title="Basketball",06:57 - Oregon Ducks vs Texas Tech Red Raiders
+https://ondemand.to/embed/?id=m401920531
+
+#EXTINF:-1 group-title="Basketball",06:57 - Oregon Ducks vs Texas Tech Red Raiders
+https://ondemand.to/embed/?id=cbb%2F2026-11-26%2Fttu-ore_540p
 
 #EXTINF:-1 group-title="Basketball",18:00 - Xavier Musketeers vs Virginia Cavaliers
 https://ondemand.to/embed/?id=m401920429
@@ -106,15 +106,6 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F26
 #EXTINF:-1 group-title="American-football",03:20 - Buffalo Bills vs Kansas City Chiefs
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd187434677.m3u8&name=NBC%20UNIVERSO
 
-#EXTINF:-1 group-title="American-football",19:00 - Iowa Hawkeyes vs Nebraska Cornhuskers
-https://ondemand.to/embed/?id=m401858536
-
-#EXTINF:-1 group-title="American-football",19:00 - Iowa Hawkeyes vs Nebraska Cornhuskers
-https://ondemand.to/embed/?id=cfb%2F2026-11-27%2Fneb-iowa_540p
-
-#EXTINF:-1 group-title="American-football",19:00 - Iowa Hawkeyes vs Nebraska Cornhuskers
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fe7b03edc0b.m3u8&name=CBSNY%20USA
-
 #EXTINF:-1 group-title="American-football",19:00 - Ole Miss Rebels vs Mississippi State Bulldogs
 https://ondemand.to/embed/?id=m401856762
 
@@ -138,6 +129,15 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fba
 
 #EXTINF:-1 group-title="American-football",19:00 - Ohio Bobcats vs Toledo Rockets
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9a5abf97ee.m3u8&name=ESPNU%20USA
+
+#EXTINF:-1 group-title="American-football",19:08 - Iowa Hawkeyes vs Nebraska Cornhuskers
+https://ondemand.to/embed/?id=m401858536
+
+#EXTINF:-1 group-title="American-football",19:08 - Iowa Hawkeyes vs Nebraska Cornhuskers
+https://ondemand.to/embed/?id=cfb%2F2026-11-27%2Fneb-iowa_540p
+
+#EXTINF:-1 group-title="American-football",19:08 - Iowa Hawkeyes vs Nebraska Cornhuskers
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fe7b03edc0b.m3u8&name=CBSNY%20USA
 
 #EXTINF:-1 group-title="American-football",22:00 - Pittsburgh Steelers vs Denver Broncos
 https://ondemand.to/embed/?id=m401873083
@@ -181,12 +181,6 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fba
 #EXTINF:-1 group-title="American-football",23:30 - New Mexico Lobos vs Air Force Falcons
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff0dd1220aa.m3u8&name=The%20CW%20USA
 
-#EXTINF:-1 group-title="Football",03:00 - Pachuca vs Guadalajara
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fda07f60d06.m3u8&name=TUDN%20USA
-
-#EXTINF:-1 group-title="Football",03:00 - Pachuca vs Guadalajara
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F886e1beec6.m3u8&name=Server%201
-
 #EXTINF:-1 group-title="Football",05:10 - León vs Cruz Azul
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fda07f60d06.m3u8&name=TUDN%20USA
 
@@ -222,6 +216,9 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F24
 
 #EXTINF:-1 group-title="Football",15:00 - Azam vs Al Ahli Tripoli
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd58cd0bd41.m3u8&name=beIN%20Sports%20HD%201
+
+#EXTINF:-1 group-title="Football",15:00 - Azam vs Al Ahli Tripoli
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F957a8d8bb4.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",16:00 - Shabab Al-Ordon vs Al-Salt
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fe3c05f3d87.m3u8&name=Jordan%20TV%20Sport
@@ -748,41 +745,41 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F82
 #EXTINF:-1 group-title="Handball",21:00 - Chambéry Savoie Handball vs Limoges Handball
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff8c71c4d41.m3u8&name=beIN%20Sports%202%20France
 
-#EXTINF:-1 group-title="24/7-streams",05:54 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",06:59 - NFL Network
 https://ondemand.to/embed/?id=247-nfl-network
 
-#EXTINF:-1 group-title="24/7-streams",05:54 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",06:59 - NFL Network
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1ac9bf5091.m3u8&name=NFL%20RedZone
 
-#EXTINF:-1 group-title="24/7-streams",05:54 - Fox Footy
+#EXTINF:-1 group-title="24/7-streams",06:59 - Fox Footy
 https://ondemand.to/embed/?id=247-247-fox-footy
 
-#EXTINF:-1 group-title="24/7-streams",05:54 - Willow
+#EXTINF:-1 group-title="24/7-streams",06:59 - Willow
 https://ondemand.to/embed/?id=247-247-willow
 
-#EXTINF:-1 group-title="24/7-streams",05:54 - Fox Cricket
+#EXTINF:-1 group-title="24/7-streams",06:59 - Fox Cricket
 https://ondemand.to/embed/?id=247-247-fox-cricket
 
-#EXTINF:-1 group-title="24/7-streams",05:54 - NHL Network
+#EXTINF:-1 group-title="24/7-streams",06:59 - NHL Network
 https://ondemand.to/embed/?id=247-nhl-network-29780
 
-#EXTINF:-1 group-title="24/7-streams",05:54 - Fox League
+#EXTINF:-1 group-title="24/7-streams",06:59 - Fox League
 https://ondemand.to/embed/?id=247-247-fox-league
 
-#EXTINF:-1 group-title="24/7-streams",05:54 - South Park
+#EXTINF:-1 group-title="24/7-streams",06:59 - South Park
 https://ondemand.to/embed/?id=247-247-south-park
 
-#EXTINF:-1 group-title="24/7-streams",05:54 - Family Guy
+#EXTINF:-1 group-title="24/7-streams",06:59 - Family Guy
 https://ondemand.to/embed/?id=247-247-family-guy
 
-#EXTINF:-1 group-title="24/7-streams",05:54 - The Simpsons
+#EXTINF:-1 group-title="24/7-streams",06:59 - The Simpsons
 https://ondemand.to/embed/?id=247-247-the-simpsons
 
-#EXTINF:-1 group-title="24/7-streams",05:54 - Rally TV
+#EXTINF:-1 group-title="24/7-streams",06:59 - Rally TV
 https://ondemand.to/embed/?id=247-rally-tv
 
-#EXTINF:-1 group-title="24/7-streams",05:54 - Tennis Channel
+#EXTINF:-1 group-title="24/7-streams",06:59 - Tennis Channel
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F229d7c7755.m3u8&name=Tennis%20Channel
 
-#EXTINF:-1 group-title="24/7-streams",05:54 - Sky Sports Golf
+#EXTINF:-1 group-title="24/7-streams",06:59 - Sky Sports Golf
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9f5dca47df.m3u8&name=Sky%20Sports%20Golf

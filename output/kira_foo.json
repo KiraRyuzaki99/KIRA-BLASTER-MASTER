@@ -1,48 +1,5 @@
 [
   {
-    "title": "Buffalo Bills Kansas City Chiefs",
-    "category": "Buffalo Bills",
-    "logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
-    "start_iso": "2026-11-27T01:20:00.000Z",
-    "end_iso": "2026-11-27T04:30:00.000Z",
-    "date": "Friday, 27 November 2026",
-    "time": "03:20",
-    "status": "live",
-    "event_url": "https://footystreams.pk/events/buffalo-bills-vs-chiefs",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/buffalo-bills-vs-chiefs/3966",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/buffalo-bills-vs-chiefs/3967",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/buffalo-bills-vs-chiefs/3968",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Motogp Valencia MotoGP",
     "category": "Motogp Valencia",
     "logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",

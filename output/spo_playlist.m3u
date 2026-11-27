@@ -1,116 +1,155 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA SPO - Playlist
 
-#EXTINF:-1 group-title="SPO",26/11/2026 10:00 - Tampines Rovers x Shanghai Shenhua - hd9
+#EXTINF:-1 group-title="SPO",27/11/2026 08:00 - MotoGP: Valencia FP1 - hd9
 https://sporrtsonline.top/channels/hd/hd9.php
 
-#EXTINF:-1 group-title="SPO",26/11/2026 12:15 - Wofoo Tai Po x Adelaide United - hd9
+#EXTINF:-1 group-title="SPO",27/11/2026 08:00 - MotoGP: Valencia FP1 - sporttv4
+https://sporrtsonline.top/channels/pt/sporttv4.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 08:00 - MotoGP: Valencia FP1 - br6
+https://sporrtsonline.top/channels/bra/br6.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 08:40 - Macarthur x Melbourne City - hd2
+https://sporrtsonline.top/channels/hd/hd2.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 12:15 - MotoGP: Valencia Practice - hd9
 https://sporrtsonline.top/channels/hd/hd9.php
 
-#EXTINF:-1 group-title="SPO",26/11/2026 13:00 - New Zealand U17 x Belgium U17 - hd8
-https://sporrtsonline.top/channels/hd/hd8.php
+#EXTINF:-1 group-title="SPO",27/11/2026 12:15 - MotoGP: Valencia Practice - sporttv4
+https://sporrtsonline.top/channels/pt/sporttv4.php
 
-#EXTINF:-1 group-title="SPO",26/11/2026 14:00 - Uzbekistan U17 x Italy U17 - hd7
-https://sporrtsonline.top/channels/hd/hd7.php
+#EXTINF:-1 group-title="SPO",27/11/2026 12:15 - MotoGP: Valencia Practice - br6
+https://sporrtsonline.top/channels/bra/br6.php
 
-#EXTINF:-1 group-title="SPO",26/11/2026 15:00 - Morocco U17 x Spain U17 - hd8
-https://sporrtsonline.top/channels/hd/hd8.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 15:30 - Kairat x Mjällby - hd6
-https://sporrtsonline.top/channels/hd/hd6.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 15:30 - Kairat x Mjällby - eleven1
-https://sporrtsonline.top/channels/pt/eleven1.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 17:45 - Union Saint-Gilloise x Lech Poznań - hd10
+#EXTINF:-1 group-title="SPO",27/11/2026 13:00 - Azam x Al Ahli Tripoli - hd10
 https://sporrtsonline.top/channels/hd/hd10.php
 
-#EXTINF:-1 group-title="SPO",26/11/2026 17:45 - Salzburg x Ararat-Armenia - hd11
+#EXTINF:-1 group-title="SPO",27/11/2026 13:00 - Qatar F1 GP: Practice 1 - hd10
+https://sporrtsonline.top/channels/hd/hd10.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 13:00 - Qatar F1 GP: Practice 1 - hd8
+https://sporrtsonline.top/channels/hd/hd8.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 13:00 - Qatar F1 GP: Practice 1 - br3
+https://sporrtsonline.top/channels/bra/br3.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 14:00 - Costa Rica U17 x Brazil U17 - hd5
+https://sporrtsonline.top/channels/hd/hd5.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 14:20 - Al Quadisiya x Al-Fayha - hd11
 https://sporrtsonline.top/channels/hd/hd11.php
 
-#EXTINF:-1 group-title="SPO",26/11/2026 17:45 - Viktoria Plzeň x Benfica - sporttv5
+#EXTINF:-1 group-title="SPO",27/11/2026 14:55 - Qatar F2: Qualifying - hd10
+https://sporrtsonline.top/channels/hd/hd10.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 14:55 - Qatar F2: Qualifying - hd8
+https://sporrtsonline.top/channels/hd/hd8.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 14:55 - Qatar F2: Qualifying - br3
+https://sporrtsonline.top/channels/bra/br3.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 16:00 - Venezuela U17 x Mexico U17 - hd5
+https://sporrtsonline.top/channels/hd/hd5.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 16:30 - Rugby: Fiji x Italy - eleven3
+https://sporrtsonline.top/channels/pt/eleven3.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 17:00 - Raków Częstochowa x Piast Gliwice - hd4
+https://sporrtsonline.top/channels/hd/hd4.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 17:00 - Rizespor x Kasımpaşa - hd9
+https://sporrtsonline.top/channels/hd/hd9.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 17:30 - Heidenheim x Nürnberg - eleven1
+https://sporrtsonline.top/channels/pt/eleven1.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 17:30 - Al Ittihad x NEOM - hd11
+https://sporrtsonline.top/channels/hd/hd11.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 17:30 - Al Ittihad x NEOM - sporttv1
+https://sporrtsonline.top/channels/pt/sporttv1.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 19:30 - Werder Bremen x Borussia M'gladbach - hd3
+https://sporrtsonline.top/channels/hd/hd3.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 19:30 - Werder Bremen x Borussia M'gladbach - eleven3
+https://sporrtsonline.top/channels/pt/eleven3.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 19:30 - Largs Thistle x Ayr United - hd10
+https://sporrtsonline.top/channels/hd/hd10.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 19:30 - Leganés x Sabadell - hd8
+https://sporrtsonline.top/channels/hd/hd8.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 19:45 - Venezia x Bologna - hd7
+https://sporrtsonline.top/channels/hd/hd7.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 19:45 - Venezia x Bologna - sporttv2
+https://sporrtsonline.top/channels/pt/sporttv2.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 19:45 - Brest x Paris - hd4
+https://sporrtsonline.top/channels/hd/hd4.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 19:45 - Brest x Paris - sporttv3
+https://sporrtsonline.top/channels/pt/sporttv3.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 20:00 - Nottingham Forest x Chelsea - hd1
+https://sporrtsonline.top/channels/hd/hd1.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 20:00 - Nottingham Forest x Chelsea - eleven1
+https://sporrtsonline.top/channels/pt/eleven1.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 20:00 - Nottingham Forest x Chelsea - br2
+https://sporrtsonline.top/channels/bra/br2.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 20:00 - Levante x Racing Santander - hd2
+https://sporrtsonline.top/channels/hd/hd2.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 20:00 - Levante x Racing Santander - hd6
+https://sporrtsonline.top/channels/hd/hd6.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 20:00 - Levante x Racing Santander - eleven2
+https://sporrtsonline.top/channels/pt/eleven2.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 20:00 - Southampton x Middlesbrough - hd5
+https://sporrtsonline.top/channels/hd/hd5.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 20:00 - Southampton x Middlesbrough - sporttv5
 https://sporrtsonline.top/channels/pt/sporttv5.php
 
-#EXTINF:-1 group-title="SPO",26/11/2026 17:45 - Olympiakos Piraeus x Milan - hd5
-https://sporrtsonline.top/channels/hd/hd5.php
+#EXTINF:-1 group-title="SPO",27/11/2026 20:00 - Southampton x Middlesbrough - br6
+https://sporrtsonline.top/channels/bra/br6.php
 
-#EXTINF:-1 group-title="SPO",26/11/2026 17:45 - Olympiakos Piraeus x Milan - hd7
-https://sporrtsonline.top/channels/hd/hd7.php
+#EXTINF:-1 group-title="SPO",27/11/2026 20:15 - Marítimo x Nacional - sporttv1
+https://sporrtsonline.top/channels/pt/sporttv1.php
 
-#EXTINF:-1 group-title="SPO",26/11/2026 17:45 - Olympiakos Piraeus x Milan - eleven2
-https://sporrtsonline.top/channels/pt/eleven2.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 17:45 - Olympique Marseille x Levski Sofia - hd4
-https://sporrtsonline.top/channels/hd/hd4.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 17:45 - Dinamo Zagreb x Bayer Leverkusen - hd3
-https://sporrtsonline.top/channels/hd/hd3.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 17:45 - Celta de Vigo x AFC Bournemouth - hd1
-https://sporrtsonline.top/channels/hd/hd1.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 17:45 - Celta de Vigo x AFC Bournemouth - hd6
-https://sporrtsonline.top/channels/hd/hd6.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 17:45 - Celta de Vigo x AFC Bournemouth - eleven3
-https://sporrtsonline.top/channels/pt/eleven3.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 17:45 - Beşiktaş x Hapoel Be'er Sheva - hd9
-https://sporrtsonline.top/channels/hd/hd9.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 17:45 - Hearts x Monaco - hd2
-https://sporrtsonline.top/channels/hd/hd2.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 17:45 - Brighton & Hove Albion x CSU Craiova - hd8
+#EXTINF:-1 group-title="SPO",27/11/2026 21:45 - Cricket: 2nd Test: New Zealand v India - hd8
 https://sporrtsonline.top/channels/hd/hd8.php
 
-#EXTINF:-1 group-title="SPO",26/11/2026 20:00 - Juventus x Omonia Nicosia - hd5
-https://sporrtsonline.top/channels/hd/hd5.php
+#EXTINF:-1 group-title="SPO",27/11/2026 23:00 - Vila Nova x Atlético Goianiense - br2
+https://sporrtsonline.top/channels/bra/br2.php
 
-#EXTINF:-1 group-title="SPO",26/11/2026 20:00 - Juventus x Omonia Nicosia - hd7
-https://sporrtsonline.top/channels/hd/hd7.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 20:00 - Juventus x Omonia Nicosia - eleven3
-https://sporrtsonline.top/channels/pt/eleven3.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 20:00 - Sporting Braga x KuPS - eleven2
-https://sporrtsonline.top/channels/pt/eleven2.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 20:00 - NEC x Rennes - hd4
-https://sporrtsonline.top/channels/hd/hd4.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 20:00 - Crystal Palace x Real Sociedad - hd1
-https://sporrtsonline.top/channels/hd/hd1.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 20:00 - Crystal Palace x Real Sociedad - hd6
-https://sporrtsonline.top/channels/hd/hd6.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 20:00 - CSKA Sofia x Trabzonspor - hd9
-https://sporrtsonline.top/channels/hd/hd9.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 20:00 - Torreense x Celtic - hd2
-https://sporrtsonline.top/channels/hd/hd2.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 20:00 - Torreense x Celtic - eleven1
-https://sporrtsonline.top/channels/pt/eleven1.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 20:00 - Sunderland x Jagiellonia Białystok - hd8
-https://sporrtsonline.top/channels/hd/hd8.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 20:00 - Olympique Lyonnais x Lillestrøm - hd10
-https://sporrtsonline.top/channels/hd/hd10.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 20:00 - Freiburg x Twente - hd3
-https://sporrtsonline.top/channels/hd/hd3.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 21:15 - NFL: Eagles @ Cowboys - hd11
-https://sporrtsonline.top/channels/hd/hd11.php
-
-#EXTINF:-1 group-title="SPO",26/11/2026 23:00 - São Paulo x Remo - br1
+#EXTINF:-1 group-title="SPO",27/11/2026 23:00 - Fluminense x Cruzeiro - br1
 https://sporrtsonline.top/channels/bra/br1.php
 
-#EXTINF:-1 group-title="SPO",26/11/2026 01:20 - NFL: Chiefs @ Bills - hd11
+#EXTINF:-1 group-title="SPO",27/11/2026 23:35 - Deportivo Cali x Atlético Bucaramanga - hd10
+https://sporrtsonline.top/channels/hd/hd10.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 01:00 - Columbus Crew x Inter Miami - hd2
+https://sporrtsonline.top/channels/hd/hd2.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 01:00 - Columbus Crew x Inter Miami - hd11
 https://sporrtsonline.top/channels/hd/hd11.php
 
-#EXTINF:-1 group-title="SPO",26/11/2026 02:30 - Golf: BMW Australian PGA Championship - D2 - sporttv2
+#EXTINF:-1 group-title="SPO",27/11/2026 01:40 - Millonarios x América de Cali - hd10
+https://sporrtsonline.top/channels/hd/hd10.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 02:30 - Golf: BMW Australian PGA Championship - D3 - sporttv2
 https://sporrtsonline.top/channels/pt/sporttv2.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 03:00 - Real Salt Lake x Vancouver Whitecaps - hd2
+https://sporrtsonline.top/channels/hd/hd2.php
+
+#EXTINF:-1 group-title="SPO",27/11/2026 03:00 - Real Salt Lake x Vancouver Whitecaps - hd11
+https://sporrtsonline.top/channels/hd/hd11.php

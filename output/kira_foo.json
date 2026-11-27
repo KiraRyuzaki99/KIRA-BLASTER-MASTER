@@ -1,48 +1,5 @@
 [
   {
-    "title": "Dallas Cowboys Philadelphia Eagles",
-    "category": "Dallas Cowboys",
-    "logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-    "start_iso": "2026-11-26T21:30:00.000Z",
-    "end_iso": "2026-11-27T00:40:00.000Z",
-    "date": "Thursday, 26 November 2026",
-    "time": "23:30",
-    "status": "live",
-    "event_url": "https://footystreams.pk/events/cowboys-vs-eagles",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/cowboys-vs-eagles/3963",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/cowboys-vs-eagles/3964",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/cowboys-vs-eagles/3965",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Buffalo Bills Kansas City Chiefs",
     "category": "Buffalo Bills",
     "logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",

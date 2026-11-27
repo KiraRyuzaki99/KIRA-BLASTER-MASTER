@@ -1,13 +1,550 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA MAMAHD - Playlist
 
-# Playlist: Thursday, 26 November 2026
+# Playlist: Friday, 27 November 2026
 
-#EXTINF:-1 group-title="Thursday, 26 November 2026 - NFL",23:30 - Philadelphia Eagles VS Dallas Cowboys - Canal 81
-https://ch.nexa.st/stream?id=81
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NFL",03:20 - Kansas City Chiefs VS Buffalo Bills - Canal 1
+https://ch.nexa.st/stream?id=1
 
-#EXTINF:-1 group-title="Thursday, 26 November 2026 - NFL",23:30 - Philadelphia Eagles VS Dallas Cowboys - Canal 81
-https://s1.ogo.st/ch?id=81
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NFL",03:20 - Kansas City Chiefs VS Buffalo Bills - Canal 1
+https://s1.ogo.st/ch?id=1
 
-#EXTINF:-1 group-title="Thursday, 26 November 2026 - NFL",23:30 - Philadelphia Eagles VS Dallas Cowboys - Canal 81
-https://playfa.st/ch.php?id=81
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NFL",03:20 - Kansas City Chiefs VS Buffalo Bills - Canal 1
+https://playfa.st/ch.php?id=1
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - MotoGP",10:00 -  - Canal 2
+https://ch.nexa.st/stream?id=2
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - MotoGP",10:00 -  - Canal 2
+https://s1.ogo.st/ch?id=2
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - MotoGP",10:00 -  - Canal 2
+https://playfa.st/ch.php?id=2
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - MotoGP",10:00 -  - Canal 19
+https://ch.nexa.st/stream?id=19
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - MotoGP",10:00 -  - Canal 19
+https://s1.ogo.st/ch?id=19
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Formula 1",15:30 -  - Canal 7
+https://ch.nexa.st/stream?id=7
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Formula 1",15:30 -  - Canal 7
+https://s1.ogo.st/ch?id=7
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Formula 1",15:30 -  - Canal 7
+https://playfa.st/ch.php?id=7
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Formula 1",15:30 -  - Canal 20
+https://ch.nexa.st/stream?id=20
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Formula 1",15:30 -  - Canal 20
+https://s1.ogo.st/ch?id=20
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Saudi Arabia Pro League",16:20 - Al Quadisiya VS Al-Fayha - Canal 87
+https://ch.nexa.st/stream?id=87
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Saudi Arabia Pro League",16:20 - Al Quadisiya VS Al-Fayha - Canal 87
+https://s1.ogo.st/ch?id=87
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Saudi Arabia Pro League",16:20 - Al Quadisiya VS Al-Fayha - Canal 87
+https://playfa.st/ch.php?id=87
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Liiga",17:30 - Lukko VS Jukurit - Canal 71
+https://ch.nexa.st/stream?id=71
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Liiga",17:30 - Lukko VS Jukurit - Canal 71
+https://s1.ogo.st/ch?id=71
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Liiga",17:30 - Lukko VS Jukurit - Canal 71
+https://playfa.st/ch.php?id=71
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Liiga",18:30 - KalPa VS JYP - Canal 72
+https://ch.nexa.st/stream?id=72
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Liiga",18:30 - KalPa VS JYP - Canal 72
+https://s1.ogo.st/ch?id=72
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Liiga",18:30 - KalPa VS JYP - Canal 72
+https://playfa.st/ch.php?id=72
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Liiga",18:30 - Kookoo VS HPK - Canal 73
+https://ch.nexa.st/stream?id=73
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Liiga",18:30 - Kookoo VS HPK - Canal 73
+https://s1.ogo.st/ch?id=73
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Liiga",18:30 - Kookoo VS HPK - Canal 73
+https://playfa.st/ch.php?id=73
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Liiga",18:30 - Tappara VS Kiekko vs Espoo - Canal 74
+https://ch.nexa.st/stream?id=74
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Liiga",18:30 - Tappara VS Kiekko vs Espoo - Canal 74
+https://s1.ogo.st/ch?id=74
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Liiga",18:30 - Tappara VS Kiekko vs Espoo - Canal 74
+https://playfa.st/ch.php?id=74
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Mestis",18:30 - Ketterä VS IPK - Canal 75
+https://ch.nexa.st/stream?id=75
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Mestis",18:30 - Ketterä VS IPK - Canal 75
+https://s1.ogo.st/ch?id=75
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Mestis",18:30 - Ketterä VS IPK - Canal 75
+https://playfa.st/ch.php?id=75
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Mestis",18:30 - KeuPa HT VS Hermes - Canal 76
+https://ch.nexa.st/stream?id=76
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Mestis",18:30 - KeuPa HT VS Hermes - Canal 76
+https://s1.ogo.st/ch?id=76
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Mestis",18:30 - KeuPa HT VS Hermes - Canal 76
+https://playfa.st/ch.php?id=76
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Mestis",18:30 - RoKi VS K vs Vantaa - Canal 77
+https://ch.nexa.st/stream?id=77
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Mestis",18:30 - RoKi VS K vs Vantaa - Canal 77
+https://s1.ogo.st/ch?id=77
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Mestis",18:30 - RoKi VS K vs Vantaa - Canal 77
+https://playfa.st/ch.php?id=77
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Mestis",18:30 - TuTo VS JoKP - Canal 78
+https://ch.nexa.st/stream?id=78
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Mestis",18:30 - TuTo VS JoKP - Canal 78
+https://s1.ogo.st/ch?id=78
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Mestis",18:30 - TuTo VS JoKP - Canal 78
+https://playfa.st/ch.php?id=78
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Formula 1",19:00 -  - Canal 7
+https://ch.nexa.st/stream?id=7
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Formula 1",19:00 -  - Canal 7
+https://s1.ogo.st/ch?id=7
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Formula 1",19:00 -  - Canal 7
+https://playfa.st/ch.php?id=7
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Formula 1",19:00 -  - Canal 20
+https://ch.nexa.st/stream?id=20
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Formula 1",19:00 -  - Canal 20
+https://s1.ogo.st/ch?id=20
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Czech Republic 1. liga",19:00 - Artis VS Slovácko - Canal 41
+https://ch.nexa.st/stream?id=41
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Czech Republic 1. liga",19:00 - Artis VS Slovácko - Canal 41
+https://s1.ogo.st/ch?id=41
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Czech Republic 1. liga",19:00 - Artis VS Slovácko - Canal 41
+https://playfa.st/ch.php?id=41
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Poland Ekstraklasa",19:00 - Raków Częstochowa VS Piast Gliwice - Canal 60
+https://ch.nexa.st/stream?id=60
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Poland Ekstraklasa",19:00 - Raków Częstochowa VS Piast Gliwice - Canal 60
+https://s1.ogo.st/ch?id=60
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Poland Ekstraklasa",19:00 - Raków Częstochowa VS Piast Gliwice - Canal 60
+https://playfa.st/ch.php?id=60
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Sweden Hockeyallsvenskan",19:00 - Västerås IK VS AIK - Canal 65
+https://ch.nexa.st/stream?id=65
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Sweden Hockeyallsvenskan",19:00 - Västerås IK VS AIK - Canal 65
+https://s1.ogo.st/ch?id=65
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Sweden Hockeyallsvenskan",19:00 - Västerås IK VS AIK - Canal 65
+https://playfa.st/ch.php?id=65
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Croatia 1. HNL",19:00 - Istra 1961 VS Varaždin - Canal 70
+https://ch.nexa.st/stream?id=70
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Croatia 1. HNL",19:00 - Istra 1961 VS Varaždin - Canal 70
+https://s1.ogo.st/ch?id=70
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Croatia 1. HNL",19:00 - Istra 1961 VS Varaždin - Canal 70
+https://playfa.st/ch.php?id=70
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Turkey Super Lig",19:00 - Alanyaspor VS Konyaspor - Canal 91
+https://ch.nexa.st/stream?id=91
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Turkey Super Lig",19:00 - Alanyaspor VS Konyaspor - Canal 91
+https://s1.ogo.st/ch?id=91
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Turkey Super Lig",19:00 - Alanyaspor VS Konyaspor - Canal 91
+https://playfa.st/ch.php?id=91
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Turkey Super Lig",19:00 - Rizespor VS Kasımpaşa - Canal 92
+https://ch.nexa.st/stream?id=92
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Turkey Super Lig",19:00 - Rizespor VS Kasımpaşa - Canal 92
+https://s1.ogo.st/ch?id=92
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Turkey Super Lig",19:00 - Rizespor VS Kasımpaşa - Canal 92
+https://playfa.st/ch.php?id=92
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany Bundesliga 2",19:30 - Heidenheim VS Nürnberg - Canal 13
+https://ch.nexa.st/stream?id=13
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany Bundesliga 2",19:30 - Heidenheim VS Nürnberg - Canal 13
+https://s1.ogo.st/ch?id=13
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany Bundesliga 2",19:30 - Heidenheim VS Nürnberg - Canal 13
+https://playfa.st/ch.php?id=13
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany Bundesliga 2",19:30 - Bochum VS Darmstadt 98 - Canal 14
+https://ch.nexa.st/stream?id=14
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany Bundesliga 2",19:30 - Bochum VS Darmstadt 98 - Canal 14
+https://s1.ogo.st/ch?id=14
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany Bundesliga 2",19:30 - Bochum VS Darmstadt 98 - Canal 14
+https://playfa.st/ch.php?id=14
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Liiga",19:30 - HIFK VS SaiPa - Canal 79
+https://ch.nexa.st/stream?id=79
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Liiga",19:30 - HIFK VS SaiPa - Canal 79
+https://s1.ogo.st/ch?id=79
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Finland Liiga",19:30 - HIFK VS SaiPa - Canal 79
+https://playfa.st/ch.php?id=79
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Saudi Arabia Pro League",19:30 - Al Ittihad VS NEOM - Canal 87
+https://ch.nexa.st/stream?id=87
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Saudi Arabia Pro League",19:30 - Al Ittihad VS NEOM - Canal 87
+https://s1.ogo.st/ch?id=87
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Saudi Arabia Pro League",19:30 - Al Ittihad VS NEOM - Canal 87
+https://playfa.st/ch.php?id=87
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany 3. Liga",20:00 - Hansa Rostock VS Havelse - Canal 15
+https://ch.nexa.st/stream?id=15
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany 3. Liga",20:00 - Hansa Rostock VS Havelse - Canal 15
+https://s1.ogo.st/ch?id=15
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany 3. Liga",20:00 - Hansa Rostock VS Havelse - Canal 15
+https://playfa.st/ch.php?id=15
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",20:00 - Toronto Maple Leafs VS Boston Bruins - Canal 31
+https://ch.nexa.st/stream?id=31
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",20:00 - Toronto Maple Leafs VS Boston Bruins - Canal 31
+https://s1.ogo.st/ch?id=31
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",20:00 - Toronto Maple Leafs VS Boston Bruins - Canal 31
+https://playfa.st/ch.php?id=31
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",20:00 - Calgary Flames VS New Jersey Devils - Canal 32
+https://ch.nexa.st/stream?id=32
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",20:00 - Calgary Flames VS New Jersey Devils - Canal 32
+https://s1.ogo.st/ch?id=32
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",20:00 - Calgary Flames VS New Jersey Devils - Canal 32
+https://playfa.st/ch.php?id=32
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",20:00 - Utah Mammoth VS Nashville Predators - Canal 33
+https://ch.nexa.st/stream?id=33
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",20:00 - Utah Mammoth VS Nashville Predators - Canal 33
+https://s1.ogo.st/ch?id=33
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",20:00 - Utah Mammoth VS Nashville Predators - Canal 33
+https://playfa.st/ch.php?id=33
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Sweden Hockeyallsvenskan",20:00 - Modo Hockey VS Almtuna IS - Canal 61
+https://ch.nexa.st/stream?id=61
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Sweden Hockeyallsvenskan",20:00 - Modo Hockey VS Almtuna IS - Canal 61
+https://s1.ogo.st/ch?id=61
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Sweden Hockeyallsvenskan",20:00 - Modo Hockey VS Almtuna IS - Canal 61
+https://playfa.st/ch.php?id=61
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Sweden Hockeyallsvenskan",20:00 - IK Oskarshamn VS Kalmar HC - Canal 62
+https://ch.nexa.st/stream?id=62
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Sweden Hockeyallsvenskan",20:00 - IK Oskarshamn VS Kalmar HC - Canal 62
+https://s1.ogo.st/ch?id=62
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Sweden Hockeyallsvenskan",20:00 - IK Oskarshamn VS Kalmar HC - Canal 62
+https://playfa.st/ch.php?id=62
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Sweden Hockeyallsvenskan",20:00 - Nybro Vikings IF VS Mora IK - Canal 63
+https://ch.nexa.st/stream?id=63
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Sweden Hockeyallsvenskan",20:00 - Nybro Vikings IF VS Mora IK - Canal 63
+https://s1.ogo.st/ch?id=63
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Sweden Hockeyallsvenskan",20:00 - Nybro Vikings IF VS Mora IK - Canal 63
+https://playfa.st/ch.php?id=63
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Sweden Hockeyallsvenskan",20:00 - Östersunds IK VS Leksands IF - Canal 64
+https://ch.nexa.st/stream?id=64
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Sweden Hockeyallsvenskan",20:00 - Östersunds IK VS Leksands IF - Canal 64
+https://s1.ogo.st/ch?id=64
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Sweden Hockeyallsvenskan",20:00 - Östersunds IK VS Leksands IF - Canal 64
+https://playfa.st/ch.php?id=64
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Sweden Hockeyallsvenskan",20:00 - Visby/Roma HK VS Vimmerby HC - Canal 66
+https://ch.nexa.st/stream?id=66
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Sweden Hockeyallsvenskan",20:00 - Visby/Roma HK VS Vimmerby HC - Canal 66
+https://s1.ogo.st/ch?id=66
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Sweden Hockeyallsvenskan",20:00 - Visby/Roma HK VS Vimmerby HC - Canal 66
+https://playfa.st/ch.php?id=66
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Denmark Super Liga",20:00 - SønderjyskE VS Brøndby - Canal 69
+https://ch.nexa.st/stream?id=69
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Denmark Super Liga",20:00 - SønderjyskE VS Brøndby - Canal 69
+https://s1.ogo.st/ch?id=69
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Denmark Super Liga",20:00 - SønderjyskE VS Brøndby - Canal 69
+https://playfa.st/ch.php?id=69
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany DEL",20:30 - Kölner Haie VS Straubing Tigers - Canal 94
+https://ch.nexa.st/stream?id=94
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany DEL",20:30 - Kölner Haie VS Straubing Tigers - Canal 94
+https://s1.ogo.st/ch?id=94
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany DEL",20:30 - Kölner Haie VS Straubing Tigers - Canal 94
+https://playfa.st/ch.php?id=94
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany DEL",20:30 - Iserlohn Roosters VS EHC Red Bull München - Canal 95
+https://ch.nexa.st/stream?id=95
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany DEL",20:30 - Iserlohn Roosters VS EHC Red Bull München - Canal 95
+https://s1.ogo.st/ch?id=95
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany DEL",20:30 - Iserlohn Roosters VS EHC Red Bull München - Canal 95
+https://playfa.st/ch.php?id=95
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany DEL",20:30 - Grizzly Wolfsburg VS Nurnberg Ice Tigers - Canal 96
+https://ch.nexa.st/stream?id=96
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany DEL",20:30 - Grizzly Wolfsburg VS Nurnberg Ice Tigers - Canal 96
+https://s1.ogo.st/ch?id=96
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany DEL",20:30 - Grizzly Wolfsburg VS Nurnberg Ice Tigers - Canal 96
+https://playfa.st/ch.php?id=96
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany DEL",20:30 - ERC Ingolstadt VS Krefeld Pinguine - Canal 97
+https://ch.nexa.st/stream?id=97
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany DEL",20:30 - ERC Ingolstadt VS Krefeld Pinguine - Canal 97
+https://s1.ogo.st/ch?id=97
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany DEL",20:30 - ERC Ingolstadt VS Krefeld Pinguine - Canal 97
+https://playfa.st/ch.php?id=97
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany DEL",20:30 - Bremerhaven VS Schwenninger - Canal 98
+https://ch.nexa.st/stream?id=98
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany DEL",20:30 - Bremerhaven VS Schwenninger - Canal 98
+https://s1.ogo.st/ch?id=98
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany DEL",20:30 - Bremerhaven VS Schwenninger - Canal 98
+https://playfa.st/ch.php?id=98
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany DEL",20:30 - Augsburger Panther VS Eisbaren Berlin - Canal 99
+https://ch.nexa.st/stream?id=99
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany DEL",20:30 - Augsburger Panther VS Eisbaren Berlin - Canal 99
+https://s1.ogo.st/ch?id=99
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany DEL",20:30 - Augsburger Panther VS Eisbaren Berlin - Canal 99
+https://playfa.st/ch.php?id=99
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Austria Bundesliga",20:30 - Grazer AK VS Rheindorf Altach - Canal 100
+https://ch.nexa.st/stream?id=100
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Austria Bundesliga",20:30 - Grazer AK VS Rheindorf Altach - Canal 100
+https://s1.ogo.st/ch?id=100
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Austria Bundesliga",20:30 - Grazer AK VS Rheindorf Altach - Canal 100
+https://playfa.st/ch.php?id=100
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",21:00 - Dallas Stars VS St. Louis Blues - Canal 34
+https://ch.nexa.st/stream?id=34
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",21:00 - Dallas Stars VS St. Louis Blues - Canal 34
+https://s1.ogo.st/ch?id=34
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",21:00 - Dallas Stars VS St. Louis Blues - Canal 34
+https://playfa.st/ch.php?id=34
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Netherlands Eredivisie",21:00 - Groningen VS Willem II - Canal 88
+https://ch.nexa.st/stream?id=88
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Netherlands Eredivisie",21:00 - Groningen VS Willem II - Canal 88
+https://s1.ogo.st/ch?id=88
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Netherlands Eredivisie",21:00 - Groningen VS Willem II - Canal 88
+https://playfa.st/ch.php?id=88
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany Bundesliga",21:30 - Werder Bremen VS Borussia M'gladbach - Canal 11
+https://ch.nexa.st/stream?id=11
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany Bundesliga",21:30 - Werder Bremen VS Borussia M'gladbach - Canal 11
+https://s1.ogo.st/ch?id=11
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Germany Bundesliga",21:30 - Werder Bremen VS Borussia M'gladbach - Canal 11
+https://playfa.st/ch.php?id=11
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Poland Ekstraklasa",21:30 - Górnik Zabrze VS Wisła Płock - Canal 60
+https://ch.nexa.st/stream?id=60
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Poland Ekstraklasa",21:30 - Górnik Zabrze VS Wisła Płock - Canal 60
+https://s1.ogo.st/ch?id=60
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Poland Ekstraklasa",21:30 - Górnik Zabrze VS Wisła Płock - Canal 60
+https://playfa.st/ch.php?id=60
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Italy Serie A",21:45 - Venezia VS Bologna - Canal 47
+https://ch.nexa.st/stream?id=47
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Italy Serie A",21:45 - Venezia VS Bologna - Canal 47
+https://s1.ogo.st/ch?id=47
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Italy Serie A",21:45 - Venezia VS Bologna - Canal 47
+https://playfa.st/ch.php?id=47
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - France Ligue 1",21:45 - Brest VS Paris - Canal 51
+https://ch.nexa.st/stream?id=51
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - France Ligue 1",21:45 - Brest VS Paris - Canal 51
+https://s1.ogo.st/ch?id=51
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - France Ligue 1",21:45 - Brest VS Paris - Canal 51
+https://playfa.st/ch.php?id=51
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NFL",22:00 - Denver Broncos VS Pittsburgh Steelers - Canal 1
+https://ch.nexa.st/stream?id=1
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NFL",22:00 - Denver Broncos VS Pittsburgh Steelers - Canal 1
+https://s1.ogo.st/ch?id=1
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NFL",22:00 - Denver Broncos VS Pittsburgh Steelers - Canal 1
+https://playfa.st/ch.php?id=1
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - England Championship",22:00 - Southampton VS Middlesbrough - Canal 5
+https://ch.nexa.st/stream?id=5
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - England Championship",22:00 - Southampton VS Middlesbrough - Canal 5
+https://s1.ogo.st/ch?id=5
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - England Championship",22:00 - Southampton VS Middlesbrough - Canal 5
+https://playfa.st/ch.php?id=5
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - England Premier League",22:00 - Nottingham Forest VS Chelsea - Canal 10
+https://ch.nexa.st/stream?id=10
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - England Premier League",22:00 - Nottingham Forest VS Chelsea - Canal 10
+https://s1.ogo.st/ch?id=10
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - England Premier League",22:00 - Nottingham Forest VS Chelsea - Canal 10
+https://playfa.st/ch.php?id=10
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - England Premier League",22:00 - Nottingham Forest VS Chelsea - Canal 16
+https://ch.nexa.st/stream?id=16
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - England Premier League",22:00 - Nottingham Forest VS Chelsea - Canal 16
+https://s1.ogo.st/ch?id=16
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",22:00 - Ottawa Senators VS Tampa Bay Lightning - Canal 35
+https://ch.nexa.st/stream?id=35
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",22:00 - Ottawa Senators VS Tampa Bay Lightning - Canal 35
+https://s1.ogo.st/ch?id=35
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",22:00 - Ottawa Senators VS Tampa Bay Lightning - Canal 35
+https://playfa.st/ch.php?id=35
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",22:00 - Vancouver Canucks VS Philadelphia Flyers - Canal 36
+https://ch.nexa.st/stream?id=36
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",22:00 - Vancouver Canucks VS Philadelphia Flyers - Canal 36
+https://s1.ogo.st/ch?id=36
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",22:00 - Vancouver Canucks VS Philadelphia Flyers - Canal 36
+https://playfa.st/ch.php?id=36
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",22:00 - Florida Panthers VS Washington Capitals - Canal 37
+https://ch.nexa.st/stream?id=37
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",22:00 - Florida Panthers VS Washington Capitals - Canal 37
+https://s1.ogo.st/ch?id=37
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",22:00 - Florida Panthers VS Washington Capitals - Canal 37
+https://playfa.st/ch.php?id=37
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",22:00 - Detroit Red Wings VS Columbus Blue Jackets - Canal 38
+https://ch.nexa.st/stream?id=38
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",22:00 - Detroit Red Wings VS Columbus Blue Jackets - Canal 38
+https://s1.ogo.st/ch?id=38
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",22:00 - Detroit Red Wings VS Columbus Blue Jackets - Canal 38
+https://playfa.st/ch.php?id=38
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Spain La Liga",22:00 - Levante VS Racing Santander - Canal 86
+https://ch.nexa.st/stream?id=86
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Spain La Liga",22:00 - Levante VS Racing Santander - Canal 86
+https://s1.ogo.st/ch?id=86
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Spain La Liga",22:00 - Levante VS Racing Santander - Canal 86
+https://playfa.st/ch.php?id=86
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Portugal Primeira Liga",22:15 - Marítimo VS Nacional - Canal 21
+https://ch.nexa.st/stream?id=21
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Portugal Primeira Liga",22:15 - Marítimo VS Nacional - Canal 21
+https://s1.ogo.st/ch?id=21
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - Portugal Primeira Liga",22:15 - Marítimo VS Nacional - Canal 21
+https://playfa.st/ch.php?id=21
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",23:00 - Vegas Golden Knights VS San Jose Sharks - Canal 31
+https://ch.nexa.st/stream?id=31
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",23:00 - Vegas Golden Knights VS San Jose Sharks - Canal 31
+https://s1.ogo.st/ch?id=31
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",23:00 - Vegas Golden Knights VS San Jose Sharks - Canal 31
+https://playfa.st/ch.php?id=31
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",23:00 - Los Angeles Kings VS Anaheim Ducks - Canal 32
+https://ch.nexa.st/stream?id=32
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",23:00 - Los Angeles Kings VS Anaheim Ducks - Canal 32
+https://s1.ogo.st/ch?id=32
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",23:00 - Los Angeles Kings VS Anaheim Ducks - Canal 32
+https://playfa.st/ch.php?id=32
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",23:00 - Colorado Avalanche VS Minnesota Wild - Canal 39
+https://ch.nexa.st/stream?id=39
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",23:00 - Colorado Avalanche VS Minnesota Wild - Canal 39
+https://s1.ogo.st/ch?id=39
+
+#EXTINF:-1 group-title="Friday, 27 November 2026 - NHL",23:00 - Colorado Avalanche VS Minnesota Wild - Canal 39
+https://playfa.st/ch.php?id=39

@@ -7,7 +7,7 @@
     "end_iso": "2026-11-27T04:30:00.000Z",
     "date": "Friday, 27 November 2026",
     "time": "03:20",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/buffalo-bills-vs-chiefs",
     "servers": [
       {
@@ -168,39 +168,6 @@
     "servers": []
   },
   {
-    "title": "Denver Broncos Pittsburgh Steelers",
-    "category": "Denver Broncos",
-    "logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
-    "start_iso": "2026-11-27T20:00:00.000Z",
-    "end_iso": "2026-11-27T23:10:00.000Z",
-    "date": "Friday, 27 November 2026",
-    "time": "22:00",
-    "status": "next",
-    "event_url": "https://footystreams.pk/events/broncos-vs-steelers",
-    "servers": [
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/broncos-vs-steelers/3969",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      },
-      {
-        "label": "English",
-        "url": "https://playerdee.top/alpha/broncos-vs-steelers/3970",
-        "meta": {
-          "mobile": "Yes",
-          "quality": "720p",
-          "ads": "2",
-          "language": "English"
-        }
-      }
-    ]
-  },
-  {
     "title": "Southampton Middlesbrough",
     "category": "Southampton",
     "logo": "https://cdn.img4every1.org/team/southampton/logo.webp",
@@ -235,6 +202,39 @@
     "status": "next",
     "event_url": "https://footystreams.pk/events/chelsea-vs-nottm-forest",
     "servers": []
+  },
+  {
+    "title": "Denver Broncos Pittsburgh Steelers",
+    "category": "Denver Broncos",
+    "logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
+    "start_iso": "2026-11-27T20:00:00.000Z",
+    "end_iso": "2026-11-27T23:10:00.000Z",
+    "date": "Friday, 27 November 2026",
+    "time": "22:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/broncos-vs-steelers",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/broncos-vs-steelers/3969",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/broncos-vs-steelers/3970",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Australia Ireland",

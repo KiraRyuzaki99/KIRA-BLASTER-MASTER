@@ -19,15 +19,6 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f
 #EXTINF:-1 group-title="Cricket",16:30 - Sharjah Warriorz vs Dubai Capitals
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8afdcdd622.m3u8&name=TNT%20Sports%201%20UK
 
-#EXTINF:-1 group-title="Basketball",02:00 - SMU Mustangs vs LSU Tigers
-https://ondemand.to/embed/?id=m401918972
-
-#EXTINF:-1 group-title="Basketball",02:00 - SMU Mustangs vs LSU Tigers
-https://ondemand.to/embed/?id=cbb%2F2026-11-26%2Fsmu-lsu_540p
-
-#EXTINF:-1 group-title="Basketball",03:00 - UC Davis vs Jacksonville State
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fbaeebc67f1.m3u8&name=CBS%20Sports%20Network
-
 #EXTINF:-1 group-title="Basketball",04:00 - St. John's Red Storm vs Louisville Cardinals
 https://ondemand.to/embed/?id=m401920530
 
@@ -84,123 +75,6 @@ https://ondemand.to/embed/?id=m401909789
 
 #EXTINF:-1 group-title="Basketball",00:00 - Kansas Jayhawks vs Villanova Wildcats
 https://ondemand.to/embed/?id=cbb%2F2026-11-27%2Fvill-ku_540p
-
-#EXTINF:-1 group-title="Motor-sports",02:45 - Supercars: Quali And Ttso Race 37
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F87cad238ba.m3u8&name=Sky%20Sport%202%20NZ
-
-#EXTINF:-1 group-title="Motor-sports",07:50 - V8 Supercars Adelaide Grand Final Race 35
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3477a63c86.m3u8&name=TNT%20Sports%202%20UK
-
-#EXTINF:-1 group-title="Motor-sports",07:50 - V8 Supercars Adelaide Grand Final Race 35
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Feaef65ab1f.m3u8&name=MAX%20Sport%202%20Bulgaria
-
-#EXTINF:-1 group-title="Motor-sports",09:55 - Moto3 : Round 22
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F3477a63c86.m3u8&name=TNT%20Sports%202%20UK
-
-#EXTINF:-1 group-title="Motor-sports",09:55 - Moto3 : Round 22
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F075debc188.m3u8&name=Sky%20Sport%20MotoGP%20Italy
-
-#EXTINF:-1 group-title="Motor-sports",09:55 - Moto3 : Round 22
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F87c190704e.m3u8&name=CANAL%2B%20MotoGP%20France
-
-#EXTINF:-1 group-title="Motor-sports",09:55 - Moto3 : Round 22
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F959f9e7d1d.m3u8&name=Sky%20Sport%20Mix%20DE
-
-#EXTINF:-1 group-title="Motor-sports",09:55 - Moto3 : Round 22
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F92af2bf671.m3u8&name=Sky%20Sport%20Top%20Event%20DE
-
-#EXTINF:-1 group-title="Motor-sports",10:00 - MotoGP : Round 22
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F3477a63c86.m3u8&name=TNT%20Sports%202%20UK
-
-#EXTINF:-1 group-title="Motor-sports",10:00 - MotoGP : Round 22
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F075debc188.m3u8&name=Sky%20Sport%20MotoGP%20Italy
-
-#EXTINF:-1 group-title="Motor-sports",10:00 - MotoGP : Round 22
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F87c190704e.m3u8&name=CANAL%2B%20MotoGP%20France
-
-#EXTINF:-1 group-title="Motor-sports",10:00 - MotoGP : Round 22
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F959f9e7d1d.m3u8&name=Sky%20Sport%20Mix%20DE
-
-#EXTINF:-1 group-title="Motor-sports",10:00 - MotoGP : Round 22
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F92af2bf671.m3u8&name=Sky%20Sport%20Top%20Event%20DE
-
-#EXTINF:-1 group-title="Motor-sports",10:45 - Moto2 : Round 22
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F3477a63c86.m3u8&name=TNT%20Sports%202%20UK
-
-#EXTINF:-1 group-title="Motor-sports",10:45 - Moto2 : Round 22
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F075debc188.m3u8&name=Sky%20Sport%20MotoGP%20Italy
-
-#EXTINF:-1 group-title="Motor-sports",10:45 - Moto2 : Round 22
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F87c190704e.m3u8&name=CANAL%2B%20MotoGP%20France
-
-#EXTINF:-1 group-title="Motor-sports",10:45 - Moto2 : Round 22
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F959f9e7d1d.m3u8&name=Sky%20Sport%20Mix%20DE
-
-#EXTINF:-1 group-title="Motor-sports",10:45 - Moto2 : Round 22
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F92af2bf671.m3u8&name=Sky%20Sport%20Top%20Event%20DE
-
-#EXTINF:-1 group-title="Motor-sports",13:00 - Formula 2 : Lusail International Circuit Practice
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff3534236bb.m3u8&name=Sky%20Sports%20F1%20UK
-
-#EXTINF:-1 group-title="Motor-sports",13:00 - Formula 2 : Lusail International Circuit Practice
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5b8d017bdf.m3u8&name=Sky%20Sport%20F1%20DE
-
-#EXTINF:-1 group-title="Motor-sports",13:00 - Formula 2 : Lusail International Circuit Practice
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9a640a3ee5.m3u8&name=DAZN%20F1%20ES
-
-#EXTINF:-1 group-title="Motor-sports",13:00 - Formula 2 : Lusail International Circuit Practice
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F5ec157eda0.m3u8&name=Canal%2B%20Formula%201
-
-#EXTINF:-1 group-title="Motor-sports",13:00 - Formula 2 : Lusail International Circuit Practice
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F313936da1d.m3u8&name=Sky%20Sport%205%20NZ
-
-#EXTINF:-1 group-title="Motor-sports",15:30 - Qatar Grand Prix - Practice 1
-https://ondemand.to/embed/?id=mm-mot-f1-600057450-fp1
-
-#EXTINF:-1 group-title="Motor-sports",15:30 - Qatar Grand Prix - Practice 1
-https://ondemand.to/embed/?id=f1%2F2026%2Fqatar%2Ffp1_540p
-
-#EXTINF:-1 group-title="Motor-sports",15:30 - Qatar Grand Prix - Practice 1
-https://ondemand.to/embed/?id=qatar-grand-prix---practice-1-32956_540p
-
-#EXTINF:-1 group-title="Motor-sports",15:30 - Qatar Grand Prix - Practice 1
-https://ondemand.to/embed/?id=qatar-grand-prix---practice-1-32958_540p
-
-#EXTINF:-1 group-title="Motor-sports",15:30 - Qatar Grand Prix - Practice 1
-https://ondemand.to/embed/?id=qatar-grand-prix---practice-1-32959_540p
-
-#EXTINF:-1 group-title="Motor-sports",17:00 - Formula 2 : Lusail International Circuit Qualifying
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff3534236bb.m3u8&name=Sky%20Sports%20F1%20UK
-
-#EXTINF:-1 group-title="Motor-sports",17:00 - Formula 2 : Lusail International Circuit Qualifying
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5b8d017bdf.m3u8&name=Sky%20Sport%20F1%20DE
-
-#EXTINF:-1 group-title="Motor-sports",17:00 - Formula 2 : Lusail International Circuit Qualifying
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9a640a3ee5.m3u8&name=DAZN%20F1%20ES
-
-#EXTINF:-1 group-title="Motor-sports",17:00 - Formula 2 : Lusail International Circuit Qualifying
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F5caa22b446.m3u8&name=Canal%2B%20Sport%20France
-
-#EXTINF:-1 group-title="Motor-sports",17:00 - Formula 2 : Lusail International Circuit Qualifying
-https://ondemand.to/player/hls/?v=540&url=%2Fc%2F5ec157eda0.m3u8&name=Canal%2B%20Formula%201
-
-#EXTINF:-1 group-title="Motor-sports",19:00 - Qatar Grand Prix - Practice 2
-https://ondemand.to/embed/?id=mm-mot-f1-600057450-fp2
-
-#EXTINF:-1 group-title="Motor-sports",19:00 - Qatar Grand Prix - Practice 2
-https://ondemand.to/embed/?id=f1%2F2026%2Fqatar%2Ffp2_540p
-
-#EXTINF:-1 group-title="Motor-sports",19:00 - Qatar Grand Prix - Practice 2
-https://ondemand.to/embed/?id=qatar-grand-prix---practice-2-32967_540p
-
-#EXTINF:-1 group-title="Motor-sports",19:00 - Qatar Grand Prix - Practice 2
-https://ondemand.to/embed/?id=qatar-grand-prix---practice-2-32969_540p
-
-#EXTINF:-1 group-title="Motor-sports",19:00 - Qatar Grand Prix - Practice 2
-https://ondemand.to/embed/?id=qatar-grand-prix---practice-2-32970_540p
-
-#EXTINF:-1 group-title="Motor-sports",00:40 - Supercars: Sunday Supports
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F87cad238ba.m3u8&name=Sky%20Sport%202%20NZ
 
 #EXTINF:-1 group-title="American-football",03:00 - Texas Tech Red Raiders vs TCU Horned Frogs
 https://ondemand.to/embed/?id=m401856879
@@ -312,9 +186,6 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fda
 
 #EXTINF:-1 group-title="Football",03:00 - Pachuca vs Guadalajara
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F886e1beec6.m3u8&name=Server%201
-
-#EXTINF:-1 group-title="Football",03:00 - Pachuca vs Guadalajara
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Falfa%2Fadmin2%2Ffoxone1mx.m3u8&name=HD%20Server
 
 #EXTINF:-1 group-title="Football",05:10 - León vs Cruz Azul
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fda07f60d06.m3u8&name=TUDN%20USA
@@ -640,20 +511,119 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8f
 #EXTINF:-1 group-title="Football",22:15 - Maritimo vs C.D. Nacional
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F50140755e1.m3u8&name=Sportdigital%20FUSSBALL
 
-#EXTINF:-1 group-title="Fight",02:00 - WWE SmackDown #1423
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F0ff8b6a8e2.m3u8&name=USA%20Network
+#EXTINF:-1 group-title="Motor-sports",07:50 - V8 Supercars Adelaide Grand Final Race 35
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3477a63c86.m3u8&name=TNT%20Sports%202%20UK
 
-#EXTINF:-1 group-title="Fight",02:00 - WWE SmackDown #1423
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fc48db597b1.m3u8&name=Sport%205%20PLUS%20Israel
+#EXTINF:-1 group-title="Motor-sports",07:50 - V8 Supercars Adelaide Grand Final Race 35
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Feaef65ab1f.m3u8&name=MAX%20Sport%202%20Bulgaria
 
-#EXTINF:-1 group-title="Fight",15:30 - ONE Friday Fights 180 Denkriangkrai vs Thway Lin Htet
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd43268eb45.m3u8&name=beIN%20Sports%20USA
+#EXTINF:-1 group-title="Motor-sports",09:55 - Moto3 : Round 22
+https://ondemand.to/player/hls/?v=540&url=%2Fc%2F3477a63c86.m3u8&name=TNT%20Sports%202%20UK
 
-#EXTINF:-1 group-title="Fight",15:30 - ONE Friday Fights 180 Denkriangkrai vs Thway Lin Htet
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Faf1507623a.m3u8&name=beIN%20Sports%203%20Malaysia
+#EXTINF:-1 group-title="Motor-sports",09:55 - Moto3 : Round 22
+https://ondemand.to/player/hls/?v=540&url=%2Fc%2F075debc188.m3u8&name=Sky%20Sport%20MotoGP%20Italy
 
-#EXTINF:-1 group-title="Fight",15:30 - ONE Friday Fights 180 Denkriangkrai vs Thway Lin Htet
-https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F28e67da889.m3u8&name=beIN%20Sport%20USA%20Espanol
+#EXTINF:-1 group-title="Motor-sports",09:55 - Moto3 : Round 22
+https://ondemand.to/player/hls/?v=540&url=%2Fc%2F87c190704e.m3u8&name=CANAL%2B%20MotoGP%20France
+
+#EXTINF:-1 group-title="Motor-sports",09:55 - Moto3 : Round 22
+https://ondemand.to/player/hls/?v=540&url=%2Fc%2F959f9e7d1d.m3u8&name=Sky%20Sport%20Mix%20DE
+
+#EXTINF:-1 group-title="Motor-sports",09:55 - Moto3 : Round 22
+https://ondemand.to/player/hls/?v=540&url=%2Fc%2F92af2bf671.m3u8&name=Sky%20Sport%20Top%20Event%20DE
+
+#EXTINF:-1 group-title="Motor-sports",10:00 - MotoGP : Round 22
+https://ondemand.to/player/hls/?v=540&url=%2Fc%2F3477a63c86.m3u8&name=TNT%20Sports%202%20UK
+
+#EXTINF:-1 group-title="Motor-sports",10:00 - MotoGP : Round 22
+https://ondemand.to/player/hls/?v=540&url=%2Fc%2F075debc188.m3u8&name=Sky%20Sport%20MotoGP%20Italy
+
+#EXTINF:-1 group-title="Motor-sports",10:00 - MotoGP : Round 22
+https://ondemand.to/player/hls/?v=540&url=%2Fc%2F87c190704e.m3u8&name=CANAL%2B%20MotoGP%20France
+
+#EXTINF:-1 group-title="Motor-sports",10:00 - MotoGP : Round 22
+https://ondemand.to/player/hls/?v=540&url=%2Fc%2F959f9e7d1d.m3u8&name=Sky%20Sport%20Mix%20DE
+
+#EXTINF:-1 group-title="Motor-sports",10:00 - MotoGP : Round 22
+https://ondemand.to/player/hls/?v=540&url=%2Fc%2F92af2bf671.m3u8&name=Sky%20Sport%20Top%20Event%20DE
+
+#EXTINF:-1 group-title="Motor-sports",10:45 - Moto2 : Round 22
+https://ondemand.to/player/hls/?v=540&url=%2Fc%2F3477a63c86.m3u8&name=TNT%20Sports%202%20UK
+
+#EXTINF:-1 group-title="Motor-sports",10:45 - Moto2 : Round 22
+https://ondemand.to/player/hls/?v=540&url=%2Fc%2F075debc188.m3u8&name=Sky%20Sport%20MotoGP%20Italy
+
+#EXTINF:-1 group-title="Motor-sports",10:45 - Moto2 : Round 22
+https://ondemand.to/player/hls/?v=540&url=%2Fc%2F87c190704e.m3u8&name=CANAL%2B%20MotoGP%20France
+
+#EXTINF:-1 group-title="Motor-sports",10:45 - Moto2 : Round 22
+https://ondemand.to/player/hls/?v=540&url=%2Fc%2F959f9e7d1d.m3u8&name=Sky%20Sport%20Mix%20DE
+
+#EXTINF:-1 group-title="Motor-sports",10:45 - Moto2 : Round 22
+https://ondemand.to/player/hls/?v=540&url=%2Fc%2F92af2bf671.m3u8&name=Sky%20Sport%20Top%20Event%20DE
+
+#EXTINF:-1 group-title="Motor-sports",13:00 - Formula 2 : Lusail International Circuit Practice
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff3534236bb.m3u8&name=Sky%20Sports%20F1%20UK
+
+#EXTINF:-1 group-title="Motor-sports",13:00 - Formula 2 : Lusail International Circuit Practice
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5b8d017bdf.m3u8&name=Sky%20Sport%20F1%20DE
+
+#EXTINF:-1 group-title="Motor-sports",13:00 - Formula 2 : Lusail International Circuit Practice
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9a640a3ee5.m3u8&name=DAZN%20F1%20ES
+
+#EXTINF:-1 group-title="Motor-sports",13:00 - Formula 2 : Lusail International Circuit Practice
+https://ondemand.to/player/hls/?v=540&url=%2Fc%2F5ec157eda0.m3u8&name=Canal%2B%20Formula%201
+
+#EXTINF:-1 group-title="Motor-sports",13:00 - Formula 2 : Lusail International Circuit Practice
+https://ondemand.to/player/hls/?v=540&url=%2Fc%2F313936da1d.m3u8&name=Sky%20Sport%205%20NZ
+
+#EXTINF:-1 group-title="Motor-sports",15:30 - Qatar Grand Prix - Practice 1
+https://ondemand.to/embed/?id=mm-mot-f1-600057450-fp1
+
+#EXTINF:-1 group-title="Motor-sports",15:30 - Qatar Grand Prix - Practice 1
+https://ondemand.to/embed/?id=f1%2F2026%2Fqatar%2Ffp1_540p
+
+#EXTINF:-1 group-title="Motor-sports",15:30 - Qatar Grand Prix - Practice 1
+https://ondemand.to/embed/?id=qatar-grand-prix---practice-1-32956_540p
+
+#EXTINF:-1 group-title="Motor-sports",15:30 - Qatar Grand Prix - Practice 1
+https://ondemand.to/embed/?id=qatar-grand-prix---practice-1-32958_540p
+
+#EXTINF:-1 group-title="Motor-sports",15:30 - Qatar Grand Prix - Practice 1
+https://ondemand.to/embed/?id=qatar-grand-prix---practice-1-32959_540p
+
+#EXTINF:-1 group-title="Motor-sports",17:00 - Formula 2 : Lusail International Circuit Qualifying
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff3534236bb.m3u8&name=Sky%20Sports%20F1%20UK
+
+#EXTINF:-1 group-title="Motor-sports",17:00 - Formula 2 : Lusail International Circuit Qualifying
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5b8d017bdf.m3u8&name=Sky%20Sport%20F1%20DE
+
+#EXTINF:-1 group-title="Motor-sports",17:00 - Formula 2 : Lusail International Circuit Qualifying
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9a640a3ee5.m3u8&name=DAZN%20F1%20ES
+
+#EXTINF:-1 group-title="Motor-sports",17:00 - Formula 2 : Lusail International Circuit Qualifying
+https://ondemand.to/player/hls/?v=540&url=%2Fc%2F5caa22b446.m3u8&name=Canal%2B%20Sport%20France
+
+#EXTINF:-1 group-title="Motor-sports",17:00 - Formula 2 : Lusail International Circuit Qualifying
+https://ondemand.to/player/hls/?v=540&url=%2Fc%2F5ec157eda0.m3u8&name=Canal%2B%20Formula%201
+
+#EXTINF:-1 group-title="Motor-sports",19:00 - Qatar Grand Prix - Practice 2
+https://ondemand.to/embed/?id=mm-mot-f1-600057450-fp2
+
+#EXTINF:-1 group-title="Motor-sports",19:00 - Qatar Grand Prix - Practice 2
+https://ondemand.to/embed/?id=f1%2F2026%2Fqatar%2Ffp2_540p
+
+#EXTINF:-1 group-title="Motor-sports",19:00 - Qatar Grand Prix - Practice 2
+https://ondemand.to/embed/?id=qatar-grand-prix---practice-2-32967_540p
+
+#EXTINF:-1 group-title="Motor-sports",19:00 - Qatar Grand Prix - Practice 2
+https://ondemand.to/embed/?id=qatar-grand-prix---practice-2-32969_540p
+
+#EXTINF:-1 group-title="Motor-sports",19:00 - Qatar Grand Prix - Practice 2
+https://ondemand.to/embed/?id=qatar-grand-prix---practice-2-32970_540p
+
+#EXTINF:-1 group-title="Motor-sports",00:40 - Supercars: Sunday Supports
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F87cad238ba.m3u8&name=Sky%20Sport%202%20NZ
 
 #EXTINF:-1 group-title="Golf",10:00 - Ladies European Tour Andalucia Costa del Sol Open de Espana Round 2
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F69e817d35c.m3u8&name=GOLF%20Channel%20USA
@@ -672,6 +642,15 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fc7
 
 #EXTINF:-1 group-title="Darts",15:00 - PDC Darts Ladbrokes Players Championship Finals Day 1
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4267df2974.m3u8&name=TV3%20Max%20Denmark
+
+#EXTINF:-1 group-title="Fight",15:30 - ONE Friday Fights 180 Denkriangkrai vs Thway Lin Htet
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd43268eb45.m3u8&name=beIN%20Sports%20USA
+
+#EXTINF:-1 group-title="Fight",15:30 - ONE Friday Fights 180 Denkriangkrai vs Thway Lin Htet
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Faf1507623a.m3u8&name=beIN%20Sports%203%20Malaysia
+
+#EXTINF:-1 group-title="Fight",15:30 - ONE Friday Fights 180 Denkriangkrai vs Thway Lin Htet
+https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F28e67da889.m3u8&name=beIN%20Sport%20USA%20Espanol
 
 #EXTINF:-1 group-title="Hockey",20:00 - Boston Bruins vs Toronto Maple Leafs
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F267f9c71ba.m3u8&name=Viaplay%20Sports%202%20UK
@@ -769,41 +748,41 @@ https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F82
 #EXTINF:-1 group-title="Handball",21:00 - Chambéry Savoie Handball vs Limoges Handball
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff8c71c4d41.m3u8&name=beIN%20Sports%202%20France
 
-#EXTINF:-1 group-title="24/7-streams",04:59 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",05:54 - NFL Network
 https://ondemand.to/embed/?id=247-nfl-network
 
-#EXTINF:-1 group-title="24/7-streams",04:59 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",05:54 - NFL Network
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1ac9bf5091.m3u8&name=NFL%20RedZone
 
-#EXTINF:-1 group-title="24/7-streams",04:59 - Fox Footy
+#EXTINF:-1 group-title="24/7-streams",05:54 - Fox Footy
 https://ondemand.to/embed/?id=247-247-fox-footy
 
-#EXTINF:-1 group-title="24/7-streams",04:59 - Willow
+#EXTINF:-1 group-title="24/7-streams",05:54 - Willow
 https://ondemand.to/embed/?id=247-247-willow
 
-#EXTINF:-1 group-title="24/7-streams",04:59 - Fox Cricket
+#EXTINF:-1 group-title="24/7-streams",05:54 - Fox Cricket
 https://ondemand.to/embed/?id=247-247-fox-cricket
 
-#EXTINF:-1 group-title="24/7-streams",04:59 - NHL Network
+#EXTINF:-1 group-title="24/7-streams",05:54 - NHL Network
 https://ondemand.to/embed/?id=247-nhl-network-29780
 
-#EXTINF:-1 group-title="24/7-streams",04:59 - Fox League
+#EXTINF:-1 group-title="24/7-streams",05:54 - Fox League
 https://ondemand.to/embed/?id=247-247-fox-league
 
-#EXTINF:-1 group-title="24/7-streams",04:59 - South Park
+#EXTINF:-1 group-title="24/7-streams",05:54 - South Park
 https://ondemand.to/embed/?id=247-247-south-park
 
-#EXTINF:-1 group-title="24/7-streams",04:59 - Family Guy
+#EXTINF:-1 group-title="24/7-streams",05:54 - Family Guy
 https://ondemand.to/embed/?id=247-247-family-guy
 
-#EXTINF:-1 group-title="24/7-streams",04:59 - The Simpsons
+#EXTINF:-1 group-title="24/7-streams",05:54 - The Simpsons
 https://ondemand.to/embed/?id=247-247-the-simpsons
 
-#EXTINF:-1 group-title="24/7-streams",04:59 - Rally TV
+#EXTINF:-1 group-title="24/7-streams",05:54 - Rally TV
 https://ondemand.to/embed/?id=247-rally-tv
 
-#EXTINF:-1 group-title="24/7-streams",04:59 - Tennis Channel
+#EXTINF:-1 group-title="24/7-streams",05:54 - Tennis Channel
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F229d7c7755.m3u8&name=Tennis%20Channel
 
-#EXTINF:-1 group-title="24/7-streams",04:59 - Sky Sports Golf
+#EXTINF:-1 group-title="24/7-streams",05:54 - Sky Sports Golf
 https://ondemand.to/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9f5dca47df.m3u8&name=Sky%20Sports%20Golf

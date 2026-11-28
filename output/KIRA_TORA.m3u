@@ -1,30 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Cricket",06:40 - Melbourne Renegades Women vs Melbourne Stars Women
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F91a93f700c.m3u8&name=Willow%202%20Cricket
-
-#EXTINF:-1 group-title="Cricket",06:40 - Melbourne Renegades Women vs Melbourne Stars Women
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9bec686fd0.m3u8&name=Sky%20Sports%20Cricket%20UK
-
-#EXTINF:-1 group-title="Cricket",10:10 - Sydney Thunder Women vs Sydney Sixers Women
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F91a93f700c.m3u8&name=Willow%202%20Cricket
-
-#EXTINF:-1 group-title="Cricket",10:10 - Sydney Thunder Women vs Sydney Sixers Women
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9bec686fd0.m3u8&name=Sky%20Sports%20Cricket%20UK
-
-#EXTINF:-1 group-title="Cricket",12:00 - Desert Vipers vs MI Emirates
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
-
-#EXTINF:-1 group-title="Cricket",12:00 - Desert Vipers vs MI Emirates
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd4a4fa01bf.m3u8&name=TNT%20Sports%204%20UK
-
-#EXTINF:-1 group-title="Cricket",16:30 - Dubai Capitals vs Gulf Giants
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
-
-#EXTINF:-1 group-title="Cricket",16:30 - Dubai Capitals vs Gulf Giants
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3477a63c86.m3u8&name=TNT%20Sports%202%20UK
-
 #EXTINF:-1 group-title="Football",10:40 - Central Coast Mariners FC vs Auckland FC
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff3c06b44b0.m3u8&name=TNT%20Sports%203%20UK
 
@@ -1000,6 +976,78 @@ https://ondemand.st/embed/?id=m401933723
 #EXTINF:-1 group-title="Football",23:30 - Philadelphia Union vs New England Revolution
 https://ondemand.st/embed/?id=mls%2F2026-11-28%2Fphi-ne_540p
 
+#EXTINF:-1 group-title="Basketball",06:30 - Texas Tech Red Raiders vs San Diego State Aztecs
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F0ff8b6a8e2.m3u8&name=USA%20Network
+
+#EXTINF:-1 group-title="Basketball",17:00 - Slovan Bratislava Basketball vs Košice Wolves
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fa8e594aa4a.m3u8&name=Dajto%20Slovakia
+
+#EXTINF:-1 group-title="Basketball",18:00 - Mississippi State Bulldogs vs TCU Horned Frogs
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Feb8882ff10.m3u8&name=ION%20USA
+
+#EXTINF:-1 group-title="Basketball",21:00 - North Carolina A&T Aggies vs Delaware State Hornets
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F0ff8b6a8e2.m3u8&name=USA%20Network
+
+#EXTINF:-1 group-title="Basketball",22:30 - Boise State Broncos vs North Texas Mean Green
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F0ff8b6a8e2.m3u8&name=USA%20Network
+
+#EXTINF:-1 group-title="Basketball",23:00 - Stony Brook Seawolves vs Delaware Blue Hens
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F81eec810d6.m3u8&name=SportsNet%20New%20York
+
+#EXTINF:-1 group-title="Basketball",23:00 - Towson Tigers vs Maryland Terrapins
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8853be9c63.m3u8&name=Monumental%20Sports%20Network
+
+#EXTINF:-1 group-title="Basketball",23:30 - LSU Tigers vs NC State Wolfpack
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Feb8882ff10.m3u8&name=ION%20USA
+
+#EXTINF:-1 group-title="Basketball",00:00 - Washington Wizards vs Orlando Magic
+https://ondemand.st/embed/?id=m401910046
+
+#EXTINF:-1 group-title="Basketball",00:00 - Washington Wizards vs Orlando Magic
+https://ondemand.st/embed/?id=nba%2F2026-11-28%2Forl-wsh_540p
+
+#EXTINF:-1 group-title="Basketball",00:00 - Washington Wizards vs Orlando Magic
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F60d47ba098.m3u8&name=Sky%20Sports%2B
+
+#EXTINF:-1 group-title="Basketball",00:00 - Washington Wizards vs Orlando Magic
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4a2c801ab2.m3u8&name=Sky%20Sports%20Main%20Event
+
+#EXTINF:-1 group-title="Basketball",00:00 - Washington Wizards vs Orlando Magic
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F0b664491ee.m3u8&name=DAZN%20Baloncesto
+
+#EXTINF:-1 group-title="Basketball",00:00 - Cal State Bakersfield Roadrunners vs Northern Arizona Lumberjacks
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F0ff8b6a8e2.m3u8&name=USA%20Network
+
+#EXTINF:-1 group-title="Cricket",06:40 - Melbourne Renegades Women vs Melbourne Stars Women
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F91a93f700c.m3u8&name=Willow%202%20Cricket
+
+#EXTINF:-1 group-title="Cricket",06:40 - Melbourne Renegades Women vs Melbourne Stars Women
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9bec686fd0.m3u8&name=Sky%20Sports%20Cricket%20UK
+
+#EXTINF:-1 group-title="Cricket",10:10 - Sydney Thunder Women vs Sydney Sixers Women
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F91a93f700c.m3u8&name=Willow%202%20Cricket
+
+#EXTINF:-1 group-title="Cricket",10:10 - Sydney Thunder Women vs Sydney Sixers Women
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9bec686fd0.m3u8&name=Sky%20Sports%20Cricket%20UK
+
+#EXTINF:-1 group-title="Cricket",12:00 - Desert Vipers vs MI Emirates
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
+
+#EXTINF:-1 group-title="Cricket",12:00 - Desert Vipers vs MI Emirates
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd4a4fa01bf.m3u8&name=TNT%20Sports%204%20UK
+
+#EXTINF:-1 group-title="Cricket",16:30 - Dubai Capitals vs Gulf Giants
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
+
+#EXTINF:-1 group-title="Cricket",16:30 - Dubai Capitals vs Gulf Giants
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3477a63c86.m3u8&name=TNT%20Sports%202%20UK
+
+#EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
+
+#EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8afdcdd622.m3u8&name=TNT%20Sports%201%20UK
+
 #EXTINF:-1 group-title="Motor-sports",06:50 - V8 Supercars Adelaide Grand Final Race 36
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3477a63c86.m3u8&name=TNT%20Sports%202%20UK
 
@@ -1112,13 +1160,13 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9f
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4a2c801ab2.m3u8&name=Sky%20Sports%20Main%20Event%20UK
 
 #EXTINF:-1 group-title="Darts",15:00 - PDC Darts Ladbrokes Players Championship Finals Day 2
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1531ba1ec3.m3u8&name=ITV%203%20UK
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F6c8a4bad9c.m3u8&name=ITV%204%20UK
 
 #EXTINF:-1 group-title="Darts",15:00 - PDC Darts Ladbrokes Players Championship Finals Day 2
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fc79d358326.m3u8&name=DAZN2%20DE
 
 #EXTINF:-1 group-title="Darts",15:00 - PDC Darts Ladbrokes Players Championship Finals Day 2
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4267df2974.m3u8&name=TV3%20Max%20Denmark
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F313936da1d.m3u8&name=Sky%20Sport%205%20NZ
 
 #EXTINF:-1 group-title="Snooker",15:15 - World Snooker Snooker: UK Championship, Round 1, Day1
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F33647c274d.m3u8&name=BBC%20One%20UK
@@ -1152,48 +1200,6 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F26
 
 #EXTINF:-1 group-title="Rugby",22:00 - Lyon OU vs Stade Toulousain
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb063260f69.m3u8&name=Canal%2B%20France
-
-#EXTINF:-1 group-title="Basketball",17:00 - Slovan Bratislava Basketball vs Košice Wolves
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fa8e594aa4a.m3u8&name=Dajto%20Slovakia
-
-#EXTINF:-1 group-title="Basketball",18:00 - Mississippi State Bulldogs vs TCU Horned Frogs
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Feb8882ff10.m3u8&name=ION%20USA
-
-#EXTINF:-1 group-title="Basketball",21:00 - North Carolina A&T Aggies vs Delaware State Hornets
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F0ff8b6a8e2.m3u8&name=USA%20Network
-
-#EXTINF:-1 group-title="Basketball",22:30 - Boise State Broncos vs North Texas Mean Green
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F0ff8b6a8e2.m3u8&name=USA%20Network
-
-#EXTINF:-1 group-title="Basketball",23:00 - Stony Brook Seawolves vs Delaware Blue Hens
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F81eec810d6.m3u8&name=SportsNet%20New%20York
-
-#EXTINF:-1 group-title="Basketball",23:00 - Towson Tigers vs Maryland Terrapins
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8853be9c63.m3u8&name=Monumental%20Sports%20Network
-
-#EXTINF:-1 group-title="Basketball",23:30 - LSU Tigers vs NC State Wolfpack
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Feb8882ff10.m3u8&name=ION%20USA
-
-#EXTINF:-1 group-title="Basketball",00:00 - Washington Wizards vs Orlando Magic
-https://ondemand.st/embed/?id=m401910046
-
-#EXTINF:-1 group-title="Basketball",00:00 - Washington Wizards vs Orlando Magic
-https://ondemand.st/embed/?id=nba%2F2026-11-28%2Forl-wsh_540p
-
-#EXTINF:-1 group-title="Basketball",00:00 - Washington Wizards vs Orlando Magic
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F60d47ba098.m3u8&name=Sky%20Sports%2B
-
-#EXTINF:-1 group-title="Basketball",00:00 - Washington Wizards vs Orlando Magic
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4a2c801ab2.m3u8&name=Sky%20Sports%20Main%20Event
-
-#EXTINF:-1 group-title="Basketball",00:00 - Washington Wizards vs Orlando Magic
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F0b664491ee.m3u8&name=DAZN%20Baloncesto
-
-#EXTINF:-1 group-title="Basketball",00:00 - Cal State Fullerton Titans vs Weber State Wildcats
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fda98cf8d61.m3u8&name=ACC%20Network%20USA
-
-#EXTINF:-1 group-title="Basketball",00:00 - Cal State Bakersfield Roadrunners vs Northern Arizona Lumberjacks
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F0ff8b6a8e2.m3u8&name=USA%20Network
 
 #EXTINF:-1 group-title="Volleyball",18:00 - Spor Toto vs Ziraat Bankası
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F956213fe28.m3u8&name=Arena%20Sport%208%20Serbia
@@ -1229,10 +1235,7 @@ https://ondemand.st/embed/?id=cfb%2F2026-11-28%2Fmich-osu_540p
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fe5d6157638.m3u8&name=Fox%20Deportes
 
 #EXTINF:-1 group-title="American-football",19:00 - North Carolina Tar Heels vs NC State Wolfpack
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fbaeebc67f1.m3u8&name=CBS%20Sports%20Network%20USA
-
-#EXTINF:-1 group-title="American-football",19:00 - North Carolina Tar Heels vs NC State Wolfpack
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F58469ec2c9.m3u8&name=Server%201
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fda98cf8d61.m3u8&name=ACC%20Network%20USA
 
 #EXTINF:-1 group-title="American-football",19:00 - Wyoming Cowboys vs UConn Huskies
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5f3ab15fe7.m3u8&name=FS1%20USA
@@ -1295,10 +1298,7 @@ https://ondemand.st/embed/?id=m401856878
 https://ondemand.st/embed/?id=cfb%2F2026-11-28%2Fbois-csu_540p
 
 #EXTINF:-1 group-title="American-football",21:00 - Iowa State Cyclones vs Kansas State Wildcats
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fbaeebc67f1.m3u8&name=CBS%20Sports%20Network%20USA
-
-#EXTINF:-1 group-title="American-football",21:00 - Iowa State Cyclones vs Kansas State Wildcats
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F58469ec2c9.m3u8&name=Server%201
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fe1060cf2fe.m3u8&name=ESPN%2B%20USA
 
 #EXTINF:-1 group-title="American-football",21:00 - Rice Owls vs Army Black Knights
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4f28c3f55c.m3u8&name=ESPN%2B%20USA
@@ -1441,41 +1441,41 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F6d
 #EXTINF:-1 group-title="Hockey",00:05 - Holy Cross Crusaders vs Air Force Falcons
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F7891d3533f.m3u8&name=NESN%20USA
 
-#EXTINF:-1 group-title="24/7-streams",08:24 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",08:59 - NFL Network
 https://ondemand.st/embed/?id=247-nfl-network
 
-#EXTINF:-1 group-title="24/7-streams",08:24 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",08:59 - NFL Network
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1ac9bf5091.m3u8&name=NFL%20RedZone
 
-#EXTINF:-1 group-title="24/7-streams",08:24 - Fox Footy
+#EXTINF:-1 group-title="24/7-streams",08:59 - Fox Footy
 https://ondemand.st/embed/?id=247-247-fox-footy
 
-#EXTINF:-1 group-title="24/7-streams",08:24 - Willow
+#EXTINF:-1 group-title="24/7-streams",08:59 - Willow
 https://ondemand.st/embed/?id=247-247-willow
 
-#EXTINF:-1 group-title="24/7-streams",08:24 - Fox Cricket
+#EXTINF:-1 group-title="24/7-streams",08:59 - Fox Cricket
 https://ondemand.st/embed/?id=247-247-fox-cricket
 
-#EXTINF:-1 group-title="24/7-streams",08:24 - NHL Network
+#EXTINF:-1 group-title="24/7-streams",08:59 - NHL Network
 https://ondemand.st/embed/?id=247-nhl-network-29780
 
-#EXTINF:-1 group-title="24/7-streams",08:24 - Fox League
+#EXTINF:-1 group-title="24/7-streams",08:59 - Fox League
 https://ondemand.st/embed/?id=247-247-fox-league
 
-#EXTINF:-1 group-title="24/7-streams",08:24 - South Park
+#EXTINF:-1 group-title="24/7-streams",08:59 - South Park
 https://ondemand.st/embed/?id=247-247-south-park
 
-#EXTINF:-1 group-title="24/7-streams",08:24 - Family Guy
+#EXTINF:-1 group-title="24/7-streams",08:59 - Family Guy
 https://ondemand.st/embed/?id=247-247-family-guy
 
-#EXTINF:-1 group-title="24/7-streams",08:24 - The Simpsons
+#EXTINF:-1 group-title="24/7-streams",08:59 - The Simpsons
 https://ondemand.st/embed/?id=247-247-the-simpsons
 
-#EXTINF:-1 group-title="24/7-streams",08:24 - Rally TV
+#EXTINF:-1 group-title="24/7-streams",08:59 - Rally TV
 https://ondemand.st/embed/?id=247-rally-tv
 
-#EXTINF:-1 group-title="24/7-streams",08:24 - Tennis Channel
+#EXTINF:-1 group-title="24/7-streams",08:59 - Tennis Channel
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F229d7c7755.m3u8&name=Tennis%20Channel
 
-#EXTINF:-1 group-title="24/7-streams",08:24 - Sky Sports Golf
+#EXTINF:-1 group-title="24/7-streams",08:59 - Sky Sports Golf
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9f5dca47df.m3u8&name=Sky%20Sports%20Golf

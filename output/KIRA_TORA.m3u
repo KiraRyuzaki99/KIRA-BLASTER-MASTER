@@ -1,41 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
-#EXTINF:-1 group-title="Football",12:30 - Sivasspor vs Bodrum
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fe3c05f3d87.m3u8&name=TRT%20Avaz%20Turkey
+#EXTINF:-1 group-title="Cricket",12:00 - Desert Vipers vs MI Emirates
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
 
-#EXTINF:-1 group-title="Football",12:30 - Bandırmaspor vs Batman Petrolspor
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fffa8cbfdc3.m3u8&name=TRT%20Spor%20Turkey
+#EXTINF:-1 group-title="Cricket",16:30 - Dubai Capitals vs Gulf Giants
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
 
-#EXTINF:-1 group-title="Football",12:45 - Lokomotiv Plovdiv vs Spartak Varna
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8683fa2a7c.m3u8&name=Diema%20Sport%20Bulgaria
+#EXTINF:-1 group-title="Cricket",16:30 - Dubai Capitals vs Gulf Giants
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3477a63c86.m3u8&name=TNT%20Sports%202%20UK
 
-#EXTINF:-1 group-title="Football",12:45 - Lokomotiv Plovdiv vs Spartak Varna
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fda637297b6.m3u8&name=Sportklub%204%20Croatia
+#EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
 
-#EXTINF:-1 group-title="Football",13:00 - AVS vs Leixões
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8f869aa89c.m3u8&name=Sport%20TV1%20Portugal
-
-#EXTINF:-1 group-title="Football",14:00 - Dynamo Dresden vs St. Pauli
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F353b0c5d0f.m3u8&name=Sky%20Sport%20Bundesliga%204
-
-#EXTINF:-1 group-title="Football",14:00 - Dynamo Dresden vs St. Pauli
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb964da3ec0.m3u8&name=%C5%A0TV%203%20Slovenia
-
-#EXTINF:-1 group-title="Football",14:00 - Hertha Berlin vs Karlsruher SC
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb10a885d31.m3u8&name=Sky%20Sport%20Bundesliga%203
-
-#EXTINF:-1 group-title="Football",14:00 - Hertha Berlin vs Karlsruher SC
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8f57c825d9.m3u8&name=Eleven%20Sports%201%20Poland
-
-#EXTINF:-1 group-title="Football",14:00 - Holstein Kiel vs Kaiserslautern
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff7f62356fd.m3u8&name=Sky%20Sport%20Bundesliga%205
-
-#EXTINF:-1 group-title="Football",14:00 - Holstein Kiel vs Kaiserslautern
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F7ec69e034e.m3u8&name=%C5%A0TV%201%20Slovenia
-
-#EXTINF:-1 group-title="Football",14:00 - Hillerød vs Vendsyssel
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fbb2138291b.m3u8&name=Server%201
+#EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8afdcdd622.m3u8&name=TNT%20Sports%201%20UK
 
 #EXTINF:-1 group-title="Football",14:00 - Otrant-Olympic vs Mornar
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f3e6622b5.m3u8&name=Arena%20Sport%209%20Serbia
@@ -44,25 +23,13 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb10a885d31.m3u8&name=Sky%20Sport%20Bundesliga%203
 
 #EXTINF:-1 group-title="Football",14:00 - Hertha vs Karlsruhe
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8f57c825d9.m3u8&name=Eleven%20Sports%201%20Poland
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff9e5b3bdd3.m3u8&name=%C5%A0TV%202%20Slovenia
 
 #EXTINF:-1 group-title="Football",14:00 - Rasisalai United vs Buriram United
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fcfed58664d.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",14:00 - Varberg vs Östersund
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F637f8fceed.m3u8&name=TV4%20Fotball
-
-#EXTINF:-1 group-title="Football",14:00 - Varberg vs Östersund
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F0d004609f2.m3u8&name=Server%201
-
-#EXTINF:-1 group-title="Football",14:15 - Al Hazem vs Al Nassr
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9312c6fb66.m3u8&name=Fox%20Sports%202%20USA
-
-#EXTINF:-1 group-title="Football",14:15 - Al Hazem vs Al Nassr
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3d4513c685.m3u8&name=Thmanyah
-
-#EXTINF:-1 group-title="Football",14:15 - Al Hazem vs Al Nassr
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd6626bcd55.m3u8&name=Movistar%20Liga%20de%20Campeones
 
 #EXTINF:-1 group-title="Football",14:30 - Blackburn Rovers vs Charlton Athletic
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F26e774fcd3.m3u8&name=Sky%20Sports%2B
@@ -73,9 +40,6 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F60
 #EXTINF:-1 group-title="Football",14:30 - Lincoln City vs Wolverhampton Wanderers
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb3c96e3b63.m3u8&name=V%20Sport%20Football
 
-#EXTINF:-1 group-title="Football",14:30 - Lincoln City vs Wolverhampton Wanderers
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F0f67b4c6cc.m3u8&name=Server%201
-
 #EXTINF:-1 group-title="Football",14:30 - Preston North End vs Norwich City
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3490f75e3e.m3u8&name=Sky%20Sport%20Football%20UK
 
@@ -85,53 +49,11 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4a
 #EXTINF:-1 group-title="Football",14:30 - Preston North End vs Norwich City
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F917a9616ea.m3u8&name=beIN%20Sports%20HD%206
 
-#EXTINF:-1 group-title="Football",14:30 - Milton Keynes Dons vs Notts County
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5f521ba5dc.m3u8&name=Sky%20Sports%2B
-
 #EXTINF:-1 group-title="Football",14:30 - Bristol Rovers vs Tranmere Rovers
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5e63747c64.m3u8&name=Sky%20Sports%2B
 
 #EXTINF:-1 group-title="Football",14:30 - Exeter City vs Crawley Town
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8527be8289.m3u8&name=Server%201
-
-#EXTINF:-1 group-title="Football",14:30 - Vasas vs Budapest Honvéd
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fc0834c98ff.m3u8&name=M4%20Sports%20Hungary
-
-#EXTINF:-1 group-title="Football",14:30 - Vasas vs Budapest Honvéd
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5fbc8762f3.m3u8&name=Server%201
-
-#EXTINF:-1 group-title="Football",14:30 - Voluntari vs CFR Cluj
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fe86506d263.m3u8&name=Server%201
-
-#EXTINF:-1 group-title="Football",14:30 - Woking vs Barrow
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9b6f52239b.m3u8&name=Server%201
-
-#EXTINF:-1 group-title="Football",14:30 - AFC Fylde vs Aldershot Town
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8c7489ff78.m3u8&name=Server%201
-
-#EXTINF:-1 group-title="Football",14:30 - Lamphun Warrior vs Chonburi
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F2235f0dc8f.m3u8&name=Server%201
-
-#EXTINF:-1 group-title="Football",14:30 - Ayia Napa vs PAEEK
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb135eb1659.m3u8&name=Cytavision%20Sports%201%20Cyprus
-
-#EXTINF:-1 group-title="Football",14:30 - Sloga Doboj vs Radnik Bijeljina
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4e9279ddc4.m3u8&name=Arena%20Sport%201P
-
-#EXTINF:-1 group-title="Football",14:30 - Sloga Doboj vs Radnik Bijeljina
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5441f35240.m3u8&name=Server%201
-
-#EXTINF:-1 group-title="Football",14:58 - Real Betis vs Rayo Vallecano
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F98916a4ffd.m3u8&name=ESPN%2B%20USA
-
-#EXTINF:-1 group-title="Football",14:58 - Real Betis vs Rayo Vallecano
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5ba39a95b5.m3u8&name=Viaplay%20Sports%201%20UK
-
-#EXTINF:-1 group-title="Football",14:58 - Real Betis vs Rayo Vallecano
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5a0eb3944e.m3u8&name=M%2B%20LALIGA%20TV
-
-#EXTINF:-1 group-title="Football",14:58 - Real Betis vs Rayo Vallecano
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4e3359f35c.m3u8&name=beIN%20Sports%20HD%205
 
 #EXTINF:-1 group-title="Football",15:00 - Young Africans vs MC Alger
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1495b0c94b.m3u8&name=5%20Stars%20Israel
@@ -139,71 +61,32 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F14
 #EXTINF:-1 group-title="Football",15:00 - Young Africans vs MC Alger
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F47254305f9.m3u8&name=beIN%20Sports%20HD%202
 
-#EXTINF:-1 group-title="Football",15:00 - Young Africans vs MC Alger
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fc17b7963e3.m3u8&name=beIN%20SPORTS%20XTRA
-
-#EXTINF:-1 group-title="Football",15:00 - Las Palmas vs FC Andorra
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd5575e3510.m3u8&name=LALIGA%20TV%20Hypermotion
-
-#EXTINF:-1 group-title="Football",15:00 - Zemun vs Radnički 1923
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb3dfcebed8.m3u8&name=Arena%20Sport%202%20Serbia
-
-#EXTINF:-1 group-title="Football",15:00 - Radnik Surdulica vs Vojvodina
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F2258b6ffa1.m3u8&name=Arena%20Sport%2010%20Serbia
-
-#EXTINF:-1 group-title="Football",15:00 - Radnik Surdulica vs Vojvodina
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd57e44e3ad.m3u8&name=Arena%202%20Premium%20Serbia
-
-#EXTINF:-1 group-title="Football",15:00 - Bnei Sakhnin vs Maccabi Haifa
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fab8098000b.m3u8&name=Sport%203%20Israel
-
-#EXTINF:-1 group-title="Football",15:00 - Würzburger Kickers vs Fortuna Düsseldorf
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F09ac381bfd.m3u8&name=Magenta%20Sport%20306
-
 #EXTINF:-1 group-title="Football",15:00 - Würzburger Kickers vs Fortuna Düsseldorf
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fda637297b6.m3u8&name=Sportklub%204%20Croatia
-
-#EXTINF:-1 group-title="Football",15:00 - Preußen Münster vs Verl
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb1ec718583.m3u8&name=Magenta%20Sport%20305
 
 #EXTINF:-1 group-title="Football",15:00 - Rot-Weiss Essen vs Hoffenheim II
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb50d6e58d4.m3u8&name=Magenta%20Sport%20302
 
-#EXTINF:-1 group-title="Football",15:00 - Saarbrücken vs Alemannia Aachen
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd2f0830880.m3u8&name=Magenta%20Sport%20303
+#EXTINF:-1 group-title="Football",15:00 - Real Betis vs Rayo Vallecano
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5ba39a95b5.m3u8&name=Viaplay%20Sports%201%20UK
 
-#EXTINF:-1 group-title="Football",15:00 - Waldhof Mannheim vs Stuttgart II
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F409ba10b0f.m3u8&name=Magenta%20Sport%20304
+#EXTINF:-1 group-title="Football",15:00 - Real Betis vs Rayo Vallecano
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5a0eb3944e.m3u8&name=M%2B%20LALIGA%20TV
 
-#EXTINF:-1 group-title="Football",15:00 - Al-Wakrah vs Al-Sadd
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8d81ac280f.m3u8&name=Alkass%20Five
+#EXTINF:-1 group-title="Football",15:00 - Real Betis vs Rayo Vallecano
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb8e5c6f84d.m3u8&name=ESPN%20Deportes
 
-#EXTINF:-1 group-title="Football",15:00 - Samsunspor vs Genclerbirligi
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F77badd3359.m3u8&name=beIN%20Sports%201%20Turkey
+#EXTINF:-1 group-title="Football",15:00 - Real Betis vs Rayo Vallecano
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4e3359f35c.m3u8&name=beIN%20Sports%20HD%205
+
+#EXTINF:-1 group-title="Football",15:00 - Zemun vs Radnički 1923
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb3dfcebed8.m3u8&name=Arena%20Sport%202%20Serbia
 
 #EXTINF:-1 group-title="Football",15:15 - Botev Vratsa vs Ludogorets Razgrad
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8683fa2a7c.m3u8&name=Diema%20Sport%20Bulgaria
 
 #EXTINF:-1 group-title="Football",15:30 - CSKA Moscow vs Zenit St Petersburg
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F72b2e9ded6.m3u8&name=Match%20Premier%20Russia
-
-#EXTINF:-1 group-title="Football",15:30 - CSKA Moscow vs Zenit St Petersburg
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fc413c56803.m3u8&name=Match%20TV%20Russia
-
-#EXTINF:-1 group-title="Football",15:30 - Chippa United vs Kaizer Chiefs
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F2a39136b28.m3u8&name=SuperSport%20PSL
-
-#EXTINF:-1 group-title="Football",15:30 - Chippa United vs Kaizer Chiefs
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F0fb93f75ae.m3u8&name=Server%201
-
-#EXTINF:-1 group-title="Football",15:30 - Giugliano vs Team Altamura
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F52efad77d4.m3u8&name=SKY%20Sport%20255%20Italia
-
-#EXTINF:-1 group-title="Football",15:30 - Novara vs Alcione Milano
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F44e8afa955.m3u8&name=SKY%20Sport%20256%20Italia
-
-#EXTINF:-1 group-title="Football",15:30 - Carpi vs Lecco
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fc7ab4aa63e.m3u8&name=SKY%20Sport%20254%20Italia
 
 #EXTINF:-1 group-title="Football",15:45 - Widzew Łódź vs Zagłębie Lubin
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F41808b2ae3.m3u8&name=Canal%2B%20Sport%203%20Poland
@@ -214,35 +97,8 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb7
 #EXTINF:-1 group-title="Football",16:00 - Ascoli vs Virtus Entella
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F578f7e9951.m3u8&name=DAZN%20Italia
 
-#EXTINF:-1 group-title="Football",16:00 - Carrarese vs Juve Stabia
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F08de142983.m3u8&name=DAZN%20Italia
-
 #EXTINF:-1 group-title="Football",16:00 - Empoli vs Hellas Verona
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F678f7303ae.m3u8&name=Fox%20Soccer%20Plus
-
-#EXTINF:-1 group-title="Football",16:00 - Empoli vs Hellas Verona
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fec920ef0b2.m3u8&name=DAZN%20Italia
-
-#EXTINF:-1 group-title="Football",16:00 - Lokomotiva Zagreb vs Slaven Belupo Koprivnica
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5f319702b7.m3u8&name=MAX%20Sport%201%20Croatia
-
-#EXTINF:-1 group-title="Football",16:00 - Bravo vs Aluminij
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3d62bce4e9.m3u8&name=SportKlub%201%20Slovenia
-
-#EXTINF:-1 group-title="Football",16:00 - Mladá Boleslav vs Sigma Olomouc
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fec916bda15.m3u8&name=Oneplay%20Sport%201%20CZ
-
-#EXTINF:-1 group-title="Football",16:00 - Teplice vs Slovan Liberec
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ffc7f2ffeec.m3u8&name=Oneplay%20Sport%203%20CZ
-
-#EXTINF:-1 group-title="Football",16:00 - Teplice vs Slovan Liberec
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F78e9aa66f6.m3u8&name=OnePlay%20MD2%20CZ
-
-#EXTINF:-1 group-title="Football",16:00 - Chaves vs Tondela
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fe3c05f3d87.m3u8&name=Sport%20TV%2B%20Portugal
-
-#EXTINF:-1 group-title="Football",16:00 - Al-Arabi Irbid vs Al-Faisaly Amman
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F59b807e4a5.m3u8&name=Jordan%20TV%20Sport
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fe358460ee4.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",16:00 - Frosinone vs Parma
 https://ondemand.st/embed/?id=mm-own-f0dc495ab2
@@ -256,6 +112,39 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fdd
 #EXTINF:-1 group-title="Football",16:00 - Frosinone vs Parma
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F702329d6bf.m3u8&name=ZONA%20DAZN%20Italy
 
+#EXTINF:-1 group-title="Football",16:00 - Lokomotiva Zagreb vs Slaven Belupo Koprivnica
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5f319702b7.m3u8&name=MAX%20Sport%201%20Croatia
+
+#EXTINF:-1 group-title="Football",16:00 - Lokomotiva Zagreb vs Slaven Belupo Koprivnica
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4e616c5a48.m3u8&name=Server%201
+
+#EXTINF:-1 group-title="Football",16:00 - Bravo vs Aluminij
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3d62bce4e9.m3u8&name=SportKlub%201%20Slovenia
+
+#EXTINF:-1 group-title="Football",16:00 - Bravo vs Aluminij
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3ea6a3ec8a.m3u8&name=Server%201
+
+#EXTINF:-1 group-title="Football",16:00 - Mladá Boleslav vs Sigma Olomouc
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fec916bda15.m3u8&name=Oneplay%20Sport%201%20CZ
+
+#EXTINF:-1 group-title="Football",16:00 - Mladá Boleslav vs Sigma Olomouc
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1b0fc30830.m3u8&name=Server%201
+
+#EXTINF:-1 group-title="Football",16:00 - Teplice vs Slovan Liberec
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ffc7f2ffeec.m3u8&name=Oneplay%20Sport%203%20CZ
+
+#EXTINF:-1 group-title="Football",16:00 - Teplice vs Slovan Liberec
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F78e9aa66f6.m3u8&name=OnePlay%20MD2%20CZ
+
+#EXTINF:-1 group-title="Football",16:00 - Teplice vs Slovan Liberec
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4c44dd2897.m3u8&name=Server%201
+
+#EXTINF:-1 group-title="Football",16:00 - Chaves vs Tondela
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fe3c05f3d87.m3u8&name=Sport%20TV%2B%20Portugal
+
+#EXTINF:-1 group-title="Football",16:00 - Al-Arabi Irbid vs Al-Faisaly Amman
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F59b807e4a5.m3u8&name=Jordan%20TV%20Sport
+
 #EXTINF:-1 group-title="Football",16:15 - Al Wasl vs Al Dhafra
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F040eb25460.m3u8&name=Abu%20Dhabi%20Sports%201
 
@@ -263,16 +152,7 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F04
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9312c6fb66.m3u8&name=Fox%20Sports%202%20USA
 
 #EXTINF:-1 group-title="Football",16:20 - Al Ettifaq vs Al Hilal
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fcc47ece79e.m3u8&name=Thmanyah
-
-#EXTINF:-1 group-title="Football",16:30 - Bruk-Bet Termalica Nieciecza vs Stal Rzeszów
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F0b664491ee.m3u8&name=TVP3%20Poland
-
-#EXTINF:-1 group-title="Football",16:30 - Köln vs Elversberg
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8cd946ac22.m3u8&name=DAZN%20CA
-
-#EXTINF:-1 group-title="Football",16:30 - Köln vs Elversberg
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F66465716c0.m3u8&name=Sky%20Sport%20Bundesliga%202
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb7c2124b85.m3u8&name=Sport%20TV2%20Portugal
 
 #EXTINF:-1 group-title="Football",16:30 - FC Cologne vs SV Elversberg
 https://ondemand.st/embed/?id=mm-own-93581ba7de
@@ -283,9 +163,6 @@ https://ondemand.st/embed/?id=bundesliga%2F2026-11-28%2Fkoe-elv_540p
 #EXTINF:-1 group-title="Football",16:30 - FC Cologne vs SV Elversberg
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fa4c6e785dd.m3u8&name=Sky%20Sport%20Bundesliga%201%20HD
 
-#EXTINF:-1 group-title="Football",16:30 - FC Cologne vs SV Elversberg
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fa510fa9360.m3u8&name=DAZN%201%20Bar%20DE
-
 #EXTINF:-1 group-title="Football",16:30 - Hamburg SV vs Bayern Munich
 https://ondemand.st/embed/?id=mm-own-ec0dc55773
 
@@ -293,10 +170,10 @@ https://ondemand.st/embed/?id=mm-own-ec0dc55773
 https://ondemand.st/embed/?id=bundesliga%2F2026-11-28%2Fhsv-bay_540p
 
 #EXTINF:-1 group-title="Football",16:30 - Hamburg SV vs Bayern Munich
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5f7cfad2c8.m3u8&name=DAZN%20CA
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fa4c6e785dd.m3u8&name=Sky%20Sport%20Bundesliga%201
 
 #EXTINF:-1 group-title="Football",16:30 - Hamburg SV vs Bayern Munich
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fa4c6e785dd.m3u8&name=Sky%20Sport%20Bundesliga%201
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F7ec69e034e.m3u8&name=%C5%A0TV%201%20Slovenia
 
 #EXTINF:-1 group-title="Football",16:30 - Hamburg SV vs Bayern Munich
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd187434677.m3u8&name=NBC%20Universo
@@ -308,10 +185,10 @@ https://ondemand.st/embed/?id=mm-own-e27519006d
 https://ondemand.st/embed/?id=bundesliga%2F2026-11-28%2Fm05-fcu_540p
 
 #EXTINF:-1 group-title="Football",16:30 - Mainz vs 1. FC Union Berlin
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F34bde6042b.m3u8&name=DAZN%20CA
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F353b0c5d0f.m3u8&name=Sky%20Sport%20Bundesliga%204
 
 #EXTINF:-1 group-title="Football",16:30 - Mainz vs 1. FC Union Berlin
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F353b0c5d0f.m3u8&name=Sky%20Sport%20Bundesliga%204
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb964da3ec0.m3u8&name=%C5%A0TV%203%20Slovenia
 
 #EXTINF:-1 group-title="Football",16:30 - SC Paderborn 07 vs Schalke 04
 https://ondemand.st/embed/?id=mm-own-da8ee158b1
@@ -320,37 +197,73 @@ https://ondemand.st/embed/?id=mm-own-da8ee158b1
 https://ondemand.st/embed/?id=bundesliga%2F2026-11-28%2Fscp-s04_540p
 
 #EXTINF:-1 group-title="Football",16:30 - SC Paderborn 07 vs Schalke 04
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4653d973b8.m3u8&name=DAZN%20CA
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb10a885d31.m3u8&name=Sky%20Sport%20Bundesliga%203
 
 #EXTINF:-1 group-title="Football",16:30 - SC Paderborn 07 vs Schalke 04
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb10a885d31.m3u8&name=Sky%20Sport%20Bundesliga%203
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff9e5b3bdd3.m3u8&name=%C5%A0TV%202%20Slovenia
+
+#EXTINF:-1 group-title="Football",16:30 - Bruk-Bet Termalica Nieciecza vs Stal Rzeszów
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F0b664491ee.m3u8&name=TVP3%20Poland
+
+#EXTINF:-1 group-title="Football",16:30 - Köln vs Elversberg
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8cd946ac22.m3u8&name=DAZN%20CA
+
+#EXTINF:-1 group-title="Football",16:30 - Köln vs Elversberg
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F66465716c0.m3u8&name=Sky%20Sport%20Bundesliga%202
 
 #EXTINF:-1 group-title="Football",17:00 - Aberdeen vs Dundee
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F10973e84ea.m3u8&name=SPFL%20Feed
 
+#EXTINF:-1 group-title="Football",17:00 - Aberdeen vs Dundee
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F03bbde03ac.m3u8&name=Server%201
+
 #EXTINF:-1 group-title="Football",17:00 - Dundee United vs St Johnstone
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fc428976e91.m3u8&name=SPFL%20Feed
+
+#EXTINF:-1 group-title="Football",17:00 - Dundee United vs St Johnstone
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F24e6656310.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",17:00 - Rangers vs Falkirk
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8d556e11f9.m3u8&name=SPFL%20Feed
 
+#EXTINF:-1 group-title="Football",17:00 - Rangers vs Falkirk
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F58469ec2c9.m3u8&name=Server%201
+
 #EXTINF:-1 group-title="Football",17:00 - St Mirren vs Kilmarnock
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F22ce3e277d.m3u8&name=SPFL%20Feed
+
+#EXTINF:-1 group-title="Football",17:00 - St Mirren vs Kilmarnock
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fe7dd4860c1.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",17:00 - KVC Westerlo vs RAAL La Louvière
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F49cfb18c08.m3u8&name=DAZN%20Belgium
 
+#EXTINF:-1 group-title="Football",17:00 - KVC Westerlo vs RAAL La Louvière
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fee8cab1ce0.m3u8&name=Server%201
+
 #EXTINF:-1 group-title="Football",17:00 - Bodo/Glimt vs KFUM Oslo
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff879bba2fd.m3u8&name=TV%202%20Sport%20Norway
 
+#EXTINF:-1 group-title="Football",17:00 - Bodo/Glimt vs KFUM Oslo
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F6f6dafb0b0.m3u8&name=Server%201
+
 #EXTINF:-1 group-title="Football",17:00 - Čukarički vs Mladost Lučani
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb3dfcebed8.m3u8&name=Arena%20Sport%202%20Serbia
+
+#EXTINF:-1 group-title="Football",17:00 - Čukarički vs Mladost Lučani
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4e3b7e4bfd.m3u8&name=Server%201
+
+#EXTINF:-1 group-title="Football",17:00 - Corvinul Hunedoara vs Farul Constanța
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4e1f6867a7.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",17:00 - Sabah Baku vs Araz-Naxçıvan
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F36d51eda59.m3u8&name=CBC%20Sport%20Azerbaijan
 
 #EXTINF:-1 group-title="Football",17:00 - Velež Mostar vs Željezničar Sarajevo
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff3e3cd6d69.m3u8&name=Arena%20Sport%208%20Croatia
+
+#EXTINF:-1 group-title="Football",17:00 - Velež Mostar vs Željezničar Sarajevo
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F999832f7c5.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",17:00 - Leeds United vs Coventry City
 https://ondemand.st/embed/?id=mm-own-abafb5407a
@@ -385,8 +298,20 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F57
 #EXTINF:-1 group-title="Football",17:00 - Birmingham City vs Bolton Wanderers
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3daaf72497.m3u8&name=Sky%20Sports%2B
 
+#EXTINF:-1 group-title="Football",17:00 - Birmingham City vs Bolton Wanderers
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fae078d100c.m3u8&name=Server%201
+
 #EXTINF:-1 group-title="Football",17:00 - Derby County vs Watford
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fe1060cf2fe.m3u8&name=Sky%20Sports%2B
+
+#EXTINF:-1 group-title="Football",17:00 - Derby County vs Watford
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F010432290a.m3u8&name=Server%201
+
+#EXTINF:-1 group-title="Football",17:00 - Millwall vs Burnley
+https://ondemand.st/embed/?id=mm-own-6e56d0a681
+
+#EXTINF:-1 group-title="Football",17:00 - Millwall vs Burnley
+https://ondemand.st/embed/?id=efl-championship%2F2026-11-28%2Fmil-bur_540p
 
 #EXTINF:-1 group-title="Football",17:00 - Millwall vs Burnley
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4f28c3f55c.m3u8&name=Sky%20Sports%2B
@@ -397,74 +322,161 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff9
 #EXTINF:-1 group-title="Football",17:00 - Queens Park Rangers vs Sheffield United
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F82b7ce3571.m3u8&name=Sky%20Sports%2B
 
+#EXTINF:-1 group-title="Football",17:00 - Queens Park Rangers vs Sheffield United
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fbd4ce0d4be.m3u8&name=Server%201
+
+#EXTINF:-1 group-title="Football",17:00 - West Bromwich Albion vs Bristol City
+https://ondemand.st/embed/?id=mm-own-518c1ddbf2
+
+#EXTINF:-1 group-title="Football",17:00 - West Bromwich Albion vs Bristol City
+https://ondemand.st/embed/?id=efl-championship%2F2026-11-28%2Fwba-brc_540p
+
 #EXTINF:-1 group-title="Football",17:00 - West Bromwich Albion vs Bristol City
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4ba7b52c03.m3u8&name=Sky%20Sports%2B
 
 #EXTINF:-1 group-title="Football",17:00 - West Bromwich Albion vs Bristol City
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f3e6622b5.m3u8&name=Arena%20Sport%209%20Serbia
 
+#EXTINF:-1 group-title="Football",17:00 - West Bromwich Albion vs Bristol City
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd7cdb0030b.m3u8&name=Server%201
+
+#EXTINF:-1 group-title="Football",17:00 - West Ham United vs Stoke City
+https://ondemand.st/embed/?id=mm-own-9025897239
+
+#EXTINF:-1 group-title="Football",17:00 - West Ham United vs Stoke City
+https://ondemand.st/embed/?id=efl-championship%2F2026-11-28%2Fwhu-stk_540p
+
 #EXTINF:-1 group-title="Football",17:00 - West Ham United vs Stoke City
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F531c5d5e36.m3u8&name=Sky%20Sports%2B
+
+#EXTINF:-1 group-title="Football",17:00 - West Ham United vs Stoke City
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F42a3f4f7e1.m3u8&name=Server%201
+
+#EXTINF:-1 group-title="Football",17:00 - Wrexham vs Portsmouth
+https://ondemand.st/embed/?id=mm-own-b861cd6a29
+
+#EXTINF:-1 group-title="Football",17:00 - Wrexham vs Portsmouth
+https://ondemand.st/embed/?id=efl-championship%2F2026-11-28%2Fwxm-por_540p
 
 #EXTINF:-1 group-title="Football",17:00 - Wrexham vs Portsmouth
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F7e4dc93360.m3u8&name=Sky%20Sports%2B
 
+#EXTINF:-1 group-title="Football",17:00 - Wrexham vs Portsmouth
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd1be2b79f4.m3u8&name=Server%201
+
 #EXTINF:-1 group-title="Football",17:00 - AFC Wimbledon vs Barnsley
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8f3af9374b.m3u8&name=Sky%20Sports%2B
+
+#EXTINF:-1 group-title="Football",17:00 - AFC Wimbledon vs Barnsley
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5311bcad74.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",17:00 - Bromley vs Burton Albion
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd15175c905.m3u8&name=Sky%20Sports%2B
 
+#EXTINF:-1 group-title="Football",17:00 - Bromley vs Burton Albion
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb1b001aa97.m3u8&name=Server%201
+
 #EXTINF:-1 group-title="Football",17:00 - Leicester City vs Mansfield Town
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb88948de88.m3u8&name=Sky%20Sports%2B
+
+#EXTINF:-1 group-title="Football",17:00 - Leicester City vs Mansfield Town
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4ddaed1697.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",17:00 - Luton Town vs Oxford United
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ffa485fdb14.m3u8&name=Sky%20Sports%2B
 
+#EXTINF:-1 group-title="Football",17:00 - Luton Town vs Oxford United
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F2135b139f1.m3u8&name=Server%201
+
 #EXTINF:-1 group-title="Football",17:00 - Sheffield Wednesday vs Reading
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8a4d525966.m3u8&name=Sky%20Sports%2B
+
+#EXTINF:-1 group-title="Football",17:00 - Sheffield Wednesday vs Reading
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4848cbff13.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",17:00 - Stevenage vs Blackpool
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fea07be2260.m3u8&name=Sky%20Sports%2B
 
+#EXTINF:-1 group-title="Football",17:00 - Stevenage vs Blackpool
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F84b0acab35.m3u8&name=Server%201
+
 #EXTINF:-1 group-title="Football",17:00 - Stockport County vs Leyton Orient
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb65dc55b30.m3u8&name=Sky%20Sports%2B
+
+#EXTINF:-1 group-title="Football",17:00 - Stockport County vs Leyton Orient
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fbe3e2a434f.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",17:00 - Wigan Athletic vs Plymouth Argyle
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb57a20ea2b.m3u8&name=Sky%20Sports%2B
 
+#EXTINF:-1 group-title="Football",17:00 - Wigan Athletic vs Plymouth Argyle
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd0b1fdee4f.m3u8&name=Server%201
+
 #EXTINF:-1 group-title="Football",17:00 - Wycombe Wanderers vs Bradford City
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F305ce4fc8a.m3u8&name=Sky%20Sports%2B
+
+#EXTINF:-1 group-title="Football",17:00 - Wycombe Wanderers vs Bradford City
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Faf564cb80d.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",17:00 - Colchester United vs York City
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fc00f719a12.m3u8&name=Sky%20Sports%2B
 
+#EXTINF:-1 group-title="Football",17:00 - Colchester United vs York City
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fec6b763d93.m3u8&name=Server%201
+
 #EXTINF:-1 group-title="Football",17:00 - Crewe Alexandra vs Grimsby Town
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff362f0723e.m3u8&name=Sky%20Sports%2B
+
+#EXTINF:-1 group-title="Football",17:00 - Crewe Alexandra vs Grimsby Town
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F94ad9141f0.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",17:00 - Fleetwood Town vs Accrington Stanley
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fabae669889.m3u8&name=Sky%20Sports%2B
 
+#EXTINF:-1 group-title="Football",17:00 - Fleetwood Town vs Accrington Stanley
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1de559604f.m3u8&name=Server%201
+
 #EXTINF:-1 group-title="Football",17:00 - Port Vale vs Newport County
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fc56f0f1dcf.m3u8&name=Sky%20Sports%2B
+
+#EXTINF:-1 group-title="Football",17:00 - Port Vale vs Newport County
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fefc5e30925.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",17:00 - Rochdale vs Barnet
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9ad47d699a.m3u8&name=Sky%20Sports%2B
 
+#EXTINF:-1 group-title="Football",17:00 - Rochdale vs Barnet
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F886e1beec6.m3u8&name=Server%201
+
 #EXTINF:-1 group-title="Football",17:00 - Rotherham United vs Oldham Athletic
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fe9b1c56073.m3u8&name=Sky%20Sports%2B
+
+#EXTINF:-1 group-title="Football",17:00 - Rotherham United vs Oldham Athletic
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F2ea8fc41ec.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",17:00 - Salford City vs Gillingham
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb0a9a792e2.m3u8&name=Sky%20Sports%2B
 
+#EXTINF:-1 group-title="Football",17:00 - Salford City vs Gillingham
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F68873e0660.m3u8&name=Server%201
+
 #EXTINF:-1 group-title="Football",17:00 - Shrewsbury Town vs Cheltenham Town
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F956ac159a2.m3u8&name=Sky%20Sports%2B
+
+#EXTINF:-1 group-title="Football",17:00 - Shrewsbury Town vs Cheltenham Town
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1a65ab9a28.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",17:00 - Swindon Town vs Chesterfield
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb3cb2010fa.m3u8&name=Sky%20Sports%2B
 
+#EXTINF:-1 group-title="Football",17:00 - Swindon Town vs Chesterfield
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F788a666eba.m3u8&name=Server%201
+
 #EXTINF:-1 group-title="Football",17:00 - Walsall vs Northampton Town
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fc588181022.m3u8&name=Sky%20Sports%2B
+
+#EXTINF:-1 group-title="Football",17:00 - Walsall vs Northampton Town
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8686ecb13d.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",17:00 - Volos NFC vs Asteras Tripoli
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8261cd6659.m3u8&name=MagentaSport%202%20League%20Greece
@@ -472,11 +484,14 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F82
 #EXTINF:-1 group-title="Football",17:00 - Volos NFC vs Asteras Tripoli
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1fd196bb33.m3u8&name=TV%20Greece
 
+#EXTINF:-1 group-title="Football",17:00 - Volos NFC vs Asteras Tripoli
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Faa34b9a933.m3u8&name=Server%201
+
 #EXTINF:-1 group-title="Football",17:00 - Iraklis vs Panetolikos
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fcf9f29ffb6.m3u8&name=TV%20Greece
 
-#EXTINF:-1 group-title="Football",17:15 - Albacete vs Tenerife
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd5575e3510.m3u8&name=LALIGA%20TV%20Hypermotion
+#EXTINF:-1 group-title="Football",17:00 - Iraklis vs Panetolikos
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F7085ceb3a7.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",17:15 - Eldense vs Girona
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3d4513c685.m3u8&name=LALIGA%20TV%20Hypermotion%202
@@ -538,9 +553,6 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F40
 #EXTINF:-1 group-title="Football",17:45 - Cherno More vs Botev Plovdiv
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8683fa2a7c.m3u8&name=Diema%20Sport%20Bulgaria
 
-#EXTINF:-1 group-title="Football",17:45 - MTK Budapest vs Újpest
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fc0834c98ff.m3u8&name=M4%20Sports%20Hungary
-
 #EXTINF:-1 group-title="Football",18:00 - Esperance Sportive de Tunis vs Wiliete SC
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F16b0e743ba.m3u8&name=beIN%20Sports%20HD%204
 
@@ -556,17 +568,11 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F38
 #EXTINF:-1 group-title="Football",18:00 - Zamalek vs Club Africain
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F47254305f9.m3u8&name=beIN%20Sports%20HD%202
 
-#EXTINF:-1 group-title="Football",18:00 - Zamalek vs Club Africain
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fc17b7963e3.m3u8&name=beIN%20SPORTS%20XTRA
-
 #EXTINF:-1 group-title="Football",18:00 - Austria Vienna vs Wolfsberger
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fe2d6b45cd1.m3u8&name=Sky%20Sport%20Austria%201
 
 #EXTINF:-1 group-title="Football",18:00 - FC Baltika Kaliningrad vs Akhmat Grozny
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F72b2e9ded6.m3u8&name=Match%20Premier%20Russia
-
-#EXTINF:-1 group-title="Football",18:00 - Kruger United vs Mamelodi Sundowns
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F2a39136b28.m3u8&name=SuperSport%20PSL
 
 #EXTINF:-1 group-title="Football",18:00 - Hapoel Haifa vs Ironi Tiberias
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F7d072bd4ba.m3u8&name=5%20Live%20Israel
@@ -586,8 +592,8 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff3
 #EXTINF:-1 group-title="Football",18:00 - Gaziantep FK vs Amed SFK
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F77badd3359.m3u8&name=beIN%20Sports%201%20Turkey
 
-#EXTINF:-1 group-title="Football",18:15 - Vicenza vs Cesena
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F98916a4ffd.m3u8&name=DAZN%20Italia
+#EXTINF:-1 group-title="Football",18:00 - Kruger United vs Mamelodi Sundowns
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F2a39136b28.m3u8&name=SuperSport%20PSL
 
 #EXTINF:-1 group-title="Football",18:15 - Angers vs Lens
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd43268eb45.m3u8&name=beIN%20SPORTS%20USA
@@ -598,8 +604,8 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fc3
 #EXTINF:-1 group-title="Football",18:15 - Angers vs Lens
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F28e67da889.m3u8&name=beIN%20SPORTS%20en%20Espa%C3%B1ol
 
-#EXTINF:-1 group-title="Football",18:15 - Angers vs Lens
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fc17b7963e3.m3u8&name=beIN%20SPORTS%20XTRA
+#EXTINF:-1 group-title="Football",18:15 - Vicenza vs Cesena
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F98916a4ffd.m3u8&name=DAZN%20Italia
 
 #EXTINF:-1 group-title="Football",18:30 - Śląsk Wrocław vs GKS Katowice
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F41808b2ae3.m3u8&name=Canal%2B%20Sport%203%20Poland
@@ -667,14 +673,8 @@ https://ondemand.st/embed/?id=m401933737
 #EXTINF:-1 group-title="Football",19:30 - Charlotte FC vs Chicago Fire FC
 https://ondemand.st/embed/?id=mls%2F2026-11-28%2Fclt-chi_540p
 
-#EXTINF:-1 group-title="Football",19:30 - Eibar vs Burgos
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd5575e3510.m3u8&name=LALIGA%20TV%20Hypermotion
-
 #EXTINF:-1 group-title="Football",19:30 - Široki Brijeg vs Zrinjski Mostar
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F2fa9e5e931.m3u8&name=Arena%20Sport%203%20Croatia
-
-#EXTINF:-1 group-title="Football",19:30 - Široki Brijeg vs Zrinjski Mostar
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4e9279ddc4.m3u8&name=Arena%20Sport%201P
 
 #EXTINF:-1 group-title="Football",19:30 - Ipswich Town vs Aston Villa
 https://ondemand.st/embed/?id=mm-own-ace5fc2ef3
@@ -734,7 +734,10 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd6
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5ba39a95b5.m3u8&name=Viaplay%20Sports%201%20UK
 
 #EXTINF:-1 group-title="Football",19:45 - Motherwell vs Hibernian
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F85d2e488b7.m3u8&name=Premier%20Sports%201%20Ireland
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb964da3ec0.m3u8&name=%C5%A0TV%203%20Slovenia
+
+#EXTINF:-1 group-title="Football",19:45 - Motherwell vs Hibernian
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8fa8e7b20c.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",19:45 - PSV Eindhoven vs Go Ahead Eagles
 https://ondemand.st/embed/?id=mm-own-ec78a00277
@@ -746,7 +749,7 @@ https://ondemand.st/embed/?id=eredivisie%2F2026-11-28%2Fpsv-gae_540p
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F176d6d52c2.m3u8&name=ESPN%201%20NL
 
 #EXTINF:-1 group-title="Football",19:45 - PSV Eindhoven vs Go Ahead Eagles
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fdce2e75902.m3u8&name=Nova%20Sports%202%20Greece
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3a3e331568.m3u8&name=Arena%20Sport%203%20Serbia
 
 #EXTINF:-1 group-title="Football",20:00 - Académico de Viseu vs Alverca
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8f869aa89c.m3u8&name=Sport%20TV1%20Portugal
@@ -759,9 +762,6 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fcc
 
 #EXTINF:-1 group-title="Football",20:00 - Kifisia vs Kalamata
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4b2fd7e5f9.m3u8&name=Cytavision%20Sports%207%20Cyprus
-
-#EXTINF:-1 group-title="Football",20:15 - Kisvárda vs Nyíregyháza
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fc0834c98ff.m3u8&name=M4%20Sports%20Hungary
 
 #EXTINF:-1 group-title="Football",20:30 - Palermo vs Benevento
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F0a9a0f051d.m3u8&name=DAZN%20Italia
@@ -836,7 +836,7 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff5
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F44e8afa955.m3u8&name=Ligue1%2B%204%20France
 
 #EXTINF:-1 group-title="Football",21:45 - Le Mans vs Lille
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ffdee9ee512.m3u8&name=Arena%20Sport%201%20Serbia
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fdea971df2b.m3u8&name=Eleven%20Sports%204%20Poland
 
 #EXTINF:-1 group-title="Football",21:45 - Le Mans vs Lille
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4e3359f35c.m3u8&name=beIN%20Sports%20HD%205
@@ -864,9 +864,6 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F38
 
 #EXTINF:-1 group-title="Football",22:00 - Palmeiras vs Estudiantes de La Plata
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3023c0b0e6.m3u8&name=ESPN%20SUR
-
-#EXTINF:-1 group-title="Football",22:00 - Real Valladolid vs Real Sociedad II
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd5575e3510.m3u8&name=LALIGA%20TV%20Hypermotion
 
 #EXTINF:-1 group-title="Football",22:00 - Real Madrid vs Alavés
 https://ondemand.st/embed/?id=mm-own-a9fcbc5941
@@ -912,36 +909,6 @@ https://ondemand.st/embed/?id=m401933723
 
 #EXTINF:-1 group-title="Football",23:30 - Philadelphia Union vs New England Revolution
 https://ondemand.st/embed/?id=mls%2F2026-11-28%2Fphi-ne_540p
-
-#EXTINF:-1 group-title="Cricket",12:00 - Desert Vipers vs MI Emirates
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
-
-#EXTINF:-1 group-title="Cricket",16:30 - Dubai Capitals vs Gulf Giants
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
-
-#EXTINF:-1 group-title="Cricket",16:30 - Dubai Capitals vs Gulf Giants
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3477a63c86.m3u8&name=TNT%20Sports%202%20UK
-
-#EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
-
-#EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8afdcdd622.m3u8&name=TNT%20Sports%201%20UK
-
-#EXTINF:-1 group-title="Motor-sports",13:45 - Moto3 : Round 22
-https://ondemand.st/player/hls/?v=540&url=%2Fc%2F3477a63c86.m3u8&name=TNT%20Sports%202%20UK
-
-#EXTINF:-1 group-title="Motor-sports",13:45 - Moto3 : Round 22
-https://ondemand.st/player/hls/?v=540&url=%2Fc%2F075debc188.m3u8&name=Sky%20Sport%20MotoGP%20Italy
-
-#EXTINF:-1 group-title="Motor-sports",13:45 - Moto3 : Round 22
-https://ondemand.st/player/hls/?v=540&url=%2Fc%2F87c190704e.m3u8&name=CANAL%2B%20MotoGP%20France
-
-#EXTINF:-1 group-title="Motor-sports",13:45 - Moto3 : Round 22
-https://ondemand.st/player/hls/?v=540&url=%2Fc%2F959f9e7d1d.m3u8&name=Sky%20Sport%20Mix%20DE
-
-#EXTINF:-1 group-title="Motor-sports",13:45 - Moto3 : Round 22
-https://ondemand.st/player/hls/?v=540&url=%2Fc%2F92af2bf671.m3u8&name=Sky%20Sport%20Top%20Event%20DE
 
 #EXTINF:-1 group-title="Motor-sports",14:50 - Moto2 : Round 22
 https://ondemand.st/player/hls/?v=540&url=%2Fc%2F3477a63c86.m3u8&name=TNT%20Sports%202%20UK
@@ -1030,13 +997,13 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fc7
 #EXTINF:-1 group-title="Darts",15:00 - PDC Darts Ladbrokes Players Championship Finals Day 2
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F313936da1d.m3u8&name=Sky%20Sport%205%20NZ
 
-#EXTINF:-1 group-title="Snooker",15:15 - World Snooker Snooker: UK Championship, Round 1, Day1
+#EXTINF:-1 group-title="Snooker",15:15 - World Snooker Snooker: UK Championship, Round 1, Day 1
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F33647c274d.m3u8&name=BBC%20One%20UK
 
-#EXTINF:-1 group-title="Snooker",15:15 - World Snooker Snooker: UK Championship, Round 1, Day1
+#EXTINF:-1 group-title="Snooker",15:15 - World Snooker Snooker: UK Championship, Round 1, Day 1
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F08ba71acd4.m3u8&name=Sky%20Sport%204%20NZ
 
-#EXTINF:-1 group-title="Snooker",15:15 - World Snooker Snooker: UK Championship, Round 1, Day1
+#EXTINF:-1 group-title="Snooker",15:15 - World Snooker Snooker: UK Championship, Round 1, Day 1
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8afdcdd622.m3u8&name=TNT%20Sports%201%20UK
 
 #EXTINF:-1 group-title="Rugby",15:30 - Union Bordeaux Bègles vs Montpellier Hérault Rugby
@@ -1101,9 +1068,6 @@ https://ondemand.st/embed/?id=m401858314
 
 #EXTINF:-1 group-title="American-football",19:00 - Syracuse Orange vs Notre Dame Fighting Irish
 https://ondemand.st/embed/?id=cfb%2F2026-11-28%2Fnd-syr_540p
-
-#EXTINF:-1 group-title="American-football",19:00 - Syracuse Orange vs Notre Dame Fighting Irish
-https://ondemand.st/embed/?id=cfb%2F2026-11-28%2Fnd-syr%2Fskycast_540p
 
 #EXTINF:-1 group-title="American-football",19:00 - Syracuse Orange vs Notre Dame Fighting Irish
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fa3b8955efe.m3u8&name=TSN3
@@ -1247,9 +1211,6 @@ https://ondemand.st/embed/?id=m401858312
 https://ondemand.st/embed/?id=cfb%2F2026-11-28%2Fduke-wake_540p
 
 #EXTINF:-1 group-title="American-football",22:30 - Wake Forest Demon Deacons vs Duke Blue Devils
-https://ondemand.st/embed/?id=cfb%2F2026-11-28%2Fduke-wake%2Fskycast_540p
-
-#EXTINF:-1 group-title="American-football",22:30 - Wake Forest Demon Deacons vs Duke Blue Devils
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fe9c0ee8ab4.m3u8&name=TSN4
 
 #EXTINF:-1 group-title="American-football",22:30 - Wake Forest Demon Deacons vs Duke Blue Devils
@@ -1295,10 +1256,10 @@ https://ondemand.st/embed/?id=cfb%2F2026-11-28%2Fou-miz_540p
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4c830cb083.m3u8&name=Big%20Ten%20Network%20USA
 
 #EXTINF:-1 group-title="Fight",20:00 - Boxing Agit Kabayel vs Nelson Hysa
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F5f521ba5dc.m3u8&name=DAZN%20PPV
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F044e1c9c49.m3u8&name=DAZN2%20Spain
 
 #EXTINF:-1 group-title="Fight",20:00 - Boxing Agit Kabayel vs Nelson Hysa
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F044e1c9c49.m3u8&name=DAZN2%20Spain
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9e7f9f0ab4.m3u8&name=DAZN%20PPV
 
 #EXTINF:-1 group-title="Handball",20:00 - Rhein-Neckar Löwen vs SG BBM Bietigheim
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fbe5e856ead.m3u8&name=DYN%20Germany
@@ -1330,41 +1291,41 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F6d
 #EXTINF:-1 group-title="Hockey",00:05 - Holy Cross Crusaders vs Air Force Falcons
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F7891d3533f.m3u8&name=NESN%20USA
 
-#EXTINF:-1 group-title="24/7-streams",14:59 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",16:59 - NFL Network
 https://ondemand.st/embed/?id=247-nfl-network
 
-#EXTINF:-1 group-title="24/7-streams",14:59 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",16:59 - NFL Network
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1ac9bf5091.m3u8&name=NFL%20RedZone
 
-#EXTINF:-1 group-title="24/7-streams",14:59 - Fox Footy
+#EXTINF:-1 group-title="24/7-streams",16:59 - Fox Footy
 https://ondemand.st/embed/?id=247-247-fox-footy
 
-#EXTINF:-1 group-title="24/7-streams",14:59 - Willow
+#EXTINF:-1 group-title="24/7-streams",16:59 - Willow
 https://ondemand.st/embed/?id=247-247-willow
 
-#EXTINF:-1 group-title="24/7-streams",14:59 - Fox Cricket
+#EXTINF:-1 group-title="24/7-streams",16:59 - Fox Cricket
 https://ondemand.st/embed/?id=247-247-fox-cricket
 
-#EXTINF:-1 group-title="24/7-streams",14:59 - NHL Network
+#EXTINF:-1 group-title="24/7-streams",16:59 - NHL Network
 https://ondemand.st/embed/?id=247-nhl-network-29780
 
-#EXTINF:-1 group-title="24/7-streams",14:59 - Fox League
+#EXTINF:-1 group-title="24/7-streams",16:59 - Fox League
 https://ondemand.st/embed/?id=247-247-fox-league
 
-#EXTINF:-1 group-title="24/7-streams",14:59 - South Park
+#EXTINF:-1 group-title="24/7-streams",16:59 - South Park
 https://ondemand.st/embed/?id=247-247-south-park
 
-#EXTINF:-1 group-title="24/7-streams",14:59 - Family Guy
+#EXTINF:-1 group-title="24/7-streams",16:59 - Family Guy
 https://ondemand.st/embed/?id=247-247-family-guy
 
-#EXTINF:-1 group-title="24/7-streams",14:59 - The Simpsons
+#EXTINF:-1 group-title="24/7-streams",16:59 - The Simpsons
 https://ondemand.st/embed/?id=247-247-the-simpsons
 
-#EXTINF:-1 group-title="24/7-streams",14:59 - Rally TV
+#EXTINF:-1 group-title="24/7-streams",16:59 - Rally TV
 https://ondemand.st/embed/?id=247-rally-tv
 
-#EXTINF:-1 group-title="24/7-streams",14:59 - Tennis Channel
+#EXTINF:-1 group-title="24/7-streams",16:59 - Tennis Channel
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F229d7c7755.m3u8&name=Tennis%20Channel
 
-#EXTINF:-1 group-title="24/7-streams",14:59 - Sky Sports Golf
+#EXTINF:-1 group-title="24/7-streams",16:59 - Sky Sports Golf
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9f5dca47df.m3u8&name=Sky%20Sports%20Golf

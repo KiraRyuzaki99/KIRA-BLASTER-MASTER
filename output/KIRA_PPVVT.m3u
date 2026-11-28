@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",KIRA PPVTV - Playlist
 
-#EXTINF:-1 group-title="Basketball – NBA",Oggi 00:00 - Miami Heat vs. New York Knicks [HD | Prime Video]
-https://august.ppvtv.icu/embed.html?match=f1ohzae9&server=0
-
-#EXTINF:-1 group-title="Basketball – NBA",Oggi 00:00 - Miami Heat vs. New York Knicks [SD | Prime Video]
-https://august.ppvtv.icu/embed.html?match=f1ohzae9&server=1
-
 #EXTINF:-1 group-title="American Football – College Football",Oggi 00:30 - Texas Longhorns at Texas A&M Aggies [HD | ABC]
 https://august.ppvtv.icu/embed.html?match=c9i776v&server=0
 
@@ -1059,21 +1053,3 @@ https://august.ppvtv.icu/embed.html?match=c99hmv1&server=0
 
 #EXTINF:-1 group-title="American Football – NFL",Domani 21:25 - Seattle Seahawks at San Francisco 49ers [SD | Fox]
 https://august.ppvtv.icu/embed.html?match=c99hmv1&server=1
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Passato 22:30 - New York Rangers vs. Chicago Blackhawks [HD | TNT]
-https://august.ppvtv.icu/embed.html?match=fsmb02b&server=0
-
-#EXTINF:-1 group-title="Ice Hockey – NHL",Passato 22:30 - New York Rangers vs. Chicago Blackhawks [SD | TNT]
-https://august.ppvtv.icu/embed.html?match=fsmb02b&server=1
-
-#EXTINF:-1 group-title="Basketball – College Basketball",Passato 23:00 - Western Kentucky Hilltoppers at Illinois Fighting Illini [HD | FS1]
-https://august.ppvtv.icu/embed.html?match=cv3qrir&server=0
-
-#EXTINF:-1 group-title="Basketball – College Basketball",Passato 23:00 - Western Kentucky Hilltoppers at Illinois Fighting Illini [SD | FS1]
-https://august.ppvtv.icu/embed.html?match=cv3qrir&server=1
-
-#EXTINF:-1 group-title="Basketball – College Basketball",Passato 23:00 - Bowling Green Falcons at Indiana Hoosiers [HD | BTN]
-https://august.ppvtv.icu/embed.html?match=chy173g&server=0
-
-#EXTINF:-1 group-title="Basketball – College Basketball",Passato 23:00 - Bowling Green Falcons at Indiana Hoosiers [SD | BTN]
-https://august.ppvtv.icu/embed.html?match=chy173g&server=1

@@ -2,16 +2,13 @@
 #EXTINF:-1 tvg-logo="",KIRA Sportora - Playlist
 
 #EXTINF:-1 group-title="Football",10:40 - Central Coast Mariners FC vs Auckland FC
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff3c06b44b0.m3u8&name=TNT%20Sports%203%20UK
+https://ondemand.st/player/hls/?v=540&url=%2Fc%2Ff3c06b44b0.m3u8&name=TNT%20Sports%203%20UK
 
 #EXTINF:-1 group-title="Football",10:40 - Central Coast Mariners FC vs Auckland FC
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F11f7be7b85.m3u8&name=Sky%20Sport%201%20NZ
+https://ondemand.st/player/hls/?v=540&url=%2Fc%2F11f7be7b85.m3u8&name=Sky%20Sport%201%20NZ
 
 #EXTINF:-1 group-title="Football",10:40 - Central Coast Mariners FC vs Auckland FC
 https://ondemand.st/player/hls/?v=540&url=%2Fc%2F50140755e1.m3u8&name=Sportdigital%20FUSSBALL
-
-#EXTINF:-1 group-title="Football",12:00 - Știința Poli Timișoara vs Bihor Oradea
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ffc6b7532a9.m3u8&name=Digi%20Sport%201%20Romania
 
 #EXTINF:-1 group-title="Football",12:00 - Știința Poli Timișoara vs Bihor Oradea
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fab8d608b66.m3u8&name=Prima%20Sport%201%20Romania
@@ -19,8 +16,14 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fab
 #EXTINF:-1 group-title="Football",12:30 - Sivasspor vs Bodrum
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fe3c05f3d87.m3u8&name=TRT%20Avaz%20Turkey
 
+#EXTINF:-1 group-title="Football",12:30 - Sivasspor vs Bodrum
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F788a666eba.m3u8&name=Server%201
+
 #EXTINF:-1 group-title="Football",12:30 - Bandırmaspor vs Batman Petrolspor
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fffa8cbfdc3.m3u8&name=TRT%20Spor%20Turkey
+
+#EXTINF:-1 group-title="Football",12:30 - Bandırmaspor vs Batman Petrolspor
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1a65ab9a28.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",12:45 - Lokomotiv Plovdiv vs Spartak Varna
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8683fa2a7c.m3u8&name=Diema%20Sport%20Bulgaria
@@ -28,11 +31,17 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F86
 #EXTINF:-1 group-title="Football",12:45 - Lokomotiv Plovdiv vs Spartak Varna
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fda637297b6.m3u8&name=Sportklub%204%20Croatia
 
+#EXTINF:-1 group-title="Football",12:45 - Lokomotiv Plovdiv vs Spartak Varna
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F68873e0660.m3u8&name=Server%201
+
 #EXTINF:-1 group-title="Football",13:00 - Rubin Kazan vs Akron Tolyatti
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F72b2e9ded6.m3u8&name=Match%20Premier%20Russia
 
 #EXTINF:-1 group-title="Football",13:00 - Rubin Kazan vs Akron Tolyatti
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3a3e331568.m3u8&name=Arena%20Sport%203%20Serbia
+
+#EXTINF:-1 group-title="Football",13:00 - Rubin Kazan vs Akron Tolyatti
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F2ea8fc41ec.m3u8&name=Server%201
 
 #EXTINF:-1 group-title="Football",13:00 - Dynamo Kyiv vs Chornomorets Odesa
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F59b807e4a5.m3u8&name=2%2B2%20Ukraine
@@ -84,9 +93,6 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd6
 
 #EXTINF:-1 group-title="Football",14:30 - Vasas vs Budapest Honvéd
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fc0834c98ff.m3u8&name=M4%20Sports%20Hungary
-
-#EXTINF:-1 group-title="Football",14:30 - Voluntari vs CFR Cluj
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ffc6b7532a9.m3u8&name=Digi%20Sport%201%20Romania
 
 #EXTINF:-1 group-title="Football",14:30 - Voluntari vs CFR Cluj
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fab8d608b66.m3u8&name=Prima%20Sport%201%20Romania
@@ -354,9 +360,6 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ff8
 
 #EXTINF:-1 group-title="Football",17:00 - Čukarički vs Mladost Lučani
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fb3dfcebed8.m3u8&name=Arena%20Sport%202%20Serbia
-
-#EXTINF:-1 group-title="Football",17:00 - Corvinul Hunedoara vs Farul Constanța
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ffc6b7532a9.m3u8&name=Digi%20Sport%201%20Romania
 
 #EXTINF:-1 group-title="Football",17:00 - Corvinul Hunedoara vs Farul Constanța
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fab8d608b66.m3u8&name=Prima%20Sport%201%20Romania
@@ -779,9 +782,6 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3a
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F48ee24a049.m3u8&name=Sport%204%20Israel
 
 #EXTINF:-1 group-title="Football",20:00 - FCSB vs Csíkszereda Miercurea Ciuc
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Ffc6b7532a9.m3u8&name=Digi%20Sport%201%20Romania
-
-#EXTINF:-1 group-title="Football",20:00 - FCSB vs Csíkszereda Miercurea Ciuc
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fab8d608b66.m3u8&name=Prima%20Sport%201%20Romania
 
 #EXTINF:-1 group-title="Football",20:00 - Académico de Viseu vs Alverca
@@ -976,49 +976,73 @@ https://ondemand.st/embed/?id=m401933723
 #EXTINF:-1 group-title="Football",23:30 - Philadelphia Union vs New England Revolution
 https://ondemand.st/embed/?id=mls%2F2026-11-28%2Fphi-ne_540p
 
-#EXTINF:-1 group-title="Motor-sports",09:30 - Moto3 : Round 22
+#EXTINF:-1 group-title="Cricket",10:10 - Sydney Thunder Women vs Sydney Sixers Women
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F91a93f700c.m3u8&name=Willow%202%20Cricket
+
+#EXTINF:-1 group-title="Cricket",10:10 - Sydney Thunder Women vs Sydney Sixers Women
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9bec686fd0.m3u8&name=Sky%20Sports%20Cricket%20UK
+
+#EXTINF:-1 group-title="Cricket",12:00 - Desert Vipers vs MI Emirates
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
+
+#EXTINF:-1 group-title="Cricket",12:00 - Desert Vipers vs MI Emirates
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd4a4fa01bf.m3u8&name=TNT%20Sports%204%20UK
+
+#EXTINF:-1 group-title="Cricket",16:30 - Dubai Capitals vs Gulf Giants
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
+
+#EXTINF:-1 group-title="Cricket",16:30 - Dubai Capitals vs Gulf Giants
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3477a63c86.m3u8&name=TNT%20Sports%202%20UK
+
+#EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
+
+#EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8afdcdd622.m3u8&name=TNT%20Sports%201%20UK
+
+#EXTINF:-1 group-title="Motor-sports",10:20 - Moto2 : Round 22
 https://ondemand.st/player/hls/?v=540&url=%2Fc%2F3477a63c86.m3u8&name=TNT%20Sports%202%20UK
 
-#EXTINF:-1 group-title="Motor-sports",09:30 - Moto3 : Round 22
+#EXTINF:-1 group-title="Motor-sports",10:20 - Moto2 : Round 22
 https://ondemand.st/player/hls/?v=540&url=%2Fc%2F075debc188.m3u8&name=Sky%20Sport%20MotoGP%20Italy
 
-#EXTINF:-1 group-title="Motor-sports",09:30 - Moto3 : Round 22
+#EXTINF:-1 group-title="Motor-sports",10:20 - Moto2 : Round 22
 https://ondemand.st/player/hls/?v=540&url=%2Fc%2F87c190704e.m3u8&name=CANAL%2B%20MotoGP%20France
 
-#EXTINF:-1 group-title="Motor-sports",09:30 - Moto3 : Round 22
+#EXTINF:-1 group-title="Motor-sports",10:20 - Moto2 : Round 22
 https://ondemand.st/player/hls/?v=540&url=%2Fc%2F959f9e7d1d.m3u8&name=Sky%20Sport%20Mix%20DE
 
-#EXTINF:-1 group-title="Motor-sports",09:30 - Moto3 : Round 22
+#EXTINF:-1 group-title="Motor-sports",10:20 - Moto2 : Round 22
 https://ondemand.st/player/hls/?v=540&url=%2Fc%2F92af2bf671.m3u8&name=Sky%20Sport%20Top%20Event%20DE
 
-#EXTINF:-1 group-title="Motor-sports",10:20 - Moto2 : Round 22
+#EXTINF:-1 group-title="Motor-sports",13:45 - Moto3 : Round 22
 https://ondemand.st/player/hls/?v=540&url=%2Fc%2F3477a63c86.m3u8&name=TNT%20Sports%202%20UK
 
-#EXTINF:-1 group-title="Motor-sports",10:20 - Moto2 : Round 22
+#EXTINF:-1 group-title="Motor-sports",13:45 - Moto3 : Round 22
 https://ondemand.st/player/hls/?v=540&url=%2Fc%2F075debc188.m3u8&name=Sky%20Sport%20MotoGP%20Italy
 
-#EXTINF:-1 group-title="Motor-sports",10:20 - Moto2 : Round 22
+#EXTINF:-1 group-title="Motor-sports",13:45 - Moto3 : Round 22
 https://ondemand.st/player/hls/?v=540&url=%2Fc%2F87c190704e.m3u8&name=CANAL%2B%20MotoGP%20France
 
-#EXTINF:-1 group-title="Motor-sports",10:20 - Moto2 : Round 22
+#EXTINF:-1 group-title="Motor-sports",13:45 - Moto3 : Round 22
 https://ondemand.st/player/hls/?v=540&url=%2Fc%2F959f9e7d1d.m3u8&name=Sky%20Sport%20Mix%20DE
 
-#EXTINF:-1 group-title="Motor-sports",10:20 - Moto2 : Round 22
+#EXTINF:-1 group-title="Motor-sports",13:45 - Moto3 : Round 22
 https://ondemand.st/player/hls/?v=540&url=%2Fc%2F92af2bf671.m3u8&name=Sky%20Sport%20Top%20Event%20DE
 
-#EXTINF:-1 group-title="Motor-sports",11:00 - MotoGP : Round 22
+#EXTINF:-1 group-title="Motor-sports",15:45 - MotoGP : Round 22
 https://ondemand.st/player/hls/?v=540&url=%2Fc%2F3477a63c86.m3u8&name=TNT%20Sports%202%20UK
 
-#EXTINF:-1 group-title="Motor-sports",11:00 - MotoGP : Round 22
+#EXTINF:-1 group-title="Motor-sports",15:45 - MotoGP : Round 22
 https://ondemand.st/player/hls/?v=540&url=%2Fc%2F075debc188.m3u8&name=Sky%20Sport%20MotoGP%20Italy
 
-#EXTINF:-1 group-title="Motor-sports",11:00 - MotoGP : Round 22
+#EXTINF:-1 group-title="Motor-sports",15:45 - MotoGP : Round 22
 https://ondemand.st/player/hls/?v=540&url=%2Fc%2F87c190704e.m3u8&name=CANAL%2B%20MotoGP%20France
 
-#EXTINF:-1 group-title="Motor-sports",11:00 - MotoGP : Round 22
+#EXTINF:-1 group-title="Motor-sports",15:45 - MotoGP : Round 22
 https://ondemand.st/player/hls/?v=540&url=%2Fc%2F959f9e7d1d.m3u8&name=Sky%20Sport%20Mix%20DE
 
-#EXTINF:-1 group-title="Motor-sports",11:00 - MotoGP : Round 22
+#EXTINF:-1 group-title="Motor-sports",15:45 - MotoGP : Round 22
 https://ondemand.st/player/hls/?v=540&url=%2Fc%2F92af2bf671.m3u8&name=Sky%20Sport%20Top%20Event%20DE
 
 #EXTINF:-1 group-title="Motor-sports",16:30 - Qatar Grand Prix - Practice 3
@@ -1069,39 +1093,6 @@ https://ondemand.st/embed/?id=qatar-grand-prix---qualifying-32992_540p
 #EXTINF:-1 group-title="Motor-sports",00:40 - Supercars: Sunday Supports
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F87cad238ba.m3u8&name=Sky%20Sport%202%20NZ
 
-#EXTINF:-1 group-title="Cricket",10:10 - Sydney Thunder Women vs Sydney Sixers Women
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F91a93f700c.m3u8&name=Willow%202%20Cricket
-
-#EXTINF:-1 group-title="Cricket",10:10 - Sydney Thunder Women vs Sydney Sixers Women
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9bec686fd0.m3u8&name=Sky%20Sports%20Cricket%20UK
-
-#EXTINF:-1 group-title="Cricket",12:00 - Desert Vipers vs MI Emirates
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
-
-#EXTINF:-1 group-title="Cricket",12:00 - Desert Vipers vs MI Emirates
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fd4a4fa01bf.m3u8&name=TNT%20Sports%204%20UK
-
-#EXTINF:-1 group-title="Cricket",16:30 - Dubai Capitals vs Gulf Giants
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
-
-#EXTINF:-1 group-title="Cricket",16:30 - Dubai Capitals vs Gulf Giants
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F3477a63c86.m3u8&name=TNT%20Sports%202%20UK
-
-#EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1f31c3c89a.m3u8&name=Willow%20Cricket
-
-#EXTINF:-1 group-title="Cricket",00:00 - New Zealand vs India
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8afdcdd622.m3u8&name=TNT%20Sports%201%20UK
-
-#EXTINF:-1 group-title="Golf",10:00 - Ladies European Tour Andalucia Costa del Sol Open de Espana Round 3
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F69e817d35c.m3u8&name=GOLF%20Channel%20USA
-
-#EXTINF:-1 group-title="Golf",10:00 - Ladies European Tour Andalucia Costa del Sol Open de Espana Round 3
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9f5dca47df.m3u8&name=Sky%20Sports%20Golf%20UK
-
-#EXTINF:-1 group-title="Golf",10:00 - Ladies European Tour Andalucia Costa del Sol Open de Espana Round 3
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4a2c801ab2.m3u8&name=Sky%20Sports%20Main%20Event%20UK
-
 #EXTINF:-1 group-title="Darts",15:00 - PDC Darts Ladbrokes Players Championship Finals Day 2
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F6c8a4bad9c.m3u8&name=ITV%204%20UK
 
@@ -1150,17 +1141,11 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Fa8
 #EXTINF:-1 group-title="Basketball",18:00 - Mississippi State Bulldogs vs TCU Horned Frogs
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Feb8882ff10.m3u8&name=ION%20USA
 
-#EXTINF:-1 group-title="Basketball",21:00 - North Carolina A&T Aggies vs Delaware State Hornets
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F0ff8b6a8e2.m3u8&name=USA%20Network
-
-#EXTINF:-1 group-title="Basketball",22:30 - Boise State Broncos vs North Texas Mean Green
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F0ff8b6a8e2.m3u8&name=USA%20Network
-
-#EXTINF:-1 group-title="Basketball",23:00 - Stony Brook Seawolves vs Delaware Blue Hens
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F81eec810d6.m3u8&name=SportsNet%20New%20York
-
 #EXTINF:-1 group-title="Basketball",23:00 - Towson Tigers vs Maryland Terrapins
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F8853be9c63.m3u8&name=Monumental%20Sports%20Network
+
+#EXTINF:-1 group-title="Basketball",23:00 - Stony Brook vs Delaware
+https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F81eec810d6.m3u8&name=SportsNet%20New%20York
 
 #EXTINF:-1 group-title="Basketball",23:30 - LSU Tigers vs NC State Wolfpack
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2Feb8882ff10.m3u8&name=ION%20USA
@@ -1179,9 +1164,6 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F4a
 
 #EXTINF:-1 group-title="Basketball",00:00 - Washington Wizards vs Orlando Magic
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F0b664491ee.m3u8&name=DAZN%20Baloncesto
-
-#EXTINF:-1 group-title="Basketball",00:00 - Cal State Bakersfield Roadrunners vs Northern Arizona Lumberjacks
-https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F0ff8b6a8e2.m3u8&name=USA%20Network
 
 #EXTINF:-1 group-title="Volleyball",18:00 - Spor Toto vs Ziraat Bankası
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F956213fe28.m3u8&name=Arena%20Sport%208%20Serbia
@@ -1423,41 +1405,41 @@ https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F6d
 #EXTINF:-1 group-title="Hockey",00:05 - Holy Cross Crusaders vs Air Force Falcons
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F7891d3533f.m3u8&name=NESN%20USA
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",13:00 - NFL Network
 https://ondemand.st/embed/?id=247-nfl-network
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - NFL Network
+#EXTINF:-1 group-title="24/7-streams",13:00 - NFL Network
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F1ac9bf5091.m3u8&name=NFL%20RedZone
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - Fox Footy
+#EXTINF:-1 group-title="24/7-streams",13:00 - Fox Footy
 https://ondemand.st/embed/?id=247-247-fox-footy
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - Willow
+#EXTINF:-1 group-title="24/7-streams",13:00 - Willow
 https://ondemand.st/embed/?id=247-247-willow
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - Fox Cricket
+#EXTINF:-1 group-title="24/7-streams",13:00 - Fox Cricket
 https://ondemand.st/embed/?id=247-247-fox-cricket
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - NHL Network
+#EXTINF:-1 group-title="24/7-streams",13:00 - NHL Network
 https://ondemand.st/embed/?id=247-nhl-network-29780
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - Fox League
+#EXTINF:-1 group-title="24/7-streams",13:00 - Fox League
 https://ondemand.st/embed/?id=247-247-fox-league
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - South Park
+#EXTINF:-1 group-title="24/7-streams",13:00 - South Park
 https://ondemand.st/embed/?id=247-247-south-park
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - Family Guy
+#EXTINF:-1 group-title="24/7-streams",13:00 - Family Guy
 https://ondemand.st/embed/?id=247-247-family-guy
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - The Simpsons
+#EXTINF:-1 group-title="24/7-streams",13:00 - The Simpsons
 https://ondemand.st/embed/?id=247-247-the-simpsons
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - Rally TV
+#EXTINF:-1 group-title="24/7-streams",13:00 - Rally TV
 https://ondemand.st/embed/?id=247-rally-tv
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - Tennis Channel
+#EXTINF:-1 group-title="24/7-streams",13:00 - Tennis Channel
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F229d7c7755.m3u8&name=Tennis%20Channel
 
-#EXTINF:-1 group-title="24/7-streams",10:59 - Sky Sports Golf
+#EXTINF:-1 group-title="24/7-streams",13:00 - Sky Sports Golf
 https://ondemand.st/player/hls/?v=542&url=https%3A%2F%2Fmessi.damitv.st%2Fc%2F9f5dca47df.m3u8&name=Sky%20Sports%20Golf

@@ -75,7 +75,28 @@
     "time": "14:30",
     "status": "next",
     "event_url": "https://footystreams.pk/events/norwich-vs-preston",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/norwich-vs-preston/4012",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/norwich-vs-preston/4013",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Real Betis Rayo Vallecano",
@@ -87,7 +108,38 @@
     "time": "15:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/real-betis-vs-rayo-vallecano",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-betis-vs-rayo-vallecano/4016",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/real-betis-vs-rayo-vallecano/4017",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://playerdee.top/alpha/real-betis-vs-rayo-vallecano/4018",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      }
+    ]
   },
   {
     "title": "Snooker UK Championship Snooker",
@@ -103,6 +155,16 @@
       {
         "label": "English",
         "url": "https://playerdee.top/alpha/snooker-uk-championship-live-stream/3814",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/snooker-uk-championship-live-stream/4015",
         "meta": {
           "mobile": "Yes",
           "quality": "720p",
@@ -157,7 +219,18 @@
     "time": "17:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/burnley-vs-millwall",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/burnley-vs-millwall/4014",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Leeds United Coventry City",

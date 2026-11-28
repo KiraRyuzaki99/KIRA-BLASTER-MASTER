@@ -73,7 +73,7 @@
     "end_iso": "2026-11-28T14:45:00.000Z",
     "date": "Saturday, 28 November 2026",
     "time": "14:30",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/norwich-vs-preston",
     "servers": [
       {
@@ -106,7 +106,7 @@
     "end_iso": "2026-11-28T15:15:00.000Z",
     "date": "Saturday, 28 November 2026",
     "time": "15:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/real-betis-vs-rayo-vallecano",
     "servers": [
       {
@@ -149,7 +149,7 @@
     "end_iso": "2026-12-02T23:00:00.000Z",
     "date": "Saturday, 28 November 2026",
     "time": "15:00",
-    "status": "next",
+    "status": "live",
     "event_url": "https://footystreams.pk/events/snooker-uk-championship-live-stream",
     "servers": [
       {
@@ -198,6 +198,39 @@
     ]
   },
   {
+    "title": "Bayern München Hamburger SV",
+    "category": "Bayern München",
+    "logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+    "start_iso": "2026-11-28T14:00:00.000Z",
+    "end_iso": "2026-11-28T16:15:00.000Z",
+    "date": "Saturday, 28 November 2026",
+    "time": "16:00",
+    "status": "next",
+    "event_url": "https://footystreams.pk/events/bayern-munchen-vs-hamburger-sv",
+    "servers": [
+      {
+        "label": "Deutsch",
+        "url": "https://playerdee.top/alpha/bayern-munchen-vs-hamburger-sv/4020",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/bayern-munchen-vs-hamburger-sv/4021",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
+  },
+  {
     "title": "Frosinone Calcio Parma",
     "category": "Frosinone Calcio",
     "logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
@@ -207,7 +240,18 @@
     "time": "16:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/frosinone-vs-parma",
-    "servers": []
+    "servers": [
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/frosinone-vs-parma/4019",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "Burnley FC Millwall FC",
@@ -242,7 +286,38 @@
     "time": "17:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/leeds-united-vs-coventry-city",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/leeds-united-vs-coventry-city/4024",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/leeds-united-vs-coventry-city/4025",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/leeds-united-vs-coventry-city/4026",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      }
+    ]
   },
   {
     "title": "Manchester United Brentford",
@@ -254,7 +329,58 @@
     "time": "17:00",
     "status": "next",
     "event_url": "https://footystreams.pk/events/man-united-vs-brentford",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/man-united-vs-brentford/4027",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/man-united-vs-brentford/4028",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/man-united-vs-brentford/4029",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Español",
+        "url": "https://playerdee.top/alpha/man-united-vs-brentford/4030",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Español"
+        }
+      },
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/man-united-vs-brentford/4031",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "Málaga Athletic Club",
@@ -266,7 +392,28 @@
     "time": "17:15",
     "status": "next",
     "event_url": "https://footystreams.pk/events/malaga-vs-athletic-club",
-    "servers": []
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/malaga-vs-athletic-club/4032",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Spanish",
+        "url": "https://playerdee.top/alpha/malaga-vs-athletic-club/4033",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Spanish"
+        }
+      }
+    ]
   },
   {
     "title": "Arouca Rio Ave",
@@ -278,7 +425,18 @@
     "time": "17:30",
     "status": "next",
     "event_url": "https://footystreams.pk/events/arouca-vs-rio-ave",
-    "servers": []
+    "servers": [
+      {
+        "label": "Portuguese",
+        "url": "https://playerdee.top/alpha/arouca-vs-rio-ave/4034",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Portuguese"
+        }
+      }
+    ]
   },
   {
     "title": "England New Zealand",
@@ -316,16 +474,37 @@
     "servers": []
   },
   {
-    "title": "Elche CF Atlético Madrid",
-    "category": "Elche CF",
-    "logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+    "title": "Eintracht Frankfurt Stuttgart",
+    "category": "Eintracht Frankfurt",
+    "logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
     "start_iso": "2026-11-28T17:30:00.000Z",
     "end_iso": "2026-11-28T19:45:00.000Z",
     "date": "Saturday, 28 November 2026",
     "time": "19:30",
     "status": "next",
-    "event_url": "https://footystreams.pk/events/elche-vs-atletico-madrid",
-    "servers": []
+    "event_url": "https://footystreams.pk/events/eintracht-frankfurt-vs-stuttgart",
+    "servers": [
+      {
+        "label": "English",
+        "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-stuttgart/4022",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "English"
+        }
+      },
+      {
+        "label": "Deutsch",
+        "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-stuttgart/4023",
+        "meta": {
+          "mobile": "Yes",
+          "quality": "720p",
+          "ads": "2",
+          "language": "Deutsch"
+        }
+      }
+    ]
   },
   {
     "title": "Aston Villa Ipswich Town",
@@ -340,15 +519,15 @@
     "servers": []
   },
   {
-    "title": "Eintracht Frankfurt Stuttgart",
-    "category": "Eintracht Frankfurt",
-    "logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
+    "title": "Elche CF Atlético Madrid",
+    "category": "Elche CF",
+    "logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
     "start_iso": "2026-11-28T17:30:00.000Z",
     "end_iso": "2026-11-28T19:45:00.000Z",
     "date": "Saturday, 28 November 2026",
     "time": "19:30",
     "status": "next",
-    "event_url": "https://footystreams.pk/events/eintracht-frankfurt-vs-stuttgart",
+    "event_url": "https://footystreams.pk/events/elche-vs-atletico-madrid",
     "servers": []
   },
   {
